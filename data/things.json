@@ -1,0 +1,3244 @@
+[
+  {
+    "id": "foam-brewers",
+    "name": "Foam Brewers",
+    "group": "Food & Drink",
+    "category": "Brewery & Cidery",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$",
+    "cost_note": "Pints ~$7–8; small plates available",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Groups & Friends",
+      "Date Night",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Lively",
+      "Lakeside",
+      "Outdoor Seating"
+    ],
+    "blurb": "Waterfront-adjacent hazy IPAs with a patio that fills up fast on warm evenings. Go on a Tuesday when the wait isn't and the light off the lake is still good. The Vacation IPA is a reliable starting point.",
+    "why_special": "Among the best-positioned outdoor drinking spots in Burlington — close enough to see the lake, with hazies that consistently punch above their regional weight.",
+    "address": "112 Lake Street, Burlington, VT",
+    "coords": [
+      44.4796,
+      -73.2191
+    ],
+    "website": "https://foambrewers.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "helloburlingtonvt.com / btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "zero-gravity-brewery",
+    "name": "Zero Gravity Craft Brewery",
+    "group": "Food & Drink",
+    "category": "Brewery & Cidery",
+    "neighborhood": "South End",
+    "cost_tier": "$",
+    "cost_note": "Pints ~$6–8; full menu at the brewpub",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Groups & Friends",
+      "Locals' Pick",
+      "Date Night"
+    ],
+    "vibe": [
+      "Laid-back",
+      "Local Institution"
+    ],
+    "blurb": "The Conehead IPA is what most people come for; the Clean State Pilsner is what makes regulars of them. Pine Street taproom is quieter than Foam and better suited to a long conversation.",
+    "why_special": "Rare in Vermont to find a brewery doing lagers as seriously as IPAs — the pilsner is one of the better pints in the state and almost always overlooked.",
+    "address": "716 Pine Street, Burlington, VT",
+    "coords": [
+      44.4668,
+      -73.2121
+    ],
+    "website": "https://zerogravitybeer.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "helloburlingtonvt.com / btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "switchback-brewing",
+    "name": "Switchback Brewing Co.",
+    "group": "Food & Drink",
+    "category": "Brewery & Cidery",
+    "neighborhood": "South End",
+    "cost_tier": "$",
+    "cost_note": "Pints ~$6; flights available",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Groups & Friends",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Laid-back",
+      "Local Institution",
+      "Dog-Friendly"
+    ],
+    "blurb": "Vermont's most widely distributed beer, still made unfiltered and hazy the way it was in 1996. The taproom is an unfussy warehouse on Flynn Ave that hasn't chased trends and is better for it. Go on a weekday afternoon.",
+    "why_special": "One of only a handful of American breweries with an unfiltered flagship as its core product — the formula hasn't changed in thirty years and that's the point.",
+    "address": "160 Flynn Avenue, Burlington, VT",
+    "coords": [
+      44.4706,
+      -73.2144
+    ],
+    "website": "https://www.switchbackvt.com",
+    "image": null,
+    "has_guide": true,
+    "guide_id": "switchback-brewing",
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "burlington-beer-company",
+    "name": "Burlington Beer Company",
+    "group": "Food & Drink",
+    "category": "Brewery & Cidery",
+    "neighborhood": "South End",
+    "cost_tier": "$",
+    "cost_note": "Pints ~$7; flights recommended",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Groups & Friends",
+      "Visitors"
+    ],
+    "vibe": [
+      "Lively"
+    ],
+    "blurb": "A big converted warehouse taproom with 30+ taps and a rotating list that swings between reliable and experimental. Good for a group that can't agree on a style.",
+    "why_special": "The sheer range — usually the widest tap list of any Burlington brewery — makes this the best single stop for covering the full spectrum of Vermont brewing styles.",
+    "address": "180 Flynn Avenue, Burlington, VT",
+    "coords": [
+      44.4711,
+      -73.2139
+    ],
+    "website": "https://www.burlingtonbeercompany.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "vermont-pub-brewery",
+    "name": "Vermont Pub & Brewery",
+    "group": "Food & Drink",
+    "category": "Brewery & Cidery",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$$",
+    "cost_note": "Pints ~$7; full pub menu",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening",
+      "Late Night"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Groups & Friends",
+      "Visitors",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Historic",
+      "Local Institution",
+      "Cozy"
+    ],
+    "blurb": "Vermont's original brewpub, opened in 1988 by Greg Noonan, whose textbook on lager brewing is still referenced by professional brewers. The booths in back are older than most of the state's craft breweries.",
+    "why_special": "Greg Noonan literally wrote the book on American lager brewing and opened this in 1988 — this is where Vermont craft beer started.",
+    "address": "144 College Street, Burlington, VT",
+    "coords": [
+      44.4774,
+      -73.214
+    ],
+    "website": "https://www.vermontbrewery.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "citizen-cider",
+    "name": "Citizen Cider",
+    "group": "Food & Drink",
+    "category": "Brewery & Cidery",
+    "neighborhood": "South End",
+    "cost_tier": "$",
+    "cost_note": "Tastings ~$5–7; full food menu",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Groups & Friends",
+      "Date Night",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Laid-back",
+      "Outdoor Seating",
+      "Dog-Friendly"
+    ],
+    "blurb": "Hard cider from Vermont apples at a Pine Street taproom that does food well enough to justify a full evening. The Wit's Up is the right first pour for anyone who doesn't usually drink cider.",
+    "why_special": "Local apple sourcing creates a flavor profile noticeably different from mass-produced cider; the kitchen is capable enough that this functions as a restaurant, not just a tasting room.",
+    "address": "316 Pine Street, Burlington, VT",
+    "coords": [
+      44.4658,
+      -73.2128
+    ],
+    "website": "https://www.citizencider.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "fiddlehead-brewing",
+    "name": "Fiddlehead Brewing Company",
+    "group": "Food & Drink",
+    "category": "Brewery & Cidery",
+    "neighborhood": "Shelburne",
+    "cost_tier": "$",
+    "cost_note": "Pints ~$7; Folino's pizza next door (BYOB)",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Locals' Pick",
+      "Groups & Friends"
+    ],
+    "vibe": [
+      "Laid-back",
+      "Underrated"
+    ],
+    "blurb": "Shelburne's open secret, known best by the people who follow Thursday can releases on social media. The IPA sells out. The taproom is low-key; the beer isn't.",
+    "why_special": "Fiddlehead IPA has one of the strongest cult followings in Vermont despite minimal marketing — the Thursday release draws a crowd that drives from an hour away.",
+    "address": "6305 Shelburne Road, Shelburne, VT",
+    "coords": [
+      44.3933,
+      -73.1941
+    ],
+    "website": "https://www.fiddleheadbrewing.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "shelburne-vineyard",
+    "name": "Shelburne Vineyard",
+    "group": "Food & Drink",
+    "category": "Brewery & Cidery",
+    "neighborhood": "Shelburne",
+    "cost_tier": "$$",
+    "cost_note": "Tastings ~$15–20; bottles $18–35",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Date Night",
+      "Visitors",
+      "Special Occasion"
+    ],
+    "vibe": [
+      "Romantic",
+      "Scenic"
+    ],
+    "blurb": "Cold-climate wines from grapes grown on the property — Marquette reds and La Crescent whites designed for Vermont winters. The grounds in September, when harvest is on, are the best argument for visiting in fall.",
+    "why_special": "One of the few Vermont wineries actually growing on-site rather than importing fruit — the Marquette grape was bred specifically for northern winters and the result shows in the wine.",
+    "address": "6308 Shelburne Road, Shelburne, VT",
+    "coords": [
+      44.3919,
+      -73.2097
+    ],
+    "website": "https://www.shelburnevineyard.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "skinny-pancake",
+    "name": "The Skinny Pancake",
+    "group": "Food & Drink",
+    "category": "Restaurant",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$",
+    "cost_note": "Crepes $8–14",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Date Night",
+      "Visitors",
+      "Sunny Day",
+      "Cheap Eats"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Outdoor Seating",
+      "Scenic"
+    ],
+    "blurb": "Sweet and savory crepes on the waterfront, with patio tables that fill up by noon in summer. The maple-apple crepe in fall is hard to argue with. Local ingredients throughout.",
+    "why_special": "The most scenic outdoor dining on Burlington's Lake Champlain shoreline — the patio directly faces the water in a way that most 'waterfront' restaurants don't.",
+    "address": "60 Lake Street, Burlington, VT",
+    "coords": [
+      44.4789,
+      -73.2216
+    ],
+    "website": "https://www.skinnypancake.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "farmhouse-tap-grill",
+    "name": "Farmhouse Tap & Grill",
+    "group": "Food & Drink",
+    "category": "Restaurant",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$$",
+    "cost_note": "Burgers $16–20; entrees $18–28",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Date Night",
+      "Groups & Friends",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Cozy",
+      "Local Institution",
+      "Outdoor Seating"
+    ],
+    "blurb": "Farm-to-table in the most Vermont-specific sense: suppliers are named on the menu and most are within thirty miles. The beef burger is the standard against which Burlington burgers get measured.",
+    "why_special": "Individual supplier names on the menu — not just 'local farms' — with a traceability that's genuinely unusual at a restaurant of this price point.",
+    "address": "160 Bank Street, Burlington, VT",
+    "coords": [
+      44.4772,
+      -73.214
+    ],
+    "website": "https://www.farmhousetg.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "shanty-on-shore",
+    "name": "Shanty on the Shore",
+    "group": "Food & Drink",
+    "category": "Restaurant",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$$",
+    "cost_note": "Lobster roll ~$28; lunch entrees $14–22",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Date Night",
+      "Visitors",
+      "Special Occasion",
+      "Groups & Friends"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Scenic",
+      "Romantic"
+    ],
+    "blurb": "Burlington's waterfront seafood institution, with a deck over the water and a raw bar that doesn't pretend Vermont borders an ocean. The lobster roll is the standard order. Go for lunch when the deck isn't crowded.",
+    "why_special": "The only full-service waterfront seafood restaurant in downtown Burlington, operating continuously since the Battery Street dock era.",
+    "address": "181 Battery Street, Burlington, VT",
+    "coords": [
+      44.4797,
+      -73.2194
+    ],
+    "website": "https://www.shantyontheshore.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "helloburlingtonvt.com / btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "splash-boathouse",
+    "name": "Splash at the Boathouse",
+    "group": "Food & Drink",
+    "category": "Restaurant",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$",
+    "cost_note": "Casual; food ~$10–18",
+    "season": [
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Groups & Friends",
+      "Locals' Pick",
+      "Sunny Day",
+      "Visitors"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Laid-back",
+      "Outdoor Seating"
+    ],
+    "blurb": "Casual dock food and drinks at the Community Boathouse, with direct lake views and the loosest dress code on the waterfront. Best for a beer while watching boat traffic clear the marina.",
+    "why_special": "Sits directly on the public marina dock — you're watching working boats leave the slip, not a parking lot interpretation of 'waterfront.'",
+    "address": "Community Boathouse, Burlington, VT",
+    "coords": [
+      44.4797,
+      -73.2253
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "als-french-fries",
+    "name": "Al's French Fries",
+    "group": "Food & Drink",
+    "category": "Restaurant",
+    "neighborhood": "South Burlington",
+    "cost_tier": "$",
+    "cost_note": "Fries ~$4–6; creemee ~$3",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Cheap Eats",
+      "Family & Kids",
+      "Quick Stop",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Local Institution",
+      "Kid-Friendly"
+    ],
+    "blurb": "Fresh-cut fries from a South Burlington spot running since 1948. The formula hasn't needed revision in 76 years. The soft-serve is mandatory and Vermont-correct.",
+    "why_special": "Fries cut from whole potatoes in-house daily — a textural difference from frozen alternatives that's been the point since Eisenhower was president.",
+    "address": "1251 Williston Road, South Burlington, VT",
+    "coords": [
+      44.4541,
+      -73.182
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "burlington-bay-creemee",
+    "name": "Burlington Bay Market & Café",
+    "group": "Food & Drink",
+    "category": "Sweet Treats",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$",
+    "cost_note": "Creemees ~$4–5",
+    "season": [
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Quick Stop",
+      "Family & Kids",
+      "Visitors",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Kid-Friendly",
+      "Local Institution"
+    ],
+    "blurb": "A bayside market and café best known for Vermont creemees made with local dairy, with flavors that rotate by the week. The location near Perkins Pier makes it the right last stop before a waterfront walk.",
+    "why_special": "One of the only places on the Burlington waterfront where you can get a creemee within sight of the lake — the combination of that view and maple soft-serve is hard to improve on.",
+    "address": "Perkins Pier, Burlington, VT",
+    "coords": [
+      44.4794,
+      -73.2206
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "ben-jerrys-church-street",
+    "name": "Ben & Jerry's (Church Street Scoop Shop)",
+    "group": "Food & Drink",
+    "category": "Sweet Treats",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$",
+    "cost_note": "Scoops ~$5–7",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Family & Kids",
+      "Quick Stop",
+      "Visitors"
+    ],
+    "vibe": [
+      "Kid-Friendly",
+      "Iconic"
+    ],
+    "blurb": "The downtown scoop shop a few blocks from the gas station on St. Paul Street where Ben and Jerry started in 1978. Mostly symbolic — but the soft-serve is better than expected.",
+    "why_special": "The original gas station location (St. Paul Street, two blocks away) is a Vermont origin story; this is the closest you get to the source without driving to Waterbury.",
+    "address": "82 Church Street, Burlington, VT",
+    "coords": [
+      44.4774,
+      -73.2125
+    ],
+    "website": "https://www.benjerry.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "penny-cluse-cafe",
+    "name": "Penny Cluse Café",
+    "group": "Food & Drink",
+    "category": "Cafe & Bakery",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$",
+    "cost_note": "Breakfast/brunch $10–16",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Locals' Pick",
+      "Solo",
+      "Date Night"
+    ],
+    "vibe": [
+      "Cozy",
+      "Local Institution"
+    ],
+    "blurb": "Burlington's most beloved breakfast spot — the ginger pancakes and huevos rancheros explain the Saturday morning wait, which is also a social event. Opens at 6:45 AM on weekdays.",
+    "why_special": "The ginger pancakes have been a Burlington breakfast landmark for over twenty years; the kitchen has been consistent for that entire run in a way that's unusual.",
+    "address": "169 Cherry Street, Burlington, VT",
+    "coords": [
+      44.4766,
+      -73.2136
+    ],
+    "website": "https://www.pennycluse.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "bluebird-bbq",
+    "name": "Bluebird Barbecue",
+    "group": "Food & Drink",
+    "category": "Restaurant",
+    "neighborhood": "South End",
+    "cost_tier": "$",
+    "cost_note": "Plates $14–22; brisket sells out early",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Groups & Friends",
+      "Cheap Eats",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Laid-back",
+      "Outdoor Seating"
+    ],
+    "blurb": "South End BBQ with long-smoked brisket and house-made sides, in an outdoor picnic-table setup that suits the industrial neighborhood. Get there before the brisket sells out.",
+    "why_special": "The brisket sells out regularly — a reliable indicator that the smoke is genuine, not the chain-restaurant approximation.",
+    "address": "317 Riverside Avenue, Burlington, VT",
+    "coords": [
+      44.4667,
+      -73.2135
+    ],
+    "website": "https://www.bluebirdbbq.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "leunigs-bistro",
+    "name": "Leunig's Bistro & Café",
+    "group": "Food & Drink",
+    "category": "Restaurant",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$$$",
+    "cost_note": "Dinner entrees $24–38",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Date Night",
+      "Special Occasion",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Romantic",
+      "Historic",
+      "Outdoor Seating"
+    ],
+    "blurb": "A French-style bistro on Church Street that's been there long enough to feel like civic infrastructure. Outdoor café seating on the pedestrian mall; the wine list is better than the prices suggest.",
+    "why_special": "One of Burlington's longest-standing restaurants — the outdoor Church Street café seating is among the best people-watching positions in the city.",
+    "address": "115 Church Street, Burlington, VT",
+    "coords": [
+      44.4771,
+      -73.213
+    ],
+    "website": "https://www.leunigs.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "archives-bar",
+    "name": "The Archives",
+    "group": "Food & Drink",
+    "category": "Bar & Nightlife",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$",
+    "cost_note": "Drinks $6–12; no game fees",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening",
+      "Late Night"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Groups & Friends",
+      "Date Night",
+      "Rainy Day"
+    ],
+    "vibe": [
+      "Lively",
+      "Quirky"
+    ],
+    "blurb": "A downtown bar with dozens of arcade games and pinball alongside craft beer and cocktails. The games actually work, which isn't a given for bars of this type.",
+    "why_special": "The game selection is curated — you'll find machines that haven't been in wide circulation since the '80s alongside well-maintained modern cabinets; no quarters needed.",
+    "address": "N. Winooski Avenue, Burlington, VT",
+    "coords": [
+      44.4763,
+      -73.2127
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "nectar-bar",
+    "name": "Nectar's",
+    "group": "Live & Events",
+    "category": "Music Venue",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$",
+    "cost_note": "Cover $5–15; gravy fries ~$6",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Evening",
+      "Late Night"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Groups & Friends",
+      "Locals' Pick",
+      "Date Night"
+    ],
+    "vibe": [
+      "Lively",
+      "Historic",
+      "Local Institution"
+    ],
+    "blurb": "The Main Street bar where Phish played their first shows in 1983. The gravy fries are unreasonable and not optional. Still runs live music most nights; still doesn't feel like a museum.",
+    "why_special": "The birthplace of Phish's live career — a genuinely historic music venue that has stayed operational rather than becoming a tribute to itself.",
+    "address": "188 Main Street, Burlington, VT",
+    "coords": [
+      44.4766,
+      -73.2121
+    ],
+    "website": "https://www.liveatnectars.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "radio-bean",
+    "name": "Radio Bean",
+    "group": "Live & Events",
+    "category": "Music Venue",
+    "neighborhood": "Old North End",
+    "cost_tier": "$",
+    "cost_note": "No cover most nights; drinks $5–10",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening",
+      "Late Night"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Locals' Pick",
+      "Solo",
+      "Date Night"
+    ],
+    "vibe": [
+      "Quirky",
+      "Cozy",
+      "Local Institution"
+    ],
+    "blurb": "A North Winooski coffee shop that turns into a live music venue by evening — folk, jazz, experimental, everything between. The back room (Light Club Lamp Shop) adds a second stage and several hundred vintage lamps for sale.",
+    "why_special": "The combination of coffee-shop daytime, eclectic evening programming, and lamp-filled back room creates something that doesn't exist anywhere else in Vermont.",
+    "address": "8 N. Winooski Avenue, Burlington, VT",
+    "coords": [
+      44.4775,
+      -73.2151
+    ],
+    "website": "https://www.radiobean.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "north-beach",
+    "name": "North Beach",
+    "group": "Outdoors",
+    "category": "Beach & Waterfront",
+    "neighborhood": "New North End",
+    "cost_tier": "$",
+    "cost_note": "Parking fee in summer; beach access free",
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Family & Kids",
+      "Groups & Friends",
+      "Visitors",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Lively",
+      "Kid-Friendly"
+    ],
+    "blurb": "Burlington's most social beach — lifeguards, a concession stand, a campground that fills early, and a view of the Adirondacks across forty miles of water. Arrives at capacity on hot August weekends by 11 AM.",
+    "why_special": "The only sandy Burlington beach with lifeguards on duty; the on-site campground is one of the only in-city camping options in Vermont.",
+    "address": "60 Institute Road, Burlington, VT",
+    "coords": [
+      44.4987,
+      -73.233
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "oakledge-park",
+    "name": "Oakledge Park",
+    "group": "Outdoors",
+    "category": "Park & Green Space",
+    "neighborhood": "South End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Family & Kids",
+      "Locals' Pick",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Kid-Friendly",
+      "Dog-Friendly"
+    ],
+    "blurb": "A 45-acre South End park with the world's first fully ADA-accessible treehouse, sand volleyball, and the best of Burlington's red-rock swimming spots. Quieter than North Beach and worth it.",
+    "why_special": "The world's first fully ADA-accessible treehouse is here, designed so wheelchair users reach the canopy; the Cove's red-rock ledges attract the locals who know the park well.",
+    "address": "Flynn Avenue, Burlington, VT",
+    "coords": [
+      44.4551,
+      -73.2237
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "leddy-beach",
+    "name": "Leddy Beach",
+    "group": "Outdoors",
+    "category": "Beach & Waterfront",
+    "neighborhood": "New North End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Family & Kids",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Laid-back",
+      "Dog-Friendly"
+    ],
+    "blurb": "The North End's beach — accessible from the Greenway, calmer crowd than North Beach. The Wednesday summer food truck series (Leddy Beach Bites) is the neighborhood's weekly ritual.",
+    "why_special": "The Wednesday Leddy Beach Bites series gives this beach a standing weekly event that North Beach lacks — it's a neighborhood living room with a lake view.",
+    "address": "Leddy Park Road, Burlington, VT",
+    "coords": [
+      44.4913,
+      -73.2319
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "texaco-beach",
+    "name": "Texaco Beach (Dog Beach)",
+    "group": "Outdoors",
+    "category": "Beach & Waterfront",
+    "neighborhood": "Waterfront",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Dog-Friendly",
+      "Laid-back"
+    ],
+    "blurb": "Burlington's designated off-leash dog beach on the Greenway, named for the former gas station that stood here. A social gathering for the dog-owning half of the city on any warm afternoon.",
+    "why_special": "Burlington's only designated off-leash dog beach — the only stretch of waterfront where dogs can swim without a leash.",
+    "address": "Burlington Greenway, Burlington, VT",
+    "coords": [
+      44.4847,
+      -73.229
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "waterfront-park",
+    "name": "Waterfront Park",
+    "group": "Outdoors",
+    "category": "Park & Green Space",
+    "neighborhood": "Waterfront",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Visitors",
+      "Locals' Pick",
+      "Date Night",
+      "Family & Kids",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Iconic",
+      "Scenic"
+    ],
+    "blurb": "The green lawn and yellow porch swings facing the Adirondacks — the place in Burlington that appears in every summer photo. Festival venue in season, genuinely beautiful out of season.",
+    "why_special": "The yellow porch swings facing west over the lake at sunset are the most photographed spot in Burlington — and they deliver on the promise every clear evening.",
+    "address": "College Street, Burlington, VT",
+    "coords": [
+      44.4804,
+      -73.22
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "burlington-greenway",
+    "name": "Burlington Bike Path (The Greenway)",
+    "group": "Outdoors",
+    "category": "Trail & Hike",
+    "neighborhood": "Waterfront",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Visitors",
+      "Family & Kids",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Scenic",
+      "Dog-Friendly"
+    ],
+    "blurb": "Eight miles of paved car-free path along Burlington's Lake Champlain waterfront, connecting every major park from Winooski to Oakledge. Bikeable end-to-end in 25 minutes; runnable in an hour.",
+    "why_special": "The only continuous car-free corridor along Burlington's lakefront — it connects beaches, parks, and neighborhoods that would otherwise require navigating traffic.",
+    "address": "Burlington Waterfront, Burlington, VT",
+    "coords": [
+      44.4804,
+      -73.2225
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "island-line-causeway",
+    "name": "Island Line Trail & Lake Champlain Causeway",
+    "group": "Outdoors",
+    "category": "Trail & Hike",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$",
+    "cost_note": "Trail free; causeway ferry $4",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Visitors",
+      "Half Day",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Scenic",
+      "Iconic"
+    ],
+    "blurb": "The old railroad causeway extending 3.5 miles into Lake Champlain, surrounded by water on both sides. Take the $4 seasonal ferry across the gap to reach South Hero island. The wind at the midpoint is real.",
+    "why_special": "Nowhere else in Vermont do you ride a bike surrounded by open water on both sides — the causeway gap ferry is the only way to complete the crossing without turning around.",
+    "address": "Colchester Avenue, Burlington, VT",
+    "coords": [
+      44.4906,
+      -73.2312
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "red-rocks-park",
+    "name": "Red Rocks Park",
+    "group": "Outdoors",
+    "category": "Park & Green Space",
+    "neighborhood": "South Burlington",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Sunny Day",
+      "Solo"
+    ],
+    "vibe": [
+      "Scenic",
+      "Laid-back",
+      "Dog-Friendly",
+      "Underrated"
+    ],
+    "blurb": "South Burlington's park with trail access to dramatic red-rock cliffs and a sandy beach. The Permian-era formations are geologically distinct from anything else around Burlington — this doesn't look like Vermont.",
+    "why_special": "The red cliffs are 270-million-year-old Permian flood-plain deposits; the geological story is unusual, and the formations make the beach feel like a different landscape entirely.",
+    "address": "Red Rocks Park Road, South Burlington, VT",
+    "coords": [
+      44.4461,
+      -73.2228
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "ethan-allen-park",
+    "name": "Ethan Allen Park",
+    "group": "Outdoors",
+    "category": "Park & Green Space",
+    "neighborhood": "New North End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Solo",
+      "Family & Kids"
+    ],
+    "vibe": [
+      "Historic",
+      "Scenic",
+      "Laid-back"
+    ],
+    "blurb": "A 67-acre New North End park with a 1905 stone observation tower and forested trails. The hilltop view over the city and lake is one of the better ones in Burlington. Tower access is seasonal.",
+    "why_special": "The stone observation tower, built in 1905 in a Federal-era park style, is one of Burlington's few remaining historic park follies — the lake view from the top rewards the timing.",
+    "address": "Ethan Allen Parkway, Burlington, VT",
+    "coords": [
+      44.5009,
+      -73.229
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "intervale-center",
+    "name": "Intervale Center",
+    "group": "Outdoors",
+    "category": "Park & Green Space",
+    "neighborhood": "New North End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Solo",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Scenic",
+      "Laid-back",
+      "Underrated"
+    ],
+    "blurb": "Three hundred sixty acres of working organic farms and public trails threading through the Winooski River floodplain. The weekly summer CSA market draws locals. The fog in the basin on autumn mornings is worth an alarm.",
+    "why_special": "An actively farmed urban agricultural center — not a demonstration garden — with public trail access through working growing land and a river corridor most Burlington residents have never walked.",
+    "address": "180 Intervale Road, Burlington, VT",
+    "coords": [
+      44.4857,
+      -73.2093
+    ],
+    "website": "https://www.intervale.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "centennial-woods",
+    "name": "Centennial Woods Natural Area",
+    "group": "Outdoors",
+    "category": "Park & Green Space",
+    "neighborhood": "UVM / University",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Solo",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Underrated",
+      "Laid-back"
+    ],
+    "blurb": "Sixty-five acres of hemlock forest tucked behind UVM, with a boardwalk over a kettle pond and birdlife normally found in more remote terrain. Locals a mile away don't know it exists.",
+    "why_special": "Old-growth-adjacent hemlock woodland within walking distance of a major university — a genuinely wild quiet in the middle of the city that most students leave without ever finding.",
+    "address": "Carrigan Drive, Burlington, VT",
+    "coords": [
+      44.469,
+      -73.1936
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "mt-philo-state-park",
+    "name": "Mt. Philo State Park",
+    "group": "Outdoors",
+    "category": "Trail & Hike",
+    "neighborhood": "Shelburne",
+    "cost_tier": "$",
+    "cost_note": "Day-use fee ~$5",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Family & Kids",
+      "Visitors",
+      "Half Day",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Scenic",
+      "Laid-back"
+    ],
+    "blurb": "A short, manageable climb to a 968-foot summit with a panoramic view of Lake Champlain, the Champlain Valley, and the Adirondacks. A drive-up road makes it accessible even when hiking isn't the goal.",
+    "why_special": "Vermont's most accessible panoramic Champlain Valley view — the summit rewards minimal effort with the widest open perspective in the immediate region.",
+    "address": "5425 Mt. Philo Road, Charlotte, VT",
+    "coords": [
+      44.3337,
+      -73.229
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "niquette-bay-state-park",
+    "name": "Niquette Bay State Park",
+    "group": "Outdoors",
+    "category": "Trail & Hike",
+    "neighborhood": "Colchester",
+    "cost_tier": "$",
+    "cost_note": "Day-use fee ~$5",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Solo",
+      "Half Day"
+    ],
+    "vibe": [
+      "Scenic",
+      "Laid-back",
+      "Underrated"
+    ],
+    "blurb": "A Colchester gem with trails through old forest and meadows, ending at cobbled Lake Champlain beaches. The Lone Tree Hill loop takes about an hour and finishes at the water.",
+    "why_special": "One of the few Chittenden County parks where you hike from old-growth forest to lakeside cobble beach without leaving the same trail system.",
+    "address": "42 Niquette Bay Road, Colchester, VT",
+    "coords": [
+      44.5566,
+      -73.3113
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "camels-hump",
+    "name": "Camel's Hump",
+    "group": "Outdoors",
+    "category": "Trail & Hike",
+    "neighborhood": "Greater Burlington",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Solo",
+      "Groups & Friends",
+      "Half Day"
+    ],
+    "vibe": [
+      "Scenic",
+      "Iconic"
+    ],
+    "blurb": "Vermont's most iconic summit that isn't Mansfield — 4,083 feet with views to the Adirondacks and White Mountains on a clear day. Plan 5–6 hours, real footwear, and an early start on summer weekends.",
+    "why_special": "The most recognizable mountain silhouette in Vermont; the Long Trail runs across the exposed talus summit, making the ascent feel like joining a longer journey rather than an out-and-back.",
+    "address": "Couching Lion Farm Road, Duxbury, VT",
+    "coords": [
+      44.3192,
+      -72.8898
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "shelburne-bay-park",
+    "name": "Shelburne Bay Park",
+    "group": "Outdoors",
+    "category": "Trail & Hike",
+    "neighborhood": "Shelburne",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Solo",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Scenic",
+      "Underrated",
+      "Laid-back"
+    ],
+    "blurb": "A 93-acre Shelburne preserve with a forested loop to an unmarked lookout over Shelburne Bay. Lightly signed and lightly visited — bring a map. The bay view at the end is worth the navigation.",
+    "why_special": "One of Chittenden County's best unmarked lookouts — the trail doesn't advertise itself, and the reward is proportional to the effort of finding it.",
+    "address": "Bay Road, Shelburne, VT",
+    "coords": [
+      44.4077,
+      -73.2369
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "vermontexplored.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "community-sailing-center",
+    "name": "Community Sailing Center",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$$",
+    "cost_note": "Day memberships for kayak/SUP rental; lesson packages vary",
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Visitors",
+      "Family & Kids"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Laid-back"
+    ],
+    "blurb": "Burlington's nonprofit sailing school with summer lessons, junior programs, and daily 7 AM yoga on the floating dock. Day memberships let visitors rent kayaks without a lesson requirement.",
+    "why_special": "7 AM lakeside yoga on the floating dock is one of the more quietly lovely Burlington summer rituals; the nonprofit model keeps access broad and the instructors genuinely good.",
+    "address": "1 Steele Street, Burlington, VT",
+    "coords": [
+      44.4785,
+      -73.2233
+    ],
+    "website": "https://www.communitysailingcenter.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "spirit-of-ethan-allen",
+    "name": "Spirit of Ethan Allen",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$$",
+    "cost_note": "Lunch cruise ~$35; dinner cruise ~$55",
+    "season": [
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Date Night",
+      "Visitors",
+      "Special Occasion",
+      "Family & Kids"
+    ],
+    "vibe": [
+      "Romantic",
+      "Lakeside",
+      "Scenic"
+    ],
+    "blurb": "Vermont's largest lake cruise vessel — narrated excursions on Lake Champlain all week in season. The sunset dinner cruise is the version worth taking. The July 3rd fireworks cruise books out weeks ahead.",
+    "why_special": "The only way to experience Burlington from the water without operating a boat yourself; the July 3rd fireworks cruise is the most in-demand single ticket in the city that evening.",
+    "address": "Perkins Pier, Burlington, VT",
+    "coords": [
+      44.4797,
+      -73.2253
+    ],
+    "website": "https://www.soea.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "whistling-man-schooner",
+    "name": "Whistling Man Schooner Company",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$$",
+    "cost_note": "Public sails ~$45–55/person",
+    "season": [
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Date Night",
+      "Special Occasion",
+      "Visitors"
+    ],
+    "vibe": [
+      "Romantic",
+      "Lakeside",
+      "Scenic"
+    ],
+    "blurb": "Two-hour evening sails on a classic schooner out of the Community Boathouse. Maximum ten guests. Bring a layer — the lake runs ten degrees cooler than shore. BYOB.",
+    "why_special": "Sailing on a real working schooner, not a motorized tour boat — a meaningfully different experience on the water, especially after dark when the Adirondacks go dark.",
+    "address": "Burlington Waterfront, Burlington, VT",
+    "coords": [
+      44.4797,
+      -73.225
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "echo-leahy-center",
+    "name": "ECHO Leahy Center for Lake Champlain",
+    "group": "Culture",
+    "category": "Museum",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$$",
+    "cost_note": "Adults ~$17; kids ~$13",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Family & Kids",
+      "Visitors",
+      "Rainy Day"
+    ],
+    "vibe": [
+      "Kid-Friendly",
+      "Lakeside"
+    ],
+    "blurb": "A lake-science museum where the stars are the ones nobody photographs: tanks of Champlain's own frogs, turtles, and the lake monster lore. Best with kids, or on a rainy afternoon when the waterfront is a wash.",
+    "why_special": "The live Champlain aquatic species exhibits are genuinely unusual — most science museums don't source their tanks from the body of water they're named after.",
+    "address": "1 College Street, Burlington, VT",
+    "coords": [
+      44.4788,
+      -73.2215
+    ],
+    "website": "https://www.echovermont.org",
+    "image": null,
+    "has_guide": true,
+    "guide_id": "echo-leahy-center",
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "shelburne-museum",
+    "name": "Shelburne Museum",
+    "group": "Culture",
+    "category": "Museum",
+    "neighborhood": "Shelburne",
+    "cost_tier": "$$",
+    "cost_note": "Adults ~$25; kids ~$14; seasonal",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Visitors",
+      "Family & Kids",
+      "Half Day",
+      "Date Night"
+    ],
+    "vibe": [
+      "Historic",
+      "Scenic",
+      "Iconic"
+    ],
+    "blurb": "Thirty-nine historic buildings across 45 acres — including a lighthouse moved from Colchester Point and the Ticonderoga steamboat beached on the grounds. Vermont folk art and Americana at a scale that surprises first-timers.",
+    "why_special": "The SS Ticonderoga — a full-scale 1906 side-wheel steamboat, moved overland and permanently installed on the grounds — is one of the stranger and more remarkable objects in the Northeast.",
+    "address": "6000 Shelburne Road, Shelburne, VT",
+    "coords": [
+      44.3852,
+      -73.2303
+    ],
+    "website": "https://www.shelburnemuseum.org",
+    "image": null,
+    "has_guide": true,
+    "guide_id": "shelburne-museum",
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "fleming-museum",
+    "name": "Fleming Museum of Art",
+    "group": "Culture",
+    "category": "Museum",
+    "neighborhood": "UVM / University",
+    "cost_tier": "$",
+    "cost_note": "Adults ~$5; UVM students free",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Solo",
+      "Date Night",
+      "Rainy Day",
+      "Visitors"
+    ],
+    "vibe": [
+      "Underrated",
+      "Historic"
+    ],
+    "blurb": "UVM's art museum with a collection spanning 4,000 years — Egyptian antiquities to contemporary Vermont work in under an hour. Free for UVM students; reasonably priced for everyone else. Quieter than any Saturday morning warrants.",
+    "why_special": "A genuinely diverse permanent collection spanning millennia and continents, in a university museum that gets far less local attention than it deserves.",
+    "address": "61 Colchester Avenue, Burlington, VT",
+    "coords": [
+      44.4772,
+      -73.1955
+    ],
+    "website": "https://www.flemingmuseum.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "bca-center",
+    "name": "BCA Center",
+    "group": "Culture",
+    "category": "Gallery & Public Art",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Solo",
+      "Visitors",
+      "Quick Stop",
+      "Date Night"
+    ],
+    "vibe": [
+      "Underrated",
+      "Quirky"
+    ],
+    "blurb": "Burlington City Arts' main gallery on Church Street, hosting rotating contemporary shows with a bias toward New England artists. Free admission; the work routinely surprises people who walk in off the street.",
+    "why_special": "Free admission and consistently strong programming — the best-value gallery in the city for people who don't usually go to galleries.",
+    "address": "135 Church Street, Burlington, VT",
+    "coords": [
+      44.4774,
+      -73.2127
+    ],
+    "website": "https://www.burlingtoncityarts.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "frog-hollow-gallery",
+    "name": "Frog Hollow Vermont Craft Gallery",
+    "group": "Culture",
+    "category": "Gallery & Public Art",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "Free",
+    "cost_note": "Browsing free; Vermont craft for purchase",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Visitors",
+      "Quick Stop",
+      "Solo"
+    ],
+    "vibe": [
+      "Local Institution",
+      "Cozy"
+    ],
+    "blurb": "Juried works from hundreds of Vermont artisans — ceramics, fiber, glass, jewelry — in a Church Street space that feels like a distillation of what Vermont makes well. The standard for Vermont craft retail.",
+    "why_special": "Juried membership means every piece has been vetted — the quality floor is high in a way that makes it meaningfully different from a gift shop.",
+    "address": "85 Church Street, Burlington, VT",
+    "coords": [
+      44.478,
+      -73.2133
+    ],
+    "website": "https://www.froghollowvt.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "south-end-arts-district",
+    "name": "South End Arts District",
+    "group": "Culture",
+    "category": "Gallery & Public Art",
+    "neighborhood": "South End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Locals' Pick",
+      "Visitors",
+      "Solo",
+      "Half Day"
+    ],
+    "vibe": [
+      "Quirky",
+      "Underrated"
+    ],
+    "blurb": "Studios, galleries, and makers along Pine Street in converted industrial buildings. The most interesting art in Burlington isn't on Church Street — it's in the back rooms of buildings that used to make things.",
+    "why_special": "The density of working studios per block is unusual for a city this size; the industrial context is part of why the arts scene here feels organic rather than curated.",
+    "address": "Pine Street, Burlington, VT",
+    "coords": [
+      44.4655,
+      -73.212
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "ethan-allen-homestead",
+    "name": "Ethan Allen Homestead Museum",
+    "group": "Culture",
+    "category": "Historic Landmark",
+    "neighborhood": "New North End",
+    "cost_tier": "$",
+    "cost_note": "Adults ~$6; grounds free to walk",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Visitors",
+      "Family & Kids",
+      "Half Day"
+    ],
+    "vibe": [
+      "Historic"
+    ],
+    "blurb": "The preserved 1787 farmstead of Vermont's most mythologized historical figure, with a museum, guided tours, and trails down to the Winooski River. The history is more nuanced than the legend.",
+    "why_special": "The homestead is genuinely preserved — not reconstructed — which gives the site a physical authenticity that most Revolutionary-era Vermont sites lack.",
+    "address": "1 ATP Drive, Burlington, VT",
+    "coords": [
+      44.4978,
+      -73.2278
+    ],
+    "website": "https://www.ethanallenhomestead.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "birds-of-vermont-museum",
+    "name": "Birds of Vermont Museum",
+    "group": "Culture",
+    "category": "Museum",
+    "neighborhood": "Greater Burlington",
+    "cost_tier": "$",
+    "cost_note": "Adults ~$7; trails free",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Solo",
+      "Visitors",
+      "Half Day"
+    ],
+    "vibe": [
+      "Underrated",
+      "Laid-back"
+    ],
+    "blurb": "A Huntington museum housing 500+ hand-carved wooden birds, each painted and posed in its natural habitat — a lifetime's work by woodcarver Bob Spear. The surrounding trails are actual birding trails.",
+    "why_special": "Spear carved every Vermont bird species from wood over a lifetime — the complete record, displayed in habitat context, is a singular artistic and natural-history achievement in a place most Burlington visitors never reach.",
+    "address": "900 Sherman Hollow Road, Huntington, VT",
+    "coords": [
+      44.3094,
+      -73.0004
+    ],
+    "website": "https://www.birdsofvermont.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "winooski-mill-museum",
+    "name": "Winooski Mill Museum",
+    "group": "Culture",
+    "category": "Museum",
+    "neighborhood": "Winooski",
+    "cost_tier": "Free",
+    "cost_note": "Weekday hours only",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Solo",
+      "Visitors"
+    ],
+    "vibe": [
+      "Historic",
+      "Underrated"
+    ],
+    "blurb": "Industrial and cultural history of Winooski's mill era, housed in the restored Champlain Mill overlooking the falls that powered it. The view of the Winooski Falls from inside is the payoff.",
+    "why_special": "The museum occupies the original 1837 mill building — the falls visible from the windows are the same ones that drove the machinery whose history is inside.",
+    "address": "1 Main Street, Winooski, VT",
+    "coords": [
+      44.4921,
+      -73.1853
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "whale-tails-sculpture",
+    "name": "\"Reverence\" (Whale Tails Sculpture)",
+    "group": "Culture",
+    "category": "Gallery & Public Art",
+    "neighborhood": "Shelburne",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Visitors",
+      "Quick Stop"
+    ],
+    "vibe": [
+      "Quirky",
+      "Scenic"
+    ],
+    "blurb": "Jim Sardonis's granite whale tails rising from a hillside off I-89 South, commemorating beluga fossils discovered in the Champlain Valley. Easy to miss at speed; worth the exit.",
+    "why_special": "The whales aren't decorative — they're a direct response to a specific geological fact: beluga fossils found here proved this valley was a saltwater sea 12,000 years ago.",
+    "address": "Shelburne Road at I-89 South, Shelburne, VT",
+    "coords": [
+      44.387,
+      -73.184
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "worlds-tallest-filing-cabinet",
+    "name": "World's Tallest Filing Cabinet",
+    "group": "Culture",
+    "category": "Gallery & Public Art",
+    "neighborhood": "South End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Visitors",
+      "Quick Stop"
+    ],
+    "vibe": [
+      "Quirky"
+    ],
+    "blurb": "Thirty-eight filing cabinet drawers stacked 38 feet high on Flynn Avenue, built in 2002 as commentary on bureaucracy. Birds have nested in the top drawers. Harder to forget than to find.",
+    "why_special": "Among the most genuinely strange pieces of public sculpture in New England — local enough that Burlington residents walk past without noticing, odd enough that visitors stop cold.",
+    "address": "Flynn Avenue, Burlington, VT",
+    "coords": [
+      44.4705,
+      -73.2141
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "earth-clock-oakledge",
+    "name": "Earth Clock at Oakledge Park",
+    "group": "Culture",
+    "category": "Gallery & Public Art",
+    "neighborhood": "South End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Visitors",
+      "Solo",
+      "Quick Stop"
+    ],
+    "vibe": [
+      "Scenic",
+      "Quirky",
+      "Lakeside"
+    ],
+    "blurb": "Standing stones aligned to solstices and equinoxes on the Oakledge Park lakeshore, built for quiet reflection and positioned for the best possible sunset. A focal point on a park that mostly ignores it.",
+    "why_special": "Solstice-aligned stone circle on Lake Champlain's edge — functional as an astronomical marker, and one of the better places in Burlington to watch the sun go down.",
+    "address": "Oakledge Park, Burlington, VT",
+    "coords": [
+      44.4545,
+      -73.2241
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "flynn-center",
+    "name": "Flynn Center for the Performing Arts",
+    "group": "Live & Events",
+    "category": "Theater & Performance",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$$",
+    "cost_note": "Tickets vary widely; check calendar",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Evening"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Date Night",
+      "Groups & Friends",
+      "Special Occasion",
+      "Visitors"
+    ],
+    "vibe": [
+      "Romantic",
+      "Historic",
+      "Iconic"
+    ],
+    "blurb": "A 1,400-seat Art Deco theater from 1930 that somehow never went dark. Broadway touring shows, folk acts, comedy, and the occasional classical ensemble. The calendar is worth bookmarking whenever you're in town.",
+    "why_special": "One of the best-preserved Art Deco theaters in New England, still operating as a full-time presenting house — the building is part of the show at every performance.",
+    "address": "153 Main Street, Burlington, VT",
+    "coords": [
+      44.4783,
+      -73.2148
+    ],
+    "website": "https://www.flynncenter.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "higher-ground",
+    "name": "Higher Ground",
+    "group": "Live & Events",
+    "category": "Music Venue",
+    "neighborhood": "South Burlington",
+    "cost_tier": "$",
+    "cost_note": "Tickets $15–50; Showcase Lounge $5–20",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Evening",
+      "Late Night"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Groups & Friends",
+      "Date Night",
+      "Locals' Pick",
+      "Visitors"
+    ],
+    "vibe": [
+      "Lively"
+    ],
+    "blurb": "The club that brings actual touring acts to South Burlington. The mainstage holds 500; the Showcase Lounge runs smaller shows most nights of the week. Check the calendar — what's on will surprise you.",
+    "why_special": "The primary mid-size touring venue in Vermont — when artists 'play Burlington,' they almost always mean Higher Ground.",
+    "address": "1214 Williston Road, South Burlington, VT",
+    "coords": [
+      44.4549,
+      -73.1715
+    ],
+    "website": "https://www.highergroundmusic.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "vermont-comedy-club",
+    "name": "Vermont Comedy Club",
+    "group": "Live & Events",
+    "category": "Theater & Performance",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$",
+    "cost_note": "Shows $10–25; open mic free",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Evening",
+      "Late Night"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Groups & Friends",
+      "Date Night",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Lively"
+    ],
+    "blurb": "Vermont's only dedicated comedy club, running Thursday through Sunday and a free open mic Wednesday. The local showcases on Thursdays are often the better shows.",
+    "why_special": "The only full-time comedy venue in Vermont, with genuine touring headliners rather than regional acts playing converted bar space.",
+    "address": "101 Main Street, Burlington, VT",
+    "coords": [
+      44.4757,
+      -73.2126
+    ],
+    "website": "https://www.vermontcomedyclub.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "main-street-film-house",
+    "name": "Main Street Landing Film House",
+    "group": "Live & Events",
+    "category": "Theater & Performance",
+    "neighborhood": "Waterfront",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Evening"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Date Night",
+      "Solo",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Cozy",
+      "Underrated"
+    ],
+    "blurb": "Free classic film screenings Tuesday evenings in a restored waterfront building on the ferry dock. Programming cycles through black-and-whites, foreign film, and documentaries.",
+    "why_special": "Free weekly screenings in a waterfront building most tourists walk past — a genuinely good Burlington night that requires no planning and costs nothing.",
+    "address": "1 Main Street, Burlington, VT",
+    "coords": [
+      44.4784,
+      -73.2194
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "sunset-drive-in",
+    "name": "Sunset Drive-In",
+    "group": "Live & Events",
+    "category": "Theater & Performance",
+    "neighborhood": "Colchester",
+    "cost_tier": "$",
+    "cost_note": "Per-car admission ~$12",
+    "season": [
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Date Night",
+      "Family & Kids",
+      "Groups & Friends"
+    ],
+    "vibe": [
+      "Romantic",
+      "Quirky",
+      "Laid-back",
+      "Kid-Friendly"
+    ],
+    "blurb": "A working drive-in in Colchester showing double features on weekends spring through fall. AM radio for the audio; actual popcorn at the concession stand. One of Vermont's last.",
+    "why_special": "One of a handful of remaining operating drive-ins in New England — the Colchester location means clear skies with no competing light pollution on good nights.",
+    "address": "1238 Roosevelt Highway, Colchester, VT",
+    "coords": [
+      44.5444,
+      -73.1561
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "burlington-farmers-market",
+    "name": "Burlington Farmers Market",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "Free",
+    "cost_note": "Free to enter; vendors for purchase",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Visitors",
+      "Family & Kids",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lively",
+      "Local Institution"
+    ],
+    "blurb": "Saturdays at City Hall Park from May through October, with 90+ vendors — the maple syrup, artisan bread, and cheese are the anchors. Arrive before noon if you want the best of the prepared food.",
+    "why_special": "One of the strongest farmers markets in New England by vendor count and quality — the prepared food section alone justifies showing up hungry on a Saturday.",
+    "address": "City Hall Park, Burlington, VT",
+    "coords": [
+      44.4762,
+      -73.2128
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "discover-jazz-festival",
+    "name": "Burlington Discover Jazz Festival",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "Free",
+    "cost_note": "Free outdoor shows; ticketed headliners",
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Locals' Pick",
+      "Visitors",
+      "Groups & Friends",
+      "Date Night"
+    ],
+    "vibe": [
+      "Lively",
+      "Iconic"
+    ],
+    "blurb": "Five days of jazz across Burlington every June, with free outdoor performances on Church Street and Battery Park plus ticketed headliners at the Flynn. Running for 43 years.",
+    "why_special": "Free outdoor jazz throughout the city for five days — the Battery Park afternoon shows have been free since the festival started in 1983, and are still the most relaxed way to experience downtown Burlington in June.",
+    "address": "Burlington (citywide)",
+    "coords": [
+      44.4762,
+      -73.2128
+    ],
+    "website": "https://www.discoverjazz.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "waking-windows",
+    "name": "Waking Windows",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "Winooski",
+    "cost_tier": "$",
+    "cost_note": "Weekend pass ~$30–40; some shows free",
+    "season": [
+      "Spring"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening",
+      "Late Night"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Groups & Friends",
+      "Locals' Pick",
+      "Date Night"
+    ],
+    "vibe": [
+      "Lively",
+      "Quirky"
+    ],
+    "blurb": "A three-day festival that takes over all of downtown Winooski every May — stages in bars, on street corners, in the Champlain Mill. Planning helps; stumbling into something good also works.",
+    "why_special": "The multi-venue format makes the entire Winooski rotary neighborhood the stage — 30+ acts spread across the district in a single weekend in early May.",
+    "address": "Downtown Winooski (multi-venue)",
+    "coords": [
+      44.4921,
+      -73.1853
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "south-end-art-hop",
+    "name": "South End Art Hop",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "South End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Fall"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Locals' Pick",
+      "Visitors",
+      "Groups & Friends"
+    ],
+    "vibe": [
+      "Lively",
+      "Quirky",
+      "Local Institution"
+    ],
+    "blurb": "Three days each September when South End studios, galleries, and warehouses open their doors — 200+ venues, 450+ artists, food trucks, live music. The Pine Street corridor is the spine of it.",
+    "why_special": "One of the largest open-studio events in the Northeast; the South End industrial buildings have never looked more like themselves than during Hop weekend.",
+    "address": "Pine Street Arts District, Burlington, VT",
+    "coords": [
+      44.4655,
+      -73.212
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "vermont-brewers-festival",
+    "name": "Vermont Brewers Festival",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$$",
+    "cost_note": "Tickets ~$50 in advance",
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Groups & Friends",
+      "Locals' Pick",
+      "Visitors"
+    ],
+    "vibe": [
+      "Lively",
+      "Lakeside"
+    ],
+    "blurb": "Forty-plus Vermont craft breweries pour 200-plus specialty beers at Waterfront Park over two days in July. The Fermentation Tent added in 2026 is for the more serious crowd.",
+    "why_special": "The concentration of Vermont craft brewing in one place, on the lake, over a single weekend — a legitimate regional beer event, not a tourism facade.",
+    "address": "Waterfront Park, Burlington, VT",
+    "coords": [
+      44.4804,
+      -73.22
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "grand-point-north",
+    "name": "Grand Point North",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$$",
+    "cost_note": "Weekend pass ~$80–100",
+    "season": [
+      "Fall"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Groups & Friends",
+      "Date Night",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Lively",
+      "Lakeside",
+      "Scenic"
+    ],
+    "blurb": "Grace Potter's three-day waterfront music festival every September — she programs it herself, which shows in the curation. The lake backdrop at dusk is genuinely hard to match.",
+    "why_special": "Curated by a Vermont musician who actually lives here — the lineup reflects personal taste rather than a festival booking committee, and it shows.",
+    "address": "Waterfront Park, Burlington, VT",
+    "coords": [
+      44.4804,
+      -73.22
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "south-end-get-down",
+    "name": "South End Get Down",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "South End",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Groups & Friends",
+      "Family & Kids"
+    ],
+    "vibe": [
+      "Lively",
+      "Outdoor Seating"
+    ],
+    "blurb": "Every Friday evening all summer: food trucks, live music, and the South End using Pine Street as a living room. Free to attend; the crowd is mixed in the best way.",
+    "why_special": "Burlington's most consistent free weekly summer event — the South End Get Down has defined what Friday evenings mean in the arts district for over a decade.",
+    "address": "Pine Street, Burlington, VT",
+    "coords": [
+      44.4655,
+      -73.212
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "leddy-beach-bites",
+    "name": "Leddy Beach Bites",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "New North End",
+    "cost_tier": "$",
+    "cost_note": "Free entry; food vendor prices",
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Family & Kids",
+      "Groups & Friends",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lakeside",
+      "Laid-back"
+    ],
+    "blurb": "Leddy Beach food trucks and live music on Wednesday evenings through the summer — dinner with a lake view, no reservation needed. Best on evenings with a good sunset forecast.",
+    "why_special": "Combines the North End's quieter beach setting with a rotating food truck lineup and live music — a neighborhood ritual with a better view than most restaurant patios.",
+    "address": "Leddy Beach, Burlington, VT",
+    "coords": [
+      44.4913,
+      -73.2319
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "champlain-valley-fair",
+    "name": "Champlain Valley Fair",
+    "group": "Live & Events",
+    "category": "Activity & Experience",
+    "neighborhood": "Essex / Essex Jct",
+    "cost_tier": "$$",
+    "cost_note": "Daily admission ~$15; concert tickets extra",
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Family & Kids",
+      "Groups & Friends",
+      "Visitors"
+    ],
+    "vibe": [
+      "Lively",
+      "Kid-Friendly"
+    ],
+    "blurb": "Vermont's largest agricultural fair — nine days in late August at the Champlain Valley Expo in Essex Junction. Midway rides, livestock competitions, major concerts, and fair food at a Vermont scale.",
+    "why_special": "Vermont's largest single fair by attendance; the midway concerts book national acts that rarely appear in Vermont otherwise.",
+    "address": "105 Pearl Street, Essex Junction, VT",
+    "coords": [
+      44.4898,
+      -73.118
+    ],
+    "website": "https://www.champlainvalleyfair.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "vermont-lake-monsters",
+    "name": "Vermont Lake Monsters",
+    "group": "Do & Play",
+    "category": "Sports & Recreation",
+    "neighborhood": "Hill Section",
+    "cost_tier": "$",
+    "cost_note": "Tickets ~$8–15",
+    "season": [
+      "Summer"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Family & Kids",
+      "Groups & Friends",
+      "Locals' Pick",
+      "Visitors"
+    ],
+    "vibe": [
+      "Lively",
+      "Kid-Friendly",
+      "Local Institution"
+    ],
+    "blurb": "Minor league baseball at Centennial Field, open since 1906. Themed nights include Wild West and Special Olympics Night. Champ the lake monster is the mascot; the hot dogs are exactly right.",
+    "why_special": "Centennial Field has been hosting baseball since 1906 — one of the oldest continuously used ballparks in the country, and the park itself is as much a draw as the game.",
+    "address": "Centennial Field, Burlington, VT",
+    "coords": [
+      44.4879,
+      -73.2032
+    ],
+    "website": "https://www.milb.com/vermont",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "petra-cliffs",
+    "name": "Petra Cliffs Climbing Center",
+    "group": "Do & Play",
+    "category": "Sports & Recreation",
+    "neighborhood": "South End",
+    "cost_tier": "$$",
+    "cost_note": "Day pass + gear rental ~$25–35",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Rainy Day",
+      "Groups & Friends",
+      "Solo",
+      "Family & Kids"
+    ],
+    "vibe": [
+      "Lively"
+    ],
+    "blurb": "Burlington's indoor climbing gym with walls for every level, day-pass gear rental, and lead walls that reach 45 feet. The intro lesson program is the right entry point for first-timers.",
+    "why_special": "Burlington's only indoor climbing gym, with lead walls tall enough to satisfy experienced climbers — not just a bouldering cave dressed up as a full gym.",
+    "address": "105 Morse Place, Burlington, VT",
+    "coords": [
+      44.4771,
+      -73.1942
+    ],
+    "website": "https://www.petracliffs.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "andy-adog-skatepark",
+    "name": "Andy A-Dog Williams Skatepark",
+    "group": "Do & Play",
+    "category": "Sports & Recreation",
+    "neighborhood": "Waterfront",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Locals' Pick",
+      "Solo",
+      "Groups & Friends"
+    ],
+    "vibe": [
+      "Lively"
+    ],
+    "blurb": "A well-maintained concrete skatepark on the Greenway, named for local DJ Andy 'A-Dog' Williams. Good bowls and transitions; the Adirondack backdrop from the halfpipe is incidental and excellent.",
+    "why_special": "Named for Andy 'A-Dog' Williams, whose death galvanized the community to build a permanent public park — the story is as much part of it as the concrete.",
+    "address": "Lake Street, Burlington, VT",
+    "coords": [
+      44.4803,
+      -73.2214
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "boardroom-games",
+    "name": "The Boardroom",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$",
+    "cost_note": "Table fee ~$5/person; drinks extra",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Groups & Friends",
+      "Date Night",
+      "Rainy Day",
+      "Family & Kids"
+    ],
+    "vibe": [
+      "Cozy",
+      "Laid-back"
+    ],
+    "blurb": "Vermont's first board game café, with 500+ games available by the table — from Bananagrams to Twilight Imperium. Budget more time than you think. The hot chocolate is good.",
+    "why_special": "500+ games including modern hobby titles you won't find at Target, with staff who know the catalog well enough to match a game to your group in two questions.",
+    "address": "Main Street, Burlington, VT",
+    "coords": [
+      44.477,
+      -73.2129
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "ao-glass",
+    "name": "AO Glass",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "South End",
+    "cost_tier": "$$",
+    "cost_note": "Factory viewing free; classes ~$60–90",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Date Night",
+      "Groups & Friends",
+      "Special Occasion"
+    ],
+    "vibe": [
+      "Quirky"
+    ],
+    "blurb": "A South End glassblowing studio open to watch free Monday–Saturday, 10 AM–3 PM, with hands-on classes where you make and take home a piece. The factory floor is unexpectedly compelling.",
+    "why_special": "The factory floor is open to free public viewing during regular hours — watching molten glass get shaped by hand is one of the more genuinely surprising free things to do in Burlington.",
+    "address": "416 Pine Street, Burlington, VT",
+    "coords": [
+      44.465,
+      -73.2119
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "sevendaysvt.com / btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "vermont-teddy-bear",
+    "name": "Vermont Teddy Bear Factory",
+    "group": "Do & Play",
+    "category": "Tour",
+    "neighborhood": "Shelburne",
+    "cost_tier": "$",
+    "cost_note": "Tour ~$5; custom bear extra",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Family & Kids",
+      "Visitors"
+    ],
+    "vibe": [
+      "Kid-Friendly",
+      "Quirky"
+    ],
+    "blurb": "Factory tours in Shelburne showing the production floor, with a Bear Hospital that repairs any bear under a lifetime guarantee. The tour is 30 minutes; the DIY custom bear adds time.",
+    "why_special": "The Bear Hospital — where bears with lifetime warranties come in for repairs — is an oddly moving stop in what is otherwise a factory tour aimed at children.",
+    "address": "6655 Shelburne Road, Shelburne, VT",
+    "coords": [
+      44.3914,
+      -73.2058
+    ],
+    "website": "https://www.vermontteddybear.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "ben-jerrys-factory",
+    "name": "Ben & Jerry's Factory Tour",
+    "group": "Do & Play",
+    "category": "Tour",
+    "neighborhood": "Greater Burlington",
+    "cost_tier": "$",
+    "cost_note": "Tour ~$5; free sample included",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Family & Kids",
+      "Visitors",
+      "Groups & Friends"
+    ],
+    "vibe": [
+      "Kid-Friendly",
+      "Iconic",
+      "Quirky"
+    ],
+    "blurb": "The 30-minute factory tour in Waterbury — production floor, the Flavor Graveyard (tombstones for discontinued pints), and a free sample of whatever's being made that day. Book online; summer tours sell out by 10 AM.",
+    "why_special": "The Flavor Graveyard has full tombstones — with epitaphs — for every discontinued flavor going back decades. No other food factory tour has anything like it.",
+    "address": "1281 Waterbury-Stowe Road, Waterbury, VT",
+    "coords": [
+      44.3908,
+      -72.7327
+    ],
+    "website": "https://www.benjerry.com/waterbury",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "shelburne-farms",
+    "name": "Shelburne Farms",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "Shelburne",
+    "cost_tier": "$",
+    "cost_note": "Farm access ~$10; cheese for purchase",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Family & Kids",
+      "Visitors",
+      "Half Day",
+      "Date Night"
+    ],
+    "vibe": [
+      "Scenic",
+      "Historic"
+    ],
+    "blurb": "A 1,400-acre National Historic Landmark working farm in Shelburne, with cheese made and aged on-site, public walking trails, a children's farmyard, and the Inn for those who want to stay.",
+    "why_special": "The cheddar is made on the property, aged on the property, and sold at the farm store — full provenance in a single visit.",
+    "address": "1611 Harbor Road, Shelburne, VT",
+    "coords": [
+      44.3831,
+      -73.2267
+    ],
+    "website": "https://www.shelburnefarms.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "local-motion",
+    "name": "Local Motion (Bike & Ferry)",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "Waterfront",
+    "cost_tier": "$",
+    "cost_note": "Bike rental ~$20–30/day; ferry $4",
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Visitors",
+      "Locals' Pick",
+      "Family & Kids",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Lakeside"
+    ],
+    "blurb": "Bike and e-bike rentals on the Greenway, plus the seasonal ferry that bridges the gap in the Lake Champlain causeway to South Hero island. The best way to do the Island Line without owning a bike.",
+    "why_special": "Without Local Motion's causeway ferry, the Island Line is a dead-end out-and-back; with it, you complete one of the most scenic bike routes in Vermont.",
+    "address": "1 Steele Street, Burlington, VT",
+    "coords": [
+      44.4785,
+      -73.2233
+    ],
+    "website": "https://www.localmotion.org",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "city-brew-tours",
+    "name": "City Brew Tours Burlington",
+    "group": "Do & Play",
+    "category": "Tour",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$$",
+    "cost_note": "Tours from ~$69; includes transportation",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Visitors",
+      "Groups & Friends",
+      "Date Night"
+    ],
+    "vibe": [
+      "Lively"
+    ],
+    "blurb": "Guided brewery tours with transportation included — the Original Brew Tour covers up to 16 beer samples and pizza across multiple Burlington-area breweries. Useful if you're new to the scene and want coverage.",
+    "why_special": "Transportation included means you can sample across multiple breweries without navigating or designating a driver; the guides know the backstories.",
+    "address": "Burlington, VT (pickup varies)",
+    "coords": null,
+    "website": "https://www.citybrewtours.com/burlington",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "church-street-marketplace",
+    "name": "Church Street Marketplace",
+    "group": "Shopping",
+    "category": "Shop",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "Free",
+    "cost_note": "Free to walk; shops for purchase",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Visitors",
+      "Locals' Pick",
+      "Quick Stop"
+    ],
+    "vibe": [
+      "Lively",
+      "Iconic"
+    ],
+    "blurb": "Four blocks of pedestrian mall that has been Burlington's civic and commercial center since 1981. The interesting shops are the local ones — the bookstores, record shop, and craft gallery, not the chains.",
+    "why_special": "One of America's earliest pedestrian malls, and among the rare examples that has maintained a meaningful ratio of local-to-chain businesses for over forty years.",
+    "address": "Church Street, Burlington, VT",
+    "coords": [
+      44.4775,
+      -73.2131
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "pine-street-shops",
+    "name": "Pine Street (South End Shopping)",
+    "group": "Shopping",
+    "category": "Shop",
+    "neighborhood": "South End",
+    "cost_tier": "Free",
+    "cost_note": "Free to browse",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Locals' Pick",
+      "Visitors",
+      "Half Day"
+    ],
+    "vibe": [
+      "Quirky",
+      "Local Institution"
+    ],
+    "blurb": "Converted industrial buildings along Pine Street housing vintage shops, artist studios, galleries, and the city's best cluster of breweries and cideries. The best afternoon walk in Burlington that doesn't involve the waterfront.",
+    "why_special": "The density of independent makers, galleries, and shops per block is unusual for a city this size — and the industrial context is part of why it works the way it does.",
+    "address": "Pine Street, Burlington, VT",
+    "coords": [
+      44.4655,
+      -73.212
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "burlington-records",
+    "name": "Burlington Records",
+    "group": "Shopping",
+    "category": "Shop",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$",
+    "cost_note": "Used vinyl from $1; new from $25",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Solo",
+      "Locals' Pick",
+      "Quick Stop"
+    ],
+    "vibe": [
+      "Quirky",
+      "Cozy"
+    ],
+    "blurb": "Downtown Burlington's independent vinyl shop with an extensive catalog organized by genre and era. The crates reward patience; the staff have opinions and will share them.",
+    "why_special": "TODO: needs a specific detail about the collection depth or what makes this shop distinctive from other indie record stores.",
+    "address": "Church Street area, Burlington, VT",
+    "coords": null,
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "autumn-records",
+    "name": "Autumn Records",
+    "group": "Shopping",
+    "category": "Shop",
+    "neighborhood": "Winooski",
+    "cost_tier": "$",
+    "cost_note": "Used vinyl from $3",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Solo",
+      "Locals' Pick",
+      "Quick Stop"
+    ],
+    "vibe": [
+      "Quirky",
+      "Underrated"
+    ],
+    "blurb": "A Winooski record store run by an internationally recognized experimental musician — the curation reflects that. New and used vinyl, CDs, cassettes, turntables. Open noon–6 daily.",
+    "why_special": "The owner is an experimental musician with an international audience; the used vinyl curation is unlike any other shop in Vermont.",
+    "address": "11 E. Allen Street, Winooski, VT",
+    "coords": [
+      44.4921,
+      -73.1855
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "helloburlingtonvt.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "wilder-wines",
+    "name": "Wilder Wines",
+    "group": "Shopping",
+    "category": "Shop",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$$",
+    "cost_note": "Bottles $18–60+",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Locals' Pick",
+      "Date Night",
+      "Solo"
+    ],
+    "vibe": [
+      "Underrated"
+    ],
+    "blurb": "A BIPOC-owned wine shop on College Street with Burlington's best selection of natural and international wines. The staff know every bottle and can make a case for any of them.",
+    "why_special": "The best natural wine selection in Burlington, in a shop small enough that the staff recommendation quality is unusually high — they've tried what they're selling you.",
+    "address": "210 College Street, Burlington, VT",
+    "coords": [
+      44.4768,
+      -73.2115
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  },
+  {
+    "id": "uvm-campus",
+    "name": "UVM Campus (University of Vermont)",
+    "group": "Culture",
+    "category": "Historic Landmark",
+    "neighborhood": "UVM / University",
+    "cost_tier": "Free",
+    "cost_note": null,
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Visitors",
+      "Solo"
+    ],
+    "vibe": [
+      "Historic",
+      "Scenic"
+    ],
+    "blurb": "Vermont's public university since 1791, with a hilltop campus and some of the best views of Lake Champlain and the Adirondacks in Burlington. Open to walk through.",
+    "why_special": "Founded in 1791 — one of the oldest universities in New England — with hilltop views that rival any formal lookout in the city and are freely accessible.",
+    "address": "University of Vermont, Burlington, VT",
+    "coords": [
+      44.4761,
+      -73.1963
+    ],
+    "website": "https://www.uvm.edu",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com",
+    "last_verified": "2026-06"
+  }
+]

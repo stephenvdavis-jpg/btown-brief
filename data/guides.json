@@ -1,0 +1,130 @@
+[
+  {
+    "id": "free-burlington",
+    "type": "roundup",
+    "title": "Free Burlington",
+    "tagline": "Everything worth doing that costs nothing.",
+    "cover_class": "guide-card-cover-free",
+    "intro": "Burlington punches above its size on free things to do — parks, public art, beach access, live music, and galleries that don't charge admission. This list updates automatically from the master list whenever we verify a free entry.",
+    "filter": {
+      "cost_tier": ["Free"]
+    },
+    "sort": "neighborhood"
+  },
+  {
+    "id": "cheap-eats",
+    "type": "roundup",
+    "title": "Cheap Eats & Drinks",
+    "tagline": "A $15 budget gets you farther than you think in Vermont.",
+    "cover_class": "guide-card-cover-food",
+    "intro": "Burlington's food scene skews toward quality over price, but there are enough places where you can eat and drink well without watching the tab. Single-dollar sign means a good meal under $20; most are under $15.\n\nThe best value in the city is almost always a pint and something at one of the South End taprooms — Zero Gravity's Clean State pilsner and Citizen Cider's Wit's Up are both under $8 and better than anything you'd pay three times as much for somewhere else.",
+    "filter": {
+      "group": ["Food & Drink"],
+      "cost_tier": ["$", "Free"]
+    },
+    "sort": "featured"
+  },
+  {
+    "id": "rainy-day",
+    "type": "roundup",
+    "title": "Rainy Day Burlington",
+    "tagline": "Vermont weather is variable. Here's the plan B.",
+    "cover_class": "guide-card-cover-roundup",
+    "intro": "Burlington averages 155 cloudy days per year. The upside: more excuses to visit the Fleming, nurse a beer at a South End taproom, or finally make it to ECHO. This list covers everything indoor-friendly that's worth your time when the Adirondacks disappear into the clouds.",
+    "filter": {
+      "indoor_outdoor": ["Indoor", "Both"],
+      "good_for": ["Rainy Day"]
+    },
+    "sort": "featured"
+  },
+  {
+    "id": "date-night",
+    "type": "roundup",
+    "title": "Date Night in Burlington",
+    "tagline": "From a first dinner to the kind of evening you remember.",
+    "cover_class": "guide-card-cover-date",
+    "intro": "Burlington is easy to be romantic in — the lake does a lot of the work. These picks range from a Skinny Pancake patio lunch with good sunset odds, to Leunig's bistro for something properly sit-down, to a Vermont Comedy Club show that breaks the ice without needing you to.\n\nFor a full evening: start at the waterfront for drinks, walk down to dinner on Church Street, then catch whatever's at the Flynn or Vermont Comedy Club. The porch swings at Waterfront Park are a reliable last stop.",
+    "filter": {
+      "good_for": ["Date Night"]
+    },
+    "sort": "featured"
+  },
+  {
+    "id": "outdoor-scenic",
+    "type": "roundup",
+    "title": "Outdoors & Scenic Burlington",
+    "tagline": "The lake, the mountains, the trails. All of it.",
+    "cover_class": "guide-card-cover-outdoor",
+    "intro": "Burlington's outdoor assets are the reason people move here and don't leave. The Greenway connects eight miles of lakefront. The Causeway extends into Lake Champlain. Red Rocks has geological formations 270 million years old. And Camel's Hump is 45 minutes away when you need something that feels properly remote.\n\nFor a single best outdoor day: Greenway ride south to Oakledge, swim at the Cove, then north to the Skinny Pancake patio. Sunset on the waterfront swings to close.",
+    "filter": {
+      "group": ["Outdoors"]
+    },
+    "sort": "neighborhood"
+  },
+  {
+    "id": "family-kids",
+    "type": "roundup",
+    "title": "Best for Families & Kids",
+    "tagline": "Burlington is surprisingly good for families. Here's proof.",
+    "cover_class": "guide-card-cover-family",
+    "intro": "Burlington's kid-friendly options are more interesting than the usual aquarium-and-playground circuit. ECHO has live Champlain aquatic tanks. Oakledge has the world's first fully ADA-accessible treehouse. North Beach has lifeguards. The farmers market is a morning well spent with anyone who can eat food.\n\nOlder kids: Petra Cliffs for climbing, Ben & Jerry's for the Flavor Graveyard, Vermont Teddy Bear Factory for the Bear Hospital (genuinely more interesting than it sounds).",
+    "filter": {
+      "good_for": ["Family & Kids"]
+    },
+    "sort": "featured"
+  },
+  {
+    "id": "breweries-burlington",
+    "type": "roundup",
+    "title": "Burlington's Brewing Scene",
+    "tagline": "Vermont has more craft breweries per capita than any state. Here's where to start.",
+    "cover_class": "guide-card-cover-food",
+    "intro": "Vermont's craft brewing scene is the densest in the country by per-capita count, and Burlington is the center of it. The South End alone has Zero Gravity, Switchback, Burlington Beer Company, and Citizen Cider within a few blocks of each other.\n\nFor a walkable afternoon: start at Zero Gravity for the pilsner, walk two blocks to Switchback for the flagship, then Citizen Cider for a break from hops. Burlington Beer Company has the widest tap list if you want options. Foam is ten minutes north on the waterfront for the sunset.\n\nFor something farther out: Fiddlehead in Shelburne is worth the drive if you catch a Thursday release.",
+    "filter": {
+      "category": ["Brewery & Cidery"]
+    },
+    "sort": "neighborhood"
+  },
+  {
+    "id": "waterfront-best",
+    "type": "roundup",
+    "title": "The Burlington Waterfront",
+    "tagline": "Fourteen miles of Lake Champlain shoreline, all the best of it.",
+    "cover_class": "guide-card-cover-outdoor",
+    "intro": "Burlington's waterfront is the city's best feature by a wide margin, and it's better when you know where to look. The porch swings at Waterfront Park get the afternoon light. Perkins Pier is where the Spirit of Ethan Allen departs. The dog beach at Texaco Point is a social event most afternoons in summer.\n\nThe Greenway connects it all without a car — eight miles from Oakledge in the south to North Beach. Rent a bike from Local Motion at the boathouse if you don't have one.",
+    "filter": {
+      "vibe": ["Lakeside"]
+    },
+    "sort": "neighborhood"
+  },
+  {
+    "id": "live-music",
+    "type": "roundup",
+    "title": "Live Music in Burlington",
+    "tagline": "From the birthplace of Phish to Grace Potter's own festival.",
+    "cover_class": "guide-card-cover-night",
+    "intro": "Burlington's music scene is disproportionately good for a city of 45,000. Nectar's is where Phish played their first shows. Radio Bean and Light Club Lamp Shop run eclectic programming every evening. Higher Ground brings touring acts that can't fit a full Vermont run anywhere else.\n\nFor a free evening: Radio Bean from 5 PM, stay for whatever's on after 8. For a real show: Higher Ground's Showcase Lounge has something most weeknights for under $20.",
+    "filter": {
+      "category": ["Music Venue"]
+    },
+    "sort": "featured"
+  },
+  {
+    "id": "perfect-burlington-saturday",
+    "type": "itinerary",
+    "title": "The Perfect Burlington Saturday",
+    "tagline": "One ideal day in the city, hour by hour.",
+    "cover_class": "guide-card-cover-night",
+    "intro": "This is the sequence that shows Burlington at its best: morning market, midday on the water, afternoon in the South End, dinner and a show. Adjust for season — in winter, skip the waterfront and add the Fleming and a South End taproom afternoon.",
+    "items": [
+      "penny-cluse-cafe",
+      "burlington-farmers-market",
+      "waterfront-park",
+      "burlington-greenway",
+      "zero-gravity-brewery",
+      "bluebird-bbq",
+      "south-end-arts-district",
+      "vermont-comedy-club"
+    ]
+  }
+]

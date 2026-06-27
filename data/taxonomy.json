@@ -1,0 +1,102 @@
+{
+  "group": [
+    "Food & Drink",
+    "Outdoors",
+    "Culture",
+    "Live & Events",
+    "Do & Play",
+    "Shopping"
+  ],
+  "category": [
+    "Restaurant",
+    "Cafe & Bakery",
+    "Brewery & Cidery",
+    "Bar & Nightlife",
+    "Sweet Treats",
+    "Park & Green Space",
+    "Trail & Hike",
+    "Beach & Waterfront",
+    "Scenic Spot",
+    "Museum",
+    "Gallery & Public Art",
+    "Historic Landmark",
+    "Library & Bookstore",
+    "Music Venue",
+    "Theater & Performance",
+    "Activity & Experience",
+    "Sports & Recreation",
+    "Wellness",
+    "Tour",
+    "Shop"
+  ],
+  "neighborhood": [
+    "Downtown / Church St",
+    "Old North End",
+    "New North End",
+    "South End",
+    "Hill Section",
+    "UVM / University",
+    "Waterfront",
+    "Winooski",
+    "South Burlington",
+    "Essex / Essex Jct",
+    "Williston",
+    "Shelburne",
+    "Colchester",
+    "Greater Burlington"
+  ],
+  "cost_tier": [
+    "Free",
+    "$",
+    "$$",
+    "$$$"
+  ],
+  "season": [
+    "Spring",
+    "Summer",
+    "Fall",
+    "Winter",
+    "Year-Round"
+  ],
+  "time_of_day": [
+    "Morning",
+    "Afternoon",
+    "Evening",
+    "Late Night"
+  ],
+  "indoor_outdoor": [
+    "Indoor",
+    "Outdoor",
+    "Both"
+  ],
+  "good_for": [
+    "Date Night",
+    "Groups & Friends",
+    "Solo",
+    "Family & Kids",
+    "Rainy Day",
+    "Sunny Day",
+    "Cheap Eats",
+    "Quick Stop",
+    "Half Day",
+    "Special Occasion",
+    "Visitors",
+    "Locals' Pick"
+  ],
+  "vibe": [
+    "Laid-back",
+    "Lively",
+    "Romantic",
+    "Quirky",
+    "Iconic",
+    "Underrated",
+    "Scenic",
+    "Cozy",
+    "Lakeside",
+    "Historic",
+    "Outdoor Seating",
+    "Dog-Friendly",
+    "Kid-Friendly",
+    "Local Institution"
+  ]
+}
