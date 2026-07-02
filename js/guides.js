@@ -91,7 +91,7 @@
   }
 
   function renderGuideCard(g) {
-    const coverClass = getCoverClass(g);
+    const coverClass = getCoverClass(g) + (g.id === 'top-100' ? ' guide-cover-top100' : '');
 
     return `
       <div class="guide-card" data-guide-id="${esc(g.id)}" role="button" tabindex="0" aria-label="${esc(g.title)}">
