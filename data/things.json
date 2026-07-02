@@ -725,46 +725,6 @@
     "last_verified": "2026-06"
   },
   {
-    "id": "nectar-bar",
-    "name": "Nectar's",
-    "group": "Live & Events",
-    "category": "Music Venue",
-    "neighborhood": "Downtown / Church St",
-    "cost_tier": "$",
-    "cost_note": "Cover $5–15; gravy fries ~$6",
-    "season": [
-      "Year-Round"
-    ],
-    "time_of_day": [
-      "Evening",
-      "Late Night"
-    ],
-    "indoor_outdoor": "Indoor",
-    "good_for": [
-      "Groups & Friends",
-      "Locals' Pick",
-      "Date Night"
-    ],
-    "vibe": [
-      "Lively",
-      "Historic",
-      "Local Institution"
-    ],
-    "blurb": "The Main Street bar where Phish played their first shows in 1983. The gravy fries are unreasonable and not optional. Still runs live music most nights; still doesn't feel like a museum.",
-    "why_special": "The birthplace of Phish's live career — a genuinely historic music venue that has stayed operational rather than becoming a tribute to itself.",
-    "address": "188 Main Street, Burlington, VT",
-    "coords": [
-      44.4766,
-      -73.2121
-    ],
-    "website": "https://www.liveatnectars.com",
-    "image": null,
-    "has_guide": false,
-    "guide_id": null,
-    "source": "btownbrief.com / verified",
-    "last_verified": "2026-06"
-  },
-  {
     "id": "radio-bean",
     "name": "Radio Bean",
     "group": "Live & Events",
