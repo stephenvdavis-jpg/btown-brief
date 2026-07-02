@@ -17,11 +17,22 @@
   <!-- SITE HEADER -->
   <header class="site-header" id="site-header">
     <div class="header-inner">
-      <a href="#" class="logo" onclick="return false;" aria-label="Burlington Things To Do">
-        <span class="logo-btv">BTV</span>
+      <div class="logo">
+        <button class="dark-toggle" id="dark-toggle" aria-label="Toggle dark mode" title="Toggle light / dark">
+          <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+          <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+        </button>
         <span class="logo-sep"></span>
         <span class="logo-title">Things To Do</span>
-      </a>
+      </div>
 
       <nav class="mode-nav" aria-label="View mode">
         <button class="mode-btn" id="btn-list" data-mode="list" aria-pressed="true">The List</button>
@@ -35,19 +46,6 @@
           <a class="weather-menu-item" id="weather-brief-link" role="menuitem" href="https://www.btownbrief.com" target="_blank" rel="noopener">Read the weather in the Brief ↗</a>
         </div>
       </div>
-
-      <button class="dark-toggle" id="dark-toggle" aria-label="Toggle dark mode">
-        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <circle cx="12" cy="12" r="5"/>
-          <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
-          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
-          <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
-          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
-        </svg>
-        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
-        </svg>
-      </button>
     </div>
   </header>
 
@@ -112,6 +110,12 @@
       <!-- Main List Content -->
       <main class="list-main" id="list-main">
 
+        <!-- Intro / what this is -->
+        <div class="list-intro">
+          <h1 class="list-intro-title">A curated list of <span id="intro-count">204</span> things to do in Burlington</h1>
+          <p class="list-intro-sub">Every place here is tagged, so hit <strong>Filter</strong> to narrow it down by neighborhood, vibe, price, and more. New here? <button class="intro-link" id="intro-top100" type="button">The&nbsp;Top&nbsp;100</button> is the perfect place to start.</p>
+        </div>
+
         <!-- Toolbar: Search + Filter Toggle + Sort -->
         <div class="toolbar">
           <div class="search-wrap">
@@ -134,15 +138,22 @@
           </div>
 
           <div class="toolbar-right">
-            <button class="filter-toggle-btn" id="filter-toggle" aria-label="Toggle filters" aria-expanded="false">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-                <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
-              </svg>
-              <span>Filter</span>
-              <span class="active-filter-count" id="active-filter-count" hidden>0</span>
-            </button>
+            <span class="attn attn-filter">
+              <span class="attn-arrow attn-top" aria-hidden="true"></span>
+              <span class="attn-arrow attn-right" aria-hidden="true"></span>
+              <span class="attn-arrow attn-bottom" aria-hidden="true"></span>
+              <span class="attn-arrow attn-left" aria-hidden="true"></span>
+              <button class="filter-toggle-btn" id="filter-toggle" aria-label="Toggle filters" aria-expanded="false">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+                </svg>
+                <span>Filter</span>
+                <span class="active-filter-count" id="active-filter-count" hidden>0</span>
+              </button>
+            </span>
 
             <select class="sort-select" id="sort-select" aria-label="Sort results">
+              <option value="random">Random</option>
               <option value="featured">Featured</option>
               <option value="alpha">A–Z</option>
               <option value="neighborhood">By neighborhood</option>
