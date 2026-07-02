@@ -7679,5 +7679,44 @@
     "guide_id": null,
     "source": "user-provided / greyjayvt.com",
     "last_verified": "2026-07"
+  },
+  {
+    "id": "essex-family-fun",
+    "name": "Essex Family Fun & Entertainment Center",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "Essex / Essex Jct",
+    "cost_tier": "$$",
+    "cost_note": null,
+    "season": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Both",
+    "good_for": [
+      "Family & Kids",
+      "Groups & Friends",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Kid-Friendly",
+      "Lively",
+      "Laid-back"
+    ],
+    "blurb": "Mini golf and family fun in Essex Junction — the easy, low-key answer for an afternoon out with kids just outside Burlington.",
+    "why_special": "A rare close-in mini-golf course, so the classic family outing doesn't require a long drive.",
+    "address": null,
+    "coords": null,
+    "website": "https://www.facebook.com/essexfamilyfun",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "user-provided / facebook.com/essexfamilyfun — TODO: verify address & hours",
+    "last_verified": "2026-07"
   }
 ]
