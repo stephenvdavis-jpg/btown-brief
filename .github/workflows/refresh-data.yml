@@ -1,0 +1,180 @@
+name: Refresh community data
+
+# Pulls fresh data for the site on a schedule:
+#  - latest r/GoodBurlington posts  -> data/reddit.json
+#  - latest Burlington Brief issue  -> data/newsletter.json
+# The site stays 100% static — this just commits updated JSON.
+# Enable under: repo Settings -> Actions -> Allow all actions,
+# and Settings -> Actions -> Workflow permissions -> Read and write.
+
+on:
+  schedule:
+    - cron: '15 * * * *'   # hourly, at :15
+  workflow_dispatch:        # allows manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Reddit + newsletter data
+        run: |
+          python3 - <<'EOF'
+          import json, sys, urllib.request, xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+
+          now = datetime.now(timezone.utc).isoformat(timespec='seconds')
+
+          def fetch(url, headers=None):
+              req = urllib.request.Request(url, headers=headers or {})
+              with urllib.request.urlopen(req, timeout=30) as res:
+                  return res.read()
+
+          # --- Reddit: r/GoodBurlington ---
+          # Reddit sometimes 403s datacenter IPs; try a few hosts.
+          # Fail gracefully: on any error, keep the last good file.
+          try:
+              raw = None
+              last_err = None
+              for host in ('www.reddit.com', 'old.reddit.com', 'api.reddit.com'):
+                  try:
+                      raw = fetch(
+                          f'https://{host}/r/GoodBurlington/hot.json?limit=15',
+                          headers={'User-Agent': 'btown-brief-site/1.0 (github actions data refresh)'}
+                      )
+                      break
+                  except Exception as e:
+                      last_err = e
+              if raw is None:
+                  raise last_err
+              children = json.loads(raw)['data']['children']
+              posts = []
+              for c in children:
+                  d = c.get('data', {})
+                  if d.get('stickied'):
+                      continue
+                  posts.append({
+                      'title': d.get('title', ''),
+                      'score': d.get('score', 0),
+                      'url': 'https://www.reddit.com' + d.get('permalink', ''),
+                      'created_utc': d.get('created_utc'),
+                  })
+                  if len(posts) >= 6:
+                      break
+              if posts:
+                  with open('data/reddit.json', 'w') as f:
+                      json.dump({'updated': now, 'posts': posts}, f, indent=2)
+                  print(f'reddit.json: wrote {len(posts)} posts')
+              else:
+                  print('reddit: no posts returned, keeping last good file')
+          except Exception as e:
+              print(f'reddit fetch failed, keeping last good file: {e}', file=sys.stderr)
+
+          # --- Newsletter: weather preview + curated "Events This Week" ---
+          # The issue's "Weather & Rundown" section holds the weather forecast
+          # (first paragraph -> preview) followed by day-by-day curated event
+          # paragraphs that each start with a weekday name. Those become the
+          # dated "Events This Week" cards; the site hides past days client-side.
+          import html as _html, re as _re
+          from datetime import timedelta, date as _date
+          from email.utils import parsedate_to_datetime
+
+          def flatten(c):
+              c = _re.sub(r'<(style|script)[^>]*>.*?</\1>', ' ', c, flags=_re.S | _re.I)
+              c = _re.sub(r'<!--.*?-->', ' ', c, flags=_re.S)
+              c = _re.sub(r'<(h[1-6])[^>]*>', '\n\x01', c, flags=_re.I)
+              c = _re.sub(r'</(h[1-6])>', '\x02\n', c, flags=_re.I)
+              c = _re.sub(r'<(p|div|br|tr|li|td)[^>]*>', '\n', c, flags=_re.I)
+              c = _re.sub(r'<[^>]+>', ' ', c)
+              c = _html.unescape(c)
+              c = _re.sub(r'[ \t]+', ' ', c)
+              out = []
+              for r in c.split('\n'):
+                  s = r.strip()
+                  if not s:
+                      continue
+                  h = s.startswith('\x01') or s.endswith('\x02')
+                  s = s.replace('\x01', '').replace('\x02', '').strip()
+                  if s:
+                      out.append(('h' if h else 'p', s))
+              return out
+
+          WD = {'monday': 0, 'tuesday': 1, 'wednesday': 2, 'thursday': 3,
+                'friday': 4, 'saturday': 5, 'sunday': 6}
+          try:
+              raw = fetch('https://rss.beehiiv.com/feeds/1BT4mvZXMo.xml',
+                          headers={'User-Agent': 'btown-brief-site/1.0'})
+              root = ET.fromstring(raw)
+              item = root.find('./channel/item')
+              if item is not None:
+                  title = (item.findtext('title') or '').strip()
+                  link = (item.findtext('link') or '').strip()
+                  pub = (item.findtext('pubDate') or '').strip()
+                  body = item.findtext('{http://purl.org/rss/1.0/modules/content/}encoded') \
+                      or item.findtext('description') or ''
+                  lines = flatten(body)
+                  try:
+                      pdt = parsedate_to_datetime(pub).date()
+                  except Exception:
+                      pdt = _date.today()
+                  issue_monday = pdt - timedelta(days=pdt.weekday())
+                  wi = next((i for i, (t, txt) in enumerate(lines)
+                             if t == 'h' and _re.search(r'weather', txt, _re.I)), None)
+                  preview = ''
+                  days = []
+                  if wi is not None:
+                      paras = []
+                      for t, txt in lines[wi + 1:]:
+                          if t == 'h':
+                              break
+                          paras.append(txt)
+                      for p in paras:
+                          if len(p) > 40:
+                              preview = p
+                              break
+                      if len(preview) > 240:
+                          preview = preview[:240].rsplit(' ', 1)[0] + '…'
+                      for p in paras:
+                          m = _re.match(r'^(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b', p, _re.I)
+                          if m:
+                              d = issue_monday + timedelta(days=WD[m.group(1).lower()])
+                              days.append({'date': d.isoformat(), 'label': m.group(1).capitalize(), 'text': p})
+                          elif _re.match(r'^(The Fourth|Fourth of July|This weekend|The weekend|Weekend)\b', p, _re.I):
+                              d = issue_monday + timedelta(days=5)
+                              days.append({'date': d.isoformat(), 'label': 'Weekend', 'text': p})
+
+                  if title and link:
+                      with open('data/newsletter.json', 'w') as f:
+                          json.dump({'updated': now, 'title': title, 'url': link,
+                                     'date': pub, 'preview': preview}, f, indent=2, ensure_ascii=False)
+                      print(f'newsletter.json: wrote "{title}"')
+                      if days:
+                          with open('data/events-week.json', 'w') as f:
+                              json.dump({'updated': now, 'issue_title': title,
+                                         'issue_url': link, 'days': days}, f, indent=2, ensure_ascii=False)
+                          print(f'events-week.json: wrote {len(days)} curated days')
+                      else:
+                          print('events-week: no curated day paragraphs found, keeping last good file')
+                  else:
+                      print('newsletter: empty title/link, keeping last good file')
+              else:
+                  print('newsletter: no <item> in feed, keeping last good file')
+          except Exception as e:
+              print(f'newsletter fetch failed, keeping last good file: {e}', file=sys.stderr)
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "btown-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/reddit.json data/newsletter.json data/events-week.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Auto-refresh community data"
+            git push
+          fi
