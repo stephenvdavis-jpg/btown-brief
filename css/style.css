@@ -791,9 +791,17 @@ img {
 }
 .result-hint {
   margin-left: var(--space-4);
+  font: inherit;
   font-weight: 500;
-  color: var(--ink-4);
+  color: var(--teal);
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
+.result-hint:hover { color: var(--coral); }
 @media (max-width: 480px) {
   .result-hint { margin-left: var(--space-3); }
 }
