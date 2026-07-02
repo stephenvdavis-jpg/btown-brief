@@ -219,7 +219,12 @@ img {
   letter-spacing: 0.01em;
 }
 
-@media (max-width: 480px) {
+.logo-title {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+@media (max-width: 400px) {
   .logo-title { display: none; }
   .logo-sep { display: none; }
 }
@@ -650,25 +655,41 @@ img {
 }
 
 .filter-toggle-btn {
-  display: none;
+  display: inline-flex;
   align-items: center;
   gap: 6px;
   height: 42px;
-  padding: 0 var(--space-4);
+  padding: 0 var(--space-5);
   font-size: var(--text-sm);
-  font-weight: 500;
-  color: var(--ink-2);
-  background: var(--bg-raised);
-  border: 1px solid var(--line);
+  font-weight: 700;
+  color: #fff;
+  background: var(--coral);
+  border: 1px solid var(--coral);
   border-radius: var(--radius-full);
-  transition: background var(--duration-fast), color var(--duration-fast), border-color var(--duration-fast);
+  transition: filter var(--duration-fast), transform var(--duration-fast);
   white-space: nowrap;
 }
-.filter-toggle-btn:hover { background: var(--bg-subtle); color: var(--ink); }
-.filter-toggle-btn.active { border-color: var(--coral); color: var(--coral); }
+.filter-toggle-btn:hover { filter: brightness(1.06); }
+.filter-toggle-btn.active { background: var(--ink); border-color: var(--ink); }
+.filter-toggle-btn .active-filter-count {
+  background: #fff;
+  color: var(--coral);
+  border-radius: var(--radius-full);
+  min-width: 18px;
+  height: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 700;
+}
 
-@media (max-width: 1023px) {
-  .filter-toggle-btn { display: flex; }
+/* Filter button (with its attention arrows) is always visible. On mobile it
+   opens the filter drawer; on desktop it collapses/expands the sidebar. */
+.attn-filter { display: inline-flex; position: relative; }
+
+@media (min-width: 1024px) {
+  .list-layout.filters-collapsed .filter-panel { display: none; }
 }
 
 .sort-select {
@@ -2485,7 +2506,6 @@ img {
 .rail-card-top100 {
   flex-basis: 256px;
   background: var(--ink);
-  box-shadow: 0 0 0 2px var(--coral);
 }
 [data-theme="dark"] .rail-card-top100 {
   background: var(--bg-raised);
@@ -2494,3 +2514,93 @@ img {
 .rail-card-top100 .rail-card-type { color: var(--coral); opacity: 1; font-weight: 600; }
 .rail-card-top100 .rail-card-title { color: var(--bg); }
 [data-theme="dark"] .rail-card-top100 .rail-card-title { color: var(--ink); }
+
+/* ============================================================
+   ATTENTION ARROWS (4 inward-pointing arrows around an element)
+   Used on the mobile Filter button and the Top 100 rail card.
+============================================================ */
+.attn-arrow {
+  position: absolute;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  z-index: 3;
+}
+.attn-top {
+  top: -9px; left: 50%; margin-left: -5px;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-top: 7px solid var(--coral);
+  animation: attnTop 1.4s ease-in-out infinite;
+}
+.attn-bottom {
+  bottom: -9px; left: 50%; margin-left: -5px;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;
+  border-bottom: 7px solid var(--coral);
+  animation: attnBottom 1.4s ease-in-out infinite;
+}
+.attn-left {
+  left: -9px; top: 50%; margin-top: -5px;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 7px solid var(--coral);
+  animation: attnLeft 1.4s ease-in-out infinite;
+}
+.attn-right {
+  right: -9px; top: 50%; margin-top: -5px;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-right: 7px solid var(--coral);
+  animation: attnRight 1.4s ease-in-out infinite;
+}
+@keyframes attnTop    { 0%,100% { transform: translateY(0); } 50% { transform: translateY(3px); } }
+@keyframes attnBottom { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+@keyframes attnLeft   { 0%,100% { transform: translateX(0); } 50% { transform: translateX(3px); } }
+@keyframes attnRight  { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-3px); } }
+
+@media (prefers-reduced-motion: reduce) {
+  .attn-arrow { animation: none !important; }
+}
+
+/* Room in the rail so the Top 100 card's outside arrows aren't clipped */
+.guides-rail { padding: 11px 6px 12px 11px; }
+.rail-card-top100 { position: relative; overflow: visible; }
+
+/* ============================================================
+   LIST INTRO (what this list is)
+============================================================ */
+.list-intro { margin-bottom: var(--space-5); }
+
+.list-intro-title {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--ink);
+  margin-bottom: var(--space-2);
+}
+
+.list-intro-sub {
+  font-size: var(--text-md);
+  color: var(--ink-2);
+  line-height: 1.55;
+  max-width: 62ch;
+}
+.list-intro-sub strong { color: var(--coral); font-weight: 700; }
+
+.intro-link {
+  font: inherit;
+  color: var(--teal);
+  font-weight: 700;
+  padding: 0;
+  cursor: pointer;
+  border-bottom: 2px solid var(--teal);
+  line-height: 1.1;
+}
+.intro-link:hover { color: var(--ink); border-color: var(--ink); }
+
+@media (max-width: 560px) {
+  .list-intro-title { font-size: var(--text-xl); }
+  .list-intro-sub { font-size: var(--text-base); }
+}

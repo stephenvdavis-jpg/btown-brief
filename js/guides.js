@@ -30,10 +30,17 @@
     const guides = window.BTV.guides || [];
     if (!wrap || !rail || guides.length === 0) return;
 
+    const arrows = `
+      <span class="attn-arrow attn-top" aria-hidden="true"></span>
+      <span class="attn-arrow attn-right" aria-hidden="true"></span>
+      <span class="attn-arrow attn-bottom" aria-hidden="true"></span>
+      <span class="attn-arrow attn-left" aria-hidden="true"></span>`;
+
     rail.innerHTML = guides.map(g => {
       const isTop100 = g.id === 'top-100';
       return `
       <button class="rail-card ${getCoverClass(g)}${isTop100 ? ' rail-card-top100' : ''}" data-guide-id="${esc(g.id)}" role="listitem" aria-label="${esc(g.title)}">
+        ${isTop100 ? arrows : ''}
         <span class="rail-card-type">${isTop100 ? 'The definitive ranking' : typeBadge(g)}</span>
         <span class="rail-card-title">${esc(g.title)}</span>
       </button>

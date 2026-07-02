@@ -32,7 +32,7 @@
       freeOnly: false, hasGuide: false,
     },
     search: '',
-    sort: 'featured',
+    sort: 'random',
     openDetailId: null,
     _leafletMap: null,
     _leafletMarker: null,
@@ -60,6 +60,9 @@
       ]);
       const eventsWeek = await fetchJSON('data/events-week.json').catch(() => ({ days: [] }));
       state.things = things || [];
+      // Assign a per-load random key so "Random" sort gives a fresh order on
+      // every refresh, but stays stable while filtering within a session.
+      state.things.forEach(t => { t._rand = Math.random(); });
       state.taxonomy = taxonomy || {};
       state.events = events || [];
       state.calendar = calendar || [];
@@ -101,6 +104,12 @@
   function init() {
     // Hide loading, show content
     hide('loading-state');
+
+    // Intro: real count + default the sort control to Random
+    const introCount = document.getElementById('intro-count');
+    if (introCount) introCount.textContent = state.things.length;
+    const sortSelect = document.getElementById('sort-select');
+    if (sortSelect) sortSelect.value = state.sort;
 
     renderEventsWeek();
     renderEvents();
@@ -523,6 +532,9 @@
   ---------------------------------------------------------- */
   function sortThings(things, sort) {
     const arr = [...things];
+    if (sort === 'random') {
+      return arr.sort((a, b) => (a._rand || 0) - (b._rand || 0));
+    }
     if (sort === 'alpha') {
       return arr.sort((a, b) => a.name.localeCompare(b.name));
     }
@@ -563,8 +575,10 @@
     if (emptyEl) emptyEl.hidden = true;
     if (countEl) {
       const total = state.things.length;
+      // The intro already states the full count, so only show a count line
+      // once the results are actually narrowed by a filter or search.
       countEl.textContent = sorted.length === total
-        ? `${total} places`
+        ? ''
         : `Showing ${sorted.length} of ${total}`;
     }
 
@@ -909,12 +923,27 @@
     // Surprise me
     document.getElementById('surprise-btn')?.addEventListener('click', surpriseMe);
 
+    // Intro "Top 100" link → Guides mode, Top 100 guide
+    document.getElementById('intro-top100')?.addEventListener('click', () => {
+      switchMode('guides');
+      if (typeof window.BTV.showGuide === 'function') window.BTV.showGuide('top-100');
+    });
+
     // Clear filters
     document.getElementById('clear-all-filters')?.addEventListener('click', clearAllFilters);
     document.getElementById('empty-clear-btn')?.addEventListener('click', clearAllFilters);
 
     // Filter panel toggle (mobile)
-    document.getElementById('filter-toggle')?.addEventListener('click', openFilterPanel);
+    document.getElementById('filter-toggle')?.addEventListener('click', () => {
+      // Desktop: collapse/expand the always-on sidebar. Mobile: open the drawer.
+      if (window.matchMedia('(min-width: 1024px)').matches) {
+        const layout = document.querySelector('.list-layout');
+        const collapsed = layout?.classList.toggle('filters-collapsed');
+        document.getElementById('filter-toggle')?.setAttribute('aria-expanded', String(!collapsed));
+      } else {
+        openFilterPanel();
+      }
+    });
     document.getElementById('filter-close')?.addEventListener('click', closeFilterPanel);
     document.getElementById('filter-overlay')?.addEventListener('click', closeFilterPanel);
 
