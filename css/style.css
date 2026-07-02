@@ -2507,7 +2507,12 @@ img {
 ============================================================ */
 .rail-card-top100 {
   flex-basis: 256px;
-  background: var(--ink);
+  /* Lake Champlain sunset behind a strong navy wash — text sits directly on
+     the card, so keep the photo subtle and the bottom dark for legibility. */
+  background:
+    linear-gradient(180deg, rgba(19,36,59,0.60) 0%, rgba(19,36,59,0.90) 100%),
+    url('../assets/img/top100-bg.jpg') center 42% / cover no-repeat,
+    var(--ink);
 }
 [data-theme="dark"] .rail-card-top100 {
   background: var(--bg-raised);
@@ -2700,4 +2705,15 @@ img {
 }
 @media (max-width: 430px) {
   .header-utils { gap: 8px; font-size: 10px; }
+}
+
+/* ============================================================
+   TOP 100 GUIDE CARD COVER — waterfront photo (text sits below,
+   so the photo can read more prominently here)
+============================================================ */
+.guide-card-cover.guide-cover-top100 {
+  background:
+    linear-gradient(180deg, rgba(19,36,59,0.10) 0%, rgba(19,36,59,0.42) 100%),
+    url('../assets/img/top100-bg.jpg') center 42% / cover no-repeat,
+    var(--ink);
 }
