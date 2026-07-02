@@ -138,20 +138,6 @@
           </div>
 
           <div class="toolbar-right">
-            <span class="attn attn-filter">
-              <span class="attn-arrow attn-top" aria-hidden="true"></span>
-              <span class="attn-arrow attn-right" aria-hidden="true"></span>
-              <span class="attn-arrow attn-bottom" aria-hidden="true"></span>
-              <span class="attn-arrow attn-left" aria-hidden="true"></span>
-              <button class="filter-toggle-btn" id="filter-toggle" aria-label="Toggle filters" aria-expanded="false">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-                  <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
-                </svg>
-                <span>Filter</span>
-                <span class="active-filter-count" id="active-filter-count" hidden>0</span>
-              </button>
-            </span>
-
             <select class="sort-select" id="sort-select" aria-label="Sort results">
               <option value="random">Random</option>
               <option value="featured">Featured</option>
@@ -167,6 +153,20 @@
             <input type="checkbox" id="free-only">
             <span>Free only</span>
           </label>
+
+          <span class="attn attn-filter">
+            <span class="attn-arrow attn-top" aria-hidden="true"></span>
+            <span class="attn-arrow attn-right" aria-hidden="true"></span>
+            <span class="attn-arrow attn-bottom" aria-hidden="true"></span>
+            <span class="attn-arrow attn-left" aria-hidden="true"></span>
+            <button class="filter-toggle-btn" id="filter-toggle" aria-label="Toggle filters" aria-expanded="false">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+              </svg>
+              <span>Filter</span>
+              <span class="active-filter-count" id="active-filter-count" hidden>0</span>
+            </button>
+          </span>
 
           <button class="surprise-btn" id="surprise-btn" type="button">
             ✦ Surprise me
