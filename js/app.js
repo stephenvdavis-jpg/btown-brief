@@ -105,9 +105,12 @@
     // Hide loading, show content
     hide('loading-state');
 
-    // Intro: real count + default the sort control to Random
+    // Intro: rounded count ("200+") + default the sort control to Random
     const introCount = document.getElementById('intro-count');
-    if (introCount) introCount.textContent = state.things.length;
+    if (introCount) {
+      const rounded = Math.floor(state.things.length / 100) * 100;
+      introCount.textContent = `${rounded}+`;
+    }
     const sortSelect = document.getElementById('sort-select');
     if (sortSelect) sortSelect.value = state.sort;
 
@@ -372,11 +375,11 @@
       { key: 'indoor_outdoor',label: 'Setting',       values: state.taxonomy.indoor_outdoor },
     ];
 
-    container.innerHTML = sections.map((sec, i) => `
+    container.innerHTML = sections.map(sec => `
       <div class="filter-section">
         <button
           class="filter-section-toggle"
-          aria-expanded="${i < 3 ? 'true' : 'false'}"
+          aria-expanded="true"
           aria-controls="filter-body-${sec.key}"
           data-filter-key="${sec.key}"
         >
@@ -385,7 +388,7 @@
             <polyline points="6 9 12 15 18 9"/>
           </svg>
         </button>
-        <div class="filter-section-body" id="filter-body-${sec.key}" ${i >= 3 ? 'hidden' : ''}>
+        <div class="filter-section-body" id="filter-body-${sec.key}">
           ${(sec.values || []).map(val => `
             <label class="filter-chip ${isFilterActive(sec.key, val) ? 'active' : ''}">
               <input type="checkbox" data-filter="${sec.key}" value="${val}" ${isFilterActive(sec.key, val) ? 'checked' : ''}>

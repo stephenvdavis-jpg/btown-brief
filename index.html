@@ -31,21 +31,19 @@
           </svg>
         </button>
         <span class="logo-sep"></span>
-        <span class="logo-title">Things To Do</span>
+        <div class="weather-wrap" id="weather-wrap" hidden>
+          <button class="weather-indicator" id="weather-indicator" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Weather details"></button>
+          <div class="weather-menu" id="weather-menu" role="menu" hidden>
+            <a class="weather-menu-item" role="menuitem" href="https://weather.com/weather/today/l/USVT0033:1:US" target="_blank" rel="noopener">Full forecast on weather.com ↗</a>
+            <a class="weather-menu-item" id="weather-brief-link" role="menuitem" href="https://www.btownbrief.com" target="_blank" rel="noopener">Read the weather in the Brief ↗</a>
+          </div>
+        </div>
       </div>
 
       <nav class="mode-nav" aria-label="View mode">
         <button class="mode-btn" id="btn-list" data-mode="list" aria-pressed="true">The List</button>
         <button class="mode-btn" id="btn-guides" data-mode="guides" aria-pressed="false">Guides</button>
       </nav>
-
-      <div class="weather-wrap" id="weather-wrap" hidden>
-        <button class="weather-indicator" id="weather-indicator" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Weather details"></button>
-        <div class="weather-menu" id="weather-menu" role="menu" hidden>
-          <a class="weather-menu-item" role="menuitem" href="https://weather.com/weather/today/l/USVT0033:1:US" target="_blank" rel="noopener">Full forecast on weather.com ↗</a>
-          <a class="weather-menu-item" id="weather-brief-link" role="menuitem" href="https://www.btownbrief.com" target="_blank" rel="noopener">Read the weather in the Brief ↗</a>
-        </div>
-      </div>
     </div>
   </header>
 
@@ -145,6 +143,22 @@
               <option value="neighborhood">By neighborhood</option>
             </select>
           </div>
+        </div>
+
+        <!-- Connect row: equal-width trio -->
+        <div class="connect-row">
+          <a class="connect-btn connect-about" href="https://www.btownbrief.com/about-me" target="_blank" rel="noopener">
+            <span class="connect-btn-main">About Me</span>
+            <span class="connect-btn-note">Who's behind this</span>
+          </a>
+          <a class="connect-btn connect-meetup" href="https://www.meetup.com/burlington-social-activites-group/events/" target="_blank" rel="noopener">
+            <span class="connect-btn-main">Meetup Events</span>
+            <span class="connect-btn-note">Hang out with us IRL</span>
+          </a>
+          <a class="connect-btn connect-telegram" href="https://t.me/+pULrkkS4vjBiZjEx" target="_blank" rel="noopener">
+            <span class="connect-btn-main">Join Group Chat</span>
+            <span class="connect-btn-note">Requires Telegram app</span>
+          </a>
         </div>
 
         <!-- Quick actions -->
@@ -270,6 +284,10 @@
       <span>Burlington, Vermont</span>
       <span class="footer-sep">·</span>
       <span><a href="https://forms.gle/6tfcmd1DZWRKh8yv8" target="_blank" rel="noopener">Submit a photo</a></span>
+      <span class="footer-sep">·</span>
+      <span><a href="https://ko-fi.com/btownbrief" target="_blank" rel="noopener">Donate ❤️</a></span>
+      <span class="footer-sep">·</span>
+      <span><a href="https://stephenvdavis-jpg.github.io/t-shirts/index.html" target="_blank" rel="noopener">Btown Brief merch</a></span>
       <span class="footer-sep">·</span>
       <span class="footer-attribution">Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> (CC BY 4.0)</span>
     </div>
