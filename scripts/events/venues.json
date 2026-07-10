@@ -87,7 +87,7 @@
   "Despacito": {"address": null, "town": "Burlington", "aliases": ["despacito taqueria"], "indoor_outdoor": null},
   "The Archives": {"address": null, "town": "Burlington", "aliases": ["archives bar", "the archives btv"], "indoor_outdoor": "indoor"},
   "The Screening Room @ VTIFF": {"address": "60 Lake St, Burlington, VT", "town": "Burlington", "aliases": ["screening room vtiff", "vtiff screening room"], "indoor_outdoor": "indoor"},
-  "Film House at Main Street Landing": {"address": "60 Lake St, Burlington, VT", "town": "Burlington", "aliases": ["film house"], "indoor_outdoor": "indoor"},
+  "Film House at Main Street Landing": {"address": "60 Lake St, Burlington, VT", "town": "Burlington", "aliases": ["film house", "vermont international film festival", "vtiff"], "indoor_outdoor": "indoor"},
   "Champlain Valley Exposition": {"address": "105 Pearl St, Essex Junction, VT", "town": "Essex Junction", "aliases": ["champlain valley expo", "cvexpo", "the midway lawn at champlain valley expo", "midway lawn"], "indoor_outdoor": null},
   "Howe Library": {"address": null, "town": "Burlington", "aliases": ["uvm howe library"], "indoor_outdoor": "indoor"},
   "Billings Library": {"address": null, "town": "Burlington", "aliases": ["uvm billings library", "billings north lounge"], "indoor_outdoor": "indoor"},
@@ -114,5 +114,13 @@
   "Old Lantern Events Barn": {"address": null, "town": "Charlotte", "aliases": ["old lantern inn & barn", "the old lantern"], "indoor_outdoor": null},
   "Fairfax Community Library": {"address": "75 Hunt St, Fairfax, VT", "town": "Fairfax", "aliases": [], "indoor_outdoor": "indoor"},
   "Spruce Peak Arts": {"address": null, "town": "Stowe", "aliases": ["spruce peak performing arts center"], "indoor_outdoor": "indoor"},
-  "Stowe Cider": {"address": null, "town": "Stowe", "aliases": ["shakedown lounge at stowe cider"], "indoor_outdoor": null}
+  "Stowe Cider": {"address": null, "town": "Stowe", "aliases": ["shakedown lounge at stowe cider"], "indoor_outdoor": null},
+  "La Reprise": {"address": null, "town": "Burlington", "aliases": [], "indoor_outdoor": "indoor"},
+  "Lake Champlain Chocolates": {"address": "750 Pine St, Burlington, VT", "town": "Burlington", "aliases": [], "indoor_outdoor": "indoor"},
+  "Perkins Pier": {"address": "1 King St, Burlington, VT", "town": "Burlington", "aliases": [], "indoor_outdoor": "outdoor"},
+  "AO Glass": {"address": "416 Pine St, Burlington, VT", "town": "Burlington", "aliases": [], "indoor_outdoor": "indoor"},
+  "Farmhouse Tap & Grill": {"address": "160 Bank St, Burlington, VT", "town": "Burlington", "aliases": ["the farmhouse"], "indoor_outdoor": null},
+  "The Soda Plant": {"address": "266 Pine St, Burlington, VT", "town": "Burlington", "aliases": [], "indoor_outdoor": "indoor"},
+  "Doma Bar": {"address": null, "town": "Burlington", "aliases": [], "indoor_outdoor": "indoor"},
+  "New North End Branch": {"address": null, "town": "Burlington", "aliases": ["fletcher free library new north end branch", "fletcher free new north end"], "indoor_outdoor": "indoor"}
 }

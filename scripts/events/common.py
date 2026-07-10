@@ -460,6 +460,8 @@ def parse_iso(s: str) -> datetime | date:
 # ---------------------------------------------------------------- price / free
 
 _FREE_RE = re.compile(r"\bfree\b", re.I)
+# "Free with admission" / "free for members" means NOT free to walk in
+_FREE_QUALIFIED_RE = re.compile(r"\bfree\s+(with|w/|for\s+member|to\s+member)", re.I)
 _PRICE_RE = re.compile(r"\$\s?(\d+(?:\.\d{2})?)")
 
 
@@ -469,6 +471,8 @@ def parse_price(text: str | None):
         return None, None, None
     text = " ".join(text.split())[:80]
     prices = [float(p) for p in _PRICE_RE.findall(text)]
+    if _FREE_QUALIFIED_RE.search(text):
+        return text, False, (min(prices) if prices else None)
     free = None
     if _FREE_RE.search(text):
         free = True if not prices else None  # "free for members, $10..." -> unknown

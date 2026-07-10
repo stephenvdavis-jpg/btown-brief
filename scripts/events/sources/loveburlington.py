@@ -8,16 +8,18 @@ JS bundle (calendar.time.ly/<ver>/main.js):
     GET https://timelyapp.time.ly/api/calendars/info?url=<calendar url>
         -> resolves the numeric calendar id (54705107)
     GET https://timelyapp.time.ly/api/calendars/<id>/events
-        ?group_by_date=1&start_date=YYYY-MM-DD&end_date=YYYY-MM-DD&per_page=&page=
+        ?start_date=YYYY-MM-DD&end_date=YYYY-MM-DD&per_page=&page=
         (header X-Api-Key: <key>)
 
-The API returns one instance per occurrence date for recurring series
-(verified: "Pub Hour", "The Ultimate Chocolate Tasting" appear under each
-date). Long multi-day spans (exhibits, camps) come back once under their
-start date; we expand those to one occurrence per day inside the window —
-verified honest because single-day API queries return the span for any date
-inside it. Expanded middle days are emitted as all-day (we only know the
-span's opening/closing datetimes, not per-day hours).
+IMPORTANT: a single ranged query silently collapses SOME recurring series to
+their first instance (e.g. a daily 9pm event returned once while another
+daily event came back per-date; 125 items vs the API's own total of 135 for
+a 14-day window), and no query parameter disables that. So we query ONE DAY
+AT A TIME — day queries return every instance, verified equal to the API
+total. A day query also returns multi-day spans (exhibits, camps) covering
+that day even when they started months earlier, which is the source itself
+asserting the event occurs that day; span occurrences away from their start
+date are emitted as all-day since per-day hours aren't stated.
 
 `cost` is used verbatim when present; `cost_display` is a widget settings
 code, NOT a price, and is ignored. free=True only from an explicit
@@ -47,7 +49,7 @@ API_BASE = "https://timelyapp.time.ly/api"
 API_KEY = "c6e5e0363b5925b28552de8805464c66f25ba0ce"
 CAL_ID = 54705107          # "Love Burlington Calendar" (fallback if info fails)
 PER_PAGE = 50
-MAX_PAGES = 30
+MAX_PAGES_PER_DAY = 5      # >250 instances in one day would be a data error
 
 _HDRS = {"X-Api-Key": API_KEY, "Accept": "application/json"}
 
@@ -82,22 +84,23 @@ def _calendar_id() -> int:
         return CAL_ID
 
 
-def _fetch_items(cal_id: int, lo: date, hi: date) -> list[dict]:
+def _day_items(cal_id: int, day: date) -> list[dict]:
+    """Every event instance the calendar lists for one day (paginated)."""
     items: list[dict] = []
-    for page in range(1, MAX_PAGES + 1):
+    for page in range(1, MAX_PAGES_PER_DAY + 1):
         params = urllib.parse.urlencode({
-            "group_by_date": 1, "start_date": lo.isoformat(),
-            "end_date": hi.isoformat(), "per_page": PER_PAGE, "page": page,
+            "start_date": day.isoformat(), "end_date": day.isoformat(),
+            "per_page": PER_PAGE, "page": page,
         })
         data = common.fetch_json(
             f"{API_BASE}/calendars/{cal_id}/events?{params}", headers=_HDRS)["data"]
-        for evs in (data.get("items") or {}).values():
+        got = data.get("items") or {}
+        for evs in (got.values() if isinstance(got, dict) else [got]):
             items.extend(evs)
         if not data.get("has_next"):
             break
     else:
-        log(f"  [{SOURCE}] WARNING: hit {MAX_PAGES}-page safety cap")
-    log(f"  [{SOURCE}] {len(items)} instances (API total {data.get('total')})")
+        log(f"  [{SOURCE}] WARNING: {day} hit the per-day pagination cap")
     return items
 
 
@@ -132,27 +135,31 @@ def _is_allday(item: dict, sdt: datetime, edt: datetime | None) -> bool:
 
 def fetch(window_start: date, window_end: date) -> list[dict]:
     cal_id = _calendar_id()
-    items = _fetch_items(cal_id, window_start, window_end)
 
-    # ids that occur on >1 distinct date in the window = recurring series
-    dates_per_id: dict = {}
-    for it in items:
+    # occurrences[(event id, day)] = (item, day)  — day-by-day, deduped
+    occurrences: dict[tuple, tuple[dict, date]] = {}
+    day = window_start
+    while day <= window_end:
         try:
-            dates_per_id.setdefault(it["id"], set()).add(it["start_datetime"][:10])
-        except Exception:
-            pass
+            for it in _day_items(cal_id, day):
+                if it.get("event_status") == "cancelled":
+                    continue
+                occurrences.setdefault((it.get("id"), day), (it, day))
+        except Exception as e:
+            log(f"  [{SOURCE}] day {day} failed ({e}); continuing")
+        day += timedelta(days=1)
+    log(f"  [{SOURCE}] {len(occurrences)} occurrences across "
+        f"{(window_end - window_start).days + 1} day queries")
+
+    # ids occurring on >1 date = recurring series (no rule text in the API)
+    date_count: dict = {}
+    for (eid, d) in occurrences:
+        date_count[eid] = date_count.get(eid, 0) + 1
 
     events: list[dict] = []
-    seen: set[tuple] = set()
-    for it in items:
+    for (eid, day), (it, _) in sorted(occurrences.items(),
+                                      key=lambda kv: (kv[0][1], str(kv[0][0]))):
         try:
-            if it.get("event_status") == "cancelled":
-                continue
-            key = (it.get("id"), it.get("instance"))
-            if key in seen:
-                continue
-            seen.add(key)
-
             tz = TZ
             if it.get("timezone"):
                 try:
@@ -185,31 +192,32 @@ def fetch(window_start: date, window_end: date) -> list[dict]:
             )
             allday = _is_allday(it, sdt, edt)
 
-            # ---- multi-day span (exhibit / camp / festival): one per day
-            overnight = (edt is not None and edt.date() == sdt.date() + timedelta(days=1)
-                         and edt.time() <= sdt.time())
-            if edt is not None and edt.date() > sdt.date() and not overnight:
-                through = (f"Through {edt.date().strftime('%B')} "
-                           f"{edt.date().day}, {edt.date().year}")
-                d = max(sdt.date(), window_start)
-                while d <= min(edt.date(), window_end):
-                    if d == sdt.date() and not allday:
-                        events.append(make_event(**base, start=sdt, recurring=through))
-                    else:   # per-day hours unknown -> all-day, never guessed
-                        events.append(make_event(**base, start=d, recurring=through))
-                    d += timedelta(days=1)
+            # multi-day span whose start is another day: hours for THIS day
+            # aren't stated -> all-day occurrence, "Through <end>" marker
+            if sdt.date() != day:
+                end_d = edt.date() if edt else None
+                through = (f"Through {end_d.strftime('%B')} {end_d.day}, "
+                           f"{end_d.year}"
+                           if end_d and end_d > sdt.date() else None)
+                events.append(make_event(**base, start=day, recurring=through))
                 continue
 
-            # ---- single occurrence
-            if not (window_start <= sdt.date() <= window_end):
-                continue
-            recurring = ("Multiple dates" if len(dates_per_id.get(it["id"], ())) > 1
-                         else None)
+            recurring = None
+            if edt is not None and edt.date() > day + timedelta(days=1) or (
+                    edt is not None and edt.date() == day + timedelta(days=1)
+                    and edt.time() > sdt.time()):
+                # first day of a genuine multi-day span (not an overnight gig)
+                recurring = (f"Through {edt.date().strftime('%B')} "
+                             f"{edt.date().day}, {edt.date().year}")
+                edt = None          # span end is not this occurrence's end
+            elif date_count.get(eid, 0) > 1:
+                recurring = "Multiple dates"
+
             if allday:
-                events.append(make_event(**base, start=sdt.date(), recurring=recurring))
+                events.append(make_event(**base, start=day, recurring=recurring))
             else:
                 events.append(make_event(**base, start=sdt, end=edt,
                                          recurring=recurring))
         except Exception as e:
-            log(f"  [{SOURCE}] skipped item {it.get('id')!r}: {e}")
+            log(f"  [{SOURCE}] skipped item {eid!r} on {day}: {e}")
     return events
