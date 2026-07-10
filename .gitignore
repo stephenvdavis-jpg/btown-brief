@@ -1,2 +1,8 @@
 scripts/__pycache__/
 *.pyc
+
+# Burlington Pulse private paths (repo is public; these stay local-only)
+data/tips-inbox.md
+data/fpf-digests/
+data/fpf-dropbox/
+.chatter-dev/
