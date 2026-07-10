@@ -112,6 +112,23 @@ module either re-extracts automatically or fails loudly — update.py keeps
 last-good data either way. Seven Days parsing is anchored to their current
 CSS class names; a redesign there needs a parser revisit.
 
+## Verification performed
+
+- Every fetcher live spot-checked by its builder (2–3 events each against the
+  source's own pages) plus per-source count audits vs known baselines.
+- Full pipeline run end-to-end (exit 0, all 25 sources OK, report.json clean).
+- The page was verified in a real Chrome tab against the live data:
+  time-aware hero ("Friday evening in Burlington · 30 things tonight"),
+  all seven buckets with correct counts, bucket panel open/close, day-grouped
+  calendar (507 events / 7 days), ongoing strip (32), free-price filter
+  (503 → 216, every visible card had a Free badge) and clear-filters — all
+  confirmed via DOM inspection.
+- Map view: the marker-grouping logic was verified headlessly against the
+  real dataset (24 venue pins, all valid; Leaflet usage mirrors the already-
+  shipped app.js). A visual click-through of the map didn't complete — the
+  Chrome extension session kept dropping mid-check — so give the Map toggle
+  one manual click when you review. Everything else was eyeballs-on-DOM.
+
 ## How to run / preview
 
 ```bash
