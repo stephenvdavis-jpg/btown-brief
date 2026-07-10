@@ -82,21 +82,38 @@ Cambrian Rise) — a possible "notable buildings" follow-up pass.
 
 ## Verification
 
-- Housing page verified rendering in Chrome against the local server with
-  real data: 24 manager cards, 16 mailto actions, 10 source cards, 3 rent
-  tiles, footer strip injected, filters working (single-column mobile
-  layout confirmed by screenshot; ≥720px two-column via `dir-grid-2`).
-- Jobs page + refresh script verification: see "Codex + verification"
-  below.
-- Not run: no repo test suite / linters exist; nothing to run beyond the
-  pages themselves.
+Both pages were rendered against a local server (`python3 -m http.server`)
+with real data, via Chrome (screenshots + DOM probes) and headless Chrome
+(`--headless=new --dump-dom`, i.e. post-JavaScript output):
 
-## Codex + verification
+- **housing.html**: 24 manager cards, 16 direct-email actions (+1
+  note-card mailto), 23 phone links, 10 source cards with gotchas, 3 rent
+  tiles, footer strip injected, two-column grid at ≥720px, single-column
+  mobile confirmed by screenshot.
+- **jobs.html**: 29 of 30 postings render (one aged past the 14-day
+  client window and was correctly hidden — the auto-expire works), 7 pay
+  badges, "Last checked Friday, July 10" stamp, 5 employer cards, footer
+  strip injected, and the Weekend chip correctly hid itself (no
+  weekend-tagged postings this week) while city/no-degree/$25+/seasonal
+  stayed.
+- **refresh_jobs.py** ran twice against the live endpoints (Codex's runs;
+  output validated independently): 30 postings, all five sources
+  contributing (UVM 15, City of Burlington 7, Seven Days 5, UVMMC 2,
+  State of VT 1), idempotent on the second run. `py_compile` clean; field
+  contract validated against what `js/jobs.js` consumes.
+- No repo test suite or linters exist; nothing else to run.
+- **Not done (session cut short)**: an independent Codex review of the
+  final diff, and a desktop-width screenshot (two-column layout verified
+  via headless DOM class check instead). Both are cheap follow-ups.
 
-`scripts/refresh_jobs.py` was implemented by Codex (GPT-5.6 Sol) against a
-spec with live-tested endpoints from the recon pass; diff inspected and the
-script re-run independently before commit. <!-- verification numbers filled
-in after the run below -->
+## Codex's contribution
+
+`scripts/refresh_jobs.py` was implemented by Codex (GPT-5.6 Sol) from a
+spec built on live-tested endpoints from the recon pass; the diff was
+inspected (conventions, gentle fetching, no secrets, keep-last-good) and
+its output validated independently before commit. All research
+(property managers, feed recon, links/terms) was done by Claude subagents
+with every URL verified live.
 
 ## Open questions (for Stephen)
 
