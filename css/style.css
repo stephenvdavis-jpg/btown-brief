@@ -2739,3 +2739,7 @@ img {
     url('../assets/img/top100-bg.jpg') center 42% / cover no-repeat,
     var(--ink);
 }
+
+/* Events page nav link (header) */
+a.mode-btn-link,
+a.mode-btn-link:hover { text-decoration: none; }
