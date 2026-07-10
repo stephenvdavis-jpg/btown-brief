@@ -348,3 +348,26 @@ File an issue at the Burlington Brief or reach out to the site editor. To add yo
 Hours format in `restaurants.json`: `hours.mon = [["11:30","22:00"]]`; a close time
 earlier than its open means past midnight (`[["22:00","02:00"]]`). `kitchen_close`
 is keyed by the day the evening starts.
+
+---
+
+## Housing & Jobs pages (feat/housing-jobs)
+
+- **housing.html** — the property-manager directory (`data/housing.json` →
+  `managers`), the "everywhere else to look" links layer (`sources`), and a
+  monthly rent snapshot (`rent`). All client-side in `js/housing.js`.
+  The rent numbers are hand-updated: ZORI from
+  [zillow.com/research/data](https://www.zillow.com/research/data/) (monthly,
+  needs the Zillow attribution kept in `source`), HUD FMR from huduser.gov
+  (annual). Live listing counts are deliberately absent — every listings
+  site's terms prohibit automated access.
+- **jobs.html** — "Added This Week": newest Burlington-area postings from
+  `data/jobs.json`, rendered by `js/jobs.js` (postings older than 14 days
+  auto-hide client-side; filter chips hide themselves when no posting
+  carries their tag).
+- **scripts/refresh_jobs.py** — fetches the five link-friendly sources
+  (Seven Days RSS, UVM Atom, City of Burlington NEOGOV, State of Vermont,
+  UVM Med Center JSON-LD) and writes `data/jobs.json`; runs Mon/Wed/Fri via
+  `.github/workflows/refresh-jobs.yml` with the standard keep-last-good
+  contract. Craigslist and Indeed are link-only by their terms — never
+  scraped.
