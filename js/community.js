@@ -25,7 +25,20 @@
       button: '❤️ Chip in on Ko-fi',
     },
   };
-  var ACTIVE_DONATE_VARIANT = 'A';
+  // 'A' or 'B' pins one copy variant for everyone; 'AB' gives each visitor
+  // a random sticky 50/50 assignment so btb_events can compare them fairly.
+  var ACTIVE_DONATE_VARIANT = 'AB';
+
+  function donateVariant() {
+    if (ACTIVE_DONATE_VARIANT !== 'AB') return ACTIVE_DONATE_VARIANT;
+    var v = null;
+    try { v = localStorage.getItem('btb-donate-variant'); } catch (e) {}
+    if (v !== 'A' && v !== 'B') {
+      v = Math.random() < 0.5 ? 'A' : 'B';
+      try { localStorage.setItem('btb-donate-variant', v); } catch (e) {}
+    }
+    return v;
+  }
 
   /* ---------- click tracking (best-effort, silent) ---------- */
   var SUPABASE_URL = 'https://jnouvwxomrcffqwilqkq.supabase.co';
@@ -77,7 +90,8 @@
     var footer = document.querySelector('.site-footer');
     if (!footer) return;
 
-    var copy = DONATE_COPY[ACTIVE_DONATE_VARIANT] || DONATE_COPY.A;
+    var variant = donateVariant();
+    var copy = DONATE_COPY[variant] || DONATE_COPY.A;
     var strip = document.createElement('section');
     strip.className = 'btb-strip';
     strip.setAttribute('aria-label', 'Support the Burlington Brief');
@@ -102,7 +116,7 @@
 
     strip.addEventListener('click', function (e) {
       var a = e.target.closest('[data-track]');
-      if (a) track('strip-' + a.getAttribute('data-track'), { variant: ACTIVE_DONATE_VARIANT });
+      if (a) track('strip-' + a.getAttribute('data-track'), { variant: variant });
     });
 
     footer.parentNode.insertBefore(strip, footer);

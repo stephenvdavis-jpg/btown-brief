@@ -1,5 +1,5 @@
 {
-  "_comment": "Community playlist config. EDIT WEEKLY: change theme.title/theme.sub. Theme ideas: Local artists · Songs for a Lake Champlain sunset · Rainy day records · Songs that sound like the Old North End · First-snow songs · Church Street busker energy. seeds only show until the Supabase tables exist (db/quick-wins.sql) — after that the live list takes over.",
+  "_comment": "Community playlist config. EDIT EVERY OTHER MONDAY (new two-week round): change theme.title/theme.sub. Theme ideas: Local artists · Songs for a Lake Champlain sunset · Rainy day records · Songs that sound like the Old North End · First-snow songs · Church Street busker energy. seeds only show until the Supabase tables exist (db/quick-wins.sql) — after that the live list takes over and past rounds' winners stay on the wall.",
   "theme": {
     "title": "Local artists",
     "sub": "Kick off week one with Vermont-made music — from Phish to whoever played your favorite basement show."

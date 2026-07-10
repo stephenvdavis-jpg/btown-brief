@@ -19,14 +19,28 @@
   var votedIds = {};     // local echo of this visitor's votes
   try { votedIds = JSON.parse(localStorage.getItem('btb-playlist-voted') || '{}'); } catch (e) {}
 
-  /* ISO week key like 2026-W28 — matches what the SQL expects. */
-  function weekKey() {
-    var d = new Date();
+  /* ISO week key like 2026-W28 for a given date — matches what the SQL expects. */
+  function isoWeekKeyOf(date) {
+    var d = new Date(date);
     d.setHours(0, 0, 0, 0);
-    d.setDate(d.getDate() + 3 - ((d.getDay() + 6) % 7)); // Thursday of this week
+    d.setDate(d.getDate() + 3 - ((d.getDay() + 6) % 7)); // Thursday of that week
     var week1 = new Date(d.getFullYear(), 0, 4);
     var week = 1 + Math.round(((d - week1) / 86400000 - 3 + ((week1.getDay() + 6) % 7)) / 7);
     return d.getFullYear() + '-W' + String(week).padStart(2, '0');
+  }
+
+  /* The list runs in TWO-WEEK periods. A period is keyed by the ISO week
+     of its starting Monday (fortnights anchored to Mon 2026-01-05), so the
+     key format the SQL validates stays the same. */
+  function periodKey() {
+    var d = new Date();
+    d.setHours(0, 0, 0, 0);
+    var monday = new Date(d);
+    monday.setDate(d.getDate() - ((d.getDay() + 6) % 7));
+    var epoch = new Date(2026, 0, 5); // a Monday
+    var weeks = Math.round((monday - epoch) / 604800000);
+    if (((weeks % 2) + 2) % 2 !== 0) monday.setDate(monday.getDate() - 7);
+    return isoWeekKeyOf(monday);
   }
 
   function rpc(fn, args) {
@@ -93,8 +107,32 @@
     }
 
     count.textContent = liveMode
-      ? visible.length + ' songs this week — upvote your favorites'
+      ? visible.length + ' songs on the current list — upvote your favorites'
       : 'Starter picks while the community list warms up — add yours below';
+  }
+
+  /* ---------- past winners (top track of each earlier period) ---------- */
+  function renderWinners(rows) {
+    if (!rows || !rows.length) return;
+    var wrap = document.getElementById('pl-winners');
+    var list = document.getElementById('pl-winners-list');
+    list.innerHTML = rows.map(function (t) {
+      return (
+        '<div class="pl-track pl-track-winner">' +
+          '<span class="pl-winner-trophy" aria-hidden="true">🏆</span>' +
+          '<div class="pl-track-info">' +
+            '<div class="pl-track-title">' + esc(t.song) + ' <span class="pl-track-artist">— ' + esc(t.artist) + '</span></div>' +
+            '<div class="pl-track-meta">' +
+              '<span class="pl-badge">' + t.votes + ' vote' + (t.votes === 1 ? '' : 's') + '</span>' +
+              (t.is_local ? '<span class="pl-badge pl-badge-local">🍁 Local artist</span>' : '') +
+              (t.submitter ? '<span class="pl-badge">picked by ' + esc(t.submitter) + '</span>' : '') +
+            '</div>' +
+          '</div>' +
+          '<a class="pl-listen" href="' + esc(t.url) + '" target="_blank" rel="noopener">' + platformLabel(t.url) + '</a>' +
+        '</div>'
+      );
+    }).join('');
+    wrap.hidden = false;
   }
 
   /* ---------- load ---------- */
@@ -106,15 +144,18 @@
       document.getElementById('theme-sub').textContent = cfg.theme.sub || '';
       document.getElementById('theme-banner').hidden = false;
     }
-    return rpc('btb_playlist_get', { p_week: weekKey() }).then(function (rows) {
+    return rpc('btb_playlist_get', { p_week: periodKey() }).then(function (rows) {
       liveMode = true;
       tracks = rows || [];
       if (!tracks.length && cfg.seeds && cfg.seeds.length) {
-        // Live but empty week: show seeds below a fresh-week note, unvotable.
+        // Live but empty period: show seeds below a fresh-list note, unvotable.
         liveMode = false;
         tracks = cfg.seeds;
       }
       render();
+      // Winners wall: the top track of every earlier two-week period.
+      rpc('btb_playlist_winners', { p_current: periodKey() })
+        .then(renderWinners).catch(function () {});
     }).catch(function () {
       tracks = (cfg.seeds || []);
       render();
@@ -162,7 +203,7 @@
 
     rpc('btb_playlist_submit', {
       p_song: f.song, p_artist: f.artist, p_url: f.url, p_why: f.why,
-      p_name: f.submitter, p_is_local: f.is_local, p_week: weekKey(),
+      p_name: f.submitter, p_is_local: f.is_local, p_week: periodKey(),
     }).then(function () {
       status.className = 'pl-form-status ok';
       status.textContent = '🎉 Got it! Your song is in the review queue and should appear within a day.';

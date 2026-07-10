@@ -44,7 +44,9 @@ grant execute on function btb_track_event(text, text, text) to anon;
 create table if not exists btb_playlist_tracks (
   id         uuid primary key default gen_random_uuid(),
   created_at timestamptz not null default now(),
-  week_key   text not null,               -- e.g. '2026-W28', set by the client
+  week_key   text not null,               -- two-week period, keyed by the ISO week
+                                          -- of its starting Monday (e.g. '2026-W28');
+                                          -- computed by the client
   song       text not null,
   artist     text not null,
   url        text not null,
@@ -83,7 +85,7 @@ end $$;
 
 grant execute on function btb_playlist_submit(text, text, text, text, text, boolean, text) to anon;
 
--- Read: approved tracks for a week, best-voted first.
+-- Read: approved tracks for a period, best-voted first.
 create or replace function btb_playlist_get(p_week text)
 returns table (
   id uuid, song text, artist text, url text, why text,
@@ -118,3 +120,24 @@ begin
 end $$;
 
 grant execute on function btb_playlist_vote(uuid, text) to anon;
+
+-- Winners wall: the top-voted approved track of each past period
+-- (excludes the current one), newest period first.
+create or replace function btb_playlist_winners(p_current text)
+returns table (
+  week_key text, song text, artist text, url text,
+  submitter text, is_local boolean, votes bigint
+)
+language sql security definer set search_path = public stable as $$
+  select distinct on (t.week_key)
+         t.week_key, t.song, t.artist, t.url, t.submitter, t.is_local,
+         count(v.voter) as votes
+  from btb_playlist_tracks t
+  left join btb_playlist_votes v on v.track_id = t.id
+  where t.status = 'approved' and t.week_key <> p_current
+  group by t.id
+  order by t.week_key desc, count(v.voter) desc, t.created_at asc
+  limit 12;
+$$;
+
+grant execute on function btb_playlist_winners(text) to anon;

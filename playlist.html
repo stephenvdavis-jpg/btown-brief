@@ -54,11 +54,11 @@
     <div class="page-hero">
       <span class="page-hero-kicker">Community Playlist</span>
       <h1>What's Burlington listening to?</h1>
-      <p class="page-hero-sub">Share a song you love, upvote your favorites, and the week's list sorts itself. Spotify, Apple Music, YouTube, Bandcamp — every platform welcome. Fresh list every Monday.</p>
+      <p class="page-hero-sub">Share a song you love, upvote your favorites, and the list sorts itself. Spotify, Apple Music, YouTube, Bandcamp — every platform welcome. Fresh list every other Monday — and past winners stay on the wall.</p>
     </div>
 
     <div class="theme-banner" id="theme-banner" hidden>
-      <span class="theme-banner-label">This week's theme</span>
+      <span class="theme-banner-label">This round's theme</span>
       <div class="theme-banner-title" id="theme-title"></div>
       <p class="theme-banner-sub" id="theme-sub"></p>
     </div>
@@ -70,6 +70,11 @@
     <p class="result-count" id="pl-count" aria-live="polite"></p>
     <div class="pl-list" id="pl-list">
       <p class="page-empty">Loading the week's list…</p>
+    </div>
+
+    <div id="pl-winners" hidden>
+      <h2 class="section-label">🏆 Past winners</h2>
+      <div class="pl-list" id="pl-winners-list"></div>
     </div>
 
     <h2 class="section-label">Add a song</h2>

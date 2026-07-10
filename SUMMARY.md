@@ -1,6 +1,6 @@
 # Quick Wins — feat/quick-wins
 
-Five additions, all on this branch, all verified rendering locally (mobile-width + dark mode). No existing URL was renamed or removed; everything is additive. Nothing has been pushed or deployed — review first, then push.
+Five additions, all on this branch, all verified rendering locally (mobile-width + dark mode). No existing URL was renamed or removed; everything is additive. Pushed as `feat/quick-wins` for review — merging to main is what deploys it.
 
 **To preview:** `python3 -m http.server 8000` in this folder → http://localhost:8000
 
@@ -10,12 +10,12 @@ Five additions, all on this branch, all verified rendering locally (mobile-width
 
 - A shared **BTown strip** now renders once per page, above the footer, on all five pages (`js/community.js` injects it): a highlighted Ko-fi donate card + "The free newsletter" (btownbrief.com) + "It's just me — meet Stephen" (about-me).
 - **Two copy variants** live in `js/community.js`:
-  - **A (personal, live):** "One local guy builds all of this… a coffee keeps it going" → *☕ Buy me a coffee*
-  - **B (civic, ready):** "Keep Burlington's local info free… chip in to keep it that way" → *❤️ Chip in on Ko-fi*
-  - Swap by changing `ACTIVE_DONATE_VARIANT = 'A'` to `'B'` — one character.
+  - **A (personal):** "One local guy builds all of this… a coffee keeps it going" → *☕ Buy me a coffee*
+  - **B (civic):** "Keep Burlington's local info free… chip in to keep it that way" → *❤️ Chip in on Ko-fi*
+  - Now running a **random sticky 50/50 split per visitor** (`ACTIVE_DONATE_VARIANT = 'AB'`); set it to `'A'` or `'B'` to pin one. Compare with: `select event, variant, count(*) from btb_events where event = 'strip-donate' group by 1,2;`
 - **Click counter:** every strip click (donate/newsletter/about) posts to the shared games Supabase project with the active variant + page. Until you run `db/quick-wins.sql` (below) it silently no-ops. To see what's working: `select event, variant, count(*) from btb_events group by 1,2;`
 - **Not naggy:** the old tiny "Donate ❤️" link in the index support-line was consolidated into the strip, so each page has exactly one donate placement.
-- **Games arcade note:** the arcade hub (`btownbrief.github.io` repo) is a separate repo, so I didn't touch it. Recommended placement there: the same strip component pasted above its footer — after the game cabinets, never inside the play flow. A game-over screen is the emotional high point, but the hub footer is the tasteful start. Copy `js/community.js` + the `.btb-strip` CSS block when ready.
+- **Games arcade:** the strip is also added to the arcade hub repo (`btownbrief.github.io`, branch `feat/donate-strip`) — above its footer, after the game cabinets, never inside the play flow.
 - Index also got a **"Get into Burlington life"** card row (top of the community section) linking the four new pages.
 
 ## 2. Volunteer page — `volunteer.html`
@@ -40,8 +40,9 @@ Five additions, all on this branch, all verified rendering locally (mobile-width
 
 ## 5. Community playlist v1 — `playlist.html`
 
-- **Weekly theme banner** (edit `data/playlist.json` → `theme`), **submission form** (song, artist, any-platform link, why-you-love-it, optional name, local-artist checkbox), **upvoting** (one vote per visitor per track; the list self-sorts by votes), and a **🍁 local musicians filter**. Platform auto-detected from the link (Spotify/Apple/YouTube/Bandcamp/SoundCloud badges).
-- **Moderation queue:** submissions land as `pending` in Supabase and never appear until you flip them to `approved` in the Table Editor (tick `is_local` there too). Fresh list each ISO week.
+- **Theme banner per round** (edit `data/playlist.json` → `theme` every other Monday), **submission form** (song, artist, any-platform link, why-you-love-it, optional name, local-artist checkbox), **upvoting** (one vote per visitor per track; the list self-sorts by votes), and a **🍁 local musicians filter**. Platform auto-detected from the link (Spotify/Apple/YouTube/Bandcamp/SoundCloud badges).
+- **Two-week rounds, winners kept:** the list resets every other Monday, and a **🏆 Past winners wall** shows the top-voted track of every earlier round, permanently.
+- **Moderation queue:** submissions land as `pending` in Supabase and never appear until you flip them to `approved` in the Table Editor (tick `is_local` there too).
 - **One-time setup:** run `db/quick-wins.sql` in the Supabase SQL editor (same shared games project). Until then the page shows five verified starter picks (Phish, Grace Potter, Noah Kahan, Rough Francis, Kat Wright) and the form falls back to a pre-filled email to you — still moderated, just by inbox.
 
 ---
@@ -53,12 +54,15 @@ Five additions, all on this branch, all verified rendering locally (mobile-width
 - Every volunteer/club/project URL curl-checked (only Facebook/Phoenix Books block bots; they work in real browsers).
 - Not verified: the Supabase RPCs themselves (they don't exist until you run `db/quick-wins.sql`) — the fallback paths are what's proven.
 
-## Open questions
+## Decisions (2026-07-10)
 
-1. **Supabase setup** — want me to walk you through running `db/quick-wins.sql` (2 minutes in the SQL editor)? Playlist voting and the donate click-counter stay dormant until then.
-2. **Beehiiv volunteer page** — replace its content with a link to the new page, keep both, or have it redirect? Your call; I didn't touch it.
-3. **A/B testing donate copy** — variant A is live. Simplest honest test: run A for two weeks, flip to B for two, compare `btb_events` counts. Want a random 50/50 split per visitor instead? Easy to add later.
-4. **Arcade strip** — say the word and I'll add the strip to the hub repo (`btownbrief.github.io`) as a separate branch there.
-5. **Playlist weekly reset** — each Monday starts an empty week (old songs stay in the DB under their week). If you'd rather have lists roll over or show "last week's winners," that's a small change.
-6. **Clubs entries flagged "verify"** by research (schedules that shift seasonally): Bolters Run Club day/time, Local Motion ride schedule, VCC trivia, Burlington Adult Social Sports season, Knot Knite recency, pickleball open-play times, both choruses' join windows. All linked pages are live; the cadence text is what to spot-check.
-7. **BTV Daily & CCHS** — BTV Daily's site copyright reads 2024 (is the email still landing?), and cchsvt.org is HTTP-only. Both included; drop them if you'd rather be strict.
+1. **Supabase setup** — Stephen runs `db/quick-wins.sql` once in the SQL editor (walkthrough provided); playlist voting/submissions and the click counter go live the moment it runs.
+2. **Beehiiv volunteer page** — after this branch merges and deploys, add a prominent link from the beehiiv page to the new filterable page (do not edit beehiiv before the URL exists).
+3. **A/B donate copy** — random sticky 50/50 per visitor, live now (`ACTIVE_DONATE_VARIANT = 'AB'`).
+4. **Arcade strip** — done, on `feat/donate-strip` in the hub repo.
+5. **Playlist cadence** — two-week rounds (not weekly), past winners stay on a permanent 🏆 wall.
+6. **BTV Daily** — kept (Stephen confirms they still publish). CCHS kept too.
+
+## Remaining to spot-check when convenient
+
+- Clubs entries whose cadence shifts seasonally: Bolters Run Club day/time, Local Motion ride schedule, VCC trivia, Burlington Adult Social Sports season, Knot Knite recency, pickleball open-play times, both choruses' join windows. All linked pages are live; only the "when" text may drift.
