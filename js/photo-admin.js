@@ -6,8 +6,10 @@
   'use strict';
 
   var BTBP = window.BTBP;
+  // sessionStorage on purpose: a persisted plaintext passphrase on a public
+  // site would be readable by any future same-origin XSS. Re-enter per visit.
   var PASS_KEY = 'btb-photo-admin-pass';
-  var pass = localStorage.getItem(PASS_KEY) || '';
+  var pass = sessionStorage.getItem(PASS_KEY) || '';
 
   var catLabel = {};
   BTBP.CATEGORIES.forEach(function (c) { catLabel[c.id] = c.label; });
@@ -46,7 +48,7 @@
   function tryUnlock(candidate) {
     return BTBP.rpc('btb_photos_admin_list', { p_pass: candidate }).then(function (data) {
       pass = candidate;
-      localStorage.setItem(PASS_KEY, pass);
+      sessionStorage.setItem(PASS_KEY, pass);
       document.getElementById('pa-gate').hidden = true;
       document.getElementById('pa-desk').hidden = false;
       renderAll(data);
@@ -224,7 +226,7 @@
   /* ---------- auto-unlock if remembered ---------- */
   if (pass) {
     tryUnlock(pass).catch(function () {
-      localStorage.removeItem(PASS_KEY);
+      sessionStorage.removeItem(PASS_KEY);
       pass = '';
     });
   }
