@@ -44,8 +44,10 @@ _FORM = {"Content-Type": "application/x-www-form-urlencoded"}
 _DATE_RE = re.compile(r"^(\d{2})/(\d{2})/(\d{2})$")
 _RANGE_RE = re.compile(r"^(\d{2})/(\d{2})-(\d{2})/(\d{2})$")
 _TIMES_RE = re.compile(r"^\s*([^-]+?)\s*-\s*(.+?)\s*$")
-_LEAD_DATE_RE = re.compile(r"^\s*\d{1,2}/\d{1,2}(?:/\d{2,4})?\s*[-:—]\s*")
-_TRAIL_DATE_RE = re.compile(r"\s*\(\s*\d{1,2}/\d{1,2}(?:/\d{2,4})?\s*\)\s*$")
+_LEAD_DATE_RE = re.compile(
+    r"^\s*(?:\d{1,2}/\d{1,2}(?:/\d{2,4})?|[A-Z][a-z]+\.?\s+20\d\d)\s*[-:—]\s*")
+_TRAIL_DATE_RE = re.compile(
+    r"\s*(?:\(\s*\d{1,2}/\d{1,2}(?:/\d{2,4})?\s*\)|[-–—]\s*20\d\d)\s*$")
 _SPONSOR_RE = re.compile(r"\s*[-–—]?\s*(?:sponsored by|in partnership with|"
                          r"presented by)\b.*$", re.I)
 _FREE_RE = re.compile(r"\bfree\b", re.I)
@@ -145,6 +147,8 @@ def _title(group: str, session_text: str) -> str:
         return g
     if g.lower() in s.lower():
         return s
+    if s.lower() in g.lower():
+        return g
     if s.lower().startswith(("registration", "membership")):
         return g
     return f"{g}: {s}"

@@ -599,7 +599,9 @@ def resolve_venue(venue: str | None, address: str | None = None):
         for name, info in reg.items():
             ia = (info.get("address") or "").split(",")[0]
             stem = re.sub(r"[^a-z0-9]+", " ", ia.lower()).strip()
-            if stem and stem in a:
+            # numberless stems like "church st" would swallow every address
+            # on that street — only match stems anchored by a street number
+            if stem and stem[0].isdigit() and stem in a:
                 return name, info
     return venue, {}
 

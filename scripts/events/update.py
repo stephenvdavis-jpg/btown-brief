@@ -153,6 +153,35 @@ def dedupe(events: list[dict]) -> tuple[list[dict], list[dict]]:
     return merged, merge_log
 
 
+def collapse_ongoing(events: list[dict], min_days: int = 10):
+    """An all-day listing that repeats on many dates (exhibits, 'on view
+    through…' shows) becomes ONE entry with ongoingUntil + an 'ongoing' tag,
+    instead of flooding every day group. One-offs and short runs untouched."""
+    from collections import defaultdict
+    groups = defaultdict(list)
+    out: list[dict] = []
+    for ev in events:
+        if ev["allDay"]:
+            groups[(norm_title(ev["title"]), _norm_venue(ev.get("venue") or ""))].append(ev)
+        else:
+            out.append(ev)
+    collapsed = 0
+    for evs in groups.values():
+        dates = sorted({e["date"] for e in evs})
+        if len(dates) >= min_days:
+            keep = dict(min(evs, key=lambda e: e["date"]))
+            keep["ongoingUntil"] = dates[-1]
+            if "ongoing" not in keep["tags"]:
+                keep["tags"] = keep["tags"] + ["ongoing"]
+            if not keep.get("recurring"):
+                keep["recurring"] = f"Ongoing through {dates[-1]}"
+            out.append(keep)
+            collapsed += len(evs) - 1
+        else:
+            out.extend(evs)
+    return out, collapsed
+
+
 # ------------------------------------------------------------------ state merge
 
 def merge_state(fresh: list[dict], previous: list[dict], now_iso: str,
@@ -266,6 +295,10 @@ def main() -> int:
         return 1
 
     merged, merge_log = dedupe(all_events)
+
+    merged, n_collapsed = collapse_ongoing(merged)
+    if n_collapsed:
+        log(f"collapsed {n_collapsed} daily copies of long-running exhibits/series")
 
     # two showtimes of one title share a content hash — make ids unique
     # deterministically (suffix = start time) so state merging stays stable

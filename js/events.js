@@ -16,6 +16,7 @@
 
   const state = {
     events: [],          // active events, hydrated with Date objects
+    ongoing: [],         // long-running exhibits/series (tag "ongoing")
     meta: null,
     view: 'list',
     daysShown: 10,
@@ -74,13 +75,16 @@
       return;
     }
     state.meta = payload;
-    state.events = (payload.events || [])
+    const active = (payload.events || [])
       .filter((e) => e.status === 'active')
       .map((e) => {
         e._start = new Date(e.start);
         e._search = `${e.title} ${e.venue || ''} ${e.town || ''} ${e.description || ''}`.toLowerCase();
         return e;
       });
+    // long-running exhibits/series live in their own strip, not day groups
+    state.ongoing = active.filter((e) => (e.tags || []).includes('ongoing'));
+    state.events = active.filter((e) => !(e.tags || []).includes('ongoing'));
     $('ev-loading').hidden = true;
     if (payload.generated) {
       const g = new Date(payload.generated);
@@ -326,6 +330,8 @@
       listEl.appendChild(g);
     });
 
+    renderOngoing();
+
     $('ev-more').hidden = dates.length <= state.daysShown;
     $('ev-empty').hidden = evs.length > 0;
     $('ev-count').textContent = evs.length
@@ -336,6 +342,39 @@
     $('ev-clear').hidden = !(f.q || f.cat || f.town || f.price || f.age);
 
     if (state.view === 'map') renderMap(evs);
+  }
+
+  /* ---------------- ongoing strip ---------------- */
+
+  function renderOngoing() {
+    const wrap = $('ev-ongoing');
+    if (!wrap) return;
+    const f = state.filters;
+    const todayKey = dkey(new Date());
+    const list = state.ongoing.filter((e) =>
+      (e.ongoingUntil || e.date) >= todayKey &&
+      (!f.cat || e.category === f.cat) &&
+      (!f.town || e.town === f.town) &&
+      (!f.q || e._search.includes(f.q)));
+    if (!list.length) { wrap.hidden = true; return; }
+    wrap.hidden = false;
+    $('ev-ongoing-count').textContent = list.length;
+    const box = $('ev-ongoing-list');
+    box.innerHTML = '';
+    list.sort((a, b) => (a.ongoingUntil || '').localeCompare(b.ongoingUntil || ''))
+      .forEach((e) => {
+        const until = e.ongoingUntil
+          ? ` — through ${MON_NAMES[new Date(e.ongoingUntil + 'T12:00:00').getMonth()]} ${new Date(e.ongoingUntil + 'T12:00:00').getDate()}`
+          : '';
+        const row = document.createElement('a');
+        row.className = 'ev-ongoing-row';
+        row.href = e.url;
+        row.target = '_blank';
+        row.rel = 'noopener';
+        row.innerHTML = `<span class="ev-ongoing-title">${esc(e.title)}</span>` +
+          `<span class="ev-ongoing-meta">${esc(e.venue || e.town || '')}${esc(until)}</span>`;
+        box.appendChild(row);
+      });
   }
 
   /* ---------------- map ---------------- */

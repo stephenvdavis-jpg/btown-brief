@@ -253,6 +253,40 @@
 }
 .ev-more:hover { border-color: var(--coral); color: var(--coral); }
 
+/* ---------------- ongoing strip ---------------- */
+
+.ev-ongoing {
+  margin-bottom: var(--space-5);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: var(--bg-raised);
+}
+.ev-ongoing summary {
+  cursor: pointer;
+  padding: var(--space-3) var(--space-4);
+  font-weight: 600;
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  list-style: none;
+}
+.ev-ongoing summary::-webkit-details-marker { display: none; }
+.ev-ongoing summary::before { content: '▸ '; color: var(--ink-4); }
+.ev-ongoing[open] summary::before { content: '▾ '; }
+.ev-ongoing-n { color: var(--ink-4); font-weight: 500; }
+.ev-ongoing-list { padding: 0 var(--space-4) var(--space-3); }
+.ev-ongoing-row {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+  padding: var(--space-2) 0;
+  border-top: 1px solid var(--line-soft);
+  text-decoration: none;
+  font-size: var(--text-sm);
+}
+.ev-ongoing-row:hover .ev-ongoing-title { color: var(--coral); }
+.ev-ongoing-title { color: var(--ink); font-weight: 500; }
+.ev-ongoing-meta { color: var(--ink-4); text-align: right; flex-shrink: 0; }
+
 /* ---------------- map ---------------- */
 
 .ev-map-wrap { margin-top: var(--space-2); }

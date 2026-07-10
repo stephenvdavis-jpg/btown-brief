@@ -130,9 +130,17 @@ def _one(ev: dict) -> dict | None:
     city = (v.get("city") or "").strip()
     if city and city.lower() not in _LOCAL:
         return None                       # outside our coverage area
+    city = city.title() if city else None
     address = v.get("address") or None
     if address and city:
         address = f"{address}, {city} VT"
+    if venue and address:
+        _, vinfo = common.resolve_venue(venue)
+        if not vinfo:
+            # Unregistered venue: drop the address, or make_event's
+            # address-stem fallback would misfile every "N Church Street"
+            # venue under the registry's street-only "Church St" entries.
+            address = None
 
     cats = [(c.get("title") or "").strip()
             for c in tax.get("taxonomy_category") or []]
@@ -171,7 +179,7 @@ def _one(ev: dict) -> dict | None:
         start=sdt, end=edt,
         venue=venue or "Church Street Marketplace",
         address=address,
-        town=city or None,
+        town=city,
         price=price, free=free,
         category=category,
         description=ev.get("description_short"),

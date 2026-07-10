@@ -41,7 +41,7 @@
   "City Hall Park": {"address": "149 Church St, Burlington, VT", "town": "Burlington", "aliases": ["burlington city hall park"], "indoor_outdoor": "outdoor"},
   "Burlington City Hall": {"address": "149 Church St, Burlington, VT", "town": "Burlington", "aliases": ["city hall auditorium", "contois auditorium"], "indoor_outdoor": "indoor"},
   "Oakledge Park": {"address": "11 Flynn Ave, Burlington, VT", "town": "Burlington", "aliases": ["oakledge"], "indoor_outdoor": "outdoor"},
-  "Leddy Park": {"address": "216 Leddy Park Rd, Burlington, VT", "town": "Burlington", "aliases": ["leddy arena", "leddy beach"], "indoor_outdoor": null},
+  "Leddy Park": {"address": "216 Leddy Park Rd, Burlington, VT", "town": "Burlington", "aliases": ["leddy arena", "leddy beach", "gordon h. paquette ice arena", "paquette ice arena"], "indoor_outdoor": null},
   "North Beach": {"address": "60 Institute Rd, Burlington, VT", "town": "Burlington", "aliases": ["north beach park"], "indoor_outdoor": "outdoor"},
   "Intervale Center": {"address": "180 Intervale Rd, Burlington, VT", "town": "Burlington", "aliases": ["the intervale"], "indoor_outdoor": "outdoor"},
   "BCA Center": {"address": "135 Church St, Burlington, VT", "town": "Burlington", "aliases": ["burlington city arts", "bca"], "indoor_outdoor": "indoor"},
@@ -122,5 +122,18 @@
   "Farmhouse Tap & Grill": {"address": "160 Bank St, Burlington, VT", "town": "Burlington", "aliases": ["the farmhouse"], "indoor_outdoor": null},
   "The Soda Plant": {"address": "266 Pine St, Burlington, VT", "town": "Burlington", "aliases": [], "indoor_outdoor": "indoor"},
   "Doma Bar": {"address": null, "town": "Burlington", "aliases": [], "indoor_outdoor": "indoor"},
-  "New North End Branch": {"address": null, "town": "Burlington", "aliases": ["fletcher free library new north end branch", "fletcher free new north end"], "indoor_outdoor": "indoor"}
+  "New North End Branch": {"address": null, "town": "Burlington", "aliases": ["fletcher free library new north end branch", "fletcher free new north end"], "indoor_outdoor": "indoor"},
+  "RiRa Irish Pub": {"address": "123 Church St, Burlington, VT", "town": "Burlington", "aliases": ["rira", "ri ra"], "indoor_outdoor": "indoor"},
+  "Homeport": {"address": "52 Church St, Burlington, VT", "town": "Burlington", "aliases": [], "indoor_outdoor": "indoor"},
+  "Halvorson's Upstreet Cafe": {"address": "16 Church St, Burlington, VT", "town": "Burlington", "aliases": ["halvorsons"], "indoor_outdoor": null},
+  "Outdoor Gear Exchange": {"address": "37 Church St, Burlington, VT", "town": "Burlington", "aliases": ["oge"], "indoor_outdoor": "indoor"},
+  "Robert Miller Community & Recreation Center": {"address": "130 Gosse Ct, Burlington, VT", "town": "Burlington", "aliases": ["robert miller center"], "indoor_outdoor": "indoor"},
+  "Jaycee Park": {"address": null, "town": "South Burlington", "aliases": [], "indoor_outdoor": "outdoor"},
+  "Farrell Park": {"address": null, "town": "South Burlington", "aliases": [], "indoor_outdoor": "outdoor"},
+  "Szymanski Park": {"address": null, "town": "South Burlington", "aliases": [], "indoor_outdoor": "outdoor"},
+  "City Center Park": {"address": null, "town": "South Burlington", "aliases": [], "indoor_outdoor": "outdoor"},
+  "Red Rocks Park": {"address": null, "town": "South Burlington", "aliases": [], "indoor_outdoor": "outdoor"},
+  "Wheeler Homestead": {"address": "1100 Dorset St, South Burlington, VT", "town": "South Burlington", "aliases": ["wheeler nature park"], "indoor_outdoor": "outdoor"},
+  "Cairns Arena": {"address": "600 Swift St, South Burlington, VT", "town": "South Burlington", "aliases": [], "indoor_outdoor": "indoor"},
+  "South Burlington Senior Center": {"address": "180 Market St, South Burlington, VT", "town": "South Burlington", "aliases": ["sb senior center"], "indoor_outdoor": "indoor"}
 }
