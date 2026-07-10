@@ -1,0 +1,86 @@
+{
+  "updated": "2026-07-10",
+  "rent": {
+    "note": "Monthly snapshot, not live counts — every listings site's terms prohibit automated access. ZORI updates monthly; HUD FMR annually.",
+    "stats": [
+      {
+        "value": "$2,095/mo",
+        "label": "Typical asking rent, Burlington metro (+1.6% in a year)",
+        "source": "Zillow Observed Rent Index (ZORI), May 2026"
+      },
+      {
+        "value": "$1,651",
+        "label": "Fair-market 1-bedroom, Burlington–South Burlington",
+        "source": "HUD Fair Market Rents, FY2026"
+      },
+      {
+        "value": "$2,140",
+        "label": "Fair-market 2-bedroom, Burlington–South Burlington",
+        "source": "HUD Fair Market Rents, FY2026"
+      }
+    ]
+  },
+  "managers": [],
+  "sources": [
+    {
+      "name": "Zillow Rentals",
+      "url": "https://www.zillow.com/burlington-vt/rentals/",
+      "good_for": "The biggest single pool of professionally listed Burlington rentals, with the best filters and map search.",
+      "gotcha": "Pushes Zillow's own $35 application flow that some landlords never look at; duplicate listings inflate the counts."
+    },
+    {
+      "name": "Apartments.com",
+      "url": "https://www.apartments.com/burlington-vt/",
+      "good_for": "Best for the larger managed buildings and complexes — verified listings, 3D tours, and a for-rent-by-owner section.",
+      "gotcha": "The headline count sweeps in surrounding towns and counts units, not buildings; small local landlords barely show up here."
+    },
+    {
+      "name": "Craigslist",
+      "url": "https://burlington.craigslist.org/search/apa",
+      "good_for": "Where small local landlords still post — often the cheapest units, and ones that never hit Zillow.",
+      "gotcha": "Now a statewide Vermont search, so filter by map. Classic scam territory: never wire money or pay a deposit before seeing the unit in person."
+    },
+    {
+      "name": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/burlington/propertyrentals",
+      "good_for": "Fast-moving individual-landlord and sublet listings — good for catching units hours after they post.",
+      "gotcha": "Requires a Facebook login, and it has the highest scam density of any source here — fake landlords clone real listings, so verify ownership before sending anything."
+    },
+    {
+      "name": "FB Group: Burlington, Vermont Area Rentals",
+      "url": "https://www.facebook.com/groups/1586001198111922/",
+      "good_for": "The big public rentals group — landlords and tenants post directly, including apartments that never get listed anywhere else.",
+      "gotcha": "A firehose of sublets, ISO posts, and the occasional scam. Same rule: no money before an in-person showing."
+    },
+    {
+      "name": "FB Group: UVM Housing, Room, Rental & Sublet",
+      "url": "https://www.facebook.com/groups/vermont.uvm.housing.burlington.rentals/",
+      "good_for": "The student-market group — sublets, lease takeovers, and roommate openings near campus, busiest May through August.",
+      "gotcha": "Student-cycle timing: June 1 leases get signed six to nine months out, and many posts are rooms, not whole apartments."
+    },
+    {
+      "name": "Front Porch Forum",
+      "url": "https://frontporchforum.com/",
+      "good_for": "Neighbor-to-neighbor listings with real names attached — the highest-trust source in town, where quiet listings surface first.",
+      "gotcha": "You have to sign up for your neighborhood's forum and read the email digests — there's no browsing it from outside."
+    },
+    {
+      "name": "UVM Off-Campus Housing",
+      "url": "https://offcampushousing.uvm.edu/",
+      "good_for": "UVM's official off-campus listing database — vetted landlord listings for the student and staff market, plus roommate matching.",
+      "gotcha": "Full search requires a UVM email; everyone else only sees the publicly indexed listing pages."
+    },
+    {
+      "name": "Seven Days Classifieds",
+      "url": "https://classifieds.sevendaysvt.com/vermont/apartments-houses-for-rent/search",
+      "good_for": "The alt-weekly's classifieds — genuinely local, older-school landlords who don't use Zillow, plus sublet and housemate categories.",
+      "gotcha": "Thin inventory next to the national sites, statewide by default, and listings can sit stale."
+    },
+    {
+      "name": "PadMapper",
+      "url": "https://www.padmapper.com/apartments/burlington-vt",
+      "good_for": "Map-first aggregator — handy for visually scanning everything at once.",
+      "gotcha": "Almost pure aggregation, so listings lag and some are already rented; nothing here is exclusive."
+    }
+  ]
+}

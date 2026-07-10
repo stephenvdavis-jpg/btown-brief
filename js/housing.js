@@ -91,9 +91,28 @@
       : managers.length + ' companies — email a few directly and skip the listing-site refresh war';
   }
 
+  // Monthly rent snapshot — hand-updated numbers in housing.json, each
+  // tile cites its source (ZORI needs Zillow attribution; HUD is public
+  // domain). Live listing counts were ruled out: every listings site's
+  // terms prohibit automated access.
+  function renderRent(rent) {
+    var strip = document.getElementById('rent-strip');
+    if (!rent || !(rent.stats || []).length) { strip.hidden = true; return; }
+    strip.innerHTML = rent.stats.map(function (s) {
+      return (
+        '<div class="rent-tile">' +
+          '<span class="rent-tile-value">' + esc(s.value) + '</span>' +
+          '<span class="rent-tile-label">' + esc(s.label) + '</span>' +
+          '<span class="rent-tile-source">' + esc(s.source) + '</span>' +
+        '</div>'
+      );
+    }).join('');
+  }
+
   window.BTBC.fetchJSON('data/housing.json').then(function (data) {
     managers = data.managers || [];
     renderManagers();
+    renderRent(data.rent);
     document.getElementById('source-list').innerHTML =
       (data.sources || []).map(sourceCardHTML).join('');
   }).catch(function () {
