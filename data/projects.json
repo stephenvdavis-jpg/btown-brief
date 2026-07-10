@@ -1,0 +1,110 @@
+{
+  "_comment": "Community projects: people building things for Burlington. To add one: copy any entry and append. maker is optional (null hides the credit line).",
+  "projects": [
+    {
+      "name": "Front Porch Forum",
+      "what": "Born in a Burlington neighborhood twenty years ago, this human-moderated email forum now helps a quarter-million Vermont households swap lost-dog notices, mechanic tips, and small kindnesses every day.",
+      "maker": "Michael & Valerie Wood-Lewis",
+      "category": "Community",
+      "url": "https://frontporchforum.com/"
+    },
+    {
+      "name": "Seven Days",
+      "what": "Vermont's independent alt-weekly has chronicled Burlington's food, music, politics, and people since 1995 — and its calendar remains the definitive answer to what's happening this week.",
+      "maker": "Da Capo Publishing",
+      "category": "Newsletters & News",
+      "url": "https://www.sevendaysvt.com/"
+    },
+    {
+      "name": "VTDigger",
+      "what": "The nonprofit newsroom whose Daily Digger email keeps tens of thousands of Vermonters up to speed on statehouse and local news, digging for the truth since 2009.",
+      "maker": "Vermont Journalism Trust",
+      "category": "Newsletters & News",
+      "url": "https://vtdigger.org/"
+    },
+    {
+      "name": "BTV Daily",
+      "what": "A free every-morning email that gathers Burlington's weather, headlines, events, and the best of local social media into one quick read.",
+      "maker": "Oak Snow Consulting",
+      "category": "Newsletters & News",
+      "url": "https://btvdaily.com/"
+    },
+    {
+      "name": "Good Govermont",
+      "what": "Nathaniel Eisen's Substack digs into land use, transit, and environmental policy with a sharp focus on Burlington and the rest of Chittenden County.",
+      "maker": "Nathaniel Eisen",
+      "category": "Newsletters & News",
+      "url": "https://goodgovermont.substack.com/"
+    },
+    {
+      "name": "The Winooski News",
+      "what": "Student reporters paired with professional editors cover the Onion City's people and happenings for free, through UVM's Community News Service.",
+      "maker": "UVM Community News Service",
+      "category": "Newsletters & News",
+      "url": "https://vtcommunitynews.org/winooski-news/"
+    },
+    {
+      "name": "WBTV-LP 99.3 FM",
+      "what": "Burlington's all-volunteer low-power community radio station, where neighbors train each other to make radio and broadcast 24 hours a day from Flynn Avenue.",
+      "maker": "WBTV-LP volunteers at the Media Factory",
+      "category": "Podcasts & Radio",
+      "url": "https://993wbtv.org/"
+    },
+    {
+      "name": "Rumble Strip",
+      "what": "Erica Heilman records uncommon, deeply human conversations with everyday Vermonters from her home in East Calais — one of the most honored independent podcasts anywhere.",
+      "maker": "Erica Heilman",
+      "category": "Podcasts & Radio",
+      "url": "https://www.rumblestripvermont.com/"
+    },
+    {
+      "name": "Vermont Talks",
+      "what": "Software engineer Becca Hammond sits down for long, generous interviews with Burlington-area artists, musicians, and business owners, asking \"What's new, 802?\"",
+      "maker": "Becca Hammond",
+      "category": "Podcasts & Radio",
+      "url": "https://vermonttalks.com/"
+    },
+    {
+      "name": "Brave Little State",
+      "what": "Vermont Public's people-powered podcast lets listeners ask and vote on the questions, then brings them along to report the answers about life in Vermont.",
+      "maker": "Vermont Public",
+      "category": "Podcasts & Radio",
+      "url": "https://www.vermontpublic.org/podcast/brave-little-state"
+    },
+    {
+      "name": "ORCA — Open Research Community Accelerator",
+      "what": "UVM student pods build open-source tools for their neighbors — including BTV Alerts for Burlington residents and the statewide Vermont Zoning Atlas mapping all 237 towns.",
+      "maker": "UVM VERSO",
+      "category": "Tools & Data",
+      "url": "https://verso-uvm.github.io/ORCA/"
+    },
+    {
+      "name": "Big Heavy World",
+      "what": "A volunteer crew has spent nearly three decades preserving Vermont-made music — an archive of close to 5,000 recordings and a megaphone for local musicians.",
+      "maker": "Big Heavy World Foundation",
+      "category": "Community",
+      "url": "https://bigheavyworld.com/"
+    },
+    {
+      "name": "The Media Factory",
+      "what": "Burlington's community media center hands anyone free cameras, studios, training, and airtime — proof that local storytelling belongs to everyone.",
+      "maker": "VCAM & RETN",
+      "category": "Community",
+      "url": "https://www.mediafactory.org/"
+    },
+    {
+      "name": "Preservation Burlington",
+      "what": "Volunteer-led walking tours of Church Street, Pine Street, and Lakeview Cemetery — cider and donuts included — plus year-round advocacy for the buildings that give Burlington its character.",
+      "maker": "Preservation Burlington volunteers",
+      "category": "History & Photos",
+      "url": "https://www.preservationburlington.org/"
+    },
+    {
+      "name": "Chittenden County Historical Society",
+      "what": "An all-volunteer society founded in 1965 that researches, publishes, and celebrates the history of Burlington and the Champlain Valley.",
+      "maker": "CCHS volunteers",
+      "category": "History & Photos",
+      "url": "http://www.cchsvt.org/"
+    }
+  ]
+}

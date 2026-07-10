@@ -1,0 +1,246 @@
+{
+  "_comment": "Volunteer page data. tags: quick (~2 hours), outdoor, onetime, recurring, friends (good with friends). To add an org, copy any entry and append — the page renders this file.",
+  "databases": [
+    {
+      "name": "United Way of Northwest Vermont",
+      "what": "The big local database — every open shift within 10 miles of Burlington, searchable by date.",
+      "url": "https://unitedwaynwvt.galaxydigital.com/need/index?distance=10&zip=05401&s=1&dir=DESC&orderby=need_id"
+    },
+    {
+      "name": "Idealist (formerly VolunteerMatch)",
+      "what": "National listings filtered to on-site opportunities posted in the past month.",
+      "url": "https://www.idealist.org/en/volunteer?locationType=ONSITE&recency=PAST_MONTH"
+    },
+    {
+      "name": "Vermont Connector",
+      "what": "A nonprofit directory listing Vermont organizations that need volunteers.",
+      "url": "https://www.vermontconnector.org/vt-nonprofit-directory"
+    }
+  ],
+  "orgs": [
+    {
+      "name": "Burlington Parks, Recreation & Waterfront",
+      "what": "Coach youth sports or keep city trails in shape as a Trail Steward.",
+      "category": "Environment & Outdoors",
+      "url": "https://www.burlingtonvt.gov/976/How-to-Volunteer",
+      "tags": ["outdoor", "recurring", "friends"]
+    },
+    {
+      "name": "Green Mountain Club",
+      "what": "Maintain the Long Trail as a trail steward, corridor monitor, or part of a weekend work crew.",
+      "category": "Environment & Outdoors",
+      "url": "https://www.greenmountainclub.org/volunteers/volunteer-opportunities/",
+      "tags": ["outdoor", "onetime", "friends"]
+    },
+    {
+      "name": "Intervale Center",
+      "what": "Gleaning shifts, the Conservation Nursery, and land stewardship right in the Intervale.",
+      "category": "Environment & Outdoors",
+      "url": "https://www.intervale.org/volunteer",
+      "tags": ["outdoor", "onetime", "quick", "friends"]
+    },
+    {
+      "name": "Lake Champlain Basin Program",
+      "what": "Citizen science on the lake — water quality monitoring and invasive species pulls.",
+      "category": "Environment & Outdoors",
+      "url": "https://www.lcbp.org/get-involved/volunteer/volunteer-opportunities/",
+      "tags": ["outdoor", "onetime", "quick"]
+    },
+    {
+      "name": "Rock Point Commons",
+      "what": "Gardening and tree care at the Community Homestead on Rock Point.",
+      "category": "Environment & Outdoors",
+      "url": "https://www.rockpointvt.org/volunteer",
+      "tags": ["outdoor", "recurring"]
+    },
+    {
+      "name": "UVM Extension Master Gardener",
+      "what": "Train as a Certified Extension Master Gardener or Composter and put it to work locally.",
+      "category": "Environment & Outdoors",
+      "url": "https://www.uvm.edu/extension/mastergardener/volunteer-project-guidelines-and-opportunities",
+      "tags": ["outdoor", "recurring"]
+    },
+    {
+      "name": "Vermont Center for Ecostudies",
+      "what": "Community science you can do on your own schedule — track butterflies, birds, and other wildlife.",
+      "category": "Environment & Outdoors",
+      "url": "https://vtecostudies.org/volunteer/",
+      "tags": ["outdoor", "quick", "recurring"]
+    },
+    {
+      "name": "Vermont Fish & Wildlife",
+      "what": "Become a volunteer instructor for hunter education or Let's Go Fishing programs.",
+      "category": "Environment & Outdoors",
+      "url": "https://www.vtfishandwildlife.com/get-involved/volunteer",
+      "tags": ["outdoor", "recurring"]
+    },
+    {
+      "name": "VINS (Vermont Institute of Natural Science)",
+      "what": "Animal care, docent shifts, and bird rescue transport for the raptor center.",
+      "category": "Environment & Outdoors",
+      "url": "https://vinsweb.org/volunteer/",
+      "tags": ["recurring"]
+    },
+    {
+      "name": "Humane Society of Chittenden County",
+      "what": "Dog walking, animal care, or fostering — the closest shelter to Burlington.",
+      "category": "Animals",
+      "url": "https://www.hsccvt.org/",
+      "tags": ["recurring", "quick"]
+    },
+    {
+      "name": "Central Vermont Humane Society",
+      "what": "Animal care, office support, and transport runs.",
+      "category": "Animals",
+      "url": "https://centralvermonthumane.org/volunteer-opportunities/",
+      "tags": ["recurring", "quick"]
+    },
+    {
+      "name": "North Country Animal League",
+      "what": "Dog and cat care, dog walking, and community outreach.",
+      "category": "Animals",
+      "url": "https://www.ncal.com/volunteer/",
+      "tags": ["recurring", "quick"]
+    },
+    {
+      "name": "Queen City Cats VT",
+      "what": "Care for cats at the lounge, help with transport, or foster.",
+      "category": "Animals",
+      "url": "https://www.queencitycatsvt.org/volunteer",
+      "tags": ["recurring", "quick"]
+    },
+    {
+      "name": "VT Dog Rescue",
+      "what": "Foster a dog, or help with events and transportation.",
+      "category": "Animals",
+      "url": "https://www.vtdogrescue.com/volunteer",
+      "tags": ["recurring"]
+    },
+    {
+      "name": "Feeding Champlain Valley",
+      "what": "Food shelf shifts for neighbors facing food insecurity — a classic two-hour slot.",
+      "category": "Food & Housing",
+      "url": "https://www.feedingchamplainvalley.org/get-involved/",
+      "tags": ["quick", "onetime", "recurring", "friends"]
+    },
+    {
+      "name": "Vermont Foodbank",
+      "what": "Sort, pack, and distribute food — group shifts across the state that welcome crews of friends.",
+      "category": "Food & Housing",
+      "url": "https://www.vtfoodbank.org/volunteer/",
+      "tags": ["quick", "onetime", "friends"]
+    },
+    {
+      "name": "South Burlington Food Shelf",
+      "what": "Actively taking new volunteers for regular shifts.",
+      "category": "Food & Housing",
+      "url": "https://www.southburlingtonfoodshelf.org/volunteer",
+      "tags": ["quick", "recurring"]
+    },
+    {
+      "name": "Green Mountain Habitat for Humanity",
+      "what": "Swing a hammer on a build site or work a ReStore shift — no experience needed.",
+      "category": "Food & Housing",
+      "url": "https://vermonthabitat.org/volunteer",
+      "tags": ["outdoor", "onetime", "friends", "recurring"]
+    },
+    {
+      "name": "ANEW Place",
+      "what": "Support neighbors experiencing homelessness — meal service is an easy first shift.",
+      "category": "Food & Housing",
+      "url": "https://anewplacevt.org/",
+      "tags": ["quick", "onetime", "friends"]
+    },
+    {
+      "name": "The Salvation Army (Greater Burlington)",
+      "what": "A rotating mix of needs — email them and they'll find you a fit.",
+      "category": "Food & Housing",
+      "url": "https://nne.salvationarmy.org/gtburlington",
+      "tags": ["onetime", "quick"]
+    },
+    {
+      "name": "King Street Center",
+      "what": "Seasonal events and campus clean-ups supporting kids and families in the King Street neighborhood.",
+      "category": "Kids & Families",
+      "url": "https://www.kingstreetcenter.org/volunteer",
+      "tags": ["onetime", "friends", "outdoor"]
+    },
+    {
+      "name": "Spectrum Youth & Family Services",
+      "what": "Mentor a young person one-on-one — the highest-commitment, highest-impact slot on this page.",
+      "category": "Kids & Families",
+      "url": "https://www.spectrumvt.org/volunteer",
+      "tags": ["recurring"]
+    },
+    {
+      "name": "The Family Room",
+      "what": "Food prep, events, garden support, and playgroups for New American and low-income families.",
+      "category": "Kids & Families",
+      "url": "https://www.thefamilyroomvt.org/volunteer",
+      "tags": ["quick", "onetime", "friends"]
+    },
+    {
+      "name": "Outright Vermont",
+      "what": "Youth group facilitation, events, and office help for LGBTQ+ youth.",
+      "category": "Kids & Families",
+      "url": "https://outrightvt.org/volunteer",
+      "tags": ["recurring"]
+    },
+    {
+      "name": "Vermont Works for Women",
+      "what": "Women and gender-expansive folks: be a career mentor, speaker, or instructor.",
+      "category": "Kids & Families",
+      "url": "https://vtworksforwomen.org/volunteer/",
+      "tags": ["onetime", "recurring"]
+    },
+    {
+      "name": "Age Well Vermont",
+      "what": "Deliver Meals on Wheels or visit an older neighbor — routes take about two hours.",
+      "category": "Older Neighbors & Health",
+      "url": "https://agewellvt.org/volunteer/",
+      "tags": ["quick", "recurring"]
+    },
+    {
+      "name": "Cathedral Square",
+      "what": "Support healthy homes and caring communities for older adults.",
+      "category": "Older Neighbors & Health",
+      "url": "https://cathedralsquare.org/volunteer",
+      "tags": ["recurring", "quick"]
+    },
+    {
+      "name": "UVM Medical Center",
+      "what": "Non-clinical roles — information desk, spiritual care, pediatrics.",
+      "category": "Older Neighbors & Health",
+      "url": "https://www.uvmhealth.org/locations/volunteer-services-university-of-vermont-medical-center",
+      "tags": ["recurring"]
+    },
+    {
+      "name": "OnCall for Vermont (Dept. of Health)",
+      "what": "Sign up once, get called when public health emergencies need hands.",
+      "category": "Older Neighbors & Health",
+      "url": "https://www.healthvermont.gov/emergency/volunteering",
+      "tags": ["onetime"]
+    },
+    {
+      "name": "Flynn Center",
+      "what": "Usher a show — you work the doors, then watch the performance free.",
+      "category": "Arts & Civic Life",
+      "url": "https://www.flynnvt.org/volunteer",
+      "tags": ["quick", "onetime"]
+    },
+    {
+      "name": "Fletcher Free Library",
+      "what": "Library programs and outreach through Burlington Parks & Rec.",
+      "category": "Arts & Civic Life",
+      "url": "https://www.fletcherfree.org/",
+      "tags": ["quick", "recurring"]
+    },
+    {
+      "name": "City of South Burlington Committees",
+      "what": "Serve on a citizen committee — conservation, economic development, and more.",
+      "category": "Arts & Civic Life",
+      "url": "https://www.southburlingtonvt.gov/483/Volunteering-Vacancies",
+      "tags": ["recurring"]
+    }
+  ]
+}
