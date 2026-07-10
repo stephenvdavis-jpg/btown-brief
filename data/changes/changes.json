@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10T22:43:13+00:00",
+ "generated": "2026-07-10T22:50:39+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -108,6 +108,94 @@
    "url": "https://www.reddit.com/r/burlington/comments/1uspeaz/chicken_update/",
    "source": "reddit-burlington",
    "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-10T21:56:00+00:00",
+   "category": "events",
+   "headline": "New event: 100th Anniversary: Retro Library Desk",
+   "detail": "today 1 PM · Brownell Library",
+   "url": "https://community.sevendaysvt.com/event/100th-anniversary-retro-library-desk-45048314",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-10T21:56:00+00:00",
+   "category": "events",
+   "headline": "New event: Adult Rummikub",
+   "detail": "today 1 PM · Essex Free Library",
+   "url": "https://community.sevendaysvt.com/event/adult-rummikub-45272669",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-10T21:56:00+00:00",
+   "category": "events",
+   "headline": "New event: Educational Trip on Lake Champlain",
+   "detail": "today 2 PM · Rubenstein Ecosystem Sciences Lab",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78380584/20260710140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-10T21:56:00+00:00",
+   "category": "events",
+   "headline": "New event: The Ultimate Chocolate Tasting",
+   "detail": "today 2 PM · Lake Champlain Chocolates",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78391346/20260710140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-10T21:56:00+00:00",
+   "category": "events",
+   "headline": "New event: Dave Mitchell's Blue's Revue",
+   "detail": "today 2 PM · Red Square",
+   "url": "https://community.sevendaysvt.com/event/dave-mitchells-blues-revue-45291251",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-10T21:56:00+00:00",
+   "category": "events",
+   "headline": "New event: Drop-In",
+   "detail": "today 2:30 PM · Outright Vermont",
+   "url": "https://community.sevendaysvt.com/event/drop-in-44586444",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-10T21:56:00+00:00",
+   "category": "events",
+   "headline": "New event: YSO Schmanska Park",
+   "detail": "today 3 PM",
+   "url": "https://fletcherfree.libcal.com/event/17058421",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-10T21:56:00+00:00",
+   "category": "events",
+   "headline": "New event: Burlington Watches Together: World Cup Quarter Finals",
+   "detail": "today 3 PM · Fletcher Free Library",
+   "url": "https://fletcherfree.libcal.com/event/16614648",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
    "priority": 1,
    "kind": "added"
   },

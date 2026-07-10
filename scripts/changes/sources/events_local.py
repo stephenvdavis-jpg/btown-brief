@@ -16,15 +16,28 @@ from ..common import event, parse_when, now_utc, iso, BTV_TZ
 
 ID = "events-local"
 NAME = "BTown Brief events"
-EVENTS_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "..", "data", "events.json")
+_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "..", "data")
+# The events pipeline's full dataset (3k+ events, with firstSeen stamps);
+# falls back to the small curated data/events.json if it's absent.
+EVENTS_PATHS = [
+    os.path.join(_DATA_DIR, "events", "events.json"),
+    os.path.join(_DATA_DIR, "events.json"),
+]
 PAGE_URL = "events.html"
 MAX_LINES = 8
 
 
 def _load_events():
-    with open(EVENTS_PATH) as f:
-        data = json.load(f)
-    # events.json is either a list of events or {"events": [...]}
+    for path in EVENTS_PATHS:
+        try:
+            with open(path) as f:
+                data = json.load(f)
+            break
+        except FileNotFoundError:
+            continue
+    else:
+        return []
+    # either a list of events or {"events": [...]}
     if isinstance(data, dict):
         data = data.get("events", [])
     return data
