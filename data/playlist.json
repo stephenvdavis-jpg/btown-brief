@@ -1,0 +1,49 @@
+{
+  "_comment": "Community playlist config. EDIT EVERY OTHER MONDAY (new two-week round): change theme.title/theme.sub. Theme ideas: Local artists · Songs for a Lake Champlain sunset · Rainy day records · Songs that sound like the Old North End · First-snow songs · Church Street busker energy. seeds only show until the Supabase tables exist (db/quick-wins.sql) — after that the live list takes over and past rounds' winners stay on the wall.",
+  "theme": {
+    "title": "Local artists",
+    "sub": "Kick off week one with Vermont-made music — from Phish to whoever played your favorite basement show."
+  },
+  "seeds": [
+    {
+      "song": "Bouncing Around the Room",
+      "artist": "Phish",
+      "url": "https://www.youtube.com/watch?v=VzhLQWDZM0Q",
+      "why": "Burlington's most famous export, doing the thing live.",
+      "submitter": "Stephen (starter pick)",
+      "is_local": true
+    },
+    {
+      "song": "Stars",
+      "artist": "Grace Potter & The Nocturnals",
+      "url": "https://www.youtube.com/watch?v=Ml7TmC__eDc",
+      "why": "Waitsfield's own, for the drive home along the lake.",
+      "submitter": "Stephen (starter pick)",
+      "is_local": true
+    },
+    {
+      "song": "Homesick",
+      "artist": "Noah Kahan",
+      "url": "https://www.youtube.com/watch?v=ip-dkLJyMLg",
+      "why": "\"I would leave if only I could find a reason\" — the most Vermont lyric ever written, by a Strafford kid.",
+      "submitter": "Stephen (starter pick)",
+      "is_local": true
+    },
+    {
+      "song": "Blind Pigs",
+      "artist": "Rough Francis",
+      "url": "https://www.youtube.com/watch?v=yjF92MLG588",
+      "why": "Burlington punk royalty — the sons of Death keeping it loud.",
+      "submitter": "Stephen (starter pick)",
+      "is_local": true
+    },
+    {
+      "song": "By My Side",
+      "artist": "Kat Wright",
+      "url": "https://www.youtube.com/watch?v=GciCSLp0qdg",
+      "why": "The voice of a hundred Burlington summer nights.",
+      "submitter": "Stephen (starter pick)",
+      "is_local": true
+    }
+  ]
+}
