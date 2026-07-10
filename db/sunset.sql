@@ -64,7 +64,8 @@ language plpgsql security definer set search_path = public as $$
 begin
   if coalesce(trim(p_voter), '') = '' or length(p_voter) > 80 then raise exception 'bad voter'; end if;
   if p_rating is null or p_rating not between 1 and 5 then raise exception 'bad rating'; end if;
-  if p_night is null or p_night > current_date + 1 then raise exception 'bad night'; end if;
+  if p_night is null or p_night > current_date + 1 or p_night < current_date - 2 then raise exception 'bad night'; end if;
+  if p_predicted is not null and p_predicted not between 0 and 10 then raise exception 'bad predicted'; end if;
   insert into btb_sunset_ratings (night_key, voter, rating, predicted)
   values (p_night, trim(p_voter), p_rating, p_predicted)
   on conflict (night_key, voter) do update

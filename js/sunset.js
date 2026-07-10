@@ -115,8 +115,12 @@
   /* ---------- preview overrides ---------- */
 
   var params = new URLSearchParams(location.search);
-  var FORCE_SCORE = params.has('sscore') ? parseFloat(params.get('sscore')) : null;
-  var FORCE_MIN = params.has('ssmin') ? parseFloat(params.get('ssmin')) : null;
+  function numParam(name) {
+    var v = parseFloat(params.get(name));
+    return params.has(name) && isFinite(v) ? v : null;
+  }
+  var FORCE_SCORE = numParam('sscore');
+  var FORCE_MIN = numParam('ssmin');
 
   /* ============================================================
      THE SCORE
@@ -182,11 +186,18 @@
     var nws = nwsHourAt(latest, sunsetMs);
     if (nws) inputs.sky = nws.sky;
 
+    // A null mid-array (Open-Meteo gap) must not score as "clear" —
+    // drop to the degraded NWS path instead.
     if (i >= 0) {
       var H = om.hourly;
       var low = H.cloud_cover_low[i], mid = H.cloud_cover_mid[i], high = H.cloud_cover_high[i];
-      var visM = H.visibility ? H.visibility[i] : null;
       var rh = H.relative_humidity_2m[i];
+      if (![low, mid, high, rh].every(function (v) { return typeof v === 'number' && isFinite(v); })) {
+        i = -1;
+      }
+    }
+    if (i >= 0) {
+      var visM = H.visibility && typeof H.visibility[i] === 'number' ? H.visibility[i] : null;
       inputs.low = low; inputs.mid = mid; inputs.high = high;
       inputs.total = H.cloud_cover[i];
 
@@ -557,7 +568,10 @@
   function renderSpots(spotsData, counts) {
     var votedIds = lsGet('btb-sunset-voted', {});
     var byId = {};
-    (counts || []).forEach(function (r) { byId[r.spot_id] = r.votes; });
+    (counts || []).forEach(function (r) {
+      var n = Number(r.votes); // never trust a fetched value into innerHTML
+      if (isFinite(n) && n >= 0) byId[r.spot_id] = Math.floor(n);
+    });
 
     var spots = spotsData.spots.slice().map(function (s, idx) {
       s._votes = byId[s.id] || 0;
@@ -576,7 +590,7 @@
           '<p class="ss-spot-why">' + esc(s.why) + '</p>' +
         '</div>' +
         '<button class="ss-spot-vote' + (voted ? ' voted' : '') + '" data-id="' + esc(s.id) + '" type="button" ' +
-          'aria-label="Upvote ' + esc(s.name) + '">' +
+          'aria-pressed="' + (voted ? 'true' : 'false') + '" aria-label="Upvote ' + esc(s.name) + '">' +
           '<span class="ss-spot-vote-count">' + s._votes + '</span>' +
           '<span>' + (voted ? 'voted' : 'best spot?') + '</span>' +
         '</button>' +
@@ -594,6 +608,7 @@
       votedIds[id] = true;
       lsSet('btb-sunset-voted', votedIds);
       btn.classList.add('voted');
+      btn.setAttribute('aria-pressed', 'true');
       btn.querySelector('span:last-child').textContent = 'voted';
       var countEl = btn.querySelector('.ss-spot-vote-count');
       countEl.textContent = (parseInt(countEl.textContent, 10) || 0) + 1;
@@ -694,6 +709,8 @@
       return;
     }
 
+    if (state.rateBound) return; // renderRating runs every tick — bind once
+    state.rateBound = true;
     row.addEventListener('click', function (e) {
       var btn = e.target.closest('.ss-rate-btn');
       if (!btn || btn.disabled) return;
@@ -721,10 +738,11 @@
       el('ss-accuracy-body').innerHTML = rows.map(function (r) {
         var d = new Date(r.night_key + 'T12:00:00');
         var label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        var said = r.avg_predicted != null ? (Math.round(r.avg_predicted * 10) / 10).toFixed(1) : '—';
-        var you = (Math.round(r.avg_rating * 10) / 10).toFixed(1);
+        var pred = Number(r.avg_predicted), avg = Number(r.avg_rating), n = Number(r.n);
+        var said = isFinite(pred) ? (Math.round(pred * 10) / 10).toFixed(1) : '—';
+        var you = isFinite(avg) ? (Math.round(avg * 10) / 10).toFixed(1) : '—';
         return '<tr><td>' + esc(label) + '</td><td>' + said + ' / 10</td><td>' +
-          you + ' / 5</td><td>' + r.n + '</td></tr>';
+          you + ' / 5</td><td>' + (isFinite(n) ? Math.floor(n) : 0) + '</td></tr>';
       }).join('');
     }).catch(function () { /* not set up yet */ });
   }
@@ -763,6 +781,17 @@
 
       // Ticker: every second inside the final 90 minutes, else every 30 s.
       var tick = function () {
+        // A tab left open past tomorrow's sunset has outrun the data it
+        // booted with — reload for fresh sun times (at most once an hour,
+        // so a stalled data pipeline can't cause a reload loop).
+        if (FORCE_MIN == null && Date.now() > state.tomorrowSunset + 20 * 60000) {
+          var last = Number(sessionStorage.getItem('ss-reload') || 0);
+          if (Date.now() - last > 3600000) {
+            sessionStorage.setItem('ss-reload', String(Date.now()));
+            location.reload();
+            return;
+          }
+        }
         renderTiming();
         renderRating(latest, om);
         // Re-render hero on phase change (tonight → tomorrow flip).

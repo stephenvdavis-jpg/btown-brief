@@ -86,6 +86,16 @@ Moderation ritual: approved photos are added by hand to
   post-sunset tomorrow-flip + rating card, 390 px mobile, and dark mode
   (see report in the session scratchpad; results summarized in the PR/handoff).
 - SQL not executed anywhere — it's a file, nothing deployed.
+- Independent Codex (GPT-5.6) review of the full diff: no criticals; fixed its
+  real findings (NaN guards on Open-Meteo gaps, rating-listener accumulation,
+  numeric coercion of Supabase values before innerHTML, stale-tab hourly
+  reload, form aria-labels, vote aria-pressed, two CSS specificity bugs,
+  320px rating-row overflow, tighter rating validation in SQL). Rejected two
+  findings after verification: the `end $$;` "syntax error" claim (production
+  quick-wins.sql uses the same form and its RPCs are live) and replacing the
+  Intl locale tricks (stable in all modern browsers). Its rate-limiting
+  concern is real but is the same accepted tradeoff as the live playlist
+  voting — noted below.
 
 ## Data gaps & honest limitations
 
@@ -105,6 +115,10 @@ Moderation ritual: approved photos are added by hand to
 - Golden hour is a flat sunset−45 min, not solar-elevation math. Close enough
   in Burlington summer; drifts a bit in winter.
 - `walk_min` on spots is from the top of Church Street, eyeballed from maps.
+- **Anon-key writes have no rate limiting** (same model as playlist voting):
+  a determined person could stuff votes or spam the photo queue. Acceptable
+  for a community site at this scale; if it's ever abused, move mutations
+  behind a Supabase edge function with per-IP limits.
 
 ## Open questions (for Stephen)
 

@@ -563,7 +563,7 @@
   background: transparent;
   color: var(--coral);
 }
-.ss-submit-alt { font-size: var(--text-sm); color: var(--ink-3); }
+.ss-submit p.ss-submit-alt { font-size: var(--text-sm); color: var(--ink-3); margin: 0; }
 .ss-submit-alt a { color: var(--teal); }
 
 .ss-form-msg { font-size: var(--text-sm); margin: 0; }
@@ -615,7 +615,8 @@
   font-size: var(--text-xs);
   color: var(--ink-4);
 }
-.ss-rate-thanks { margin-top: var(--space-3); font-weight: 600; color: #2E8A5F; }
+/* qualified: .ss-rate p / .ss-submit p above would out-specify these */
+.ss-rate p.ss-rate-thanks { margin: var(--space-3) 0 0; font-weight: 600; color: #2E8A5F; }
 
 /* Accuracy log */
 .ss-accuracy { margin-top: var(--space-6); }
@@ -658,6 +659,10 @@
 @media (max-width: 430px) {
   /* a.mode-btn in style.css sets display — match its specificity */
   a.mode-btn.ss-nav-weather { display: none; }
+}
+@media (max-width: 360px) {
+  .ss-rate-btn { width: 42px; height: 42px; font-size: 1.3rem; }
+  .ss-rate-row { gap: var(--space-1); }
 }
 
 @media (prefers-reduced-motion: reduce) {
