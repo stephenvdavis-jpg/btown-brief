@@ -39,7 +39,7 @@ Machine registry: [`data/sources.json`](data/sources.json) · Inoreader import: 
 | [Red Square](https://www.facebook.com/redsquarevt) | manual | — | — | 🟢 high |
 | [South Burlington Recreation & Parks](https://www.southburlingtonvt.gov/160/Recreation-Parks) | scrape | `https://www.southburlingtonvt.gov/calendar.aspx?CID=44` | ⚠️ see notes | 🟡 medium |
 | [South Burlington Public Library](https://southburlingtonlibrary.org/events/) | scrape | — | ⚠️ see notes | 🟢 high |
-| [Seven Days Events](https://www.sevendaysvt.com/vermont/EventSearch) | manual | — | — | 🟢 high |
+| [Seven Days Events](https://www.sevendaysvt.com/vermont/EventSearch) | scrape | `https://www.sevendaysvt.com/vermont/EventSearch` (browser-rendered) | ✅ live | 🟢 high |
 | [Shelburne Museum](https://shelburnemuseum.org/events/) | ICS | `https://shelburnemuseum.org/events/?ical=1` | ✅ live | 🟢 high |
 | [Saint Michael's College Events](https://www.smcvt.edu/events) | API | `https://www.smcvt.edu/wp-json/tribe/events/v1/events?per_page=50` | ✅ live | 🟢 high |
 | [Switchback Brewing — Beer Garden](https://www.switchbackvt.com/events) | RSS | `https://www.switchbackvt.com/beer-garden-events?format=rss` | ✅ live | 🟢 high |
@@ -75,7 +75,7 @@ Machine registry: [`data/sources.json`](data/sources.json) · Inoreader import: 
 - **Red Square** (unknown; fragility: n/a — venue website is gone) — redsquarevt.com no longer resolves. Facebook/Instagram (@redsquarevt) are the only channels. Manual or paid social monitoring.
 - **South Burlington Recreation & Parks** (weekly; fragility: high — CivicPlus calendar whose iCal export is session-bound; plain GETs return inconsistent results) — CivicEngage calendar (CID=44 recreation). RSS index is robots-disallowed (/RSS.aspx) and the iCalendar.aspx export needs postback session state. Scrape the calendar list view; low volume, so a weekly poll suffices.
 - **South Burlington Public Library** (several/day; fragility: high — custom MODX CMS, site-specific markup) — No feed of any kind (custom MODX, not LibCal). Events ARE server-rendered in div.post blocks with machine-friendly data attributes (data-recList dates, data-stime/data-etime, data-id) — a clean scrape target despite no feed.
-- **Seven Days Events** (several/day; fragility: n/a — no automated pipe exists) — Events live on the legacy Gyrobase/Foundation CMS (community.sevendaysvt.com), which is fully Cloudflare bot-blocked (403 on every path) AND robots.txt explicitly disallows /vermont/EventSearch. Honest options: manual curation, or ask Seven Days directly for a data feed/partnership — they are local and the main WordPress news feed works fine.
+- **Seven Days Events** (several/day; fragility: medium-high — needs a real browser context; Cloudflare blocks plain HTTP clients) — Stephen's newsletter pipeline already scrapes the full event search via browser rendering (147 events over a 4-day window, verified in production), so this is classified scrape. Caveat: robots.txt disallows /vermont/EventSearch — a knowingly-accepted policy exception for core newsletter content; a Seven Days data partnership remains the cleaner long-term answer.
 - **Shelburne Museum** (several/week (seasonal); fragility: low-medium — The Events Calendar ICS export, but Cloudflare rate-limits rapid repeat requests) — WordPress + The Events Calendar. ?ical=1 export validated (30 VEVENTs, pre-expanded recurrences). JSON API and /feed/ also work as backups. Fetch gently (one request per poll) to stay under the Cloudflare challenge threshold.
 - **Saint Michael's College Events** (several/week; fragility: low — The Events Calendar's documented REST API) — Same plugin as Champlain. Only ~10 upcoming events published at probe time (mostly athletics/president's tour). ICS alternative validated at /events/?ical=1.
 - **Switchback Brewing — Beer Garden** (several/week; fragility: low-medium — native Squarespace collection RSS; slug 'beer-garden-events' is the dependency) — Squarespace events collection with 40+ items (live music, watch parties, wing nights), future-dated pubDates. ?format=ical on the same slug returns 0 VEVENTs — use the RSS.
@@ -283,10 +283,10 @@ Machine registry: [`data/sources.json`](data/sources.json) · Inoreader import: 
 
 ## Open questions for Stephen
 
-1. **Seven Days events** — the biggest gap. The events system is Cloudflare-blocked and robots-disallowed; there is no legitimate automated route. Ask Seven Days for a data feed/partnership? (They're local; BTown Brief drives them traffic.)
-2. **ECHO** — same situation (bot-blocked, ClaudeBot named in robots.txt). A quick email asking for their calendar ICS would likely work.
+1. ~~**Seven Days events**~~ **RESOLVED 2026-07-10:** Stephen's newsletter pipeline already scrapes it via browser rendering — reclassified as scrape. (Robots-policy caveat noted in the entry; a data partnership is still the cleaner long-term answer.)
+2. ~~**ECHO**~~ **RESOLVED 2026-07-10:** not needed — deprioritized. (Same for Eventbrite.)
 3. **Love Burlington** — their Time.ly calendar has feed export switched OFF (`disable_export_feeds:1`). One email could get them to flip it, which would beat any scraper.
-4. **API keys to register (both free):** AirNow (docs.airnowapi.org/account/request/) and New England 511 developer portal (nec-por.ne-compass.com/DeveloperPortal). Endpoints are verified and waiting on keys.
+4. ~~**API keys**~~ **RESOLVED 2026-07-10:** skipped — AirNow and New England 511 keys are only needed if a future dashboard wants AQI or live road incidents. Endpoints are documented in sources.json when that day comes.
 5. **Instagram-only venues** (Radio Bean*, Zero Gravity, Citizen Cider, Queen City, Red Square, Despacito) — is a paid social-monitoring service or a weekly 15-minute manual sweep worth it? (*Radio Bean has a Wix calendar that a headless scraper could read, but it's high-maintenance.)
 6. **Permits freshness** — the city's ArcGIS permit export was ~2.5 months stale at probe time. If 'permits filed this week' matters, ask the city clerk/DPI whether the OpenGov export refresh can be scheduled, or whether they publish elsewhere.
 7. **Meetup group whitelist** — per-group ICS works great, but someone has to curate which Burlington groups matter. Start with the 3 validated ones?

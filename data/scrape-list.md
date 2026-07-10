@@ -5,6 +5,11 @@ Policy reminders: **Front Porch Forum and Facebook groups are never scraped.** S
 
 ## Scrape targets (technically feasible, server-rendered unless noted)
 
+### Seven Days Events
+- **Target:** `https://www.sevendaysvt.com/vermont/EventSearch` (browser-rendered; plain HTTP clients get Cloudflare-blocked)
+- **Cadence:** several/day · **Fragility:** medium-high — legacy Gyrobase CMS markup behind Cloudflare
+- **Approach:** Already working in Stephen's newsletter pipeline (147 events over a 4-day window pulled in production). Caveat: robots.txt disallows /vermont/EventSearch — knowingly accepted for core newsletter content; a Seven Days data partnership remains the cleaner long-term answer.
+
 ### City of Burlington Calendar
 - **Target:** `https://www.burlingtonvt.gov/calendar.aspx?view=list&CID=0`
 - **Cadence:** several/week · **Fragility:** medium — server-rendered CivicPlus list view; the calendar RSS exists but returns 1 item vs 29 on the page
@@ -115,10 +120,6 @@ Policy reminders: **Front Porch Forum and Facebook groups are never scraped.** S
 ### Red Square
 - **Where:** https://www.facebook.com/redsquarevt
 - **Why manual:** redsquarevt.com no longer resolves. Facebook/Instagram (@redsquarevt) are the only channels. Manual or paid social monitoring.
-
-### Seven Days Events
-- **Where:** https://www.sevendaysvt.com/vermont/EventSearch
-- **Why manual:** Events live on the legacy Gyrobase/Foundation CMS (community.sevendaysvt.com), which is fully Cloudflare bot-blocked (403 on every path) AND robots.txt explicitly disallows /vermont/EventSearch. Honest options: manual curation, or ask Seven Days directly for a data feed/partnership — they are local and the main WordPress news feed works fine.
 
 ### Zero Gravity Craft Brewery
 - **Where:** https://www.zerogravitybeer.com/zero-gravity-beerhall
