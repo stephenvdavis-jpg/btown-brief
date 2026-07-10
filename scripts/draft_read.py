@@ -109,9 +109,14 @@ def build_packet(d):
 
 
 def call_claude(brain, packet, today):
-    key = os.environ.get("ANTHROPIC_API_KEY")
+    key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
     if not key:
         return None, "no ANTHROPIC_API_KEY — packet-only draft"
+    if not key.isascii():
+        # classic paste accident: copying the *displayed* truncated key
+        # ("sk-ant-…") instead of using the console's Copy button
+        return None, ("ANTHROPIC_API_KEY contains invalid characters (a '…'?) — "
+                      "re-copy the full key with the Copy button and update the secret")
     body = json.dumps({
         "model": MODEL,
         "max_tokens": 700,
