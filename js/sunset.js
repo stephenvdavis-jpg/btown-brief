@@ -498,6 +498,8 @@
   }
 
   function renderFactors(result, conf) {
+    el('ss-factors-title').textContent =
+      'How we read ' + (state.isTonight ? 'tonight' : 'tomorrow') + '’s sky';
     var list = el('ss-factors');
     var maxAbs = Math.max.apply(null, result.parts.map(function (p) {
       return p.label === 'Starting point' ? 0 : Math.abs(p.delta);

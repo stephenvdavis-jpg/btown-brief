@@ -650,6 +650,16 @@
   .ss-spot-rank { display: none; }
 }
 
+/* Two nav pills don't fit a phone at style.css's default padding —
+   compact them, and below 430px keep only the way back home. */
+@media (max-width: 640px) {
+  .mode-btn { padding: 8px 12px; font-size: var(--text-sm); }
+}
+@media (max-width: 430px) {
+  /* a.mode-btn in style.css sets display — match its specificity */
+  a.mode-btn.ss-nav-weather { display: none; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .ss-cloud { animation: none; }
   .ss-hero, .ss-stars, .ss-factor-fill { transition: none; }
