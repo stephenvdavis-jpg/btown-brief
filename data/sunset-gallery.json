@@ -1,0 +1,41 @@
+{
+  "_comment": "Previous-nights gallery. Drop web-sized photos in assets/img/sunset/ and add an entry here (newest first — entries with a date sort by date, undated keep their position). Community submissions arrive via the moderation queue on sunset.html and get added here by hand after review.",
+  "photos": [
+    {
+      "image": "assets/img/sunset/adirondack-burn.jpg",
+      "credit": "Stephen Davis",
+      "caption": "The lake goes quiet as the last light burns along the Adirondack horizon.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/bikepath-gold.jpg",
+      "credit": "Stephen Davis",
+      "caption": "Golden hour along the waterfront bike path, where every ride ends in color.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/harbor-moorings.jpg",
+      "credit": "Stephen Davis",
+      "caption": "Evening settles over the moorings in Burlington Harbor.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/january-melt.jpg",
+      "credit": "Stephen Davis",
+      "caption": "A January sunset melts across the ice at the water's edge.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/ice-skaters.jpg",
+      "credit": "Stephen Davis",
+      "caption": "Walking on water: sunset skaters on a frozen Lake Champlain.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/last-light-ice.jpg",
+      "credit": "Stephen Davis",
+      "caption": "Chasing the last light across the ice.",
+      "date": null
+    }
+  ]
+}

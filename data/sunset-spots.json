@@ -1,0 +1,69 @@
+{
+  "_comment": "Seed order = editor's ranking; live order re-sorts by community upvotes (btb_sunset_spot_counts). walk_min is from the top of Church Street.",
+  "spots": [
+    {
+      "id": "waterfront-park",
+      "name": "Waterfront Park",
+      "area": "Downtown waterfront",
+      "walk_min": 8,
+      "coords": [44.4795, -73.2213],
+      "why": "The default for a reason — front row on the boardwalk, the whole western sky over the lake, five minutes downhill from Church Street."
+    },
+    {
+      "id": "battery-park",
+      "name": "Battery Park",
+      "area": "Downtown, top of the bluff",
+      "walk_min": 6,
+      "coords": [44.4831, -73.2196],
+      "why": "Elevation is the trick: you see over the treetops to the full Adirondack ridgeline, and the cannons make a good leaning post."
+    },
+    {
+      "id": "oakledge-park",
+      "name": "Oakledge Park",
+      "area": "South End",
+      "walk_min": 45,
+      "coords": [44.4536, -73.2265],
+      "why": "Flat rock ledges that hold the day's heat — sit on warm stone while the sky does its thing. Quieter than the boardwalk."
+    },
+    {
+      "id": "north-beach",
+      "name": "North Beach",
+      "area": "New North End",
+      "walk_min": 35,
+      "coords": [44.4903, -73.2419],
+      "why": "Sand under your feet and the widest open horizon in town. On hot nights you can be in the water when the color peaks."
+    },
+    {
+      "id": "colchester-causeway",
+      "name": "Colchester Causeway",
+      "area": "Colchester (bike it)",
+      "walk_min": null,
+      "coords": [44.5533, -73.2610],
+      "why": "Three miles of marble spit with water on both sides — the only spot where the sunset surrounds you. Bring a bike and lights for the ride back."
+    },
+    {
+      "id": "perkins-pier",
+      "name": "Perkins Pier",
+      "area": "Waterfront, south end",
+      "walk_min": 10,
+      "coords": [44.4739, -73.2218],
+      "why": "Sailboat masts in the foreground turn every photo into a postcard, and it stays calm when the boardwalk is packed."
+    },
+    {
+      "id": "red-rocks-park",
+      "name": "Red Rocks Park",
+      "area": "South Burlington",
+      "walk_min": null,
+      "coords": [44.4450, -73.2260],
+      "why": "Short pine-woods walk to 70-foot cliffs over the broad lake — the most dramatic perch in the area when the sky delivers."
+    },
+    {
+      "id": "leddy-park",
+      "name": "Leddy Park",
+      "area": "New North End",
+      "walk_min": null,
+      "coords": [44.5079, -73.2547],
+      "why": "The locals' quiet option: same western horizon as North Beach with a fraction of the crowd, and easy parking."
+    }
+  ]
+}
