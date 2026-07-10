@@ -23,7 +23,7 @@ from __future__ import annotations
 import html
 import re
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parents[1]))
@@ -99,7 +99,7 @@ def _calendar_events(lo: date, hi: date) -> list[dict]:
                 category=href_cat.get(href.group(1)),
             )
             if (not isinstance(start, datetime) and isinstance(end, date)
-                    and end > start):
+                    and not isinstance(end, datetime) and end > start):
                 # all-day date range (e.g. a 2-day festival): one entry/day
                 span = f"{start.strftime('%b %-d')} – {end.strftime('%b %-d')}"
                 if (end - start).days > 10:   # months-long -> single entry

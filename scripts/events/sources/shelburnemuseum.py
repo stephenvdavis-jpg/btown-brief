@@ -47,6 +47,8 @@ def _category(ev: dict) -> str | None:
         mapped = _CAT_MAP.get((c.get("name") or "").strip().lower())
         if mapped:
             return mapped
+    if "curator tour" in _tribe.title_of(ev).lower():
+        return "art"    # gallery tour of an exhibition
     return None
 
 

@@ -169,6 +169,17 @@ def _keep_town(town: str | None) -> bool:
     return town.strip().lower() in KEEP_TOWNS
 
 
+def _norm_town(town: str | None) -> str | None:
+    """Meetup venue cities arrive in mixed case ('BURLINGTON', 'burlington')."""
+    if not town:
+        return None
+    town = " ".join(town.split())
+    for t in common.TOWNS:
+        if town.lower() == t.lower():
+            return t
+    return town.title() if (town.isupper() or town.islower()) else town
+
+
 def _strip_group_header(desc: str | None, group_name: str | None) -> str | None:
     """Meetup ical DESCRIPTION starts with the group name on its own line."""
     if not desc:
@@ -220,7 +231,7 @@ def fetch(window_start, window_end):
                 continue
             if info.get("out_of_state"):
                 continue
-            town = info.get("town")
+            town = _norm_town(info.get("town"))
             if not _keep_town(town):
                 continue
             desc = _strip_group_header(occ.get("description"), group_name)
@@ -285,7 +296,7 @@ def fetch(window_start, window_end):
             venue = node.get("venue") if isinstance(node.get("venue"), dict) else {}
             if venue.get("__ref"):
                 venue = ap.get(venue["__ref"]) or {}
-            town = venue.get("city")
+            town = _norm_town(venue.get("city"))
             if (venue.get("state") or "").upper() not in ("", "VT"):
                 continue
             if not _keep_town(town):

@@ -119,8 +119,8 @@ def _sqsp_events(base: str, path: str, *, venue: str, town: str,
             if not title or not full:
                 continue
             url = full if full.startswith("http") else base + full
-            start = datetime.fromtimestamp(item["startDate"] / 1000, TZ)
-            end = (datetime.fromtimestamp(item["endDate"] / 1000, TZ)
+            start = datetime.fromtimestamp(item["startDate"] // 1000, TZ)
+            end = (datetime.fromtimestamp(item["endDate"] // 1000, TZ)
                    if item.get("endDate") else None)
             excerpt = common.strip_tags(item.get("excerpt") or "")
             loc = item.get("location") or {}
@@ -254,9 +254,11 @@ ADAPTERS = {
 def fetch(window_start: date, window_end: date) -> list[dict]:
     events: list[dict] = []
     failures: list[str] = []
+    lo_iso, hi_iso = window_start.isoformat(), window_end.isoformat()
     for name, adapter in ADAPTERS.items():
         try:
-            got = adapter(window_start, window_end)
+            got = [e for e in adapter(window_start, window_end)
+                   if lo_iso <= e["date"] <= hi_iso]
             events.extend(got)
             common.log(f"  breweries/{name}: {len(got)} events")
         except Exception as e:

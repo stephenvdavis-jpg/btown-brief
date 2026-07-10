@@ -80,6 +80,19 @@ def _venue_compatible(a: str | None, b: str | None) -> bool:
     return SequenceMatcher(None, na, nb).ratio() >= 0.8
 
 
+def _same_source_other_showtime(ev: dict, cluster: list[dict]) -> bool:
+    """A source that lists the same title twice on one date means two real
+    showtimes (VCC 7pm & 9pm) — never merge those. Cross-source duplicates
+    with slightly different times ARE still merged."""
+    if ev["allDay"]:
+        return False
+    for other in cluster:
+        if (other["source"] == ev["source"] and not other["allDay"]
+                and other["start"] != ev["start"]):
+            return True
+    return False
+
+
 def dedupe(events: list[dict]) -> tuple[list[dict], list[dict]]:
     """Fuzzy-merge same title+date+venue across sources.
     Returns (merged_events, merge_log)."""
@@ -98,7 +111,8 @@ def dedupe(events: list[dict]) -> tuple[list[dict], list[dict]]:
             for cluster in clusters:
                 head = cluster[0]
                 if (_title_sim(nt, norm_title(head["title"])) >= 0.87
-                        and _venue_compatible(ev.get("venue"), head.get("venue"))):
+                        and _venue_compatible(ev.get("venue"), head.get("venue"))
+                        and not _same_source_other_showtime(ev, cluster)):
                     cluster.append(ev)
                     placed = True
                     break
@@ -252,6 +266,15 @@ def main() -> int:
         return 1
 
     merged, merge_log = dedupe(all_events)
+
+    # two showtimes of one title share a content hash — make ids unique
+    # deterministically (suffix = start time) so state merging stays stable
+    seen_ids: set[str] = set()
+    for ev in merged:
+        if ev["id"] in seen_ids:
+            suffix = ev["start"][11:16].replace(":", "") if not ev["allDay"] else "d"
+            ev["id"] = f"{ev['id']}-{suffix}"
+        seen_ids.add(ev["id"])
 
     prev_path = DATA_DIR / "events.json"
     previous = []

@@ -175,5 +175,5 @@ def _make(ev: dict, lo: date, hi: date) -> dict | None:
         town=town,
         price=price_text,
         free=free,
-        description=ev.get("Description") or None,
+        description=description,
     )
