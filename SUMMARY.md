@@ -108,18 +108,18 @@ deals show "Unverified" until you touch them.
 - A "Burlington only" toggle if the greater-Burlington footprint bothers anyone.
 - Consider a Google Form instead of mailto for expired-deal reports if volume grows.
 
+## Decisions made (Stephen, 2026-07-10)
+
+- **Chains stay in** every view (99 Restaurants, Texas Roadhouse, Moe's, BWW).
+- **Insomnia Cookies keeps** its Kitchen After 10 spot.
+- **Sweet Treats stands stay thin** on attributes.
+- **Day-trip entries stay** in Open Now with real hours.
+- **Low-confidence attribute venues got a second research pass** (Four Quarters,
+  Stone Corral, Shacksbury, Wise Fool, May Day, Ms. Weinerz, Boxcar, Venetian Soda
+  Lounge, Willow's Bagels, Scout & Company) — flags updated in the dataset.
+
 ## Open questions (your calls)
 
 1. **The call list** (`data/call-list.md`, 55 items): the top section (deal conflicts +
    3 unverified happy hours) is the newsletter-facing set — worth doing before the next
    Wednesday issue. Is Bleu's oyster hour dead, and did it move to The Harborvale?
-2. **Chains** (99 Restaurants, Texas Roadhouse, Moe's, Buffalo Wild Wings) are in the
-   dataset because your own deals list includes them. Keep them in every view, or
-   hide behind "Everything"?
-3. **Insomnia Cookies** counts as "Kitchen After 10" (cookies until 3 AM). Legit or cheating?
-4. **Quiet/solo/TV flags** — 76 venues seeded with evidence; the drawer invites reader
-   corrections to your email. Want a review pass over the low-confidence ten first?
-5. **Sweet Treats stands** (Champ's, creemee stands) have no attribute research — they
-   rarely answer the questions this page exists for. Fine to leave thin?
-6. **Day-trip entries** (Alchemist, Hill Farmstead, Prohibition Pig…) show in Open Now
-   with their real hours. Keep, or gate behind a "worth the drive" chip?

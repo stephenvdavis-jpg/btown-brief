@@ -28,7 +28,6 @@ _Generated 2026-07-10. Prioritized; top section first._
 - [ ] **Bleu Northeast Kitchen** — Google says TEMPORARILY CLOSED — its deals may be dead; confirm before listing.
 ## Identity/hours unknown (can’t list confidently)
 
-- [ ] **Ms. Weinerz** — No confident Google Places match — verify address & hours directly.
 - [ ] **A Taste of Abyssinia** — No confident Google Places match — verify address & hours directly.
 - [ ] **EB Strong's Steakhouse** — No confident Google Places match — verify address & hours directly.
 - [ ] **Klinger's Bakery and Cafe** — No confident Google Places match — verify address & hours directly.
@@ -47,9 +46,9 @@ _Generated 2026-07-10. Prioritized; top section first._
 - [ ] **BKK in the Alley** — Reported closed/closing (2025-fall, Closed fall 2025 (already known); space reopened as Thai in the Alley Jan 2026) — not in the food dataset; check things.json / main site.
 - [ ] **Manhattan's** — Reported closed/closing (2025-01-17, Closed per city fire marshal order (unpermitted electrical/construction work) at Church & Main; no reopening announcement found as of July 2026 - treat as closed) — not in the food dataset; check things.json / main site.
 - [ ] **Vietnamese Pho Ly** — Google says permanently closed — confirm.
+- [ ] **Shacksbury Cider Tasting Room** — Shacksbury no longer runs a tasting room (per their site) — retire here and in things.json.
 ## Hours holes (Google has nothing)
 
-- [ ] **Ms. Weinerz** — No hours on Google — get hours directly.
 - [ ] **The Harborvale** — On the deals/research list but no hours found — verify it and get hours.
 - [ ] **A Taste of Abyssinia** — No hours on Google — get hours directly.
 - [ ] **EB Strong's Steakhouse** — No hours on Google — get hours directly.
