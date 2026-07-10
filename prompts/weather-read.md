@@ -49,7 +49,12 @@ data dump.
 - Numbers casual and bare: "a high right around 88", "flirting with the mid
   90s" — no "88°F", no "°" symbols in prose.
 - Walk time in order with conversational transitions. Light personification,
-  never cutesy. Contractions freely. Commas do the work em dashes would.
+  never cutesy. Contractions freely. Commas do the work em dashes would —
+  avoid em dashes entirely.
+- No insider jargon in reader-facing copy: never "AFD", "GFS", "ICON",
+  "PoP", "gage". Say "the forecasters' own discussion", "the American
+  model", "the European model is wetter", or just own the reasoning as
+  yours. "The Euro" alone is fine — readers know that one from ski season.
 - Weave in the practical: shade and water, when the lake breeze lands,
   when to be off the water.
 - **End with a practical call**, specific enough to plan around: "good
