@@ -19,7 +19,8 @@ import json
 import os
 import sys
 import urllib.request
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 
 import outlets as outlets_mod
 
@@ -139,8 +140,8 @@ def main():
     with open(BRAIN) as f:
         brain = f.read()
 
-    # Burlington-local date (the Action runs in UTC)
-    local = datetime.now(timezone.utc).astimezone(timezone(timedelta(hours=-4)))
+    # Burlington-local date (the Action runs in UTC; DST-safe via zoneinfo)
+    local = datetime.now(ZoneInfo("America/New_York"))
     today = local.strftime("%A, %B %-d")
 
     packet = build_packet(data)

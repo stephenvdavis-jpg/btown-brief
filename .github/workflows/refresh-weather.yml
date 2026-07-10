@@ -14,6 +14,11 @@ on:
 permissions:
   contents: write
 
+# The 9:40 draft run can overlap the :45 hourly run — queue them instead.
+concurrency:
+  group: refresh-weather
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -41,5 +46,5 @@ jobs:
             echo "No weather changes."
           else
             git commit -m "Auto-refresh weather data"
-            git push
+            git push || (git pull --rebase && git push)
           fi

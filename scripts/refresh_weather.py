@@ -27,6 +27,9 @@ import sys
 import urllib.request
 import urllib.parse
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
+
+BTV_TZ = ZoneInfo("America/New_York")
 
 LAT, LON = 44.4759, -73.2121
 NWS_GRID = "BTV/89,56"            # from /points/44.4759,-73.2121 — static
@@ -62,6 +65,14 @@ def kmh_to_mph(k):
     return None if k is None else round(k * 0.621371)
 
 
+def first_not_none(*vals):
+    """`a or b` treats a legitimate 0°F as missing — use explicit None checks."""
+    for v in vals:
+        if v is not None:
+            return v
+    return None
+
+
 def deg_to_compass(deg):
     if deg is None:
         return None
@@ -84,7 +95,7 @@ def fetch_now():
 
     temp_f = c_to_f(v("temperature"))
     # "feels like": heat index in summer, wind chill in winter, else the temp
-    feels_f = c_to_f(v("heatIndex")) or c_to_f(v("windChill")) or temp_f
+    feels_f = first_not_none(c_to_f(v("heatIndex")), c_to_f(v("windChill")), temp_f)
     return {
         "observed_at": p.get("timestamp"),
         "station": "KBTV",
@@ -147,14 +158,13 @@ def fetch_hourly():
     for per in fc["properties"]["periods"][:36]:
         start = datetime.fromisoformat(per["startTime"])
         key = start.astimezone(timezone.utc).isoformat(timespec="hours")
-        wind_mph = None
-        m = re.search(r"(\d+)", per.get("windSpeed") or "")
-        if m:
-            wind_mph = int(m.group(1))
+        # windSpeed can be a range ("10 to 20 mph") — take the max
+        nums = re.findall(r"\d+", per.get("windSpeed") or "")
+        wind_mph = max(int(n) for n in nums) if nums else None
         hours.append({
             "t": per["startTime"],
             "temp_f": per["temperature"],
-            "feels_f": c_to_f(feels.get(key)) or per["temperature"],
+            "feels_f": first_not_none(c_to_f(feels.get(key)), per["temperature"]),
             "pop": (per.get("probabilityOfPrecipitation") or {}).get("value") or 0,
             "humidity": (per.get("relativeHumidity") or {}).get("value"),
             "wind_mph": wind_mph,
@@ -243,6 +253,15 @@ def fetch_lake_forecast():
     if not graph:
         return {"issued": None, "suspended": True}
     prod = fetch_json_retry(graph[0]["@id"])
+    # The listing can retain the season's last product for a while after
+    # issuance stops — a REC older than 36h means the product is suspended,
+    # and its winds/waves must not keep feeding the swim score all winter.
+    issued = prod.get("issuanceTime")
+    if issued:
+        age_h = (datetime.now(timezone.utc)
+                 - datetime.fromisoformat(issued)).total_seconds() / 3600
+        if age_h > 36:
+            return {"issued": issued, "suspended": True}
     text = prod["productText"]
     zones = {}
     for m in re.finditer(
@@ -288,8 +307,10 @@ def fetch_usgs():
             # typical summer pool runs ~95–96 ft.
             out["level_status"] = ("flood" if lvl >= 100 else
                                    "elevated" if lvl >= 99 else "normal")
-    if not out:
-        raise ValueError("USGS returned no values")
+    # Require BOTH series: a partial response must not replace the previous
+    # complete section (the keep-last-good contract works per section).
+    if "water_temp_f" not in out or "level_ft" not in out:
+        raise ValueError(f"USGS incomplete: got {sorted(out)}")
     return out
 
 
@@ -301,7 +322,8 @@ def fetch_air_quality():
         url = ("https://airnowgovapi.com/reportingarea/get?"
                f"latitude={LAT}&longitude={LON}&stateCode=VT&maxDistance=50")
         records = fetch_json(url)
-        obs = [r for r in records if r.get("dataType") == "O"]
+        obs = [r for r in records if r.get("dataType") == "O"
+               and isinstance(r.get("aqi"), (int, float))]
         primary = next((r for r in obs if r.get("isPrimary")), obs[0] if obs else None)
         if primary:
             fc = [r for r in records if r.get("dataType") == "F" and r.get("isPrimary")]
@@ -339,12 +361,20 @@ def fetch_sun():
     data = fetch_json(
         "https://api.open-meteo.com/v1/forecast?"
         f"latitude={LAT}&longitude={LON}"
-        "&daily=sunrise,sunset,uv_index_max&timezone=America%2FNew_York&forecast_days=2"
+        "&daily=sunrise,sunset,uv_index_max&timezone=America%2FNew_York"
+        "&timeformat=unixtime&forecast_days=2"
     )
     d = data["daily"]
+
+    # Serialize with the Burlington UTC offset — Open-Meteo's default local
+    # strings are naive, and a naive string parsed by a browser in another
+    # timezone shifts every sunset calculation.
+    def iso(ts):
+        return datetime.fromtimestamp(ts, BTV_TZ).isoformat(timespec="minutes")
+
     return {
-        "sunrise": d["sunrise"][0], "sunset": d["sunset"][0],
-        "sunrise_tomorrow": d["sunrise"][1], "sunset_tomorrow": d["sunset"][1],
+        "sunrise": iso(d["sunrise"][0]), "sunset": iso(d["sunset"][0]),
+        "sunrise_tomorrow": iso(d["sunrise"][1]), "sunset_tomorrow": iso(d["sunset"][1]),
         "uv_max": d.get("uv_index_max", [None])[0],
     }
 
@@ -399,7 +429,9 @@ BEACH_MAP = {
     "Texaco Beach": ["Texaco Beach"],
     "Oakledge Cove": ["Oakledge Cove"],
 }
-STATUS_RANK = {"green": 0, "yellow": 1, "red": 2, "unknown": 3}
+# Aggregation order: a known closure must always win, and a missing/stale
+# sample can't vouch for the beach — but it also shouldn't mask an alert.
+STATUS_RANK = {"green": 0, "unknown": 1, "yellow": 2, "red": 3}
 
 
 def fetch_beaches():
@@ -428,9 +460,8 @@ def fetch_beaches():
         sampled = a.get("ResultDateTime")
         if sampled:
             try:
-                dt = datetime.strptime(sampled, "%m/%d/%Y %I:%M %p")
-                # city timestamps are US/Eastern; compare loosely in UTC
-                age_h = (datetime.utcnow() - dt).total_seconds() / 3600 - 4
+                dt = datetime.strptime(sampled, "%m/%d/%Y %I:%M %p").replace(tzinfo=BTV_TZ)
+                age_h = (datetime.now(timezone.utc) - dt).total_seconds() / 3600
                 if age_h > 72:
                     status = "unknown"
             except ValueError:
@@ -441,7 +472,9 @@ def fetch_beaches():
 
     beaches = []
     for name, sites in BEACH_MAP.items():
-        candidates = [to_status(rows.get(s)) for s in sites if s in rows] or [to_status(None)]
+        # every expected sample site counts — a missing row is "unknown",
+        # never silently dropped in favor of its greener neighbor
+        candidates = [to_status(rows.get(s)) for s in sites]
         worst = max(candidates, key=lambda c: STATUS_RANK[c[0]])
         status, reason, ecoli, sampled = worst
         if status == "red":

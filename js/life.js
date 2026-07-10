@@ -44,12 +44,20 @@
     return clamp(1 - (value - idealHi) / slackHi, 0, 1);
   }
 
+  // All clocks and hour-of-day logic run on Burlington time, whatever
+  // timezone the visitor is in. Timestamps in the data carry UTC offsets
+  // (the pipeline serializes them that way), so instants are unambiguous.
+  var BTV_TZ = 'America/New_York';
+
   function fmtClock(iso) {
-    var d = new Date(iso);
-    var h = d.getHours(), m = d.getMinutes();
-    var ap = h >= 12 ? 'PM' : 'AM';
-    var h12 = h % 12 || 12;
-    return m ? h12 + ':' + (m < 10 ? '0' : '') + m + ' ' + ap : h12 + ' ' + ap;
+    return new Date(iso).toLocaleTimeString('en-US',
+      { hour: 'numeric', minute: '2-digit', timeZone: BTV_TZ });
+  }
+
+  function btvHour(dateOrIso) {
+    var d = typeof dateOrIso === 'object' ? dateOrIso : new Date(dateOrIso);
+    return parseInt(d.toLocaleString('en-US',
+      { hour: 'numeric', hour12: false, timeZone: BTV_TZ }), 10) % 24;
   }
 
   function fmtAgo(iso) {
@@ -276,30 +284,26 @@
     var now = Date.now();
 
     if (key === 'sunset') {
-      var setT = new Date(ctx.sunset).getTime();
+      // decide today vs tomorrow FIRST, then find that hour — otherwise a
+      // just-past sunset still present in the hourly array gets scored but
+      // labeled with tomorrow's time
+      var sunsetIso = now > new Date(ctx.sunset).getTime() ? ctx.sunsetTomorrow : ctx.sunset;
+      var setT = new Date(sunsetIso).getTime();
       var target = null;
       for (var i = 0; i < hours.length; i++) {
         var t = new Date(hours[i].t).getTime();
-        if (Math.abs(t - setT) <= 1800000) { target = hours[i]; break; }
-        if (!target && t <= setT && setT < t + 3600000) target = hours[i];
-      }
-      if (!target && now > setT) {
-        // tonight's sunset already happened — look at tomorrow's
-        setT = new Date(ctx.sunsetTomorrow).getTime();
-        for (var j = 0; j < hours.length; j++) {
-          var tj = new Date(hours[j].t).getTime();
-          if (tj <= setT && setT < tj + 3600000) { target = hours[j]; break; }
-        }
+        if (t <= setT && setT < t + 3600000) { target = hours[i]; break; }
       }
       if (!target) target = hours[0];
       var r = scorer(target, ctx);
-      return { score: r.score, parts: r.parts, window: 'sunset at ' + fmtClock(now > new Date(ctx.sunset).getTime() ? ctx.sunsetTomorrow : ctx.sunset) };
+      return { score: r.score, parts: r.parts, window: 'sunset at ' + fmtClock(sunsetIso) };
     }
 
-    // hours still ahead of us today (and tonight for open-window)
-    var todayEnd = new Date();
-    todayEnd.setHours(23, 59, 0, 0);
-    var horizon = key === 'open_window' ? now + 14 * 3600000 : todayEnd.getTime();
+    // hours still ahead of us in the Burlington day (open-window looks
+    // 20h out so a morning visitor still sees tonight's overnight window)
+    var hoursToMidnight = 24 - btvHour(new Date());
+    var horizon = key === 'open_window' ? now + 20 * 3600000
+                                        : now + hoursToMidnight * 3600000;
     var series = [];
     for (var k = 0; k < hours.length; k++) {
       var tk = new Date(hours[k].t).getTime();
@@ -314,7 +318,7 @@
     // exception: overnight is exactly when it matters.
     var best = series[0];
     for (var m = 1; m < series.length; m++) {
-      var hh = new Date(series[m].h.t).getHours();
+      var hh = btvHour(series[m].h.t);
       if (key !== 'open_window' && (hh >= 22 || hh < 6)) continue;
       if (series[m].r.score > best.r.score + 0.01) best = series[m];
     }
@@ -367,8 +371,13 @@
     sub.innerHTML = subBits.join(' ');
 
     if (now.observed_at) {
+      // honest freshness: the top-level `updated` advances even when a
+      // section failed and kept last-good data — report the forecast
+      // section's own timestamp
+      var su = d.sections_updated || {};
+      var freshT = su.hourly || su.now || d.updated;
       el('rn-updated').textContent = 'Observed at the airport ' + fmtAgo(now.observed_at) +
-        ' · data refreshed ' + fmtAgo(d.updated);
+        ' · forecast data ' + fmtAgo(freshT);
     }
 
     // alerts banner
@@ -386,6 +395,15 @@
   function renderScores(d) {
     var grid = el('life-grid');
     if (!grid || !d.hourly || !d.hourly.hours) return;
+
+    // If the pipeline has been down long enough that the hourly forecast
+    // is a day old, stale scores are worse than no scores.
+    var hourlyAt = (d.sections_updated || {}).hourly || d.updated;
+    if (hourlyAt && Date.now() - new Date(hourlyAt).getTime() > 24 * 3600000) {
+      grid.innerHTML = '<p class="swim-empty">The score data is over a day old (last refresh ' +
+        fmtAgo(hourlyAt) + '), so no scores right now — check the NWS links above instead.</p>';
+      return;
+    }
 
     var now = d.now || {};
     var lakeFc = d.lake_forecast || {};

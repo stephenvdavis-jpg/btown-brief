@@ -96,6 +96,23 @@ written from today's live packet is sitting in the queue now as a worked example
 reads `latest.json` + the approved `read.json` + the same prompt file before adding
 its WCAX/NBC5 gathers — dashboard and newsletter can't disagree.
 
+## Independent review
+
+GPT-5.6 (Codex, read-only) reviewed the full diff; 13 findings, all triaged and the
+real ones fixed: REC lake product now marked suspended when its issuance is >36 h old
+(off-season safety); beach aggregation reordered so a known closure always wins and a
+missing sample row can't be skipped (red > yellow > unknown > green, missing = unknown);
+sun timestamps serialized with UTC offsets and all client clock/hour logic pinned to
+America/New_York (was wrong for visitors outside Eastern); freshness stamp now reads the
+hourly section's own timestamp and scores hide entirely when data is >24 h stale; the
+9:40/9:45 workflow overlap got a concurrency group + push rebase-retry; wind ranges
+("10 to 20 mph") now take the max; AirNow observations validated numeric; USGS must
+return both series or the previous section is kept; `zoneinfo` replaced hardcoded UTC−4
+(DST); explicit None checks replaced `or`-chains that treated 0°F as missing. One
+finding declined deliberately: open-window's headline number stays the *current-hour*
+score (it answers "should they be open right now"); the overnight is served by the
+20-hour hint window ("better around 11 PM").
+
 ## Verification performed
 
 - `refresh_weather.py` run repeatedly: 10/10 sections fresh, real values spot-checked
