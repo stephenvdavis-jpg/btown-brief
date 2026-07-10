@@ -8,6 +8,12 @@
 
   var esc = window.BTBC.esc;
 
+  /* esc() stops HTML injection but not scheme tricks — only reddit
+     permalinks belong in these hrefs, so anything else becomes '#'. */
+  function safeUrl(url) {
+    return (typeof url === 'string' && url.indexOf('https://www.reddit.com/') === 0) ? url : '#';
+  }
+
   var DIRECTIONS = {
     hot:    { mark: '🔥', word: 'hot' },
     rising: { mark: '↗', word: 'rising' },
@@ -41,7 +47,7 @@
 
   function sourceRowHTML(s) {
     return (
-      '<a class="pulse-source" href="' + esc(s.url) + '" target="_blank" rel="noopener">' +
+      '<a class="pulse-source" href="' + esc(safeUrl(s.url)) + '" target="_blank" rel="noopener">' +
         '<span class="pulse-source-title">' + esc(s.title) + '</span>' +
         '<span class="pulse-source-meta">' + metaBits(s) + ' ↗</span>' +
       '</a>'
@@ -71,7 +77,7 @@
       ? '<span class="pulse-badge-unverified">Unverified</span>'
       : '';
     return (
-      '<a class="pulse-hl' + (h.unverified ? ' pulse-hl-rumor' : '') + '" href="' + esc(h.url) + '" target="_blank" rel="noopener">' +
+      '<a class="pulse-hl' + (h.unverified ? ' pulse-hl-rumor' : '') + '" href="' + esc(safeUrl(h.url)) + '" target="_blank" rel="noopener">' +
         '<span class="pulse-hl-slot">' + esc(h.slot_label) + badge + '</span>' +
         '<span class="pulse-hl-title">' + esc(h.title) + '</span>' +
         (h.blurb ? '<span class="pulse-hl-blurb">' + esc(h.blurb) + '</span>' : '') +
@@ -82,7 +88,7 @@
 
   function roughHTML(r) {
     return (
-      '<a class="pulse-source" href="' + esc(r.url) + '" target="_blank" rel="noopener">' +
+      '<a class="pulse-source" href="' + esc(safeUrl(r.url)) + '" target="_blank" rel="noopener">' +
         '<span class="pulse-source-title">' + esc(r.title) + '</span>' +
         '<span class="pulse-source-meta">' + metaBits(r) + ' ↗</span>' +
       '</a>'

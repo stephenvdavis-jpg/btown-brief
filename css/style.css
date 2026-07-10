@@ -3724,3 +3724,13 @@ a.mode-btn:hover { text-decoration: none; }
   .pulse-topic-meta { margin-left: 2.2rem; }
   .pulse-source { flex-direction: column; gap: 2px; }
 }
+
+/* Keyboard focus + contrast fixes (post-review) */
+.pulse-topic > summary:focus-visible,
+.pulse-rough > summary:focus-visible {
+  outline: 2px solid var(--coral);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+.pulse-badge-unverified { background: var(--coral-light); color: var(--coral); border: 1px solid var(--coral); }
+.pulse-legend, .pulse-source-meta, .pulse-hl-meta { color: var(--ink-3); }

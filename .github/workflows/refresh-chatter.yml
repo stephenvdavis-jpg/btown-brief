@@ -20,11 +20,23 @@ on:
 permissions:
   contents: write
 
+# A manual run and a scheduled run racing at `git push` would fail one of them.
+concurrency:
+  group: refresh-chatter
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Guard private paths (never tracked in this public repo)
+        run: |
+          if git ls-files | grep -E '^(data/tips-inbox\.md|data/fpf-digests/|data/fpf-dropbox/|\.chatter-dev/)'; then
+            echo "::error::private tip-line files are tracked in git — aborting"
+            exit 1
+          fi
 
       - name: Refresh chatter data
         env:

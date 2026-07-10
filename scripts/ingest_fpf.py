@@ -30,7 +30,7 @@ def strip_html(value):
 
 
 def first_80(value):
-    value = clean(value)
+    value = clean(value).replace("*", "")  # asterisks would break the **…** dedup capture
     return value if len(value) <= 80 else (value[:80].rsplit(" ", 1)[0] or value[:80]).rstrip(" ,.;:-") + "…"
 
 

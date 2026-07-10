@@ -42,7 +42,19 @@ ACCUSE = {"scam", "scammed", "stole", "steals", "assault", "harass", "avoid", "w
 DEROGATORY = {"moron", "idiot", "scumbag", "trashbag"}
 PUBLIC_NAMES = {"Emma Mulvaney-Stanak", "Miro Weinberger", "Phil Scott", "Becca Balint", "Peter Welch",
                 "Bernie Sanders", "Kunin"}
-NON_NAMES = {"Street", "St", "Ave", "Road", "Park", "Church", "Main", "North", "South", "New", "Old"}
+# Capitalized words that start name-shaped pairs without naming anyone —
+# places, institutions, calendar words, and sentence-leading question words.
+# Compared casefolded, so ALL-CAPS forms are covered too.
+NON_NAMES = {"street", "st", "ave", "avenue", "road", "rd", "drive", "park", "church", "main", "pine",
+             "north", "south", "east", "west", "new", "old", "lake", "champlain", "burlington", "vermont",
+             "winooski", "essex", "shelburne", "colchester", "williston", "city", "county", "hall", "market",
+             "hospital", "medical", "center", "school", "high", "university", "college", "library", "farmers",
+             "beach", "bay", "point", "island", "mountain", "green", "bike", "path", "end", "ward", "wards",
+             "monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday", "january",
+             "february", "march", "april", "may", "june", "july", "august", "september", "october",
+             "november", "december", "the", "a", "i", "has", "who", "what", "where", "when", "why", "how",
+             "does", "is", "are", "any", "anyone", "best", "free", "happy", "national", "day", "week",
+             "weekend", "uvm", "btv", "vt", "usa", "psa", "iso", "dmv", "front", "porch", "forum"}
 NEWS = {"fire", "lawsuit", "eviction", "development", "zoning", "permit", "closing permanently", "laid off",
         "layoffs", "strike", "union", "grand opening"}
 
@@ -226,7 +238,8 @@ def load_sources(fixtures=None):
             used_inoreader = True
         except Exception as exc:
             print(f"inoreader {short} failed: {exc}", file=sys.stderr)
-    mode = "reddit+inoreader" if used_reddit and used_inoreader else "inoreader-only"
+    mode = ("reddit+inoreader" if used_reddit and used_inoreader else
+            "reddit-only" if used_reddit else "inoreader-only")
     return merge_posts(groups), mode
 
 
@@ -234,19 +247,44 @@ def load_sources(fixtures=None):
 # Safety, clustering, trend activity, and heuristic highlights
 # ----------------------------------------------------------------------
 
+# Unicode-aware: TitleCase, ALL-CAPS, accents, apostrophes, and hyphens all
+# count as name-shaped ("José DOE", "O'Brien", "Mulvaney-Stanak"). The
+# lookahead makes matches overlap, so "seen Jane Doe" still yields "Jane Doe".
+NAME_RE = re.compile(r"(?<![\w'’-])(?=(([^\W\d_][\w'’-]+)\s+([^\W\d_][\w'’-]+)(?![\w'’-])))")
+
+
 def name_candidates(original):
+    original = re.sub(r"https?://\S+", " ", original or "")
     found = []
-    for match in re.finditer(r"\b([A-Z][a-z]+)\s+([A-Z][a-z]+(?:-[A-Z][a-z]+)?)\b", original or ""):
-        name = match.group(0)
-        if name not in PUBLIC_NAMES and not ({match.group(1), match.group(2)} & NON_NAMES):
-            found.append(name)
+    for match in NAME_RE.finditer(original):
+        first, second = match.group(2), match.group(3)
+        if not (first[:1].isupper() and second[:1].isupper()):
+            continue
+        name = match.group(1)
+        if any(name in public or public in name for public in PUBLIC_NAMES):
+            continue
+        if {first.casefold().strip("'’-"), second.casefold().strip("'’-")} & NON_NAMES:
+            continue
+        found.append(name)
     return found
 
 
+SEEKING = re.compile(r"\b(?:has anyone seen|anyone seen|anyone know(?:s)? (?:a|an)?\s*|who is|whos|who's|"
+                     r"looking for|watch out for|seen a? ?(?:man|woman|guy|lady) named)\s+[A-ZÀ-Þ]", re.I)
+
+
 def safety_flag(post):
+    """A post that names a person in a hostile, seeking, or doxx-y way stays
+    off every public surface and becomes a private tip instead. Name-shaped
+    matches alone don't flag — half of r/burlington is business names like
+    'Taco Gordo' — but any hostile term, person-hunt phrasing, or phone/
+    address pattern alongside one does. The optional LLM pass may ADD flags
+    for nuance; it can never remove one."""
     original = post["title"] + " " + post["body"]
     names = name_candidates(original)
-    if term_hit(original, ACCUSE | DEROGATORY) and names:
+    if names and term_hit(original, ACCUSE | DEROGATORY):
+        return True
+    if names and SEEKING.search(original):
         return True
     person_ref = bool(names or re.search(r"\b(?:my neighbor|this guy|this woman)\b", original, re.I))
     phone = re.search(r"(?<!\d)(?:\+?1[-. ]?)?\(?\d{3}\)?[-. ]\d{3}[-. ]\d{4}(?!\d)", original)
@@ -424,11 +462,20 @@ def refine(clusters, picks):
             raise ValueError("wrong response shape")
         valid_ids = {post["id"] for cluster in clusters for post in cluster["posts"]}
         valid_topics = {cluster["id"] for cluster in clusters}
+        # The model reads untrusted reddit text, so treat its output as a
+        # suggestion: labels must be name-free and share vocabulary with the
+        # cluster they describe, and it may only flag a handful of posts —
+        # a reply that tries to rewrite or empty the page is discarded.
+        cluster_vocab = {cluster["id"]: set(tokens(" ".join(post["title"] + " " + post["body"][:400]
+                                                            for post in cluster["posts"])))
+                         for cluster in clusters}
         value["labels"] = {topic_id: label for topic_id, label in value.get("labels", {}).items()
                            if topic_id in valid_topics and isinstance(label, str) and len(label.split()) <= 7
-                           and len(label) <= 64 and not re.search(r"[^\x00-\x7f]", label)}
-        value["rough_ids"] = [post_id for post_id in value.get("rough_ids", []) if post_id in valid_ids]
-        value["flag_ids"] = [post_id for post_id in value.get("flag_ids", []) if post_id in valid_ids]
+                           and len(label) <= 64 and not re.search(r"[^\x00-\x7f]", label)
+                           and not name_candidates(label)
+                           and set(tokens(label)) & cluster_vocab[topic_id]}
+        value["rough_ids"] = [post_id for post_id in value.get("rough_ids", []) if post_id in valid_ids][:5]
+        value["flag_ids"] = [post_id for post_id in value.get("flag_ids", []) if post_id in valid_ids][:5]
         return value
     except Exception as exc:
         print(f"LLM refinement failed; keeping heuristic output: {exc}", file=sys.stderr)
@@ -468,6 +515,11 @@ def run(fixtures=None, dry_run=False):
     posts, mode = load_sources(fixtures)
     posts = [p for p in posts if p["created"] and timedelta(0) <= now - p["created"] <= timedelta(hours=72)
              and not re.search(r"\b(?:daily thread|weekly thread|megathread)\b", p["title"], re.I)]
+    if len(posts) < 5 and not fixtures:
+        # r/burlington alone runs ~25 posts per 72h window — fewer than 5
+        # means ingestion is broken, not that the town went quiet.
+        print(f"only {len(posts)} posts loaded in the 72-hour window; keeping last good chatter.json")
+        return 0
     if not posts:
         print("zero posts loaded in the 72-hour window; keeping last good chatter.json")
         return 0
@@ -501,7 +553,11 @@ def run(fixtures=None, dry_run=False):
     snapshots = [snap for snap in state.get("snapshots", []) if parse_time(snap.get("ts")) and
                  now - parse_time(snap["ts"]) <= timedelta(days=7)]
     target = now - timedelta(hours=24)
-    prior_snap = min(snapshots, key=lambda snap: abs((parse_time(snap["ts"]) - target).total_seconds()), default=None)
+    # Only a snapshot actually ~a day old is a valid baseline; comparing
+    # against one from a few hours ago would flatten every direction.
+    window = [snap for snap in snapshots
+              if timedelta(hours=18) <= now - parse_time(snap["ts"]) <= timedelta(hours=30)]
+    prior_snap = min(window, key=lambda snap: abs((parse_time(snap["ts"]) - target).total_seconds()), default=None)
     current = {cluster["id"]: activity(cluster, now, old_posts) for cluster in clusters}
     rank = {"hot": 0, "rising": 1, "steady": 2, "fading": 3}
     topics = []
@@ -543,6 +599,8 @@ def run(fixtures=None, dry_run=False):
     kept_posts = {key: value for key, value in old_posts.items()
                   if parse_time(value.get("first_seen")) and parse_time(value["first_seen"]) >= cutoff}
     for post in posts:
+        if post["flagged"]:
+            continue  # this file is committed publicly — no trace of suppressed posts
         previous = old_posts.get(post["id"], {})
         created_utc = post["created"] if post["from_reddit"] else None
         first = min(filter(None, (created_utc, parse_time(previous.get("first_seen")), now)))
