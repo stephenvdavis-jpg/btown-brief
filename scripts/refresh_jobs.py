@@ -436,13 +436,13 @@ def main():
         datetime.now(timezone.utc).timestamp() - 21 * 24 * 60 * 60,
         timezone.utc).date().isoformat()
     jobs = [job for job in dedupe(collected) if job.get("posted", "") >= cutoff]
-    jobs.sort(key=lambda job: job["posted"], reverse=True)
+    jobs.sort(key=lambda job: (job["posted"], job["id"]), reverse=True)
     # UVMMC rows are also its detail-fetch cache. Retain its fresh rows when
     # applying the cap so an alphabetized list does not trigger repeat fetches.
     med_jobs = [job for job in jobs if job["source"] == "UVM Med Center"]
     if len(jobs) > 30 and med_jobs:
         jobs = med_jobs + [job for job in jobs if job["source"] != "UVM Med Center"][:30 - len(med_jobs)]
-        jobs.sort(key=lambda job: job["posted"], reverse=True)
+        jobs.sort(key=lambda job: (job["posted"], job["id"]), reverse=True)
     else:
         jobs = jobs[:30]
 

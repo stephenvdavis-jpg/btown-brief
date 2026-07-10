@@ -1,16 +1,6 @@
 {
- "updated": "2026-07-10T22:55:32+00:00",
+ "updated": "2026-07-10T22:56:34+00:00",
  "jobs": [
-  {
-   "id": "seven-days-1946c30fa9f8",
-   "title": "Program Support Generalist",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-10",
-   "url": "https://jobs.sevendaysvt.com/job/admin-office/uvm-program-support-generalist/",
-   "source": "Seven Days",
-   "tags": []
-  },
   {
    "id": "uvm-87244",
    "title": "Exam Proctoring Support Specialist",
@@ -72,6 +62,16 @@
    "tags": [
     "city"
    ]
+  },
+  {
+   "id": "seven-days-1946c30fa9f8",
+   "title": "Program Support Generalist",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-10",
+   "url": "https://jobs.sevendaysvt.com/job/admin-office/uvm-program-support-generalist/",
+   "source": "Seven Days",
+   "tags": []
   },
   {
    "id": "uvm-87218",
@@ -161,36 +161,6 @@
    ]
   },
   {
-   "id": "seven-days-b1461fbdd184",
-   "title": "Security Staff",
-   "employer": "Flynn Center for the Performing Arts",
-   "pay": null,
-   "posted": "2026-07-08",
-   "url": "https://jobs.sevendaysvt.com/job/public-safety/security-staff/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "seven-days-c8c1b96d01c5",
-   "title": "Retail Services Specialist",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-08",
-   "url": "https://jobs.sevendaysvt.com/job/customer-service/university-of-vermont-burlington-vt-full-time-retail-services-specialist/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "seven-days-bff7d8aa9fbd",
-   "title": "Executive Assistant to the President & CEO",
-   "employer": "The University of Vermont Foundation",
-   "pay": null,
-   "posted": "2026-07-08",
-   "url": "https://jobs.sevendaysvt.com/job/nonprofit/the-university-of-vermont-foundation-burlington-full-time-executive-assistant-to-the-president-ceo/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
    "id": "uvm-87166",
    "title": "Veteran Housing Service Coordinator- Northern VT Region",
    "employer": "University of Vermont",
@@ -231,18 +201,34 @@
    "tags": []
   },
   {
-   "id": "city-of-burlington-5401459",
-   "title": "Fleet Maintenance Technician",
-   "employer": "City of Burlington — Public Works",
-   "pay": "$65,915.20 - $73,465.60 Annually",
+   "id": "seven-days-c8c1b96d01c5",
+   "title": "Retail Services Specialist",
+   "employer": "University of Vermont",
+   "pay": null,
    "posted": "2026-07-08",
-   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401459/fleet-maintenance-technician",
-   "source": "City of Burlington",
-   "tags": [
-    "city",
-    "no-degree",
-    "pay25"
-   ]
+   "url": "https://jobs.sevendaysvt.com/job/customer-service/university-of-vermont-burlington-vt-full-time-retail-services-specialist/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-bff7d8aa9fbd",
+   "title": "Executive Assistant to the President & CEO",
+   "employer": "The University of Vermont Foundation",
+   "pay": null,
+   "posted": "2026-07-08",
+   "url": "https://jobs.sevendaysvt.com/job/nonprofit/the-university-of-vermont-foundation-burlington-full-time-executive-assistant-to-the-president-ceo/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-b1461fbdd184",
+   "title": "Security Staff",
+   "employer": "Flynn Center for the Performing Arts",
+   "pay": null,
+   "posted": "2026-07-08",
+   "url": "https://jobs.sevendaysvt.com/job/public-safety/security-staff/",
+   "source": "Seven Days",
+   "tags": []
   },
   {
    "id": "city-of-burlington-5402063",
@@ -251,6 +237,19 @@
    "pay": "$58,406.40 - $65,041.60 Annually",
    "posted": "2026-07-08",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5402063/right-of-way-field-technician-i",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "pay25"
+   ]
+  },
+  {
+   "id": "city-of-burlington-5401984",
+   "title": "Traffic Manager",
+   "employer": "City of Burlington — Public Works",
+   "pay": "$87,977.00 - $98,179.00 Annually",
+   "posted": "2026-07-08",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401984/traffic-manager",
    "source": "City of Burlington",
    "tags": [
     "city",
@@ -272,19 +271,6 @@
    ]
   },
   {
-   "id": "city-of-burlington-5401984",
-   "title": "Traffic Manager",
-   "employer": "City of Burlington — Public Works",
-   "pay": "$87,977.00 - $98,179.00 Annually",
-   "posted": "2026-07-08",
-   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401984/traffic-manager",
-   "source": "City of Burlington",
-   "tags": [
-    "city",
-    "pay25"
-   ]
-  },
-  {
    "id": "city-of-burlington-5401961",
    "title": "Recycle Truck Driver-Temporary",
    "employer": "City of Burlington — Public Works",
@@ -300,17 +286,31 @@
    ]
   },
   {
-   "id": "seven-days-ed14fce797e2",
-   "title": "Director of Operations",
-   "employer": "Rhino Foods, Inc.",
+   "id": "city-of-burlington-5401459",
+   "title": "Fleet Maintenance Technician",
+   "employer": "City of Burlington — Public Works",
+   "pay": "$65,915.20 - $73,465.60 Annually",
+   "posted": "2026-07-08",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401459/fleet-maintenance-technician",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "no-degree",
+    "pay25"
+   ]
+  },
+  {
+   "id": "uvm-87139",
+   "title": "Senior Microsoft EUC Engineer",
+   "employer": "University of Vermont",
    "pay": null,
    "posted": "2026-07-07",
-   "url": "https://jobs.sevendaysvt.com/job/manufacturing/rhino-foods-inc-burlington-full-time-director-of-operations/",
-   "source": "Seven Days",
+   "url": "https://www.uvmjobs.com/postings/87139",
+   "source": "UVM",
    "tags": []
   },
   {
-   "id": "uvm-med-center-111",
+   "id": "uvm-med-center-11904",
    "title": "Central Plant Operator",
    "employer": "University of Vermont Medical Center",
    "pay": null,
@@ -320,7 +320,7 @@
    "tags": []
   },
   {
-   "id": "uvm-med-center-40",
+   "id": "uvm-med-center-11774",
    "title": "Director, Data Platform & Engineering",
    "employer": "University of Vermont Medical Center",
    "pay": null,
