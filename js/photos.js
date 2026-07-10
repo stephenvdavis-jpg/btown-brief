@@ -143,16 +143,21 @@
     var heart = e.target.closest('.ph-heart');
     if (heart && liveMode) {
       var id = heart.getAttribute('data-id');
-      if (votedIds[id]) return;
-      votedIds[id] = true;
-      localStorage.setItem('btb-photos-voted', JSON.stringify(votedIds));
+      if (votedIds[id] || heart.disabled) return;
+      heart.disabled = true;
       heart.classList.add('voted');
       BTBP.vote(id, window.BTBC.visitorId()).then(function (n) {
+        // only remember the vote once the server confirmed it
+        votedIds[id] = true;
+        localStorage.setItem('btb-photos-voted', JSON.stringify(votedIds));
         heart.querySelector('.ph-heart-n').textContent = n;
         var p = photos.filter(function (x) { return x.id === id; })[0];
         if (p) p.votes = n;
         track('photo-vote');
-      }).catch(function () { /* keep the optimistic UI */ });
+      }).catch(function () {
+        heart.classList.remove('voted');
+        heart.disabled = false;
+      });
       return;
     }
     var imgbtn = e.target.closest('.ph-card-imgbtn');

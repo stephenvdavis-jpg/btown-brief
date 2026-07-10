@@ -18,6 +18,7 @@ Run:  python3 scripts/export_photos.py
 """
 
 import json
+import os
 import sys
 import urllib.request
 from datetime import datetime, timezone
@@ -71,7 +72,9 @@ def main():
         "photos": photos,
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
+    tmp = OUT.with_suffix(".json.tmp")  # atomic swap: never truncate the last good file
+    tmp.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
+    os.replace(tmp, OUT)
     print(f"Wrote {OUT.relative_to(OUT.parent.parent.parent)}: "
           f"{len(photos)} photos"
           f"{', potw: ' + manifest['photo_of_the_week']['id'] if manifest['photo_of_the_week'] else ', no potw yet'}")

@@ -108,8 +108,10 @@ photo, upload it to the Caption This queue from its own admin.
   inspected in Chrome (mobile + desktop); found and fixed a real bug (the
   lightbox overlay dimmed the page on load) and an empty-state layout glitch.
 - telegram.html: built by Codex (GPT-5.6), inspected line-by-line by me
-  (structure, links, voice, CSS variables all check out); runtime verification
-  by a second Codex browser pass, report in the session scratchpad.
+  (structure, links, voice, and every CSS variable checked against style.css).
+  NOT visually rendered: the Chrome automation session kept dropping tabs and
+  the Codex CLI here has no browser backend — worth a 30-second look in your
+  own browser before sharing the link.
 - `scripts/export_photos.py` run against the not-yet-created RPCs: fails
   gracefully and keeps the existing manifest (expected until step 1 runs).
 - Independent Codex (GPT-5.6) security/XSS review of the whole diff; findings
@@ -117,6 +119,26 @@ photo, upload it to the Caption This queue from its own admin.
 - Not verified (needs the SQL run first): live submit → moderate → gallery →
   photo-of-week round trip. The RPC layer mirrors the proven playlist +
   caption-this patterns.
+
+## Known limitations (accepted, same honor-system as playlist/caption-this)
+
+An independent Codex security review confirmed: no moderation bypass, no XSS,
+no injection, no RPC escalation. It flagged these honor-system limits, kept
+deliberately because fixing them needs an Edge Function/CAPTCHA layer:
+
+- **Hearts are honor-system** — a determined script could inflate votes (same
+  as playlist upvotes). You pick what actually runs in the newsletter, so the
+  practical blast radius is "the potw suggestion is wrong."
+- **A determined abuser could flood the storage bucket** with orphan uploads
+  (3 MB cap, jpeg-only). Same exposure caption-this has had since launch. If
+  it ever happens: dashboard → Storage → empty `submissions/`, and we add an
+  Edge Function gate then.
+- **Rejected/removed photos stay at their unguessable URL** until you delete
+  the object in the dashboard. For privacy-sensitive removals, delete the
+  storage object too (noted in photo-admin).
+- **Pick a long passphrase** — the check is anonymous-callable, so a weak one
+  is brute-forceable. The admin page keeps it only in sessionStorage now
+  (re-enter once per visit).
 
 ## Open questions (for Stephen)
 

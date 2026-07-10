@@ -192,7 +192,8 @@ grant execute on function btb_photos_vote(uuid, text) to anon;
 create or replace function btb_photos_potw()
 returns table (
   id uuid, storage_path text, caption text, category text, area text,
-  spot text, taken_on text, credit text, display_label text, votes bigint
+  spot text, taken_on text, credit text, display_label text,
+  approved_on date, votes bigint
 )
 language sql security definer stable set search_path = public as $$
   with ranked as (
@@ -203,7 +204,8 @@ language sql security definer stable set search_path = public as $$
     group by p.id
   )
   select r.id, r.storage_path, r.caption, r.category, r.area,
-         r.spot, r.taken_on, r.credit, r.display_label, r.n_votes
+         r.spot, r.taken_on, r.credit, r.display_label,
+         r.decided_at::date, r.n_votes
   from ranked r
   where r.decided_at >= now() - case
     when exists (select 1 from ranked
