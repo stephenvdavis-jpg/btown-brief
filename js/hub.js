@@ -252,7 +252,7 @@
         if (!hours) return;
         if (window.BTFood.isOpenAt(hours, t.day, t.minutes)) open++;
       });
-      set$('open-count', String(open));
+      countUp('open-count', open);
       set$('open-sub', 'of ' + list.length + ' places serving now');
       stat('stat-restaurants', open + ' open');
     });
@@ -274,7 +274,7 @@
         return endMs >= now;
       });
 
-      set$('tonight-count', String(left.length));
+      countUp('tonight-count', left.length);
       set$('tonight-sub', left.length ? 'still to come across town' : 'all wrapped up for today');
       stat('stat-events', left.length + ' today');
     });
@@ -284,7 +284,9 @@
     var gage = (weather && weather.lake_gage) || {};
     var temp = gage.water_temp_f;
     if (typeof temp === 'number') {
-      set$('lake-temp', Math.round(temp) + '<span class="unit">°F</span>');
+      countUp('lake-temp', Math.round(temp), function (n) {
+        return n + '<span class="unit">°F</span>';
+      });
     } else {
       set$('lake-temp', '—');
     }
@@ -327,9 +329,56 @@
   function set$(id, html) { var el = $(id); if (el) el.innerHTML = html; }
   function stat(id, text) { var el = $(id); if (el) el.textContent = text; }
 
+  /* ---------- the numbers roll ----------
+     Every tile number counts up from zero on load. The page claims to be
+     reading the city live, so its numbers should arrive like they were just
+     counted — not like they were printed from a cache.
+
+     render() wraps the running value, because the tiles aren't all bare ints:
+     the lake carries a °F unit, Things To Do carries a "+".
+
+     Honours prefers-reduced-motion — if the OS has been asked for less
+     movement, the number is simply there. */
+  var REDUCED = !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+
+  function countUp(id, target, render, ms) {
+    var el = $(id);
+    if (!el) return;
+    render = render || String;
+
+    // Nothing to roll to (data missing) — just print whatever it is.
+    if (typeof target !== 'number' || !isFinite(target)) { el.innerHTML = render(target); return; }
+    if (REDUCED || target === 0) { el.innerHTML = render(target); return; }
+
+    // A refetch mid-roll must not race a roll already in flight.
+    if (el._raf) { cancelAnimationFrame(el._raf); el._raf = null; }
+
+    var dur = ms || 1100;
+    var t0 = null;
+    function frame(now) {
+      if (t0 === null) t0 = now;
+      var p = Math.min(1, (now - t0) / dur);
+      var eased = 1 - Math.pow(1 - p, 3);   // easeOutCubic: quick off the line, settles gently
+      el.innerHTML = render(Math.round(target * eased));
+      if (p < 1) {
+        el._raf = requestAnimationFrame(frame);
+      } else {
+        el._raf = null;
+        el.innerHTML = render(target);      // land exactly on the real value
+      }
+    }
+    el.innerHTML = render(0);
+    el._raf = requestAnimationFrame(frame);
+  }
+
   /* ---------- go ---------- */
 
   function init() {
+    /* Things To Do is a fixed figure, not a fetched one — so nothing else would
+       ever set it, and it would be the one tile sitting still while the other
+       three rolled. Roll it too. */
+    countUp('things-count', 202, function (n) { return n + '+'; });
+
     // The sky is the whole point — paint it first, and keep it honest
     // by repainting every minute so an open tab doesn't drift.
     getJSON('data/weather/latest.json')
