@@ -88,11 +88,10 @@
     if (photoTried[phase]) return;
     photoTried[phase] = true;
 
-    // Try the hour's own photograph; fall back to assets/sky/default.jpg while
-    // the set is still being shot; fall back to the drawn sky if neither exists.
-    tryImage('assets/sky/' + phase + '.jpg', phase, function () {
-      tryImage('assets/sky/default.jpg', phase, null);
-    });
+    // Only ever show the photograph that belongs to THIS hour. An hour we haven't
+    // shot yet keeps the drawn sky — a sunset at noon would be a lie, and the
+    // whole point of the page is that it tells the truth about the time of day.
+    tryImage('assets/sky/' + phase + '.jpg', phase, null);
   }
 
   function tryImage(src, phase, onFail) {
