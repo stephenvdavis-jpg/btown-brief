@@ -212,6 +212,15 @@
   border-left-color: var(--coral);
 }
 
+.telegram-meetup {
+  margin-top: var(--space-3);
+  text-align: center;
+  font-size: var(--text-sm);
+  color: var(--ink-3);
+}
+
+.telegram-meetup a { color: var(--teal); font-weight: 600; }
+
 .telegram-subscribe-btn {
   margin-top: var(--space-4);
   background: var(--teal);

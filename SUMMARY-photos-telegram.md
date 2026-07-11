@@ -140,21 +140,31 @@ deliberately because fixing them needs an Edge Function/CAPTCHA layer:
   is brute-forceable. The admin page keeps it only in sessionStorage now
   (re-enter once per visit).
 
-## Open questions (for Stephen)
+## Open questions — resolved 2026-07-10 evening
 
-1. **Passphrase hygiene:** the Caption This schema on the USB has what looks
-   like your real admin passphrase committed in `schema.sql`. If that repo is
-   public on GitHub, consider rotating it (re-run the one insert statement).
-   `db/photos.sql` here ships only a placeholder.
-2. **Where should photos.html and telegram.html be linked?** I left every
-   existing page untouched. Natural spots: the mode-nav on the community pages,
-   the index community section, and the newsletter.
-3. **Pending-photo notifications:** want the Caption-This-style GitHub Action
-   (checks `btb_photos_pending_count` every 2h, opens/closes an issue so you
-   get emailed)? Easy add once this merges.
-4. **Manifest refresh cadence:** run `export_photos.py` manually before each
-   edition, or add it to the hourly refresh-data workflow? (Manual keeps the
-   repo quiet; hourly keeps the fallback fresh.)
-5. **Meetup group:** the brief mentions it — want the Telegram page (or a
-   variant) linked from Meetup's description, or a mention of the Meetup group
-   on telegram.html?
+1. **Passphrase hygiene:** checked the public caption-this repo and its full
+   git history — only the placeholder was ever committed. No leak; nothing to
+   rotate. (The real caption-this passphrase exists only on the USB copy. It
+   is short, though — worth upgrading to something longer someday, since the
+   check is anonymous-callable.)
+2. **Linking the new pages:** left existing pages untouched (other sessions
+   were actively editing them). telegram.html and photos.html cross-link each
+   other; share the telegram.html URL as the group invite and link photos.html
+   from the newsletter when ready. Add nav links whenever you want them.
+3. **Pending-photo notifications:** DONE — `.github/workflows/photos.yml`
+   checks the queue every 3 hours and opens/closes a `photo-queue` GitHub
+   issue (GitHub emails you), same pattern as caption-this.
+4. **Manifest refresh:** DONE — same workflow refreshes
+   `data/photos/manifest.json` and commits only when the content actually
+   changed (timestamp-only changes are skipped).
+5. **Meetup group:** DONE per Stephen — one simple line under the second join
+   button on telegram.html linking the Meetup group.
+
+## Backend verification (after Stephen ran the SQL, 2026-07-10)
+
+Live end-to-end test against the real project: submission without the
+permission box is refused by the server; a real submission lands as pending;
+wrong admin passphrase is rejected; the right one opens the queue; moderation
+works (test entry rejected, queue back to 0); storage accepts jpegs only
+under `submissions/`, denies other paths and overwrites, serves public reads;
+`export_photos.py` writes the manifest. The system is fully live.
