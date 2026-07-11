@@ -253,6 +253,28 @@ html[data-art="photo"] .glint { display: none; }
   text-wrap: balance;
   text-shadow: 0 2px 30px rgba(0, 0, 0, 0.35);
 }
+/* The whole conditions line links to the NWS forecast. The anchor has to carry
+   the flex layout itself — .conditions is the flex container, so wrapping its
+   children in a link would otherwise collapse them into one inline child. */
+.conditions-link {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 0.75rem;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+.conditions-go {
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.04em;
+  transition: color 0.16s ease;
+}
+.conditions-link:hover .conditions-go,
+.conditions-link:focus-visible .conditions-go { color: var(--accent); }
+.conditions-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; border-radius: 4px; }
+
 .conditions {
   font-size: 0.95rem;
   margin: 0.85rem 0 0;
@@ -645,17 +667,27 @@ html[data-art="photo"] .sky-photo {
    promoting it. Shorten the sky on phones and tighten the tiles so tiles one
    and two both land above the fold. */
 @media (max-width: 640px) {
+  /* 46vh still left Things To Do below the fold. The second tile has to be
+     PERIPHERALLY visible without scrolling — that's the whole point of moving
+     it up there — so the sky gives up more height on phones. */
   .sky {
-    min-height: clamp(340px, 46vh, 460px);
+    min-height: clamp(300px, 38vh, 400px);
   }
   .tiles {
     gap: 8px;
   }
   .tile {
-    padding: 0.75rem 0.9rem 0.7rem;
+    padding: 0.7rem 0.9rem 0.65rem;
+  }
+  .tile .big {
+    line-height: 1.05;
   }
   .tiles-hint {
-    margin: -40px 0 0.45rem;
+    margin: -38px 0 0.4rem;
     font-size: 0.78rem;
+  }
+  .conditions {
+    font-size: 0.88rem;
+    margin-top: 0.6rem;
   }
 }

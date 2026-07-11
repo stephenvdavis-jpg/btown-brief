@@ -15,6 +15,9 @@
   var TZ = 'America/New_York';
   var $ = function (id) { return document.getElementById(id); };
 
+  // The real forecast, for Burlington. The conditions line links straight to it.
+  var NWS_FORECAST = 'https://forecast.weather.gov/MapClick.php?lat=44.4774048&lon=-73.2110569';
+
   /* ---------- helpers ---------- */
 
   function getJSON(url) {
@@ -220,7 +223,13 @@
     if (typeof w.temp_f === 'number') bits.push('<strong>' + Math.round(w.temp_f) + '°</strong>');
     if (w.description) bits.push(w.description.toLowerCase());
 
-    el.innerHTML = bits.join('<span class="sep">·</span>');
+    /* The whole line — time, sunset, temp, sky — is a link to the NWS forecast
+       for Burlington. People read the conditions and immediately want the real
+       forecast; making them hunt for it was a dead end. */
+    bits.push('<span class="conditions-go" aria-hidden="true">forecast ↗</span>');
+    el.innerHTML = '<a class="conditions-link" href="' + NWS_FORECAST +
+      '" target="_blank" rel="noopener" title="Full forecast from the National Weather Service">' +
+      bits.join('<span class="sep">·</span>') + '</a>';
   }
 
   /* ---------- the live tiles ---------- */
