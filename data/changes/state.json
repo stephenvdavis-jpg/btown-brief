@@ -1272,18 +1272,39 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71906842",
+      "title": "Democratic congressman says he was detained by the Israeli military and settlers in the West Bank",
+      "link": "https://www.mynbc5.com/article/democratic-congressman-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank-israel-palestine/71906842",
+      "ts": "2026-07-11T22:46:00+00:00",
+      "summary": "California Democrat Ro Khanna says he was detained by Israeli settlers and then the Israeli military as he toured the occupied West Bank in the Middle East."
+     },
+     {
+      "id": "71907167",
+      "title": "News We Love: Meet a 100-year-old, pool-playing veteran and the man preserving his story",
+      "link": "https://www.mynbc5.com/article/100-year-old-pool-playing-veteran/71907167",
+      "ts": "2026-07-11T22:40:00+00:00",
+      "summary": "Ed Gill, a World War II veteran who spends six, and sometimes seven, nights a week at the pool hall, recently found himself behind the camera."
+     },
+     {
+      "id": "71907295",
+      "title": "Stupendous Sunday as low humidity and sunshine continue",
+      "link": "https://www.mynbc5.com/article/stupendous-sunday-as-low-humidity-and-sunshine-continue-7-11-26/71907295",
+      "ts": "2026-07-11T22:38:39+00:00",
+      "summary": "Highs soar into the 90s early this week"
+     },
+     {
+      "id": "71907064",
+      "title": "The GOAT: Hooved friend provides moral support to firefighters in Colorado",
+      "link": "https://www.mynbc5.com/article/the-goat-hooved-friend-provides-moral-support-to-firefighters-in-colorado-goldie/71907064",
+      "ts": "2026-07-11T22:18:00+00:00",
+      "summary": "A goat named Goldie — short for Golden Oreo — has been accompanying crews fighting a small wildfire in Colorado."
+     },
+     {
       "id": "71906971",
       "title": "Linda Noskova is the latest in a long line of Czech women to win Wimbledon",
       "link": "https://www.mynbc5.com/article/linda-noskova-czech-women-wimbledon/71906971",
       "ts": "2026-07-11T21:44:00+00:00",
       "summary": "Linda Noskova's glimpse of Wimbledon trophies on bathroom break helped her regroup to claim 1st Grand Slam"
-     },
-     {
-      "id": "71906842",
-      "title": "Democratic congressman says he was detained by the Israeli military and settlers in the West Bank",
-      "link": "https://www.mynbc5.com/article/democratic-congressman-says-he-was-detained-by-the-israeli-military-and-settlers-in-the-west-bank-israel-palestine/71906842",
-      "ts": "2026-07-11T21:33:00+00:00",
-      "summary": "California Democrat Ro Khanna says he was detained by Israeli settlers and then the Israeli military as he toured the occupied West Bank in the Middle East."
      },
      {
       "id": "71906651",
@@ -1389,27 +1410,6 @@
       "link": "https://www.mynbc5.com/article/trump-endangered-species-habitats-harm-development/71905435",
       "ts": "2026-07-11T12:19:00+00:00",
       "summary": "The Trump administration reversed decades of longstanding environmental law protecting endangered species Friday, opening up sensitive habitats to development."
-     },
-     {
-      "id": "71905480",
-      "title": "Beautiful Saturday — sunny and warm, with low humidity",
-      "link": "https://www.mynbc5.com/article/beautiful-saturday-sunny-and-warm-with-low-humidity-7-11-26/71905480",
-      "ts": "2026-07-11T11:52:16+00:00",
-      "summary": "Bright and seasonable Sunday, highs soar into the 90s for a time early next week"
-     },
-     {
-      "id": "71905391",
-      "title": "Beautiful Saturday — sunny and warm, with low humidity",
-      "link": "https://www.mynbc5.com/article/beautiful-saturday-sunny-and-warm-with-low-humidity-07-11-26/71905391",
-      "ts": "2026-07-11T11:32:00+00:00",
-      "summary": "Bright and seasonable Sunday, highs soar into the 90s for a time early next week"
-     },
-     {
-      "id": "71905342",
-      "title": "Judge grants Trump admin’s request to dismiss Jan. 6 case against Proud Boys",
-      "link": "https://www.mynbc5.com/article/judge-grants-trump-request-dismiss-january-6-case-proud-boys/71905342",
-      "ts": "2026-07-11T11:28:00+00:00",
-      "summary": "A federal judge Friday dismissed the seditious conspiracy case against several Proud Boys members."
      }
     ]
    },
