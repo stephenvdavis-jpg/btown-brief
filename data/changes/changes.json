@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T10:37:52+00:00",
+ "generated": "2026-07-11T12:10:52+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -535,6 +535,17 @@
    "headline": "New on r/burlington: Hire ability questions",
    "detail": "",
    "url": "https://www.reddit.com/r/burlington/comments/1utavwx/hire_ability_questions/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T11:01:03+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Perfect sunny weekend ahead (81s, low humidity, heat wave holds off till Monday). Vermont Green FC women host a National Semifinal, the Lake Monsters go full maple, a drag cabaret returns after 10 years, roller derby hits the Expo, and regulators just said no to Amazon in Essex",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1utep1m/perfect_sunny_weekend_ahead_81s_low_humidity_heat/",
    "source": "reddit-burlington",
    "sourceName": "r/burlington",
    "priority": 1,
