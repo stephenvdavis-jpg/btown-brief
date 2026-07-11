@@ -274,8 +274,18 @@
         return endMs >= now;
       });
 
+      // Everything happening today, including what's already finished — so the
+      // big number reads as "N of the day's M", the way Open Now does.
+      var todayTotal = evs.filter(function (e) {
+        if (!e.start) return false;
+        var p = btParts(new Date(e.start));
+        return p.year + '-' + p.month + '-' + p.day === key;
+      }).length;
+
       countUp('tonight-count', left.length);
-      set$('tonight-sub', left.length ? 'still to come across town' : 'all wrapped up for today');
+      set$('tonight-sub', left.length
+        ? 'out of ' + todayTotal + ' today<br>still to come across town'
+        : 'all ' + todayTotal + ' wrapped up for today');
       stat('stat-events', left.length + ' today');
     });
   }

@@ -352,3 +352,107 @@
   .ev-cal-head { flex-wrap: wrap; }
   .ev-selects select { flex: 1 1 40%; max-width: none; }
 }
+
+/* ---------------- month grid ----------------
+   The list answers "what's on tonight" and is useless for "what's on the 14th
+   of next month" — you'd scroll for a minute to reach it. Both months the
+   60-day window covers, side by side, so the whole dataset is one glance and
+   any day is one click. */
+
+.ev-month-wrap { margin-top: var(--space-4); }
+
+.ev-months {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--space-5);
+}
+
+.ev-month-name {
+  font-size: var(--text-md);
+  font-weight: 600;
+  margin: 0 0 var(--space-3);
+  letter-spacing: 0.01em;
+}
+
+.ev-month-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.ev-dow {
+  text-align: center;
+  font-size: var(--text-xs);
+  color: var(--ink-4);
+  padding-bottom: 4px;
+  font-weight: 600;
+}
+
+.ev-day-cell {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1px;
+  border-radius: var(--radius-sm);
+  border: 1px solid transparent;
+  font: inherit;
+}
+
+.ev-day-blank { border: 0; }
+
+/* A day with nothing on it. Still drawn — a gap would break the grid's shape. */
+.ev-day-off {
+  color: var(--ink-4);
+  opacity: 0.45;
+}
+
+/* A day you can open. */
+.ev-day-on {
+  cursor: pointer;
+  background: var(--bg-subtle);
+  border-color: var(--line);
+  color: var(--ink);
+  transition: transform 0.12s var(--ease), border-color 0.12s var(--ease);
+}
+.ev-day-on:hover,
+.ev-day-on:focus-visible {
+  transform: translateY(-1px);
+  border-color: var(--ink);
+  outline: none;
+}
+
+/* Busy-ness, relative to the busiest day in the window. Reads at a glance:
+   which weekend is actually loaded. */
+.ev-day-on.heat-1 { background: color-mix(in srgb, var(--coral) 10%, var(--bg-subtle)); }
+.ev-day-on.heat-2 { background: color-mix(in srgb, var(--coral) 22%, var(--bg-subtle)); }
+.ev-day-on.heat-3 { background: color-mix(in srgb, var(--coral) 38%, var(--bg-subtle)); }
+
+.ev-day-num { font-size: var(--text-sm); line-height: 1; }
+.ev-day-count {
+  font-size: 0.62rem;
+  line-height: 1;
+  font-weight: 600;
+  color: var(--ink-3);
+}
+.ev-day-on .ev-day-count { color: var(--ink-2); }
+
+.is-today {
+  outline: 2px solid var(--coral);
+  outline-offset: -2px;
+  font-weight: 700;
+}
+
+.ev-month-note {
+  color: var(--ink-4);
+  font-size: var(--text-xs);
+  margin-top: var(--space-3);
+}
+
+@media (max-width: 420px) {
+  .ev-months { gap: var(--space-4); }
+  .ev-day-num { font-size: var(--text-xs); }
+  .ev-day-count { font-size: 0.55rem; }
+}

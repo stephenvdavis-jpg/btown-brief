@@ -23,7 +23,7 @@
     map: null,
     mapLayer: null,
     activeBucket: null,
-    filters: { when: 'month', q: '', cat: '', town: '', price: '', age: '' },
+    filters: { when: 'month', day: null, q: '', cat: '', town: '', price: '', age: '' },
   };
 
   /* ---------------- utilities ---------------- */
@@ -214,28 +214,37 @@
       case 'week': return [t, dkey(addDays(now, 6))];
       case 'twoweeks': return [t, dkey(addDays(now, 13))];
       case 'month': return [t, dkey(addDays(now, 29))];
+      // a single day, picked out of the month grid
+      case 'day': return state.filters.day ? [state.filters.day, state.filters.day] : [t, '9999-12-31'];
       default: return [t, '9999-12-31'];
     }
   }
 
+  /* Everything EXCEPT the date window. Split out so the month grid can count a
+     day's events without the "Next 30 days" pill hiding half the calendar —
+     the grid has to show every day it draws, or its numbers are a lie. */
+  function matchesNonDate(e) {
+    const f = state.filters;
+    if (f.cat && e.category !== f.cat) return false;
+    if (f.town && e.town !== f.town) return false;
+    if (f.price === 'free' && e.free !== true) return false;
+    if (f.price === 'under15' && !(e.free === true ||
+      (e.minPrice != null && e.minPrice < 15))) return false;
+    if (f.age === 'allages' && /\b(18|21)\s*\+/.test(e.age || '')) return false;
+    if (f.age === '21' && !/\b(18|21)\s*\+/.test(e.age || '')) return false;
+    if (f.q && !e._search.includes(f.q)) return false;
+    return true;
+  }
+
   function filtered() {
     const [lo, hi] = whenRange();
-    const f = state.filters;
     const now = new Date();
     const todayKey = dkey(now);
     return state.events.filter((e) => {
       if (e.date < lo || e.date > hi) return false;
       // today: hide things that started more than an hour ago
       if (e.date === todayKey && !e.allDay && e._start < new Date(+now - 3600e3)) return false;
-      if (f.cat && e.category !== f.cat) return false;
-      if (f.town && e.town !== f.town) return false;
-      if (f.price === 'free' && e.free !== true) return false;
-      if (f.price === 'under15' && !(e.free === true ||
-        (e.minPrice != null && e.minPrice < 15))) return false;
-      if (f.age === 'allages' && /\b(18|21)\s*\+/.test(e.age || '')) return false;
-      if (f.age === '21' && !/\b(18|21)\s*\+/.test(e.age || '')) return false;
-      if (f.q && !e._search.includes(f.q)) return false;
-      return true;
+      return matchesNonDate(e);
     });
   }
 
@@ -379,6 +388,98 @@
       });
   }
 
+  /* ---------------- month grid ----------------
+     The list is fine for "what's on tonight" and hopeless for "what's on the
+     14th of next month" — you'd scroll for a minute. This draws BOTH months the
+     60-day window covers, so the whole dataset is one glance, and a day is one
+     click. Counts ignore the date pills (see matchesNonDate) because a grid
+     that hides days it has drawn is just lying. */
+
+  const MONTHS = ['January','February','March','April','May','June','July',
+                  'August','September','October','November','December'];
+  const DOW = ['S','M','T','W','T','F','S'];
+
+  function renderMonths() {
+    const counts = new Map();                       // 'YYYY-MM-DD' -> n
+    state.events.forEach((e) => {
+      if (!matchesNonDate(e)) return;
+      counts.set(e.date, (counts.get(e.date) || 0) + 1);
+    });
+
+    const todayKey = dkey(new Date());
+    const lo = (state.meta && state.meta.windowStart) || todayKey;
+    const hi = (state.meta && state.meta.windowEnd) || todayKey;
+
+    // The months the data window actually spans — usually two.
+    const start = new Date(lo + 'T12:00:00');
+    const end = new Date(hi + 'T12:00:00');
+    const months = [];
+    let cur = new Date(start.getFullYear(), start.getMonth(), 1);
+    while (cur <= end && months.length < 4) {
+      months.push(new Date(cur));
+      cur = new Date(cur.getFullYear(), cur.getMonth() + 1, 1);
+    }
+
+    const wrap = $('ev-months');
+    wrap.innerHTML = '';
+    let busiest = 0;
+    counts.forEach((n, k) => { if (k >= lo && k <= hi && n > busiest) busiest = n; });
+
+    months.forEach((m) => {
+      const grid = document.createElement('div');
+      grid.className = 'ev-month';
+
+      let html = `<h3 class="ev-month-name">${MONTHS[m.getMonth()]} ${m.getFullYear()}</h3>`;
+      html += '<div class="ev-month-grid">';
+      DOW.forEach((d, i) => { html += `<span class="ev-dow" aria-hidden="true">${d}</span>`; });
+
+      const firstDow = new Date(m.getFullYear(), m.getMonth(), 1).getDay();
+      const days = new Date(m.getFullYear(), m.getMonth() + 1, 0).getDate();
+      for (let i = 0; i < firstDow; i++) html += '<span class="ev-day-cell ev-day-blank"></span>';
+
+      for (let d = 1; d <= days; d++) {
+        const key = dkey(new Date(m.getFullYear(), m.getMonth(), d));
+        const n = counts.get(key) || 0;
+        const inWindow = key >= lo && key <= hi;
+        const isToday = key === todayKey;
+
+        if (!inWindow || !n) {
+          html += `<span class="ev-day-cell ev-day-off${isToday ? ' is-today' : ''}">` +
+                  `<span class="ev-day-num">${d}</span></span>`;
+          continue;
+        }
+        // heat: how busy relative to the busiest day in the window
+        const heat = busiest ? Math.min(3, Math.ceil((n / busiest) * 3)) : 1;
+        html += `<button class="ev-day-cell ev-day-on heat-${heat}${isToday ? ' is-today' : ''}" ` +
+                `data-day="${key}" aria-label="${n} event${n === 1 ? '' : 's'} on ${MONTHS[m.getMonth()]} ${d}">` +
+                `<span class="ev-day-num">${d}</span>` +
+                `<span class="ev-day-count">${n}</span></button>`;
+      }
+      html += '</div>';
+      grid.innerHTML = html;
+      wrap.appendChild(grid);
+    });
+
+    wrap.querySelectorAll('.ev-day-on').forEach((b) => {
+      b.addEventListener('click', () => {
+        state.filters.when = 'day';
+        state.filters.day = b.dataset.day;
+        state.daysShown = 14;
+        syncWhenPills();
+        setView('list');
+        renderCalendar();
+        const el = $('ev-list');
+        if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+
+    const total = [...counts.entries()]
+      .filter(([k]) => k >= lo && k <= hi)
+      .reduce((s, [, n]) => s + n, 0);
+    $('ev-month-note').textContent =
+      `${total} events between ${lo} and ${hi}. Click any day to open it.`;
+  }
+
   /* ---------------- map ---------------- */
 
   function renderMap(evs) {
@@ -436,8 +537,10 @@
     document.querySelectorAll('#ev-when-pills .ev-pill').forEach((b) => {
       b.addEventListener('click', () => {
         state.filters.when = b.dataset.when;
+        state.filters.day = null;   // a pill overrides a day picked in the grid
         state.daysShown = 14;
         syncWhenPills();
+        setView('list');
         renderCalendar();
       });
     });
@@ -472,6 +575,7 @@
     });
 
     $('ev-view-list').addEventListener('click', () => setView('list'));
+    $('ev-view-month').addEventListener('click', () => setView('month'));
     $('ev-view-map').addEventListener('click', () => setView('map'));
 
     $('dark-toggle').addEventListener('click', () => {
@@ -486,10 +590,13 @@
   function setView(v) {
     state.view = v;
     $('ev-view-list').setAttribute('aria-selected', String(v === 'list'));
+    $('ev-view-month').setAttribute('aria-selected', String(v === 'month'));
     $('ev-view-map').setAttribute('aria-selected', String(v === 'map'));
     $('ev-list').hidden = v !== 'list';
-    document.querySelector('.ev-more-wrap').hidden = v === 'map';
+    document.querySelector('.ev-more-wrap').hidden = v !== 'list';
+    $('ev-month-wrap').hidden = v !== 'month';
     $('ev-map-wrap').hidden = v !== 'map';
+    if (v === 'month') renderMonths();
     if (v === 'map') renderMap(filtered());
   }
 
