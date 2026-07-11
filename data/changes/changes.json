@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T13:58:52+00:00",
+ "generated": "2026-07-11T15:27:10+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -550,6 +550,39 @@
    "sourceName": "r/burlington",
    "priority": 1,
    "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T14:00:02+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Best quirky roadside attraction",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1utk0pl/best_quirky_roadside_attraction/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T14:00:02+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Vintage Clothing Market today 9-3",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uthask/vintage_clothing_market_today_93/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T15:27:12+00:00",
+   "category": "cityhall",
+   "headline": "Planning Commission Meeting - Collaborative Working Group on Inclusionary Zoning agenda posted",
+   "detail": "meets Tuesday, Jul 14",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/9957/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 2,
+   "kind": "changed"
   }
  ]
 }
