@@ -3089,22 +3089,62 @@ a.mode-btn:hover { text-decoration: none; }
 /* Empty/loading states shared by community pages */
 .page-empty { color: var(--ink-3); font-size: var(--text-sm); padding: var(--space-6) 0; }
 
-/* Standalone-page nav: scrolls sideways on narrow phones instead of
-   overflowing the fixed-height header */
+/* Standalone-page nav on narrow phones: a CHIP RAIL, not a segmented pill.
+   A bordered, fully-rounded pill reads as "these are all your options" — so
+   when it silently scrolls, it feels broken. Drop the container chrome, let
+   the last chip peek past a fade, and snap: now the sideways scroll reads as
+   intentional. */
 @media (max-width: 640px) {
   body[data-standalone] .header-inner { gap: var(--space-2); }
-  body[data-standalone] .mode-nav {
+
+  /* NOT gated on [data-standalone]: things-to-do.html has a plain <body>, so
+     the old rule never reached it and its nav overflowed the PAGE instead —
+     which is why swiping felt like you were breaking the site. */
+  .mode-nav {
     overflow-x: auto;
     max-width: 100%;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
+
+    /* open rail, not a sealed container */
+    background: none;
+    border: 0;
+    border-radius: 0;
+    padding: 2px 0;
+    margin: 0;
+    gap: 6px;
+    justify-content: flex-start;
+
+    /* chips click into place instead of drifting */
+    scroll-snap-type: x proximity;
+    scroll-padding-left: var(--space-4);
+
+    /* right-edge fade: the "there's more over here" signal */
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent 100%);
+    mask-image: linear-gradient(to right, #000 calc(100% - 28px), transparent 100%);
   }
-  body[data-standalone] .mode-nav::-webkit-scrollbar { display: none; }
-  body[data-standalone] .mode-btn {
+  /* once scrolled to the end, drop the fade so nothing looks cut off */
+  .mode-nav[data-scroll-end="true"] {
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+  .mode-nav::-webkit-scrollbar { display: none; }
+  .mode-btn {
     white-space: nowrap;
     font-size: var(--text-xs);
     padding: 6px 10px;
+    scroll-snap-align: start;
+
+    /* each chip is now its own object, so it needs its own edge */
+    border: 1px solid var(--line);
+    background: var(--bg-subtle);
   }
+  /* links away from this page read differently from the view toggles */
+  .mode-btn-link {
+    border-style: dashed;
+    color: var(--ink-3);
+  }
+  .mode-btn[aria-pressed="true"] { border-color: var(--ink); }
 }
 
 /* Playlist winners wall */

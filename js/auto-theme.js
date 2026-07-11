@@ -75,3 +75,20 @@
       // wrong — a mistimed flip is worse than no flip.
     });
 })();
+
+/* Mobile chip rail (.mode-nav) — every page with the nav loads this file.
+   The right-edge fade means "there's more this way", so clear it once you've
+   actually scrolled to the end (or there's nothing to scroll), otherwise the
+   last chip reads as permanently cut off. */
+(function railFade() {
+  var rail = document.querySelector('.mode-nav');
+  if (!rail) return;
+  function update() {
+    var noOverflow = rail.scrollWidth <= rail.clientWidth + 1;
+    var atEnd = rail.scrollLeft + rail.clientWidth >= rail.scrollWidth - 2;
+    rail.setAttribute('data-scroll-end', String(noOverflow || atEnd));
+  }
+  rail.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+})();
