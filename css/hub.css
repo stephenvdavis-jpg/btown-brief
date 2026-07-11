@@ -1,42 +1,86 @@
 /* ============================================================
    THE LAKE HOUR — guide hub (index.html)
 
-   The page knows what time it is. js/hub.js reads the real
-   sunrise/sunset and current conditions out of data/weather and
-   stamps data-phase on <html>; every colour below hangs off that.
-   Looking west across Lake Champlain at the Adirondacks is the
-   one view every Burlingtonian shares, so it is the horizon.
+   Two ideas, held together:
+
+   1. The page knows what time it is. js/hub.js reads the real
+      sunrise/sunset out of data/weather and stamps data-phase on
+      <html>. The hero photograph is chosen by that phase, so at
+      8:40pm you get an actual Burlington sunset — because it is.
+
+   2. Photographs are graded, not scrimmed into submission. Every
+      hero image goes through the same matte treatment (.sky-photo)
+      — saturation down, contrast down, blacks lifted, grain on top
+      — so ANY photo dropped into assets/sky/ stays readable and
+      they all read as one family. Transparency alone never fixes
+      white-text-on-photo; grading does.
+
+   Photos are optional. With none present the drawn sky below is a
+   complete fallback, so the page is never broken while art is
+   being shot.
 ============================================================ */
 
 :root {
-  /* Sky stops — overwritten per phase below. */
-  --sky-top: #1B3A5C;
-  --sky-mid: #3E6E96;
-  --sky-low: #9CC5DC;
-  --sun: #FFD98A;
-  --sun-glow: rgba(255, 217, 138, 0.55);
-  --ridge: #16283C;
-  --ridge-far: #2C4460;
-  --water: #16344E;
-  --water-lit: #4E86AC;
-
-  /* Page ground — light by default, flipped for dusk/night. */
-  --ground: #F4F7F8;
+  /* Warm paper. The photo carries the hour; the page underneath stays calm. */
+  --ground: #FBF9F0;
   --panel: #FFFFFF;
-  --edge: #DCE5E9;
-  --ink: #10222E;
-  --ink-soft: #4E6675;
-  --ink-faint: #8298A5;
-  --accent: #0B6E8C;
-  --hot: #C25E2A;
-  --good: #2E7D52;
+  --edge: rgba(20, 24, 28, 0.10);
+  --edge-soft: rgba(20, 24, 28, 0.06);
+  --ink: #14181C;
+  --ink-soft: #5B6670;
+  --ink-faint: #8B959D;
+  --accent: #0E6E86;
+  --accent-soft: rgba(14, 110, 134, 0.10);
+  --good: #2C7A55;
+  --hot: #B4552A;
+  --shadow: 0 1px 2px rgba(20, 24, 28, 0.04), 0 6px 20px rgba(20, 24, 28, 0.05);
 
-  --display: "Barlow Condensed", "Avenir Next Condensed", "Helvetica Neue", sans-serif;
+  /* Drawn-sky stops — the fallback when a phase has no photograph. */
+  --sky-top: #1B3A5C; --sky-mid: #3E6E96; --sky-low: #9CC5DC;
+  --sun: #FFD98A; --sun-glow: rgba(255, 217, 138, 0.55);
+  --ridge: #16283C; --ridge-far: #2C4460;
+  --water: #16344E; --water-lit: #4E86AC;
+
+  --radius: 16px;
+  --radius-sm: 10px;
+  --pill: 999px;
+
+  --serif: "Instrument Serif", "Lora", Georgia, serif;
   --ui: "DM Sans", system-ui, -apple-system, sans-serif;
-  --prose: "Lora", Georgia, serif;
 }
 
-/* ---------- Sky phases ---------- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #0D1317;
+    --panel: #161F25;
+    --edge: rgba(255, 255, 255, 0.11);
+    --edge-soft: rgba(255, 255, 255, 0.06);
+    --ink: #ECEFEA;
+    --ink-soft: #9EAAB2;
+    --ink-faint: #6F7C85;
+    --accent: #6CC6DC;
+    --accent-soft: rgba(108, 198, 220, 0.14);
+    --good: #6FD79E;
+    --hot: #F0996A;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 22px rgba(0, 0, 0, 0.28);
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #0D1317;
+  --panel: #161F25;
+  --edge: rgba(255, 255, 255, 0.11);
+  --edge-soft: rgba(255, 255, 255, 0.06);
+  --ink: #ECEFEA;
+  --ink-soft: #9EAAB2;
+  --ink-faint: #6F7C85;
+  --accent: #6CC6DC;
+  --accent-soft: rgba(108, 198, 220, 0.14);
+  --good: #6FD79E;
+  --hot: #F0996A;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 22px rgba(0, 0, 0, 0.28);
+}
+
+/* Drawn-sky phases (fallback art). */
 html[data-phase="night"] {
   --sky-top: #070E1C; --sky-mid: #101E36; --sky-low: #1E3350;
   --sun: #E8EEF7; --sun-glow: rgba(232, 238, 247, 0.28);
@@ -73,47 +117,11 @@ html[data-phase="dusk"] {
   --ridge: #10162B; --ridge-far: #2B2A48;
   --water: #131B33; --water-lit: #8C5449;
 }
-
-/* Overcast knocks the saturation out of whatever phase we're in. */
-html[data-sky="grey"] {
+html[data-sky="grey"]:not([data-phase="night"]) {
   --sky-top: #6E7F8C; --sky-mid: #93A3AD; --sky-low: #C3CDD3;
   --sun: #E4E9EC; --sun-glow: rgba(228, 233, 236, 0.35);
   --ridge: #4A5A66; --ridge-far: #7B8B96;
   --water: #4F626E; --water-lit: #93A3AD;
-}
-html[data-phase="night"][data-sky="grey"] {
-  --sky-top: #10161F; --sky-mid: #1D2731; --sky-low: #2E3A45;
-  --sun: #9FAAB4; --sun-glow: rgba(159, 170, 180, 0.2);
-  --ridge: #080C12; --ridge-far: #161E27;
-  --water: #0A0F16; --water-lit: #2B3742;
-}
-
-/* Dark ground for the dark hours — and whenever the reader asks. */
-html[data-phase="night"],
-html[data-phase="dusk"],
-html[data-theme="dark"] {
-  --ground: #0C1620;
-  --panel: #14242F;
-  --edge: #243B49;
-  --ink: #E6EEF2;
-  --ink-soft: #9DB4C0;
-  --ink-faint: #6E8896;
-  --accent: #5EC4DF;
-  --hot: #F09A63;
-  --good: #6FD79E;
-}
-@media (prefers-color-scheme: dark) {
-  html:not([data-theme="light"]) {
-    --ground: #0C1620;
-    --panel: #14242F;
-    --edge: #243B49;
-    --ink: #E6EEF2;
-    --ink-soft: #9DB4C0;
-    --ink-faint: #6E8896;
-    --accent: #5EC4DF;
-    --hot: #F09A63;
-    --good: #6FD79E;
-  }
 }
 
 * { box-sizing: border-box; }
@@ -122,81 +130,96 @@ body.hub {
   margin: 0;
   background: var(--ground);
   color: var(--ink);
-  font-family: var(--prose);
-  line-height: 1.55;
+  font-family: var(--ui);
+  font-size: 15px;
+  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
-  transition: background-color 1.2s ease, color 1.2s ease;
 }
 
 /* ============================================================
-   THE SKY
+   THE HERO
 ============================================================ */
 .sky {
   position: relative;
   width: 100%;
-  min-height: clamp(340px, 52vh, 520px);
+  min-height: clamp(400px, 62vh, 600px);
   overflow: hidden;
-  background: linear-gradient(to bottom,
-              var(--sky-top) 0%,
-              var(--sky-mid) 48%,
-              var(--sky-low) 76%);
-  transition: background 1.6s ease;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+  background: linear-gradient(to bottom, var(--sky-top) 0%, var(--sky-mid) 48%, var(--sky-low) 76%);
+  transition: background 1.6s ease;
 }
 
-/* The sun/moon. Position is set inline by hub.js from the real arc. */
+/* ---- The photograph, and the grade that makes it usable ---- */
+.sky-photo {
+  position: absolute;
+  inset: 0;
+  background-image: var(--sky-img, none);
+  background-size: cover;
+  background-position: center 55%;
+  /* THE grade: matte it out so white type can simply sit on top. */
+  filter: saturate(0.72) contrast(0.88) brightness(0.86);
+  opacity: 0;
+  transition: opacity 1.2s ease;
+}
+html[data-art="photo"] .sky-photo { opacity: 1; }
+/* Lift the blacks — the faded-film move that keeps shadows from going muddy. */
+html[data-art="photo"] .sky-photo::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(126, 134, 140, 0.14);
+  mix-blend-mode: lighten;
+}
+
+/* Grain. Ties any two photos into the same family. */
+.grain {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.16;
+  z-index: 2;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E");
+}
+
+/* Drawn sky furniture — hidden the moment a real photograph loads. */
+html[data-art="photo"] .ridge,
+html[data-art="photo"] .lake,
+html[data-art="photo"] .orb,
+html[data-art="photo"] .glint { display: none; }
+
 .orb {
   position: absolute;
-  width: 62px;
-  height: 62px;
+  width: 62px; height: 62px;
   border-radius: 50%;
   background: var(--sun);
   box-shadow: 0 0 60px 22px var(--sun-glow), 0 0 140px 60px var(--sun-glow);
   transform: translate(-50%, -50%);
   transition: background 1.6s ease, box-shadow 1.6s ease;
-  will-change: left, top;
 }
-/* The moon: smaller, cooler, faintly mottled — never a pale sun. */
 .orb.moon {
-  width: 40px;
-  height: 40px;
+  width: 40px; height: 40px;
   background:
-    radial-gradient(circle at 62% 38%, rgba(0, 0, 0, 0.10) 0 18%, transparent 19%),
-    radial-gradient(circle at 34% 64%, rgba(0, 0, 0, 0.08) 0 13%, transparent 14%),
-    radial-gradient(circle at 70% 72%, rgba(0, 0, 0, 0.06) 0 9%, transparent 10%),
+    radial-gradient(circle at 62% 38%, rgba(0,0,0,0.10) 0 18%, transparent 19%),
+    radial-gradient(circle at 34% 64%, rgba(0,0,0,0.08) 0 13%, transparent 14%),
+    radial-gradient(circle at 70% 72%, rgba(0,0,0,0.06) 0 9%, transparent 10%),
     var(--sun);
   box-shadow: 0 0 34px 8px var(--sun-glow);
 }
-
-/* Adirondacks, seen from the Burlington waterfront. */
 .ridge {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 26%;
-  width: 100%;
-  height: 90px;
-  display: block;
+  position: absolute; left: 0; right: 0; bottom: 26%;
+  width: 100%; height: 90px; display: block;
 }
 .ridge .far { fill: var(--ridge-far); transition: fill 1.6s ease; }
 .ridge .near { fill: var(--ridge); transition: fill 1.6s ease; }
-
-/* The lake. */
 .lake {
-  position: absolute;
-  left: 0; right: 0; bottom: 0;
-  height: 26%;
+  position: absolute; left: 0; right: 0; bottom: 0; height: 26%;
   background: linear-gradient(to bottom, var(--water-lit), var(--water));
   transition: background 1.6s ease;
 }
-/* Glitter path under the orb — the sunset stripe, and only ever ON THE WATER. */
 .glint {
-  position: absolute;
-  bottom: 0;
-  width: 120px;
-  height: 26%;              /* exactly the lake, never up into the sky */
+  position: absolute; bottom: 0; width: 120px; height: 26%;
   transform: translateX(-50%);
   background: linear-gradient(to bottom, var(--sun-glow), transparent 90%);
   filter: blur(10px);
@@ -204,223 +227,220 @@ body.hub {
   transition: opacity 1.6s ease;
 }
 
-/* A scrim under the copy. Midday and golden hour are bright enough to swallow
-   white text, so the headline gets a guaranteed floor to sit on in every phase. */
+/* The scrim. Not the whole answer — but the floor the type stands on. */
 .sky::after {
   content: "";
   position: absolute;
   left: 0; right: 0; bottom: 0;
-  height: 62%;
-  background: linear-gradient(to bottom, transparent, rgba(4, 12, 20, 0.5));
+  height: 70%;
+  background: linear-gradient(to bottom, transparent, rgba(8, 12, 16, 0.62));
   pointer-events: none;
   z-index: 1;
 }
 
 .sky-copy {
   position: relative;
-  z-index: 2;
-  max-width: 1120px;
+  z-index: 3;
+  max-width: 1160px;
   margin: 0 auto;
-  padding: 0 clamp(1rem, 4vw, 2rem) clamp(1.5rem, 3vw, 2.25rem);
   width: 100%;
+  padding: 0 clamp(1.1rem, 4vw, 2.25rem) clamp(1.6rem, 3.2vw, 2.5rem);
   color: #fff;
-  text-shadow: 0 1px 24px rgba(0, 0, 0, 0.4), 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 .eyebrow {
-  font-family: var(--ui);
-  font-size: 0.72rem;
-  letter-spacing: 0.22em;
+  font-size: 0.68rem;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
   font-weight: 500;
-  opacity: 0.88;
-  margin: 0 0 0.35rem;
+  opacity: 0.82;
+  margin: 0 0 0.5rem;
 }
 .wordmark {
-  font-family: var(--display);
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.045em;
-  line-height: 0.94;
-  font-size: clamp(2.4rem, 8vw, 5.25rem);
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(2.9rem, 7.5vw, 5.6rem);
+  line-height: 1.02;
+  letter-spacing: -0.01em;
   margin: 0;
   text-wrap: balance;
+  text-shadow: 0 2px 30px rgba(0, 0, 0, 0.35);
 }
 .conditions {
-  font-family: var(--ui);
-  font-size: clamp(0.9rem, 2.4vw, 1.05rem);
-  margin: 0.7rem 0 0;
+  font-size: 0.95rem;
+  margin: 0.85rem 0 0;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.35rem 0.85rem;
+  gap: 0.3rem 0.75rem;
   font-variant-numeric: tabular-nums;
-  opacity: 0.96;
+  opacity: 0.95;
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.5);
 }
-.conditions .sep { opacity: 0.45; }
+.conditions .sep { opacity: 0.4; }
 .conditions strong { font-weight: 600; }
 
+/* Photo credit, park.photos-style: quiet, bottom corner. */
+.credit {
+  position: absolute;
+  right: clamp(1.1rem, 4vw, 2.25rem);
+  bottom: 1.1rem;
+  z-index: 3;
+  font-size: 0.66rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.72);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.5);
+}
+.credit:empty { display: none; }
+
 /* ============================================================
-   RIGHT NOW — the three live tiles
+   CONTENT — dense, but soft-edged
 ============================================================ */
 .wrap {
-  max-width: 1120px;
+  max-width: 1160px;
   margin: 0 auto;
-  padding: 0 clamp(1rem, 4vw, 2rem) 5rem;
+  padding: 0 clamp(1.1rem, 4vw, 2.25rem) 4rem;
 }
 
+/* The three live tiles, lifted to straddle the hero edge. */
 .tiles {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
-  gap: 1px;
-  background: var(--edge);
-  border: 1px solid var(--edge);
-  margin-top: -1px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+  margin-top: -34px;
   position: relative;
-  z-index: 3;
+  z-index: 4;
 }
 .tile {
   background: var(--panel);
-  padding: 1.15rem 1.25rem 1.05rem;
+  border: 1px solid var(--edge-soft);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 0.9rem 1.05rem 0.85rem;
   text-decoration: none;
   color: inherit;
   display: flex;
   flex-direction: column;
-  gap: 0.2rem;
-  transition: background 0.15s ease;
+  gap: 0.1rem;
+  transition: transform 0.16s ease, border-color 0.16s ease;
 }
-.tile:hover, .tile:focus-visible { background: color-mix(in srgb, var(--accent) 8%, var(--panel)); outline: none; }
-.tile:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
+.tile:hover, .tile:focus-visible {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  outline: none;
+}
 .tile .label {
-  font-family: var(--ui);
-  font-size: 0.66rem;
-  letter-spacing: 0.16em;
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--ink-faint);
   font-weight: 500;
 }
 .tile .big {
-  font-family: var(--display);
-  font-size: 2.35rem;
-  font-weight: 700;
-  line-height: 1.05;
+  font-family: var(--serif);
+  font-size: 2.3rem;
+  line-height: 1.15;
   font-variant-numeric: tabular-nums;
-  color: var(--ink);
 }
-.tile .big .unit { font-size: 0.95rem; font-weight: 600; color: var(--ink-soft); letter-spacing: 0.04em; }
-.tile .sub { font-family: var(--ui); font-size: 0.85rem; color: var(--ink-soft); }
-.tile .sub .yes { color: var(--good); font-weight: 600; }
-.tile .sub .no { color: var(--hot); font-weight: 600; }
+.tile .big .unit { font-size: 0.9rem; color: var(--ink-soft); font-family: var(--ui); }
+.tile .sub { font-size: 0.83rem; color: var(--ink-soft); }
+.tile .sub .yes { color: var(--good); font-weight: 500; }
+.tile .sub .no { color: var(--hot); font-weight: 500; }
 
-/* ============================================================
-   DEPARTMENTS
-============================================================ */
-section { margin-top: 3.25rem; }
+section { margin-top: 2.4rem; }
 
 .dept {
   display: flex;
   align-items: baseline;
-  gap: 1rem;
-  border-bottom: 2px solid var(--ink);
-  padding-bottom: 0.55rem;
-  margin-bottom: 1.4rem;
+  gap: 0.75rem;
+  margin-bottom: 0.85rem;
   flex-wrap: wrap;
 }
 .dept h2 {
-  font-family: var(--display);
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  font-weight: 700;
-  font-size: 1.65rem;
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 1.75rem;
+  letter-spacing: -0.005em;
   margin: 0;
-  white-space: nowrap;
 }
 .dept p {
   margin: 0;
-  font-family: var(--ui);
-  color: var(--ink-soft);
-  font-size: 0.92rem;
+  color: var(--ink-faint);
+  font-size: 0.85rem;
   flex: 1;
-  min-width: 12rem;
+  min-width: 10rem;
 }
 
-/* Separate cards, not a seamed slab — an unfilled column must read as empty
-   space, not as a ghost card. */
+/* Dense on purpose: he has a lot of links and nobody should scroll for them. */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(268px, 1fr));
-  gap: 14px;
+  grid-template-columns: repeat(auto-fill, minmax(238px, 1fr));
+  gap: 10px;
 }
 .card {
   background: var(--panel);
-  border: 1px solid var(--edge);
-  padding: 1.15rem 1.25rem 1.1rem;
+  border: 1px solid var(--edge-soft);
+  border-radius: var(--radius);
+  padding: 0.85rem 1rem 0.9rem;
   text-decoration: none;
   color: inherit;
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
-  position: relative;
-  transition: background 0.15s ease;
-}
-.card::before {
-  content: "";
-  position: absolute;
-  left: 0; top: 0; bottom: 0;
-  width: 3px;
-  background: var(--accent);
-  transform: scaleY(0);
-  transform-origin: top;
-  transition: transform 0.2s ease;
+  gap: 0.25rem;
+  transition: transform 0.16s ease, border-color 0.16s ease, box-shadow 0.16s ease;
 }
 .card:hover, .card:focus-visible {
-  background: color-mix(in srgb, var(--accent) 7%, var(--panel));
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  box-shadow: var(--shadow);
   outline: none;
 }
-.card:hover::before, .card:focus-visible::before { transform: scaleY(1); }
-.card:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
-
+.card:focus-visible { box-shadow: 0 0 0 2px var(--accent); }
 .card h3 {
-  font-family: var(--display);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  font-weight: 700;
-  font-size: 1.25rem;
+  font-size: 0.98rem;
+  font-weight: 600;
+  letter-spacing: -0.005em;
   margin: 0;
   display: flex;
-  align-items: baseline;
-  gap: 0.5rem;
+  align-items: center;
+  gap: 0.45rem;
+  flex-wrap: wrap;
 }
-.card p { margin: 0; font-size: 0.93rem; color: var(--ink-soft); }
+.card p {
+  margin: 0;
+  font-size: 0.845rem;
+  line-height: 1.45;
+  color: var(--ink-soft);
+}
 
-/* A live count riding on the card title, when we have one. */
+/* Live counts, as pills. */
 .stat {
-  font-family: var(--ui);
-  font-size: 0.66rem;
-  letter-spacing: 0.1em;
+  font-size: 0.62rem;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
   font-weight: 600;
   color: var(--accent);
-  background: color-mix(in srgb, var(--accent) 12%, transparent);
-  padding: 0.16rem 0.4rem;
-  border-radius: 2px;
+  background: var(--accent-soft);
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--pill);
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }
 .stat:empty { display: none; }
 
 .foot {
-  margin-top: 3.5rem;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--edge);
-  font-family: var(--ui);
-  font-size: 0.78rem;
+  margin-top: 2.75rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--edge-soft);
+  font-size: 0.8rem;
   color: var(--ink-faint);
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem 1.5rem;
   justify-content: space-between;
 }
-.foot a { color: var(--accent); }
+.foot a { color: var(--accent); text-decoration: none; }
+.foot a:hover { text-decoration: underline; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition: none !important; animation: none !important; }

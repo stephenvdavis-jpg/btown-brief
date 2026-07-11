@@ -70,6 +70,61 @@
 
   var GREY = /(cloud|overcast|rain|shower|snow|fog|mist|storm|drizzle|haze)/i;
 
+  /* ---------- the hero photograph ----------
+     Drop images into assets/sky/ named for the phase they belong to:
+
+       assets/sky/dawn.jpg  morning.jpg  day.jpg
+                  golden.jpg  dusk.jpg   night.jpg
+
+     Optionally add assets/sky/credits.json — { "golden": "North Beach, July" }
+     — and the caption appears bottom-right.
+
+     Any phase without a photo simply keeps the drawn sky, so this is safe to
+     ship half-finished and fill in as the shots come back.
+  */
+  var photoTried = {};
+
+  function loadPhaseImage(phase) {
+    if (photoTried[phase]) return;
+    photoTried[phase] = true;
+
+    // Try the hour's own photograph; fall back to assets/sky/default.jpg while
+    // the set is still being shot; fall back to the drawn sky if neither exists.
+    tryImage('assets/sky/' + phase + '.jpg', phase, function () {
+      tryImage('assets/sky/default.jpg', phase, null);
+    });
+  }
+
+  function tryImage(src, phase, onFail) {
+    var img = new Image();
+    img.onload = function () {
+      // Don't dress the page for an hour we've since moved out of.
+      if (document.documentElement.getAttribute('data-phase') !== phase) return;
+      // A relative url() inside a custom property resolves against the STYLESHEET
+      // (css/hub.css), not this page — so hand CSS an absolute URL.
+      var abs = new URL(src, document.baseURI).href;
+      document.documentElement.style.setProperty('--sky-img', 'url("' + abs + '")');
+      document.documentElement.setAttribute('data-art', 'photo');
+      showCredit(phase);
+    };
+    img.onerror = function () { if (onFail) onFail(); };
+    img.src = src;
+  }
+
+  var credits = null;
+  function showCredit(phase) {
+    var el = $('credit');
+    if (!el) return;
+    function put() {
+      var c = credits && credits[phase];
+      el.textContent = c ? c : '';
+    }
+    if (credits) return put();
+    getJSON('assets/sky/credits.json')
+      .then(function (d) { credits = d || {}; put(); })
+      .catch(function () { credits = {}; });
+  }
+
   function paintSky(weather) {
     var root = document.documentElement;
     var now = Date.now();
@@ -82,9 +137,10 @@
     // than leaving the page in its default blue.
     if (!rise || !set) {
       var hr = parseInt(btParts(new Date(now)).hour, 10);
-      root.setAttribute('data-phase',
-        hr < 5 || hr >= 21 ? 'night' : hr < 7 ? 'dawn' : hr < 9 ? 'morning' :
-        hr < 19 ? 'day' : hr < 20 ? 'golden' : 'dusk');
+      var guess = hr < 5 || hr >= 21 ? 'night' : hr < 7 ? 'dawn' : hr < 9 ? 'morning' :
+                  hr < 19 ? 'day' : hr < 20 ? 'golden' : 'dusk';
+      root.setAttribute('data-phase', guess);
+      loadPhaseImage(guess);
       return;
     }
 
@@ -92,6 +148,7 @@
     // "sunrise in ..." line stays truthful through the night.
     var phase = skyPhase(now, rise, set);
     root.setAttribute('data-phase', phase);
+    loadPhaseImage(phase);
 
     var cond = (weather.now && weather.now.description) || '';
     if (GREY.test(cond)) root.setAttribute('data-sky', 'grey');
