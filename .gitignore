@@ -1,5 +1,6 @@
 scripts/__pycache__/
 *.pyc
+__pycache__/
 
 # Burlington Pulse private paths (repo is public; these stay local-only)
 data/tips-inbox.md

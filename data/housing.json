@@ -1,0 +1,304 @@
+{
+  "updated": "2026-07-10",
+  "rent": {
+    "note": "Monthly snapshot, not live counts — every listings site's terms prohibit automated access. ZORI updates monthly; HUD FMR annually.",
+    "stats": [
+      {
+        "key": "zori",
+        "value": "$2,095/mo",
+        "label": "Typical asking rent, Burlington metro (+1.6% in a year)",
+        "source": "Zillow Observed Rent Index (ZORI), May 2026"
+      },
+      {
+        "value": "$1,651",
+        "label": "Fair-market 1-bedroom, Burlington–South Burlington",
+        "source": "HUD Fair Market Rents, FY2026"
+      },
+      {
+        "value": "$2,140",
+        "label": "Fair-market 2-bedroom, Burlington–South Burlington",
+        "source": "HUD Fair Market Rents, FY2026"
+      }
+    ]
+  },
+  "managers": [
+    {
+      "name": "Redstone",
+      "what": "The area's largest manager — market-rate buildings across Burlington, South Burlington, Winooski and Colchester, plus lease-by-bed student housing (Redstone Lofts, Redstone Commons, Spinner Place).",
+      "listings_url": "https://www.redstonevt.com/apartment-rentals/",
+      "contact_url": "https://www.redstonevt.com/contact/",
+      "phone": "(802) 658-7400",
+      "tags": ["large-portfolio", "student", "downtown"],
+      "notes": "Student buildings lease many months before fall move-in; their UVM-affiliated buildings are restricted to UVM students and staff."
+    },
+    {
+      "name": "Bissonette Properties",
+      "what": "Big family-owned local landlord — apartments and houses in Burlington (Old North End, UVM area), Winooski, and most surrounding towns.",
+      "listings_url": "https://www.bissonetteproperties.com/availability",
+      "contact_url": "mailto:info@bissonetteproperties.com",
+      "phone": "(802) 864-4449",
+      "tags": ["large-portfolio", "student", "downtown", "small-local"],
+      "notes": "Real searchable availability page with city/beds/pets filters. Office at 100 North St, weekdays 9–5."
+    },
+    {
+      "name": "S.D. Ireland Properties",
+      "what": "Newer, amenity-heavy market-rate buildings — Bank Street Apartments and One25 Cambrian Way in Burlington, Bayberry Commons, Severance Corners.",
+      "listings_url": "https://sdirelandproperties.com/properties/for-lease/",
+      "contact_url": "mailto:info@sdirelandproperties.com",
+      "phone": "(802) 861-9655",
+      "tags": ["large-portfolio", "downtown"],
+      "notes": "All buildings pet-friendly; weekend showings by appointment."
+    },
+    {
+      "name": "Offenhartz Management",
+      "what": "Local landlord since 1989 with 100+ units — studios to 3-beds in Burlington, South Burlington and Winooski, roughly $1,400–$2,800.",
+      "listings_url": "https://offenhartz.co/available-units/",
+      "contact_url": "https://offenhartz.co/contact-us/",
+      "phone": "(802) 540-0860",
+      "tags": ["small-local", "downtown"],
+      "notes": "Office at 196 Battery St; their available-units page stays genuinely current."
+    },
+    {
+      "name": "Rieley Properties (Burlington Apartments)",
+      "what": "One of Burlington's largest landlords — student housing near UVM and Champlain College, downtown apartments, plus non-student units at Finney Crossing in Williston.",
+      "listings_url": "https://burlingtonapartments.com/available-apartments/",
+      "contact_url": "mailto:info@burlingtonapartments.com",
+      "phone": "(802) 861-7778",
+      "tags": ["student", "downtown", "large-portfolio"],
+      "notes": "Texting welcomed; rated a top-10 landlord in UVM student surveys. Student units follow the June–May cycle — tour in fall for next year."
+    },
+    {
+      "name": "O'Brien Brothers",
+      "what": "Family developer-manager in South Burlington — market-rate and subsidized apartments across the greater Burlington area.",
+      "listings_url": "https://obrienbrothersvt.com/apartment-rentals/",
+      "contact_url": "https://obrienbrothersvt.com/contact/",
+      "phone": "(802) 658-5000",
+      "tags": ["large-portfolio", "affordable"],
+      "notes": "Portfolio spans affordable to market-rate; 24/7 on-call maintenance."
+    },
+    {
+      "name": "Larkin Realty",
+      "what": "Family developer-owner since 1980 — apartment complexes along the Shelburne Road corridor in South Burlington.",
+      "listings_url": "https://www.larkinrealty.net/availability",
+      "contact_url": "mailto:addyson@larkinrealty.net",
+      "phone": "(802) 864-7444",
+      "tags": ["large-portfolio"],
+      "notes": "Availability page sometimes shows zero — inventory turns over fast, so emailing directly is exactly the right move here."
+    },
+    {
+      "name": "Handy's Property Rentals",
+      "what": "Handy family portfolio of roughly 250 units — older apartments downtown and near UVM and Champlain, many pet-friendly with parking.",
+      "listings_url": null,
+      "contact_url": "mailto:handyrentals@handyvt.com",
+      "phone": "(802) 652-5311",
+      "tags": ["student", "downtown", "small-local"],
+      "notes": "No listings page of their own — they post to Zillow — which makes a direct email even more valuable. Office at 75 S. Winooski Ave."
+    },
+    {
+      "name": "Gabe Handy Rentals",
+      "what": "Separate Handy-family operation run from Essex — apartments across Chittenden and Franklin counties.",
+      "listings_url": "https://www.gabehandyrentals.com/rentals",
+      "contact_url": "mailto:handysrentals@yahoo.com",
+      "phone": "(802) 878-8920",
+      "tags": ["small-local"],
+      "notes": "Rental agent line: (802) 404-1333. Apply through their own site, not the listing platforms."
+    },
+    {
+      "name": "Full Circle Property Management",
+      "what": "Third-party manager for many individual owners around Chittenden County — took over the longtime Coburn & Feeley portfolio in 2019.",
+      "listings_url": "https://fullcirclevt.com/support/available-listings/",
+      "contact_url": "mailto:info@fullcirclevt.com",
+      "phone": "(802) 864-5200",
+      "tags": ["large-portfolio", "senior", "small-local"],
+      "notes": "Listings page reflects live availability. If you rented from Coburn & Feeley back in the day, this is where that portfolio went."
+    },
+    {
+      "name": "Champlain Housing Trust",
+      "what": "Nonprofit community land trust — the region's biggest source of permanently affordable rentals; most units via waitlist.",
+      "listings_url": "https://www.getahome.org/find-an-apartment/",
+      "contact_url": "mailto:info@getahome.org",
+      "phone": "(802) 862-6244",
+      "tags": ["affordable", "waitlist", "large-portfolio"],
+      "notes": "Their listings page splits Available vs. Waitlist — waits can run 10+ months but some properties turn fast. Income limits apply. 88 King St."
+    },
+    {
+      "name": "Burlington Housing Authority",
+      "what": "Public housing authority — subsidized apartments and Section 8 vouchers in Burlington; waitlist-driven.",
+      "listings_url": "https://www.burlingtonhousing.org/available-rentals",
+      "contact_url": "https://www.burlingtonhousing.org/contact",
+      "phone": "(802) 864-0538",
+      "tags": ["affordable", "waitlist"],
+      "notes": "Expect a couple of weeks for a response on vouchers or waitlist placement — start early. 65 Main St, Suite 101."
+    },
+    {
+      "name": "Winooski Housing Authority",
+      "what": "Winooski's public housing authority — affordable and senior housing in the city of Winooski.",
+      "listings_url": null,
+      "contact_url": "https://winooskihousing.org/applicants.aspx",
+      "phone": "(802) 655-2360",
+      "tags": ["affordable", "senior", "waitlist"],
+      "notes": "No listings page — apply through the Applicants page and join waitlists. Phones staffed Mon–Thu 8:30–4, Friday mornings."
+    },
+    {
+      "name": "Summit Properties",
+      "what": "Manages ~1,400 apartments, mostly affordable plus some market-rate — locally: Packard Lofts, Brandywine Lofts, Parc Terrace and Great Cedars.",
+      "listings_url": "https://www.summitpmg.com/management/rental-properties/",
+      "contact_url": "mailto:info@summitpmg.com",
+      "phone": "(802) 846-5430",
+      "tags": ["affordable", "large-portfolio", "senior"],
+      "notes": "No central availability search — each property page lists its own leasing contact, and income limits apply at many buildings."
+    },
+    {
+      "name": "Cathedral Square",
+      "what": "Nonprofit senior housing — 28 communities and ~1,100 homes for older adults and people with disabilities across three counties.",
+      "listings_url": "https://cathedralsquare.org/housing-application",
+      "contact_url": "mailto:info@cathedralsquare.org",
+      "phone": "(802) 863-2224",
+      "tags": ["senior", "affordable", "waitlist"],
+      "notes": "Waitlists run long — nearly 1,400 households at last count — so apply well before you need it."
+    },
+    {
+      "name": "HallKeen Management (Keen's Crossing)",
+      "what": "National manager whose local footprint is Keen's Crossing in Winooski — 213 riverfront units mixing market-rate and income-restricted, heat included.",
+      "listings_url": "https://keenscrossing.com/",
+      "contact_url": "https://www.hallkeen.com/listing/keens-crossing",
+      "phone": "(802) 788-4016",
+      "tags": ["large-portfolio", "affordable"],
+      "notes": "About half the units are income-restricted — ask which pool you're applying into."
+    },
+    {
+      "name": "Five Seasons Property Management",
+      "what": "Boutique manager since 2008 — single-family homes, condos and small multifamily throughout Chittenden County, plus furnished mid-term rentals.",
+      "listings_url": "https://www.burlingtonproperty.management/burlington-homes-for-rent",
+      "contact_url": "mailto:info@fiveseasonsmanagement.com",
+      "phone": "(844) 732-7665",
+      "tags": ["small-local"],
+      "notes": "The one to email if you want a house or condo rather than a big building. 19 Marble Ave, Burlington."
+    },
+    {
+      "name": "Wheeler Property Management",
+      "what": "Old-school manager since 1986 — small apartment buildings, duplexes and houses across greater Burlington.",
+      "listings_url": null,
+      "contact_url": "mailto:contact@wheelerpropertymanagement.com",
+      "phone": "(802) 863-2136",
+      "tags": ["small-local"],
+      "notes": "No listings on their own site — everything current goes to Craigslist, so search Burlington Craigslist for “Wheeler” or just email."
+    },
+    {
+      "name": "Strong Will Property Management",
+      "what": "Small local manager of 100+ single-family and multifamily units across greater Burlington, based in South Burlington.",
+      "listings_url": "https://www.propertymanagementburlingtonvt.com/properties",
+      "contact_url": "mailto:swpm@strongwillvt.com",
+      "phone": "(802) 251-6500",
+      "tags": ["small-local"],
+      "notes": "Online rent payment and maintenance portal. 68 Randall St, South Burlington."
+    },
+    {
+      "name": "Nest VT",
+      "what": "South End-based leasing and management shop — houses and apartments around Chittenden County, generally mid-to-upper market.",
+      "listings_url": "https://nestvt.com/property-cards-module/",
+      "contact_url": "mailto:info@NestVT.com",
+      "phone": "(802) 391-4474",
+      "tags": ["small-local"],
+      "notes": "Recent listings ran roughly $2,500–$3,750/mo. Office hours weekdays 8–5."
+    },
+    {
+      "name": "JT's Real Estate Management",
+      "what": "Downtown Burlington apartments aimed at students and young professionals, 1–5 bedrooms, plus short-term and sublet options.",
+      "listings_url": "https://www.myburlingtonapartment.com/rentals",
+      "contact_url": "mailto:jtsmanagementvt@gmail.com",
+      "phone": "(802) 552-7368",
+      "tags": ["student", "downtown", "small-local"],
+      "notes": "The phone spells 802-552-RENT. Lists sublets too — useful if you need something mid-year."
+    },
+    {
+      "name": "BTV Apartments",
+      "what": "Small local landlord with downtown, Old North End and South End apartments (Pearl St, Loomis St, Decatur St), studio through 5-bed.",
+      "listings_url": "https://www.btvapartments.com/properties/",
+      "contact_url": "https://www.btvapartments.com/contact/",
+      "phone": "(802) 922-4218",
+      "tags": ["small-local", "downtown", "student"],
+      "notes": "Leases follow the June 1 cycle; they've offered 10-month leases for late-summer move-ins."
+    },
+    {
+      "name": "Burlington Vermont Apartments",
+      "what": "Small landlord with studio-to-7-bedroom apartments and houses near UVM, Champlain College and downtown.",
+      "listings_url": "https://burlingtonvermontapartments.com/properties/",
+      "contact_url": "mailto:yourpropertymanagervt@gmail.com",
+      "phone": null,
+      "tags": ["small-local", "student"],
+      "notes": "Email-only — no phone published. Inventory skews to student-cycle group houses."
+    },
+    {
+      "name": "Nedde Real Estate",
+      "what": "Mostly commercial, but owns two newer downtown residential buildings on Pine Street — 77 Residences and The Nest, 49 apartments each.",
+      "listings_url": "https://www.nedderealestate.com/listings/",
+      "contact_url": "https://www.nedderealestate.com/contact/",
+      "phone": "(802) 651-6888",
+      "tags": ["downtown", "small-local"],
+      "notes": "Their listings page mixes commercial and residential — look for the 77 Residences and The Nest entries."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Zillow Rentals",
+      "url": "https://www.zillow.com/burlington-vt/rentals/",
+      "good_for": "The biggest single pool of professionally listed Burlington rentals, with the best filters and map search.",
+      "gotcha": "Pushes Zillow's own $35 application flow that some landlords never look at; duplicate listings inflate the counts."
+    },
+    {
+      "name": "Apartments.com",
+      "url": "https://www.apartments.com/burlington-vt/",
+      "good_for": "Best for the larger managed buildings and complexes — verified listings, 3D tours, and a for-rent-by-owner section.",
+      "gotcha": "The headline count sweeps in surrounding towns and counts units, not buildings; small local landlords barely show up here."
+    },
+    {
+      "name": "Craigslist",
+      "url": "https://burlington.craigslist.org/search/apa",
+      "good_for": "Where small local landlords still post — often the cheapest units, and ones that never hit Zillow.",
+      "gotcha": "Now a statewide Vermont search, so filter by map. Classic scam territory: never wire money or pay a deposit before seeing the unit in person."
+    },
+    {
+      "name": "Facebook Marketplace",
+      "url": "https://www.facebook.com/marketplace/burlington/propertyrentals",
+      "good_for": "Fast-moving individual-landlord and sublet listings — good for catching units hours after they post.",
+      "gotcha": "Requires a Facebook login, and it has the highest scam density of any source here — fake landlords clone real listings, so verify ownership before sending anything."
+    },
+    {
+      "name": "FB Group: Burlington, Vermont Area Rentals",
+      "url": "https://www.facebook.com/groups/1586001198111922/",
+      "good_for": "The big public rentals group — landlords and tenants post directly, including apartments that never get listed anywhere else.",
+      "gotcha": "A firehose of sublets, ISO posts, and the occasional scam. Same rule: no money before an in-person showing."
+    },
+    {
+      "name": "FB Group: UVM Housing, Room, Rental & Sublet",
+      "url": "https://www.facebook.com/groups/vermont.uvm.housing.burlington.rentals/",
+      "good_for": "The student-market group — sublets, lease takeovers, and roommate openings near campus, busiest May through August.",
+      "gotcha": "Student-cycle timing: June 1 leases get signed six to nine months out, and many posts are rooms, not whole apartments."
+    },
+    {
+      "name": "Front Porch Forum",
+      "url": "https://frontporchforum.com/",
+      "good_for": "Neighbor-to-neighbor listings with real names attached — the highest-trust source in town, where quiet listings surface first.",
+      "gotcha": "You have to sign up for your neighborhood's forum and read the email digests — there's no browsing it from outside."
+    },
+    {
+      "name": "UVM Off-Campus Housing",
+      "url": "https://offcampushousing.uvm.edu/",
+      "good_for": "UVM's official off-campus listing database — vetted landlord listings for the student and staff market, plus roommate matching.",
+      "gotcha": "Full search requires a UVM email; everyone else only sees the publicly indexed listing pages."
+    },
+    {
+      "name": "Seven Days Classifieds",
+      "url": "https://classifieds.sevendaysvt.com/vermont/apartments-houses-for-rent/search",
+      "good_for": "The alt-weekly's classifieds — genuinely local, older-school landlords who don't use Zillow, plus sublet and housemate categories.",
+      "gotcha": "Thin inventory next to the national sites, statewide by default, and listings can sit stale."
+    },
+    {
+      "name": "PadMapper",
+      "url": "https://www.padmapper.com/apartments/burlington-vt",
+      "good_for": "Map-first aggregator — handy for visually scanning everything at once.",
+      "gotcha": "Almost pure aggregation, so listings lag and some are already rented; nothing here is exclusive."
+    }
+  ]
+}
