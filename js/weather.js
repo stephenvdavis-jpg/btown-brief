@@ -129,19 +129,34 @@
     document.body.appendChild(canvas);
     var ctx = canvas.getContext('2d');
 
-    var W, H, bands = [];
-    function resize() {
-      // Back the canvas at device resolution so 1px rain stays crisp
-      // instead of smearing into invisibility on a retina screen.
+    var W = 0, H = 0, bands = [];
+    var lastW = -1, lastH = -1, lastDpr = -1, resizeTimer = 0;
+
+    function applySize() {
       var dpr = Math.min(window.devicePixelRatio || 1, 2);
-      W = window.innerWidth;
-      H = window.innerHeight;
+      var w = window.innerWidth;
+      var h = window.innerHeight;
+      if (w === lastW && h === lastH && dpr === lastDpr) return;
+      lastW = w; lastH = h; lastDpr = dpr;
+
+      W = w; H = h;
+      // Back the canvas at device resolution so 1px rain stays crisp instead
+      // of smearing into invisibility on a retina screen. The element itself
+      // is sized by CSS (inset: 0), so it always fills the viewport even while
+      // a resize is still debounced — only the bitmap resolution lags.
       canvas.width = Math.round(W * dpr);
       canvas.height = Math.round(H * dpr);
-      canvas.style.width = W + 'px';
-      canvas.style.height = H + 'px';
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      seed();
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);   // assigning width/height resets it
+
+      // Reseed only when the viewport changed enough to want a materially
+      // different particle count. A phone's URL bar sliding in and out fires
+      // resize continuously mid-scroll; re-randomising the whole field on each
+      // of those would both cost allocations and visibly teleport the rain.
+      var want = targetCount();
+      var have = 0;
+      for (var b = 0; b < bands.length; b++) have += bands[b].list.length;
+      if (!bands.length || Math.abs(want - have) > want * 0.2) seed();
+
       if (reduced) draw(false);   // static layer still needs a repaint on resize
     }
 
@@ -149,12 +164,16 @@
       return document.documentElement.getAttribute('data-theme') === 'dark';
     }
 
+    function targetCount() {
+      var per = kind === 'rain' ? 4200 : 5200;
+      return Math.min(750, Math.round((W * H) / per * intensity));
+    }
+
     function seed() {
       bands = [];
       if (kind === 'sun') return;
       var specs = kind === 'rain' ? RAIN_BANDS : SNOW_BANDS;
-      var per = kind === 'rain' ? 4200 : 5200;
-      var total = Math.min(750, Math.round((W * H) / per * intensity));
+      var total = targetCount();
 
       for (var b = 0; b < specs.length; b++) {
         var spec = specs[b];
@@ -176,10 +195,13 @@
       }
     }
 
-    var t = 0, running = true;
+    var t = 0, running = true, rafId = 0, lastTs = 0;
 
-    // Paint one frame. `step` false = repaint without advancing (reduced motion).
-    function draw(step) {
+    // Paint one frame. `step` false = repaint without advancing (reduced
+    // motion). `dt` is elapsed time in 60fps-frames, so a 120Hz ProMotion
+    // phone doesn't run the rain at double speed.
+    function draw(step, dt) {
+      var k = dt || 1;
       ctx.clearRect(0, 0, W, H);
       var dark = isDark();
 
@@ -213,8 +235,8 @@
             ctx.moveTo(p.x, p.y);
             ctx.lineTo(p.x - spec.drift * 2.2, p.y + p.len);
             if (step === false) continue;
-            p.y += p.speed;
-            p.x -= spec.drift;
+            p.y += p.speed * k;
+            p.x -= spec.drift * k;
             if (p.y > H) { p.y = -p.len; p.x = Math.random() * (W + 80); }
           }
           ctx.stroke();
@@ -227,7 +249,7 @@
             ctx.moveTo(sx + s.r, s.y);
             ctx.arc(sx, s.y, s.r, 0, Math.PI * 2);
             if (step === false) continue;
-            s.y += s.speed;
+            s.y += s.speed * k;
             if (s.y > H + 6) { s.y = -6; s.x = Math.random() * W; }
           }
           ctx.fill();
@@ -235,24 +257,46 @@
       }
     }
 
-    function frame() {
+    function frame(ts) {
+      rafId = 0;
       if (!running) return;
-      t += 0.016;
-      draw(true);
-      requestAnimationFrame(frame);
+      // Clamp so a long pause (background tab, sleeping laptop) doesn't
+      // teleport every particle down the screen on the first frame back.
+      var dt = lastTs ? Math.min((ts - lastTs) / 16.667, 3) : 1;
+      lastTs = ts;
+      t += 0.016 * dt;
+      draw(true, dt);
+      rafId = requestAnimationFrame(frame);
+    }
+
+    // start()/stop() are guarded by rafId so we can never end up with two
+    // concurrent loops (which would run the weather at double speed).
+    function start() {
+      if (rafId || reduced || !running) return;
+      lastTs = 0;
+      rafId = requestAnimationFrame(frame);
+    }
+    function stop() {
+      if (rafId) { cancelAnimationFrame(rafId); rafId = 0; }
     }
 
     document.addEventListener('visibilitychange', function () {
-      var wasRunning = running;
-      running = !document.hidden;
-      if (running && !wasRunning && !reduced) requestAnimationFrame(frame);
+      // Cancel the pending frame rather than just flagging it: a queued rAF
+      // survives the tab being hidden and would otherwise fire on return
+      // alongside the one we schedule here.
+      if (document.hidden) { running = false; stop(); }
+      else { running = true; start(); }
     });
-    window.addEventListener('resize', resize);
 
-    // Reduced motion still gets the weather — resize() paints one still
+    window.addEventListener('resize', function () {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(applySize, 120);
+    });
+
+    // Reduced motion still gets the weather — applySize() paints one still
     // frame and we never start the loop.
-    resize();
-    if (!reduced) requestAnimationFrame(frame);
+    applySize();
+    start();
   }
 
   // Preview hook: append ?wx=sun|rain|lightrain|snow|storm to the URL
