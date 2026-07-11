@@ -17,17 +17,24 @@ one-time Supabase setup, then merge when you're happy.
 
 ## Part A — Telegram launch page (`telegram.html`)
 
-Everything the brief asked for: what the group is, five example posts styled as
-chat bubbles, download-Telegram-first steps (App Store / Google Play / Desktop),
-exact mute instructions, how Topics and replies work, four house rules, two join
-buttons (`https://t.me/+pULrkkS4vjBiZjEx`), and an email fallback with the live
-beehiiv embed (`embeds.beehiiv.com/d130f553…`, verified reachable) plus a plain
-btownbrief.com link under it. Standard support strip auto-injects via
-`community.js`. Join clicks are tracked as `telegram-join` in `btb_events`.
+Deliberately plain (Stephen's call — the first build was too cluttered): a
+hero, two chat cards side by side, four housekeeping lines, and the
+newsletter fallback. Nothing else.
 
-**To launch:** start using `https://…/telegram.html` as the link you share in
-the newsletter, on Meetup, etc. The raw invite still works for people who have
-Telegram.
+- **General Chat** (`https://t.me/+Z-R5GRtZWuo2NjQx`) — everyday life in
+  Burlington: random thoughts, cool links, funny pics. Says out loud that
+  your phone will blow up, and to mute it and tune in when you want.
+- **Btown Brief Chat** (`https://t.me/+pULrkkS4vjBiZjEx`) — what's happening
+  around town; the quieter one.
+- Housekeeping lines: no-Telegram-yet (iPhone / Android / Desktop links),
+  how to mute, three-word house rules, one Meetup group link.
+- Email fallback: a button to `https://www.btownbrief.com/subscribe`. The
+  beehiiv iframe embed does NOT work for this publication (renders their
+  "Not found" page) and `?email=` doesn't prefill — don't retry it.
+- Join clicks track as `telegram-join-general` / `telegram-join-brief` in
+  `btb_events`, so you can see which chat people actually pick.
+
+**To launch:** share the telegram.html URL instead of a raw t.me invite.
 
 ## Part B — Community photo system
 
