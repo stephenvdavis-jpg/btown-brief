@@ -1,0 +1,40 @@
+name: Refresh jobs data
+
+# Keeps data/jobs.json fresh for the "Added This Week" jobs page.
+# Runs Mon/Wed/Fri early morning ET — often enough that "posted
+# yesterday" stays meaningful, cheap enough to never think about.
+# Same contract as the other refresh workflows: failed sources keep
+# their last good postings, and nothing broken is ever committed.
+
+on:
+  schedule:
+    - cron: '25 10 * * 1,3,5'   # 6:25 AM EDT Mon/Wed/Fri (offset from other refreshes)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-jobs
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh jobs data
+        run: python3 scripts/refresh_jobs.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "btown-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/jobs.json
+          if git diff --cached --quiet; then
+            echo "No job changes."
+          else
+            git commit -m "Auto-refresh jobs data"
+            git push || (git pull --rebase && git push)
+          fi

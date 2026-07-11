@@ -1,0 +1,68 @@
+name: Community photos housekeeping
+
+# Every 3 hours:
+#  1. If reader photos are waiting for review, open a GitHub issue
+#     (GitHub emails the repo owner — that's the notification) and
+#     close it again once the queue is clear. Same pattern as the
+#     caption-this game.
+#  2. Refresh data/photos/manifest.json (the static fallback + the
+#     newsletter's photo-of-the-week source) and commit it if changed.
+
+on:
+  schedule:
+    - cron: '40 */3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+env:
+  SUPABASE_URL: https://jnouvwxomrcffqwilqkq.supabase.co
+  SUPABASE_ANON_KEY: sb_publishable_RkMJQopffWlV6DSwCRkndQ_Xw6GJMf3
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Notify when photos await review
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          COUNT=$(curl -fsS -X POST "$SUPABASE_URL/rest/v1/rpc/btb_photos_pending_count" \
+            -H "apikey: $SUPABASE_ANON_KEY" -H "Content-Type: application/json" -d '{}')
+          echo "Pending photos: $COUNT"
+          gh label create photo-queue --color FBCA04 \
+            --description "Community photos waiting for review" 2>/dev/null || true
+          ISSUE=$(gh issue list --label photo-queue --state open \
+            --json number --jq '.[0].number // empty')
+          if [ "$COUNT" -gt 0 ] && [ -z "$ISSUE" ]; then
+            BODY=$(printf '%s\n\n%s\n\n%s' \
+              "Community photo(s) are waiting in the review queue." \
+              "**Review them here → https://play.btownbrief.com/btown-brief/photo-admin.html**" \
+              "This issue closes itself automatically once the queue is clear.")
+            gh issue create --label photo-queue \
+              --title "📸 $COUNT community photo(s) waiting for review" \
+              --body "$BODY"
+          elif [ "$COUNT" -eq 0 ] && [ -n "$ISSUE" ]; then
+            gh issue close "$ISSUE" --comment "Queue is clear 🎉"
+          else
+            echo "Nothing to do."
+          fi
+
+      - name: Refresh photos manifest
+        run: |
+          python3 scripts/export_photos.py || echo "export failed — keeping last good manifest"
+          if git diff --quiet data/photos/manifest.json; then
+            echo "Manifest unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/photos/manifest.json
+          git commit -m "Refresh community photos manifest"
+          git push
