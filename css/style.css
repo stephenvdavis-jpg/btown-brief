@@ -4028,3 +4028,34 @@ a.events-all-link:focus-visible { background: var(--bg-subtle); outline: none; }
   .events-all-note { grid-column: 1; }
   .events-all-go { display: none; }
 }
+
+/* The Upcoming nudge.
+   A curated list nobody clicks is a curated list nobody reads. So the button
+   pulses — but only until it's been opened ONCE, ever (app.js remembers). An
+   animation that never stops isn't an invitation, it's a car alarm. */
+
+@keyframes btbUpcomingPulse {
+  0%   { box-shadow: 0 0 0 0 color-mix(in srgb, var(--teal) 55%, transparent); }
+  70%  { box-shadow: 0 0 0 9px color-mix(in srgb, var(--teal) 0%, transparent); }
+  100% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--teal) 0%, transparent); }
+}
+@keyframes btbChevBob {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(2px); }
+}
+
+/* 4 pulses, then it stops and behaves. */
+.events-label-btn[data-nudge="true"] {
+  animation: btbUpcomingPulse 2.2s ease-out 4;
+}
+.events-label-btn[data-nudge="true"] .events-label-chev {
+  animation: btbChevBob 1.1s ease-in-out 8;
+}
+/* Hovering IS discovery — stop shouting the moment they find it. */
+.events-label-btn:hover { animation: none; }
+.events-label-btn:hover .events-label-chev { animation: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  .events-label-btn[data-nudge="true"],
+  .events-label-btn[data-nudge="true"] .events-label-chev { animation: none; }
+}

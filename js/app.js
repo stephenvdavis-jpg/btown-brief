@@ -322,12 +322,24 @@
     });
     panel.innerHTML = html;
 
+    /* Nudge it, once. A good curated list that nobody clicks is a good curated
+       list that nobody reads — so the button pulses to say "I open". But only
+       until it's been opened once, ever: an animation that never stops isn't an
+       invitation, it's a car alarm. */
+    const OPENED_KEY = 'btown-upcoming-opened';
+    let opened = false;
+    try { opened = localStorage.getItem(OPENED_KEY) === '1'; } catch (e) {}
+    if (!opened) toggle.setAttribute('data-nudge', 'true');
+
     if (!toggle._wired) {
       toggle._wired = true;
       toggle.addEventListener('click', () => {
         const open = toggle.getAttribute('aria-expanded') === 'true';
         toggle.setAttribute('aria-expanded', String(!open));
         panel.hidden = open;
+        toggle.removeAttribute('data-nudge');       // they found it; stop asking
+        try { localStorage.setItem(OPENED_KEY, '1'); } catch (e) {}
+        if (!open) panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
       });
     }
   }
