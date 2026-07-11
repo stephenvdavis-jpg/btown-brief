@@ -1271,6 +1271,13 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71902211",
+      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw open calls for his killing",
+      "link": "https://www.mynbc5.com/article/trump-threatens-iran-ayatollah-ali-khameneis-funeral/71902211",
+      "ts": "2026-07-11T03:50:00+00:00",
+      "summary": "U.S. President Donald Trump has threatened Iran after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for his killing."
+     },
+     {
       "id": "71901619",
       "title": "Vermonters on 'American Ninja Warrior' use their skills to inspire future generations",
       "link": "https://www.mynbc5.com/article/local-athletes-skills-big-screen-vermont-ninja-warrior-training-center/71901619",
@@ -1362,18 +1369,18 @@
       "summary": "Turning hotter early next week"
      },
      {
-      "id": "71901020",
-      "title": "Rabid beaver confirmed near Turtle Island after July 4 attack, swimming advisory extended",
-      "link": "https://www.mynbc5.com/article/rabid-beaver-confirmed-near-turtle-island-after-july-4-attack/71901020",
-      "ts": "2026-07-10T22:09:00+00:00",
-      "summary": "A beaver found dead near Turtle Island on Lake George has tested positive for rabies, prompting New York officials to extend a swimming advisory through at least July 14."
-     },
-     {
       "id": "71900520",
       "title": "Vermont tourism officials optimistic as Canadian visits increase",
       "link": "https://www.mynbc5.com/article/canadian-visitors-return/71900520",
       "ts": "2026-07-10T22:09:00+00:00",
       "summary": "From cruising across Lake Champlain, to taking in Vermont's scenery, summer tourism is picking up across the state."
+     },
+     {
+      "id": "71901020",
+      "title": "Rabid beaver confirmed near Turtle Island after July 4 attack, swimming advisory extended",
+      "link": "https://www.mynbc5.com/article/rabid-beaver-confirmed-near-turtle-island-after-july-4-attack/71901020",
+      "ts": "2026-07-10T22:09:00+00:00",
+      "summary": "A beaver found dead near Turtle Island on Lake George has tested positive for rabies, prompting New York officials to extend a swimming advisory through at least July 14."
      },
      {
       "id": "71900108",
@@ -1402,13 +1409,6 @@
       "link": "https://www.mynbc5.com/article/housing-affordability-data/71899100",
       "ts": "2026-07-10T21:17:00+00:00",
       "summary": "​See how housing prices, inventory and more have changed over the past few decades."
-     },
-     {
-      "id": "71900603",
-      "title": "Kia renews recall of more than 400,000 SUVs over fire risk, urges owners to park outside",
-      "link": "https://www.mynbc5.com/article/kia-telluride-suv-recall-fire-risk-park-outside/71900603",
-      "ts": "2026-07-10T21:15:00+00:00",
-      "summary": "Nearly 463,000 Kia Tellurides are under a new recall after seat motor issues sparked reports of fires under the passenger seat."
      }
     ]
    },
@@ -1462,6 +1462,14 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1ut7721",
+    "title": "Weird AL Tickets Champion Valley Expo",
+    "url": "https://www.reddit.com/r/burlington/comments/1ut7721/weird_al_tickets_champion_valley_expo/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-11T05:00:41+00:00"
+   },
    {
     "id": "1ut71jw",
     "title": "PSA: 0% of credit card tips at Mirabelle’s go to FOH employees",
@@ -1610,14 +1618,6 @@
     "id": "1us7taj",
     "title": "lost chicken!",
     "url": "https://www.reddit.com/r/burlington/comments/1us7taj/lost_chicken/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-10T14:00:07+00:00"
-   },
-   {
-    "id": "1us6sgo",
-    "title": "A young Spanish speaking mom I’m friends with is looking for a restaurant job around downtown. Anyone got any leads?",
-    "url": "https://www.reddit.com/r/burlington/comments/1us6sgo/a_young_spanish_speaking_mom_im_friends_with_is/",
     "score": null,
     "comments": null,
     "created": "2026-07-10T14:00:07+00:00"

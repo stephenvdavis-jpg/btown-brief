@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T03:49:10+00:00",
+ "generated": "2026-07-11T06:31:30+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -515,6 +515,17 @@
    "url": "https://www.facebook.com/events/1537663528003514/",
    "source": "events-local",
    "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T05:00:41+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Weird AL Tickets Champion Valley Expo",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1ut7721/weird_al_tickets_champion_valley_expo/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
    "priority": 1,
    "kind": "added"
   }
