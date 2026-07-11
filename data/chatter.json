@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T11:33:52+00:00",
+  "updated": "2026-07-11T15:33:23+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -31,30 +31,6 @@
           "url": "https://www.reddit.com/r/burlington/comments/1ut55y0/a_few_photos_from_the_university_of_vermont_campus/",
           "sub": "r/burlington",
           "when": "2026-07-11T02:01:10+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "2026-punk-friday",
-      "label": "Bolton Valley does free live music wed and Fri.",
-      "direction": "hot",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-11T02:54:50+00:00",
-      "sources": [
-        {
-          "title": "PSA: Bolton Valley does free live music wed and Fri.",
-          "url": "https://www.reddit.com/r/vermont/comments/1ut3fun/psa_bolton_valley_does_free_live_music_wed_and_fri/",
-          "sub": "r/vermont",
-          "when": "2026-07-11T02:54:50+00:00",
-          "comments": null
-        },
-        {
-          "title": "July Live Music @ the Odd Fellows Lodge!",
-          "url": "https://www.reddit.com/r/burlington/comments/1ursigc/july_live_music_the_odd_fellows_lodge/",
-          "sub": "r/burlington",
-          "when": "2026-07-10T14:00:07+00:00",
           "comments": null
         }
       ]
@@ -108,6 +84,30 @@
       ]
     },
     {
+      "id": "2026-punk-friday",
+      "label": "Bolton Valley does free live music wed and Fri.",
+      "direction": "rising",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-11T02:54:50+00:00",
+      "sources": [
+        {
+          "title": "PSA: Bolton Valley does free live music wed and Fri.",
+          "url": "https://www.reddit.com/r/vermont/comments/1ut3fun/psa_bolton_valley_does_free_live_music_wed_and_fri/",
+          "sub": "r/vermont",
+          "when": "2026-07-11T02:54:50+00:00",
+          "comments": null
+        },
+        {
+          "title": "July Live Music @ the Odd Fellows Lodge!",
+          "url": "https://www.reddit.com/r/burlington/comments/1ursigc/july_live_music_the_odd_fellows_lodge/",
+          "sub": "r/burlington",
+          "when": "2026-07-10T14:00:07+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "tips-baristas-card",
       "label": "0% of credit card tips at Mirabelle’s go to FOH employees",
       "direction": "rising",
@@ -125,35 +125,18 @@
       ]
     },
     {
-      "id": "189-take-way",
-      "label": "189 shenanigans",
+      "id": "cost-living-component",
+      "label": "A response to VT Futures Project: Adding life expectancy and…",
       "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-10T14:00:07+00:00",
+      "last_activity": "2026-07-11T14:55:49+00:00",
       "sources": [
         {
-          "title": "189 shenanigans",
-          "url": "https://www.reddit.com/r/burlington/comments/1ur6qkr/189_shenanigans/",
-          "sub": "r/burlington",
-          "when": "2026-07-10T14:00:07+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "comments-downtown-friends",
-      "label": "A young Spanish speaking mom I’m friends with is looking for a…",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-10T14:00:07+00:00",
-      "sources": [
-        {
-          "title": "A young Spanish speaking mom I’m friends with is looking for a restaurant job around downtown. Anyone got any leads?",
-          "url": "https://www.reddit.com/r/burlington/comments/1us6sgo/a_young_spanish_speaking_mom_im_friends_with_is/",
-          "sub": "r/burlington",
-          "when": "2026-07-10T14:00:07+00:00",
+          "title": "A response to VT Futures Project: Adding life expectancy and historical context to their analysis changes the story | #SaturdayFacts",
+          "url": "https://www.reddit.com/r/vermont/comments/1utj96x/a_response_to_vt_futures_project_adding_life/",
+          "sub": "r/vermont",
+          "when": "2026-07-11T14:55:49+00:00",
           "comments": null
         }
       ]
@@ -174,6 +157,23 @@
           "comments": null
         }
       ]
+    },
+    {
+      "id": "back-campaign-candidates",
+      "label": "Are Political Candidates Allowed to Freely Enter Private…",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-11T02:54:50+00:00",
+      "sources": [
+        {
+          "title": "Are Political Candidates Allowed to Freely Enter Private Property?",
+          "url": "https://www.reddit.com/r/vermont/comments/1usxuti/are_political_candidates_allowed_to_freely_enter/",
+          "sub": "r/vermont",
+          "when": "2026-07-11T02:54:50+00:00",
+          "comments": null
+        }
+      ]
     }
   ],
   "highlights": [
@@ -191,11 +191,11 @@
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
-      "title": "Vermont is the first state to ban paraquat over Parkinsons concerns! This is big news.",
-      "url": "https://www.reddit.com/r/vermont/comments/1ut7mc9/vermont_is_the_first_state_to_ban_paraquat_over/",
+      "title": "A response to VT Futures Project: Adding life expectancy and historical context to their analysis changes the story | #SaturdayFacts",
+      "url": "https://www.reddit.com/r/vermont/comments/1utj96x/a_response_to_vt_futures_project_adding_life/",
       "sub": "r/vermont",
-      "when": "2026-07-11T02:54:50+00:00",
-      "blurb": "Governor Phil Scott signed the bill last month, making Vermont the first state in the country to ban paraquat. The driver is the growing…",
+      "when": "2026-07-11T14:55:49+00:00",
+      "blurb": "/u/VT_Futures_Project 's most recent post shows that \"net domestic migration was -726 and it ranked 41st for overall cost of living.\" They…",
       "comments": null,
       "unverified": false
     },
@@ -239,10 +239,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 63,
+    "posts_scanned": 71,
     "per_source": {
-      "r/burlington": 40,
-      "r/vermont": 23
+      "r/burlington": 42,
+      "r/vermont": 29
     }
   }
 }
