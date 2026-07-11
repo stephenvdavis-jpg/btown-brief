@@ -39,7 +39,8 @@ ROUGH_TERMS = {"theft", "stolen", "steal", "break-in", "breakin", "robbery", "as
                "evicted", "eviction", "drunk driver", "road rage", "screaming"}
 ACCUSE = {"scam", "scammed", "stole", "steals", "assault", "harass", "avoid", "warning", "beware",
           "slumlord", "creep", "predator", "abuser", "racist", "thief"}
-DEROGATORY = {"moron", "idiot", "scumbag", "trashbag"}
+DEROGATORY = {"moron", "idiot", "scumbag", "trashbag", "worst", "terrible", "awful", "fraud",
+              "liar", "shady", "disgusting", "pathetic", "loser", "jerk"}
 PUBLIC_NAMES = {"Emma Mulvaney-Stanak", "Miro Weinberger", "Phil Scott", "Becca Balint", "Peter Welch",
                 "Bernie Sanders", "Kunin"}
 # Capitalized words that start name-shaped pairs without naming anyone —
@@ -282,7 +283,11 @@ def safety_flag(post):
     for nuance; it can never remove one."""
     original = post["title"] + " " + post["body"]
     names = name_candidates(original)
-    if names and term_hit(original, ACCUSE | DEROGATORY):
+    # A named person in an accusing, hostile, crime/complaint, or person-seeking
+    # context never goes public — that's the defamation/privacy risk. (ROUGH_TERMS
+    # covers theft/police/eviction/harassment/etc.) Positive or neutral mentions
+    # and whitelisted public figures stay on the page.
+    if names and term_hit(original, ACCUSE | DEROGATORY | ROUGH_TERMS):
         return True
     if names and SEEKING.search(original):
         return True
@@ -651,8 +656,13 @@ def selftest():
     assert direction(5, 2) == "rising" and direction(1, 2) == "fading" and direction(2, 2) == "steady"
     assert safety_flag(post("ddd", "Beware John Doe", "He scammed us"))
     assert safety_flag(post("dd2", "Local moron John Doe", ""))
+    assert safety_flag(post("dd3", "Landlord Bob Jones is the worst", ""))
+    assert safety_flag(post("dd4", "Saw police arrest Mike Smith downtown", ""))
+    assert safety_flag(post("dd5", "Has anyone seen Jane Doe?", ""))
     assert not safety_flag(post("eee", "Phil Scott gives warning", "Public event"))
     assert not safety_flag(post("fff", "Scam near Main Street", "Watch out"))
+    assert not safety_flag(post("ee2", "Thanks to Sarah Chen for the plant sale", ""))
+    assert not safety_flag(post("ff2", "Police presence on Church Street today", ""))
     with tempfile.TemporaryDirectory() as directory:
         path = os.path.join(directory, "tips.md")
         item = post("ggg", "A lead")

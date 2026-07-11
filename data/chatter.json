@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T02:24:02+00:00",
+  "updated": "2026-07-11T02:51:57+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -167,22 +167,8 @@
   ],
   "rough": [
     {
-      "title": "Crazy old man",
-      "url": "https://www.reddit.com/r/burlington/comments/1usocls/crazy_old_man/",
-      "sub": "r/burlington",
-      "when": "2026-07-10T14:00:07+00:00",
-      "comments": null
-    },
-    {
       "title": "Dunkin",
       "url": "https://www.reddit.com/r/burlington/comments/1usmda8/dunkin/",
-      "sub": "r/burlington",
-      "when": "2026-07-10T14:00:07+00:00",
-      "comments": null
-    },
-    {
-      "title": "Cheap E-Bikes to Get Up That Damn Hill",
-      "url": "https://www.reddit.com/r/burlington/comments/1urv0q4/cheap_ebikes_to_get_up_that_damn_hill/",
       "sub": "r/burlington",
       "when": "2026-07-10T14:00:07+00:00",
       "comments": null

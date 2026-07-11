@@ -128,40 +128,61 @@ Claude Fable 5** (commits `717621b`→`b5682fd`) and **finished by Claude Opus 4
 ~4pm; Stephen may have Fable review the Opus-era commits then. `git log` records which
 model authored each commit.
 
-## Handoff — what's left (any session can pick this up)
+## Decisions on the open questions (resolved by Opus 4.8, best judgment)
 
-1. Stephen reviews the page locally: `cd ~/Desktop/btown-brief-worktrees/chatter &&
-   python3 -m http.server 8000` → http://localhost:8000/chatter.html (a server may
-   already be running). Nothing is pushed/deployed — the branch is local-only.
-2. If happy: push `feat/chatter`, open a PR, merge — the workflow starts running on
-   GitHub (optionally set the `ANTHROPIC_API_KEY` repo secret first for better labels).
-3. Fix the Inoreader **r/Vermont** rule — that tag stream stopped updating 2026-07-04
-   (r/burlington is current), so r/vermont contributes nothing until it's fixed.
-4. Optional polish captured but not done: glance at the page on a real phone;
-   consider Opus/another pass on highlight-slot copy once the LLM refinement runs.
+1. **Name policy → tightened, resolved.** A named person now stays off the public page
+   whenever the post reads as accusing, hostile, crime/complaint (theft, police, eviction,
+   harassment, …), or person-seeking ("has anyone seen Jane Doe"), OR includes a
+   phone/address. Those become private tips. Positive/neutral mentions ("thanks to Sarah
+   Chen for the plant sale") and whitelisted public figures stay public — flagging *all*
+   names gutted the page because Burlington business names (Taco Gordo, Original Skiff)
+   look like person names. On live data this moved 2 more named crime/complaint posts to
+   the tip line (rough 3→1, tips 4→6) while the page stayed healthy (8 topics, 2
+   highlights). Regression cases are in the selftest. The optional LLM pass can only *add*
+   flags, never remove them.
+2. **Foodies FB group → deliberately omitted, resolved.** No Burlington-VT foodies
+   *group* is confirmable (the indexed "Burlington Foodies" is Burlington, MA; VT food
+   communities that exist — Eat Vermont, Foodies of Vermont — are Pages, not chatter
+   groups). The 6 verified neighborhood/housing/pets/Buy-Nothing groups + 2 Craigslist
+   sections already cover every category the brief named except food, and restaurant
+   chatter surfaces through the Reddit topics/recommendation slot anyway. Linking a shaky
+   Page would undercut the "verified only" bar, so the food slot stays out. Revisit if a
+   real BTV foodies *group* turns up.
+3. **Wednesday City Pulse tie-in → deferred to the newsletter repo, resolved.** Good idea,
+   but it's a change to `~/Desktop/newsletter` (a different repo + workflow), not this
+   page. Left as a recommendation for the next newsletter session: have the weekly roundup
+   start from this page + `data/tips-inbox.md` instead of re-reading Reddit cold.
+4. **First-day arrows → working as intended.** Directions differentiate only after ~24h of
+   snapshots (≈4 Action runs); until then topics read "rising"/"steady". Expected, no fix.
 
-## Open questions
+## For Stephen (only you can do these)
 
-1. **Name policy strictness.** Current rule: a name-shaped string only suppresses a post
-   when paired with hostile terms, person-seeking phrasing ("has anyone seen Jane Doe"),
-   or a phone/address. Purely positive mentions ("Thanks to Jane Doe for helping") stay
-   public — flagging all names gutted half the page because Burlington business names
-   (Taco Gordo, Original Skiff) look like person names. Is that the line you want, or
-   should positive name mentions also be tips-only? (The LLM pass, once enabled, may add
-   flags for nuance but can never unflag.)
-2. **r/Vermont Inoreader rule is broken since July 4** — re-checked 2026-07-10, still
-   stale (newest item Jul 4); r/vermont contributes 0 posts until you fix the Inoreader
-   rule. The pipeline already handles its return automatically — no code change needed.
-3. **Wednesday City Pulse workflow tie-in**: should the newsletter's weekly roundup start
-   from `data/tips-inbox.md` + the live page (a "review the Pulse week" checklist in the
-   newsletter repo), instead of re-reading reddit from scratch?
-4. **No confirmable Burlington VT foodies Facebook group exists** (the indexed one is
-   Burlington, MA) — the food slot was omitted rather than guessed. Want a different
-   food community linked there?
-5. **First-day arrows**: directions differentiate only after ~24h of snapshots (4 runs);
-   until then most topics read "rising"/"steady". Expected, not a bug.
-6. **Pre-existing repo quirk noticed** (untouched): css/style.css line ~3112 has a
-   malformed section-banner comment ("BURLINGTON RIGHT NOW" banner missing its opening
-   `/*`), and index's reddit.json/"From the community" has been empty since Reddit
-   started blocking GitHub runners — the Inoreader approach used here could fix that
-   section too if you want.
+1. **Fix the Inoreader r/Vermont rule.** Re-checked 2026-07-10: still stale (newest item
+   Jul 4), so r/vermont contributes 0 posts. r/burlington alone is carrying the page fine;
+   the pipeline picks r/vermont back up automatically once the Inoreader stream refreshes.
+2. **Front Porch Forum digests** — see "How to feed FPF" below; that's the one input the
+   page/tip-line still needs from you regularly.
+3. *(optional)* Set the `ANTHROPIC_API_KEY` repo secret to turn on the label/slot polish
+   pass; without it the deterministic heuristics run alone (already good).
+
+## How to feed FPF (the private tip line)
+
+FPF never appears publicly — it only becomes private newsletter leads in
+`data/tips-inbox.md`. Two ways in, both local-only:
+- **Digest emails** → save the FPF email into `data/fpf-digests/` (as `.eml`, `.txt`, or
+  `.html`), then run `python3 scripts/ingest_fpf.py`. It appends deduped leads and never
+  re-processes the same file.
+- **Browser-session reads** → your newsletter workflow's logged-in FPF reads can drop
+  notes into `data/fpf-dropbox/` (`.md`/`.txt`); same script picks them up.
+The easiest sustainable path, since Claude has Gmail access, is to let a session pull the
+latest FPF digests straight from your Gmail into the tip inbox on demand — just ask
+("pull my FPF"). Nothing is auto-read without you asking.
+
+## Not touched (pre-existing, flagged for awareness — not part of this branch)
+
+- `css/style.css` ~line 3112: the "BURLINGTON RIGHT NOW" section-banner comment looks
+  malformed (missing its opening `/*`). It's on `main` already and the pages render fine,
+  so it's cosmetic; left alone to avoid an unrelated change.
+- index's `reddit.json` / "From the community" block has been empty since Reddit began
+  blocking GitHub runners. The Inoreader approach this page uses could revive that section
+  too — a separate small enhancement if you want it later.
