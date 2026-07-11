@@ -202,21 +202,22 @@ Open `data/sponsors.json` (starts empty) and add:
 
 `placement` is `"footer"` (block above the site footer) or `"list"` (a labeled card inserted every 12 entries in the list). Set `"active": false` to pause a sponsor without deleting it. When no sponsors are active, the slots disappear entirely.
 
-### Adding a community photo (photos.json)
+### Community photos (photos.html + photo-admin.html)
 
-1. Save the submitted photo into `assets/img/community/` (create the folder the first time).
-2. Add an object to `data/photos.json`:
+Readers submit at `photos.html` (or by email / Telegram); everything lands in
+a moderation queue you work from `photo-admin.html` on your phone. Backend is
+the shared Supabase project — one-time setup in `db/PHOTOS-SETUP.md`. Other
+pages and the newsletter read approved photos through `js/photos-lib.js` or
+`data/photos/manifest.json` (`python3 scripts/export_photos.py`). Full build
+notes: `SUMMARY-photos-telegram.md`.
 
-```json
-{
-  "image": "assets/img/community/june-sunset.jpg",
-  "credit": "Photographer Name",
-  "caption": "Sunset from the breakwater",
-  "date": "2026-06-28"
-}
-```
+The old manual flow (`data/photos.json` + Google Form) is superseded.
 
-Newest `date` shows first. Photos come in through the "Submit a photo" Google Form linked on the site.
+### The Telegram launch page (telegram.html)
+
+Share `telegram.html` instead of the raw t.me invite link — it warms up
+people who don't have Telegram (download steps, mute instructions, house
+rules) and offers the newsletter as the email fallback.
 
 ### Adding an FAQ (faq.json)
 
@@ -379,3 +380,60 @@ File an issue at the Burlington Brief or reach out to the site editor. To add yo
 Hours format in `restaurants.json`: `hours.mon = [["11:30","22:00"]]`; a close time
 earlier than its open means past midnight (`[["22:00","02:00"]]`). `kitchen_close`
 is keyed by the day the evening starts.
+
+---
+
+## Housing & Jobs pages (feat/housing-jobs)
+
+- **housing.html** — the property-manager directory (`data/housing.json` →
+  `managers`), the "everywhere else to look" links layer (`sources`), and a
+  monthly rent snapshot (`rent`). All client-side in `js/housing.js`.
+  The ZORI tile (`"key": "zori"`) auto-refreshes monthly via
+  `scripts/refresh_rent.py` (Zillow research CSV, keyless, keep the Zillow
+  attribution in `source`); the two HUD FMR tiles change yearly and stay
+  hand-updated from huduser.gov. Live listing counts are deliberately absent
+  — every listings site's terms prohibit automated access.
+- **scripts/refresh_rent.py** — pulls the Burlington metro ZORI number and
+  updates the one tile; runs monthly (20th) via
+  `.github/workflows/refresh-rent.yml`, keep-last-good.
+- **jobs.html** — "Added This Week": newest Burlington-area postings from
+  `data/jobs.json`, rendered by `js/jobs.js` (postings older than 14 days
+  auto-hide client-side; filter chips hide themselves when no posting
+  carries their tag).
+- **scripts/refresh_jobs.py** — fetches the five link-friendly sources
+  (Seven Days RSS, UVM Atom, City of Burlington NEOGOV, State of Vermont,
+  UVM Med Center JSON-LD) and writes `data/jobs.json`; runs Mon/Wed/Fri via
+  `.github/workflows/refresh-jobs.yml` with the standard keep-last-good
+  contract. Craigslist and Indeed are link-only by their terms — never
+  scraped.
+
+---
+
+## Burlington Pulse (feat/chatter)
+
+**chatter.html** — "What Burlington Is Talking About": the neighborhood-chatter page
+(the community talking, distinct from the newsletter's journalism). Client logic is in
+`js/chatter.js`, styled in `css/style.css`, rendering `data/chatter.json`.
+
+- **Sections**: "Today" trending topics with direction arrows (🔥 hot · ↗ rising ·
+  ↘ fading) that expand to their source threads; positive-first highlight slots
+  (useful question, funniest, most debated, someone needs help, keep recommending, and
+  an always-labeled **Unverified** rumor); Facebook-group + Craigslist link-out cards
+  (nothing scraped from either); and a "rougher stuff" `<details>` collapsed by default.
+- **Data**: `scripts/refresh_chatter.py` writes `data/chatter.json` + `data/chatter-seen.json`
+  (a small, public-safe activity history that drives the arrows) a few times a day via
+  `.github/workflows/refresh-chatter.yml`. Primary source is Stephen's public Inoreader
+  streams for r/burlington + r/vermont (direct Reddit JSON 403s from GitHub + most IPs);
+  it re-enriches with Reddit scores/comments whenever Reddit is reachable. All logic is
+  keyless and stdlib-only; any fetch failure keeps the last good file. Set the
+  `ANTHROPIC_API_KEY` repo secret to enable an optional label/slot polish pass (same
+  pattern as the weather reads) — without it the deterministic heuristics run alone.
+- **Private tip line (never published)**: crime/controversy/newsworthy items and anything
+  naming a private individual are routed to `data/tips-inbox.md` as newsletter leads, and
+  Front Porch Forum material is ingested by `scripts/ingest_fpf.py` from
+  `data/fpf-digests/` (digest emails) and `data/fpf-dropbox/` (session-read notes) into
+  that same file. These paths are **gitignored** — the repo is public and FPF never
+  appears on any public page. A workflow tripwire fails the build if they ever get tracked.
+- Local dev: `python3 scripts/refresh_chatter.py --fixtures .chatter-dev/fixtures`
+  (offline), `--selftest`, or `--dry-run`. Full build notes and open questions:
+  `SUMMARY-chatter.md`.
