@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T02:29:41+00:00",
+ "updated": "2026-07-11T05:21:56+00:00",
  "jobs": [
   {
    "id": "uvm-87244",
@@ -310,6 +310,36 @@
    "tags": []
   },
   {
+   "id": "uvm-87137",
+   "title": "Office Support Generalist",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-07",
+   "url": "https://www.uvmjobs.com/postings/87137",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87130",
+   "title": "Clinical Academic Breast Radiologist (Assistant/Associate/Professor) - Radiology",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-07",
+   "url": "https://www.uvmjobs.com/postings/87130",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "seven-days-ed14fce797e2",
+   "title": "Director of Operations",
+   "employer": "Rhino Foods, Inc.",
+   "pay": null,
+   "posted": "2026-07-07",
+   "url": "https://jobs.sevendaysvt.com/job/manufacturing/rhino-foods-inc-burlington-full-time-director-of-operations/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
    "id": "uvm-med-center-11904",
    "title": "Central Plant Operator",
    "employer": "University of Vermont Medical Center",
@@ -317,6 +347,166 @@
    "posted": "2026-07-06",
    "url": "https://uvmhealthcareers.org/job/11904/central-plant-operator-facilities-management-us-vt-burlington-111-colchester-ave/",
    "source": "UVM Med Center",
+   "tags": []
+  },
+  {
+   "id": "uvm-87129",
+   "title": "Assistant/Associate/Professor, Clinical Scholar Pathway - Epilepsy Physician & Division Chief",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-06",
+   "url": "https://www.uvmjobs.com/postings/87129",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87127",
+   "title": "Senior Database Solution Professional",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-06",
+   "url": "https://www.uvmjobs.com/postings/87127",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87125",
+   "title": "Associate Dean (Director) of Extension",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-06",
+   "url": "https://www.uvmjobs.com/postings/87125",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "state-of-vermont-1406025700",
+   "title": "Volunteer Services Coordinator",
+   "employer": "State of Vermont — Corrections",
+   "pay": null,
+   "posted": "2026-07-06",
+   "url": "https://careers.vermont.gov/job/So_-Burlington-Volunteer-Services-Coordinator-VT-05401/1406025700/",
+   "source": "State of Vermont",
+   "tags": [
+    "city"
+   ]
+  },
+  {
+   "id": "city-of-burlington-5398691",
+   "title": "North Beach Park Attendant",
+   "employer": "City of Burlington — Parks, Recreation & Waterfront",
+   "pay": "$19.14 - $22.17 Hourly",
+   "posted": "2026-07-06",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5398691/north-beach-park-attendant",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "no-degree",
+    "seasonal"
+   ]
+  },
+  {
+   "id": "city-of-burlington-5397925",
+   "title": "Grounds Maintenance Assistant",
+   "employer": "City of Burlington — Parks, Recreation & Waterfront",
+   "pay": "$19.15 Hourly",
+   "posted": "2026-07-04",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5397925/grounds-maintenance-assistant",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "no-degree",
+    "seasonal"
+   ]
+  },
+  {
+   "id": "city-of-burlington-5396206",
+   "title": "Police Officer",
+   "employer": "City of Burlington — Police",
+   "pay": "$81,653.10 - $95,573.09 Annually",
+   "posted": "2026-07-04",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5396206/police-officer",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "pay25"
+   ]
+  },
+  {
+   "id": "seven-days-f058d56061d3",
+   "title": "Assistant Preschool Teacher",
+   "employer": "Lake Champlain Waldorf School",
+   "pay": null,
+   "posted": "2026-06-30",
+   "url": "https://jobs.sevendaysvt.com/job/education/lake-champlain-waldorf-school-assistant-preschool-teacher/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-df67fe526b8a",
+   "title": "Seeking Home Provider",
+   "employer": "Washington County Mental Health Services",
+   "pay": null,
+   "posted": "2026-06-29",
+   "url": "https://jobs.sevendaysvt.com/job/healthcare/washington-county-mental-health-services-burlington-area-contractual-full-time-seeking-home-provider/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-4ada60da7fb0",
+   "title": "Finance Associate",
+   "employer": "Spectrum",
+   "pay": null,
+   "posted": "2026-06-29",
+   "url": "https://jobs.sevendaysvt.com/job/accounting-finance/spectrum-finance-associate/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-384ada9f916c",
+   "title": "Driver",
+   "employer": "Vermont Association for the Blind and Visually Impaired (VABVI)",
+   "pay": null,
+   "posted": "2026-06-29",
+   "url": "https://jobs.sevendaysvt.com/job/transportation/vabvi-driver-4/",
+   "source": "Seven Days",
+   "tags": [
+    "no-degree"
+   ]
+  },
+  {
+   "id": "state-of-vermont-1245011600",
+   "title": "Correctional Officer I (Chittenden Regional Correctional Facility)",
+   "employer": "State of Vermont — Corrections",
+   "pay": null,
+   "posted": "2026-06-27",
+   "url": "https://careers.vermont.gov/job/So_-Burlington-Correctional-Officer-I-%28Chittenden-Regional-Correctional-Facility%29-VT-05401/1245011600/",
+   "source": "State of Vermont",
+   "tags": [
+    "city"
+   ]
+  },
+  {
+   "id": "state-of-vermont-1245011000",
+   "title": "Correctional Officer I - Temporary (Chittenden Regional Correction Facility)",
+   "employer": "State of Vermont — Corrections",
+   "pay": null,
+   "posted": "2026-06-27",
+   "url": "https://careers.vermont.gov/job/So_-Burlington-Correctional-Officer-I-Temporary-%28Chittenden-Regional-Correction-Facility%29-VT-05401/1245011000/",
+   "source": "State of Vermont",
+   "tags": [
+    "city",
+    "seasonal"
+   ]
+  },
+  {
+   "id": "seven-days-65f91a458082",
+   "title": "Food Rescue Coordinator",
+   "employer": "Champlain Valley Office of Economic Opportunity",
+   "pay": null,
+   "posted": "2026-06-26",
+   "url": "https://jobs.sevendaysvt.com/job/nonprofit/champlain-valley-office-of-economic-opportunity-burlington-full-time-food-rescue-coordinator-2/",
+   "source": "Seven Days",
    "tags": []
   },
   {
