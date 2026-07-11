@@ -1,0 +1,427 @@
+/* ============================================================
+   THE LAKE HOUR — guide hub (index.html)
+
+   The page knows what time it is. js/hub.js reads the real
+   sunrise/sunset and current conditions out of data/weather and
+   stamps data-phase on <html>; every colour below hangs off that.
+   Looking west across Lake Champlain at the Adirondacks is the
+   one view every Burlingtonian shares, so it is the horizon.
+============================================================ */
+
+:root {
+  /* Sky stops — overwritten per phase below. */
+  --sky-top: #1B3A5C;
+  --sky-mid: #3E6E96;
+  --sky-low: #9CC5DC;
+  --sun: #FFD98A;
+  --sun-glow: rgba(255, 217, 138, 0.55);
+  --ridge: #16283C;
+  --ridge-far: #2C4460;
+  --water: #16344E;
+  --water-lit: #4E86AC;
+
+  /* Page ground — light by default, flipped for dusk/night. */
+  --ground: #F4F7F8;
+  --panel: #FFFFFF;
+  --edge: #DCE5E9;
+  --ink: #10222E;
+  --ink-soft: #4E6675;
+  --ink-faint: #8298A5;
+  --accent: #0B6E8C;
+  --hot: #C25E2A;
+  --good: #2E7D52;
+
+  --display: "Barlow Condensed", "Avenir Next Condensed", "Helvetica Neue", sans-serif;
+  --ui: "DM Sans", system-ui, -apple-system, sans-serif;
+  --prose: "Lora", Georgia, serif;
+}
+
+/* ---------- Sky phases ---------- */
+html[data-phase="night"] {
+  --sky-top: #070E1C; --sky-mid: #101E36; --sky-low: #1E3350;
+  --sun: #E8EEF7; --sun-glow: rgba(232, 238, 247, 0.28);
+  --ridge: #050A14; --ridge-far: #0E1A2C;
+  --water: #060D18; --water-lit: #22405E;
+}
+html[data-phase="dawn"] {
+  --sky-top: #2A3350; --sky-mid: #7C6A85; --sky-low: #D89A86;
+  --sun: #FFC9A3; --sun-glow: rgba(255, 201, 163, 0.5);
+  --ridge: #1B2138; --ridge-far: #3B415C;
+  --water: #23293F; --water-lit: #8A6E77;
+}
+html[data-phase="morning"] {
+  --sky-top: #4E93C4; --sky-mid: #8FC4E4; --sky-low: #D6EAF4;
+  --sun: #FFF3C4; --sun-glow: rgba(255, 243, 196, 0.6);
+  --ridge: #33566F; --ridge-far: #6B93AC;
+  --water: #35708F; --water-lit: #8FC4E4;
+}
+html[data-phase="day"] {
+  --sky-top: #2E86BE; --sky-mid: #67B2DC; --sky-low: #BFE1F1;
+  --sun: #FFF6D8; --sun-glow: rgba(255, 246, 216, 0.55);
+  --ridge: #2C5670; --ridge-far: #628FA8;
+  --water: #2B7599; --water-lit: #82C3E2;
+}
+html[data-phase="golden"] {
+  --sky-top: #3D6088; --sky-mid: #E09A4E; --sky-low: #F5C173;
+  --sun: #FFE1A0; --sun-glow: rgba(255, 190, 110, 0.7);
+  --ridge: #2A3247; --ridge-far: #5A5468;
+  --water: #2F4059; --water-lit: #D6904C;
+}
+html[data-phase="dusk"] {
+  --sky-top: #1B2545; --sky-mid: #6B4670; --sky-low: #D9743F;
+  --sun: #FFB067; --sun-glow: rgba(255, 140, 70, 0.6);
+  --ridge: #10162B; --ridge-far: #2B2A48;
+  --water: #131B33; --water-lit: #8C5449;
+}
+
+/* Overcast knocks the saturation out of whatever phase we're in. */
+html[data-sky="grey"] {
+  --sky-top: #6E7F8C; --sky-mid: #93A3AD; --sky-low: #C3CDD3;
+  --sun: #E4E9EC; --sun-glow: rgba(228, 233, 236, 0.35);
+  --ridge: #4A5A66; --ridge-far: #7B8B96;
+  --water: #4F626E; --water-lit: #93A3AD;
+}
+html[data-phase="night"][data-sky="grey"] {
+  --sky-top: #10161F; --sky-mid: #1D2731; --sky-low: #2E3A45;
+  --sun: #9FAAB4; --sun-glow: rgba(159, 170, 180, 0.2);
+  --ridge: #080C12; --ridge-far: #161E27;
+  --water: #0A0F16; --water-lit: #2B3742;
+}
+
+/* Dark ground for the dark hours — and whenever the reader asks. */
+html[data-phase="night"],
+html[data-phase="dusk"],
+html[data-theme="dark"] {
+  --ground: #0C1620;
+  --panel: #14242F;
+  --edge: #243B49;
+  --ink: #E6EEF2;
+  --ink-soft: #9DB4C0;
+  --ink-faint: #6E8896;
+  --accent: #5EC4DF;
+  --hot: #F09A63;
+  --good: #6FD79E;
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) {
+    --ground: #0C1620;
+    --panel: #14242F;
+    --edge: #243B49;
+    --ink: #E6EEF2;
+    --ink-soft: #9DB4C0;
+    --ink-faint: #6E8896;
+    --accent: #5EC4DF;
+    --hot: #F09A63;
+    --good: #6FD79E;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body.hub {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--prose);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 1.2s ease, color 1.2s ease;
+}
+
+/* ============================================================
+   THE SKY
+============================================================ */
+.sky {
+  position: relative;
+  width: 100%;
+  min-height: clamp(340px, 52vh, 520px);
+  overflow: hidden;
+  background: linear-gradient(to bottom,
+              var(--sky-top) 0%,
+              var(--sky-mid) 48%,
+              var(--sky-low) 76%);
+  transition: background 1.6s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+/* The sun/moon. Position is set inline by hub.js from the real arc. */
+.orb {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  background: var(--sun);
+  box-shadow: 0 0 60px 22px var(--sun-glow), 0 0 140px 60px var(--sun-glow);
+  transform: translate(-50%, -50%);
+  transition: background 1.6s ease, box-shadow 1.6s ease;
+  will-change: left, top;
+}
+/* The moon: smaller, cooler, faintly mottled — never a pale sun. */
+.orb.moon {
+  width: 40px;
+  height: 40px;
+  background:
+    radial-gradient(circle at 62% 38%, rgba(0, 0, 0, 0.10) 0 18%, transparent 19%),
+    radial-gradient(circle at 34% 64%, rgba(0, 0, 0, 0.08) 0 13%, transparent 14%),
+    radial-gradient(circle at 70% 72%, rgba(0, 0, 0, 0.06) 0 9%, transparent 10%),
+    var(--sun);
+  box-shadow: 0 0 34px 8px var(--sun-glow);
+}
+
+/* Adirondacks, seen from the Burlington waterfront. */
+.ridge {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 26%;
+  width: 100%;
+  height: 90px;
+  display: block;
+}
+.ridge .far { fill: var(--ridge-far); transition: fill 1.6s ease; }
+.ridge .near { fill: var(--ridge); transition: fill 1.6s ease; }
+
+/* The lake. */
+.lake {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 26%;
+  background: linear-gradient(to bottom, var(--water-lit), var(--water));
+  transition: background 1.6s ease;
+}
+/* Glitter path under the orb — the sunset stripe, and only ever ON THE WATER. */
+.glint {
+  position: absolute;
+  bottom: 0;
+  width: 120px;
+  height: 26%;              /* exactly the lake, never up into the sky */
+  transform: translateX(-50%);
+  background: linear-gradient(to bottom, var(--sun-glow), transparent 90%);
+  filter: blur(10px);
+  pointer-events: none;
+  transition: opacity 1.6s ease;
+}
+
+/* A scrim under the copy. Midday and golden hour are bright enough to swallow
+   white text, so the headline gets a guaranteed floor to sit on in every phase. */
+.sky::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 62%;
+  background: linear-gradient(to bottom, transparent, rgba(4, 12, 20, 0.5));
+  pointer-events: none;
+  z-index: 1;
+}
+
+.sky-copy {
+  position: relative;
+  z-index: 2;
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 clamp(1rem, 4vw, 2rem) clamp(1.5rem, 3vw, 2.25rem);
+  width: 100%;
+  color: #fff;
+  text-shadow: 0 1px 24px rgba(0, 0, 0, 0.4), 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+.eyebrow {
+  font-family: var(--ui);
+  font-size: 0.72rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-weight: 500;
+  opacity: 0.88;
+  margin: 0 0 0.35rem;
+}
+.wordmark {
+  font-family: var(--display);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.045em;
+  line-height: 0.94;
+  font-size: clamp(2.4rem, 8vw, 5.25rem);
+  margin: 0;
+  text-wrap: balance;
+}
+.conditions {
+  font-family: var(--ui);
+  font-size: clamp(0.9rem, 2.4vw, 1.05rem);
+  margin: 0.7rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.85rem;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.96;
+}
+.conditions .sep { opacity: 0.45; }
+.conditions strong { font-weight: 600; }
+
+/* ============================================================
+   RIGHT NOW — the three live tiles
+============================================================ */
+.wrap {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 0 clamp(1rem, 4vw, 2rem) 5rem;
+}
+
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1px;
+  background: var(--edge);
+  border: 1px solid var(--edge);
+  margin-top: -1px;
+  position: relative;
+  z-index: 3;
+}
+.tile {
+  background: var(--panel);
+  padding: 1.15rem 1.25rem 1.05rem;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  transition: background 0.15s ease;
+}
+.tile:hover, .tile:focus-visible { background: color-mix(in srgb, var(--accent) 8%, var(--panel)); outline: none; }
+.tile:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
+.tile .label {
+  font-family: var(--ui);
+  font-size: 0.66rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  font-weight: 500;
+}
+.tile .big {
+  font-family: var(--display);
+  font-size: 2.35rem;
+  font-weight: 700;
+  line-height: 1.05;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+}
+.tile .big .unit { font-size: 0.95rem; font-weight: 600; color: var(--ink-soft); letter-spacing: 0.04em; }
+.tile .sub { font-family: var(--ui); font-size: 0.85rem; color: var(--ink-soft); }
+.tile .sub .yes { color: var(--good); font-weight: 600; }
+.tile .sub .no { color: var(--hot); font-weight: 600; }
+
+/* ============================================================
+   DEPARTMENTS
+============================================================ */
+section { margin-top: 3.25rem; }
+
+.dept {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 0.55rem;
+  margin-bottom: 1.4rem;
+  flex-wrap: wrap;
+}
+.dept h2 {
+  font-family: var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  font-weight: 700;
+  font-size: 1.65rem;
+  margin: 0;
+  white-space: nowrap;
+}
+.dept p {
+  margin: 0;
+  font-family: var(--ui);
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  flex: 1;
+  min-width: 12rem;
+}
+
+/* Separate cards, not a seamed slab — an unfilled column must read as empty
+   space, not as a ghost card. */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(268px, 1fr));
+  gap: 14px;
+}
+.card {
+  background: var(--panel);
+  border: 1px solid var(--edge);
+  padding: 1.15rem 1.25rem 1.1rem;
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  position: relative;
+  transition: background 0.15s ease;
+}
+.card::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: var(--accent);
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform 0.2s ease;
+}
+.card:hover, .card:focus-visible {
+  background: color-mix(in srgb, var(--accent) 7%, var(--panel));
+  outline: none;
+}
+.card:hover::before, .card:focus-visible::before { transform: scaleY(1); }
+.card:focus-visible { box-shadow: inset 0 0 0 2px var(--accent); }
+
+.card h3 {
+  font-family: var(--display);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 0;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+.card p { margin: 0; font-size: 0.93rem; color: var(--ink-soft); }
+
+/* A live count riding on the card title, when we have one. */
+.stat {
+  font-family: var(--ui);
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  padding: 0.16rem 0.4rem;
+  border-radius: 2px;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+.stat:empty { display: none; }
+
+.foot {
+  margin-top: 3.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--edge);
+  font-family: var(--ui);
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  justify-content: space-between;
+}
+.foot a { color: var(--accent); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}

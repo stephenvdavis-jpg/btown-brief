@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Things To Do in Burlington, VT — Burlington Brief</title>
+  <meta name="description" content="A local's guide to everything worth doing in and around Burlington, Vermont — breweries, beaches, trails, museums, live music, and more.">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- SITE HEADER -->
+  <header class="site-header" id="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <button class="dark-toggle" id="dark-toggle" aria-label="Toggle dark mode" title="Toggle light / dark">
+          <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+          <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+        </button>
+        <span class="logo-sep"></span>
+        <div class="weather-wrap" id="weather-wrap" hidden>
+          <button class="weather-indicator" id="weather-indicator" type="button" aria-haspopup="true" aria-expanded="false" aria-label="Weather details"></button>
+          <div class="weather-menu" id="weather-menu" role="menu" hidden>
+            <a class="weather-menu-item" role="menuitem" href="weather.html">Burlington Right Now — scores, lake &amp; beaches →</a>
+            <a class="weather-menu-item" role="menuitem" href="https://weather.com/weather/today/l/USVT0033:1:US" target="_blank" rel="noopener">Full forecast on weather.com ↗</a>
+            <a class="weather-menu-item" id="weather-brief-link" role="menuitem" href="https://www.btownbrief.com" target="_blank" rel="noopener">Read the weather in the Brief ↗</a>
+          </div>
+        </div>
+      </div>
+
+      <nav class="mode-nav" aria-label="View mode">
+        <button class="mode-btn" id="btn-list" data-mode="list" aria-pressed="true">The List</button>
+        <button class="mode-btn" id="btn-guides" data-mode="guides" aria-pressed="false">Guides</button>
+        <a class="mode-btn mode-btn-link" href="restaurants.html">Food &amp; Drink</a>
+        <a class="mode-btn mode-btn-link" href="events.html">Events</a>
+      </nav>
+
+    </div>
+  </header>
+
+  <!-- ================================================
+       LIST MODE
+  ================================================= -->
+  <div id="mode-list" class="mode-panel">
+
+    <!-- Newsletter banner (pulls the latest issue's intro automatically) -->
+    <a class="newsletter-bar" id="newsletter-bar" href="https://www.btownbrief.com" target="_blank" rel="noopener">
+      <div class="newsletter-bar-inner">
+        <div class="newsletter-head">
+          <span class="newsletter-label">The Burlington Brief</span>
+          <span class="newsletter-issue" id="newsletter-issue"></span>
+        </div>
+        <p class="newsletter-preview" id="newsletter-preview" hidden></p>
+        <span class="newsletter-cta" id="newsletter-cta">Read this week's Brief →</span>
+      </div>
+    </a>
+
+    <!-- Daylight arc: sunrise → sunset with live countdown -->
+    <div class="sun-arc" id="sun-arc" hidden aria-label="Daylight remaining today"></div>
+
+    <!-- Burlington Right Now teaser -->
+    <a class="rn-teaser" href="weather.html">
+      <span class="rn-teaser-main">Burlington Right Now</span>
+      <span class="rn-teaser-note">life scores · lake conditions · can I swim? · the daily read</span>
+      <span class="rn-teaser-arrow" aria-hidden="true">→</span>
+    </a>
+
+    <!-- Since You Checked teaser -->
+    <a class="rn-teaser" href="changes.html">
+      <span class="rn-teaser-main">Since You Checked</span>
+      <span class="rn-teaser-note">what changed in Burlington since you last looked</span>
+      <span class="rn-teaser-arrow" aria-hidden="true">→</span>
+    </a>
+
+    <!-- Events This Week — curated picks auto-pulled from the newsletter -->
+    <div class="events-strip week-strip" id="week-strip" hidden>
+      <div class="events-strip-inner">
+        <span class="events-label">Events This Week</span>
+        <div class="events-scroll" id="week-list" role="list"></div>
+      </div>
+    </div>
+
+    <!-- Upcoming events banner (fed by data/calendar.json — the 6-month calendar) -->
+    <div class="events-strip" id="events-strip" hidden>
+      <div class="events-strip-inner">
+        <span class="events-label">Upcoming</span>
+        <div class="events-scroll" id="events-list" role="list"></div>
+      </div>
+    </div>
+
+    <!-- List Layout -->
+    <div class="list-layout">
+
+      <!-- Filter Sidebar -->
+      <div class="filter-overlay" id="filter-overlay" aria-hidden="true"></div>
+      <aside class="filter-panel" id="filter-panel" aria-label="Filters">
+        <div class="filter-panel-header">
+          <span class="filter-panel-title">Filter</span>
+          <button class="filter-close-btn" id="filter-close" aria-label="Close filters">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+              <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+            </svg>
+          </button>
+        </div>
+        <div class="filter-sections" id="filter-sections">
+          <!-- Rendered by app.js -->
+        </div>
+        <div class="filter-panel-footer">
+          <button class="btn-clear-all" id="clear-all-filters">Clear all filters</button>
+        </div>
+      </aside>
+
+      <!-- Main List Content -->
+      <main class="list-main" id="list-main">
+
+        <!-- Guides carousel (Top 100 is the first card) -->
+        <div class="guides-rail-wrap" id="guides-rail-wrap" hidden>
+          <div class="guides-rail-head">
+            <span class="guides-rail-label">Swipe for the best Burlington guides</span>
+            <span class="guides-rail-arrow" aria-hidden="true">→</span>
+          </div>
+          <div class="guides-rail" id="guides-rail" role="list"></div>
+        </div>
+
+        <!-- Intro / what this is -->
+        <div class="list-intro">
+          <h1 class="list-intro-title">A curated list of <span id="intro-count">204</span> things to do in Burlington</h1>
+          <p class="list-intro-sub">Every place here is tagged, so hit <strong>Filter</strong> to narrow it down by neighborhood, vibe, price, and more. New here? <button class="intro-link" id="intro-top100" type="button">The&nbsp;Top&nbsp;100</button> is the perfect place to start.</p>
+        </div>
+
+        <!-- Connect row: equal-width trio (About Me on the right) -->
+        <div class="connect-row">
+          <a class="connect-btn connect-meetup" href="https://www.meetup.com/burlington-social-activites-group/events/" target="_blank" rel="noopener">
+            <span class="connect-btn-main">Meetup Events</span>
+            <span class="connect-btn-note">Hang out with us IRL</span>
+          </a>
+          <a class="connect-btn connect-telegram" href="https://t.me/+pULrkkS4vjBiZjEx" target="_blank" rel="noopener">
+            <span class="connect-btn-main">Join Group Chat</span>
+            <span class="connect-btn-note">Requires Telegram app</span>
+          </a>
+          <a class="connect-btn connect-about" href="https://www.btownbrief.com/about-me" target="_blank" rel="noopener">
+            <span class="connect-btn-main">About Me</span>
+            <span class="connect-btn-note">Who's behind this</span>
+          </a>
+        </div>
+
+        <!-- Support links line -->
+        <div class="support-line">
+          <span class="support-line-label">Support the Brief</span>
+          <span class="support-line-links">
+            <a href="https://stephenvdavis-jpg.github.io/t-shirts/index.html" target="_blank" rel="noopener">Merch</a>
+            <a href="https://forms.gle/6tfcmd1DZWRKh8yv8" target="_blank" rel="noopener">Submit a photo</a>
+            <a href="https://www.reddit.com/r/burlington/wiki/activities/" target="_blank" rel="noopener">Burlington Wiki</a>
+          </span>
+        </div>
+
+        <!-- Toolbar: Search + Filter Toggle + Sort -->
+        <div class="toolbar">
+          <div class="search-wrap">
+            <svg class="search-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+            </svg>
+            <input
+              type="search"
+              id="search-input"
+              class="search-input"
+              placeholder="Search places, vibes, neighborhoods…"
+              autocomplete="off"
+              spellcheck="false"
+            >
+            <button class="search-clear" id="search-clear" aria-label="Clear search" hidden>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+              </svg>
+            </button>
+          </div>
+
+          <div class="toolbar-right">
+            <select class="sort-select" id="sort-select" aria-label="Sort results">
+              <option value="random">Random</option>
+              <option value="featured">Featured</option>
+              <option value="alpha">A–Z</option>
+              <option value="neighborhood">By neighborhood</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Quick actions -->
+        <div class="quick-actions">
+          <label class="quick-chip">
+            <input type="checkbox" id="free-only">
+            <span>Free only</span>
+          </label>
+
+          <span class="attn attn-filter">
+            <span class="attn-arrow attn-top" aria-hidden="true"></span>
+            <span class="attn-arrow attn-right" aria-hidden="true"></span>
+            <span class="attn-arrow attn-bottom" aria-hidden="true"></span>
+            <span class="attn-arrow attn-left" aria-hidden="true"></span>
+            <button class="filter-toggle-btn" id="filter-toggle" aria-label="Toggle filters" aria-expanded="false">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/>
+              </svg>
+              <span>Filter</span>
+              <span class="active-filter-count" id="active-filter-count" hidden>0</span>
+            </button>
+          </span>
+
+          <button class="surprise-btn" id="surprise-btn" type="button">
+            ✦ Surprise me
+          </button>
+        </div>
+
+        <!-- Result Count -->
+        <p class="result-count" id="result-count" aria-live="polite" aria-atomic="true"></p>
+
+        <!-- Cards Grid -->
+        <div class="cards-grid" id="cards-grid" role="list"></div>
+
+        <!-- Empty State -->
+        <div class="empty-state" id="empty-state" hidden role="status">
+          <div class="empty-icon">◎</div>
+          <p class="empty-heading">No matches found</p>
+          <p class="empty-sub">Try fewer filters or clear the search.</p>
+          <button class="btn-outline" id="empty-clear-btn">Clear all filters</button>
+        </div>
+
+        <!-- Loading State -->
+        <div class="loading-state" id="loading-state" role="status">
+          <p>Loading…</p>
+        </div>
+
+      </main>
+    </div>
+
+    <!-- Community: photos, Reddit, FAQ -->
+    <section class="community-section" id="community-section" aria-label="From the community">
+
+      <div class="community-block" id="community-pages-block">
+        <div class="community-block-header">
+          <h2>Get into Burlington life</h2>
+        </div>
+        <div class="community-nav">
+          <a class="community-nav-card" href="housing.html">
+            <span class="community-nav-title">🏠 Find Housing</span>
+            <span class="community-nav-sub">Every Burlington property manager to email directly — plus everywhere else to look</span>
+          </a>
+          <a class="community-nav-card" href="jobs.html">
+            <span class="community-nav-title">💼 Jobs This Week</span>
+            <span class="community-nav-sub">The newest Burlington-area postings from every major local board</span>
+          </a>
+          <a class="community-nav-card" href="volunteer.html">
+            <span class="community-nav-title">🤝 Volunteer</span>
+            <span class="community-nav-sub">Help Burlington this week — filtered by the time you've got</span>
+          </a>
+          <a class="community-nav-card" href="clubs.html">
+            <span class="community-nav-title">🏃 Clubs &amp; Groups</span>
+            <span class="community-nav-sub">Run clubs, board games, book clubs — find your people</span>
+          </a>
+          <a class="community-nav-card" href="projects.html">
+            <span class="community-nav-title">🛠️ Local Projects</span>
+            <span class="community-nav-sub">People building things for Burlington, like this site</span>
+          </a>
+          <a class="community-nav-card" href="playlist.html">
+            <span class="community-nav-title">🎵 Community Playlist</span>
+            <span class="community-nav-sub">Share a song, upvote the week's list</span>
+          </a>
+          <a class="community-nav-card" href="chatter.html">
+            <span class="community-nav-title">💬 Burlington Pulse</span>
+            <span class="community-nav-sub">What the town is talking about right now, with rise-and-fall arrows</span>
+          </a>
+        </div>
+      </div>
+
+      <div class="community-block" id="photos-block">
+        <div class="community-block-header">
+          <h2>Burlington, lately</h2>
+          <a class="community-block-link" href="https://forms.gle/6tfcmd1DZWRKh8yv8" target="_blank" rel="noopener">Submit a photo →</a>
+        </div>
+        <div class="photo-strip" id="photo-strip" hidden></div>
+        <p class="community-empty-note" id="photos-empty">Community photos land here — send us your best shot of the city.</p>
+      </div>
+
+      <div class="community-block" id="reddit-block" hidden>
+        <div class="community-block-header">
+          <h2>From the community</h2>
+          <a class="community-block-link" href="https://www.reddit.com/r/GoodBurlington/" target="_blank" rel="noopener">r/GoodBurlington →</a>
+        </div>
+        <div class="reddit-list" id="reddit-list"></div>
+      </div>
+
+      <div class="community-block" id="faq-block" hidden>
+        <div class="community-block-header">
+          <h2>Top questions, answered</h2>
+        </div>
+        <div class="faq-list" id="faq-list"></div>
+      </div>
+
+      <div class="sponsor-footer" id="sponsor-footer" hidden></div>
+    </section>
+  </div>
+
+  <!-- ================================================
+       GUIDES MODE
+  ================================================= -->
+  <div id="mode-guides" class="mode-panel" hidden>
+    <div id="guides-view" class="guides-view">
+      <!-- Rendered by guides.js -->
+    </div>
+  </div>
+
+  <!-- ================================================
+       DETAIL DRAWER
+  ================================================= -->
+  <div class="detail-overlay" id="detail-overlay" aria-hidden="true"></div>
+  <div class="detail-drawer" id="detail-drawer" role="dialog" aria-modal="true" aria-label="Place details" hidden>
+    <div class="detail-drawer-inner">
+      <div class="detail-drawer-header">
+        <button class="detail-close-btn" id="detail-close" aria-label="Close">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
+      </div>
+      <div class="detail-content" id="detail-content">
+        <!-- Rendered by app.js -->
+      </div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>A <a href="https://www.btownbrief.com" target="_blank" rel="noopener">Burlington Brief</a> project</span>
+      <span class="footer-sep">·</span>
+      <span>Burlington, Vermont</span>
+      <span class="footer-sep">·</span>
+      <span class="footer-attribution">Weather data by <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> (CC BY 4.0)</span>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV/XN/WPuE=" crossorigin=""></script>
+  <script src="js/app.js"></script>
+  <script src="js/community.js"></script>
+  <script src="js/guides.js"></script>
+  <script src="js/weather.js"></script>
+  <script src="js/sun.js"></script>
+  <script src="https://play.btownbrief.com/nav.js" defer></script>
+</body>
+</html>
