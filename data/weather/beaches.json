@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-11T18:38:23+00:00",
+ "updated": "2026-07-11T19:53:50+00:00",
  "source": "City of Burlington beach tracker (burlingtonvt.gov/1219)",
  "note": "E. coli sampled Mon + Thu, posted by 11 AM Tue/Fri; cyanobacteria checked daily in season. Closed = advisory or E. coli over 235.",
  "beaches": [
@@ -22,21 +22,21 @@
    "status": "green",
    "reason": "Open — tested clean",
    "ecoli": null,
-   "sampled": "07/11/2026 12:33 PM"
+   "sampled": "07/11/2026 3:28 PM"
   },
   {
    "name": "Texaco Beach",
    "status": "green",
    "reason": "Open — tested clean",
    "ecoli": null,
-   "sampled": "07/11/2026 11:19 AM"
+   "sampled": "07/11/2026 3:53 PM"
   },
   {
    "name": "Oakledge Cove",
    "status": "green",
    "reason": "Open — tested clean",
    "ecoli": null,
-   "sampled": "07/11/2026 12:34 PM"
+   "sampled": "07/11/2026 3:23 PM"
   }
  ]
 }
