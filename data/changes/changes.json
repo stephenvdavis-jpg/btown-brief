@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T03:07:43+00:00",
+ "generated": "2026-07-11T03:49:10+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -427,6 +427,94 @@
    "url": "https://www.reddit.com/r/burlington/comments/1ut4mvb/visited_burlington/",
    "source": "reddit-burlington",
    "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T03:07:48+00:00",
+   "category": "events",
+   "headline": "New event: Land",
+   "detail": "today 7 PM · Film House at Main Street Landing",
+   "url": "https://www.helloburlingtonvt.com/event/land/7677/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T03:07:48+00:00",
+   "category": "events",
+   "headline": "New event: Meet RETEVIS Ailunce at Ontario Hamfest 2026 🇨🇦",
+   "detail": "tomorrow 7 AM · Burlington Amateur Radio Club",
+   "url": "https://www.facebook.com/events/1580160900495386/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T03:07:48+00:00",
+   "category": "events",
+   "headline": "New event: 🚗 THCo. - PUBLIC AUTO AUCTION – BID ON SITE OR ONLINE 🔨🚓",
+   "detail": "tomorrow 7:30 AM",
+   "url": "https://www.facebook.com/events/890914163509173/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T03:07:48+00:00",
+   "category": "events",
+   "headline": "New event: Member Mornings",
+   "detail": "tomorrow 9 AM · ECHO, Leahy Center for Lake Champlain",
+   "url": "https://www.facebook.com/events/1480528756835065/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T03:07:48+00:00",
+   "category": "events",
+   "headline": "New event: Bead Bar @ Shelburne Farmer's Market",
+   "detail": "tomorrow 9 AM · Shelburne Farmer's Market",
+   "url": "https://www.facebook.com/events/27354616604181239/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T03:07:48+00:00",
+   "category": "events",
+   "headline": "New event: Friends of the Horticulture Farm Annual PLANT SALE",
+   "detail": "tomorrow 10 AM",
+   "url": "https://www.facebook.com/events/1733562825442651/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T03:07:48+00:00",
+   "category": "events",
+   "headline": "New event: Flower Arranging Workshop at Common Roots Farm",
+   "detail": "tomorrow 10 AM · Farm At South Village South Burlington, Vt",
+   "url": "https://www.facebook.com/events/1325077899693205/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-11T03:07:48+00:00",
+   "category": "events",
+   "headline": "New event: XCA Car Wash",
+   "detail": "tomorrow 10 AM · The University Mall",
+   "url": "https://www.facebook.com/events/1537663528003514/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
    "priority": 1,
    "kind": "added"
   }
