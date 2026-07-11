@@ -1,0 +1,675 @@
+/* ============================================================
+   THE SUNSET PAGE — sunset.css
+   Loads after style.css and reuses its tokens (Lora / DM Sans,
+   ink + coral palette). One idea carries the page: the hero IS
+   tonight's forecast, painted as a sky. JS sets the --sky-*
+   custom properties from the computed score + cloud mix; this
+   file only says how a sky is built, never which one.
+   The hero keeps its own (dusk) coloring in both themes.
+============================================================ */
+
+/* ---------- page scaffold ---------- */
+
+.ss-page {
+  min-height: 60vh;
+  background: var(--bg);
+}
+
+.ss-inner {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: var(--space-10) var(--space-5);
+}
+
+.ss-eyebrow {
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0 0 var(--space-2);
+}
+
+.ss-section-title {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0 0 var(--space-2);
+}
+
+.ss-section-sub {
+  font-size: var(--text-base);
+  color: var(--ink-2);
+  margin: 0 0 var(--space-6);
+  max-width: 56ch;
+}
+
+/* The horizon rule — the lake-line motif that divides sections.
+   A thin band of dusk gradient with a darker "water" lower edge. */
+.ss-horizon {
+  height: 6px;
+  border: 0;
+  margin: 0;
+  background:
+    linear-gradient(to bottom,
+      transparent 0,
+      rgba(242, 104, 60, 0.35) 45%,
+      #1B2E4A 50%,
+      #16263D 100%);
+  opacity: 0.9;
+}
+
+/* ============================================================
+   HERO — the sky itself
+   --sky-zenith / --sky-mid / --sky-horizon: gradient stops
+   --sky-glow: sun glow color   --sky-glow-x/-y: glow position
+   --sky-cloud: cloud tint      --sky-cloud-o: cloud opacity
+   --lake: water color
+============================================================ */
+
+.ss-hero {
+  position: relative;
+  overflow: hidden;
+  color: #FFF8F0;
+  background: linear-gradient(to bottom,
+    var(--sky-zenith, #24405E) 0%,
+    var(--sky-mid, #5B6C88) 55%,
+    var(--sky-horizon, #C9A27A) 100%);
+  transition: background 1.2s ease;
+}
+
+/* Sun glow above the horizon */
+.ss-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    ellipse 90% 52% at var(--sky-glow-x, 50%) var(--sky-glow-y, 96%),
+    var(--sky-glow, rgba(255, 190, 120, 0.75)) 0%,
+    transparent 62%);
+  pointer-events: none;
+}
+
+/* Drifting cloud bands — opacity follows the real high-cloud deck */
+.ss-cloud {
+  position: absolute;
+  left: -12%;
+  width: 124%;
+  height: 22%;
+  border-radius: 50%;
+  background: var(--sky-cloud, #E8B08A);
+  opacity: var(--sky-cloud-o, 0.28);
+  filter: blur(38px);
+  pointer-events: none;
+  animation: ss-drift 90s linear infinite alternate;
+}
+.ss-cloud-1 { top: 16%; animation-duration: 110s; }
+.ss-cloud-2 { top: 38%; height: 16%; animation-duration: 84s; animation-direction: alternate-reverse; }
+.ss-cloud-3 { top: 56%; height: 12%; opacity: calc(var(--sky-cloud-o, 0.28) * 0.7); animation-duration: 130s; }
+
+@keyframes ss-drift {
+  from { transform: translateX(-4%); }
+  to   { transform: translateX(4%); }
+}
+
+/* Stars fade in after dark (JS toggles .is-night on the hero) */
+.ss-stars {
+  position: absolute;
+  inset: 0 0 18% 0;
+  opacity: 0;
+  transition: opacity 2s ease;
+  pointer-events: none;
+  background-image:
+    radial-gradient(1px 1px at 12% 22%, rgba(255,255,255,0.9) 50%, transparent 51%),
+    radial-gradient(1px 1px at 28% 9%,  rgba(255,255,255,0.7) 50%, transparent 51%),
+    radial-gradient(1.5px 1.5px at 41% 31%, rgba(255,255,255,0.8) 50%, transparent 51%),
+    radial-gradient(1px 1px at 57% 14%, rgba(255,255,255,0.6) 50%, transparent 51%),
+    radial-gradient(1px 1px at 66% 27%, rgba(255,255,255,0.9) 50%, transparent 51%),
+    radial-gradient(1.5px 1.5px at 79% 8%,  rgba(255,255,255,0.75) 50%, transparent 51%),
+    radial-gradient(1px 1px at 88% 24%, rgba(255,255,255,0.65) 50%, transparent 51%),
+    radial-gradient(1px 1px at 8% 44%,  rgba(255,255,255,0.5) 50%, transparent 51%),
+    radial-gradient(1px 1px at 94% 41%, rgba(255,255,255,0.55) 50%, transparent 51%);
+}
+.ss-hero.is-night .ss-stars { opacity: 1; }
+
+/* The lake: a dark band with a faint reflected shimmer */
+.ss-lake {
+  position: relative;
+  height: 64px;
+  background: linear-gradient(to bottom,
+    var(--lake, #16263D) 0%,
+    color-mix(in srgb, var(--lake, #16263D) 82%, black) 100%);
+}
+.ss-lake::before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; top: 0;
+  height: 60%;
+  background: radial-gradient(
+    ellipse 60% 100% at var(--sky-glow-x, 50%) 0%,
+    var(--sky-glow, rgba(255,190,120,0.5)) 0%,
+    transparent 70%);
+  opacity: 0.35;
+}
+
+.ss-hero-inner {
+  position: relative;
+  max-width: 760px;
+  margin: 0 auto;
+  padding: var(--space-12) var(--space-5) var(--space-10);
+  text-align: center;
+}
+
+.ss-hero-eyebrow {
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: rgba(255, 248, 240, 0.85);
+  margin: 0 0 var(--space-6);
+}
+
+/* Verdict — the loudest type on the site, on purpose */
+.ss-verdict {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(2.1rem, 8.5vw, 3.6rem);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  margin: 0 0 var(--space-4);
+  text-wrap: balance;
+  text-shadow: 0 2px 24px rgba(19, 36, 59, 0.35);
+}
+
+.ss-score-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  margin-bottom: var(--space-2);
+}
+
+.ss-score-num {
+  font-family: var(--font-display);
+  font-size: clamp(3rem, 11vw, 4.6rem);
+  font-weight: 600;
+  line-height: 1;
+}
+
+.ss-score-outof {
+  font-size: var(--text-md);
+  color: rgba(255, 248, 240, 0.75);
+}
+
+.ss-confidence {
+  display: inline-block;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 4px 12px;
+  border: 1px solid rgba(255, 248, 240, 0.45);
+  border-radius: var(--radius-full);
+  color: rgba(255, 248, 240, 0.92);
+  background: rgba(19, 36, 59, 0.18);
+}
+
+.ss-hero-sub {
+  font-size: var(--text-md);
+  color: rgba(255, 248, 240, 0.9);
+  margin: var(--space-5) auto 0;
+  max-width: 44ch;
+  text-wrap: balance;
+}
+
+/* Countdown + timing rail inside the hero */
+.ss-timing {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-8);
+  flex-wrap: wrap;
+  margin-top: var(--space-8);
+}
+
+.ss-time-block { min-width: 96px; }
+
+.ss-time-label {
+  display: block;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255, 248, 240, 0.7);
+  margin-bottom: 2px;
+}
+
+.ss-time-value {
+  display: block;
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.ss-time-note {
+  display: block;
+  font-size: var(--text-xs);
+  color: rgba(255, 248, 240, 0.7);
+  margin-top: 2px;
+}
+
+.ss-leaveby { color: #FFD9A0; }
+
+/* ============================================================
+   VITALS — temp / water / wind
+============================================================ */
+
+.ss-vitals {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-3);
+  margin-top: calc(-1 * var(--space-8));
+  position: relative;
+  z-index: 2;
+}
+
+.ss-vital {
+  background: var(--bg-raised);
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  padding: var(--space-4);
+  text-align: center;
+}
+
+.ss-vital-label {
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0 0 var(--space-1);
+}
+
+.ss-vital-value {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.1;
+  margin: 0;
+}
+
+.ss-vital-note {
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  margin: var(--space-1) 0 0;
+}
+
+/* ============================================================
+   FACTOR BREAKDOWN — how we read the sky
+============================================================ */
+
+.ss-factors { list-style: none; margin: 0; padding: 0; }
+
+.ss-factor {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-areas: "name delta" "bar bar" "note note";
+  gap: 2px var(--space-3);
+  padding: var(--space-4) 0;
+  border-bottom: 1px solid var(--line-soft);
+}
+.ss-factor:last-child { border-bottom: 0; }
+
+.ss-factor-name {
+  grid-area: name;
+  font-weight: 600;
+  font-size: var(--text-base);
+  color: var(--ink);
+}
+
+.ss-factor-delta {
+  grid-area: delta;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: var(--text-base);
+  font-variant-numeric: tabular-nums;
+}
+.ss-factor-delta.is-plus  { color: #2E8A5F; }
+.ss-factor-delta.is-minus { color: var(--coral); }
+.ss-factor-delta.is-zero  { color: var(--ink-4); }
+
+/* Signed bar: a center tick, bar grows left (penalty) or right (boost) */
+.ss-factor-bar {
+  grid-area: bar;
+  position: relative;
+  height: 6px;
+  margin: var(--space-2) 0;
+  background: var(--bg-subtle);
+  border-radius: var(--radius-full);
+}
+.ss-factor-bar::before {
+  content: "";
+  position: absolute;
+  left: 50%; top: -3px; bottom: -3px;
+  width: 1px;
+  background: var(--line);
+}
+.ss-factor-fill {
+  position: absolute;
+  top: 0; bottom: 0;
+  border-radius: var(--radius-full);
+  transition: width 600ms var(--ease);
+}
+.ss-factor-fill.is-plus  { left: 50%; background: #2E8A5F; }
+.ss-factor-fill.is-minus { right: 50%; background: var(--coral); }
+
+.ss-factor-note {
+  grid-area: note;
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  margin: 0;
+  max-width: 60ch;
+}
+
+.ss-factors-foot {
+  font-size: var(--text-sm);
+  color: var(--ink-3);
+  margin-top: var(--space-5);
+}
+
+/* ============================================================
+   SPOTS — ranked by the community
+============================================================ */
+
+.ss-spots { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-3); }
+
+.ss-spot {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: var(--space-4);
+  align-items: start;
+  background: var(--bg-raised);
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius-lg);
+  padding: var(--space-4) var(--space-5);
+  box-shadow: var(--shadow-sm);
+}
+
+.ss-spot-rank {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  color: var(--ink-4);
+  padding-top: 2px;
+  min-width: 1.4em;
+  text-align: center;
+}
+.ss-spot:first-child .ss-spot-rank { color: var(--coral); }
+
+.ss-spot-name {
+  font-weight: 600;
+  font-size: var(--text-md);
+  color: var(--ink);
+  margin: 0;
+}
+
+.ss-spot-meta {
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 2px 0 var(--space-2);
+}
+
+.ss-spot-why {
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+  margin: 0;
+}
+
+.ss-spot-vote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background: var(--bg-subtle);
+  color: var(--ink-2);
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  padding: var(--space-2) var(--space-3);
+  cursor: pointer;
+  transition: all var(--duration-fast) var(--ease);
+}
+.ss-spot-vote:hover { border-color: var(--coral); color: var(--coral); }
+.ss-spot-vote.voted {
+  background: var(--coral-light);
+  border-color: var(--coral);
+  color: var(--coral);
+  cursor: default;
+}
+.ss-spot-vote-count {
+  font-family: var(--font-display);
+  font-size: var(--text-md);
+  line-height: 1;
+}
+
+/* ============================================================
+   GALLERY — previous nights
+============================================================ */
+
+.ss-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: var(--space-3);
+}
+
+.ss-photo {
+  position: relative;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  background: var(--bg-subtle);
+  border: 1px solid var(--line-soft);
+  display: block;
+}
+
+.ss-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+}
+
+.ss-photo-caption {
+  padding: var(--space-2) var(--space-3) var(--space-3);
+  font-size: var(--text-sm);
+  color: var(--ink-2);
+}
+.ss-photo-caption strong { color: var(--ink); font-weight: 600; display: block; }
+.ss-photo-caption span { color: var(--ink-3); font-size: var(--text-xs); }
+
+.ss-gallery-empty {
+  border: 1px dashed var(--line);
+  border-radius: var(--radius-lg);
+  padding: var(--space-8);
+  text-align: center;
+  color: var(--ink-3);
+  font-size: var(--text-base);
+}
+
+/* Submission card */
+.ss-submit {
+  margin-top: var(--space-6);
+  background: var(--bg-raised);
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  box-shadow: var(--shadow-sm);
+}
+.ss-submit h3 {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  margin: 0 0 var(--space-2);
+  color: var(--ink);
+}
+.ss-submit p { font-size: var(--text-sm); color: var(--ink-2); margin: 0 0 var(--space-4); }
+
+.ss-submit-form { display: grid; gap: var(--space-3); }
+.ss-submit-form input,
+.ss-submit-form textarea {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  padding: var(--space-3);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background: var(--bg);
+  color: var(--ink);
+  width: 100%;
+}
+.ss-submit-form textarea { resize: vertical; min-height: 60px; }
+.ss-submit-form input:focus-visible,
+.ss-submit-form textarea:focus-visible,
+.ss-spot-vote:focus-visible,
+.ss-rate-btn:focus-visible,
+.ss-btn:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+}
+
+.ss-submit-row { display: flex; gap: var(--space-3); flex-wrap: wrap; align-items: center; }
+
+.ss-btn {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: var(--text-base);
+  padding: var(--space-3) var(--space-5);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--coral);
+  background: var(--coral);
+  color: #fff;
+  cursor: pointer;
+  transition: all var(--duration-fast) var(--ease);
+}
+.ss-btn:hover { filter: brightness(1.08); }
+.ss-btn-quiet {
+  background: transparent;
+  color: var(--coral);
+}
+.ss-submit p.ss-submit-alt { font-size: var(--text-sm); color: var(--ink-3); margin: 0; }
+.ss-submit-alt a { color: var(--teal); }
+
+.ss-form-msg { font-size: var(--text-sm); margin: 0; }
+.ss-form-msg.ok { color: #2E8A5F; }
+.ss-form-msg.err { color: var(--coral); }
+
+/* ============================================================
+   RATING — was tonight actually good?
+============================================================ */
+
+.ss-rate {
+  background: var(--bg-raised);
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  padding: var(--space-6);
+  text-align: center;
+}
+
+.ss-rate h3 {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  margin: 0 0 var(--space-1);
+  color: var(--ink);
+}
+.ss-rate p { font-size: var(--text-sm); color: var(--ink-2); margin: 0 0 var(--space-4); }
+
+.ss-rate-row { display: flex; justify-content: center; gap: var(--space-2); }
+
+.ss-rate-btn {
+  font-size: 1.6rem;
+  line-height: 1;
+  background: var(--bg-subtle);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  width: 52px;
+  height: 52px;
+  cursor: pointer;
+  filter: grayscale(1) opacity(0.55);
+  transition: all var(--duration-fast) var(--ease);
+}
+.ss-rate-btn:hover { filter: none; transform: translateY(-2px); }
+.ss-rate-btn.selected { filter: none; border-color: var(--coral); background: var(--coral-light); }
+.ss-rate-scale {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-2);
+  margin-top: var(--space-2);
+  font-size: var(--text-xs);
+  color: var(--ink-4);
+}
+/* qualified: .ss-rate p / .ss-submit p above would out-specify these */
+.ss-rate p.ss-rate-thanks { margin: var(--space-3) 0 0; font-weight: 600; color: #2E8A5F; }
+
+/* Accuracy log */
+.ss-accuracy { margin-top: var(--space-6); }
+.ss-accuracy table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--text-sm);
+}
+.ss-accuracy th, .ss-accuracy td {
+  padding: var(--space-2) var(--space-3);
+  text-align: left;
+  border-bottom: 1px solid var(--line-soft);
+}
+.ss-accuracy th {
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-3);
+  font-weight: 600;
+}
+.ss-accuracy td { color: var(--ink-2); font-variant-numeric: tabular-nums; }
+.ss-accuracy-note { font-size: var(--text-xs); color: var(--ink-4); margin-top: var(--space-2); }
+
+/* ============================================================
+   Responsive + motion
+============================================================ */
+
+@media (max-width: 560px) {
+  .ss-vitals { grid-template-columns: 1fr; margin-top: var(--space-4); }
+  .ss-timing { gap: var(--space-5); }
+  .ss-spot { grid-template-columns: 1fr auto; }
+  .ss-spot-rank { display: none; }
+}
+
+/* Two nav pills don't fit a phone at style.css's default padding —
+   compact them, and below 430px keep only the way back home. */
+@media (max-width: 640px) {
+  .mode-btn { padding: 8px 12px; font-size: var(--text-sm); }
+}
+@media (max-width: 430px) {
+  /* a.mode-btn in style.css sets display — match its specificity */
+  a.mode-btn.ss-nav-weather { display: none; }
+}
+@media (max-width: 360px) {
+  .ss-rate-btn { width: 42px; height: 42px; font-size: 1.3rem; }
+  .ss-rate-row { gap: var(--space-1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ss-cloud { animation: none; }
+  .ss-hero, .ss-stars, .ss-factor-fill { transition: none; }
+}
+
+/* Dark theme: sections around the hero pick up the site's dark
+   tokens automatically (they use var(--bg) etc.); the hero and
+   lake stay sky-colored by design. */

@@ -1,0 +1,35 @@
+{
+  "_comment": "Previous-nights gallery. Drop web-sized photos in assets/img/sunset/ and add an entry here (newest first — entries with a date sort by date, undated keep their position). Community submissions arrive via the moderation queue on sunset.html and get added here by hand after review.",
+  "photos": [
+    {
+      "image": "assets/img/sunset/violet-hour.jpg",
+      "credit": "Stephen Davis",
+      "caption": "Violet and ember over a glass-calm lake, the Adirondacks just a shadow.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/ember-waves.jpg",
+      "credit": "Stephen Davis",
+      "caption": "The whole sky catches fire, right down to the waves at your feet.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/blue-hour.jpg",
+      "credit": "Stephen Davis",
+      "caption": "Blue hour over the moorings, one last band of gold on the horizon.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/sandbar-mirror.jpg",
+      "credit": "Stephen Davis",
+      "caption": "Low water turns the beach into a mirror for a mottled pink sky.",
+      "date": null
+    },
+    {
+      "image": "assets/img/sunset/spinner-silhouette.jpg",
+      "credit": "Stephen Davis",
+      "caption": "A kinetic sculpture turns against the coral at the water's edge.",
+      "date": null
+    }
+  ]
+}

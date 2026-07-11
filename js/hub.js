@@ -156,6 +156,11 @@
 
     placeOrb(now, rise, set, phase, sun);
     writeConditions(now, rise, set, phase, weather, sun);
+
+    // Tonight's sunset time, on the sunset card.
+    var nextSet = (now < set) ? set
+      : (sun.sunset_tomorrow ? new Date(sun.sunset_tomorrow).getTime() : null);
+    if (nextSet) stat('stat-sunset', clockLabel(new Date(nextSet)));
   }
 
   // Put the sun (or moon) where it actually is in its arc.

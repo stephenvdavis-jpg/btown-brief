@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tonight's Sunset Score — Lake Champlain, Burlington VT — Burlington Brief</title>
+  <meta name="description" content="Will tonight's Lake Champlain sunset be worth the walk? A live 0–10 score from cloud layers, humidity, smoke, and post-frontal air — plus the countdown, the best viewing spots, and last night's photos.">
+
+  <!-- Social unfurls -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Burlington Brief">
+  <meta property="og:title" content="Tonight's Sunset Score — Lake Champlain">
+  <meta property="og:description" content="A live 0–10 forecast for Burlington's nightly show: cloud layers, smoke, post-frontal air, and when to leave downtown to make it to the water.">
+  <meta property="og:url" content="https://play.btownbrief.com/sunset.html">
+  <meta property="og:image" content="https://play.btownbrief.com/assets/img/sunset/og-sunset.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Tonight's Sunset Score — Lake Champlain">
+  <meta name="twitter:description" content="Will tonight be worth the walk? A live 0–10 sunset forecast for Burlington, Vermont.">
+  <meta name="twitter:image" content="https://play.btownbrief.com/assets/img/sunset/og-sunset.jpg">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/sunset.css">
+</head>
+<body>
+
+  <!-- SITE HEADER (same chrome as the other pages) -->
+  <header class="site-header" id="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <button class="dark-toggle" id="dark-toggle" aria-label="Toggle dark mode" title="Toggle light / dark">
+          <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+          <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+        </button>
+        <span class="logo-sep"></span>
+        <span class="logo-title">The Sunset Page</span>
+      </div>
+
+      <nav class="mode-nav" aria-label="Site pages">
+        <a class="mode-btn ss-nav-weather" href="weather.html">Burlington Right Now</a>
+        <a class="mode-btn" href="things-to-do.html">← Things To Do</a>
+      </nav>
+    </div>
+  </header>
+
+  <div id="ss-page" class="ss-page" hidden>
+
+    <!-- ============ THE SKY (hero) ============ -->
+    <section class="ss-hero" id="ss-hero" aria-label="Tonight's sunset forecast">
+      <div class="ss-stars" aria-hidden="true"></div>
+      <div class="ss-cloud ss-cloud-1" aria-hidden="true"></div>
+      <div class="ss-cloud ss-cloud-2" aria-hidden="true"></div>
+      <div class="ss-cloud ss-cloud-3" aria-hidden="true"></div>
+
+      <div class="ss-hero-inner" id="ss-hero-inner">
+        <p class="ss-hero-eyebrow" id="ss-hero-eyebrow">Tonight over Lake Champlain</p>
+        <h1 class="ss-verdict" id="ss-verdict">Reading the sky…</h1>
+
+        <div class="ss-score-row">
+          <span class="ss-score-num" id="ss-score-num">–</span>
+          <span class="ss-score-outof">/ 10</span>
+          <span class="ss-confidence" id="ss-confidence"></span>
+        </div>
+
+        <p class="ss-hero-sub" id="ss-hero-sub"></p>
+
+        <div class="ss-timing" role="list" aria-label="Sunset timing">
+          <div class="ss-time-block" role="listitem">
+            <span class="ss-time-label">Countdown</span>
+            <span class="ss-time-value" id="ss-countdown">–</span>
+            <span class="ss-time-note" id="ss-countdown-note"></span>
+          </div>
+          <div class="ss-time-block" role="listitem">
+            <span class="ss-time-label">Golden hour</span>
+            <span class="ss-time-value" id="ss-golden">–</span>
+            <span class="ss-time-note" id="ss-golden-note"></span>
+          </div>
+          <div class="ss-time-block" role="listitem">
+            <span class="ss-time-label">Leave by</span>
+            <span class="ss-time-value ss-leaveby" id="ss-leaveby">–</span>
+            <span class="ss-time-note" id="ss-leaveby-note"></span>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="ss-lake" id="ss-lake" aria-hidden="true"></div>
+
+    <!-- ============ VITALS ============ -->
+    <div class="ss-inner">
+      <div class="ss-vitals" aria-label="Conditions at the waterfront">
+        <div class="ss-vital">
+          <p class="ss-vital-label">Air</p>
+          <p class="ss-vital-value" id="ss-temp">–</p>
+          <p class="ss-vital-note" id="ss-temp-note"></p>
+        </div>
+        <div class="ss-vital">
+          <p class="ss-vital-label">The lake</p>
+          <p class="ss-vital-value" id="ss-water">–</p>
+          <p class="ss-vital-note" id="ss-water-note">Can you stand in it?</p>
+        </div>
+        <div class="ss-vital">
+          <p class="ss-vital-label">Wind at the water</p>
+          <p class="ss-vital-value" id="ss-wind">–</p>
+          <p class="ss-vital-note" id="ss-wind-note"></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ RATING (appears around sunset) ============ -->
+    <div class="ss-inner" style="padding-top: 0;">
+      <div class="ss-rate" id="ss-rate-card" hidden>
+        <h3>Was tonight actually good?</h3>
+        <p id="ss-rate-sub"></p>
+        <div class="ss-rate-row" id="ss-rate-row">
+          <button class="ss-rate-btn" data-v="1" type="button" aria-label="1 of 5 — a dud">🌫️</button>
+          <button class="ss-rate-btn" data-v="2" type="button" aria-label="2 of 5 — meh">🌥️</button>
+          <button class="ss-rate-btn" data-v="3" type="button" aria-label="3 of 5 — decent">🌇</button>
+          <button class="ss-rate-btn" data-v="4" type="button" aria-label="4 of 5 — great">🌅</button>
+          <button class="ss-rate-btn" data-v="5" type="button" aria-label="5 of 5 — all-timer">🌋</button>
+        </div>
+        <div class="ss-rate-scale"><span>dud</span><span>·</span><span>all-timer</span></div>
+        <p class="ss-rate-thanks" id="ss-rate-thanks" hidden>Logged — thanks. Every rating sharpens tomorrow's call.</p>
+      </div>
+    </div>
+
+    <!-- ============ FACTORS ============ -->
+    <hr class="ss-horizon" aria-hidden="true">
+    <section class="ss-inner" aria-label="How the score is computed">
+      <p class="ss-eyebrow">The forecast, shown working</p>
+      <h2 class="ss-section-title" id="ss-factors-title">How we read tonight's sky</h2>
+      <p class="ss-section-sub">A sunset is light hitting the underside of clouds. High clouds are the canvas, low clouds are the wall, and dry post-frontal air is Burlington's secret ingredient. Here's tonight's math — learn it and you'll never need this page.</p>
+      <ul class="ss-factors" id="ss-factors"></ul>
+      <p class="ss-factors-foot" id="ss-conf-foot"></p>
+    </section>
+
+    <!-- ============ SPOTS ============ -->
+    <hr class="ss-horizon" aria-hidden="true">
+    <section class="ss-inner" aria-label="Best sunset spots">
+      <p class="ss-eyebrow">Ranked by Burlington</p>
+      <h2 class="ss-section-title">Where to watch it</h2>
+      <p class="ss-section-sub">Our starting list — your votes reorder it. One vote per spot, so spend them on the places you'd actually send a friend.</p>
+      <ol class="ss-spots" id="ss-spots"></ol>
+    </section>
+
+    <!-- ============ GALLERY ============ -->
+    <hr class="ss-horizon" aria-hidden="true">
+    <section class="ss-inner" aria-label="Previous nights">
+      <p class="ss-eyebrow">The archive</p>
+      <h2 class="ss-section-title">Previous nights</h2>
+      <p class="ss-section-sub">Proof of what this lake can do.</p>
+      <div class="ss-gallery-grid" id="ss-gallery"></div>
+
+      <div class="ss-submit">
+        <h3>Caught a good one?</h3>
+        <p>Send tonight's shot and we'll run the best of them here, credited to you.</p>
+        <form class="ss-submit-form" id="ss-submit-form">
+          <input type="text" id="ss-f-credit" name="credit" aria-label="Your name, for the photo credit" placeholder="Your name (for the photo credit)" maxlength="80" required>
+          <input type="text" id="ss-f-contact" name="contact" aria-label="Email or Instagram, so we can reach you" placeholder="Email or Instagram (so we can reach you)" maxlength="120">
+          <input type="url" id="ss-f-url" name="url" aria-label="Link to the photo, if it's online" placeholder="Link to the photo, if it's online (optional)" maxlength="500">
+          <textarea id="ss-f-note" name="note" aria-label="Where and when you took it" placeholder="Where and when you took it" maxlength="500"></textarea>
+          <div class="ss-submit-row">
+            <button class="ss-btn" type="submit">Add to the review queue</button>
+            <p class="ss-form-msg" id="ss-form-msg"></p>
+          </div>
+        </form>
+        <p class="ss-submit-alt" style="margin-top: 12px;">
+          Have it as a file? <a href="mailto:stephenvdavis@gmail.com?subject=Sunset%20photo%20for%20the%20Btown%20Brief&body=Where%20and%20when%3A%20%0AHow%20to%20credit%20you%3A%20">Email it to us</a>
+          or use the <a href="https://forms.gle/6tfcmd1DZWRKh8yv8" target="_blank" rel="noopener">photo form</a>.
+          Every submission goes through a human before it appears.
+        </p>
+      </div>
+
+      <!-- Accuracy log: how the forecast has scored vs. your ratings -->
+      <div class="ss-accuracy" id="ss-accuracy" hidden>
+        <h3 class="ss-section-title" style="font-size: 1.1rem; margin-top: 24px;">How honest is this thing?</h3>
+        <table>
+          <thead><tr><th>Night</th><th>We said</th><th>You said</th><th>Ratings</th></tr></thead>
+          <tbody id="ss-accuracy-body"></tbody>
+        </table>
+        <p class="ss-accuracy-note">Community ratings vs. our predicted score, most recent nights first. When they disagree, the formula is wrong — and we tune it.</p>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Support strip (same as the other pages) -->
+  <div class="rn-footer-strip">
+    <a class="connect-btn connect-kofi" href="https://ko-fi.com/btownbrief" target="_blank" rel="noopener">
+      <span class="connect-btn-main">Donate ❤️</span>
+      <span class="connect-btn-note">Keep this running</span>
+    </a>
+    <a class="connect-btn connect-news" href="https://btownbrief.com" target="_blank" rel="noopener">
+      <span class="connect-btn-main">The Newsletter</span>
+      <span class="connect-btn-note">Mondays &amp; Fridays</span>
+    </a>
+    <a class="connect-btn connect-about" href="https://www.btownbrief.com/about-me" target="_blank" rel="noopener">
+      <span class="connect-btn-main">About Me</span>
+      <span class="connect-btn-note">Who's behind this</span>
+    </a>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>A <a href="https://www.btownbrief.com" target="_blank" rel="noopener">Burlington Brief</a> project</span>
+      <span class="footer-sep">·</span>
+      <span>Burlington, Vermont</span>
+      <span class="footer-sep">·</span>
+      <span class="footer-attribution">Data: <a href="https://www.weather.gov/btv/" target="_blank" rel="noopener">NWS Burlington</a>, <a href="https://waterdata.usgs.gov/monitoring-location/04294500/" target="_blank" rel="noopener">USGS</a>, <a href="https://www.airnow.gov/" target="_blank" rel="noopener">AirNow</a>, <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> (CC BY 4.0)</span>
+    </div>
+  </footer>
+
+  <script src="js/theme.js"></script>
+  <script src="js/sunset.js"></script>
+  <script src="https://play.btownbrief.com/nav.js" defer></script>
+</body>
+</html>
