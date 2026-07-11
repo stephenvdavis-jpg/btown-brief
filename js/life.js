@@ -443,12 +443,6 @@
         '</div>';
     }).join('');
 
-    // Ski slot — stubbed until there's snow to score.
-    html += '<div class="life-card life-stub">' +
-      '<div class="life-head"><span class="life-icon" aria-hidden="true">⛷</span>' +
-      '<span class="life-name">Ski conditions</span></div>' +
-      '<div class="life-stub-note">Back this winter — lift-served + nordic report, snow stake, and a base-depth read.</div></div>';
-
     grid.innerHTML = html;
 
     grid.addEventListener('click', function (e) {
