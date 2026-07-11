@@ -212,17 +212,13 @@
   border-left-color: var(--coral);
 }
 
-.telegram-email-card iframe {
-  display: block;
-  width: 100%;
-  margin-top: var(--space-4) !important;
+.telegram-subscribe-btn {
+  margin-top: var(--space-4);
+  background: var(--teal);
 }
 
-.telegram-email-fallback {
-  display: inline-block;
-  margin-top: var(--space-2);
-  font-size: var(--text-sm);
-  font-weight: 600;
+.telegram-email-card .telegram-reassurance {
+  text-align: left;
 }
 
 @media (min-width: 560px) {
