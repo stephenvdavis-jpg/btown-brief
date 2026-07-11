@@ -7,18 +7,18 @@
   "beaches": {
    "Blanchard Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-10T17:13:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-11T16:33:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-10T17:12:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-11T16:33:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-10T17:18:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-11T16:11:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
@@ -47,8 +47,8 @@
    },
    "Oakledge Cove": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-10T18:34:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-11T16:34:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
@@ -1272,18 +1272,39 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71905872",
+      "title": "An impenetrable steel 'Black Box' will record every step humanity takes toward catastrophe",
+      "link": "https://www.mynbc5.com/article/impenetrable-steel-black-box-record-every-step-humanity-takes-toward-catastrophe/71905872",
+      "ts": "2026-07-11T16:54:00+00:00",
+      "summary": "Tasmania’s rugged West Coast will soon be home to an angular steel structure with a haunting purpose: to record every step humanity takes toward catastrophe."
+     },
+     {
+      "id": "71905751",
+      "title": "Russian attacks kill 6, wound 29 as Ukrainian forces target oil tankers",
+      "link": "https://www.mynbc5.com/article/russian-attacks-kill-wound-ukraine-target-oil-tankers/71905751",
+      "ts": "2026-07-11T16:00:00+00:00",
+      "summary": "Russian attacks on Ukraine killed six people, including a child, and wounded 29, officials said Saturday."
+     },
+     {
+      "id": "71902211",
+      "title": "Trump, Iran's supreme leader trade threats as mediators try to save crumbling deal",
+      "link": "https://www.mynbc5.com/article/trump-threatens-iran-ayatollah-ali-khameneis-funeral/71902211",
+      "ts": "2026-07-11T15:54:00+00:00",
+      "summary": "President Trump has threatened Iran after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for his killing."
+     },
+     {
+      "id": "71906044",
+      "title": "South Africa World Cup midfielder Jayden Adams dies at the age of 25",
+      "link": "https://www.mynbc5.com/article/jayden-adams-world-cup-midfielder/71906044",
+      "ts": "2026-07-11T15:42:00+00:00",
+      "summary": "South Africa midfielder Jayden Adams, who played at the World Cup , has died. He was 25."
+     },
+     {
       "id": "71905832",
       "title": "More people are focusing on gut health as fermented foods gain popularity",
       "link": "https://www.mynbc5.com/article/fermented-food-why-more-people-focused-gut-health/71905832",
       "ts": "2026-07-11T15:03:00+00:00",
       "summary": "More people are focusing on their gut health as colorectal cancer rises among young adults and personalized gut microbiome treatments become increasingly popular."
-     },
-     {
-      "id": "71905751",
-      "title": "Russian attacks kill 2, wound 12 as Ukrainian forces target oil tankers",
-      "link": "https://www.mynbc5.com/article/russian-attacks-kill-wound-ukraine-target-oil-tankers/71905751",
-      "ts": "2026-07-11T14:13:00+00:00",
-      "summary": "Russia launched missile and drone attacks on Ukraine, killing two people and wounding 12, officials said Saturday."
      },
      {
       "id": "71905693",
@@ -1298,13 +1319,6 @@
       "link": "https://www.mynbc5.com/article/new-york-times-reporters-subpoenas-air-force-one-report/71905170",
       "ts": "2026-07-11T13:38:00+00:00",
       "summary": "The Trump administration issued subpoenas Friday to several NYT journalists after a report on security concerns involving the new Air Force One, according to the paper."
-     },
-     {
-      "id": "71902211",
-      "title": "Trump, Iranian leader trade threats as mediators try to save crumbling deal",
-      "link": "https://www.mynbc5.com/article/trump-threatens-iran-ayatollah-ali-khameneis-funeral/71902211",
-      "ts": "2026-07-11T13:31:00+00:00",
-      "summary": "President Trump has threatened Iran after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for his killing."
      },
      {
       "id": "71905597",
@@ -1396,20 +1410,6 @@
       "link": "https://www.mynbc5.com/article/draining-lincoln-memorial-reflecting-pool-again/71898722",
       "ts": "2026-07-11T01:45:00+00:00",
       "summary": "Crews are draining the Lincoln Memorial's Reflecting Pool again as President Donald Trump's problem-plagued effort to renovate the site pushes past his initial July 4 deadline."
-     },
-     {
-      "id": "71901680",
-      "title": "Epstein Truth Commission says federal government not responding to subpoenas",
-      "link": "https://www.mynbc5.com/article/epstein-truth-commission-subpoenas/71901680",
-      "ts": "2026-07-11T01:05:00+00:00",
-      "summary": "The FAA and DOJ are not responding to subpoenas regarding Epstein's flight logs and why a 2019 New Mexico investigation was stopped."
-     },
-     {
-      "id": "71899277",
-      "title": "Meta reverses new AI tool that uses public Instagram pics after backlash",
-      "link": "https://www.mynbc5.com/article/meta-muse-image-ai-tool-instagram-pictures/71899277",
-      "ts": "2026-07-11T00:47:00+00:00",
-      "summary": "Meta rolled back its new AI tool, Muse Image, after facing strong public criticism."
      }
     ]
    },
@@ -1463,6 +1463,22 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1utp0oe",
+    "title": "It’s USLW National Semifinal Matchday!",
+    "url": "https://www.reddit.com/r/burlington/comments/1utp0oe/its_uslw_national_semifinal_matchday/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-11T16:59:44+00:00"
+   },
+   {
+    "id": "1uto6bu",
+    "title": "🦷 Never Had a Teeth Cleaning Before? This Opportunity Is for You! 🦷",
+    "url": "https://www.reddit.com/r/burlington/comments/1uto6bu/never_had_a_teeth_cleaning_before_this/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-11T16:59:44+00:00"
+   },
    {
     "id": "1utk0pl",
     "title": "Best quirky roadside attraction",
@@ -1606,22 +1622,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-10T17:00:04+00:00"
-   },
-   {
-    "id": "1uspeaz",
-    "title": "chicken update…",
-    "url": "https://www.reddit.com/r/burlington/comments/1uspeaz/chicken_update/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-10T17:00:04+00:00"
-   },
-   {
-    "id": "1usocls",
-    "title": "Crazy old man",
-    "url": "https://www.reddit.com/r/burlington/comments/1usocls/crazy_old_man/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-10T14:00:07+00:00"
    }
   ]
  },
