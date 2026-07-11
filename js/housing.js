@@ -101,10 +101,11 @@
       : managers.length + ' companies — email a few directly and skip the listing-site refresh war';
   }
 
-  // Monthly rent snapshot — hand-updated numbers in housing.json, each
-  // tile cites its source (ZORI needs Zillow attribution; HUD is public
-  // domain). Live listing counts were ruled out: every listings site's
-  // terms prohibit automated access.
+  // Monthly rent snapshot in housing.json — the ZORI tile is auto-refreshed
+  // by scripts/refresh_rent.py; the two HUD tiles change yearly and are
+  // hand-updated. Each tile cites its source (ZORI needs Zillow attribution;
+  // HUD is public domain). Live listing counts were ruled out: every
+  // listings site's terms prohibit automated access.
   function renderRent(rent) {
     var strip = document.getElementById('rent-strip');
     var stats = rent && Array.isArray(rent.stats) ? rent.stats : [];

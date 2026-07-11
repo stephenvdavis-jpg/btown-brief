@@ -157,18 +157,39 @@ diff inspected, output validated). **Opus-4.8-era:** the independent Codex
 review, the desktop visual pass, and the review-driven fixes above
 (commit `0415150`, trailer `Co-Authored-By: Claude Opus 4.8`).
 
-## Open questions (for Stephen)
+## Decisions on the open questions (Opus 4.8, Stephen said "use your best judgment")
 
-1. **Nav linking** — housing.html and jobs.html cross-link each other and
-   index.html, but no existing page links *to* them yet. Add them to the
-   community-pages nav (volunteer/clubs/projects) and/or the index header
-   when you're ready to announce.
-2. **NEOGOV gray zone** — comfortable keeping the City of Burlington
-   auto-fetch (3 gentle requests/week), or prefer link-only there too?
-3. **Rent snapshot upkeep** — ZORI is a monthly hand-update (one number in
-   `data/housing.json`). Want a reminder ritual in the newsletter workflow,
-   or should I wire a monthly Action that pulls the CSV?
-4. **Directory maintenance** — the mailto contacts will rot slowly; the
-   note-card invites corrections. Worth a quarterly re-verify pass?
-5. **Notable-buildings sidebar** — add the single-building leasing offices
-   (Riverhouse, Cascades, Cambrian Rise buildings) as a follow-up?
+1. **Nav linking — DONE.** Added "🏠 Find Housing" and "💼 Jobs This Week"
+   as the first two cards in index.html's "Get into Burlington life"
+   community-card grid (the site's own pattern for surfacing standalone
+   pages — same as volunteer/clubs/projects). Put them first because
+   apartment- and job-hunters check daily and are high-intent. The pages
+   also cross-link each other + index in their header nav.
+2. **NEOGOV gray zone — KEEP the City auto-fetch.** It's a public
+   government job board, one gentle XHR request per run (3×/week), links
+   straight back to them, stores only metadata — and it's the *only*
+   source with salary data. If NEOGOV ever objects, drop `fetch_city` from
+   `SOURCES`; the city also posts to Seven Days, which we already read.
+3. **Rent upkeep — AUTOMATED the ZORI tile.** New `scripts/refresh_rent.py`
+   + `.github/workflows/refresh-rent.yml` pull the Burlington-metro ZORI
+   number monthly (20th) and update just that tile, keep-last-good, Zillow
+   attribution preserved. Verified live: it independently reproduces the
+   current $2,095 / +1.6% / May 2026 figure. The two HUD Fair Market Rent
+   tiles change once a year (each October) and stay hand-updated — not
+   worth automating an annual number.
+4. **Directory maintenance — reader-sourced + periodic manual re-verify.**
+   The page's note-card already invites "a link or contact here is wrong"
+   corrections by email; that plus a manual re-verify a couple of times a
+   year is the right weight for 24 hand-picked entries. Not automated
+   (contact pages/emails have no reliable liveness signal worth scripting).
+5. **Notable-buildings sidebar — SKIPPED for v1.** The directory already
+   covers the managers a renter realistically emails. The single-building
+   leasing offices (Riverhouse, Cascades, some Cambrian Rise buildings) are
+   reached via each building's own site, not a management brand — a clean
+   follow-up if the page proves popular, but scope creep for launch.
+
+## Remaining (Stephen's call, nothing blocking)
+
+- HUD FMR tiles: hand-update the two numbers each October from
+  huduser.gov (once a year).
+- Consider the notable-buildings sidebar (#5) if the page gets traction.

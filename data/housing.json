@@ -4,6 +4,7 @@
     "note": "Monthly snapshot, not live counts — every listings site's terms prohibit automated access. ZORI updates monthly; HUD FMR annually.",
     "stats": [
       {
+        "key": "zori",
         "value": "$2,095/mo",
         "label": "Typical asking rent, Burlington metro (+1.6% in a year)",
         "source": "Zillow Observed Rent Index (ZORI), May 2026"

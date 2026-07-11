@@ -1,0 +1,40 @@
+name: Refresh rent snapshot
+
+# Keeps the ZORI tile in data/housing.json current. ZORI publishes ~2-3
+# weeks after each month closes, so this runs monthly on the 20th. Same
+# keep-last-good contract as the other refreshers: a failed fetch leaves
+# the file untouched and nothing broken is committed. The two HUD Fair
+# Market Rent tiles change once a year and stay hand-updated.
+
+on:
+  schedule:
+    - cron: '30 11 20 * *'      # 20th of each month, 7:30 AM ET
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-rent
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh rent snapshot
+        run: python3 scripts/refresh_rent.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "btown-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/housing.json
+          if git diff --cached --quiet; then
+            echo "No rent change."
+          else
+            git commit -m "Auto-refresh rent snapshot (ZORI)"
+            git push || (git pull --rebase && git push)
+          fi

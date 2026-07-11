@@ -388,11 +388,14 @@ is keyed by the day the evening starts.
 - **housing.html** — the property-manager directory (`data/housing.json` →
   `managers`), the "everywhere else to look" links layer (`sources`), and a
   monthly rent snapshot (`rent`). All client-side in `js/housing.js`.
-  The rent numbers are hand-updated: ZORI from
-  [zillow.com/research/data](https://www.zillow.com/research/data/) (monthly,
-  needs the Zillow attribution kept in `source`), HUD FMR from huduser.gov
-  (annual). Live listing counts are deliberately absent — every listings
-  site's terms prohibit automated access.
+  The ZORI tile (`"key": "zori"`) auto-refreshes monthly via
+  `scripts/refresh_rent.py` (Zillow research CSV, keyless, keep the Zillow
+  attribution in `source`); the two HUD FMR tiles change yearly and stay
+  hand-updated from huduser.gov. Live listing counts are deliberately absent
+  — every listings site's terms prohibit automated access.
+- **scripts/refresh_rent.py** — pulls the Burlington metro ZORI number and
+  updates the one tile; runs monthly (20th) via
+  `.github/workflows/refresh-rent.yml`, keep-last-good.
 - **jobs.html** — "Added This Week": newest Burlington-area postings from
   `data/jobs.json`, rendered by `js/jobs.js` (postings older than 14 days
   auto-hide client-side; filter chips hide themselves when no posting
