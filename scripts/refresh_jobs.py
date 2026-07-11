@@ -60,6 +60,14 @@ LOCAL_PLACES = ("burlington", "south burlington", "winooski", "essex",
                 "colchester", "williston", "shelburne")
 STATE_PLACES = LOCAL_PLACES[:-1]
 
+# How many postings the file may hold. This is a safety bound, not a target:
+# it must stay comfortably above what the sources actually supply, or the
+# newest-first sort lets the most prolific source (UVM, which posts daily)
+# crowd the smaller ones out — at 30 it was silently discarding ~15 fresh
+# Burlington jobs a run, most of the Seven Days and State of Vermont sets.
+# The 14-day window in js/jobs.js is what really governs what readers see.
+MAX_JOBS = 60
+
 
 def fetch_text(url, browser=False, headers=None):
     request_headers = {"User-Agent": BROWSER_UA if browser else UA}
@@ -447,16 +455,16 @@ def main():
     cutoff = (datetime.now(BTV_TZ).date() - timedelta(days=21)).isoformat()
     jobs = [job for job in dedupe(collected) if job.get("posted", "") >= cutoff]
     jobs.sort(key=lambda job: (job["posted"], job["id"]), reverse=True)
-    if len(jobs) > 30:
-        # The 30-row cap must never evict rows the contract promises to keep:
+    if len(jobs) > MAX_JOBS:
+        # The cap must never evict rows the contract promises to keep:
         # carried-forward rows from a source that FAILED this run (keep-last-
         # good — they age out over 21 days, not the instant other sources
-        # supply 30 fresh ones), and UVMMC rows (whose presence doubles as the
-        # detail-fetch cache). Cap only the unprotected remainder.
+        # supply a full set of fresh ones), and UVMMC rows (whose presence
+        # doubles as the detail-fetch cache). Cap only the unprotected rest.
         protected_sources = set(failures) | {"UVM Med Center"}
         protected = [job for job in jobs if job["source"] in protected_sources]
         capped = [job for job in jobs if job["source"] not in protected_sources]
-        jobs = protected + capped[:max(0, 30 - len(protected))]
+        jobs = protected + capped[:max(0, MAX_JOBS - len(protected))]
         jobs.sort(key=lambda job: (job["posted"], job["id"]), reverse=True)
 
     out = {
