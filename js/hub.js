@@ -327,6 +327,8 @@
         paintSky({});   // still pick a phase off the clock
       });
 
+    motion();
+
     tileOpenNow().catch(noop);
     tileTonight().catch(noop);
     statChanges().catch(noop);
@@ -334,6 +336,65 @@
   }
 
   function noop() {}
+
+  /* ---------- arrival ----------
+     Cards settle in on scroll; the band photographs drift slower than the page.
+     Anyone who asked their OS for less motion gets neither. */
+  function motion() {
+    var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (calm) return;
+
+    var items = Array.prototype.slice.call(document.querySelectorAll('.card, .tile, .band-copy'));
+    var bands = Array.prototype.slice.call(document.querySelectorAll('.band'));
+    if (!items.length && !bands.length) return;
+
+    items.forEach(function (el) { el.classList.add('reveal'); });
+
+    /* A plain scroll sweep, NOT IntersectionObserver.
+       An element that goes from below the fold to above it — a fast flick, an
+       anchor jump, a restored scroll position — never changes intersection
+       state, so the observer never fires and the card stays invisible forever.
+       A sweep simply cannot miss: anything at or above the fold gets revealed. */
+    var pending = items.slice();
+
+    function sweep() {
+      var vh = window.innerHeight;
+      for (var i = pending.length - 1; i >= 0; i--) {
+        var el = pending[i];
+        var r = el.getBoundingClientRect();
+        if (r.top >= vh * 0.94) continue;           // still below the fold
+        if (r.top > 0 && el.parentNode) {           // arriving: stagger it
+          var row = Array.prototype.indexOf.call(el.parentNode.children, el);
+          el.style.transitionDelay = Math.min(row, 6) * 45 + 'ms';
+        }
+        el.classList.add('seen');                   // already passed: no delay
+        pending.splice(i, 1);
+      }
+
+      // The band photographs drift a little slower than the page.
+      for (var j = 0; j < bands.length; j++) {
+        var band = bands[j];
+        var img = band.querySelector('.band-img');
+        if (!img) continue;
+        var b = band.getBoundingClientRect();
+        if (b.bottom < -200 || b.top > vh + 200) continue;
+        var t = (vh / 2 - (b.top + b.height / 2)) / (vh / 2 + b.height / 2);
+        img.style.transform = 'translate3d(0,' + (t * 22).toFixed(1) + 'px,0)';
+      }
+    }
+
+    var ticking = false;
+    function onScroll() {
+      if (ticking) return;
+      ticking = true;
+      window.requestAnimationFrame(function () { sweep(); ticking = false; });
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    window.addEventListener('load', onScroll);
+    sweep();
+  }
 
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);

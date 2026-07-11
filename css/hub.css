@@ -24,8 +24,8 @@
   /* Black, like the Everything reel. The photographs carry the page; the links
      live in the dark between them, on glass. One material across both sites. */
   --ground: #06080A;
-  --panel: rgba(255, 255, 255, 0.06);
-  --panel-hover: rgba(255, 255, 255, 0.11);
+  --panel: rgba(255, 255, 255, 0.075);
+  --panel-hover: rgba(255, 255, 255, 0.13);
   --edge: rgba(255, 255, 255, 0.14);
   --edge-soft: rgba(255, 255, 255, 0.12);
   --ink: #F2F0EA;
@@ -220,8 +220,8 @@ html[data-art="photo"] .glint { display: none; }
   content: "";
   position: absolute;
   left: 0; right: 0; bottom: 0;
-  height: 116px;
-  background: linear-gradient(to bottom, transparent, var(--ground) 94%);
+  height: 96px;
+  background: linear-gradient(to bottom, transparent, var(--ground) 96%);
   pointer-events: none;
   z-index: 2;
 }
@@ -295,7 +295,7 @@ html[data-art="photo"] .glint { display: none; }
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 10px;
-  margin-top: -34px;
+  margin-top: -46px;
   position: relative;
   z-index: 4;
 }
@@ -454,9 +454,19 @@ section { margin-top: 2.4rem; }
   justify-content: center;
   text-align: center;
   overflow: hidden;
-  margin-top: 3rem;
-  margin-bottom: 2rem;
+  margin-top: 2.4rem;
+  margin-bottom: 0;
   background: var(--ground);
+}
+
+/* The cards ride up into the foot of the photograph, so the glass all but
+   touches it — the same move the live tiles make under the hero. Glass is the
+   one material that reads on a photo AND on black, which is what lets a card
+   straddle the join at all. */
+.band + section {
+  margin-top: -42px;
+  position: relative;
+  z-index: 4;
 }
 .band-img {
   position: absolute;
@@ -474,8 +484,9 @@ section { margin-top: 2.4rem; }
   background: linear-gradient(
     to bottom,
     var(--ground) 0%,
-    rgba(6, 8, 10, 0.30) 22%,
-    rgba(6, 8, 10, 0.45) 62%,
+    rgba(6, 8, 10, 0.28) 20%,
+    rgba(6, 8, 10, 0.40) 58%,
+    rgba(6, 8, 10, 0.88) 92%,
     var(--ground) 100%
   );
 }
@@ -501,4 +512,43 @@ section { margin-top: 2.4rem; }
    turn into unreadable sheets of tinted nothing. */
 @supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
   .card, .tile { background: rgba(18, 22, 26, 0.86); }
+}
+
+
+/* ============================================================
+   ARRIVAL
+   Cards settle in as they come into view, and the band photographs
+   drift a little slower than the page. Both are small — the point is
+   that the page feels alive, not that it performs. Both are off
+   entirely for anyone who asked for less motion.
+============================================================ */
+.reveal {
+  opacity: 0;
+  transform: translateY(14px);
+}
+.reveal.seen {
+  opacity: 1;
+  transform: none;
+  transition: opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+              transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* The photo sits taller than its frame so it has room to drift. */
+.band-img {
+  top: -12%;
+  bottom: -12%;
+  will-change: transform;
+}
+
+/* A slow bloom on the hero as the page opens. */
+.sky-photo { transform: scale(1.045); }
+html[data-art="photo"] .sky-photo {
+  transform: scale(1);
+  transition: opacity 1.2s ease, transform 14s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .reveal.seen { opacity: 1; transform: none; transition: none; }
+  .band-img { top: 0; bottom: 0; transform: none !important; }
+  .sky-photo, html[data-art="photo"] .sky-photo { transform: none; transition: none; }
 }
