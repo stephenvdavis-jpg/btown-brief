@@ -16,7 +16,7 @@
   var DONATE_COPY = {
     A: { // personal
       heading: 'One local guy builds all of this',
-      body: 'The newsletter, this site, the games — it’s just me, Stephen, at a laptop in Burlington. If it ever saved your weekend, a coffee keeps it going.',
+      body: 'The newsletter, this site, the games — it’s just me, Steve, at a laptop in Burlington. If it ever saved your weekend, a coffee keeps it going.',
       button: '☕ Buy me a coffee',
     },
     B: { // civic
@@ -110,7 +110,7 @@
         '<div class="btb-strip-card">' +
           '<h2 class="btb-strip-heading">Who’s behind this?</h2>' +
           '<p class="btb-strip-body">Not a media company. One neighbor with a soft spot for this town.</p>' +
-          '<a class="btb-strip-link" href="https://www.btownbrief.com/about-me" target="_blank" rel="noopener" data-track="about">It’s just me — meet Stephen →</a>' +
+          '<a class="btb-strip-link" href="https://www.btownbrief.com/about-me" target="_blank" rel="noopener" data-track="about">It’s just me — meet Steve →</a>' +
         '</div>' +
       '</div>';
 

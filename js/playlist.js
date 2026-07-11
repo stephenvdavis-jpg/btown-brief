@@ -4,7 +4,7 @@
    votes are one-per-visitor-per-track, the list self-sorts by votes.
    Fallback mode (before the SQL has been run, or offline): shows the
    starter picks from data/playlist.json and turns the form into a
-   pre-filled email to Stephen — still moderated, just by inbox. */
+   pre-filled email to Steve — still moderated, just by inbox. */
 (function () {
   'use strict';
 

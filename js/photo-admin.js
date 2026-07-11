@@ -1,4 +1,4 @@
-/* The Photo Desk — Stephen's phone-first moderation queue.
+/* The Photo Desk — Steve's phone-first moderation queue.
    Passphrase-gated via the security-definer RPCs in db/photos.sql
    (only the bcrypt hash lives in the database; the passphrase is
    remembered on this device after the first unlock). */

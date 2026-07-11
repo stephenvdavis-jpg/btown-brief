@@ -4,7 +4,7 @@
    hearts are one-per-visitor-per-photo, photo of the week surfaces
    automatically. Fallback mode (schema not run yet, or offline): shows
    data/photos/manifest.json if it exists and turns the form into a
-   pre-filled email to Stephen — still moderated, just by inbox. */
+   pre-filled email to Steve — still moderated, just by inbox. */
 (function () {
   'use strict';
 
