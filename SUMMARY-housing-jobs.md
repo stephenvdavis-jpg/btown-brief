@@ -96,24 +96,66 @@ with real data, via Chrome (screenshots + DOM probes) and headless Chrome
   strip injected, and the Weekend chip correctly hid itself (no
   weekend-tagged postings this week) while city/no-degree/$25+/seasonal
   stayed.
-- **refresh_jobs.py** ran twice against the live endpoints (Codex's runs;
-  output validated independently): 30 postings, all five sources
-  contributing (UVM 15, City of Burlington 7, Seven Days 5, UVMMC 2,
-  State of VT 1), idempotent on the second run. `py_compile` clean; field
-  contract validated against what `js/jobs.js` consumes.
+- **refresh_jobs.py** ran repeatedly against the live endpoints: a full
+  30 postings with all five sources contributing (the exact per-source
+  split shifts run to run — UVM is the largest, City of Burlington carries
+  the pay data, UVMMC settles to its couple of genuinely-recent postings
+  once older ones age past 21 days). `py_compile`/`node --check` clean;
+  field contract validated against what `js/jobs.js` consumes.
 - No repo test suite or linters exist; nothing else to run.
-- **Not done (session cut short)**: an independent Codex review of the
-  final diff, and a desktop-width screenshot (two-column layout verified
-  via headless DOM class check instead). Both are cheap follow-ups.
+- **Desktop-width visual pass (done, Opus session)**: full-page 1280px
+  screenshots of both pages — two-column directory, rent strip, job rows
+  with green pay badges and coral "today" markers all render as intended.
 
-## Codex's contribution
+## Independent review & fixes (Opus 4.8 session)
 
-`scripts/refresh_jobs.py` was implemented by Codex (GPT-5.6 Sol) from a
-spec built on live-tested endpoints from the recon pass; the diff was
-inspected (conventions, gentle fetching, no secrets, keep-last-good) and
-its output validated independently before commit. All research
-(property managers, feed recon, links/terms) was done by Claude subagents
-with every URL verified live.
+An independent Codex (GPT-5.6 Sol) read-only review of the whole branch
+diff raised 10 findings; the substantive ones were fixed and re-verified:
+
+- **Security (the important one):** job/listing/source URLs now pass a
+  scheme allowlist before being rendered as `href`s (http(s) for links,
+  plus mailto for contacts). `esc()` escapes markup but does **not**
+  neutralize a `javascript:`/`data:` URL — and since `refresh_jobs.py`
+  ingests external feed content, an unescaped link was a latent stored-XSS
+  path. Verified the allowlist blocks `javascript:`/`data:`/null in all
+  casings while passing every real link (0 blocked on the live data).
+- **`refresh_jobs.py` correctness:** recognize `Posted yesterday` (was
+  raising and silently failing the *entire* City source — the only source
+  with pay — on most runs, since "yesterday" is the commonest posting age);
+  a single unparseable City item now skips itself instead of the source;
+  removed a UVMMC ref "watermark" that permanently skipped jobs it had
+  never actually fetched (UVMMC coverage improved from 2 to its true
+  recent set); the 30-row cap no longer evicts carried-forward rows from a
+  *failed* source, so keep-last-good actually holds; dates truncate to the
+  Burlington day and the 21-day cutoff is Burlington-local; dedupe prefers
+  the newest posting.
+- **`jobs.js`:** age is now whole-calendar-day math in Burlington's zone
+  (the old noon/elapsed-ms math made "today" and the 14-day expiry depend
+  on the viewer's clock and timezone); stable sort comparator; guards
+  against non-array / null-element data.
+- **`housing.js`:** `String(phone)` guard; `Array.isArray` guards; the
+  load-error handler now clears every loading region, not just the
+  directory.
+- **Documented, not changed** (finding #5): the per-source fetch treats
+  "one item parsed" as success, so a future upstream markup change that
+  leaves a single recognizable item could commit a near-empty source set
+  rather than falling back. A robust fix needs per-source sharp-drop
+  thresholds (legit volumes differ a lot); deferred as over-engineering
+  for now. Keep-last-good still covers total failure and per-item errors.
+
+Re-verified after the fixes: `refresh_jobs.py` runs clean twice (5/5
+sources, 30 postings, no rows older than 21 days), both JS files pass
+`node --check`, and both pages render correctly headless.
+
+## Provenance (Fable 5 → Opus 4.8 handoff)
+
+Stephen's weekly Fable 5 quota ran out mid-build (2026-07-10); the work
+was finished under **Opus 4.8** (resets Sunday 2026-07-12 4pm, may get a
+later Fable pass). **Fable-era:** the two pages, all research, the
+`data/*.json`, and `refresh_jobs.py` (Codex-written from a Fable spec;
+diff inspected, output validated). **Opus-4.8-era:** the independent Codex
+review, the desktop visual pass, and the review-driven fixes above
+(commit `0415150`, trailer `Co-Authored-By: Claude Opus 4.8`).
 
 ## Open questions (for Stephen)
 
