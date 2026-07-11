@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T03:01:13+00:00",
+  "updated": "2026-07-11T11:33:52+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -239,9 +239,9 @@
     }
   ],
   "stats": {
-    "posts_scanned": 60,
+    "posts_scanned": 63,
     "per_source": {
-      "r/burlington": 37,
+      "r/burlington": 40,
       "r/vermont": 23
     }
   }
