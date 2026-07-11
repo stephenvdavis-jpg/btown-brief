@@ -3,12 +3,12 @@
   "photo_of_the_week": {
     "id": "9ab712da-0e72-40fc-93fb-c8fd0a0d654d",
     "url": "https://jnouvwxomrcffqwilqkq.supabase.co/storage/v1/object/public/btb-photos/submissions/bd5583ab-55e3-4408-81e0-8a6464be0b59.jpg",
-    "caption": "Sunset on the waterfront path, and somebody knows he's the main character.",
+    "caption": "Sunset on the waterfront path, and somebody knows she's the main character.",
     "category": "pets",
     "area": "Waterfront",
     "spot": "Burlington bike path",
     "taken_on": "late June 2026",
-    "credit": "Stephen",
+    "credit": "Steve",
     "label": null,
     "votes": 0,
     "approved_on": "2026-07-11"
@@ -22,7 +22,7 @@
       "area": "UVM / University",
       "spot": "Virtue Field",
       "taken_on": "late May 2026",
-      "credit": "Stephen",
+      "credit": "Steve",
       "label": null,
       "votes": 0,
       "approved_on": "2026-07-11"
@@ -35,7 +35,7 @@
       "area": "Downtown / Church St",
       "spot": "Church Street",
       "taken_on": "early June 2026",
-      "credit": "Stephen",
+      "credit": "Steve",
       "label": null,
       "votes": 0,
       "approved_on": "2026-07-11"
@@ -48,7 +48,7 @@
       "area": "Waterfront",
       "spot": "Lake Champlain",
       "taken_on": "early June 2026",
-      "credit": "Stephen",
+      "credit": "Steve",
       "label": null,
       "votes": 0,
       "approved_on": "2026-07-11"
@@ -61,7 +61,7 @@
       "area": "Downtown / Church St",
       "spot": "City Hall Park",
       "taken_on": "mid-June 2026",
-      "credit": "Stephen",
+      "credit": "Steve",
       "label": null,
       "votes": 0,
       "approved_on": "2026-07-11"
@@ -69,12 +69,12 @@
     {
       "id": "9ab712da-0e72-40fc-93fb-c8fd0a0d654d",
       "url": "https://jnouvwxomrcffqwilqkq.supabase.co/storage/v1/object/public/btb-photos/submissions/bd5583ab-55e3-4408-81e0-8a6464be0b59.jpg",
-      "caption": "Sunset on the waterfront path, and somebody knows he's the main character.",
+      "caption": "Sunset on the waterfront path, and somebody knows she's the main character.",
       "category": "pets",
       "area": "Waterfront",
       "spot": "Burlington bike path",
       "taken_on": "late June 2026",
-      "credit": "Stephen",
+      "credit": "Steve",
       "label": null,
       "votes": 0,
       "approved_on": "2026-07-11"

@@ -19,11 +19,11 @@
     ongoing: [],         // long-running exhibits/series (tag "ongoing")
     meta: null,
     view: 'list',
-    daysShown: 10,
+    daysShown: 14,
     map: null,
     mapLayer: null,
     activeBucket: null,
-    filters: { when: 'week', q: '', cat: '', town: '', price: '', age: '' },
+    filters: { when: 'month', q: '', cat: '', town: '', price: '', age: '' },
   };
 
   /* ---------------- utilities ---------------- */
@@ -212,6 +212,8 @@
         return [dkey(start), dkey(sun)];
       }
       case 'week': return [t, dkey(addDays(now, 6))];
+      case 'twoweeks': return [t, dkey(addDays(now, 13))];
+      case 'month': return [t, dkey(addDays(now, 29))];
       default: return [t, '9999-12-31'];
     }
   }
@@ -434,7 +436,7 @@
     document.querySelectorAll('#ev-when-pills .ev-pill').forEach((b) => {
       b.addEventListener('click', () => {
         state.filters.when = b.dataset.when;
-        state.daysShown = 10;
+        state.daysShown = 14;
         syncWhenPills();
         renderCalendar();
       });
@@ -465,7 +467,7 @@
     });
 
     $('ev-more').addEventListener('click', () => {
-      state.daysShown += 10;
+      state.daysShown += 14;
       renderCalendar();
     });
 

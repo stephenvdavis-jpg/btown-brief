@@ -2,7 +2,7 @@
    BURLINGTON RIGHT NOW — life.js
    Renders weather.html from data/weather/latest.json (committed
    hourly by the refresh-weather Action), data/weather/read.json
-   (Stephen's approved morning read), and data/weather/beaches.json.
+   (Steve's approved morning read), and data/weather/beaches.json.
 
    The six LIFE SCORES are computed here, client-side, so they
    track the actual hour of day between data refreshes.
