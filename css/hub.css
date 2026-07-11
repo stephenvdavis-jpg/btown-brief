@@ -552,3 +552,64 @@ html[data-art="photo"] .sky-photo {
   .band-img { top: 0; bottom: 0; transform: none !important; }
   .sky-photo, html[data-art="photo"] .sky-photo { transform: none; transition: none; }
 }
+
+/* ============================================================
+   THE SPLIT — "Live here" and "Join in" used to be two stops with
+   two photographs. They're the same errand (settling into the
+   place), and by that scroll depth a second band just reads as
+   more page to get through. One photograph, then split the column
+   down the middle: admin on the left, neighbours on the right.
+
+   Each half is narrower than .grid's 238px auto-fill minimum, so
+   the cards stack one-up inside their column without any extra
+   rules. Below 760px the rule vanishes and it's one plain column.
+============================================================ */
+.split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px clamp(1.6rem, 4vw, 3rem);
+  position: relative;
+}
+
+/* The line down the middle. Fades out at both ends so it reads as a
+   seam in the page rather than a border drawn around something. */
+.split::before {
+  content: "";
+  position: absolute;
+  top: 2.4rem;
+  bottom: 0;
+  left: 50%;
+  width: 1px;
+  transform: translateX(-0.5px);
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    var(--edge-soft) 12%,
+    var(--edge-soft) 88%,
+    transparent
+  );
+  pointer-events: none;
+}
+
+/* These two words sit in the foot of the photograph, because the cards below
+   them ride up into it (see `.band + section`). Glass carries itself on a
+   photo; bare text does not — so this gets the same treatment .band-copy uses,
+   a lift in weight plus a shadow, rather than a faint grey that dissolves into
+   the foliage. */
+.split-head {
+  margin: 0 0 0.85rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.85);
+}
+
+@media (max-width: 760px) {
+  .split { grid-template-columns: 1fr; gap: 10px; }
+  .split::before { display: none; }
+  /* Stacked, the second heading needs air or it collides with the
+     card above it. */
+  .split-col + .split-col .split-head { margin-top: 1.9rem; }
+}
