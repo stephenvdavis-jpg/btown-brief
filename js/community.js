@@ -21,7 +21,7 @@
     },
     B: { // civic
       heading: 'Keep Burlington’s local info free',
-      body: 'No paywall, no ad machine — just a free resource for everyone who loves this city. Chip in to keep it that way.',
+      body: 'No paywall, no pop-ups, no autoplay video — just a free resource for everyone who loves this city. Chip in to keep it that way.',
       button: '❤️ Chip in on Ko-fi',
     },
   };
