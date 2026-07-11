@@ -448,7 +448,7 @@ section { margin-top: 2.4rem; }
   position: relative;
   width: 100vw;
   margin-left: calc(50% - 50vw);   /* break out of .wrap, full bleed */
-  min-height: clamp(190px, 26vh, 260px);
+  min-height: clamp(240px, 33vh, 340px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -472,7 +472,7 @@ section { margin-top: 2.4rem; }
   position: absolute;
   inset: 0;
   background-size: cover;
-  background-position: center 55%;
+  background-position: center var(--focus, 55%);
   filter: saturate(0.74) contrast(0.88) brightness(0.82);
 }
 /* Dissolve into black at both ends — no photo ever ends on a hard edge. */
