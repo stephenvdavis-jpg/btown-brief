@@ -21,7 +21,8 @@
 -- bucket + policy in the dashboard instead (see db/PHOTOS-SETUP.md).
 -- ============================================================
 
-create extension if not exists pgcrypto;
+-- Supabase installs extensions into the "extensions" schema
+create extension if not exists pgcrypto with schema extensions;
 
 -- ------------------------------------------------------------ tables
 
@@ -82,8 +83,10 @@ on conflict (id) do update set pass_hash = excluded.pass_hash;
 
 -- ----------------------------------------------------------- helpers
 
+-- search_path includes "extensions" so crypt() resolves on Supabase,
+-- where pgcrypto lives in the extensions schema (works either way)
 create or replace function btb_photo_is_admin(p_pass text) returns boolean
-language sql security definer stable set search_path = public as $$
+language sql security definer stable set search_path = public, extensions as $$
   select exists (
     select 1 from btb_photo_admin
     where pass_hash = crypt(coalesce(p_pass, ''), pass_hash)
@@ -316,6 +319,7 @@ insert into storage.buckets (id, name, public, file_size_limit, allowed_mime_typ
 values ('btb-photos', 'btb-photos', true, 3145728, '{image/jpeg}')
 on conflict (id) do nothing;
 
+drop policy if exists "btb photos anon upload" on storage.objects;
 create policy "btb photos anon upload"
 on storage.objects for insert to anon
 with check (
