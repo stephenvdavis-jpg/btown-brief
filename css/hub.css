@@ -667,27 +667,15 @@ html[data-art="photo"] .sky-photo {
    promoting it. Shorten the sky on phones and tighten the tiles so tiles one
    and two both land above the fold. */
 @media (max-width: 640px) {
-  /* 46vh still left Things To Do below the fold. The second tile has to be
-     PERIPHERALLY visible without scrolling — that's the whole point of moving
-     it up there — so the sky gives up more height on phones. */
+  /* The photograph is the page. Do NOT shrink it to win layout — an earlier
+     pass took it to 38vh and gutted it.
+     Desktop is clamp(460px, 70vh, 680px). On phones we give back the smallest
+     slice that lets the SECOND tile peek above the fold, and nothing more.
+     Everything else (tile padding, type sizes) stays exactly as designed. */
   .sky {
-    min-height: clamp(300px, 38vh, 400px);
+    min-height: clamp(440px, 65vh, 620px);
   }
   .tiles {
     gap: 8px;
-  }
-  .tile {
-    padding: 0.7rem 0.9rem 0.65rem;
-  }
-  .tile .big {
-    line-height: 1.05;
-  }
-  .tiles-hint {
-    margin: -38px 0 0.4rem;
-    font-size: 0.78rem;
-  }
-  .conditions {
-    font-size: 0.88rem;
-    margin-top: 0.6rem;
   }
 }
