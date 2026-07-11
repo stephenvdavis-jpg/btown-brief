@@ -71,6 +71,18 @@ def main():
         "photo_of_the_week": normalize(potw_rows[0]) if potw_rows else None,
         "photos": photos,
     }
+    # skip the write when nothing but the timestamp would change, so the
+    # scheduled Action doesn't commit a no-op every run
+    try:
+        old = json.loads(OUT.read_text())
+        if (old.get("photos"), old.get("photo_of_the_week")) == (
+            manifest["photos"], manifest["photo_of_the_week"]
+        ):
+            print("Manifest unchanged — not rewriting.")
+            return
+    except (OSError, ValueError):
+        pass
+
     OUT.parent.mkdir(parents=True, exist_ok=True)
     tmp = OUT.with_suffix(".json.tmp")  # atomic swap: never truncate the last good file
     tmp.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
