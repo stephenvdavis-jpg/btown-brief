@@ -146,13 +146,18 @@ is namespaced and self-contained, so nothing breaks either way.
 
 ## Open questions (for Stephen)
 
-1. **Run `db/sunset.sql`** in the Supabase SQL editor when ready — votes,
-   ratings, and the photo queue light up with zero code changes.
-2. The 6 seeded photos are my picks from your folder (plus `IMG_9737` — the
-   otter-sculpture crowd shot — as a strong alternate). Swap/add freely in
-   `data/sunset-gallery.json`; dates are null until you fill them in.
-3. OG image is a 1200×630 crop of the willow-silhouette shot — confirm you're
-   happy with that as "the" share image.
+1. ~~Run `db/sunset.sql`~~ **DONE** — Stephen ran it in Supabase 2026-07-10;
+   votes, ratings, and the photo queue are live.
+2. **Gallery photos DONE** — replaced the Newsletter-folder picks with Stephen's
+   own five from iOS Photos (violet-hour, ember-waves, blue-hour, sandbar-mirror,
+   spinner-silhouette). Note: `spinner-silhouette.jpg` and `sandbar-mirror.jpg`
+   came through as 480×360 library derivatives — fine in the grid, but export
+   full-size from Photos and drop them over the same filenames if you want them
+   razor-sharp. Add more anytime in `data/sunset-gallery.json`; `date` is null
+   until you fill it in.
+3. **OG image DONE** — now a 1200×630 crop of the violet-hour shot (upscaled
+   from 1024w; imperceptible at share-preview size). Swap by regenerating
+   `assets/img/sunset/og-sunset.jpg` if you prefer another.
 4. Nav — now wired from two conflict-free spots: a **"Sunset" button in the
    weather.html header**, and **"The full sunset forecast →" on the Sunset
    life-score card** (the most contextual entry — you're already looking at
