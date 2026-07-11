@@ -43,7 +43,7 @@ jobs:
           if [ "$COUNT" -gt 0 ] && [ -z "$ISSUE" ]; then
             BODY=$(printf '%s\n\n%s\n\n%s' \
               "Community photo(s) are waiting in the review queue." \
-              "**Review them here → https://play.btownbrief.com/btown-brief/photo-admin.html**" \
+              "**Review them here → https://guide.btownbrief.com/photo-admin.html**" \
               "This issue closes itself automatically once the queue is clear.")
             gh issue create --label photo-queue \
               --title "📸 $COUNT community photo(s) waiting for review" \
