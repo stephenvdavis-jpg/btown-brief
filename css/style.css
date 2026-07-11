@@ -241,6 +241,9 @@ img {
   margin: 0 auto;
 }
 
+/* Desktop: the rail never overflows, so the dots have nothing to say. */
+.mode-rail-dots { display: none; }
+
 .mode-btn {
   font-family: var(--font-body);
   font-size: var(--text-md);
@@ -3145,6 +3148,30 @@ a.mode-btn:hover { text-decoration: none; }
     color: var(--ink-3);
   }
   .mode-btn[aria-pressed="true"] { border-color: var(--ink); }
+
+  /* Position dots under the rail — they say "this scrolls" before you swipe,
+     rather than after. JS hides them when there's nothing to scroll. */
+  .mode-rail-dots {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 7px;
+  }
+  .mode-rail-dots .dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--line);
+    transition: background var(--duration-fast) var(--ease),
+                transform var(--duration-fast) var(--ease);
+  }
+  .mode-rail-dots .dot[data-active="true"] {
+    background: var(--ink-3);
+    transform: scale(1.3);
+  }
+  /* must come last: beats the display:flex above when JS sets [hidden] */
+  .mode-rail-dots[hidden] { display: none; }
 }
 
 /* Playlist winners wall */

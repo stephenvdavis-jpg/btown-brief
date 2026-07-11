@@ -77,17 +77,49 @@
 })();
 
 /* Mobile chip rail (.mode-nav) — every page with the nav loads this file.
-   The right-edge fade means "there's more this way", so clear it once you've
-   actually scrolled to the end (or there's nothing to scroll), otherwise the
-   last chip reads as permanently cut off. */
-(function railFade() {
+   Two affordances, both only meaningful when the rail actually overflows:
+     - the right-edge fade ("more this way"), cleared once you reach the end
+       so the last chip doesn't read as permanently cut off;
+     - position dots underneath, so the rail announces up front that it
+       scrolls instead of making you discover it by accident.
+   Dots are decorative (aria-hidden) — the chips themselves are the real nav. */
+(function chipRail() {
   var rail = document.querySelector('.mode-nav');
   if (!rail) return;
+
+  var dots = document.createElement('div');
+  dots.className = 'mode-rail-dots';
+  dots.setAttribute('aria-hidden', 'true');
+  rail.insertAdjacentElement('afterend', dots);
+
+  var pages = 0;
+
   function update() {
-    var noOverflow = rail.scrollWidth <= rail.clientWidth + 1;
-    var atEnd = rail.scrollLeft + rail.clientWidth >= rail.scrollWidth - 2;
+    var overflow = rail.scrollWidth - rail.clientWidth;
+    var noOverflow = overflow <= 1;
+    var atEnd = rail.scrollLeft >= overflow - 2;
     rail.setAttribute('data-scroll-end', String(noOverflow || atEnd));
+
+    if (noOverflow) { dots.hidden = true; return; }
+    dots.hidden = false;
+
+    var want = Math.ceil(rail.scrollWidth / rail.clientWidth);
+    if (want !== pages) {                      // rebuild only when count changes
+      pages = want;
+      dots.innerHTML = '';
+      for (var i = 0; i < pages; i++) {
+        var d = document.createElement('span');
+        d.className = 'dot';
+        dots.appendChild(d);
+      }
+    }
+    // last page is short, so bias to the end once you're actually there
+    var active = atEnd ? pages - 1 : Math.round(rail.scrollLeft / rail.clientWidth);
+    for (var j = 0; j < dots.children.length; j++) {
+      dots.children[j].setAttribute('data-active', String(j === active));
+    }
   }
+
   rail.addEventListener('scroll', update, { passive: true });
   window.addEventListener('resize', update);
   update();
