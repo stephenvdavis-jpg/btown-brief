@@ -1,9 +1,26 @@
 {
-  "updated": "2026-07-10T22:57:41+00:00",
+  "updated": "2026-07-11T02:24:02+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
+    {
+      "id": "tips-baristas-card",
+      "label": "0% of credit card tips at Mirabelle’s go to FOH employees",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-11T02:01:10+00:00",
+      "sources": [
+        {
+          "title": "PSA: 0% of credit card tips at Mirabelle’s go to FOH employees",
+          "url": "https://www.reddit.com/r/burlington/comments/1ut71jw/psa_0_of_credit_card_tips_at_mirabelles_go_to_foh/",
+          "sub": "r/burlington",
+          "when": "2026-07-11T02:01:10+00:00",
+          "comments": null
+        }
+      ]
+    },
     {
       "id": "189-take-way",
       "label": "189 shenanigans",
@@ -17,6 +34,23 @@
           "url": "https://www.reddit.com/r/burlington/comments/1ur6qkr/189_shenanigans/",
           "sub": "r/burlington",
           "when": "2026-07-10T14:00:07+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "campus-few-photos",
+      "label": "A few photos from the University of Vermont campus",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-11T02:01:10+00:00",
+      "sources": [
+        {
+          "title": "A few photos from the University of Vermont campus",
+          "url": "https://www.reddit.com/r/burlington/comments/1ut55y0/a_few_photos_from_the_university_of_vermont_campus/",
+          "sub": "r/burlington",
+          "when": "2026-07-11T02:01:10+00:00",
           "comments": null
         }
       ]
@@ -56,86 +90,52 @@
       ]
     },
     {
-      "id": "library-other-things",
-      "label": "Burlington library",
+      "id": "dog-found-memorial",
+      "label": "Are you missing a brown leather keychain with a dog/german…",
       "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-10T14:00:07+00:00",
+      "last_activity": "2026-07-11T02:01:10+00:00",
       "sources": [
         {
-          "title": "Burlington library",
-          "url": "https://www.reddit.com/r/burlington/comments/1us0eln/burlington_library/",
+          "title": "Are you missing a brown leather keychain with a dog/german Shepard memorial photo in it?",
+          "url": "https://www.reddit.com/r/burlington/comments/1ut4x35/are_you_missing_a_brown_leather_keychain_with_a/",
           "sub": "r/burlington",
-          "when": "2026-07-10T14:00:07+00:00",
+          "when": "2026-07-11T02:01:10+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "bike-intervail-ride",
-      "label": "Can We Bike from Intervail Road through the Intervail to Ethan…",
+      "id": "calzone-winooski-really",
+      "label": "Best Calzone in Burlington/Winooski area?",
       "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-10T14:00:07+00:00",
+      "last_activity": "2026-07-10T23:01:11+00:00",
       "sources": [
         {
-          "title": "Can We Bike from Intervail Road through the Intervail to Ethan Allen Homestead?",
-          "url": "https://www.reddit.com/r/burlington/comments/1us9lfo/can_we_bike_from_intervail_road_through_the/",
+          "title": "Best Calzone in Burlington/Winooski area?",
+          "url": "https://www.reddit.com/r/burlington/comments/1uszwrr/best_calzone_in_burlingtonwinooski_area/",
           "sub": "r/burlington",
-          "when": "2026-07-10T14:00:07+00:00",
+          "when": "2026-07-10T23:01:11+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "chicken-believe-ended",
-      "label": "chicken update…",
+      "id": "baseball-bhs-doing",
+      "label": "BHS baseball field?",
       "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-10T17:00:04+00:00",
+      "last_activity": "2026-07-10T23:01:11+00:00",
       "sources": [
         {
-          "title": "chicken update…",
-          "url": "https://www.reddit.com/r/burlington/comments/1uspeaz/chicken_update/",
+          "title": "BHS baseball field?",
+          "url": "https://www.reddit.com/r/burlington/comments/1uszaoy/bhs_baseball_field/",
           "sub": "r/burlington",
-          "when": "2026-07-10T17:00:04+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "mango-smoothie-hall",
-      "label": "Downtown smoothie fix",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-10T14:00:07+00:00",
-      "sources": [
-        {
-          "title": "Downtown smoothie fix",
-          "url": "https://www.reddit.com/r/burlington/comments/1us5ut4/downtown_smoothie_fix/",
-          "sub": "r/burlington",
-          "when": "2026-07-10T14:00:07+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "primary-2026-attorney",
-      "label": "Elections: Chittenden County State's Attorney Democratic…",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-10T14:00:07+00:00",
-      "sources": [
-        {
-          "title": "Elections: Chittenden County State's Attorney Democratic Candidate Primary Forum - 7/8/2026",
-          "url": "https://www.reddit.com/r/burlington/comments/1ur7rpn/elections_chittenden_county_states_attorney/",
-          "sub": "r/burlington",
-          "when": "2026-07-10T14:00:07+00:00",
+          "when": "2026-07-10T23:01:11+00:00",
           "comments": null
         }
       ]
@@ -145,22 +145,22 @@
     {
       "slot": "needs_help",
       "slot_label": "Someone needs help",
-      "title": "lost chicken!",
-      "url": "https://www.reddit.com/r/burlington/comments/1us7taj/lost_chicken/",
+      "title": "Are you missing a brown leather keychain with a dog/german Shepard memorial photo in it?",
+      "url": "https://www.reddit.com/r/burlington/comments/1ut4x35/are_you_missing_a_brown_leather_keychain_with_a/",
       "sub": "r/burlington",
-      "when": "2026-07-10T14:00:07+00:00",
-      "blurb": "hi all! i live between rose st and north champlain and on monday a chicken showed up in my backyard. i assumed she would leave after the…",
+      "when": "2026-07-11T02:01:10+00:00",
+      "blurb": "It was found at the ymca and it’s in the lost in found! I hope you get your dog’s memorial photo back and I’m sorry for your loss",
       "comments": null,
       "unverified": false
     },
     {
       "slot": "recommendation",
       "slot_label": "Something people keep recommending",
-      "title": "Who makes the best pina colada in Burlington?",
-      "url": "https://www.reddit.com/r/burlington/comments/1usr0zz/who_makes_the_best_pina_colada_in_burlington/",
+      "title": "Best Calzone in Burlington/Winooski area?",
+      "url": "https://www.reddit.com/r/burlington/comments/1uszwrr/best_calzone_in_burlingtonwinooski_area/",
       "sub": "r/burlington",
-      "when": "2026-07-10T17:00:04+00:00",
-      "blurb": "Today is national pina colada day and this summer I’ve been on a hunt for the best one in Burlington. So far I have tried: - Splash…",
+      "when": "2026-07-10T23:01:11+00:00",
+      "blurb": "Any recommendations for a really solid calzone in the Burlington or Winooski area?",
       "comments": null,
       "unverified": false
     }
@@ -189,9 +189,9 @@
     }
   ],
   "stats": {
-    "posts_scanned": 27,
+    "posts_scanned": 37,
     "per_source": {
-      "r/burlington": 27,
+      "r/burlington": 37,
       "r/vermont": 0
     }
   }

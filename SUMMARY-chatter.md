@@ -109,12 +109,24 @@ No scraping under any realistic reading of FB's ToS. Legitimate options, in orde
 - **Browser (observed)**: desktop render, topic expansion with reddit-permalink source
   rows, all dynamic links reddit-only, 8 group cards correct, rough section collapsed
   by default with 3 items, dark toggle flips `data-theme` with dark background applied,
-  Ko-fi strip auto-injected, zero console errors, zero horizontal overflow at desktop.
-- **Not fully observed**: real-device 390px rendering (headless-Chrome screenshots clip
-  ~15% on ALL site pages including shipped volunteer.html — a headless viewport
-  artifact, not a chatter bug; the page uses the same responsive patterns as shipped
-  pages and adds explicit 560px wrap rules). The LLM refinement path was code-reviewed
-  and schema-validated but not exercised live (no ANTHROPIC_API_KEY on this machine).
+  Ko-fi/newsletter/about-me strip auto-injected, zero console errors, zero horizontal
+  overflow at desktop.
+- **Mobile (verified)**: measured at a true 390px viewport via a same-origin iframe
+  probe rendered headless — `clientWidth 390 / scrollWidth 390 / overflow 0`, no element
+  exceeds the viewport. (Direct headless `--window-size=390` screenshots clip on every
+  site page including shipped ones — that was a screenshot-crop artifact, now ruled out.)
+- **Not exercised live**: the optional LLM refinement path was code-reviewed and
+  schema-validated (labels must be name-free + share cluster vocabulary; flags capped)
+  but not run against the API — no `ANTHROPIC_API_KEY` on this machine.
+
+## Model provenance (for a later Fable review)
+
+Stephen is rationing Fable 5 weekly usage; this branch was **built and Codex-reviewed by
+Claude Fable 5** (commits `717621b`→`b5682fd`) and **finished by Claude Opus 4.8**
+(final mobile verification, the last green pipeline run, and these docs — commits after
+`b5682fd`, tagged with the Opus co-author trailer). Fable's weekly quota resets Sunday
+~4pm; Stephen may have Fable review the Opus-era commits then. `git log` records which
+model authored each commit.
 
 ## Handoff — what's left (any session can pick this up)
 
@@ -137,8 +149,9 @@ No scraping under any realistic reading of FB's ToS. Legitimate options, in orde
    (Taco Gordo, Original Skiff) look like person names. Is that the line you want, or
    should positive name mentions also be tips-only? (The LLM pass, once enabled, may add
    flags for nuance but can never unflag.)
-2. **r/Vermont Inoreader rule is broken since July 4** — needs a fix on the Inoreader
-   side; the pipeline already handles its return automatically.
+2. **r/Vermont Inoreader rule is broken since July 4** — re-checked 2026-07-10, still
+   stale (newest item Jul 4); r/vermont contributes 0 posts until you fix the Inoreader
+   rule. The pipeline already handles its return automatically — no code change needed.
 3. **Wednesday City Pulse workflow tie-in**: should the newsletter's weekly roundup start
    from `data/tips-inbox.md` + the live page (a "review the Pulse week" checklist in the
    newsletter repo), instead of re-reading reddit from scratch?
