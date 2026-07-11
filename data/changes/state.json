@@ -7,18 +7,18 @@
   "beaches": {
    "Blanchard Beach North": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-11T16:33:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-11T19:28:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-11T16:33:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-11T19:27:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-11T16:11:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-11T19:36:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
@@ -47,8 +47,8 @@
    },
    "Oakledge Cove": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-11T16:34:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-11T19:23:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
@@ -1038,7 +1038,7 @@
      },
      {
       "id": "Y76YYM4W5NGLBKTRNDZ3EGCQU4",
-      "title": "Do Good Fest returns to Central Vermont this weekend",
+      "title": "DONATE HERE: Do Good Fest returns to Montpelier this weekend",
       "link": "https://www.wcax.com/2026/07/10/do-good-fest-returns-central-vermont-this-weekend/",
       "ts": "2026-07-10T18:37:05+00:00",
       "summary": "Montpelier is the place to be this weekend as crowds converge on Saturday for the Do Good Fest."
@@ -1272,6 +1272,27 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71906651",
+      "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
+      "link": "https://www.mynbc5.com/article/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated-extreme-weather-taiwan-philippines-storm/71906651",
+      "ts": "2026-07-11T19:26:00+00:00",
+      "summary": "Chinese authorities evacuated more than 1.7 million people as of Saturday and issued high alerts as eastern China braced for Bavi."
+     },
+     {
+      "id": "71906613",
+      "title": "Dog found tied to street sign, Vermont State Police asking for public's help",
+      "link": "https://www.mynbc5.com/article/vermont-state-police-seeking-information-about-dog-found-tied-to-street-sign/71906613",
+      "ts": "2026-07-11T19:07:00+00:00",
+      "summary": "Vermont State Police are asking for the public's help after a dog was found tied to a street last Tuesday."
+     },
+     {
+      "id": "71906530",
+      "title": "US citizen tests positive for Ebola in Congo",
+      "link": "https://www.mynbc5.com/article/us-citizen-tests-positive-for-ebola-in-congo/71906530",
+      "ts": "2026-07-11T18:32:00+00:00",
+      "summary": "A U.S. citizen working for a humanitarian organization in Congo has tested positive for the Ebola virus, the U.S. Centers for Disease Control and Prevention said."
+     },
+     {
       "id": "71905872",
       "title": "An impenetrable steel 'Black Box' will record every step humanity takes toward catastrophe",
       "link": "https://www.mynbc5.com/article/impenetrable-steel-black-box-record-every-step-humanity-takes-toward-catastrophe/71905872",
@@ -1389,27 +1410,6 @@
       "link": "https://www.mynbc5.com/article/one-runner-gored-face-spain-san-fermin-running-bulls-festival/71902570",
       "ts": "2026-07-11T09:24:00+00:00",
       "summary": "One runner was gored in the face during the running of the bulls at Spain’s San Fermin festival on Saturday."
-     },
-     {
-      "id": "71901619",
-      "title": "Vermonters on 'American Ninja Warrior' use their skills to inspire future generations",
-      "link": "https://www.mynbc5.com/article/local-athletes-skills-big-screen-vermont-ninja-warrior-training-center/71901619",
-      "ts": "2026-07-11T03:32:00+00:00",
-      "summary": "If you've ever wondered what it's like to compete on \"American Ninja Warrior,\" you don't need to go too far to try out a course. Athletes at a new facility in Essex Junction are inspiring the next generation of ninja warriors."
-     },
-     {
-      "id": "71874383",
-      "title": "New attacks raise questions about what comes next in the Iran war",
-      "link": "https://www.mynbc5.com/article/what-comes-next-iran-war/71874383",
-      "ts": "2026-07-11T03:01:00+00:00",
-      "summary": "President Donald Trump says he believes the ceasefire with Iran is over"
-     },
-     {
-      "id": "71898722",
-      "title": "Crews are draining the Lincoln Memorial Reflecting Pool again as part of Trump's troubled revamp",
-      "link": "https://www.mynbc5.com/article/draining-lincoln-memorial-reflecting-pool-again/71898722",
-      "ts": "2026-07-11T01:45:00+00:00",
-      "summary": "Crews are draining the Lincoln Memorial's Reflecting Pool again as President Donald Trump's problem-plagued effort to renovate the site pushes past his initial July 4 deadline."
      }
     ]
    },
