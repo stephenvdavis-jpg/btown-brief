@@ -127,19 +127,31 @@
     }
   }
 
-  rail.addEventListener('scroll', update, { passive: true });
+  /* The rail must OPEN on "The List" — it was landing mid-scroll on "Food &
+     Drink", because a snap container re-snaps when its contents resize (webfonts
+     widen the chips after first paint) and can settle on a later chip. Pin it
+     left until the reader actually scrolls it themselves. */
+  var touched = false;
+  function pinLeft() { if (!touched && rail.scrollLeft !== 0) rail.scrollLeft = 0; }
+
+  rail.addEventListener('scroll', function () { update(); }, { passive: true });
+  rail.addEventListener('pointerdown', function () { touched = true; });
+  rail.addEventListener('touchstart', function () { touched = true; }, { passive: true });
+  rail.addEventListener('wheel', function () { touched = true; }, { passive: true });
   window.addEventListener('resize', update);
 
   /* The first measurement used to run before layout settled — scrollWidth still
      equalled clientWidth, so the dots hid themselves and only appeared once a
      scroll forced a re-measure. Re-measure whenever the rail's box actually
      changes, and again after webfonts land (they change the chips' width). */
+  function settle() { pinLeft(); update(); }
+
   if (window.ResizeObserver) {
-    var ro = new ResizeObserver(update);
+    var ro = new ResizeObserver(settle);
     ro.observe(rail);
     for (var k = 0; k < rail.children.length; k++) ro.observe(rail.children[k]);
   }
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(update);
-  window.addEventListener('load', update);
-  update();
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(settle);
+  window.addEventListener('load', settle);
+  settle();
 })();
