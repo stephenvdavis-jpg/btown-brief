@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-11T23:37:26+00:00",
+ "updated": "2026-07-12T01:13:35+00:00",
  "sections_updated": {
-  "now": "2026-07-11T23:37:26+00:00",
-  "forecast": "2026-07-11T23:37:26+00:00",
-  "hourly": "2026-07-11T23:37:26+00:00",
-  "alerts": "2026-07-11T23:37:26+00:00",
-  "afd": "2026-07-11T23:37:26+00:00",
-  "lake_forecast": "2026-07-11T23:37:26+00:00",
-  "lake_gage": "2026-07-11T23:37:26+00:00",
-  "air": "2026-07-11T23:37:26+00:00",
-  "sun": "2026-07-11T23:37:26+00:00",
-  "models": "2026-07-11T23:37:26+00:00"
+  "now": "2026-07-12T01:13:35+00:00",
+  "forecast": "2026-07-12T01:13:35+00:00",
+  "hourly": "2026-07-12T01:13:35+00:00",
+  "alerts": "2026-07-12T01:13:35+00:00",
+  "afd": "2026-07-12T01:13:35+00:00",
+  "lake_forecast": "2026-07-12T01:13:35+00:00",
+  "lake_gage": "2026-07-12T01:13:35+00:00",
+  "air": "2026-07-12T01:13:35+00:00",
+  "sun": "2026-07-12T01:13:35+00:00",
+  "models": "2026-07-12T01:13:35+00:00"
  },
  "now": {
-  "observed_at": "2026-07-11T23:20:00+00:00",
+  "observed_at": "2026-07-12T00:50:00+00:00",
   "station": "KBTV",
-  "description": "Clear",
-  "temp_f": 79,
-  "feels_like_f": 78,
-  "humidity": 34,
-  "dewpoint_f": 48,
-  "wind_mph": 7,
+  "description": "Mostly Clear",
+  "temp_f": 75,
+  "feels_like_f": 74,
+  "humidity": 44,
+  "dewpoint_f": 52,
+  "wind_mph": 3,
   "wind_gust_mph": null,
   "wind_dir": "N"
  },
@@ -32,9 +32,9 @@
     "is_day": false,
     "temp_f": 59,
     "pop": 0,
-    "wind": "NE 0 to 9 mph",
+    "wind": "NE 0 to 3 mph",
     "short": "Clear",
-    "detailed": "Clear, with a low around 59. Northeast wind 0 to 9 mph."
+    "detailed": "Clear, with a low around 59. Northeast wind 0 to 3 mph."
    },
    {
     "name": "Sunday",
@@ -86,28 +86,6 @@
  "hourly": {
   "updated": "2026-07-11T21:34:26+00:00",
   "hours": [
-   {
-    "t": "2026-07-11T19:00:00-04:00",
-    "temp_f": 77,
-    "feels_f": 77,
-    "pop": 0,
-    "humidity": 43,
-    "wind_mph": 9,
-    "wind_dir": "N",
-    "sky": 3,
-    "short": "Clear"
-   },
-   {
-    "t": "2026-07-11T20:00:00-04:00",
-    "temp_f": 73,
-    "feels_f": 73,
-    "pop": 0,
-    "humidity": 51,
-    "wind_mph": 5,
-    "wind_dir": "N",
-    "sky": 9,
-    "short": "Mostly Clear"
-   },
    {
     "t": "2026-07-11T21:00:00-04:00",
     "temp_f": 71,
@@ -481,6 +459,28 @@
     "wind_dir": "S",
     "sky": 11,
     "short": "Sunny"
+   },
+   {
+    "t": "2026-07-13T07:00:00-04:00",
+    "temp_f": 67,
+    "feels_f": 67,
+    "pop": 0,
+    "humidity": 73,
+    "wind_mph": 7,
+    "wind_dir": "S",
+    "sky": 15,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-13T08:00:00-04:00",
+    "temp_f": 70,
+    "feels_f": 70,
+    "pop": 1,
+    "humidity": 68,
+    "wind_mph": 8,
+    "wind_dir": "S",
+    "sky": 18,
+    "short": "Sunny"
    }
   ]
  },
@@ -488,13 +488,13 @@
   "active": []
  },
  "afd": {
-  "issued": "2026-07-11T18:37:00+00:00",
+  "issued": "2026-07-11T23:53:00+00:00",
   "key_messages": [
    "Following a seasonable weekend, conditions will trend warmer Monday and then hot and humid on Tuesday.",
    "A sharp cold front passing Tuesday night into Wednesday possibly bringing some thunderstorms followed by a cooling trend back to around seasonal averages."
   ],
   "what_changed": "As of 237 PM EDT Saturday... No significant changes from the previous forecast.",
-  "raw": "\n000\nFXUS61 KBTV 111837\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n237 PM EDT Sat Jul 11 2026\n\n.WHAT HAS CHANGED...\nAs of 237 PM EDT Saturday...\n\nNo significant changes from the previous forecast.\n\n&&\n\n.KEY MESSAGES...\nAs of 237 PM EDT Saturday...\n\n1. Following a seasonable weekend, conditions will trend warmer \nMonday and then hot and humid on Tuesday.\n\n2. A sharp cold front passing Tuesday night into Wednesday \npossibly bringing some thunderstorms followed by a cooling trend \nback to around seasonal averages. \n\n&&\n\n.DISCUSSION...\nAs of 237 PM EDT Saturday...\n\nKEY MESSAGE 1: Beautiful weather will continue through the weekend. \nRelatively cool low level temperatures in the 60s Monday morning \nwhile winds turn southerly could result in enhanced winds on Lake \nChamplain's broad waters (possibly in the 15-20 knot range) and a \nrelative burst of breezy conditions will be noted in the mountain \nridges as well, where 20-30 MPH winds will be possible following \nlight winds on Sunday. These breezes will be more noticeable the \nfollowing night into Tuesday morning and help advect in warmer and \nmore humid air. \n\nTuesday continues to look like an interesting weather day. Heat will \nbe the main story, with Heat Advisory issuance anticipated for at \nleast parts of the region. An advective heat will continue with \nseasonally strong southwesterly flow transporting hotter low level \ntemperatures through the day; it would be a good idea to do outdoor \nactivities during the morning or early afternoon with this pattern. \nForecast soundings show high instability (CAPE of roughly 2000 J/kg) \ndeveloping by late afternoon amidst both hot and humid low level \nprofiles and steep mid level lapse rates, but also pronounced CIN \nwith a capping inversion or at least neutral stability above the \nboundary layer. Lack of a trigger and very dry air aloft will result \nin \"wasted CAPE\", consistent with a mainly sunny and dry. \nUncomfortable conditions will linger through the evening with lack \nof precipitation/cloud cover, along with breezy southwest winds \nkeeping the air well mixed. \n\nHave continued to stay closer to the raw model guidance as opposed \nto the NBM for temperatures, which have largely remained the same as \nprevious forecast cycles. This results in conservative heat index \nvalues similar to the most likely maximums, remaining in the 95-100 \nrange in the Champlain Valley and 90-95 range in other valley \nlocations. The heat index in the St. Lawrence Valley has the largest \nrange of possibilities at this time, with potential for hotter \nconditions than currently indicated. There's some uncertainty in the \ndewpoints, which may trend a little higher than forecast given some \nof the latest guidance and moisture advection from the Great Lakes. \nHave also noted that the Extreme Forecast Index is consistent with \nthe RRFS in showing the hottest/most unusual heat is favored for the \nsouthern portions of the eastern Champlain Valley, centered over \nwestern Addison County; this could be in part due to enhanced \nsubsidence in the west-southwesterly flow downslope of the eastern \nAdirondacks and relatively small lake influence upwind. High \ntemperatures here are most favored to reach at least 95 degrees \nwith the heat index at or above this value.\n\nKEY MESSAGE 2: Model consensus continues to promote the potential for \nthe passage of a sharp cold front Tuesday night. Given the \nantecedent heat and amount of forcing projected along the boundary, \nsome nocturnal thunderstorms are possible. Most likely areas for \nconvection remain towards the Canadian border, but timing of the \nfront could dampen impacts. Should the passage shift more overnight \nand away from the late evening time frame, then some low level \nstability would limit instability and strength of storms. \nConversely, an earlier timing could allow for enhanced convection. \nThose with camping plans may want to keep a closer eye of the \nforecast as it evolves over the next couple of days. \n\nBehind the front, temperatures trend cooler from Tuesday's \nunseasonably hot conditions. Wednesday will likely remain higher \nthan averages, but the downward trend will continue with \nnorthwesterly flow through Friday where high temperatures are \nfavored to range in the upper 70s to low/mid 80s. Successive waves \ncould produce some showers late Thursday and again heading into \nthe weekend. \n\n&&\n\n.AVIATION /18Z SATURDAY THROUGH THURSDAY/...\nThrough 18Z Sunday...Dry and VFR conditions will persist for\nmost terminals through this forecast period with the exceptions\nof SLK/MPV where some IFR or lower CIG/VIS is most likely. Given\ndry conditions this afternoon, crossover temperatures will be\ndifficult to achieve even at SLK/MPV, but a shorter duration of\nfog/mist cannot be ruled out 06-12Z. Otherwise, northerly winds\nfor most terminals continue today with PBG responding to lake\nbreeze. Could see a brief switch at BTV from 300 degrees 20-23Z. \n\nOutlook...\n\nSunday Night: VFR. NO SIG WX.\nMonday: VFR. NO SIG WX.\nMonday Night: VFR. Slight chance SHRA.\nTuesday: VFR. NO SIG WX.\nTuesday Night: VFR. Slight chance SHRA, Slight chance TSRA.\nWednesday: VFR. NO SIG WX.\nWednesday Night: VFR. NO SIG WX.\nThursday: VFR. NO SIG WX.\n\n&&\n\n.CLIMATE...\nHigh temperatures on Tuesday will be hot, but we are at the \nclimatological warmest part of the year. Therefore, it is far \nfrom a certainty that any records will occur. At this time, PBG,\nMPV, and MSS are the more likely long-term climate sites to \nset a record. See below for current records:\n\nMax Temp Records\nDate     BTV      MPV       MSS      PBG      SLK\n07-14  100|1995  94|1952   92|2012  95|1952  95|1934\n\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Kutikoff\nDISCUSSION...Kutikoff\nAVIATION...Boyd\nCLIMATE...NWS BTV\n"
+  "raw": "\n000\nFXUS61 KBTV 112353\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n753 PM EDT Sat Jul 11 2026\n\n.WHAT HAS CHANGED...\nAs of 237 PM EDT Saturday...\n\nNo significant changes from the previous forecast.\n\n&&\n\n.KEY MESSAGES...\nAs of 237 PM EDT Saturday...\n\n1. Following a seasonable weekend, conditions will trend warmer \nMonday and then hot and humid on Tuesday.\n\n2. A sharp cold front passing Tuesday night into Wednesday \npossibly bringing some thunderstorms followed by a cooling trend \nback to around seasonal averages.\n\n&&\n\n.DISCUSSION...\nAs of 237 PM EDT Saturday...\n\nKEY MESSAGE 1: Beautiful weather will continue through the weekend. \nRelatively cool low level temperatures in the 60s Monday morning \nwhile winds turn southerly could result in enhanced winds on Lake \nChamplain's broad waters (possibly in the 15-20 knot range) and a \nrelative burst of breezy conditions will be noted in the mountain \nridges as well, where 20-30 MPH winds will be possible following \nlight winds on Sunday. These breezes will be more noticeable the \nfollowing night into Tuesday morning and help advect in warmer and \nmore humid air. \n\nTuesday continues to look like an interesting weather day. Heat will \nbe the main story, with Heat Advisory issuance anticipated for at \nleast parts of the region. An advective heat will continue with \nseasonally strong southwesterly flow transporting hotter low level \ntemperatures through the day; it would be a good idea to do outdoor \nactivities during the morning or early afternoon with this pattern. \nForecast soundings show high instability (CAPE of roughly 2000 J/kg) \ndeveloping by late afternoon amidst both hot and humid low level \nprofiles and steep mid level lapse rates, but also pronounced CIN \nwith a capping inversion or at least neutral stability above the \nboundary layer. Lack of a trigger and very dry air aloft will result \nin \"wasted CAPE\", consistent with a mainly sunny and dry. \nUncomfortable conditions will linger through the evening with lack \nof precipitation/cloud cover, along with breezy southwest winds \nkeeping the air well mixed. \n\nHave continued to stay closer to the raw model guidance as opposed \nto the NBM for temperatures, which have largely remained the same as \nprevious forecast cycles. This results in conservative heat index \nvalues similar to the most likely maximums, remaining in the 95-100 \nrange in the Champlain Valley and 90-95 range in other valley \nlocations. The heat index in the St. Lawrence Valley has the largest \nrange of possibilities at this time, with potential for hotter \nconditions than currently indicated. There's some uncertainty in the \ndewpoints, which may trend a little higher than forecast given some \nof the latest guidance and moisture advection from the Great Lakes. \nHave also noted that the Extreme Forecast Index is consistent with \nthe RRFS in showing the hottest/most unusual heat is favored for the \nsouthern portions of the eastern Champlain Valley, centered over \nwestern Addison County; this could be in part due to enhanced \nsubsidence in the west-southwesterly flow downslope of the eastern \nAdirondacks and relatively small lake influence upwind. High \ntemperatures here are most favored to reach at least 95 degrees \nwith the heat index at or above this value.\n\nKEY MESSAGE 2: Model consensus continues to promote the potential for \nthe passage of a sharp cold front Tuesday night. Given the \nantecedent heat and amount of forcing projected along the boundary, \nsome nocturnal thunderstorms are possible. Most likely areas for \nconvection remain towards the Canadian border, but timing of the \nfront could dampen impacts. Should the passage shift more overnight \nand away from the late evening time frame, then some low level \nstability would limit instability and strength of storms. \nConversely, an earlier timing could allow for enhanced convection. \nThose with camping plans may want to keep a closer eye of the \nforecast as it evolves over the next couple of days. \n\nBehind the front, temperatures trend cooler from Tuesday's \nunseasonably hot conditions. Wednesday will likely remain higher \nthan averages, but the downward trend will continue with \nnorthwesterly flow through Friday where high temperatures are \nfavored to range in the upper 70s to low/mid 80s. Successive waves \ncould produce some showers late Thursday and again heading into \nthe weekend.\n\n&&\n\n.AVIATION /00Z SUNDAY THROUGH THURSDAY/...\nThrough 00Z Monday...High confidence in VFR conditions for the \nnext 24 hours at KBTV, KPBG, KMSS and KRUT. Meanwhile, KSLK, \nKMPV, and maybe KEFK may see some brief fog or mist development \nbetween 08Z and 12Z. Fog signals are mixed...overall synoptic \nconditions are generally favorable with high pressure, light \nwinds, and clear skies. However, dewpoints are on the lower \nside...which will limit valley fog coverage and density. \nAccordingly, generally expecting valley fog to be less \npersistent and less dense than last night. Any mist or fog that \ndoes develop will dissipate at sunrise, giving way to widespread\nVFR conditions after 12Z. \n\nOutlook...\n\nSunday Night: VFR. NO SIG WX.\nMonday: VFR. NO SIG WX.\nMonday Night: VFR. NO SIG WX.\nTuesday: VFR. NO SIG WX.\nTuesday Night: VFR. Chance TSRA, Slight chance SHRA.\nWednesday: VFR. NO SIG WX.\nWednesday Night: VFR. NO SIG WX.\nThursday: VFR. NO SIG WX.\n\n&&\n\n.CLIMATE...\nHigh temperatures on Tuesday will be hot, but we are at the \nclimatological warmest part of the year. Therefore, it is far \nfrom a certainty that any records will occur. At this time, PBG,\nMPV, and MSS are the more likely long-term climate sites to \nset a record. See below for current records:\n\nMax Temp Records\nDate     BTV      MPV       MSS      PBG      SLK\n07-14  100|1995  94|1952   92|2012  95|1952  95|1934\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Kutikoff\nDISCUSSION...Kutikoff/Langbauer\nAVIATION...Duell\nCLIMATE...NWS BTV\n"
  },
  "lake_forecast": {
   "issued": "2026-07-11T18:54:00+00:00",
@@ -765,19 +765,19 @@
   }
  },
  "lake_gage": {
-  "water_temp_f": 72,
-  "water_temp_at": "2026-07-11T19:00:00.000-04:00",
-  "level_ft": 96.59,
-  "level_at": "2026-07-11T19:00:00.000-04:00",
+  "water_temp_f": 69,
+  "water_temp_at": "2026-07-11T21:00:00.000-04:00",
+  "level_ft": 96.58,
+  "level_at": "2026-07-11T21:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
   "aqi": 36,
   "category": "Good",
-  "pollutant": "OZONE",
-  "observed": "07/11/26 19:00",
-  "discussion": "On Saturday, July 11th, expect moderate air quality in southern Vermont and generally good air quality in the north."
+  "pollutant": "PM2.5",
+  "observed": "07/11/26 20:00",
+  "discussion": "On Sunday, July 12th, expect generally good air quality in Vermont."
  },
  "sun": {
   "sunrise": "2026-07-11T05:19-04:00",
