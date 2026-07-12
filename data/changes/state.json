@@ -1272,11 +1272,32 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71910681",
+      "title": "Central Vermont's Habitat for Humanity opens new Berlin ReStore",
+      "link": "https://www.mynbc5.com/article/central-vermont-new-berlin-restore/71910681",
+      "ts": "2026-07-12T22:50:00+00:00",
+      "summary": "Berlin ReStore opening aims to create more affordable housing opportunities."
+     },
+     {
+      "id": "71910702",
+      "title": "Union rally in Burlington calls for safe staffing at UVM Medical Center",
+      "link": "https://www.mynbc5.com/article/uvmmc-union-safe-staffing-rally/71910702",
+      "ts": "2026-07-12T22:30:00+00:00",
+      "summary": "UVM union members say more staffing is needed to protect patients during Burlington rally."
+     },
+     {
+      "id": "71910954",
+      "title": "More clouds expected Monday, a shower possible",
+      "link": "https://www.mynbc5.com/article/more-clouds-expected-monday-a-shower-possible-7-12-26/71910954",
+      "ts": "2026-07-12T22:26:21+00:00",
+      "summary": "Intense heat Tuesday may spark off evening and overnight severe storms"
+     },
+     {
       "id": "71908465",
       "title": "​​US Sen. Lindsey Graham dies at 71; medical examiner releases preliminary findings",
       "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
-      "ts": "2026-07-12T22:06:00+00:00",
-      "summary": "U.S. Sen. Lindsey Graham died Saturday evening after a “brief and sudden illness,” his office said in a statement posted on social media. He was 71."
+      "ts": "2026-07-12T22:25:00+00:00",
+      "summary": "Sen. Lindsey Graham died after a rupture in his aorta, according to a preliminary medical examiner finding shared by his office. He was 71."
      },
      {
       "id": "71910763",
@@ -1389,27 +1410,6 @@
       "link": "https://www.mynbc5.com/article/things-to-do-july-11/71905381",
       "ts": "2026-07-12T12:17:00+00:00",
       "summary": "Looking for some weekend fun? NBC5's Andrew Grautski has you covered every weekend with \"Things To Do!\""
-     },
-     {
-      "id": "71908947",
-      "title": "Dispatch audio details what crews responded to at Sen. Lindsey Graham's home",
-      "link": "https://www.mynbc5.com/article/lindsey-graham-ems-cardiac-arrest-death/71908947",
-      "ts": "2026-07-12T12:02:00+00:00",
-      "summary": "Emergency dispatch audio sheds new light on the sudden death of South Carolina U.S. Sen. Lindsey Graham."
-     },
-     {
-      "id": "71908489",
-      "title": "President Trump reacts to Sen. Lindsey Graham's death",
-      "link": "https://www.mynbc5.com/article/trump-reaction-lindsey-graham-death/71908489",
-      "ts": "2026-07-12T11:57:00+00:00",
-      "summary": "President Donald Trump released a statement on social media reacting to the news of Sen. Lindsey Graham's death."
-     },
-     {
-      "id": "71902239",
-      "title": "Houston builder fatally shot by ICE mourned after making a life in the US",
-      "link": "https://www.mynbc5.com/article/houston-builder-ice-shooting/71902239",
-      "ts": "2026-07-12T10:40:00+00:00",
-      "summary": "The family of a Houston homebuilder from Mexico is in mourning after Lorenzo Salgado Araujo was shot and killed by an ICE agent who was looking for someone else."
      }
     ]
    },
