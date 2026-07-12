@@ -1,29 +1,90 @@
 {
-  "updated": "2026-07-12T15:37:53+00:00",
+  "updated": "2026-07-12T19:44:23+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
     {
-      "id": "national-saturday-after",
-      "label": "It’s USLW National Semifinal Matchday!",
-      "direction": "rising",
-      "posts": 2,
+      "id": "calzone-winooski-really",
+      "label": "Best Calzone in Burlington/Winooski area?",
+      "direction": "steady",
+      "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-11T16:59:44+00:00",
+      "last_activity": "2026-07-10T23:01:11+00:00",
       "sources": [
         {
-          "title": "It’s USLW National Semifinal Matchday!",
-          "url": "https://www.reddit.com/r/burlington/comments/1utp0oe/its_uslw_national_semifinal_matchday/",
+          "title": "Best Calzone in Burlington/Winooski area?",
+          "url": "https://www.reddit.com/r/burlington/comments/1uszwrr/best_calzone_in_burlingtonwinooski_area/",
           "sub": "r/burlington",
-          "when": "2026-07-11T16:59:44+00:00",
+          "when": "2026-07-10T23:01:11+00:00",
           "comments": null
-        },
+        }
+      ]
+    },
+    {
+      "id": "baseball-bhs-doing",
+      "label": "BHS baseball field?",
+      "direction": "steady",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-10T23:01:11+00:00",
+      "sources": [
         {
-          "title": "Perfect sunny weekend ahead (81s, low humidity, heat wave holds off till Monday). Vermont Green FC women host a National Semifinal, the Lake Monsters go full maple, a drag cabaret returns after 10 years, roller derby hits the Expo, and regulators just said no to Amazon in Essex",
-          "url": "https://www.reddit.com/r/burlington/comments/1utep1m/perfect_sunny_weekend_ahead_81s_low_humidity_heat/",
+          "title": "BHS baseball field?",
+          "url": "https://www.reddit.com/r/burlington/comments/1uszaoy/bhs_baseball_field/",
           "sub": "r/burlington",
-          "when": "2026-07-11T11:01:03+00:00",
+          "when": "2026-07-10T23:01:11+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "day-fact-life",
+      "label": "Is wildfire smoke just a fact of life now",
+      "direction": "steady",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-10T23:01:11+00:00",
+      "sources": [
+        {
+          "title": "Is wildfire smoke just a fact of life now",
+          "url": "https://www.reddit.com/r/burlington/comments/1ut1hc7/is_wildfire_smoke_just_a_fact_of_life_now/",
+          "sub": "r/burlington",
+          "when": "2026-07-10T23:01:11+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "korean-bbq-getdown",
+      "label": "Korean food at South End Getdown?",
+      "direction": "steady",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-10T23:01:11+00:00",
+      "sources": [
+        {
+          "title": "Korean food at South End Getdown?",
+          "url": "https://www.reddit.com/r/burlington/comments/1ut1l1k/korean_food_at_south_end_getdown/",
+          "sub": "r/burlington",
+          "when": "2026-07-10T23:01:11+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "going-ratsmission-another",
+      "label": "Yes another what's going on at Ratsmission post?",
+      "direction": "steady",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-10T23:01:11+00:00",
+      "sources": [
+        {
+          "title": "Yes another what's going on at Ratsmission post?",
+          "url": "https://www.reddit.com/r/burlington/comments/1ut0wz5/yes_another_whats_going_on_at_ratsmission_post/",
+          "sub": "r/burlington",
+          "when": "2026-07-10T23:01:11+00:00",
           "comments": null
         }
       ]
@@ -84,49 +145,25 @@
       ]
     },
     {
-      "id": "here-snapshots-visited",
-      "label": "Visited Burlington",
+      "id": "national-saturday-after",
+      "label": "It’s USLW National Semifinal Matchday!",
       "direction": "fading",
       "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-11T02:54:50+00:00",
+      "last_activity": "2026-07-11T16:59:44+00:00",
       "sources": [
         {
-          "title": "Visited Burlington",
-          "url": "https://www.reddit.com/r/vermont/comments/1ut4nmo/visited_burlington/",
-          "sub": "r/vermont",
-          "when": "2026-07-11T02:54:50+00:00",
-          "comments": null
-        },
-        {
-          "title": "Visited Burlington",
-          "url": "https://www.reddit.com/r/burlington/comments/1ut4mvb/visited_burlington/",
+          "title": "It’s USLW National Semifinal Matchday!",
+          "url": "https://www.reddit.com/r/burlington/comments/1utp0oe/its_uslw_national_semifinal_matchday/",
           "sub": "r/burlington",
-          "when": "2026-07-11T02:01:10+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "illegally-after-bennington",
-      "label": "Vt. game wardens seek tips after doe illegally killed in…",
-      "direction": "fading",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-11T02:54:50+00:00",
-      "sources": [
-        {
-          "title": "Vt. game wardens seek tips after doe illegally killed in Bennington",
-          "url": "https://www.reddit.com/r/vermont/comments/1ut453y/vt_game_wardens_seek_tips_after_doe_illegally/",
-          "sub": "r/vermont",
-          "when": "2026-07-11T02:54:50+00:00",
+          "when": "2026-07-11T16:59:44+00:00",
           "comments": null
         },
         {
-          "title": "Two men to pay $35k after illegally building mountain bike trails in Stowe",
-          "url": "https://www.reddit.com/r/vermont/comments/1uskxyl/two_men_to_pay_35k_after_illegally_building/",
-          "sub": "r/vermont",
-          "when": "2026-07-11T02:54:50+00:00",
+          "title": "Perfect sunny weekend ahead (81s, low humidity, heat wave holds off till Monday). Vermont Green FC women host a National Semifinal, the Lake Monsters go full maple, a drag cabaret returns after 10 years, roller derby hits the Expo, and regulators just said no to Amazon in Essex",
+          "url": "https://www.reddit.com/r/burlington/comments/1utep1m/perfect_sunny_weekend_ahead_81s_low_humidity_heat/",
+          "sub": "r/burlington",
+          "when": "2026-07-11T11:01:03+00:00",
           "comments": null
         }
       ]
