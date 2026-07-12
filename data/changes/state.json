@@ -918,6 +918,20 @@
    "wcax": {
     "items": [
      {
+      "id": "2Q7K2PAKEBEP3BT63BKDZLG6JU",
+      "title": "Annual horse show draws riders, spectators from across New England to Dorset",
+      "link": "https://www.wcax.com/2026/07/12/annual-horse-show-draws-riders-spectators-across-new-england-dorset/",
+      "ts": "2026-07-12T21:38:44+00:00",
+      "summary": "An annual horse show is underway in southern Vermont, drawing riders and spectators from across New England."
+     },
+     {
+      "id": "QWGUCNP27FHQFIHUFA6NEPXLIU",
+      "title": "Hundreds of Vt. healthcare workers rally against UVM Health layoffs",
+      "link": "https://www.wcax.com/2026/07/12/hundreds-vt-healthcare-workers-rally-against-uvm-health-layoffs/",
+      "ts": "2026-07-12T21:24:57+00:00",
+      "summary": "Hundreds of unionized nurses and support staff took to Church Street Sunday, calling for a fair contract and an end to layoffs at UVM Health."
+     },
+     {
       "id": "UE7SRZ3LSVDKZPQ774DTRQVQUU",
       "title": "UVM researcher working on app to help pregnant women stop smoking",
       "link": "https://www.wcax.com/2026/07/12/uvm-researcher-working-app-help-pregnant-women-stop-smoking/",
@@ -1252,20 +1266,6 @@
       "link": "https://www.wcax.com/2026/07/09/two-north-country-hospitals-warned-over-price-transparency-violations/",
       "ts": "2026-07-09T20:44:50+00:00",
       "summary": "More than 500 hospitals across the country have received warnings from the federal government for failing to comply with price transparency requirements. Two are in the North Country."
-     },
-     {
-      "id": "QNDHVP5EGZDYTCW5CJP7A5XOBY",
-      "title": "2 escape unharmed as Reading home collapses",
-      "link": "https://www.wcax.com/2026/07/09/2-escape-unharmed-reading-home-collapses/",
-      "ts": "2026-07-09T19:44:14+00:00",
-      "summary": "Two people sleeping inside a home in Reading escaped without injury when the house collapsed early Thursday morning."
-     },
-     {
-      "id": "ELI26J5EPJCG3O3BLLRLU7M6WQ",
-      "title": "Police: Gouverneur woman slaps man for taking too long in McDonald’s drive-thru",
-      "link": "https://www.wcax.com/2026/07/09/police-gouverneur-woman-slaps-man-taking-too-long-mcdonalds-drive-thru/",
-      "ts": "2026-07-09T18:24:26+00:00",
-      "summary": "A Gouverneur woman is accused of slapping a man in front of her at the McDonald’s drive-thru for taking too long to get his food."
      }
     ]
    },
@@ -1273,17 +1273,24 @@
     "items": [
      {
       "id": "71908465",
-      "title": "US Sen. Lindsey Graham dies at 71 after sudden illness",
+      "title": "​​US Sen. Lindsey Graham dies at 71; medical examiner releases preliminary findings",
       "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
-      "ts": "2026-07-12T21:04:00+00:00",
+      "ts": "2026-07-12T22:06:00+00:00",
       "summary": "U.S. Sen. Lindsey Graham died Saturday evening after a “brief and sudden illness,” his office said in a statement posted on social media. He was 71."
      },
      {
-      "id": "71910456",
-      "title": "Wai Ching Ho, Marvel villain and Pixar voice actress, dead at 82",
-      "link": "https://www.mynbc5.com/article/wai-ching-ho-marvel-villain-and-pixar-voice-dead/71910456",
-      "ts": "2026-07-12T20:15:00+00:00",
-      "summary": "Wai Ching Ho, a veteran actress known for memorable Marvel and Pixar roles, has died. She was 82"
+      "id": "71910763",
+      "title": "Sen. Mitch McConnell releases photo from hospital, breaking silence on health condition",
+      "link": "https://www.mynbc5.com/article/mitch-mcconnell-health-update-statement-sunday/71910763",
+      "ts": "2026-07-12T22:04:00+00:00",
+      "summary": "Sen. Mitch McConnell on Sunday revealed for the first time that a fall led to his hospitalization, breaking the silence about his condition after weeks of mounting speculation about the Kentucky Republican’s health."
+     },
+     {
+      "id": "71910147",
+      "title": "Popular dog food recalled nationwide may contain sharp metal fragments, FDA says",
+      "link": "https://www.mynbc5.com/article/dog-food-recall-pedigree/71910147",
+      "ts": "2026-07-12T21:22:00+00:00",
+      "summary": "A popular dog food has been recalled nationwide that may contain sharp fragments of metal or plastic."
      },
      {
       "id": "71899250",
@@ -1291,6 +1298,13 @@
       "link": "https://www.mynbc5.com/article/white-house-security-upgrades-front-door-north-portico/71899250",
       "ts": "2026-07-12T20:15:00+00:00",
       "summary": "​The White House is upgrading the North Portico front door as part of new security measures, with additional fencing plans under review"
+     },
+     {
+      "id": "71910456",
+      "title": "Wai Ching Ho, Marvel villain and Pixar voice actress, dead at 82",
+      "link": "https://www.mynbc5.com/article/wai-ching-ho-marvel-villain-and-pixar-voice-dead/71910456",
+      "ts": "2026-07-12T20:15:00+00:00",
+      "summary": "Wai Ching Ho, a veteran actress known for memorable Marvel and Pixar roles, has died. She was 82"
      },
      {
       "id": "71910411",
@@ -1396,20 +1410,6 @@
       "link": "https://www.mynbc5.com/article/houston-builder-ice-shooting/71902239",
       "ts": "2026-07-12T10:40:00+00:00",
       "summary": "The family of a Houston homebuilder from Mexico is in mourning after Lorenzo Salgado Araujo was shot and killed by an ICE agent who was looking for someone else."
-     },
-     {
-      "id": "71908069",
-      "title": "Vermont Green FC Women's Soccer reaches first ever USL W Championship game",
-      "link": "https://www.mynbc5.com/article/vermont-green-fc-womens-soccer-reaches-first-ever-usl-w-championship-game/71908069",
-      "ts": "2026-07-12T04:14:00+00:00",
-      "summary": "Olivia Shippee secures third straight USL Playoff shutout, Green blank Asheville City SC 1-0"
-     },
-     {
-      "id": "71908266",
-      "title": "Conor McGregor suffers injury in first UFC fight in more than 5 years",
-      "link": "https://www.mynbc5.com/article/conor-mcgregor-return-leg-injury/71908266",
-      "ts": "2026-07-12T04:11:00+00:00",
-      "summary": "Conor McGregor's return against Max Holloway at UFC 329 ends at 1:09 of the first round because of a leg injury"
      }
     ]
    },
@@ -1732,14 +1732,6 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
-    "id": "da55a0348e91",
-    "title": "Paddle at Oakledge Beach",
-    "link": "https://www.meetup.com/burlington-social-activites-group/events/315222240/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-12T11:00:00-04:00",
-    "venue": "Oakledge Park"
-   },
-   {
     "id": "b19eff6cc03a",
     "title": "Howdy Pardner TWO! @ The Pinball Co-op",
     "link": "https://www.facebook.com/events/1784245162557563/",
@@ -1762,6 +1754,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-12T11:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "da55a0348e91",
+    "title": "Paddle at Oakledge Beach",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315222240/",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-12T11:00:00-04:00",
+    "venue": "Oakledge Park"
    },
    {
     "id": "6a0068311508",
@@ -2132,6 +2132,14 @@
     "venue": "Local Motion"
    },
    {
+    "id": "bcd8be066114",
+    "title": "LGBTQIA+ Mixer",
+    "link": "https://www.facebook.com/events/1387131183230102/",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-12T18:00:00-04:00",
+    "venue": "The Boardroom"
+   },
+   {
     "id": "a73f4d1d2ed1",
     "title": "New Leaf Sangha Mindfulness Practice",
     "link": "https://community.sevendaysvt.com/event/new-leaf-sangha-mindfulness-practice-41783747",
@@ -2386,6 +2394,38 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-13T11:00:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "7132dd826ffb",
+    "title": "Random Acts of Kindness Spree in Burlington VT",
+    "link": "https://www.eventbrite.com/e/random-acts-of-kindness-spree-in-burlington-vt-tickets-1991105765945",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-13T11:00:00-04:00",
+    "venue": "Speeder & Earl's Coffee"
+   },
+   {
+    "id": "4f761fb64da4",
+    "title": "Burlington Blitz (VT) Scavenger Hunt",
+    "link": "https://www.eventbrite.com/e/burlington-blitz-vt-scavenger-hunt-tickets-1979063377838",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-13T11:00:00-04:00",
+    "venue": "Speeder & Earl's Coffee"
+   },
+   {
+    "id": "04b0ce63ef04",
+    "title": "Mindful Wellness Walk in Burlington",
+    "link": "https://www.eventbrite.com/e/mindful-wellness-walk-in-burlington-tickets-1991499367217",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-13T11:00:00-04:00",
+    "venue": "Speeder & Earl's Coffee"
+   },
+   {
+    "id": "b2159223660c",
+    "title": "Burlington Bash Scavenger Hunt",
+    "link": "https://www.eventbrite.com/e/burlington-bash-scavenger-hunt-tickets-1980895760544",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-13T11:00:00-04:00",
+    "venue": "Speeder & Earl's Coffee"
    },
    {
     "id": "779c75f16da1",
@@ -2732,14 +2772,6 @@
     "venue": "Flynndog Gallery"
    },
    {
-    "id": "c3863e83cbf9",
-    "title": "Burlington Bitcoin Meetup - @ Zero Gravity",
-    "link": "https://www.meetup.com/burlington-bitcoin-meetup/events/315396632/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-14T09:00:00-04:00",
-    "venue": "Zero Gravity Craft Brewery"
-   },
-   {
     "id": "d6c434d58bbc",
     "title": "4-Day Boot Camp for PMI PMP® Certification Training in Burlington, VT",
     "link": "https://www.eventbrite.com/e/4-day-boot-camp-for-pmi-pmp-certification-training-in-burlington-vt-tickets-1989179360013",
@@ -2818,6 +2850,14 @@
     "ts": "2026-07-11T17:24:06-04:00",
     "start": "2026-07-14T09:00:00-04:00",
     "venue": "Vermont Comedy Club"
+   },
+   {
+    "id": "c3863e83cbf9",
+    "title": "Burlington Bitcoin Meetup - @ Zero Gravity",
+    "link": "https://www.meetup.com/burlington-bitcoin-meetup/events/315396632/",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-14T09:00:00-04:00",
+    "venue": "Zero Gravity Craft Brewery"
    },
    {
     "id": "39d04530a66c",
@@ -3028,6 +3068,14 @@
     "venue": "South Burlington Public Library"
    },
    {
+    "id": "cea4133de5e4",
+    "title": "House & Garden Tour at the Shelburne Farms Inn 2026",
+    "link": "https://www.eventbrite.com/e/house-garden-tour-at-the-shelburne-farms-inn-2026-tickets-1987835581736",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-14T13:30:00-04:00",
+    "venue": "Shelburne Farms"
+   },
+   {
     "id": "5283563e5d6e",
     "title": "The Ultimate Chocolate Tasting",
     "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260714140000",
@@ -3164,6 +3212,14 @@
     "venue": "Doma Bar"
    },
    {
+    "id": "45ad87db1b6c",
+    "title": "Farm to Medicine Cabinet Herb Walk",
+    "link": "https://www.eventbrite.com/e/farm-to-medicine-cabinet-herb-walk-tickets-1987394848491",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-14T17:00:00-04:00",
+    "venue": "Shelburne Farms"
+   },
+   {
     "id": "1b14571aafb8",
     "title": "Milton Farmers Market",
     "link": "https://community.sevendaysvt.com/event/milton-farmers-market-45127047",
@@ -3178,14 +3234,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-14T17:00:00-04:00",
     "venue": "Burlington Bay Market & Café"
-   },
-   {
-    "id": "45ad87db1b6c",
-    "title": "Farm to Medicine Cabinet Herb Walk",
-    "link": "https://www.eventbrite.com/e/farm-to-medicine-cabinet-herb-walk-tickets-1987394848491",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-14T17:00:00-04:00",
-    "venue": "Shelburne Farms"
    },
    {
     "id": "51014af9530d",
@@ -3204,6 +3252,14 @@
     "venue": "City Center Park"
    },
    {
+    "id": "1b10b402b903",
+    "title": "Color and Form: Arranging Cut Flowers",
+    "link": "https://www.eventbrite.com/e/color-and-form-arranging-cut-flowers-tickets-1991698657299",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-14T17:30:00-04:00",
+    "venue": "Glory Flower Farm"
+   },
+   {
     "id": "d596fcc37d49",
     "title": "Online Quit Smoking Workshop, 7/14/26-8/4/26, Tuesdays 5:30pm-6:30pm",
     "link": "https://www.facebook.com/events/27169920529331080/",
@@ -3218,14 +3274,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-14T17:30:00-04:00",
     "venue": "Four Quarters Brewing"
-   },
-   {
-    "id": "1b10b402b903",
-    "title": "Color and Form: Arranging Cut Flowers",
-    "link": "https://www.eventbrite.com/e/color-and-form-arranging-cut-flowers-tickets-1991698657299",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-14T17:30:00-04:00",
-    "venue": "Glory Flower Farm"
    },
    {
     "id": "4f395172e080",
@@ -3506,6 +3554,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-15T09:00:00-04:00",
     "venue": "Perkins Pier"
+   },
+   {
+    "id": "9e8ed6c4dcca",
+    "title": "Nature Journaling at Rock Point",
+    "link": "https://www.eventbrite.com/e/nature-journaling-at-rock-point-tickets-1986459752594",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-15T10:00:00-04:00",
+    "venue": "Rock Point"
    },
    {
     "id": "0aa5ff8f211c",
@@ -3940,6 +3996,14 @@
     "venue": "Jaycee Park"
    },
    {
+    "id": "31ddfa38c0b5",
+    "title": "Spritz & Stem at The 126",
+    "link": "https://www.eventbrite.com/e/spritz-stem-at-the-126-tickets-1992397610888",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-15T17:30:00-04:00",
+    "venue": "The 126"
+   },
+   {
     "id": "c8cfbf81ae7f",
     "title": "Pick-up Basketball",
     "link": "https://www.meetup.com/burlington-social-activites-group/events/315418635/",
@@ -3970,14 +4034,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-15T17:30:00-04:00",
     "venue": "Huntington Recreation Field"
-   },
-   {
-    "id": "31ddfa38c0b5",
-    "title": "Spritz & Stem at The 126",
-    "link": "https://www.eventbrite.com/e/spritz-stem-at-the-126-tickets-1992397610888",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-15T17:30:00-04:00",
-    "venue": "The 126"
    },
    {
     "id": "77533d28db95",
@@ -4228,6 +4284,14 @@
     "venue": "Venetian Soda Lounge"
    },
    {
+    "id": "ecaa31749ebe",
+    "title": "2026 Governor and Lieutenant Governor Housing Forum",
+    "link": "https://www.eventbrite.com/e/2026-governor-and-lieutenant-governor-housing-forum-tickets-1992497189731",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-15T19:00:00-04:00",
+    "venue": "South Burlington Public Library"
+   },
+   {
     "id": "5112677584f7",
     "title": "Melissa Chilinski & Elijah Berlow",
     "link": "https://www.facebook.com/events/1687680502465424/",
@@ -4282,14 +4346,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-15T19:00:00-04:00",
     "venue": "Venetian Soda Lounge"
-   },
-   {
-    "id": "ecaa31749ebe",
-    "title": "2026 Governor and Lieutenant Governor Housing Forum",
-    "link": "https://www.eventbrite.com/e/2026-governor-and-lieutenant-governor-housing-forum-tickets-1992497189731",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-15T19:00:00-04:00",
-    "venue": "South Burlington Public Library"
    },
    {
     "id": "df49e9170d11",
@@ -4804,20 +4860,20 @@
     "venue": ""
    },
    {
-    "id": "7d89e8667a19",
-    "title": "Thursday Happy Hour at Lincoln's in Burlington",
-    "link": "https://www.facebook.com/events/1684284916117146/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-16T17:00:00-04:00",
-    "venue": "Lincolns Burlington"
-   },
-   {
     "id": "8d421fd7d2f8",
     "title": "Dark Star Project: Live at the Lantern",
     "link": "https://www.eventbrite.com/e/dark-star-project-live-at-the-lantern-tickets-1989625417182",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-16T17:00:00-04:00",
     "venue": "Old Lantern Events Barn"
+   },
+   {
+    "id": "7d89e8667a19",
+    "title": "Thursday Happy Hour at Lincoln's in Burlington",
+    "link": "https://www.facebook.com/events/1684284916117146/",
+    "ts": "2026-07-10T23:07:48-04:00",
+    "start": "2026-07-16T17:00:00-04:00",
+    "venue": "Lincolns Burlington"
    },
    {
     "id": "e12eb119b795",
@@ -4862,7 +4918,7 @@
    {
     "id": "bba715734235",
     "title": "Savor the Summer: Herbal Syrups, Shrubs & Spritzers with Spoonful Herbals",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/savor-the-summer-herbal-syrups-shrubs-spritzers-with-spoonful-herbals/18757502/2026-07-16T17",
+    "link": "https://www.eventbrite.com/e/savor-the-summer-herbal-syrups-shrubs-spritzers-with-spoonful-herbals-registration-1986342328375",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-16T17:30:00-04:00",
     "venue": "Shelburne Farms"
@@ -5268,14 +5324,6 @@
     "venue": "Outright Vermont"
    },
    {
-    "id": "9a81f4896852",
-    "title": "Family Friday With Linda Bassick",
-    "link": "https://community.sevendaysvt.com/event/family-friday-with-linda-bassick-44954738",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-17T09:00:00-04:00",
-    "venue": "Pingala Café North Avenue"
-   },
-   {
     "id": "1cc3e06d4c04",
     "title": "PMP Certification Weekend Classroom Training in Burlington, VT",
     "link": "https://www.eventbrite.com/e/pmp-certification-weekend-classroom-training-in-burlington-vt-tickets-1987586962108",
@@ -5290,6 +5338,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-17T09:00:00-04:00",
     "venue": "1068 Williston Rd"
+   },
+   {
+    "id": "9a81f4896852",
+    "title": "Family Friday With Linda Bassick",
+    "link": "https://community.sevendaysvt.com/event/family-friday-with-linda-bassick-44954738",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-17T09:00:00-04:00",
+    "venue": "Pingala Café North Avenue"
    },
    {
     "id": "c0634fa9a0ca",
@@ -5532,20 +5588,20 @@
     "venue": "South Burlington Public Library"
    },
    {
-    "id": "8b317115a547",
-    "title": "Dave Mitchell Blues Revue & Jam",
-    "link": "https://www.facebook.com/events/1270623105271880/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-17T14:00:00-04:00",
-    "venue": "Red Square"
-   },
-   {
     "id": "11dc703c049e",
     "title": "Sun to Cheese Tour 2026",
     "link": "https://www.eventbrite.com/e/sun-to-cheese-tour-2026-registration-1987834634904",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-17T14:00:00-04:00",
     "venue": "Shelburne Farms"
+   },
+   {
+    "id": "8b317115a547",
+    "title": "Dave Mitchell Blues Revue & Jam",
+    "link": "https://www.facebook.com/events/1270623105271880/",
+    "ts": "2026-07-10T23:07:48-04:00",
+    "start": "2026-07-17T14:00:00-04:00",
+    "venue": "Red Square"
    },
    {
     "id": "79e681c11e56",
@@ -5916,6 +5972,14 @@
     "venue": "Foam Brewers"
    },
    {
+    "id": "f45ce927186c",
+    "title": "Moth Lighting at Rock Point",
+    "link": "https://www.eventbrite.com/e/moth-lighting-at-rock-point-tickets-1992943679193",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-17T21:00:00-04:00",
+    "venue": "Rock Point"
+   },
+   {
     "id": "ab7a193fc124",
     "title": "90 PROOF @ On Tap",
     "link": "https://www.facebook.com/events/1664890941337154/",
@@ -5930,14 +5994,6 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-17T21:00:00-04:00",
     "venue": "The Monkey House"
-   },
-   {
-    "id": "f45ce927186c",
-    "title": "Moth Lighting at Rock Point",
-    "link": "https://www.eventbrite.com/e/moth-lighting-at-rock-point-tickets-1992943679193",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-17T21:00:00-04:00",
-    "venue": "Rock Point"
    },
    {
     "id": "d76aa6dd052f",
@@ -5972,6 +6028,14 @@
     "venue": "Flynndog Gallery"
    },
    {
+    "id": "5dc072300f15",
+    "title": "Prehospital Trauma Life Support (PHTLS)",
+    "link": "https://www.eventbrite.com/e/prehospital-trauma-life-support-phtls-tickets-1992525981849",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-18T08:00:00-04:00",
+    "venue": "40 Idx Dr"
+   },
+   {
     "id": "4eec142188d9",
     "title": "Women's Intermediate MTB Clinic At Catamount OFC!",
     "link": "https://www.facebook.com/events/937830962498949/",
@@ -5986,14 +6050,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T08:00:00-04:00",
     "venue": "Rock Point"
-   },
-   {
-    "id": "5dc072300f15",
-    "title": "Prehospital Trauma Life Support (PHTLS)",
-    "link": "https://www.eventbrite.com/e/prehospital-trauma-life-support-phtls-tickets-1992525981849",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T08:00:00-04:00",
-    "venue": "40 Idx Dr"
    },
    {
     "id": "c276fae205a8",
@@ -6036,14 +6092,6 @@
     "venue": "1068 Williston Rd"
    },
    {
-    "id": "b72ed74c79cc",
-    "title": "CBAP®Exam Prep Weekend Classroom Training – IIBA® Aligned in Burlington, VT",
-    "link": "https://www.eventbrite.com/e/cbapexam-prep-weekend-classroom-training-iiba-aligned-in-burlington-vt-tickets-1991979271624",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T09:00:00-04:00",
-    "venue": "1068 Williston Rd"
-   },
-   {
     "id": "c2a4c371a487",
     "title": "CBAP®Exam Prep Weekend Classroom Training-IIBA® Aligned in Vermont, VT",
     "link": "https://www.eventbrite.com/e/cbapexam-prep-weekend-classroom-training-iiba-aligned-in-vermont-vt-tickets-1983520560391",
@@ -6052,12 +6100,20 @@
     "venue": "300 Interstate Corporate Ctr"
    },
    {
-    "id": "3372680ecdbe",
-    "title": "PMI-CPMAI® Weekend Training – Project in AI Certification in Burlington, VT",
-    "link": "https://www.eventbrite.com/e/pmi-cpmai-weekend-training-project-in-ai-certification-in-burlington-vt-tickets-1990952381167",
-    "ts": "2026-07-10T23:07:48-04:00",
+    "id": "b72ed74c79cc",
+    "title": "CBAP®Exam Prep Weekend Classroom Training – IIBA® Aligned in Burlington, VT",
+    "link": "https://www.eventbrite.com/e/cbapexam-prep-weekend-classroom-training-iiba-aligned-in-burlington-vt-tickets-1991979271624",
+    "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T09:00:00-04:00",
-    "venue": "1068 Williston Rd, South Burlington, VT 05403"
+    "venue": "1068 Williston Rd"
+   },
+   {
+    "id": "4f5e1b84555f",
+    "title": "PMI-CPMAI® Weekend Training – Project in AI Certification in Vermont, VT",
+    "link": "https://www.eventbrite.com/e/pmi-cpmai-weekend-training-project-in-ai-certification-in-vermont-vt-tickets-1993512914792",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-18T09:00:00-04:00",
+    "venue": "300 Interstate Corporate Ctr"
    },
    {
     "id": "b1ddc4d562de",
@@ -6076,6 +6132,14 @@
     "venue": "300 Interstate Corporate Ctr"
    },
    {
+    "id": "3372680ecdbe",
+    "title": "PMI-CPMAI® Weekend Training – Project in AI Certification in Burlington, VT",
+    "link": "https://www.eventbrite.com/e/pmi-cpmai-weekend-training-project-in-ai-certification-in-burlington-vt-tickets-1990952381167",
+    "ts": "2026-07-10T23:07:48-04:00",
+    "start": "2026-07-18T09:00:00-04:00",
+    "venue": "1068 Williston Rd, South Burlington, VT 05403"
+   },
+   {
     "id": "14698a72ddf2",
     "title": "Grab & Go Kit: Boba Tea",
     "link": "https://community.sevendaysvt.com/event/grab-and-go-kit-boba-tea-45226562",
@@ -6092,20 +6156,20 @@
     "venue": "Perkins Pier"
    },
    {
-    "id": "4f5e1b84555f",
-    "title": "PMI-CPMAI® Weekend Training – Project in AI Certification in Vermont, VT",
-    "link": "https://www.eventbrite.com/e/pmi-cpmai-weekend-training-project-in-ai-certification-in-vermont-vt-tickets-1993512914792",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T09:00:00-04:00",
-    "venue": "300 Interstate Corporate Ctr"
-   },
-   {
     "id": "ec7302061ab7",
     "title": "Wild Turtle Weekend",
     "link": "https://calendar.time.ly/vfaca7kw/event/78392617/20260718100000",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T10:00:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
+   },
+   {
+    "id": "81fb90692bda",
+    "title": "Beary Fun Beach Party!",
+    "link": "https://www.eventbrite.com/e/beary-fun-beach-party-tickets-1989839961891",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-18T10:00:00-04:00",
+    "venue": "Vermont Teddy Bear Factory"
    },
    {
     "id": "f80186071531",
@@ -6228,17 +6292,17 @@
     "venue": "Winooski Memorial Library"
    },
    {
-    "id": "2e875a6f0a2f",
-    "title": "Insect Pollinator Walk",
-    "link": "https://community.sevendaysvt.com/event/insect-pollinator-walk-45152811",
+    "id": "a61ba985cdfb",
+    "title": "Insect Pollinator Walks at Rock Point",
+    "link": "https://www.eventbrite.com/e/insect-pollinator-walks-at-rock-point-tickets-1986546521121",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T10:30:00-04:00",
     "venue": "Rock Point"
    },
    {
-    "id": "a61ba985cdfb",
-    "title": "Insect Pollinator Walks at Rock Point",
-    "link": "https://www.eventbrite.com/e/insect-pollinator-walks-at-rock-point-tickets-1986546521121",
+    "id": "2e875a6f0a2f",
+    "title": "Insect Pollinator Walk",
+    "link": "https://community.sevendaysvt.com/event/insect-pollinator-walk-45152811",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T10:30:00-04:00",
     "venue": "Rock Point"
@@ -6276,6 +6340,14 @@
     "venue": "South Burlington Public Library"
    },
    {
+    "id": "74d2c05144b4",
+    "title": "Saturday Zentangle with Julia Davenport",
+    "link": "https://www.eventbrite.com/e/saturday-zentangle-with-julia-davenport-tickets-1992648808226",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-18T11:00:00-04:00",
+    "venue": "Essex Free Library"
+   },
+   {
     "id": "622e483c59b9",
     "title": "Here to Help",
     "link": "https://www.facebook.com/events/853605907754308/",
@@ -6306,14 +6378,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T11:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "74d2c05144b4",
-    "title": "Saturday Zentangle With Julia Davenport",
-    "link": "https://community.sevendaysvt.com/event/saturday-zentangle-with-julia-davenport-45272822",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T11:00:00-04:00",
-    "venue": "Essex Free Library"
    },
    {
     "id": "589ff6ad5761",
@@ -6428,6 +6492,14 @@
     "venue": "Shelburne Vineyard"
    },
    {
+    "id": "36ec3ba0e9dd",
+    "title": "Hill Fest: Live at the Lantern",
+    "link": "https://www.eventbrite.com/e/hill-fest-live-at-the-lantern-tickets-1990533755045",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-18T13:00:00-04:00",
+    "venue": "Old Lantern Events Barn"
+   },
+   {
     "id": "e0f570f6959b",
     "title": "Paddle or Kayak @ Shelburne Bay",
     "link": "https://www.meetup.com/burlington-social-activites-group/events/315582983/",
@@ -6450,14 +6522,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T13:00:00-04:00",
     "venue": "The Media Factory"
-   },
-   {
-    "id": "36ec3ba0e9dd",
-    "title": "Hill Fest: Live at the Lantern",
-    "link": "https://community.sevendaysvt.com/event/hill-fest-live-at-the-lantern-45175463",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T13:00:00-04:00",
-    "venue": "Old Lantern Events Barn"
    },
    {
     "id": "fda75f49d854",
@@ -8236,6 +8300,14 @@
     "venue": "Vermont Comedy Club"
    },
    {
+    "id": "a6a0a3616774",
+    "title": "Myra Flynn Live at Doma",
+    "link": "https://www.eventbrite.com/e/myra-flynn-live-at-doma-tickets-1990796898113",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-21T19:00:00-04:00",
+    "venue": "Doma Bar"
+   },
+   {
     "id": "fd92342c3baa",
     "title": "Nora Kelly w/ Nora & Eliza",
     "link": "https://www.facebook.com/events/1765359151509642/",
@@ -8274,14 +8346,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-21T19:00:00-04:00",
     "venue": "Main Street Landing Performing Arts Center"
-   },
-   {
-    "id": "a6a0a3616774",
-    "title": "Myra Flynn Live at Doma",
-    "link": "https://www.eventbrite.com/e/myra-flynn-live-at-doma-tickets-1990796898113",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-21T19:00:00-04:00",
-    "venue": "Doma Bar"
    },
    {
     "id": "bfbddc44e71e",
@@ -8356,14 +8420,6 @@
     "venue": "1068 Williston Rd"
    },
    {
-    "id": "a3a408c8604b",
-    "title": "CEH Certification In-Person Training in Vermont, VT",
-    "link": "https://www.eventbrite.com/e/ceh-certification-in-person-training-in-vermont-vt-tickets-1993123483994",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T09:00:00-04:00",
-    "venue": "300 Interstate Corporate Ctr"
-   },
-   {
     "id": "6a5cab7fa558",
     "title": "Data Analytics Certification Training program in Colchester, VT",
     "link": "https://www.eventbrite.com/e/data-analytics-certification-training-program-in-colchester-vt-tickets-1986212043690",
@@ -8372,12 +8428,20 @@
     "venue": "Regus Business Center"
    },
    {
-    "id": "e0bf0d3232bc",
-    "title": "Data Analytics Certification Training in Burlington, VT",
-    "link": "https://www.eventbrite.com/e/data-analytics-certification-training-in-burlington-vt-tickets-1986199041801",
+    "id": "a3a408c8604b",
+    "title": "CEH Certification In-Person Training in Vermont, VT",
+    "link": "https://www.eventbrite.com/e/ceh-certification-in-person-training-in-vermont-vt-tickets-1993123483994",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-22T09:00:00-04:00",
-    "venue": "Regus Business Center"
+    "venue": "300 Interstate Corporate Ctr"
+   },
+   {
+    "id": "bc78d5d57fdd",
+    "title": "PMI-CPMAI Certification Training – 3-Day Bootcamp in Vermont, VT",
+    "link": "https://www.eventbrite.com/e/pmi-cpmai-certification-training-3-day-bootcamp-in-vermont-vt-tickets-1985706412333",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-22T09:00:00-04:00",
+    "venue": "300 Interstate Corporate Ctr"
    },
    {
     "id": "890bbc8d1137",
@@ -8388,12 +8452,12 @@
     "venue": "Burlington, VT"
    },
    {
-    "id": "bc78d5d57fdd",
-    "title": "PMI-CPMAI Certification Training – 3-Day Bootcamp in Vermont, VT",
-    "link": "https://www.eventbrite.com/e/pmi-cpmai-certification-training-3-day-bootcamp-in-vermont-vt-tickets-1985706412333",
+    "id": "e0bf0d3232bc",
+    "title": "Data Analytics Certification Training in Burlington, VT",
+    "link": "https://www.eventbrite.com/e/data-analytics-certification-training-in-burlington-vt-tickets-1986199041801",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-22T09:00:00-04:00",
-    "venue": "300 Interstate Corporate Ctr"
+    "venue": "Regus Business Center"
    },
    {
     "id": "583678b07ec5",
@@ -8492,6 +8556,14 @@
     "venue": "South Burlington Public Library"
    },
    {
+    "id": "4682ff758d87",
+    "title": "Birds: An Exploration Through Art",
+    "link": "https://www.eventbrite.com/e/birds-an-exploration-through-art-tickets-1989113693603",
+    "ts": "2026-07-11T17:24:06-04:00",
+    "start": "2026-07-22T10:30:00-04:00",
+    "venue": "Carpenter-Carse Library"
+   },
+   {
     "id": "edb3e0d36b00",
     "title": "Family Artmaking",
     "link": "https://shelburnemuseum.org/event/family-artmaking-3/",
@@ -8514,14 +8586,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-22T10:30:00-04:00",
     "venue": "Dorothy Alling Memorial Library"
-   },
-   {
-    "id": "4682ff758d87",
-    "title": "Birds: An Exploration Through Art",
-    "link": "https://www.eventbrite.com/e/birds-an-exploration-through-art-tickets-1989113693603",
-    "ts": "2026-07-11T17:24:06-04:00",
-    "start": "2026-07-22T10:30:00-04:00",
-    "venue": "Carpenter-Carse Library"
    },
    {
     "id": "a4b8eec7846a",
@@ -8756,6 +8820,14 @@
     "venue": "Farmhouse Tap & Grill"
    },
    {
+    "id": "15d875888c4a",
+    "title": "Tree ID and Natural History Tour of Red Rocks Park",
+    "link": "https://www.eventbrite.com/e/tree-id-and-natural-history-tour-of-red-rocks-park-tickets-1990564350557",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-22T17:00:00-04:00",
+    "venue": "Oakledge Park"
+   },
+   {
     "id": "923c4492d494",
     "title": "Yarn Crafters Group",
     "link": "https://community.sevendaysvt.com/event/yarn-crafters-group-38851230",
@@ -8786,14 +8858,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-22T17:00:00-04:00",
     "venue": "Red Rocks Park"
-   },
-   {
-    "id": "15d875888c4a",
-    "title": "Tree ID and Natural History Tour of Red Rocks Park",
-    "link": "https://www.eventbrite.com/e/tree-id-and-natural-history-tour-of-red-rocks-park-tickets-1990564350557",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T17:00:00-04:00",
-    "venue": "Oakledge Park"
    },
    {
     "id": "2a2f79edf8ab",
@@ -9468,6 +9532,14 @@
     "venue": ""
    },
    {
+    "id": "694ef94e6a29",
+    "title": "Three Piece Meal Band: Live at the Lantern",
+    "link": "https://www.eventbrite.com/e/three-piece-meal-band-live-at-the-lantern-tickets-1989625449278",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-23T17:00:00-04:00",
+    "venue": "Old Lantern Events Barn"
+   },
+   {
     "id": "61c4602a2051",
     "title": "CSA Ride!",
     "link": "https://www.mychamplainvalley.com/calendar/#/details/csa-ride-/19306508/2026-07-23T17",
@@ -9482,14 +9554,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-23T17:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "694ef94e6a29",
-    "title": "Three Piece Meal Band: Live at the Lantern",
-    "link": "https://www.eventbrite.com/e/three-piece-meal-band-live-at-the-lantern-tickets-1989625449278",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-23T17:00:00-04:00",
-    "venue": "Old Lantern Events Barn"
    },
    {
     "id": "497a3c18c7e0",
@@ -9820,14 +9884,6 @@
     "venue": "Admissions at Perry Hall"
    },
    {
-    "id": "43a2511b59c4",
-    "title": "Family Friday With Linda Bassick",
-    "link": "https://community.sevendaysvt.com/event/family-friday-with-linda-bassick-44954738",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T09:00:00-04:00",
-    "venue": "Pingala Café North Avenue"
-   },
-   {
     "id": "edeca280e093",
     "title": "Change Management Strategies, 1-Day Training in Burlington, VT",
     "link": "https://www.eventbrite.com/e/change-management-strategies-1-day-training-in-burlington-vt-tickets-1987784699546",
@@ -9850,6 +9906,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-24T09:00:00-04:00",
     "venue": "Regus Business Center"
+   },
+   {
+    "id": "43a2511b59c4",
+    "title": "Family Friday With Linda Bassick",
+    "link": "https://community.sevendaysvt.com/event/family-friday-with-linda-bassick-44954738",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-24T09:00:00-04:00",
+    "venue": "Pingala Café North Avenue"
    },
    {
     "id": "840362c758e0",
@@ -10204,14 +10268,6 @@
     "venue": ""
    },
    {
-    "id": "5945d359dfe7",
-    "title": "\"Weird Al\" Yankovic",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/-weird-al-yankovic/17496180/2026-07-24T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T18:00:00-04:00",
-    "venue": "Higher Ground"
-   },
-   {
     "id": "21fa08831a98",
     "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
     "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-24T18",
@@ -10298,6 +10354,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-24T19:30:00-04:00",
     "venue": "Champlain Valley Exposition"
+   },
+   {
+    "id": "5945d359dfe7",
+    "title": "\"Weird Al\" Yankovic",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/-weird-al-yankovic/17496180/2026-07-24T19",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-24T19:30:00-04:00",
+    "venue": "Higher Ground"
    },
    {
     "id": "cef9f2e54e72",
@@ -10420,17 +10484,17 @@
     "venue": "Birds of Vermont Museum"
    },
    {
-    "id": "8d75c4154342",
-    "title": "Weekly Bird Walk",
-    "link": "https://community.sevendaysvt.com/event/weekly-bird-walk-44890940",
+    "id": "9a809a535e07",
+    "title": "Weekly Bird Walks at Rock Point Center",
+    "link": "https://www.eventbrite.com/e/weekly-bird-walks-at-rock-point-center-tickets-1981018116514",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-25T08:00:00-04:00",
     "venue": "Rock Point"
    },
    {
-    "id": "9a809a535e07",
-    "title": "Weekly Bird Walks at Rock Point Center",
-    "link": "https://www.eventbrite.com/e/weekly-bird-walks-at-rock-point-center-tickets-1981018116514",
+    "id": "8d75c4154342",
+    "title": "Weekly Bird Walk",
+    "link": "https://community.sevendaysvt.com/event/weekly-bird-walk-44890940",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-25T08:00:00-04:00",
     "venue": "Rock Point"
@@ -10460,22 +10524,6 @@
     "venue": "South Burlington Public Library"
    },
    {
-    "id": "cf082a94d28c",
-    "title": "Board Game Brunch",
-    "link": "https://www.meetup.com/friendlytabletopgamers/events/315556504/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T09:00:00-04:00",
-    "venue": "Old Town Cafe & Comics"
-   },
-   {
-    "id": "159ba3b90f21",
-    "title": "Monthly Swaportunity",
-    "link": "https://community.sevendaysvt.com/event/monthly-swaportunity-44952184",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T09:00:00-04:00",
-    "venue": "Old Town Cafe & Comics"
-   },
-   {
     "id": "ae74c39ad584",
     "title": "Drawing Insects: From Specimens to Life",
     "link": "https://www.eventbrite.com/e/drawing-insects-from-specimens-to-life-tickets-1992928114639",
@@ -10490,6 +10538,22 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-25T09:00:00-04:00",
     "venue": "1068 Williston Rd"
+   },
+   {
+    "id": "cf082a94d28c",
+    "title": "Board Game Brunch",
+    "link": "https://www.meetup.com/friendlytabletopgamers/events/315556504/",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-25T09:00:00-04:00",
+    "venue": "Old Town Cafe & Comics"
+   },
+   {
+    "id": "159ba3b90f21",
+    "title": "Monthly Swaportunity",
+    "link": "https://community.sevendaysvt.com/event/monthly-swaportunity-44952184",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-25T09:00:00-04:00",
+    "venue": "Old Town Cafe & Comics"
    },
    {
     "id": "87d1ef535823",
@@ -10516,6 +10580,14 @@
     "venue": "Zero Gravity Craft Brewery"
    },
    {
+    "id": "3281d4cf6dcd",
+    "title": "Williston|EVERYTHING EYEBROW™ Certification|8 Methods | School of Glamology",
+    "link": "https://www.eventbrite.com/e/willistoneverything-eyebrowtm-certification8-methods-school-of-glamology-tickets-1603390186209",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-25T10:00:00-04:00",
+    "venue": "School of Glamology"
+   },
+   {
     "id": "7772c82c0376",
     "title": "Mathew Pardue",
     "link": "https://community.sevendaysvt.com/event/mathew-pardue-45158926",
@@ -10530,14 +10602,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-25T10:00:00-04:00",
     "venue": "Gardener's Supply Burlington"
-   },
-   {
-    "id": "3281d4cf6dcd",
-    "title": "Williston|EVERYTHING EYEBROW™ Certification|8 Methods | School of Glamology",
-    "link": "https://www.eventbrite.com/e/willistoneverything-eyebrowtm-certification8-methods-school-of-glamology-tickets-1603390186209",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T10:00:00-04:00",
-    "venue": "School of Glamology"
    },
    {
     "id": "3068857f3f73",
@@ -12052,6 +12116,14 @@
     "venue": ""
    },
    {
+    "id": "b784f93512da",
+    "title": "Adult Craft: Polymer Clay Pendants",
+    "link": "https://www.eventbrite.com/e/adult-craft-polymer-clay-pendants-tickets-1988646018775",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-07-28T14:30:00-04:00",
+    "venue": "Burnham Memorial Library"
+   },
+   {
     "id": "2ea79650802f",
     "title": "Middle Grade Movie in the Loft- Ice Age Dawn of the Dinosaurs",
     "link": "https://southburlingtonlibrary.org/middle-grade-movie-in-the-loft",
@@ -12380,20 +12452,20 @@
     "venue": ""
    },
    {
-    "id": "42dc0627e441",
-    "title": "Outdoor Play Time",
-    "link": "https://community.sevendaysvt.com/event/outdoor-play-time-45254431",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-29T10:00:00-04:00",
-    "venue": "Brownell Library"
-   },
-   {
     "id": "b95a3a5f4743",
     "title": "Rookie Real Estate Agent Workshop - Vermont",
     "link": "https://www.eventbrite.com/e/rookie-real-estate-agent-workshop-vermont-tickets-1988839715126",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-29T10:00:00-04:00",
     "venue": "68 Randall St"
+   },
+   {
+    "id": "42dc0627e441",
+    "title": "Outdoor Play Time",
+    "link": "https://community.sevendaysvt.com/event/outdoor-play-time-45254431",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-29T10:00:00-04:00",
+    "venue": "Brownell Library"
    },
    {
     "id": "1ba0db459aed",
@@ -13244,20 +13316,20 @@
     "venue": ""
    },
    {
-    "id": "0ab53b8bd12d",
-    "title": "HULA STORY SESSIONS: INTERNS OF HULA",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/hula-story-sessions-interns-of-hula/19075332/2026-07-30T17",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-30T17:00:00-04:00",
-    "venue": "Hula"
-   },
-   {
     "id": "0b6e2d152cc7",
     "title": "Greenbush Trio: Live at the Lantern",
     "link": "https://www.eventbrite.com/e/greenbush-trio-live-at-the-lantern-tickets-1989625727109",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-30T17:00:00-04:00",
     "venue": "Old Lantern Events Barn"
+   },
+   {
+    "id": "0ab53b8bd12d",
+    "title": "HULA STORY SESSIONS: INTERNS OF HULA",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/hula-story-sessions-interns-of-hula/19075332/2026-07-30T17",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-30T17:00:00-04:00",
+    "venue": "Hula"
    },
    {
     "id": "a53da91b4dcb",
@@ -13548,20 +13620,20 @@
     "venue": "The Flynn"
    },
    {
-    "id": "f936b91a6182",
-    "title": "Weekly Meditation",
-    "link": "https://community.sevendaysvt.com/event/weekly-meditation-44684837",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-31T08:00:00-04:00",
-    "venue": "Outright Vermont"
-   },
-   {
     "id": "9abc4616c222",
     "title": "9th Annual Andrew Godaire Memorial Golf Tournament",
     "link": "https://www.eventbrite.com/e/9th-annual-andrew-godaire-memorial-golf-tournament-tickets-1988690046463",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-31T08:00:00-04:00",
     "venue": "West Bolton Golf Club"
+   },
+   {
+    "id": "f936b91a6182",
+    "title": "Weekly Meditation",
+    "link": "https://community.sevendaysvt.com/event/weekly-meditation-44684837",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-31T08:00:00-04:00",
+    "venue": "Outright Vermont"
    },
    {
     "id": "ed3774101e05",
@@ -14108,6 +14180,14 @@
     "venue": "Perkins Pier"
    },
    {
+    "id": "467911ed2caa",
+    "title": "BTown Coffee Club",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315653229/",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-08-01T10:00:00-04:00",
+    "venue": "Zero Gravity Craft Brewery"
+   },
+   {
     "id": "405e7feb50d4",
     "title": "Friends Book Sale",
     "link": "https://fletcherfree.libcal.com/event/16806327",
@@ -14122,6 +14202,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-01T10:00:00-04:00",
     "venue": "BCA Studios"
+   },
+   {
+    "id": "36ee8e717f74",
+    "title": "KW Fun Run/Walk 5K to benefit Green Mountain Habitat for Humanity",
+    "link": "https://www.eventbrite.com/e/kw-fun-runwalk-5k-to-benefit-green-mountain-habitat-for-humanity-tickets-1992079283763",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-01T10:00:00-04:00",
+    "venue": "68 Randall St"
    },
    {
     "id": "385ad73604d0",
@@ -14170,14 +14258,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-01T10:00:00-04:00",
     "venue": "Champlain Valley Exposition"
-   },
-   {
-    "id": "36ee8e717f74",
-    "title": "KW Fun Run/Walk 5K to benefit Green Mountain Habitat for Humanity",
-    "link": "https://www.eventbrite.com/e/kw-fun-runwalk-5k-to-benefit-green-mountain-habitat-for-humanity-tickets-1992079283763",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-01T10:00:00-04:00",
-    "venue": "68 Randall St"
    },
    {
     "id": "c99d09684fe5",
@@ -15214,7 +15294,7 @@
    {
     "id": "dc4620fbb65d",
     "title": "August Networking Coffee for Women at Hula",
-    "link": "https://www.facebook.com/events/1248906077172883/",
+    "link": "https://www.eventbrite.com/e/august-networking-coffee-for-women-at-hula-tickets-1991203779105",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-04T08:30:00-04:00",
     "venue": "Hula"
@@ -15510,7 +15590,7 @@
    {
     "id": "7f10f3185176",
     "title": "Herbal Oil Infusions, Salves and Lotions",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/herbal-oil-infusions-salves-and-lotions/18757503/2026-08-04T17",
+    "link": "https://www.eventbrite.com/e/herbal-oil-infusions-salves-and-lotions-tickets-1987543642538",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-04T17:30:00-04:00",
     "venue": "Shelburne Farms"
@@ -15518,7 +15598,7 @@
    {
     "id": "1e223f4e5ec5",
     "title": "Mindful Yoga",
-    "link": "https://shelburnemuseum.org/event/mindful-yoga-5/2026-08-04/",
+    "link": "https://www.eventbrite.com/e/mindful-yoga-tickets-1988926296092",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-04T17:30:00-04:00",
     "venue": "Shelburne Museum"
@@ -15962,6 +16042,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-05T17:30:00-04:00",
     "venue": "Szymanski Park"
+   },
+   {
+    "id": "dcaecc0d02f7",
+    "title": "Scrabble Night @ The Boardroom",
+    "link": "https://www.meetup.com/friendlytabletopgamers/events/hgmdktyjclbhb/",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-08-05T18:00:00-04:00",
+    "venue": "The Boardroom"
    },
    {
     "id": "55a4c32fe816",
@@ -16612,20 +16700,20 @@
     "venue": "Maple Tree Place"
    },
    {
-    "id": "1faed638504f",
-    "title": "Crafting in Community",
-    "link": "https://www.meetup.com/vtladiessocialgroup/events/315459866/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-06T18:30:00-04:00",
-    "venue": "Ladies Social Group"
-   },
-   {
     "id": "5944eae74cac",
     "title": "Vibrant Visions: Canvas Painting + Sound Healing Experience",
     "link": "https://www.eventbrite.com/e/vibrant-visions-canvas-painting-sound-healing-experience-tickets-1993345468957",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-06T18:30:00-04:00",
     "venue": "Spiral House Collective"
+   },
+   {
+    "id": "1faed638504f",
+    "title": "Crafting in Community",
+    "link": "https://www.meetup.com/vtladiessocialgroup/events/315459866/",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-06T18:30:00-04:00",
+    "venue": "Ladies Social Group"
    },
    {
     "id": "b9b524f07124",
@@ -17140,6 +17228,14 @@
     "venue": "Vermont Comedy Club"
    },
    {
+    "id": "7c365c18eec1",
+    "title": "Mads Tolling: \"In the Loop\"",
+    "link": "https://www.eventbrite.com/e/mads-tolling-in-the-loop-tickets-1991785044686",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-07T19:00:00-04:00",
+    "venue": "Shelburne Farms"
+   },
+   {
     "id": "cc8b092270fc",
     "title": "JJ Grey & Mofro",
     "link": "https://www.mychamplainvalley.com/calendar/#/details/jj-grey-mofro/18798792/2026-08-07T19",
@@ -17178,14 +17274,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-07T19:00:00-04:00",
     "venue": "Red Brick Meeting House"
-   },
-   {
-    "id": "7c365c18eec1",
-    "title": "Mads Tolling: \"In the Loop\"",
-    "link": "https://www.eventbrite.com/e/mads-tolling-in-the-loop-tickets-1991785044686",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-07T19:00:00-04:00",
-    "venue": "Shelburne Farms"
    },
    {
     "id": "846658479d03",
@@ -17340,20 +17428,20 @@
     "venue": "Dorothy Alling Memorial Library"
    },
    {
-    "id": "85eac5249f7b",
-    "title": "French Conversation for All",
-    "link": "https://community.sevendaysvt.com/event/french-conversation-for-all-35203431",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-08T10:30:00-04:00",
-    "venue": "Dorothy Alling Memorial Library"
-   },
-   {
     "id": "dda3f6e68109",
     "title": "Milton Freedom Fest 2026",
     "link": "https://www.eventbrite.com/e/milton-freedom-fest-2026-tickets-1987793902071",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-08T10:30:00-04:00",
     "venue": "Bombardier Park West"
+   },
+   {
+    "id": "85eac5249f7b",
+    "title": "French Conversation for All",
+    "link": "https://community.sevendaysvt.com/event/french-conversation-for-all-35203431",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-08T10:30:00-04:00",
+    "venue": "Dorothy Alling Memorial Library"
    },
    {
     "id": "dc3d5bd7155c",
@@ -17372,20 +17460,20 @@
     "venue": "New North End Branch"
    },
    {
-    "id": "7936ea4f24b2",
-    "title": "Chess Club",
-    "link": "https://community.sevendaysvt.com/event/chess-club-37282318",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-08T11:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "1ae11074c64d",
     "title": "Birthday Bash! A Joint Celebration of Vermont Teddy Bear and Flannel!",
     "link": "https://www.eventbrite.com/e/birthday-bash-a-joint-celebration-of-vermont-teddy-bear-and-flannel-tickets-1989840631895",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-08T11:00:00-04:00",
     "venue": "Vermont Teddy Bear Factory"
+   },
+   {
+    "id": "7936ea4f24b2",
+    "title": "Chess Club",
+    "link": "https://community.sevendaysvt.com/event/chess-club-37282318",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-08T11:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "57f932ceb136",
@@ -17516,6 +17604,14 @@
     "venue": "Hilton Burlington Lake Champlain"
    },
    {
+    "id": "f93f139003d4",
+    "title": "Lake Monsters Baseball & Fireworks",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315476781/",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-08-08T17:45:00-04:00",
+    "venue": "Centennial Field"
+   },
+   {
     "id": "5240b51206a8",
     "title": "Vermont Comedy Awards 2026",
     "link": "https://www-vermontcomedyclub-com.seatengine.com/shows/378640",
@@ -17566,7 +17662,7 @@
    {
     "id": "1721027b3277",
     "title": "Shadowlight",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/shadowlight/18459147/2026-08-08T19",
+    "link": "https://www.eventbrite.com/e/shadowlight-tickets-1981461349235",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-08T19:00:00-04:00",
     "venue": "McCarthy Arts Center"
@@ -17692,6 +17788,14 @@
     "venue": "BCA Center"
    },
    {
+    "id": "88e8ac1ac983",
+    "title": "Tree ID and Natural History Tour of Ethan Allen Park",
+    "link": "https://www.eventbrite.com/e/tree-id-and-natural-history-tour-of-ethan-allen-park-tickets-1990565285353",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-09T10:00:00-04:00",
+    "venue": "Oakledge Park"
+   },
+   {
     "id": "aab95b240ce8",
     "title": "Winooski Farmers Market",
     "link": "https://community.sevendaysvt.com/event/winooski-farmers-market-45023077",
@@ -17706,14 +17810,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-09T10:00:00-04:00",
     "venue": "Hotel Vermont"
-   },
-   {
-    "id": "88e8ac1ac983",
-    "title": "Tree ID and Natural History Tour of Ethan Allen Park",
-    "link": "https://www.eventbrite.com/e/tree-id-and-natural-history-tour-of-ethan-allen-park-tickets-1990565285353",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-09T10:00:00-04:00",
-    "venue": "Oakledge Park"
    },
    {
     "id": "8676bfd00357",
@@ -18244,17 +18340,25 @@
     "venue": "Zero Gravity Craft Brewery"
    },
    {
-    "id": "8922f2bb04d4",
-    "title": "CEH v12 Ethical Hacking Bootcamp – 4 Days Training in Vermont, VT",
-    "link": "https://www.eventbrite.com/e/ceh-v12-ethical-hacking-bootcamp-4-days-training-in-vermont-vt-tickets-1993665442005",
-    "ts": "2026-07-10T17:56:00-04:00",
+    "id": "e5df035ce9ab",
+    "title": "CEH v12 Ethical Hacking Bootcamp – 4 Days Training in Burlington, VT",
+    "link": "https://www.eventbrite.com/e/ceh-v12-ethical-hacking-bootcamp-4-days-training-in-burlington-vt-tickets-1993654729965",
+    "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-08-11T09:00:00-04:00",
-    "venue": "300 Interstate Corporate Ctr"
+    "venue": "1068 Williston Rd"
    },
    {
     "id": "91cf80c8e6c4",
     "title": "Data Science with Phython Certification Training in Vermont, VT",
     "link": "https://www.eventbrite.com/e/data-science-with-phython-certification-training-in-vermont-vt-tickets-1993677611404",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-11T09:00:00-04:00",
+    "venue": "300 Interstate Corporate Ctr"
+   },
+   {
+    "id": "8922f2bb04d4",
+    "title": "CEH v12 Ethical Hacking Bootcamp – 4 Days Training in Vermont, VT",
+    "link": "https://www.eventbrite.com/e/ceh-v12-ethical-hacking-bootcamp-4-days-training-in-vermont-vt-tickets-1993665442005",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-11T09:00:00-04:00",
     "venue": "300 Interstate Corporate Ctr"
@@ -18266,14 +18370,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-11T09:00:00-04:00",
     "venue": "Perkins Pier"
-   },
-   {
-    "id": "e5df035ce9ab",
-    "title": "CEH v12 Ethical Hacking Bootcamp – 4 Days Training in Burlington, VT",
-    "link": "https://www.eventbrite.com/e/ceh-v12-ethical-hacking-bootcamp-4-days-training-in-burlington-vt-tickets-1993654729965",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-08-11T09:00:00-04:00",
-    "venue": "1068 Williston Rd"
    },
    {
     "id": "8e1f26d72784",
@@ -18644,20 +18740,20 @@
     "venue": "Vermont Pub and Brewery"
    },
    {
-    "id": "d6bd03572373",
-    "title": "Generative Conflict: A Workshop for Leaders",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/generative-conflict-a-workshop-for-leaders/19353885/2026-08-12T09",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-12T09:00:00-04:00",
-    "venue": "Hula"
-   },
-   {
     "id": "0ced1a72e838",
     "title": "Fast-Track Your CAPM Certification! Classroom Training in Vermont, VT",
     "link": "https://www.eventbrite.com/e/fast-track-your-capm-certification-classroom-training-in-vermont-vt-tickets-1991708137655",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-12T09:00:00-04:00",
     "venue": "300 Interstate Corporate Ctr"
+   },
+   {
+    "id": "d6bd03572373",
+    "title": "Generative Conflict: A Workshop for Leaders",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/generative-conflict-a-workshop-for-leaders/19353885/2026-08-12T09",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-12T09:00:00-04:00",
+    "venue": "Hula"
    },
    {
     "id": "31b695009f5a",
@@ -18934,7 +19030,7 @@
    {
     "id": "4f74ba4eb933",
     "title": "The Wanted Part II Theater Premiere",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/the-wanted-part-ii-theater-premiere/19108623/2026-08-12T17",
+    "link": "https://www.eventbrite.com/e/the-wanted-part-ii-theater-premiere-tickets-1988528333776",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-12T17:30:00-04:00",
     "venue": "Essex Cinemas"
@@ -19340,6 +19436,14 @@
     "venue": "Winooski Memorial Library"
    },
    {
+    "id": "a90df11741c8",
+    "title": "Stop Leaving Money on the Table: Build a Revenue Strategy That Scales",
+    "link": "https://www.eventbrite.com/e/stop-leaving-money-on-the-table-build-a-revenue-strategy-that-scales-registration-1993506508631",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-08-13T15:30:00-04:00",
+    "venue": "Ladies Social Group"
+   },
+   {
     "id": "92f17a822169",
     "title": "Stop Leaving Money on the Table: Build a Revenue Strategy That Actually Scales with Emma Bloksberg-Fireovid",
     "link": "https://community.sevendaysvt.com/event/stop-leaving-money-on-the-table-build-a-revenue-strategy-that-actually-scales-with-emma-bloksberg-fireovid-45296416",
@@ -19540,20 +19644,20 @@
     "venue": "Outright Vermont"
    },
    {
-    "id": "aa90dea10891",
-    "title": "Family Friday With Linda Bassick",
-    "link": "https://community.sevendaysvt.com/event/family-friday-with-linda-bassick-44954738",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-14T09:00:00-04:00",
-    "venue": "Pingala Café North Avenue"
-   },
-   {
     "id": "174266203843",
     "title": "Smart Manager’s Management Skills: 1 Day Workshop in Burlington, VT",
     "link": "https://www.eventbrite.sg/e/smart-managers-management-skills-1-day-workshop-in-burlington-vt-tickets-1991750375991",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-14T09:00:00-04:00",
     "venue": "Regus - Burlington, VT"
+   },
+   {
+    "id": "aa90dea10891",
+    "title": "Family Friday With Linda Bassick",
+    "link": "https://community.sevendaysvt.com/event/family-friday-with-linda-bassick-44954738",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-14T09:00:00-04:00",
+    "venue": "Pingala Café North Avenue"
    },
    {
     "id": "7877d32627ef",
@@ -21228,6 +21332,14 @@
     "venue": ""
    },
    {
+    "id": "a1eed0d38a80",
+    "title": "Summer Farm Tour: Head Over Fields",
+    "link": "https://www.eventbrite.com/e/summer-farm-tour-head-over-fields-tickets-1985511983792",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-19T17:00:00-04:00",
+    "venue": "Head Over Fields"
+   },
+   {
     "id": "6ef8320261bc",
     "title": "Yarn Crafters Group",
     "link": "https://community.sevendaysvt.com/event/yarn-crafters-group-38851230",
@@ -21250,14 +21362,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-19T17:00:00-04:00",
     "venue": "Milton Artists' Guild"
-   },
-   {
-    "id": "a1eed0d38a80",
-    "title": "Summer Farm Tour: Head Over Fields",
-    "link": "https://community.sevendaysvt.com/event/summer-farm-tour-head-over-fields-45276037",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-19T17:00:00-04:00",
-    "venue": "Head Over Fields"
    },
    {
     "id": "79ee899de39e",
@@ -24020,20 +24124,20 @@
     "venue": ""
    },
    {
-    "id": "601df1a7e4ba",
-    "title": "Shelburne Summer Nights",
-    "link": "https://shelburnemuseum.org/event/shelburne-summer-nights-3/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-27T17:00:00-04:00",
-    "venue": "Shelburne Museum"
-   },
-   {
     "id": "611a8c8e82ec",
     "title": "Sticks & Stones: Live at the Lantern",
     "link": "https://www.eventbrite.com/e/sticks-stones-live-at-the-lantern-tickets-1989626110255",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-27T17:00:00-04:00",
     "venue": "Old Lantern Events Barn"
+   },
+   {
+    "id": "601df1a7e4ba",
+    "title": "Shelburne Summer Nights",
+    "link": "https://shelburnemuseum.org/event/shelburne-summer-nights-3/",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-27T17:00:00-04:00",
+    "venue": "Shelburne Museum"
    },
    {
     "id": "f6fb77eec644",
@@ -24558,7 +24662,7 @@
    {
     "id": "fbaaeaebe7be",
     "title": "Flora & Fiber: Naturally Dye a Tote Bag!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/flora-fiber-naturally-dye-a-tote-bag-/18757504/2026-08-29T09",
+    "link": "https://www.eventbrite.com/e/flora-fiber-naturally-dye-a-tote-bag-tickets-1985729578624",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-29T09:00:00-04:00",
     "venue": "Shelburne Farms"
@@ -26644,6 +26748,14 @@
     "venue": "Burlington Farmers Market"
    },
    {
+    "id": "95ad59bde7ba",
+    "title": "VMBA Days Bolton Presented by Lawsons Finest Liquids",
+    "link": "https://www.eventbrite.com/e/vmba-days-bolton-presented-by-lawsons-finest-liquids-tickets-1990914207990",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-09-05T10:00:00-04:00",
+    "venue": "Bolton Valley Resort"
+   },
+   {
     "id": "b66813a5ea6e",
     "title": "Mills Riverside Park Loop",
     "link": "https://www.meetup.com/green-mountain-club-burlington-section-outdoor-adventures/events/315172968/",
@@ -26666,14 +26778,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-05T10:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "95ad59bde7ba",
-    "title": "VMBA Days Bolton Presented by Lawsons Finest Liquids",
-    "link": "https://www.eventbrite.com/e/vmba-days-bolton-presented-by-lawsons-finest-liquids-tickets-1990914207990",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-05T10:00:00-04:00",
-    "venue": "Bolton Valley Resort"
    },
    {
     "id": "1465694af4ba",
@@ -27486,7 +27590,7 @@
    {
     "id": "5cd7920f2e4d",
     "title": "VT / NH Society For Respiratory Care Annual Educational Conference",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/vt-nh-society-for-respiratory-care-annual-educational-conference/18513951/2026-09-09T07",
+    "link": "https://www.eventbrite.com/e/vt-nh-society-for-respiratory-care-annual-educational-conference-tickets-1984877924303",
     "ts": "2026-07-11T06:44:31-04:00",
     "start": "2026-09-09T07:30:00-04:00",
     "venue": "Delta Hotels Burlington"
@@ -27842,6 +27946,14 @@
     "ts": "2026-07-12T06:59:21-04:00",
     "start": "2026-09-10T15:00:00-04:00",
     "venue": "Vermont Pub and Brewery"
+   },
+   {
+    "id": "573a4cfff572",
+    "title": "DisruptHR Burlington",
+    "link": "https://www.eventbrite.com/e/disrupthr-burlington-tickets-1991103010704",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-09-10T15:30:00-04:00",
+    "venue": "OnLogic"
    },
    {
     "id": "acec18016e12",
