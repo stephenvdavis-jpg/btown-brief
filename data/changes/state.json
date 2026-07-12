@@ -918,6 +918,27 @@
    "wcax": {
     "items": [
      {
+      "id": "R7AINH3GJ5DPTPQKX3EEDYRJXM",
+      "title": "Vermont history organizations gather in Burlington for Spotlight Vermont 250 celebration",
+      "link": "https://www.wcax.com/2026/07/12/vermont-history-organizations-gather-burlington-spotlight-vermont-250-celebration/",
+      "ts": "2026-07-12T00:11:12+00:00",
+      "summary": "More than 30 museums, historical societies, and cultural organizations gathered at City Hall Park Saturday, turning Burlington into a hub of Vermont history as part of America’s 250th anniversary celebrations."
+     },
+     {
+      "id": "37BKOEDBUFCK5NS6GGDBNCE5PA",
+      "title": "Richford relay race returns to the water and trail",
+      "link": "https://www.wcax.com/2026/07/12/richford-relay-race-returns-water-trail/",
+      "ts": "2026-07-12T00:05:31+00:00",
+      "summary": "The Northern Forest Canoe Trail welcomed paddlers and cyclists to the Missisquoi River Saturday for the annual Missisquoi Paddle-Pedal Relay Race."
+     },
+     {
+      "id": "6KYTSIYBFFAEJHQTKTTHVIEPHM",
+      "title": "Pittsford hosts second annual Lavender Festival",
+      "link": "https://www.wcax.com/2026/07/11/pittsford-hosts-second-annual-lavender-festival/",
+      "ts": "2026-07-11T23:32:18+00:00",
+      "summary": "Sunshine Valley Lavender Farm hosted it’s second annual Lavender Festival Saturday, drawing hundreds out to their fields to pick their own bundles and enjoy vendors across the property."
+     },
+     {
       "id": "6A3E5D2BOBFR5OUF4UCTS6ZC4Y",
       "title": "Green Mountain Chamber Music Festival brings student musicians to Church Street",
       "link": "https://www.wcax.com/2026/07/11/green-mountain-chamber-music-festival-brings-student-musicians-church-street/",
@@ -1245,32 +1266,25 @@
       "link": "https://www.wcax.com/2026/07/09/vermont-farm-lets-cows-give-birth-pasture-skip-barn/",
       "ts": "2026-07-09T11:51:48+00:00",
       "summary": "One farm is taking a different approach toward how its cows give birth. Philo Ridge Farm is letting nature lead the way to improve both animal welfare and land health"
-     },
-     {
-      "id": "3YFHADEONZDRJN4YEHQD3PEHKE",
-      "title": "New workshops underway to shape Vermont’s housing future",
-      "link": "https://www.wcax.com/2026/07/09/new-workshops-underway-shape-vermonts-housing-future/",
-      "ts": "2026-07-09T11:18:46+00:00",
-      "summary": "The Vermont Department of Housing and Community Development is partnering with AARP Vermont and Utile Architects on what is being called the “802 Homes” catalog."
-     },
-     {
-      "id": "BCHDFJ6BB5CMDICUA6W5RUU5HM",
-      "title": "Vermont farm’s Winnimere cuts the competition at national cheese contest",
-      "link": "https://www.wcax.com/2026/07/09/vermont-farms-winnimere-cuts-competition-national-cheese-contest/",
-      "ts": "2026-07-09T10:46:53+00:00",
-      "summary": "Jasper Hill Farm has won a national title for one of its craft cheeses, Winnimere."
-     },
-     {
-      "id": "I5IFGWR5JBFWNNQ7ZXMSJ37VEE",
-      "title": "Vermont flood victims share stories for Welch, Balint in Barre",
-      "link": "https://www.wcax.com/2026/07/09/vermont-flood-victims-testify-before-welch-balint-barre/",
-      "ts": "2026-07-09T02:54:54+00:00",
-      "summary": "Sen. Peter Welch and Rep. Becca Balint heard testimony on Wednesday from victims of the 2023 and 2024 floods."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71907504",
+      "title": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-closed/71907504",
+      "ts": "2026-07-12T00:00:00+00:00",
+      "summary": "Iran says it again considers the Strait of Hormuz closed after a vessel using an ‘unauthorized route’ was struck by a warning shot in the critical waterway — potentially further menacing the already tenuous ceasefire agreement with the U.S."
+     },
+     {
+      "id": "71907465",
+      "title": "Firefighters free raccoon stuck in storm drain grate",
+      "link": "https://www.mynbc5.com/article/pennsylvania-firefighters-free-raccoon/71907465",
+      "ts": "2026-07-11T23:22:00+00:00",
+      "summary": "The raccoon scurried away uninjured, returning to its natural habitat."
+     },
      {
       "id": "71906842",
       "title": "Democratic congressman says he was detained by the Israeli military and settlers in the West Bank",
@@ -1396,20 +1410,6 @@
       "link": "https://www.mynbc5.com/article/missouri-historic-flooding/71905611",
       "ts": "2026-07-11T13:24:00+00:00",
       "summary": "Hundreds of people have been rescued from catastrophic flooding in southeastern Missouri, including some camping along a river that swelled to historic heights."
-     },
-     {
-      "id": "71905198",
-      "title": "New housing law takes effect without Trump's signature. Will it lower prices?",
-      "link": "https://www.mynbc5.com/article/new-housing-law-takes-effect-trumps-signature-lower-prices/71905198",
-      "ts": "2026-07-11T12:48:00+00:00",
-      "summary": "Experts say it will have a meaningful impact on housing costs, but not overnight."
-     },
-     {
-      "id": "71905435",
-      "title": "Trump administration opens endangered species’ habitats to development",
-      "link": "https://www.mynbc5.com/article/trump-endangered-species-habitats-harm-development/71905435",
-      "ts": "2026-07-11T12:19:00+00:00",
-      "summary": "The Trump administration reversed decades of longstanding environmental law protecting endangered species Friday, opening up sensitive habitats to development."
      }
     ]
    },

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-11T23:14:32+00:00",
+ "generated": "2026-07-12T00:14:39+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -703,6 +703,17 @@
    "source": "wcax",
    "sourceName": "WCAX",
    "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-12T00:11:12+00:00",
+   "category": "news",
+   "headline": "Vermont history organizations gather in Burlington for Spotlight Vermont 250 celebration",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/12/vermont-history-organizations-gather-burlington-spotlight-vermont-250-celebration/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
    "kind": "added"
   }
  ]
