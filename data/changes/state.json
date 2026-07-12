@@ -8,17 +8,17 @@
    "Blanchard Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-11T19:28:00+00:00"
+    "resultTime": "2026-07-12T15:52:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-11T19:27:00+00:00"
+    "resultTime": "2026-07-12T15:53:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-11T19:36:00+00:00"
+    "resultTime": "2026-07-12T15:43:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
@@ -48,7 +48,7 @@
    "Oakledge Cove": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-11T19:23:00+00:00"
+    "resultTime": "2026-07-12T15:55:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
@@ -1272,6 +1272,27 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71908977",
+      "title": "US launches new strikes as Iran claims that Strait of Hormuz is closed",
+      "link": "https://www.mynbc5.com/article/us-launches-strikes-as-iran-strait-of-hormuz/71908977",
+      "ts": "2026-07-12T16:59:00+00:00",
+      "summary": "The U.S. launched new strikes as Iran claims that Strait of Hormuz is closed, the crucial oil shipping route that has become a major sticking point in negotiations."
+     },
+     {
+      "id": "71908465",
+      "title": "Sen. Lindsey Graham dies at 71 after sudden illness",
+      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
+      "ts": "2026-07-12T16:46:00+00:00",
+      "summary": "U.S. Sen. Lindsey Graham died Saturday evening after a “brief and sudden illness,” his office said in a statement posted on social media. He was 71."
+     },
+     {
+      "id": "71901770",
+      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+      "link": "https://www.mynbc5.com/article/martha-lillard-last-us-polio-patient-iron-lung-dies/71901770",
+      "ts": "2026-07-12T15:48:00+00:00",
+      "summary": "Martha Lillard, the last U.S. polio patient using an iron lung, has died at 78 in Oklahoma. \"They told her she wasn't supposed to live past 20 years old,\" her sister said."
+     },
+     {
       "id": "71908537",
       "title": "Who will replace Lindsey Graham? How vacancies are filled in U.S. Senate",
       "link": "https://www.mynbc5.com/article/who-will-replace-lindsey-graham-senate/71908537",
@@ -1293,25 +1314,11 @@
       "summary": "Ahead of the Aug. 11 Vermont primaries, the secretary of state is encouraging voters to prepare by checking out an online resource guide including candidate statements"
      },
      {
-      "id": "71908465",
-      "title": "Sen. Lindsey Graham dies at 71 after sudden illness",
-      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
-      "ts": "2026-07-12T13:57:00+00:00",
-      "summary": "U.S. Sen. Lindsey Graham died Saturday evening after a “brief and sudden illness,” his office said in a statement posted on social media. He was 71."
-     },
-     {
       "id": "71909025",
       "title": "Mostly sunny and warm, but humidity stays low Sunday",
       "link": "https://www.mynbc5.com/article/mostly-sunny-and-warm-but-humidity-stays-low-sunday-07-12-26/71909025",
       "ts": "2026-07-12T13:30:00+00:00",
       "summary": "Heat and humidity rise early this week, late-day severe storms possible Tuesday"
-     },
-     {
-      "id": "71908977",
-      "title": "US launches new strikes as Iran claims that Strait of Hormuz is closed",
-      "link": "https://www.mynbc5.com/article/us-launches-strikes-as-iran-strait-of-hormuz/71908977",
-      "ts": "2026-07-12T13:20:00+00:00",
-      "summary": "The U.S. launched new strikes as Iran claims that Strait of Hormuz is closed, the crucial oil shipping route that has become a major sticking point in negotiations."
      },
      {
       "id": "71907504",
@@ -1384,13 +1391,6 @@
       "summary": "The Trump administration issued subpoenas Friday to several NYT journalists after a report on security concerns involving the new Air Force One, according to the paper."
      },
      {
-      "id": "71908030",
-      "title": "Benny, the Disneyland security dog, retires",
-      "link": "https://www.mynbc5.com/article/benny-disneyland-dog-retires/71908030",
-      "ts": "2026-07-12T02:15:00+00:00",
-      "summary": "A special retirement took place at Disneyland as Benny the security dog hung up his harness."
-     },
-     {
       "id": "71907913",
       "title": "Woman falls off path, US Coast Guard and fire department stage rescue",
       "link": "https://www.mynbc5.com/article/burlington-fire-us-coast-guard-rescue-lake-champlain/71907913",
@@ -1398,18 +1398,18 @@
       "summary": "A woman fell 10-15 feet at Lone Rock Point in Burlington, leading to a coordinated rescue between the Burlington Fire Department and the U.S. Coast Guard."
      },
      {
+      "id": "71908030",
+      "title": "Benny, the Disneyland security dog, retires",
+      "link": "https://www.mynbc5.com/article/benny-disneyland-dog-retires/71908030",
+      "ts": "2026-07-12T02:15:00+00:00",
+      "summary": "A special retirement took place at Disneyland as Benny the security dog hung up his harness."
+     },
+     {
       "id": "71906613",
       "title": "Dog found tied to street sign, Vermont State Police asking for public's help",
       "link": "https://www.mynbc5.com/article/vermont-state-police-seeking-information-about-dog-found-tied-to-street-sign/71906613",
       "ts": "2026-07-12T01:34:00+00:00",
       "summary": "Vermont State Police are asking for the public's help after a dog was found tied to a street last Tuesday."
-     },
-     {
-      "id": "71906852",
-      "title": "Young players hit the field as Vermont Green FC, Bernie Sanders host free soccer clinic",
-      "link": "https://www.mynbc5.com/article/free-soccer-clinic-for-kids/71906852",
-      "ts": "2026-07-12T01:34:00+00:00",
-      "summary": "A day of soccer, skills, and community brought families to Burlington's Virtue Field on Saturday as Sen. Bernie Sanders partnered with Vermont Green FC to host a free youth soccer event for local children."
      }
     ]
    },
