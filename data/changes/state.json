@@ -23,27 +23,27 @@
    "Leddy Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-12T14:38:00+00:00"
+    "resultTime": "2026-07-12T19:50:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-12T14:38:00+00:00"
+    "reason": "A bit Murky",
+    "resultTime": "2026-07-12T19:50:00+00:00"
    },
    "North Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-12T15:27:00+00:00"
+    "reason": "Bk",
+    "resultTime": "2026-07-12T19:37:00+00:00"
    },
    "North Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-12T15:27:00+00:00"
+    "reason": "Bk",
+    "resultTime": "2026-07-12T19:37:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-11T20:24:00+00:00"
+    "reason": "Bk",
+    "resultTime": "2026-07-12T19:59:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
@@ -918,6 +918,20 @@
    "wcax": {
     "items": [
      {
+      "id": "UE7SRZ3LSVDKZPQ774DTRQVQUU",
+      "title": "UVM researcher working on app to help pregnant women stop smoking",
+      "link": "https://www.wcax.com/2026/07/12/uvm-researcher-working-app-help-pregnant-women-stop-smoking/",
+      "ts": "2026-07-12T20:45:33+00:00",
+      "summary": "Vermont ranks among the worst states for smoking during pregnancy, and experts say the problem is most severe in rural areas where resources are limited. A University of Vermont researcher is now helping to develop a smartphone app that could offer a new path to quitting."
+     },
+     {
+      "id": "Z2CKXNT6HZBVZB7TEAR6UUW5VY",
+      "title": "Local leaders react to sudden death of Lindsey Graham",
+      "link": "https://www.wcax.com/2026/07/12/local-leaders-react-sudden-death-lindsey-graham/",
+      "ts": "2026-07-12T20:36:51+00:00",
+      "summary": "Reaction is pouring in from leaders across the world, and here in our region, after the sudden death of South Carolina Senator Lindsey Graham."
+     },
+     {
       "id": "YU2GVSKHPZAEHNZ5IZCGFOJ5KY",
       "title": "POLICE: Intoxicated man bites arresting officers at Do Good Fest",
       "link": "https://www.wcax.com/2026/07/12/police-intoxicated-man-bites-arresting-officers-do-good-fest/",
@@ -1252,25 +1266,39 @@
       "link": "https://www.wcax.com/2026/07/09/police-gouverneur-woman-slaps-man-taking-too-long-mcdonalds-drive-thru/",
       "ts": "2026-07-09T18:24:26+00:00",
       "summary": "A Gouverneur woman is accused of slapping a man in front of her at the McDonald’s drive-thru for taking too long to get his food."
-     },
-     {
-      "id": "R4AMZ6GCG5GTZLI5G636CQZEZU",
-      "title": "State police add to trove of body cam footage from South Burlington ICE operation",
-      "link": "https://www.wcax.com/2026/04/17/state-police-add-trove-body-cam-footage-south-burlington-ice-operation/",
-      "ts": "2026-07-09T17:23:54+00:00",
-      "summary": "Public Safety Commissioner says VSP did not violate use of force policies."
-     },
-     {
-      "id": "XIL74THTHZFSJJEMQX6QYKH7XY",
-      "title": "New York sues 3M, DuPont and other companies over so-called forever chemicals",
-      "link": "https://www.wcax.com/2026/07/09/new-york-sues-3m-dupont-other-companies-over-so-called-forever-chemicals/",
-      "ts": "2026-07-09T17:04:25+00:00",
-      "summary": "The lawsuit is the latest legal action over PFAS, which have been linked to an increased risk of certain cancers and developmental delays in children."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71908465",
+      "title": "US Sen. Lindsey Graham dies at 71 after sudden illness",
+      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
+      "ts": "2026-07-12T21:04:00+00:00",
+      "summary": "U.S. Sen. Lindsey Graham died Saturday evening after a “brief and sudden illness,” his office said in a statement posted on social media. He was 71."
+     },
+     {
+      "id": "71910456",
+      "title": "Wai Ching Ho, Marvel villain and Pixar voice actress, dead at 82",
+      "link": "https://www.mynbc5.com/article/wai-ching-ho-marvel-villain-and-pixar-voice-dead/71910456",
+      "ts": "2026-07-12T20:15:00+00:00",
+      "summary": "Wai Ching Ho, a veteran actress known for memorable Marvel and Pixar roles, has died. She was 82"
+     },
+     {
+      "id": "71899250",
+      "title": "The White House is upgrading its front door to fortify the entrance",
+      "link": "https://www.mynbc5.com/article/white-house-security-upgrades-front-door-north-portico/71899250",
+      "ts": "2026-07-12T20:15:00+00:00",
+      "summary": "​The White House is upgrading the North Portico front door as part of new security measures, with additional fencing plans under review"
+     },
+     {
+      "id": "71910411",
+      "title": "Man accused of hitting, biting police and security at popular Vermont festival",
+      "link": "https://www.mynbc5.com/article/man-arrested-do-good-fest-assaulting-security-police/71910411",
+      "ts": "2026-07-12T19:46:00+00:00",
+      "summary": "Police say a man became drunk and belligerent at Do Good Fest, allegedly assaulting and biting officers before being arrested."
+     },
      {
       "id": "71910380",
       "title": "Jannik Sinner wins second straight Wimbledon title for fifth career Grand Slam",
@@ -1298,13 +1326,6 @@
       "link": "https://www.mynbc5.com/article/us-launches-strikes-as-iran-strait-of-hormuz/71908977",
       "ts": "2026-07-12T16:59:00+00:00",
       "summary": "The U.S. launched new strikes as Iran claims that Strait of Hormuz is closed, the crucial oil shipping route that has become a major sticking point in negotiations."
-     },
-     {
-      "id": "71908465",
-      "title": "Sen. Lindsey Graham dies at 71 after sudden illness",
-      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
-      "ts": "2026-07-12T16:46:00+00:00",
-      "summary": "U.S. Sen. Lindsey Graham died Saturday evening after a “brief and sudden illness,” his office said in a statement posted on social media. He was 71."
      },
      {
       "id": "71901770",
@@ -1389,27 +1410,6 @@
       "link": "https://www.mynbc5.com/article/conor-mcgregor-return-leg-injury/71908266",
       "ts": "2026-07-12T04:11:00+00:00",
       "summary": "Conor McGregor's return against Max Holloway at UFC 329 ends at 1:09 of the first round because of a leg injury"
-     },
-     {
-      "id": "71906997",
-      "title": "Former Section VII high school baseball standout is heading to Rutgers",
-      "link": "https://www.mynbc5.com/article/former-section-vii-high-school-baseball-standout-is-heading-to-rutgers/71906997",
-      "ts": "2026-07-12T04:03:00+00:00",
-      "summary": "Plattsburgh native Warren Miller reflects on transferring to a power five school on the diamond"
-     },
-     {
-      "id": "71908055",
-      "title": "2 people killed in shooting near Canada street festival",
-      "link": "https://www.mynbc5.com/article/shooting-toronto-street-festival-kills-2/71908055",
-      "ts": "2026-07-12T03:06:00+00:00",
-      "summary": "A shooting near a Toronto street festival has killed two people and wounded four others."
-     },
-     {
-      "id": "71905170",
-      "title": "New York Times journalists subpoenaed after Air Force One reporting, newspaper says",
-      "link": "https://www.mynbc5.com/article/new-york-times-reporters-subpoenas-air-force-one-report/71905170",
-      "ts": "2026-07-12T02:51:00+00:00",
-      "summary": "The Trump administration issued subpoenas Friday to several NYT journalists after a report on security concerns involving the new Air Force One, according to the paper."
      }
     ]
    },

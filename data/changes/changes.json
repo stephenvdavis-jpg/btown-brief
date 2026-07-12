@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T19:36:04+00:00",
+ "generated": "2026-07-12T21:10:52+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -823,6 +823,17 @@
    "url": "https://brownelllibrary.org/event/outdoor-play-time/2026-07-22/",
    "source": "events-local",
    "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-12T20:45:33+00:00",
+   "category": "news",
+   "headline": "UVM researcher working on app to help pregnant women stop smoking",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/12/uvm-researcher-working-app-help-pregnant-women-stop-smoking/",
+   "source": "wcax",
+   "sourceName": "WCAX",
    "priority": 1,
    "kind": "added"
   }
