@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12T06:59:21-04:00",
+ "generated": "2026-07-12T17:31:33-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
@@ -9,12 +9,12 @@
   "breweries": {
    "label": "Breweries & Taprooms",
    "count": 52,
-   "seconds": 2.2
+   "seconds": 3.4
   },
   "brownell": {
    "label": "Brownell Library",
    "count": 57,
-   "seconds": 2.7
+   "seconds": 2.8
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
@@ -24,7 +24,7 @@
   "churchst": {
    "label": "Church Street Marketplace",
    "count": 83,
-   "seconds": 1.5
+   "seconds": 1.4
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -33,8 +33,8 @@
   },
   "eventbrite": {
    "label": "Eventbrite",
-   "count": 0,
-   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-12&end_date=2026-09-10&page=1 (HTTP Error 405: Not Allowed)"
+   "count": 135,
+   "seconds": 35.3
   },
   "facebook": {
    "label": "Facebook (manual drops)",
@@ -49,12 +49,12 @@
   "fletcherfree": {
    "label": "Fletcher Free Library",
    "count": 251,
-   "seconds": 77.4
+   "seconds": 76.9
   },
   "flynn": {
    "label": "The Flynn",
    "count": 13,
-   "seconds": 2.8
+   "seconds": 3.0
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -69,7 +69,7 @@
   "higherground": {
    "label": "Higher Ground",
    "count": 57,
-   "seconds": 84.1
+   "seconds": 87.4
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -84,22 +84,22 @@
   "meetup": {
    "label": "Meetup",
    "count": 71,
-   "seconds": 137.0
+   "seconds": 141.6
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 15,
-   "seconds": 14.1
+   "seconds": 14.2
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
    "count": 85,
-   "seconds": 4.0
+   "seconds": 4.2
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
    "count": 48,
-   "seconds": 27.1
+   "seconds": 27.3
   },
   "sevendays": {
    "label": "Seven Days",
@@ -114,7 +114,7 @@
   "uvm": {
    "label": "UVM & Colleges",
    "count": 150,
-   "seconds": 9.5
+   "seconds": 6.1
   },
   "uvmbored": {
    "label": "UVM Bored",
@@ -124,103 +124,19 @@
   "vcc": {
    "label": "Vermont Comedy Club",
    "count": 51,
-   "seconds": 67.4
+   "seconds": 68.4
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
    "count": 34,
-   "seconds": 0.2
+   "seconds": 0.5
   }
  },
- "gathered": 2027,
- "afterDedup": 1347,
- "duplicatesMerged": 680,
- "final": 3286,
+ "gathered": 2162,
+ "afterDedup": 1464,
+ "duplicatesMerged": 698,
+ "final": 3300,
  "mergeLog": [
-  {
-   "kept": {
-    "title": "Coffee and Code: Summer Edition",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-07-23"
-  },
-  {
-   "kept": {
-    "title": "Party on the Bricks",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "loveburlington",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-07-23"
-  },
-  {
-   "kept": {
-    "title": "Film Screening: The Hidden Fortress",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-07-23"
-  },
-  {
-   "kept": {
-    "title": "GameOnVT - Women's Pickup Flag Football",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "loveburlington"
-   ],
-   "date": "2026-07-23"
-  },
-  {
-   "kept": {
-    "title": "Summer Concert Series: Dana and Susan Robinson",
-    "source": "bca"
-   },
-   "merged_sources": [
-    "bca",
-    "churchst",
-    "loveburlington",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-07-24"
-  },
-  {
-   "kept": {
-    "title": "Jordan Jensen",
-    "source": "flynn"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "facebook",
-    "flynn"
-   ],
-   "date": "2026-07-24"
-  },
-  {
-   "kept": {
-    "title": "“Weird Al” Yankovic",
-    "source": "higherground"
-   },
-   "merged_sources": [
-    "facebook",
-    "higherground",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-07-24"
-  },
   {
    "kept": {
     "title": "Queer/LGBTQ+ Horror Book Club",
@@ -273,6 +189,17 @@
    "merged_sources": [
     "uvm",
     "uvmbored"
+   ],
+   "date": "2026-07-24"
+  },
+  {
+   "kept": {
+    "title": "Joe Marcinek Band",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "eventbrite",
+    "loveburlington"
    ],
    "date": "2026-07-24"
   },
@@ -380,6 +307,7 @@
    "merged_sources": [
     "breweries",
     "champlainvalley",
+    "eventbrite",
     "facebook"
    ],
    "date": "2026-07-25"
@@ -957,6 +885,28 @@
   },
   {
    "kept": {
+    "title": "August Networking Coffee for Women at Hula",
+    "source": "eventbrite"
+   },
+   "merged_sources": [
+    "eventbrite",
+    "facebook"
+   ],
+   "date": "2026-08-04"
+  },
+  {
+   "kept": {
+    "title": "Herbal Oil Infusions, Salves and Lotions",
+    "source": "eventbrite"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "eventbrite"
+   ],
+   "date": "2026-08-04"
+  },
+  {
+   "kept": {
     "title": "Sidewalk Sale",
     "source": "churchst"
    },
@@ -1209,10 +1159,22 @@
     "source": "uvm"
    },
    "merged_sources": [
+    "eventbrite",
     "facebook",
     "loveburlington",
     "uvm",
     "uvmbored"
+   ],
+   "date": "2026-08-08"
+  },
+  {
+   "kept": {
+    "title": "Shadowlight",
+    "source": "eventbrite"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "eventbrite"
    ],
    "date": "2026-08-08"
   },
@@ -1352,6 +1314,17 @@
    "merged_sources": [
     "uvm",
     "uvmbored"
+   ],
+   "date": "2026-08-12"
+  },
+  {
+   "kept": {
+    "title": "The Wanted Part II Theater Premiere",
+    "source": "eventbrite"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "eventbrite"
    ],
    "date": "2026-08-12"
   },
@@ -1987,6 +1960,17 @@
   },
   {
    "kept": {
+    "title": "Flora & Fiber: Naturally Dye a Tote Bag!",
+    "source": "eventbrite"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "eventbrite"
+   ],
+   "date": "2026-08-29"
+  },
+  {
+   "kept": {
     "title": "Convocation and Twilight Induction",
     "source": "uvm"
    },
@@ -2435,6 +2419,17 @@
   },
   {
    "kept": {
+    "title": "VT / NH Society For Respiratory Care Annual Educational Conference",
+    "source": "eventbrite"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "eventbrite"
+   ],
+   "date": "2026-09-09"
+  },
+  {
+   "kept": {
     "title": "Italian Conversation Group",
     "source": "fletcherfree"
    },
@@ -2469,48 +2464,6 @@
  ],
  "changes": [
   {
-   "id": "9ad0160746b1",
-   "title": "Smart Cycling Workshops with E-Bikes",
-   "date": "2026-07-18",
-   "change": "missing",
-   "lastSeen": "2026-07-11T06:44:31-04:00"
-  },
-  {
-   "id": "f9f456ddea34",
-   "title": "Dinosaur Safari Exhibit",
-   "date": "2026-07-19",
-   "change": "missing",
-   "lastSeen": "2026-07-10T23:21:33-04:00"
-  },
-  {
-   "id": "a31c87c05a7d",
-   "title": "The Ultimate Chocolate Tasting",
-   "date": "2026-07-19",
-   "change": "missing",
-   "lastSeen": "2026-07-11T06:44:31-04:00"
-  },
-  {
-   "id": "52a6a476d23d",
-   "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-   "date": "2026-07-19",
-   "change": "missing",
-   "lastSeen": "2026-07-11T06:44:31-04:00"
-  },
-  {
-   "id": "8cb61e82a4e2",
-   "title": "Smart Cycling Workshops with E-Bikes",
-   "date": "2026-07-19",
-   "change": "missing",
-   "lastSeen": "2026-07-11T06:44:31-04:00"
-  },
-  {
-   "id": "67735b38f8fe",
-   "title": "Dinosaur Safari Exhibit",
-   "date": "2026-07-20",
-   "change": "missing",
-   "lastSeen": "2026-07-10T23:21:33-04:00"
-  },
-  {
    "id": "62f87ac529b2",
    "title": "The Ultimate Chocolate Tasting",
    "date": "2026-07-20",
@@ -2537,6 +2490,13 @@
    "date": "2026-07-20",
    "change": "missing",
    "lastSeen": "2026-07-11T06:44:31-04:00"
+  },
+  {
+   "id": "54382929f86d",
+   "title": "4-Day Data Science with Python Bootcamp in Montpelier, VT",
+   "date": "2026-07-21",
+   "change": "missing",
+   "lastSeen": "2026-07-10T17:56:00-04:00"
   },
   {
    "id": "b71a09407c23",
@@ -2623,6 +2583,20 @@
    "lastSeen": "2026-07-11T06:44:31-04:00"
   },
   {
+   "id": "6a82d2ede0fe",
+   "title": "SAFe® 5.1 POPM 2Days Classroom Training in Burlington, VT",
+   "date": "2026-07-23",
+   "change": "missing",
+   "lastSeen": "2026-07-10T23:07:48-04:00"
+  },
+  {
+   "id": "4ea27c487a1d",
+   "title": "SAFe® 5.1 (LPM) 2Days Classroom Training in Burlington, VT",
+   "date": "2026-07-23",
+   "change": "missing",
+   "lastSeen": "2026-07-10T23:07:48-04:00"
+  },
+  {
    "id": "dd25667d19f2",
    "title": "Library Outreach Specialist Office Hours",
    "date": "2026-07-23",
@@ -2637,11 +2611,11 @@
    "lastSeen": "2026-07-10T23:21:33-04:00"
   },
   {
-   "id": "c0d3bee74895",
-   "title": "Networking Lunch at Hula with the Network of Women--July Lunch",
+   "id": "9182052916cb",
+   "title": "Networking Lunch at Hula with the Network of Women",
    "date": "2026-07-23",
    "change": "missing",
-   "lastSeen": "2026-07-11T17:24:06-04:00"
+   "lastSeen": "2026-07-12T06:59:21-04:00"
   },
   {
    "id": "bfab97cf1a2f",
@@ -2810,6 +2784,13 @@
    "date": "2026-07-27",
    "change": "missing",
    "lastSeen": "2026-07-11T06:44:31-04:00"
+  },
+  {
+   "id": "69a9ac9a9e01",
+   "title": "Certified Ethical Hacker – Practical Ethical Hacker in Vermont, VT",
+   "date": "2026-07-28",
+   "change": "missing",
+   "lastSeen": "2026-07-10T17:56:00-04:00"
   },
   {
    "id": "65f34cca7ab4",
@@ -3225,6 +3206,13 @@
    "lastSeen": "2026-07-11T06:44:31-04:00"
   },
   {
+   "id": "8922f2bb04d4",
+   "title": "CEH v12 Ethical Hacking Bootcamp – 4 Days Training in Vermont, VT",
+   "date": "2026-08-11",
+   "change": "missing",
+   "lastSeen": "2026-07-11T17:24:06-04:00"
+  },
+  {
    "id": "732a6d1a95aa",
    "title": "Library Outreach Specialist Office Hours",
    "date": "2026-08-11",
@@ -3286,6 +3274,13 @@
    "date": "2026-08-13",
    "change": "missing",
    "lastSeen": "2026-07-11T06:44:31-04:00"
+  },
+  {
+   "id": "92f17a822169",
+   "title": "Stop Leaving Money on the Table: Build a Revenue Strategy That Actually Scales with Emma Bloksberg-Fireovid",
+   "date": "2026-08-13",
+   "change": "missing",
+   "lastSeen": "2026-07-11T17:24:06-04:00"
   },
   {
    "id": "82d2f79a2954",
