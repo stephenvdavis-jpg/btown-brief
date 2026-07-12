@@ -830,6 +830,13 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-12/more-than-just-tawny-orange-choose-daylilies-with-other-color-and-petal-variations",
+      "title": "More than just tawny orange, choose daylilies with other color and petal variations",
+      "link": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-12/more-than-just-tawny-orange-choose-daylilies-with-other-color-and-petal-variations",
+      "ts": "2026-07-12T09:00:00+00:00",
+      "summary": "Along with the cheery orange daylilies, look for different colorways and petal patterns for your yard and gardens."
+     },
+     {
       "id": "https://www.vermontpublic.org/show/vermont-this-week/2026-07-10/in-review-scott-healthcare-order-brattleboro-birthing-center",
       "title": "In review: Gov. Scott's health system prescription, Brattleboro birthing center, affordability poll",
       "link": "https://www.vermontpublic.org/show/vermont-this-week/2026-07-10/in-review-scott-healthcare-order-brattleboro-birthing-center",
@@ -905,13 +912,6 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-08/vermont-bodyworker-built-bustling-practice-despite-mounting-allegations",
       "ts": "2026-07-08T09:00:00+00:00",
       "summary": "Gregory Garcia, who owns Bodywork Architectures in Burlington, operated for years without registering his practice with the state. During that time, he offered “internal work” to female clients."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-07/filling-the-gaps-in-rural-maternity-care",
-      "title": "Filling the gaps in rural maternity care",
-      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-07/filling-the-gaps-in-rural-maternity-care",
-      "ts": "2026-07-07T20:49:35+00:00",
-      "summary": "As rural hospitals like Brattleboro Memorial Hospital scale back on obstectrics, what will fill in the gap?"
      }
     ]
    },
@@ -1272,6 +1272,20 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71908465",
+      "title": "Sen. Lindsey Graham dies at 71 after sudden illness",
+      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
+      "ts": "2026-07-12T09:17:00+00:00",
+      "summary": "U.S. Sen. Lindsey Graham died Saturday evening after a “brief and sudden illness,” his office said in a statement posted on social media. He was 71."
+     },
+     {
+      "id": "71908489",
+      "title": "President Trump reacts to Sen. Lindsey Graham's death",
+      "link": "https://www.mynbc5.com/article/trump-reaction-lindsey-graham-death/71908489",
+      "ts": "2026-07-12T09:13:00+00:00",
+      "summary": "President Donald Trump released a statement on social media reacting to the news of Sen. Lindsey Graham's death."
+     },
+     {
       "id": "71907504",
       "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
       "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-closed/71907504",
@@ -1396,20 +1410,6 @@
       "link": "https://www.mynbc5.com/article/typhoon-bavi-makes-landfall-in-eastern-china-as-more-than-1-million-are-evacuated-extreme-weather-taiwan-philippines-storm/71906651",
       "ts": "2026-07-11T19:26:00+00:00",
       "summary": "Chinese authorities evacuated more than 1.7 million people as of Saturday and issued high alerts as eastern China braced for Bavi."
-     },
-     {
-      "id": "71906530",
-      "title": "US citizen tests positive for Ebola in Congo",
-      "link": "https://www.mynbc5.com/article/us-citizen-tests-positive-for-ebola-in-congo/71906530",
-      "ts": "2026-07-11T18:32:00+00:00",
-      "summary": "A U.S. citizen working for a humanitarian organization in Congo has tested positive for the Ebola virus, the U.S. Centers for Disease Control and Prevention said."
-     },
-     {
-      "id": "71905872",
-      "title": "An impenetrable steel 'Black Box' will record every step humanity takes toward catastrophe",
-      "link": "https://www.mynbc5.com/article/impenetrable-steel-black-box-record-every-step-humanity-takes-toward-catastrophe/71905872",
-      "ts": "2026-07-11T16:54:00+00:00",
-      "summary": "Tasmania’s rugged West Coast will soon be home to an angular steel structure with a haunting purpose: to record every step humanity takes toward catastrophe."
      }
     ]
    },
