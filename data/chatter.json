@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T11:42:03+00:00",
+  "updated": "2026-07-12T15:37:53+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -29,120 +29,104 @@
       ]
     },
     {
-      "id": "cost-living-component",
-      "label": "A response to VT Futures Project: Adding life expectancy and…",
-      "direction": "rising",
-      "posts": 1,
+      "id": "few-photos-favorite",
+      "label": "A few photos from beautiful Lake Champlain",
+      "direction": "fading",
+      "posts": 3,
       "comments": null,
-      "last_activity": "2026-07-11T14:55:49+00:00",
+      "last_activity": "2026-07-11T02:54:50+00:00",
       "sources": [
         {
-          "title": "A response to VT Futures Project: Adding life expectancy and historical context to their analysis changes the story | #SaturdayFacts",
-          "url": "https://www.reddit.com/r/vermont/comments/1utj96x/a_response_to_vt_futures_project_adding_life/",
+          "title": "A few photos from beautiful Lake Champlain",
+          "url": "https://www.reddit.com/r/vermont/comments/1ut5pc5/a_few_photos_from_beautiful_lake_champlain/",
           "sub": "r/vermont",
-          "when": "2026-07-11T14:55:49+00:00",
+          "when": "2026-07-11T02:54:50+00:00",
           "comments": null
-        }
-      ]
-    },
-    {
-      "id": "roadside-attraction-quirky",
-      "label": "Best quirky roadside attraction",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-11T14:00:02+00:00",
-      "sources": [
+        },
         {
-          "title": "Best quirky roadside attraction",
-          "url": "https://www.reddit.com/r/burlington/comments/1utk0pl/best_quirky_roadside_attraction/",
+          "title": "A few photos from the Shelburne Museum",
+          "url": "https://www.reddit.com/r/vermont/comments/1ut5hbq/a_few_photos_from_the_shelburne_museum/",
+          "sub": "r/vermont",
+          "when": "2026-07-11T02:54:50+00:00",
+          "comments": null
+        },
+        {
+          "title": "A few photos from the University of Vermont campus",
+          "url": "https://www.reddit.com/r/burlington/comments/1ut55y0/a_few_photos_from_the_university_of_vermont_campus/",
           "sub": "r/burlington",
-          "when": "2026-07-11T14:00:02+00:00",
+          "when": "2026-07-11T02:01:10+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "flowers-photographed",
-      "label": "Flowers of Vermont",
-      "direction": "rising",
-      "posts": 1,
+      "id": "2026-punk-friday",
+      "label": "Bolton Valley does free live music wed and Fri.",
+      "direction": "fading",
+      "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-11T14:55:49+00:00",
+      "last_activity": "2026-07-11T02:54:50+00:00",
       "sources": [
         {
-          "title": "Flowers of Vermont",
-          "url": "https://www.reddit.com/r/vermont/comments/1utkqmm/flowers_of_vermont/",
+          "title": "PSA: Bolton Valley does free live music wed and Fri.",
+          "url": "https://www.reddit.com/r/vermont/comments/1ut3fun/psa_bolton_valley_does_free_live_music_wed_and_fri/",
           "sub": "r/vermont",
-          "when": "2026-07-11T14:55:49+00:00",
+          "when": "2026-07-11T02:54:50+00:00",
+          "comments": null
+        },
+        {
+          "title": "July Live Music @ the Odd Fellows Lodge!",
+          "url": "https://www.reddit.com/r/burlington/comments/1ursigc/july_live_music_the_odd_fellows_lodge/",
+          "sub": "r/burlington",
+          "when": "2026-07-10T14:00:07+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "empty-houses-neighborhood",
-      "label": "I'm worried we may be the last young family to live in my…",
-      "direction": "rising",
-      "posts": 1,
+      "id": "here-snapshots-visited",
+      "label": "Visited Burlington",
+      "direction": "fading",
+      "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-11T14:55:49+00:00",
+      "last_activity": "2026-07-11T02:54:50+00:00",
       "sources": [
         {
-          "title": "I'm worried we may be the last young family to live in my neighborhood",
-          "url": "https://www.reddit.com/r/vermont/comments/1utjssd/im_worried_we_may_be_the_last_young_family_to/",
+          "title": "Visited Burlington",
+          "url": "https://www.reddit.com/r/vermont/comments/1ut4nmo/visited_burlington/",
           "sub": "r/vermont",
-          "when": "2026-07-11T14:55:49+00:00",
+          "when": "2026-07-11T02:54:50+00:00",
+          "comments": null
+        },
+        {
+          "title": "Visited Burlington",
+          "url": "https://www.reddit.com/r/burlington/comments/1ut4mvb/visited_burlington/",
+          "sub": "r/burlington",
+          "when": "2026-07-11T02:01:10+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "tattoos-2026-albans",
-      "label": "Nazi tattoos",
-      "direction": "rising",
-      "posts": 1,
+      "id": "illegally-after-bennington",
+      "label": "Vt. game wardens seek tips after doe illegally killed in…",
+      "direction": "fading",
+      "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-11T14:55:49+00:00",
+      "last_activity": "2026-07-11T02:54:50+00:00",
       "sources": [
         {
-          "title": "Nazi tattoos",
-          "url": "https://www.reddit.com/r/vermont/comments/1utiiw9/nazi_tattoos/",
+          "title": "Vt. game wardens seek tips after doe illegally killed in Bennington",
+          "url": "https://www.reddit.com/r/vermont/comments/1ut453y/vt_game_wardens_seek_tips_after_doe_illegally/",
           "sub": "r/vermont",
-          "when": "2026-07-11T14:55:49+00:00",
+          "when": "2026-07-11T02:54:50+00:00",
           "comments": null
-        }
-      ]
-    },
-    {
-      "id": "100-closures-long",
-      "label": "route 100 road closures?",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-11T14:55:49+00:00",
-      "sources": [
+        },
         {
-          "title": "route 100 road closures?",
-          "url": "https://www.reddit.com/r/vermont/comments/1utk1dt/route_100_road_closures/",
+          "title": "Two men to pay $35k after illegally building mountain bike trails in Stowe",
+          "url": "https://www.reddit.com/r/vermont/comments/1uskxyl/two_men_to_pay_35k_after_illegally_building/",
           "sub": "r/vermont",
-          "when": "2026-07-11T14:55:49+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "school-district-having",
-      "label": "Vermont School Districts Comparison Tool - Outcomes…",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-11T14:55:49+00:00",
-      "sources": [
-        {
-          "title": "Vermont School Districts Comparison Tool - Outcomes, Demographics, Inputs",
-          "url": "https://www.reddit.com/r/vermont/comments/1uth1yh/vermont_school_districts_comparison_tool_outcomes/",
-          "sub": "r/vermont",
-          "when": "2026-07-11T14:55:49+00:00",
+          "when": "2026-07-11T02:54:50+00:00",
           "comments": null
         }
       ]
