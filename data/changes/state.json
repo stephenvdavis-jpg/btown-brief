@@ -918,6 +918,20 @@
    "wcax": {
     "items": [
      {
+      "id": "LALIETUQ2FB6HMBQA7VTPC56XA",
+      "title": "Burlington Fire, Coast Guard rescue woman after fall near Lake Champlain shores",
+      "link": "https://www.wcax.com/2026/07/12/burlington-fire-coast-guard-rescue-woman-after-fall-near-lake-champlain-shores/",
+      "ts": "2026-07-12T03:49:30+00:00",
+      "summary": "The U.S. Coast Guard and the Burlington Fire Department rescued a woman Sunday evening after she fell an estimated 10 to 15 feet near Lone Rock Point on Lake Champlain."
+     },
+     {
+      "id": "QTTMDZCSKFDRRFRKXGQ5NVFZLE",
+      "title": "Sen. Bernie Sanders, VGFC kick around with athletes at free soccer clinic",
+      "link": "https://www.wcax.com/2026/07/12/sen-bernie-sanders-vgfc-kick-around-with-athletes-free-soccer-clinic/",
+      "ts": "2026-07-12T00:22:49+00:00",
+      "summary": "Vermont Green F.C. players and Sen. Bernie Sanders took to the turf with young athletes as part of a free youth soccer clinic Saturday."
+     },
+     {
       "id": "R7AINH3GJ5DPTPQKX3EEDYRJXM",
       "title": "Vermont history organizations gather in Burlington for Spotlight Vermont 250 celebration",
       "link": "https://www.wcax.com/2026/07/12/vermont-history-organizations-gather-burlington-spotlight-vermont-250-celebration/",
@@ -1066,8 +1080,8 @@
      },
      {
       "id": "Y76YYM4W5NGLBKTRNDZ3EGCQU4",
-      "title": "DONATE HERE: Do Good Fest returns to Montpelier this weekend",
-      "link": "https://www.wcax.com/2026/07/10/do-good-fest-returns-central-vermont-this-weekend/",
+      "title": "DONATE AND WATCH HERE: Do Good Fest returns to Montpelier this weekend",
+      "link": "https://www.wcax.com/2026/07/10/donate-here-do-good-fest-returns-montpelier-this-weekend/",
       "ts": "2026-07-10T18:37:05+00:00",
       "summary": "Montpelier is the place to be this weekend as crowds converge on Saturday for the Do Good Fest."
      },
@@ -1252,20 +1266,6 @@
       "link": "https://www.wcax.com/2026/07/09/massena-crash-head-on-collision-route-37-sends-driver-hospital/",
       "ts": "2026-07-09T15:33:52+00:00",
       "summary": "New York State Police responded to a two-vehicle personal injury crash on State Route 37 in the town of Massena on Wednesday morning."
-     },
-     {
-      "id": "BOT2AKK6KJEJRDPFUB42536YAA",
-      "title": "Good Citizen Challenge weekly winner",
-      "link": "https://www.wcax.com/2026/07/09/good-citizen-challenge-weekly-winner/",
-      "ts": "2026-07-09T14:13:28+00:00",
-      "summary": "Congratulations to this week’s winner of the Good Citizen Challenge"
-     },
-     {
-      "id": "KFLN4UR3RREYVFU3NIZYWYSZN4",
-      "title": "Vermont farm lets cows give birth on pasture, skip the barn",
-      "link": "https://www.wcax.com/2026/07/09/vermont-farm-lets-cows-give-birth-pasture-skip-barn/",
-      "ts": "2026-07-09T11:51:48+00:00",
-      "summary": "One farm is taking a different approach toward how its cows give birth. Philo Ridge Farm is letting nature lead the way to improve both animal welfare and land health"
      }
     ]
    },
@@ -1275,8 +1275,57 @@
       "id": "71907504",
       "title": "US military says it is striking Iran in response to attack on civilian vessel in Strait of Hormuz",
       "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-closed/71907504",
-      "ts": "2026-07-12T00:00:00+00:00",
+      "ts": "2026-07-12T03:44:00+00:00",
       "summary": "Iran says it again considers the Strait of Hormuz closed after a vessel using an ‘unauthorized route’ was struck by a warning shot in the critical waterway — potentially further menacing the already tenuous ceasefire agreement with the U.S."
+     },
+     {
+      "id": "71908055",
+      "title": "2 people killed in shooting near Canada street festival",
+      "link": "https://www.mynbc5.com/article/shooting-toronto-street-festival-kills-2/71908055",
+      "ts": "2026-07-12T03:06:00+00:00",
+      "summary": "A shooting near a Toronto street festival has killed two people and wounded four others."
+     },
+     {
+      "id": "71905170",
+      "title": "New York Times journalists subpoenaed after Air Force One reporting, newspaper says",
+      "link": "https://www.mynbc5.com/article/new-york-times-reporters-subpoenas-air-force-one-report/71905170",
+      "ts": "2026-07-12T02:51:00+00:00",
+      "summary": "The Trump administration issued subpoenas Friday to several NYT journalists after a report on security concerns involving the new Air Force One, according to the paper."
+     },
+     {
+      "id": "71907913",
+      "title": "Woman falls off path, US Coast Guard and fire department stage rescue",
+      "link": "https://www.mynbc5.com/article/burlington-fire-us-coast-guard-rescue-lake-champlain/71907913",
+      "ts": "2026-07-12T02:15:00+00:00",
+      "summary": "A woman fell 10-15 feet at Lone Rock Point in Burlington, leading to a coordinated rescue between the Burlington Fire Department and the U.S. Coast Guard."
+     },
+     {
+      "id": "71908030",
+      "title": "Benny, the Disneyland security dog, retires",
+      "link": "https://www.mynbc5.com/article/benny-disneyland-dog-retires/71908030",
+      "ts": "2026-07-12T02:15:00+00:00",
+      "summary": "A special retirement took place at Disneyland as Benny the security dog hung up his harness."
+     },
+     {
+      "id": "71906852",
+      "title": "Young players hit the field as Vermont Green FC, Bernie Sanders host free soccer clinic",
+      "link": "https://www.mynbc5.com/article/free-soccer-clinic-for-kids/71906852",
+      "ts": "2026-07-12T01:34:00+00:00",
+      "summary": "A day of soccer, skills, and community brought families to Burlington's Virtue Field on Saturday as Sen. Bernie Sanders partnered with Vermont Green FC to host a free youth soccer event for local children."
+     },
+     {
+      "id": "71906613",
+      "title": "Dog found tied to street sign, Vermont State Police asking for public's help",
+      "link": "https://www.mynbc5.com/article/vermont-state-police-seeking-information-about-dog-found-tied-to-street-sign/71906613",
+      "ts": "2026-07-12T01:34:00+00:00",
+      "summary": "Vermont State Police are asking for the public's help after a dog was found tied to a street last Tuesday."
+     },
+     {
+      "id": "71886524",
+      "title": "Nearly half of US children live in counties with failing air quality",
+      "link": "https://www.mynbc5.com/article/failing-air-quality-counties-report-us/71886524",
+      "ts": "2026-07-12T01:00:00+00:00",
+      "summary": "Only one U.S. place made the cleanest city list across all pollution measures. Curious about your area? Use our tool to learn more."
      },
      {
       "id": "71907465",
@@ -1328,13 +1377,6 @@
       "summary": "Chinese authorities evacuated more than 1.7 million people as of Saturday and issued high alerts as eastern China braced for Bavi."
      },
      {
-      "id": "71906613",
-      "title": "Dog found tied to street sign, Vermont State Police asking for public's help",
-      "link": "https://www.mynbc5.com/article/vermont-state-police-seeking-information-about-dog-found-tied-to-street-sign/71906613",
-      "ts": "2026-07-11T19:07:00+00:00",
-      "summary": "Vermont State Police are asking for the public's help after a dog was found tied to a street last Tuesday."
-     },
-     {
       "id": "71906530",
       "title": "US citizen tests positive for Ebola in Congo",
       "link": "https://www.mynbc5.com/article/us-citizen-tests-positive-for-ebola-in-congo/71906530",
@@ -1368,48 +1410,6 @@
       "link": "https://www.mynbc5.com/article/jayden-adams-world-cup-midfielder/71906044",
       "ts": "2026-07-11T15:42:00+00:00",
       "summary": "South Africa midfielder Jayden Adams, who played at the World Cup , has died. He was 25."
-     },
-     {
-      "id": "71905832",
-      "title": "More people are focusing on gut health as fermented foods gain popularity",
-      "link": "https://www.mynbc5.com/article/fermented-food-why-more-people-focused-gut-health/71905832",
-      "ts": "2026-07-11T15:03:00+00:00",
-      "summary": "More people are focusing on their gut health as colorectal cancer rises among young adults and personalized gut microbiome treatments become increasingly popular."
-     },
-     {
-      "id": "71905693",
-      "title": "Why a museum just covered its floor in 800 pounds of peanut butter",
-      "link": "https://www.mynbc5.com/article/peanut-butter-museum-floor-wim-t-schippers/71905693",
-      "ts": "2026-07-11T13:41:00+00:00",
-      "summary": "More than 800 pounds of peanut butter -- enough for around 15,000 sandwiches -- has been spread across the floor of a museum. Here's why."
-     },
-     {
-      "id": "71905170",
-      "title": "New York Times journalists subpoenaed after Air Force One reporting, newspaper says",
-      "link": "https://www.mynbc5.com/article/new-york-times-reporters-subpoenas-air-force-one-report/71905170",
-      "ts": "2026-07-11T13:38:00+00:00",
-      "summary": "The Trump administration issued subpoenas Friday to several NYT journalists after a report on security concerns involving the new Air Force One, according to the paper."
-     },
-     {
-      "id": "71905597",
-      "title": "Sick of Earth? NASA is recruiting volunteers for a yearlong Moon and Mars simulation",
-      "link": "https://www.mynbc5.com/article/nasa-recuruits-moon-mars-simulation/71905597",
-      "ts": "2026-07-11T13:27:00+00:00",
-      "summary": "For anyone who has ever wondered whether they could handle life on another planet, NASA is offering a chance to find out -- well, sort of."
-     },
-     {
-      "id": "71905656",
-      "title": "LP(a) screening may help detect inherited heart disease risk",
-      "link": "https://www.mynbc5.com/article/lpa-blood-test-hidden-heart-ris1/71905656",
-      "ts": "2026-07-11T13:26:00+00:00",
-      "summary": "He had no warning before needing emergency bypass surgery. Now, doctors are urging people to ask about a little-known blood test that could reveal hidden heart disease risk."
-     },
-     {
-      "id": "71905611",
-      "title": "Hundreds rescued in southeastern Missouri as 1-in-1,000-year rainfall triggers catastrophic flooding",
-      "link": "https://www.mynbc5.com/article/missouri-historic-flooding/71905611",
-      "ts": "2026-07-11T13:24:00+00:00",
-      "summary": "Hundreds of people have been rescued from catastrophic flooding in southeastern Missouri, including some camping along a river that swelled to historic heights."
      }
     ]
    },
