@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T21:25:56+00:00",
+ "generated": "2026-07-13T23:23:27+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -1296,6 +1296,116 @@
    "url": "https://www.sevendaysvt.com/arts-culture/magnificent7/magnificent-7-must-see-must-do-events-in-and-around-vermont-july-15-22/",
    "source": "sevendays-news",
    "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T21:34:21+00:00",
+   "category": "events",
+   "headline": "New event: MEDITATION CLASS: Living a Meaningful Life Meditations",
+   "detail": "today 6:30 PM · Burlington Friends Meeting House",
+   "url": "https://www.meetup.com/burlington-meditation-and-buddhism/events/315447100/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T21:34:21+00:00",
+   "category": "events",
+   "headline": "New event: Cancer New Moon Circle",
+   "detail": "today 7 PM · Oakledge Park",
+   "url": "https://www.meetup.com/sacred-sisters-circles/events/315641613/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T21:34:21+00:00",
+   "category": "events",
+   "headline": "New event: Library Commission",
+   "detail": "Wednesday 7:30 AM · Fletcher Free Library",
+   "url": "https://fletcherfree.libcal.com/event/17190417",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T21:34:21+00:00",
+   "category": "events",
+   "headline": "New event: Live Music: Troy Millette",
+   "detail": "Friday 5:30 PM · Switchback Brewing Company",
+   "url": "https://www.switchbackvt.com/beer-garden-events/music-at-the-beer-garden-jpxnc-mzcse-wjx26-jyfxg-y7frm-nlpam-7t7fj-884f2-m39xw-xxmrp-xj2fc-5r5by-6awx2-prs92-d2lz5-b6d74-nrtb6-9s58r-lwjsp-5w2sz",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T21:34:21+00:00",
+   "category": "events",
+   "headline": "New event: Rose Asteroid w/ Cady Ternity",
+   "detail": "Friday 9 PM · Foam Brewers",
+   "url": "https://foambrewers.com/events/rose-asteroid-pkahf",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T21:34:21+00:00",
+   "category": "events",
+   "headline": "New event: Contra Dance in Burlington, VT",
+   "detail": "Jul 24 6:45 PM · Saint Anthony's Parish Hall",
+   "url": "https://events.uvm.edu/event/contra-dance-in-burlington-vt-185",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T21:34:21+00:00",
+   "category": "events",
+   "headline": "New event: OSHA-10 Construction Industry Outreach Training",
+   "detail": "Jul 27 7:30 AM · University of Vermont Occupational Health and Safety Office (OHSO)",
+   "url": "https://events.uvm.edu/event/july-osha-10-construction-industry-outreach-training",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T22:15:00+00:00",
+   "category": "news",
+   "headline": "Burlington man pleads not guilty in alleged downtown sexual assault case",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/burlington-sexual-assault-charge-smith/71922551",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T22:21:00+00:00",
+   "category": "news",
+   "headline": "After recent rescues, experts urge hikers to plan ahead",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/hiking-safety-reminders-after-recent-rescues/71921902",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T23:02:12+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Extreme Heat warning",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uvqld0/extreme_heat_warning/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
    "priority": 1,
    "kind": "added"
   }

@@ -626,6 +626,34 @@
    "vtdigger": {
     "items": [
      {
+      "id": "https://vtdigger.org/?p=651273",
+      "title": "Teen killer of Dartmouth professors in 2001 resentenced, eligible for parole in 20 years",
+      "link": "https://vtdigger.org/2026/07/13/teen-killer-of-dartmouth-professors-in-2001-resentenced-eligible-for-parole-in-20-years/",
+      "ts": "2026-07-13T22:28:29+00:00",
+      "summary": "Robert Tulloch had previously received a sentence of life without parole. Read the story on VTDigger here: Teen killer of Dartmouth professors in 2001 resentenced, eligible for parole in 20 years ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651259",
+      "title": "Alexander Read Cronin",
+      "link": "https://vtdigger.org/2026/07/13/obituary-alexander-read-cronin/",
+      "ts": "2026-07-13T22:09:19+00:00",
+      "summary": "Read was warm, funny and deeply feeling — a devoted father, son, brother, uncle and friend and deeply loved by those fortunate enough to know him. Read the story on VTDigger here: Alexander Read Cronin ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651243",
+      "title": "Robin Jones",
+      "link": "https://vtdigger.org/2026/07/13/obituary-robin-jones/",
+      "ts": "2026-07-13T21:50:10+00:00",
+      "summary": "She was a fantastic mother and just a really good human being. She was truly a free spirit. Read the story on VTDigger here: Robin Jones ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651219",
+      "title": "Wanda Ivette Otero",
+      "link": "https://vtdigger.org/2026/07/13/wanda-ivette-otero/",
+      "ts": "2026-07-13T21:47:44+00:00",
+      "summary": "Wanda found cause in helping families stay together, arguing before the State Supreme Court, and providing legal services for those who could not otherwise afford her skills. Read the story on VTDigger here: Wanda Ivette Otero ."
+     },
+     {
       "id": "https://vtdigger.org/?p=651257",
       "title": "‘Electric’: After yet another win, Vermont Green FC women head to national final",
       "link": "https://vtdigger.org/2026/07/13/electric-after-yet-another-win-vermont-green-fc-women-head-to-national-final/",
@@ -806,34 +834,6 @@
       "link": "https://vtdigger.org/2026/07/08/vermont-judge-dickson-corbett-remembered-for-kindness-and-dedication-to-the-law/",
       "ts": "2026-07-08T19:54:53+00:00",
       "summary": "“He was a true scholar of the law, so it was natural for him to be a judge,” said Orange County State’s Attorney Colin Seaman. Corbett died last week in his mid-40s. Read the story on VTDigger here: Vermont Judge Dickson Corbett remembered for kindness and dedication to the law ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=650984",
-      "title": "Tristram Gray Chase Jensvold",
-      "link": "https://vtdigger.org/2026/07/08/obituary-tristram-gray-chase-jensvold/",
-      "ts": "2026-07-08T19:20:32+00:00",
-      "summary": "Tristram lived life to the fullest, had few boundaries and took many risks. He was intense, funny and tough with a huge heart. He loved deeply and was a good, loyal friend. He adored all animals, particularly horses and dogs. Read the story on VTDigger here: Tristram Gray Chase Jensvold ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=650717",
-      "title": "Vermont Conversation: ‘How the Democrats Screwed Bernie.’ Former Sanders chief campaign strategist Tad Devine on the 2016 presidential race",
-      "link": "https://vtdigger.org/2026/07/08/vermont-conversation-how-the-democrats-screwed-bernie-former-sanders-chief-campaign-strategist-tad-devine-on-the-2016-presidential-race/",
-      "ts": "2026-07-08T17:13:00+00:00",
-      "summary": "The veteran Democratic political consultant was chief strategist for Bernie Sanders’ 2016 presidential campaign and has a new book on the mistakes the Democratic Party “seems determined to forget” from its 2016 primary. Read the story on VTDigger here: Vermont Conversation: ‘How the Democrats Screwed Bernie.’ Former Sanders chief campaign strategist Tad Devine on the 2016 presidential race ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=650978",
-      "title": "New Chittenden County recycling facility to remain on track after waste district recovers $2.27 million stolen in scam",
-      "link": "https://vtdigger.org/2026/07/07/new-chittenden-county-recycling-facility-to-remain-on-track-after-waste-district-recovers-2-27-million-stolen-in-scam/",
-      "ts": "2026-07-07T22:46:11+00:00",
-      "summary": "The money was stolen early this year by scammers appearing as a construction company that the district had been working with for the project. Read the story on VTDigger here: New Chittenden County recycling facility to remain on track after waste district recovers $2.27 million stolen in scam ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=650971",
-      "title": "Platner’s last pillar of support falls as Sanders says: Drop out",
-      "link": "https://vtdigger.org/2026/07/07/platners-last-pillar-of-support-falls-as-sanders-says-drop-out/",
-      "ts": "2026-07-07T21:19:59+00:00",
-      "summary": "Vermont’s congressional delegation called on the Maine Democratic U.S. Senate nominee to leave the race following the sexual assault allegation against him made public Monday. Read the story on VTDigger here: Platner’s last pillar of support falls as Sanders says: Drop out ."
      }
     ]
    },
@@ -931,15 +931,29 @@
       "id": "OYW4JDPMOBDMJOPHKGWQFHNSQI",
       "title": "Dropped phone triggers false plane crash alert near Mt. Pisgah",
       "link": "https://www.wcax.com/2026/07/13/dropped-phone-triggers-false-plane-crash-alert/",
-      "ts": "2026-07-13T21:14:12+00:00",
+      "ts": "2026-07-13T22:31:47+00:00",
       "summary": "A hiker who dropped his phone off a cliff set off a large emergency response."
      },
      {
+      "id": "3NXZDACAIJDFLDVC3D54ZCG4HU",
+      "title": "Vehicle crashes into Smugglers’ Notch Resort pool",
+      "link": "https://www.wcax.com/2026/07/13/vehicle-crashes-into-smugglers-notch-resort-pool/",
+      "ts": "2026-07-13T22:22:50+00:00",
+      "summary": "No injuries were reported after an SUV went through a fence and into a swimming pool at the Smugglers' Notch Resort on Monday."
+     },
+     {
       "id": "MWRCTIZBY5BC7FS5P6DNHY3B7U",
-      "title": "Red Arrows put on surprise aerial display during Beta Technologies stop",
-      "link": "https://www.wcax.com/2026/07/13/red-arrows-put-surprise-aerial-display-during-beta-technologies-stop/",
-      "ts": "2026-07-13T21:08:46+00:00",
+      "title": "Royal Air Force puts on surprise airshow during Beta visit",
+      "link": "https://www.wcax.com/2026/07/13/raf-puts-surprise-airshow-during-beta-visit/",
+      "ts": "2026-07-13T21:31:48+00:00",
       "summary": "The Royal Air Force Red Arrows put on a surprise show in the skies over the Burlington area on Monday. They were in town on a visit to Beta Technologies."
+     },
+     {
+      "id": "E3WE7S7FLZFP3AQ7SVC6XQG7E4",
+      "title": "UVMMC resident physicians ratify new contract with pay increase, plan to end 24-hour shifts",
+      "link": "https://www.wcax.com/2026/07/13/uvmmc-resident-physicians-ratify-new-contract-with-pay-increase-plan-end-24-hour-shifts/",
+      "ts": "2026-07-13T21:27:41+00:00",
+      "summary": "The agreement went into effect June 10, bringing several changes for UVMMC residents and interns — including benefits and a 10.25% salary increase spread out over three years."
      },
      {
       "id": "Y6WLA3ITKFD3BGVPD7SQDBA3WY",
@@ -954,6 +968,13 @@
       "link": "https://www.wcax.com/2026/07/13/faulty-fire-alarm-shuts-down-vermont-canada-border-crossing/",
       "ts": "2026-07-13T20:44:23+00:00",
       "summary": "A faulty fire alarm on the Canadian side of the border closed the crossing for more than an hour and snarled traffic into Highgate Springs, Vermont."
+     },
+     {
+      "id": "NSH6APERI5CHLN7TCZ4BC3O2KQ",
+      "title": "Hochul presses DHS for answers on reported immigration detention sites in New York",
+      "link": "https://www.wcax.com/2026/07/13/hochul-presses-dhs-answers-reported-immigration-detention-sites-new-york/",
+      "ts": "2026-07-13T19:57:23+00:00",
+      "summary": "The letter seeks answers about three separate sites reportedly tied to federal immigration detention."
      },
      {
       "id": "RRILL7GACRB67FAF24ZEHCQ2K4",
@@ -1255,171 +1276,150 @@
       "link": "https://www.wcax.com/2026/07/10/brattleboro-citizen-journalist-sues-attorney-general/",
       "ts": "2026-07-10T16:01:09+00:00",
       "summary": "A provocative social media content creator is suing Vermont’s Attorneys General over a crackdown on artificial intelligence ads"
-     },
-     {
-      "id": "7C3AD6K4XND2ZF5AUX3JLWRTEE",
-      "title": "Amazon launches new delivery station in the North Country",
-      "link": "https://www.wcax.com/2026/07/10/amazon-launches-new-delivery-station-north-country/",
-      "ts": "2026-07-10T15:37:24+00:00",
-      "summary": "Amazon’s new delivery station is now open at the Champlain Industrial Park in Champlain NY"
-     },
-     {
-      "id": "4XUJYI7WANG4BDIBDGW4776HBM",
-      "title": "Vermont Green FC women to host national semifinal on Saturday",
-      "link": "https://www.wcax.com/2026/07/10/vermont-green-fc-women-host-national-semifinal-saturday/",
-      "ts": "2026-07-10T13:29:21+00:00",
-      "summary": "Vermont Green FC women will host the USL W League semifinals Saturday night at Virtue Field. Here's how you can watch."
-     },
-     {
-      "id": "UOYEJU22HNHOLMOUUP7E7JDEAU",
-      "title": "Vermont marks 3-year anniversary of devastating flooding",
-      "link": "https://www.wcax.com/2026/07/09/vermont-marks-3-year-anniversary-devastating-flooding/",
-      "ts": "2026-07-10T12:50:43+00:00",
-      "summary": "The WCAX First Alert Weather Team takes a look back at 3 years of Vermont flooding in a special streaming on our website and apps."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
-      "id": "71920198",
-      "title": "Rubio vows to 'dismantle' International Criminal Court",
-      "link": "https://www.mynbc5.com/article/rubio-dismantle-international-criminal-court/71920198",
-      "ts": "2026-07-13T21:19:00+00:00",
-      "summary": "Rubio accused the ICC of “waging a war against our country, not with bullets or missiles,” but with “the force of so-called international law.”"
+      "id": "71922439",
+      "title": "'Guardian of the Strait': President Trump says US will charge 20% fee for ships using Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/guardian-of-the-strait-president-trump-says-us-will-charge-20-fee-for-ships-using-strait-of-hormuz/71922439",
+      "ts": "2026-07-13T23:19:00+00:00",
+      "summary": "President Donald Trump says ships will be charged 20% of their cargo’s value in exchange for U.S. protection in the Strait of Hormuz, but the administration has not explained who would pay, how the fee would be collected or what would happen to vessels that refuse."
      },
      {
-      "id": "71922073",
-      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham’s sudden death",
-      "link": "https://www.mynbc5.com/article/ukraine-fears-weaker-link-to-trump-after-graham-death/71922073",
-      "ts": "2026-07-13T21:12:00+00:00",
-      "summary": "Ukraine is mourning Sen. Lindsey Graham, whose death leaves leaders concerned about losing a key advocate with influence in President Trump's circle."
+      "id": "71914188",
+      "title": "Heat returns Tuesday before 'unusually intense' storms late across Vermont, New York",
+      "link": "https://www.mynbc5.com/article/heat-returns-tuesday-before-unusually-intense-storms-overnight-across-vermont-new-york/71914188",
+      "ts": "2026-07-13T23:01:00+00:00",
+      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
      },
      {
-      "id": "71919795",
-      "title": "‘Sunlight on demand’: U.S. approves test of giant space mirror to redirect sunlight",
-      "link": "https://www.mynbc5.com/article/fcc-approves-space-mirror-reflect-orbital/71919795",
-      "ts": "2026-07-13T21:08:00+00:00",
-      "summary": "The U.S. has approved plans for an experimental satellite carrying a massive mirror, designed to test if “sunlight on demand” is possible by reflecting sunlight onto targeted areas on Earth."
+      "id": "71922482",
+      "title": "The Voice contestant, Plattsburgh native returns to the North Country to perform at Clinton Co. Fair",
+      "link": "https://www.mynbc5.com/article/the-voice-contestant-and-plattsburgh-native-returns-to-the-north-country-to-perform-at-clinton-county-fair/71922482",
+      "ts": "2026-07-13T22:55:00+00:00",
+      "summary": "This will be Liam von Elbe's first stage performance since he competed on the national TV show"
+     },
+     {
+      "id": "71922699",
+      "title": "President Trump reduces size of 2 national monuments in Utah as Republicans reshape land management",
+      "link": "https://www.mynbc5.com/article/trump-reduces-bears-ears-grand-staircase-national-monuments/71922699",
+      "ts": "2026-07-13T22:42:00+00:00",
+      "summary": "President Trump on Monday reduced the size of two national monuments in Utah, undoing protections established by former presidents on public lands that are sacred among many Native Americans."
+     },
+     {
+      "id": "71922894",
+      "title": "Intense wind, tornadoes possible Tuesday evening",
+      "link": "https://www.mynbc5.com/article/intense-wind-tornadoes-possible-tuesday-evening71326/71922894",
+      "ts": "2026-07-13T22:36:27+00:00",
+      "summary": "Northern areas most at risk"
+     },
+     {
+      "id": "71902238",
+      "title": "Family seeks answers after 18-year-old found dead off Mississippi coast",
+      "link": "https://www.mynbc5.com/article/nolan-wells-mississippi-gulf-coast-death-investigation/71902238",
+      "ts": "2026-07-13T22:30:00+00:00",
+      "summary": "Nolan Xavier Wells was found dead two days after leaving for a boat trip with friends to celebrate the Fourth of July on an island off Mississippi’s Gulf Coast. The 18-year-old's parents say what happened is a mystery riddled with conflicting stories, and missing details."
+     },
+     {
+      "id": "71922662",
+      "title": "Social media users spread conspiracy theories about Mitch McConnell after photo release",
+      "link": "https://www.mynbc5.com/article/conspiracy-theories-mitch-mcconnell-photo-release/71922662",
+      "ts": "2026-07-13T22:24:00+00:00",
+      "summary": "Social media users spread conspiracy theories about Mitch McConnell after photo release"
+     },
+     {
+      "id": "71921902",
+      "title": "After recent rescues, experts urge hikers to plan ahead",
+      "link": "https://www.mynbc5.com/article/hiking-safety-reminders-after-recent-rescues/71921902",
+      "ts": "2026-07-13T22:21:00+00:00",
+      "summary": "After several recent outdoor rescues across the region – including a technical rescue at Lone Rock Point in Burlington – injury prevention experts say many emergencies can be prevented by planning ahead."
+     },
+     {
+      "id": "71918268",
+      "title": "UVM Medical Center resident physicians approve new contract with pay raise and benefits",
+      "link": "https://www.mynbc5.com/article/uvm-medical-center-resident-physicians-contract/71918268",
+      "ts": "2026-07-13T22:18:00+00:00",
+      "summary": "Resident physicians at UVM Medical Center have unanimously approved a new contract that includes a 10% pay raise, expanded benefits, and immigration protections."
+     },
+     {
+      "id": "71922609",
+      "title": "Democratic candidates for Vermont Lt. Gov push for nomination one month before primary",
+      "link": "https://www.mynbc5.com/article/democratic-candidates-push-for-vt-lt-gov-nomination-one-month-before-primary/71922609",
+      "ts": "2026-07-13T22:18:00+00:00",
+      "summary": "Candidates for Vermont lieutenant governor push for support ahead of August primary"
+     },
+     {
+      "id": "71922551",
+      "title": "Burlington man pleads not guilty in alleged downtown sexual assault case",
+      "link": "https://www.mynbc5.com/article/burlington-sexual-assault-charge-smith/71922551",
+      "ts": "2026-07-13T22:15:00+00:00",
+      "summary": "A Burlington man has pleaded not guilty after being charged in connection with an alleged sexual assault reported in downtown Burlington last week."
+     },
+     {
+      "id": "71922548",
+      "title": "VSP: Plane crash alert on Mount Pisgah was a false alarm, sent by a hiker's phone",
+      "link": "https://www.mynbc5.com/article/hikers-phone-sends-automatic-alert-of-plane-crash-on-mount-pisgah-triggering-multi-agency-response/71922548",
+      "ts": "2026-07-13T22:11:00+00:00",
+      "summary": "Vermont State Police say multiple first responders mobilized to a possible plane crash on Mount Pisgah. Turns out, it was an automatic alert."
+     },
+     {
+      "id": "71921778",
+      "title": "Red Arrows flight team visits BETA Technologies, performs flyover",
+      "link": "https://www.mynbc5.com/article/red-arrows-flyover-beta/71921778",
+      "ts": "2026-07-13T22:00:00+00:00",
+      "summary": "The Royal Air Force’s Red Arrows aerobatic team visited Beta Technologies on Monday after performing two flyovers that morning."
+     },
+     {
+      "id": "71909375",
+      "title": "Soccer, not just American football, may affect long-term brain health, study suggests",
+      "link": "https://www.mynbc5.com/article/soccer-players-brain-health-study-midlife/71909375",
+      "ts": "2026-07-13T21:56:00+00:00",
+      "summary": "As the World Cup nears its final, a new study raises questions about whether long-term soccer head impacts could affect brain health."
+     },
+     {
+      "id": "71922389",
+      "title": "Vermont animal shelter hosts summer camp this week and camper's projects will benefit their animals",
+      "link": "https://www.mynbc5.com/article/vermont-animal-shelter-hosts-summer-camp-this-week-and-campers-projects-will-benefit-their-animals/71922389",
+      "ts": "2026-07-13T21:53:00+00:00",
+      "summary": "The Rutland County Humane Society is hosting its Fur-Ever Friends day camp this week where campers will make dog treats, cat toys and adoption posters, to help the animals"
      },
      {
       "id": "71921896",
       "title": "Photos: Vehicle drives into swimming pool at Smugglers Notch Resort; Person in police custody",
       "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
-      "ts": "2026-07-13T21:08:00+00:00",
+      "ts": "2026-07-13T21:43:00+00:00",
       "summary": "Police and first responders are at Smugglers Notch Resort in Jeffersonville on Monday after a vehicle crashed into a swimming pool earlier this afternoon."
-     },
-     {
-      "id": "71921558",
-      "title": "Filling the seat: Process underway to fill Graham vacancy",
-      "link": "https://www.mynbc5.com/article/graham-replacement-process-sister/71921558",
-      "ts": "2026-07-13T21:06:00+00:00",
-      "summary": "The sudden death of Sen. Lindsey Graham has left a critical seat open in Washington. Now, efforts are underway to appoint a temporary replacement and select a new Republican nominee."
-     },
-     {
-      "id": "71921362",
-      "title": "Sweet reunion: Missing pet bird named 'Sunny' found at her favorite handout spot, an ice cream shop",
-      "link": "https://www.mynbc5.com/article/missing-cockatiel-found-ice-cream-shop-maine/71921362",
-      "ts": "2026-07-13T20:49:00+00:00",
-      "summary": "A missing pet cockatiel vanished for days. She turned up at her favorite hangout — an ice cream shop. Here's how the shop's employees and local police got her home."
-     },
-     {
-      "id": "71921767",
-      "title": "Caught on camera: Bystanders rescue mother and baby from vehicle stuck in flooded ditch",
-      "link": "https://www.mynbc5.com/article/georgia-mother-baby-rescued-submerged-vehicle/71921767",
-      "ts": "2026-07-13T20:42:00+00:00",
-      "summary": "Bystanders rushed to save a Georgia mother and baby after their car became partially submerged in floodwaters."
-     },
-     {
-      "id": "71921702",
-      "title": "Who is Darline Graham Nordone?",
-      "link": "https://www.mynbc5.com/article/darline-graham-nordone-lindsey-graham-sister/71921702",
-      "ts": "2026-07-13T20:31:00+00:00",
-      "summary": "South Carolina Gov. Henry McMaster appointed Sen. Lindsey Graham’s sister , Darline Graham Nordone, to serve for the rest of the senator's term on Monday. Here's what we know about her."
-     },
-     {
-      "id": "71917963",
-      "title": "Person killed in shooting involving ICE in Maine, official says",
-      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
-      "ts": "2026-07-13T20:24:00+00:00",
-      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
-     },
-     {
-      "id": "71919126",
-      "title": "South Carolina governor taps Lindsey Graham's sister to fill his Senate seat",
-      "link": "https://www.mynbc5.com/article/lindsey-graham-temporary-senate-replacement/71919126",
-      "ts": "2026-07-13T20:24:00+00:00",
-      "summary": "South Carolina Gov. Henry McMaster on Monday appointed Graham’s sister, Darline Graham Nordone, as his temporary replacement in the Senate."
-     },
-     {
-      "id": "71919798",
-      "title": "Police arrest man with a firearm at north barricade of the U.S. Capitol",
-      "link": "https://www.mynbc5.com/article/police-arrest-man-with-a-firearm-at-north-barricade-of-the-us-capitol/71919798",
-      "ts": "2026-07-13T20:04:00+00:00",
-      "summary": "U.S. Capitol Police arrested a man at the Capitol’s north barricade after officers said he was carrying a firearm, which is prohibited on Capitol grounds."
-     },
-     {
-      "id": "71920568",
-      "title": "Immigration officials have fired at civilians 29 times in Trump's second term",
-      "link": "https://www.mynbc5.com/article/ice-shootings-trump-second-term-data/71920568",
-      "ts": "2026-07-13T20:00:00+00:00",
-      "summary": "Eight people have been killed in shootings by immigration officials since January 2025, data shows. The latest shooting, involving ICE agents in Maine, was the 29th incident in President Donald Trump's second term."
-     },
-     {
-      "id": "71918482",
-      "title": "Trump says US will blockade Iran in Strait of Hormuz, will charge ships for safe passage",
-      "link": "https://www.mynbc5.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
-      "ts": "2026-07-13T19:38:00+00:00",
-      "summary": "President Trump said Monday that the U.S. is “reinstating” a blockade on Iran in the Strait of Hormuz and will charge ships for safe passage."
-     },
-     {
-      "id": "71921422",
-      "title": "Months after his arrest, Cher's son remains in custody in New Hampshire",
-      "link": "https://www.mynbc5.com/article/chers-son-remains-in-custody-new-hampshire-elijiah-allman/71921422",
-      "ts": "2026-07-13T19:33:59+00:00",
-      "summary": "Months after two arrests in New Hampshire, Elijah Allman ,the son of Cher and the late Gregg Allman, remains in custody. A judge has paused the Windham burglary case while questions surrounding his legal representation are addressed. Meanwhile, a competency hearing in his separate Concord case stemming from an incident at St. Paul's School is scheduled for October."
-     },
-     {
-      "id": "71919564",
-      "title": "Judge blasts Trump's IRS lawsuit as filed for 'improper purpose,' recommends attorney discipline",
-      "link": "https://www.mynbc5.com/article/judge-blasts-trumps-irs-lawsuit/71919564",
-      "ts": "2026-07-13T19:01:00+00:00",
-      "summary": "A federal judge says President Trump's lawsuit against the IRS over his leaked tax returns was filed for an \"improper purpose\" and referred attorneys for disciplinary actions."
-     },
-     {
-      "id": "71902241",
-      "title": "Sweeping housing bill becomes law, despite Trump delay. Here's what it actually means for the market",
-      "link": "https://www.mynbc5.com/article/what-it-housing-bill-means-for-housing-market/71902241",
-      "ts": "2026-07-13T18:55:00+00:00",
-      "summary": "Sweeping housing bill becomes law, despite Trump's delay. Here's what it actually means for the market"
-     },
-     {
-      "id": "71920951",
-      "title": "Pilot dies in small plane crash at upstate New York airport",
-      "link": "https://www.mynbc5.com/article/piseco-airport-new-york-fatal-crash/71920951",
-      "ts": "2026-07-13T18:30:00+00:00",
-      "summary": "The pilot and sole occupant of a small single-engine plane died in a crash in upstate New York on Sunday."
      },
      {
       "id": "71920785",
       "title": "Mosquito samples from Vergennes test positive for West Nile Virus",
       "link": "https://www.mynbc5.com/article/vergennes-vermont-west-nile-virus/71920785",
-      "ts": "2026-07-13T18:03:00+00:00",
+      "ts": "2026-07-13T21:43:00+00:00",
       "summary": "Samples of mosquitoes collected in Vergennes have tested positive for West Nile Virus, according to a recent post from the Vermont Department of Health."
      },
      {
-      "id": "71920558",
-      "title": "Sen. Lindsey Graham's death triggers search for replacement, new Senate nominee in South Carolina",
-      "link": "https://www.mynbc5.com/article/south-carolina-senate-replacement-after-graham-death/71920558",
-      "ts": "2026-07-13T17:59:00+00:00",
-      "summary": "Sen. Lindsey Graham's sudden death sets off a South Carolina scramble for a temporary replacement and a new GOP nominee."
+      "id": "71918482",
+      "title": "US begins new Iran strikes after Trump says ships will be charged to use the Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+      "ts": "2026-07-13T21:39:00+00:00",
+      "summary": "The U.S. announced a new round of strikes on Iran on Monday, hours after President Trump said that the United States is \"reinstating\" a blockade on Iran in the Strait of Hormuz"
      },
      {
-      "id": "71914188",
-      "title": "Heat returns Tuesday before 'unusually intense' storms overnight across Vermont, New York",
-      "link": "https://www.mynbc5.com/article/heat-returns-tuesday-before-unusually-intense-storms-overnight-across-vermont-new-york/71914188",
-      "ts": "2026-07-13T17:50:00+00:00",
-      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
+      "id": "71917963",
+      "title": "\"Not the target of the warrant.\" Person killed in shooting involving ICE in Biddeford, Maine",
+      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
+      "ts": "2026-07-13T21:27:00+00:00",
+      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
+     },
+     {
+      "id": "71920198",
+      "title": "Rubio vows to 'dismantle' International Criminal Court",
+      "link": "https://www.mynbc5.com/article/rubio-dismantle-international-criminal-court/71920198",
+      "ts": "2026-07-13T21:19:00+00:00",
+      "summary": "Rubio accused the ICC of “waging a war against our country, not with bullets or missiles,” but with “the force of so-called international law.”"
      }
     ]
    },
@@ -1473,6 +1473,14 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uvqld0",
+    "title": "Extreme Heat warning",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvqld0/extreme_heat_warning/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T23:02:12+00:00"
+   },
    {
     "id": "1uvmc3i",
     "title": "Charcuterie Frick, Lacolle?",
@@ -1621,14 +1629,6 @@
     "id": "1uuz1gb",
     "title": "Best home Internet?",
     "url": "https://www.reddit.com/r/burlington/comments/1uuz1gb/best_home_internet/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T11:00:59+00:00"
-   },
-   {
-    "id": "1uuyv3q",
-    "title": "The Champlain Parkway",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuyv3q/the_champlain_parkway/",
     "score": null,
     "comments": null,
     "created": "2026-07-13T11:00:59+00:00"
@@ -2014,6 +2014,14 @@
     "venue": "Burlington Elks Lodge 916"
    },
    {
+    "id": "65618dc342d2",
+    "title": "MEDITATION CLASS: Living a Meaningful Life Meditations",
+    "link": "https://www.meetup.com/burlington-meditation-and-buddhism/events/315447100/",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-07-13T18:30:00-04:00",
+    "venue": "Burlington Friends Meeting House"
+   },
+   {
     "id": "469762ef592d",
     "title": "Heather Layne night of Music and Testimony",
     "link": "https://www.facebook.com/events/1326770776288124/",
@@ -2044,6 +2052,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-13T19:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "8e2620e1d6c8",
+    "title": "Cancer New Moon Circle",
+    "link": "https://www.meetup.com/sacred-sisters-circles/events/315641613/",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-07-13T19:00:00-04:00",
+    "venue": "Oakledge Park"
    },
    {
     "id": "7406de0b2afc",
@@ -2884,6 +2900,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-14",
     "venue": "Flynndog Gallery"
+   },
+   {
+    "id": "b28b351f72e2",
+    "title": "Library Commission",
+    "link": "https://fletcherfree.libcal.com/event/17190417",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-07-15T07:30:00-04:00",
+    "venue": "Fletcher Free Library"
    },
    {
     "id": "26e8de56a613",
@@ -4259,7 +4283,7 @@
     "link": "https://www.flynnvt.org/Events/2026/7/Cirque-Arts-Flynn-Zone",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-16T17:30:00-04:00",
-    "venue": ""
+    "venue": "The Flynn"
    },
    {
     "id": "fd8b0a0f6dba",
@@ -5174,6 +5198,14 @@
     "venue": "Jaycee Park"
    },
    {
+    "id": "959fe2df9454",
+    "title": "Live Music: Troy Millette",
+    "link": "https://www.switchbackvt.com/beer-garden-events/music-at-the-beer-garden-jpxnc-mzcse-wjx26-jyfxg-y7frm-nlpam-7t7fj-884f2-m39xw-xxmrp-xj2fc-5r5by-6awx2-prs92-d2lz5-b6d74-nrtb6-9s58r-lwjsp-5w2sz",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-07-17T17:30:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "bbccbf1f4d9c",
     "title": "Vermont Brewers Festival 2026",
     "link": "https://calendar.time.ly/vfaca7kw/event/78406930/20260717173000",
@@ -5334,10 +5366,10 @@
     "venue": ""
    },
    {
-    "id": "db03c2ed4e71",
-    "title": "Rose Asteroid",
+    "id": "9041275e5342",
+    "title": "Rose Asteroid w/ Cady Ternity",
     "link": "https://foambrewers.com/events/rose-asteroid-pkahf",
-    "ts": "2026-07-10T17:56:00-04:00",
+    "ts": "2026-07-13T17:34:21-04:00",
     "start": "2026-07-17T21:00:00-04:00",
     "venue": "Foam Brewers"
    },
@@ -5356,6 +5388,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-17T21:00:00-04:00",
     "venue": "The Monkey House"
+   },
+   {
+    "id": "db03c2ed4e71",
+    "title": "Rose Asteroid",
+    "link": "https://foambrewers.com/events/rose-asteroid-pkahf",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-17T21:00:00-04:00",
+    "venue": "Foam Brewers"
    },
    {
     "id": "f45ce927186c",
@@ -6046,20 +6086,20 @@
     "venue": "On Tap Bar & Grill"
    },
    {
+    "id": "144ce430693f",
+    "title": "Live Music: Troy Millette",
+    "link": "https://calendar.time.ly/vfaca7kw/event/78399399/20260718173000",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-18T17:30:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "ce069178a329",
     "title": "Vermont Brewers Festival 2026",
     "link": "https://calendar.time.ly/vfaca7kw/event/78406930/20260718173000",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T17:30:00-04:00",
     "venue": "Waterfront Park"
-   },
-   {
-    "id": "144ce430693f",
-    "title": "Live Music: Troy Millette",
-    "link": "https://www.switchbackvt.com/beer-garden-events/music-at-the-beer-garden-jpxnc-mzcse-wjx26-jyfxg-y7frm-nlpam-7t7fj-884f2-m39xw-xxmrp-xj2fc-5r5by-6awx2-prs92-d2lz5-b6d74-nrtb6-9s58r-lwjsp-5w2sz",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T17:30:00-04:00",
-    "venue": "Switchback Brewing Company"
    },
    {
     "id": "59a7246bd5e1",
@@ -9654,6 +9694,14 @@
     "venue": "Outright Vermont"
    },
    {
+    "id": "5ae925d9cd02",
+    "title": "Contra Dance in Burlington, VT",
+    "link": "https://events.uvm.edu/event/contra-dance-in-burlington-vt-185",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-07-24T18:45:00-04:00",
+    "venue": "Saint Anthony's Parish Hall"
+   },
+   {
     "id": "4573d10a06a8",
     "title": "Jeffrey Foucault",
     "link": "https://www.facebook.com/events/1548752720292251/",
@@ -10798,6 +10846,14 @@
     "venue": "Einstein Tap House"
    },
    {
+    "id": "c35b0791ee45",
+    "title": "OSHA-10 Construction Industry Outreach Training",
+    "link": "https://events.uvm.edu/event/july-osha-10-construction-industry-outreach-training",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-07-27T07:30:00-04:00",
+    "venue": "University of Vermont Occupational Health and Safety Office (OHSO)"
+   },
+   {
     "id": "1b5083ac44c3",
     "title": "Art Wall - Vibrant Lives: Discovering Our Roots of Black Vermont",
     "link": "https://southburlingtonlibrary.org/art-wall-vibrant-lives-discovering-our-roots-of-black-vermont",
@@ -11790,6 +11846,14 @@
     "venue": "The Flynn"
    },
    {
+    "id": "448d80a71879",
+    "title": "OSHA-10 Construction Industry Outreach Training",
+    "link": "https://events.uvm.edu/event/july-osha-10-construction-industry-outreach-training",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-07-29T07:30:00-04:00",
+    "venue": "University of Vermont Occupational Health and Safety Office (OHSO)"
+   },
+   {
     "id": "65b5577d97fd",
     "title": "No Exit By Jean-Paul Sartre",
     "link": "https://www.helloburlingtonvt.com/event/no-exit-by-jean-paul-sartre/7693/",
@@ -12364,6 +12428,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-29",
     "venue": "The Flynn"
+   },
+   {
+    "id": "c45ca1e1dd0d",
+    "title": "OSHA-10 Construction Industry Outreach Training",
+    "link": "https://events.uvm.edu/event/july-osha-10-construction-industry-outreach-training",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-07-30T07:30:00-04:00",
+    "venue": "University of Vermont Occupational Health and Safety Office (OHSO)"
    },
    {
     "id": "2e36a3ed300c",
@@ -13806,6 +13878,14 @@
     "venue": "Off Center for the Dramatic Arts"
    },
    {
+    "id": "ad2b6327d220",
+    "title": "CANCELLED - Family PechaKucha",
+    "link": "https://fletcherfree.libcal.com/event/16720349",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-01T16:00:00-04:00",
+    "venue": "Fletcher Free Library"
+   },
+   {
     "id": "de0b0ce9eab3",
     "title": "Family PechaKucha",
     "link": "https://fletcherfree.libcal.com/event/16720349",
@@ -14132,6 +14212,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-02T12:00:00-04:00",
     "venue": "Spirit of Ethan Allen"
+   },
+   {
+    "id": "91f3e8d41ecf",
+    "title": "CANCELLED - Dungeons & Dinos",
+    "link": "https://fletcherfree.libcal.com/event/16734014",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-02T12:15:00-04:00",
+    "venue": "Fletcher Free Library"
    },
    {
     "id": "0ec42b35c76f",
@@ -15902,6 +15990,14 @@
     "venue": "Fletcher Free Library"
    },
    {
+    "id": "06075a2349b2",
+    "title": "Nicole Nystrom",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/nicole-nystrom/19405981/2026-08-06T16",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-06T16:00:00-04:00",
+    "venue": "Burlington Farmers Market"
+   },
+   {
     "id": "876dac48bf35",
     "title": "Flatbread Friday",
     "link": "https://community.sevendaysvt.com/event/flatbread-friday-45073207",
@@ -16926,6 +17022,14 @@
     "venue": "City Hall Park"
    },
    {
+    "id": "8cbdc10cc7f3",
+    "title": "Field Day + Kites in the Park 2026",
+    "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQzNzUwMjg=",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-08T13:00:00-04:00",
+    "venue": "Veterans Memorial Park"
+   },
+   {
     "id": "b9279f1d8683",
     "title": "Kites in the Park 2026",
     "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQzNzUwMjg=",
@@ -17444,6 +17548,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-09T21:00:00-04:00",
     "venue": "Einstein Tap House"
+   },
+   {
+    "id": "49c466618cf8",
+    "title": "OSHA-10 Construction Industry Outreach Training",
+    "link": "https://events.uvm.edu/event/august-osha-10-hour-construction-industry-outreach-training",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-10T07:30:00-04:00",
+    "venue": "321 Ryan St. Essex Jct. VT"
    },
    {
     "id": "ab11c9d0c0b7",
@@ -18118,6 +18230,14 @@
     "venue": "Vermont Pub and Brewery"
    },
    {
+    "id": "aaea2934e859",
+    "title": "OSHA-10 Construction Industry Outreach Training",
+    "link": "https://events.uvm.edu/event/august-osha-10-hour-construction-industry-outreach-training",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-12T07:30:00-04:00",
+    "venue": "321 Ryan St. Essex Jct. VT"
+   },
+   {
     "id": "d6bd03572373",
     "title": "Generative Conflict: A Workshop for Leaders",
     "link": "https://www.mychamplainvalley.com/calendar/#/details/generative-conflict-a-workshop-for-leaders/19353885/2026-08-12T09",
@@ -18596,6 +18716,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-13T07:00:00-04:00",
     "venue": "Green Mountain Audubon Center"
+   },
+   {
+    "id": "369a0b1a11ab",
+    "title": "OSHA-10 Construction Industry Outreach Training",
+    "link": "https://events.uvm.edu/event/august-osha-10-hour-construction-industry-outreach-training",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-13T07:30:00-04:00",
+    "venue": "321 Ryan St. Essex Jct. VT"
    },
    {
     "id": "fdae0caf7451",
@@ -21150,6 +21278,14 @@
     "venue": "Fletcher Free Library"
    },
    {
+    "id": "266479980b72",
+    "title": "Old and Getting Gray",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/old-and-getting-gray/19405982/2026-08-20T16",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-20T16:00:00-04:00",
+    "venue": "Burlington Farmers Market"
+   },
+   {
     "id": "817e3ef79eb1",
     "title": "Flatbread Friday",
     "link": "https://community.sevendaysvt.com/event/flatbread-friday-45073207",
@@ -22628,6 +22764,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-25T11:30:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
+   },
+   {
+    "id": "8421741a6fd6",
+    "title": "Zotero Drop-in Hour",
+    "link": "https://events.uvm.edu/event/zotero-drop-in-hour-9251",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-08-25T12:00:00-04:00",
+    "venue": "Dana Health Sciences Library"
    },
    {
     "id": "8d0c908a51c6",
@@ -25620,6 +25764,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-03T15:00:00-04:00",
     "venue": "Vermont Pub and Brewery"
+   },
+   {
+    "id": "e64ab9c19ca7",
+    "title": "Joshua Hurst",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/joshua-hurst/19405983/2026-09-03T16",
+    "ts": "2026-07-13T17:34:21-04:00",
+    "start": "2026-09-03T16:00:00-04:00",
+    "venue": "Burlington Farmers Market"
    },
    {
     "id": "1a63c54d8057",
