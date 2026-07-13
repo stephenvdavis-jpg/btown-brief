@@ -928,6 +928,13 @@
    "wcax": {
     "items": [
      {
+      "id": "RRILL7GACRB67FAF24ZEHCQ2K4",
+      "title": "Teen who killed married Dartmouth College professors gets resentencing hearing",
+      "link": "https://www.wcax.com/2026/07/13/teen-who-killed-married-dartmouth-college-professors-gets-resentencing-hearing/",
+      "ts": "2026-07-13T10:13:23+00:00",
+      "summary": "A Vermont man who killed married Dartmouth College professors 25 years ago will have a resentencing hearing in Grafton County Superior Court"
+     },
+     {
       "id": "2Q7K2PAKEBEP3BT63BKDZLG6JU",
       "title": "Annual horse show draws riders, spectators from across New England to Dorset",
       "link": "https://www.wcax.com/2026/07/12/annual-horse-show-draws-riders-spectators-across-new-england-dorset/",
@@ -1269,18 +1276,53 @@
       "link": "https://www.wcax.com/2026/07/09/severely-injured-vt-trooper-wont-face-charges-i-89-crash/",
       "ts": "2026-07-09T21:00:02+00:00",
       "summary": "Prosecutors will not file any charges against a Vermont trooper who was severely injured in a 2024 highway crash when he slammed into a fire truck."
-     },
-     {
-      "id": "3GXYZ3VOUZHJPJWDGXLYMHXL6Q",
-      "title": "Two North Country hospitals warned over price transparency violations",
-      "link": "https://www.wcax.com/2026/07/09/two-north-country-hospitals-warned-over-price-transparency-violations/",
-      "ts": "2026-07-09T20:44:50+00:00",
-      "summary": "More than 500 hospitals across the country have received warnings from the federal government for failing to comply with price transparency requirements. Two are in the North Country."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71916388",
+      "title": "Man who killed Dartmouth professors at 17 seeks reduced prison sentence",
+      "link": "https://www.mynbc5.com/article/vermont-man-robert-tulloch-seeks-reduced-prison-sentence/71916388",
+      "ts": "2026-07-13T11:13:00+00:00",
+      "summary": "A Vermont man who was 17 when he and a friend killed a pair of married Dartmouth College professors 25 years ago is seeking to have his life sentence reduced."
+     },
+     {
+      "id": "71914188",
+      "title": "Heat returns Tuesday before 'unusually intense' storms overnight across Vermont, New York",
+      "link": "https://www.mynbc5.com/article/heat-returns-tuesday-before-unusually-intense-storms-overnight-across-vermont-new-york/71914188",
+      "ts": "2026-07-13T10:31:00+00:00",
+      "summary": "Tuesday night's setup has the potential to produce the biggest storms of the summer so far"
+     },
+     {
+      "id": "71915243",
+      "title": "Senate returns to Washington after Sen. Lindsey Graham's death with uncertain agenda",
+      "link": "https://www.mynbc5.com/article/senate-republicans-graham-death-mcconnell-absence/71915243",
+      "ts": "2026-07-13T10:12:00+00:00",
+      "summary": "Senate Republicans will return to Washington with an uncertain agenda after the sudden death of prominent Republican Lindsey Graham and Mitch McConnell's continued absence"
+     },
+     {
+      "id": "71914485",
+      "title": "Actor Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
+      "link": "https://www.mynbc5.com/article/sam-neill-dies-at-78-film-career-lymphoma/71914485",
+      "ts": "2026-07-13T09:18:00+00:00",
+      "summary": "Sam Neill, an elegant and versatile actor whose career moved from art film to blockbuster as he dodged velociraptors in “Jurassic Park,” has died. He was 78."
+     },
+     {
+      "id": "71908465",
+      "title": "​​US Sen. Lindsey Graham dies at 71; medical examiner releases preliminary findings",
+      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
+      "ts": "2026-07-13T09:10:00+00:00",
+      "summary": "Sen. Lindsey Graham died after a rupture in his aorta, according to a preliminary medical examiner finding shared by his office. He was 71."
+     },
+     {
+      "id": "71911277",
+      "title": "Red Cross declares emergency blood shortage as donations plunge",
+      "link": "https://www.mynbc5.com/article/red-cross-emergency-blood-shortage-nationwide/71911277",
+      "ts": "2026-07-13T09:00:00+00:00",
+      "summary": "Blood donations have plunged as summer trauma season begins, and the Red Cross says all blood types are urgently needed."
+     },
      {
       "id": "71912014",
       "title": "Vermont Lake Monsters stay hot, win 11th straight game",
@@ -1315,13 +1357,6 @@
       "link": "https://www.mynbc5.com/article/orlando-1988-cold-case-murder-charge/71911571",
       "ts": "2026-07-13T03:17:00+00:00",
       "summary": "Police in Orlando, Florida, say modern DNA testing cracked a decades-old murder case, leading to the arrest of Willie Carpenter in North Carolina."
-     },
-     {
-      "id": "71908465",
-      "title": "​​US Sen. Lindsey Graham dies at 71; medical examiner releases preliminary findings",
-      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
-      "ts": "2026-07-13T03:00:00+00:00",
-      "summary": "Sen. Lindsey Graham died after a rupture in his aorta, according to a preliminary medical examiner finding shared by his office. He was 71."
      },
      {
       "id": "71910443",
@@ -1385,41 +1420,6 @@
       "link": "https://www.mynbc5.com/article/dog-food-recall-pedigree/71910147",
       "ts": "2026-07-12T21:22:00+00:00",
       "summary": "A popular dog food has been recalled nationwide that may contain sharp fragments of metal or plastic."
-     },
-     {
-      "id": "71910456",
-      "title": "Wai Ching Ho, Marvel villain and Pixar voice actress, dead at 82",
-      "link": "https://www.mynbc5.com/article/wai-ching-ho-marvel-villain-and-pixar-voice-dead/71910456",
-      "ts": "2026-07-12T20:15:00+00:00",
-      "summary": "Wai Ching Ho, a veteran actress known for memorable Marvel and Pixar roles, has died. She was 82"
-     },
-     {
-      "id": "71899250",
-      "title": "The White House is upgrading its front door to fortify the entrance",
-      "link": "https://www.mynbc5.com/article/white-house-security-upgrades-front-door-north-portico/71899250",
-      "ts": "2026-07-12T20:15:00+00:00",
-      "summary": "​The White House is upgrading the North Portico front door as part of new security measures, with additional fencing plans under review"
-     },
-     {
-      "id": "71910380",
-      "title": "Jannik Sinner wins second straight Wimbledon title for fifth career Grand Slam",
-      "link": "https://www.mynbc5.com/article/jannik-sinner-wins-wimbledon-title/71910380",
-      "ts": "2026-07-12T19:18:00+00:00",
-      "summary": "Top-ranked Jannik Sinner beat Alexander Zverev for his second consecutive Wimbledon title and fifth Grand Slam overall."
-     },
-     {
-      "id": "71910167",
-      "title": "The World Cup’s final four is set. Here’s what you need to know before the final week",
-      "link": "https://www.mynbc5.com/article/world-cup-final-four-what-to-know/71910167",
-      "ts": "2026-07-12T18:42:00+00:00",
-      "summary": "The World Cup’s final four is set. Here’s what you need to know before the final week."
-     },
-     {
-      "id": "71909939",
-      "title": "White House flags lowered following Senator Lindsey Graham's death",
-      "link": "https://www.mynbc5.com/article/white-house-flags-lowered-senator-lindsey-graham/71909939",
-      "ts": "2026-07-12T17:50:00+00:00",
-      "summary": "Flags at the White House were lowered to half-staff following the death of South Carolina Senator Lindsey Graham on Sunday morning."
      }
     ]
    },
@@ -1473,6 +1473,30 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uv2db6",
+    "title": "Red Rocks",
+    "url": "https://www.reddit.com/r/burlington/comments/1uv2db6/red_rocks/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T11:00:59+00:00"
+   },
+   {
+    "id": "1uuz1gb",
+    "title": "Best home Internet?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uuz1gb/best_home_internet/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T11:00:59+00:00"
+   },
+   {
+    "id": "1uuyv3q",
+    "title": "The Champlain Parkway",
+    "url": "https://www.reddit.com/r/burlington/comments/1uuyv3q/the_champlain_parkway/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T11:00:59+00:00"
+   },
    {
     "id": "1uuya8r",
     "title": "Anyone know what's happening in Burlington rn?",
@@ -1605,30 +1629,6 @@
     "id": "1uudgbr",
     "title": "I'm Brewing Specialty Coffee This Morning — Come Say Hi!",
     "url": "https://www.reddit.com/r/burlington/comments/1uudgbr/im_brewing_specialty_coffee_this_morning_come_say/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uucf46",
-    "title": "Stroller “friendly” church street restaurants?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uucf46/stroller_friendly_church_street_restaurants/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uu2wk4",
-    "title": "I just wanted to tell these people it looked like they were about to have a great time. On the dock of Splash.",
-    "url": "https://www.reddit.com/r/burlington/comments/1uu2wk4/i_just_wanted_to_tell_these_people_it_looked_like/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uu23r0",
-    "title": "Taggers",
-    "url": "https://www.reddit.com/r/burlington/comments/1uu23r0/taggers/",
     "score": null,
     "comments": null,
     "created": "2026-07-13T02:00:02+00:00"

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T07:46:13+00:00",
+ "generated": "2026-07-13T11:34:08+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -1023,6 +1023,39 @@
    "sourceName": "NWS Burlington",
    "priority": 3,
    "kind": "status"
+  },
+  {
+   "ts": "2026-07-13T11:00:59+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Red Rocks",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uv2db6/red_rocks/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T11:00:59+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Best home Internet?",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uuz1gb/best_home_internet/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T11:00:59+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: The Champlain Parkway",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uuyv3q/the_champlain_parkway/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }
