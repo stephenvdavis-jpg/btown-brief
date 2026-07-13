@@ -1,43 +1,34 @@
 {
- "updated": "2026-07-13T08:36:48+00:00",
+ "updated": "2026-07-13T11:44:15+00:00",
  "sections_updated": {
-  "now": "2026-07-13T08:36:48+00:00",
-  "forecast": "2026-07-13T08:36:48+00:00",
-  "hourly": "2026-07-13T08:36:48+00:00",
-  "alerts": "2026-07-13T08:36:48+00:00",
-  "afd": "2026-07-13T08:36:48+00:00",
-  "lake_forecast": "2026-07-13T08:36:48+00:00",
-  "lake_gage": "2026-07-13T08:36:48+00:00",
-  "air": "2026-07-13T08:36:48+00:00",
-  "sun": "2026-07-13T08:36:48+00:00",
-  "models": "2026-07-13T08:36:48+00:00"
+  "now": "2026-07-13T11:44:15+00:00",
+  "forecast": "2026-07-13T11:44:15+00:00",
+  "hourly": "2026-07-13T11:44:15+00:00",
+  "alerts": "2026-07-13T11:44:15+00:00",
+  "afd": "2026-07-13T11:44:15+00:00",
+  "lake_forecast": "2026-07-13T11:44:15+00:00",
+  "lake_gage": "2026-07-13T11:44:15+00:00",
+  "air": "2026-07-13T11:44:15+00:00",
+  "sun": "2026-07-13T11:44:15+00:00",
+  "models": "2026-07-13T11:44:15+00:00"
  },
  "now": {
-  "observed_at": "2026-07-13T08:10:00+00:00",
+  "observed_at": "2026-07-13T11:20:00+00:00",
   "station": "KBTV",
   "description": "Clear",
-  "temp_f": 61,
-  "feels_like_f": 61,
-  "humidity": 82,
+  "temp_f": 66,
+  "feels_like_f": 66,
+  "humidity": 68,
   "dewpoint_f": 55,
-  "wind_mph": 3,
+  "wind_mph": 0,
   "wind_gust_mph": null,
-  "wind_dir": "E"
+  "wind_dir": "N"
  },
  "forecast": {
   "updated": "2026-07-13T06:23:04+00:00",
   "periods": [
    {
-    "name": "Overnight",
-    "is_day": false,
-    "temp_f": 63,
-    "pop": 1,
-    "wind": "S 6 mph",
-    "short": "Partly Cloudy",
-    "detailed": "Partly cloudy, with a low around 63. South wind around 6 mph."
-   },
-   {
-    "name": "Monday",
+    "name": "Today",
     "is_day": true,
     "temp_f": 87,
     "pop": 14,
@@ -46,7 +37,7 @@
     "detailed": "Mostly sunny, with a high near 87. South wind 6 to 10 mph."
    },
    {
-    "name": "Monday Night",
+    "name": "Tonight",
     "is_day": false,
     "temp_f": 69,
     "pop": 18,
@@ -70,7 +61,7 @@
     "pop": 75,
     "wind": "W 7 to 13 mph",
     "short": "Chance Showers And Thunderstorms then Showers And Thunderstorms",
-    "detailed": "A chance of showers and thunderstorms between 7pm and 11pm, then showers and thunderstorms. Mostly cloudy, with a low around 72. West wind 7 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+    "detailed": "A chance of showers and thunderstorms between 7pm and 11pm, then showers and thunderstorms. Mostly cloudy, with a low around 72. Heat index values as high as 101. West wind 7 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
    },
    {
     "name": "Wednesday",
@@ -80,45 +71,21 @@
     "wind": "NW 7 to 13 mph",
     "short": "Chance Rain Showers then Sunny",
     "detailed": "A chance of rain showers before 8am. Sunny, with a high near 87. Northwest wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+   },
+   {
+    "name": "Wednesday Night",
+    "is_day": false,
+    "temp_f": 65,
+    "pop": 6,
+    "wind": "W 3 to 10 mph",
+    "short": "Mostly Clear",
+    "detailed": "Mostly clear, with a low around 65. West wind 3 to 10 mph."
    }
   ]
  },
  "hourly": {
   "updated": "2026-07-13T06:23:04+00:00",
   "hours": [
-   {
-    "t": "2026-07-13T04:00:00-04:00",
-    "temp_f": 65,
-    "feels_f": 65,
-    "pop": 1,
-    "humidity": 75,
-    "wind_mph": 5,
-    "wind_dir": "S",
-    "sky": 28,
-    "short": "Partly Cloudy"
-   },
-   {
-    "t": "2026-07-13T05:00:00-04:00",
-    "temp_f": 64,
-    "feels_f": 64,
-    "pop": 1,
-    "humidity": 78,
-    "wind_mph": 6,
-    "wind_dir": "S",
-    "sky": 31,
-    "short": "Partly Cloudy"
-   },
-   {
-    "t": "2026-07-13T06:00:00-04:00",
-    "temp_f": 67,
-    "feels_f": 67,
-    "pop": 1,
-    "humidity": 70,
-    "wind_mph": 7,
-    "wind_dir": "S",
-    "sky": 21,
-    "short": "Sunny"
-   },
    {
     "t": "2026-07-13T07:00:00-04:00",
     "temp_f": 69,
@@ -481,6 +448,39 @@
     "wind_dir": "SW",
     "sky": 35,
     "short": "Mostly Sunny"
+   },
+   {
+    "t": "2026-07-14T16:00:00-04:00",
+    "temp_f": 96,
+    "feels_f": 102,
+    "pop": 2,
+    "humidity": 42,
+    "wind_mph": 12,
+    "wind_dir": "SW",
+    "sky": 15,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-14T17:00:00-04:00",
+    "temp_f": 96,
+    "feels_f": 102,
+    "pop": 6,
+    "humidity": 42,
+    "wind_mph": 12,
+    "wind_dir": "SW",
+    "sky": 14,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-14T18:00:00-04:00",
+    "temp_f": 95,
+    "feels_f": 101,
+    "pop": 13,
+    "humidity": 43,
+    "wind_mph": 13,
+    "wind_dir": "SW",
+    "sky": 29,
+    "short": "Partly Cloudy"
    }
   ]
  },
@@ -495,14 +495,14 @@
   ]
  },
  "afd": {
-  "issued": "2026-07-13T06:32:00+00:00",
+  "issued": "2026-07-13T10:45:00+00:00",
   "key_messages": [
    "Heat will begin to build, with a Heat Advisory posted for most all of Vermont and northern New York on Tuesday. Some localized fire weather concerns are possible.",
    "A sharp cold front is expected to produce strong to severe showers and thunderstorms Tuesday evening and overnight. A few storms may be capable of significant severe weather hazards.",
    "Seasonable temperatures are generally expected for the latter half of the week into the weekend, with a few chances for showers possible."
   ],
   "what_changed": "As of 229 AM EDT Monday... A Heat Advisory has been issued across much of Vermont and northern New York for Tuesday afternoon. The Storm Prediction Center has expanded the forecast region of severe weather in our region, and upgraded areas along the International Border to an Enhanced Risk (Level 3 of 5).",
-  "raw": "\n000\nFXUS61 KBTV 130632\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n232 AM EDT Mon Jul 13 2026\n\n.WHAT HAS CHANGED...\nAs of 229 AM EDT Monday...\n\nA Heat Advisory has been issued across much of Vermont and northern \nNew York for Tuesday afternoon. The Storm Prediction Center has\nexpanded the forecast region of severe weather in our region, \nand upgraded areas along the International Border to an Enhanced\nRisk (Level 3 of 5).\n\n&&\n\n.KEY MESSAGES...\nAs of 229 AM EDT Monday...\n\n1. Heat will begin to build, with a Heat Advisory posted for \nmost all of Vermont and northern New York on Tuesday. Some localized \nfire weather concerns are possible.\n\n2. A sharp cold front is expected to produce strong to severe \nshowers and thunderstorms Tuesday evening and overnight. A few\nstorms may be capable of significant severe weather hazards.\n\n3. Seasonable temperatures are generally expected for the \nlatter half of the week into the weekend, with a few chances for \nshowers possible.\n\n&&\n\n.DISCUSSION...\nAs of 229 AM EDT Monday...\n\nKEY MESSAGE 1: Today will be another nice day. Heat is expected to \nbuild, but dewpoints will remain low today. A shortwave will \nprogress southeast today, but with significant low level dry air, it \nmay struggle. Still, high res guidance has increased the area of \nradar returns, and so the forecast continues to indicate a slight \nchance of some afternoon showers today. Southwest winds will help \nusher in the warmer weather, and it will bring some breezier weather \ncompared to the last couple days with some winds to 15 mph, mainly \nacross northern New York. Within and showers that may develop, there \nmay be some embedded gusts given the evaporative cooling amidst the \ndry low-level environment.\n\nTuesday will be the peak of a brief, but potent, surge of heat. \nObservations upstream indicate that the NBM forecast for dewpoints \nmay be underforecasting our region, and slightly elevated dewpoints \nupwards. The latest forecast runs have also nudged their 925mb \ntemperatures up just a bit more, and so much of the forecast area is \npoised to hit 90s with surface dewpoints in the mid 60s, locally \nnear 70, especially across the St. Lawrence Valley. With this, \nforecast heat indices have crept up towards 93-103 for the region. \nSouthwesterly winds will increase further as well, with speeds 10-20 \nmph across the entire region, and gusts 20-35 mph. Sustaining well-\nmixed conditions will likely be what keeps us below 100, but there \nis a real possibility a few places might reach triple digits. The \nheat will be brought to a close by a potentially significant frontal \nboundary Tuesday evening into Tuesday night. Even with higher \ndewpoints, the warmer temperatures will push south-central Vermont \nminimum relative humidity values towards 35 percent. Parts of these \nareas have escaped recent rainfall, and the combination of sun, \nwinds, and heat could drive localized fire weather concerns.\n\nKEY MESSAGE 2: The range of forecast guidance available has been \nconsistent in depicting a cluster of powerful thunderstorms from \nabout 6PM - 4AM descending north out of Canada and gradually \ndissipating after passing over the international border. Some of \nthese storms may be capable of significant severe weather.\n\nMuch of Tuesday afternoon will be stable, as a warm layer in the mid-\nlevels will effectively cap convection. By evening, height falls \nwill begin to erode that region of mid-level warmth. Given \ntemperatures will still range in the upper 80s to mid 90s, the \nregion will begin to quickly destabilize while a powerful cold front \ndrops south of Montreal about 8 PM Tuesday. CAPE values are high, \nranging between 2000-3000 J/kg, and enhanced west-northwest flow \nchanneled between an anomalous high in the central US and an \nanomalous upper low developing across eastern Quebec will result in \n0-6km shear approaching 55-60 kts. Shear is mostly unidirectional \nacross the region, but the development of any mesoscale low, may \nallow flow to back southwesterly as the boundary shifts south. This \npotential is indicated in the extended 00z HRRR run, and even shows \nup within the 00z GFS. Thus, thunderstorms are expected to initially \nbe discrete, but quickly organize into broken line segments. Any \nbowing that takes place may allow for some rotation to develop as \nwell. Remnants of an elevated mixed layer will be present, but it \nwill be shifting south somewhat before thunderstorms initiate. So \nthe timing of strongest thunderstorms will be in that 6pm-midnight \nwindow and along the international border. After becoming briefly \nintense, they will then gradually weaken as they advance southwards \nacross the rest of our forecast area. \n\nAll storm threats may occur with this, but for now the forecast \ngrids indicate heavy rain and gusty winds. Some hail could be \nfavored while the storm mode is more discrete, and a tornado cannot \nbe entirely discounted within the development of any bowing \nsegments. The Storm Prediction Center has forecast an Enhanced Risk \n(Level 3 of 5) of Severe Storms along the international border. This \nindicates the potential for widespread strong to severe \nthunderstorms with significant intensity.\n\nNot to be left out is the heavy rainfall potential. If clusters are \nlimited, then we'll have heavy rainfall within strong to severe \nstorms, but may miss out on any flood potential due to their fast \nmotions. However, if a broader area of thunderstorms develop, some \nforecast evolution depicts thunderstorms redeveloping on the western \nperiphery of bowing segments in the Northeast Kingdom and resulting \nin a swath of high rainfall totals as they move southeast across \nnorthern Vermont, especially. The present forecast shows a sharp \ngradient with the higher rainfall totals favored across far northern \nVermont, with values of 1-1.5\" indicated from eastern Franklin \nVermont to Essex County, Vermont.\n\nAfter Wednesday morning, the front should be positioned near or \nsouth of the area. Activity will dwindle, and somewhat cooler air \nwill begin the process of moving in. Still on the warm side with 80s \nfor most, and perhaps some readings in the lower 90s for Rutland and \nWindsor Counties.\n\nKEY MESSAGE 3: Into the latter portion of this week and the weekend, \ntemperatures will remain relatively seasonable to seasonably warm \nincreasing from the low 70s to near 80 on Friday to the upper 70s to \nmid 80s by the start of next week. While moisture slowly returns by \nthe start of next week, dewpoints in the upper 40s to mid 50s will \nmake things feel comfortable. Synoptically we will remain under \ncyclonic northwesterly flow as a cyclonic gyre looks to become \nstagnant over northern Quebec, keeping ridging across the west, and \na favoring the potential for a few shortwaves to pass through the \narea into the weekend. Timing and spatial patterns of any of these \nshortwaves remains muddied as these will likely be associated with \nconvection and mesoscale processes. That being said, there is a \ngrowing signal that better chances for any precipitation will be \nSaturday into Sunday with a diving shortwave across the Great Lakes. \nQuestions remain where the shortwave sets up in the base of the \ntrough. GEFS and Euro ensembles are fairly consistent with \nincreasing precipitation during the day Saturday into Saturday night \nas a trough swings through the region with lingering showers into \nSunday. The Canadian model solutions favor a more southerly stream \nof energy that would keep most of the region dry through the \nweekend. Trends have favored southern Vermont as a target for better \nprecipitation chances taking the average of the aforementioned model \nsolutions.\n\n&&\n\n.AVIATION /06Z MONDAY THROUGH FRIDAY/...\nThrough 06Z Tuesday...Prevailing VFR conditions are expected at all\nterminals through the TAF period. Dry air at the surface and aloft\nshould keep fog at bay, however, SLK has already reached its\ncrossover temperature due to good radiational cooling. Confidence in\nfog tonight is relatively low, in part also due to increasing cloud\ncover from the northwest from convection across western Quebec.\nHowever, given they are already at crossover, have added a TEMPO for\nMVFR vsbys at SLK from 09-11Z. MPV may possibly also see some VCFG,\nthough confidence is higher at SLK for any fog. Winds today will\nstart off light from the south (around 5-10 knots), and trend more\nsouthwesterly by early this afternoon. Channeled southwest flow at\nMSS/SLK could bring intermittent gusts to 15-20 kts through this\nafternoon. Clouds may briefly increase this afternoon with a\nsprinkle or two at BTV/MPV, but PoPs remain below 30% with low\nconfidence. Winds will trend towards calm with a scattered deck of\nstratus around 10,000ft agl overnight tonight.\n\nOutlook...\n\nTuesday: VFR. Windy with gusts to 30 kt. NO SIG WX.\nTuesday Night: VFR. Chance SHRA, Slight chance TSRA.\nWednesday: VFR. NO SIG WX.\nWednesday Night: VFR. NO SIG WX.\nThursday: VFR. Slight chance SHRA, Slight chance TSRA.\nThursday Night: VFR. Slight chance SHRA.\nFriday: VFR. NO SIG WX.\n\n&&\n\n.CLIMATE...\nHigh temperatures on Tuesday will be hot, but we are at the \nclimatological warmest part of the year. Therefore, it is far \nfrom a certainty that any records will occur. At this time, PBG,\nMPV, and MSS are the more likely long-term climate sites to \nset a record. See below for current records:\n\nMax Temp Records\nDate     BTV      MPV       MSS      PBG      SLK\n07-14  100|1995  94|1952   92|2012  95|1952  95|1934\n\nHigh Min Temp Records\nDatePBG\n07-14   70|1974\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...Heat Advisory from 11 AM to 8 PM EDT Tuesday for VTZ001>011-\n     016>018-020-021.\nNY...Heat Advisory from 11 AM to 8 PM EDT Tuesday for NYZ026>029-\n     031-035-087.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Haynes\nDISCUSSION...Danzig/Haynes\nAVIATION...Danzig\nCLIMATE...NWS BTV\n"
+  "raw": "\n000\nFXUS61 KBTV 131045\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n645 AM EDT Mon Jul 13 2026\n\n.WHAT HAS CHANGED...\nAs of 229 AM EDT Monday...\n\nA Heat Advisory has been issued across much of Vermont and northern \nNew York for Tuesday afternoon. The Storm Prediction Center has\nexpanded the forecast region of severe weather in our region, \nand upgraded areas along the International Border to an Enhanced\nRisk (Level 3 of 5).\n\n&&\n\n.KEY MESSAGES...\nAs of 229 AM EDT Monday...\n\n1. Heat will begin to build, with a Heat Advisory posted for \nmost all of Vermont and northern New York on Tuesday. Some localized \nfire weather concerns are possible.\n\n2. A sharp cold front is expected to produce strong to severe \nshowers and thunderstorms Tuesday evening and overnight. A few\nstorms may be capable of significant severe weather hazards.\n\n3. Seasonable temperatures are generally expected for the \nlatter half of the week into the weekend, with a few chances for \nshowers possible.\n\n&&\n\n.DISCUSSION...\nAs of 229 AM EDT Monday...\n\nKEY MESSAGE 1: Today will be another nice day. Heat is expected to \nbuild, but dewpoints will remain low today. A shortwave will \nprogress southeast today, but with significant low level dry air, it \nmay struggle. Still, high res guidance has increased the area of \nradar returns, and so the forecast continues to indicate a slight \nchance of some afternoon showers today. Southwest winds will help \nusher in the warmer weather, and it will bring some breezier weather \ncompared to the last couple days with some winds to 15 mph, mainly \nacross northern New York. Within and showers that may develop, there \nmay be some embedded gusts given the evaporative cooling amidst the \ndry low-level environment.\n\nTuesday will be the peak of a brief, but potent, surge of heat. \nObservations upstream indicate that the NBM forecast for dewpoints \nmay be underforecasting our region, and slightly elevated dewpoints \nupwards. The latest forecast runs have also nudged their 925mb \ntemperatures up just a bit more, and so much of the forecast area is \npoised to hit 90s with surface dewpoints in the mid 60s, locally \nnear 70, especially across the St. Lawrence Valley. With this, \nforecast heat indices have crept up towards 93-103 for the region. \nSouthwesterly winds will increase further as well, with speeds 10-20 \nmph across the entire region, and gusts 20-35 mph. Sustaining well-\nmixed conditions will likely be what keeps us below 100, but there \nis a real possibility a few places might reach triple digits. The \nheat will be brought to a close by a potentially significant frontal \nboundary Tuesday evening into Tuesday night. Even with higher \ndewpoints, the warmer temperatures will push south-central Vermont \nminimum relative humidity values towards 35 percent. Parts of these \nareas have escaped recent rainfall, and the combination of sun, \nwinds, and heat could drive localized fire weather concerns.\n\nKEY MESSAGE 2: The range of forecast guidance available has been \nconsistent in depicting a cluster of powerful thunderstorms from \nabout 6PM - 4AM descending north out of Canada and gradually \ndissipating after passing over the international border. Some of \nthese storms may be capable of significant severe weather.\n\nMuch of Tuesday afternoon will be stable, as a warm layer in the mid-\nlevels will effectively cap convection. By evening, height falls \nwill begin to erode that region of mid-level warmth. Given \ntemperatures will still range in the upper 80s to mid 90s, the \nregion will begin to quickly destabilize while a powerful cold front \ndrops south of Montreal about 8 PM Tuesday. CAPE values are high, \nranging between 2000-3000 J/kg, and enhanced west-northwest flow \nchanneled between an anomalous high in the central US and an \nanomalous upper low developing across eastern Quebec will result in \n0-6km shear approaching 55-60 kts. Shear is mostly unidirectional \nacross the region, but the development of any mesoscale low, may \nallow flow to back southwesterly as the boundary shifts south. This \npotential is indicated in the extended 00z HRRR run, and even shows \nup within the 00z GFS. Thus, thunderstorms are expected to initially \nbe discrete, but quickly organize into broken line segments. Any \nbowing that takes place may allow for some rotation to develop as \nwell. Remnants of an elevated mixed layer will be present, but it \nwill be shifting south somewhat before thunderstorms initiate. So \nthe timing of strongest thunderstorms will be in that 6pm-midnight \nwindow and along the international border. After becoming briefly \nintense, they will then gradually weaken as they advance southwards \nacross the rest of our forecast area. \n\nAll storm threats may occur with this, but for now the forecast \ngrids indicate heavy rain and gusty winds. Some hail could be \nfavored while the storm mode is more discrete, and a tornado cannot \nbe entirely discounted within the development of any bowing \nsegments. The Storm Prediction Center has forecast an Enhanced Risk \n(Level 3 of 5) of Severe Storms along the international border. This \nindicates the potential for widespread strong to severe \nthunderstorms with significant intensity.\n\nNot to be left out is the heavy rainfall potential. If clusters are \nlimited, then we'll have heavy rainfall within strong to severe \nstorms, but may miss out on any flood potential due to their fast \nmotions. However, if a broader area of thunderstorms develop, some \nforecast evolution depicts thunderstorms redeveloping on the western \nperiphery of bowing segments in the Northeast Kingdom and resulting \nin a swath of high rainfall totals as they move southeast across \nnorthern Vermont, especially. The present forecast shows a sharp \ngradient with the higher rainfall totals favored across far northern \nVermont, with values of 1-1.5\" indicated from eastern Franklin \nVermont to Essex County, Vermont.\n\nAfter Wednesday morning, the front should be positioned near or \nsouth of the area. Activity will dwindle, and somewhat cooler air \nwill begin the process of moving in. Still on the warm side with 80s \nfor most, and perhaps some readings in the lower 90s for Rutland and \nWindsor Counties.\n\nKEY MESSAGE 3: Into the latter portion of this week and the weekend, \ntemperatures will remain relatively seasonable to seasonably warm \nincreasing from the low 70s to near 80 on Friday to the upper 70s to \nmid 80s by the start of next week. While moisture slowly returns by \nthe start of next week, dewpoints in the upper 40s to mid 50s will \nmake things feel comfortable. Synoptically we will remain under \ncyclonic northwesterly flow as a cyclonic gyre looks to become \nstagnant over northern Quebec, keeping ridging across the west, and \na favoring the potential for a few shortwaves to pass through the \narea into the weekend. Timing and spatial patterns of any of these \nshortwaves remains muddied as these will likely be associated with \nconvection and mesoscale processes. That being said, there is a \ngrowing signal that better chances for any precipitation will be \nSaturday into Sunday with a diving shortwave across the Great Lakes. \nQuestions remain where the shortwave sets up in the base of the \ntrough. GEFS and Euro ensembles are fairly consistent with \nincreasing precipitation during the day Saturday into Saturday night \nas a trough swings through the region with lingering showers into \nSunday. The Canadian model solutions favor a more southerly stream \nof energy that would keep most of the region dry through the \nweekend. Trends have favored southern Vermont as a target for better \nprecipitation chances taking the average of the aforementioned model \nsolutions.\n\n&&\n\n.AVIATION /12Z MONDAY THROUGH FRIDAY/...\nThrough 12Z Tuesday...Prevailing VFR conditions are expected at all\nterminals through the TAF period. A few mid to upper clouds are\npassing through northern New York this morning from convective\nblowoff associated with decaying showers in Canada, with otherwise\nmainly clear skies expected thereafter. Winds today will start off\nlight from the south (around 5-10 knots), and trend more\nsouthwesterly by early this afternoon. Channeled southwest flow at\nMSS/SLK could bring intermittent gusts to 15-20 kts through this\nafternoon. Clouds will briefly increase this afternoon with a\npassing boundary, before trending back to more scattered to few\ncloud cover. A brief sprinkle may be possible at BTV/MPV this\nafternoon, though any precipitation will likely fall as virga due to\ndry low levels, with no terminal impacts. Winds will trend towards\ncalm with a scattered deck of stratus around 10,000ft agl overnight\ntonight.\n\nOutlook...\n\nTuesday: VFR. Windy with gusts to 30 kt. NO SIG WX.\nTuesday Night: VFR. Chance SHRA, Slight chance TSRA.\nWednesday: VFR. NO SIG WX.\nWednesday Night: VFR. NO SIG WX.\nThursday: VFR. Slight chance SHRA, Slight chance TSRA.\nThursday Night: VFR. Slight chance SHRA.\nFriday: VFR. NO SIG WX.\n\n&&\n\n.CLIMATE...\nHigh temperatures on Tuesday will be hot, but we are at the \nclimatological warmest part of the year. Therefore, it is far \nfrom a certainty that any records will occur. At this time, PBG,\nMPV, and MSS are the more likely long-term climate sites to \nset a record. See below for current records:\n\nMax Temp Records\nDate     BTV      MPV       MSS      PBG      SLK\n07-14  100|1995  94|1952   92|2012  95|1952  95|1934\n\nHigh Min Temp Records\nDatePBG\n07-14   70|1974\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...Heat Advisory from 11 AM to 8 PM EDT Tuesday for VTZ001>011-\n     016>018-020-021.\nNY...Heat Advisory from 11 AM to 8 PM EDT Tuesday for NYZ026>029-\n     031-035-087.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Haynes\nDISCUSSION...Danzig/Haynes\nAVIATION...Danzig\nCLIMATE...NWS BTV\n"
  },
  "lake_forecast": {
   "issued": "2026-07-13T06:25:00+00:00",
@@ -746,18 +746,18 @@
   }
  },
  "lake_gage": {
-  "water_temp_f": 74,
-  "water_temp_at": "2026-07-13T04:00:00.000-04:00",
-  "level_ft": 96.48,
-  "level_at": "2026-07-13T04:00:00.000-04:00",
+  "water_temp_f": 75,
+  "water_temp_at": "2026-07-13T07:00:00.000-04:00",
+  "level_ft": 96.46,
+  "level_at": "2026-07-13T07:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
   "aqi": 30,
   "category": "Good",
-  "pollutant": "OZONE",
-  "observed": "07/13/26 4:00",
+  "pollutant": "PM2.5",
+  "observed": "07/13/26 7:00",
   "discussion": "On Monday, July 13th,  expect moderate air quality in Vermont, as smoke from Canadian wildfires continues to circulate around the New England region."
  },
  "sun": {
@@ -772,21 +772,21 @@
    {
     "date": "2026-07-13",
     "high_f": {
-     "GFS": 88,
+     "GFS": 89,
      "Euro": 90,
      "ICON": 89
     },
     "pop_max": {
-     "GFS": 13,
-     "Euro": 6,
+     "GFS": 10,
+     "Euro": 12,
      "ICON": 5
     },
     "precip_in": {
-     "GFS": 0.03,
+     "GFS": 0.0,
      "Euro": 0.0,
      "ICON": 0.0
     },
-    "high_spread_f": 2
+    "high_spread_f": 1
    },
    {
     "date": "2026-07-14",
@@ -796,14 +796,14 @@
      "ICON": 99
     },
     "pop_max": {
-     "GFS": 73,
-     "Euro": 33,
+     "GFS": 60,
+     "Euro": 12,
      "ICON": 33
     },
     "precip_in": {
      "GFS": 0.0,
      "Euro": 0.0,
-     "ICON": 0.48
+     "ICON": 0.27
     },
     "high_spread_f": 3
    },
@@ -815,14 +815,14 @@
      "ICON": 84
     },
     "pop_max": {
-     "GFS": 73,
+     "GFS": 60,
      "Euro": 75,
      "ICON": 48
     },
     "precip_in": {
-     "GFS": 0.22,
+     "GFS": 0.24,
      "Euro": 0.07,
-     "ICON": 0.85
+     "ICON": 0.74
     },
     "high_spread_f": 4
    }
