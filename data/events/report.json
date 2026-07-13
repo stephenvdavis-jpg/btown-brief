@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-12T17:31:33-04:00",
+ "generated": "2026-07-13T08:21:43-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
-   "count": 35,
+   "count": 34,
    "seconds": 5.9
   },
   "breweries": {
    "label": "Breweries & Taprooms",
-   "count": 52,
-   "seconds": 3.4
+   "count": 50,
+   "seconds": 3.3
   },
   "brownell": {
    "label": "Brownell Library",
    "count": 57,
-   "seconds": 2.8
+   "seconds": 2.7
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
-   "count": 159,
-   "seconds": 2.1
+   "count": 154,
+   "seconds": 2.4
   },
   "churchst": {
    "label": "Church Street Marketplace",
-   "count": 83,
-   "seconds": 1.4
+   "count": 84,
+   "seconds": 1.5
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -33,28 +33,28 @@
   },
   "eventbrite": {
    "label": "Eventbrite",
-   "count": 135,
-   "seconds": 35.3
+   "count": 0,
+   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-13&end_date=2026-09-11&page=1 (HTTP Error 405: Not Allowed)"
   },
   "facebook": {
    "label": "Facebook (manual drops)",
-   "count": 251,
-   "seconds": 0.2
+   "count": 234,
+   "seconds": 0.1
   },
   "farmersmarket": {
    "label": "Burlington Farmers Market",
    "count": 8,
-   "seconds": 0.5
+   "seconds": 0.4
   },
   "fletcherfree": {
    "label": "Fletcher Free Library",
-   "count": 251,
-   "seconds": 76.9
+   "count": 249,
+   "seconds": 76.2
   },
   "flynn": {
    "label": "The Flynn",
-   "count": 13,
-   "seconds": 3.0
+   "count": 15,
+   "seconds": 2.7
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -68,8 +68,8 @@
   },
   "higherground": {
    "label": "Higher Ground",
-   "count": 57,
-   "seconds": 87.4
+   "count": 56,
+   "seconds": 90.2
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -78,28 +78,28 @@
   },
   "loveburlington": {
    "label": "Love Burlington",
-   "count": 480,
-   "seconds": 67.2
+   "count": 478,
+   "seconds": 71.3
   },
   "meetup": {
    "label": "Meetup",
-   "count": 71,
-   "seconds": 141.6
+   "count": 73,
+   "seconds": 145.6
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 15,
-   "seconds": 14.2
+   "seconds": 14.6
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
    "count": 85,
-   "seconds": 4.2
+   "seconds": 59.4
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
-   "count": 48,
-   "seconds": 27.3
+   "count": 49,
+   "seconds": 25.7
   },
   "sevendays": {
    "label": "Seven Days",
@@ -113,18 +113,18 @@
   },
   "uvm": {
    "label": "UVM & Colleges",
-   "count": 150,
-   "seconds": 6.1
+   "count": 154,
+   "seconds": 9.5
   },
   "uvmbored": {
    "label": "UVM Bored",
-   "count": 127,
+   "count": 130,
    "seconds": 0.1
   },
   "vcc": {
    "label": "Vermont Comedy Club",
-   "count": 51,
-   "seconds": 68.4
+   "count": 52,
+   "seconds": 68.7
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
@@ -132,10 +132,10 @@
    "seconds": 0.5
   }
  },
- "gathered": 2162,
- "afterDedup": 1464,
- "duplicatesMerged": 698,
- "final": 3300,
+ "gathered": 2011,
+ "afterDedup": 1337,
+ "duplicatesMerged": 674,
+ "final": 3238,
  "mergeLog": [
   {
    "kept": {
@@ -189,17 +189,6 @@
    "merged_sources": [
     "uvm",
     "uvmbored"
-   ],
-   "date": "2026-07-24"
-  },
-  {
-   "kept": {
-    "title": "Joe Marcinek Band",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "eventbrite",
-    "loveburlington"
    ],
    "date": "2026-07-24"
   },
@@ -307,7 +296,6 @@
    "merged_sources": [
     "breweries",
     "champlainvalley",
-    "eventbrite",
     "facebook"
    ],
    "date": "2026-07-25"
@@ -755,7 +743,7 @@
   },
   {
    "kept": {
-    "title": "Vermont Psychic Expo Readings",
+    "title": "Vermont Psychic Expo",
     "source": "champlainvalley"
    },
    "merged_sources": [
@@ -880,28 +868,6 @@
     "champlainvalley",
     "uvm",
     "uvmbored"
-   ],
-   "date": "2026-08-04"
-  },
-  {
-   "kept": {
-    "title": "August Networking Coffee for Women at Hula",
-    "source": "eventbrite"
-   },
-   "merged_sources": [
-    "eventbrite",
-    "facebook"
-   ],
-   "date": "2026-08-04"
-  },
-  {
-   "kept": {
-    "title": "Herbal Oil Infusions, Salves and Lotions",
-    "source": "eventbrite"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "eventbrite"
    ],
    "date": "2026-08-04"
   },
@@ -1159,22 +1125,10 @@
     "source": "uvm"
    },
    "merged_sources": [
-    "eventbrite",
     "facebook",
     "loveburlington",
     "uvm",
     "uvmbored"
-   ],
-   "date": "2026-08-08"
-  },
-  {
-   "kept": {
-    "title": "Shadowlight",
-    "source": "eventbrite"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "eventbrite"
    ],
    "date": "2026-08-08"
   },
@@ -1314,17 +1268,6 @@
    "merged_sources": [
     "uvm",
     "uvmbored"
-   ],
-   "date": "2026-08-12"
-  },
-  {
-   "kept": {
-    "title": "The Wanted Part II Theater Premiere",
-    "source": "eventbrite"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "eventbrite"
    ],
    "date": "2026-08-12"
   },
@@ -1960,17 +1903,6 @@
   },
   {
    "kept": {
-    "title": "Flora & Fiber: Naturally Dye a Tote Bag!",
-    "source": "eventbrite"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "eventbrite"
-   ],
-   "date": "2026-08-29"
-  },
-  {
-   "kept": {
     "title": "Convocation and Twilight Induction",
     "source": "uvm"
    },
@@ -2419,17 +2351,6 @@
   },
   {
    "kept": {
-    "title": "VT / NH Society For Respiratory Care Annual Educational Conference",
-    "source": "eventbrite"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "eventbrite"
-   ],
-   "date": "2026-09-09"
-  },
-  {
-   "kept": {
     "title": "Italian Conversation Group",
     "source": "fletcherfree"
    },
@@ -2441,12 +2362,26 @@
   },
   {
    "kept": {
+    "title": "Lukas Nelson & Molly Tuttle",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "higherground",
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-10"
+  },
+  {
+   "kept": {
     "title": "Thesaurus Rex",
     "source": "higherground"
    },
    "merged_sources": [
     "champlainvalley",
-    "higherground"
+    "higherground",
+    "uvm",
+    "uvmbored"
    ],
    "date": "2026-09-10"
   },
@@ -2460,9 +2395,117 @@
     "loveburlington"
    ],
    "date": "2026-09-10"
+  },
+  {
+   "kept": {
+    "title": "Chemistry seminar ft. Carol Manhart",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-10"
+  },
+  {
+   "kept": {
+    "title": "ActivitiesFest 2026",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-10"
+  },
+  {
+   "kept": {
+    "title": "Fire Extinguisher Training",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-10"
+  },
+  {
+   "kept": {
+    "title": "2026 Menopause Café and Clinical Update",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-10"
+  },
+  {
+   "kept": {
+    "title": "Matt Mathews",
+    "source": "flynn"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "flynn"
+   ],
+   "date": "2026-09-11"
+  },
+  {
+   "kept": {
+    "title": "Live DJ at Ri Ra!",
+    "source": "churchst"
+   },
+   "merged_sources": [
+    "churchst",
+    "loveburlington"
+   ],
+   "date": "2026-09-11"
   }
  ],
  "changes": [
+  {
+   "id": "9ad0160746b1",
+   "title": "Smart Cycling Workshops with E-Bikes",
+   "date": "2026-07-18",
+   "change": "missing",
+   "lastSeen": "2026-07-11T06:44:31-04:00"
+  },
+  {
+   "id": "f9f456ddea34",
+   "title": "Dinosaur Safari Exhibit",
+   "date": "2026-07-19",
+   "change": "missing",
+   "lastSeen": "2026-07-10T23:21:33-04:00"
+  },
+  {
+   "id": "a31c87c05a7d",
+   "title": "The Ultimate Chocolate Tasting",
+   "date": "2026-07-19",
+   "change": "missing",
+   "lastSeen": "2026-07-11T06:44:31-04:00"
+  },
+  {
+   "id": "52a6a476d23d",
+   "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
+   "date": "2026-07-19",
+   "change": "missing",
+   "lastSeen": "2026-07-11T06:44:31-04:00"
+  },
+  {
+   "id": "8cb61e82a4e2",
+   "title": "Smart Cycling Workshops with E-Bikes",
+   "date": "2026-07-19",
+   "change": "missing",
+   "lastSeen": "2026-07-11T06:44:31-04:00"
+  },
+  {
+   "id": "67735b38f8fe",
+   "title": "Dinosaur Safari Exhibit",
+   "date": "2026-07-20",
+   "change": "missing",
+   "lastSeen": "2026-07-10T23:21:33-04:00"
+  },
   {
    "id": "62f87ac529b2",
    "title": "The Ultimate Chocolate Tasting",
@@ -2490,13 +2533,6 @@
    "date": "2026-07-20",
    "change": "missing",
    "lastSeen": "2026-07-11T06:44:31-04:00"
-  },
-  {
-   "id": "54382929f86d",
-   "title": "4-Day Data Science with Python Bootcamp in Montpelier, VT",
-   "date": "2026-07-21",
-   "change": "missing",
-   "lastSeen": "2026-07-10T17:56:00-04:00"
   },
   {
    "id": "b71a09407c23",
@@ -2583,20 +2619,6 @@
    "lastSeen": "2026-07-11T06:44:31-04:00"
   },
   {
-   "id": "6a82d2ede0fe",
-   "title": "SAFe® 5.1 POPM 2Days Classroom Training in Burlington, VT",
-   "date": "2026-07-23",
-   "change": "missing",
-   "lastSeen": "2026-07-10T23:07:48-04:00"
-  },
-  {
-   "id": "4ea27c487a1d",
-   "title": "SAFe® 5.1 (LPM) 2Days Classroom Training in Burlington, VT",
-   "date": "2026-07-23",
-   "change": "missing",
-   "lastSeen": "2026-07-10T23:07:48-04:00"
-  },
-  {
    "id": "dd25667d19f2",
    "title": "Library Outreach Specialist Office Hours",
    "date": "2026-07-23",
@@ -2611,11 +2633,11 @@
    "lastSeen": "2026-07-10T23:21:33-04:00"
   },
   {
-   "id": "9182052916cb",
-   "title": "Networking Lunch at Hula with the Network of Women",
+   "id": "c0d3bee74895",
+   "title": "Networking Lunch at Hula with the Network of Women--July Lunch",
    "date": "2026-07-23",
    "change": "missing",
-   "lastSeen": "2026-07-12T06:59:21-04:00"
+   "lastSeen": "2026-07-12T17:31:33-04:00"
   },
   {
    "id": "bfab97cf1a2f",
@@ -2786,13 +2808,6 @@
    "lastSeen": "2026-07-11T06:44:31-04:00"
   },
   {
-   "id": "69a9ac9a9e01",
-   "title": "Certified Ethical Hacker – Practical Ethical Hacker in Vermont, VT",
-   "date": "2026-07-28",
-   "change": "missing",
-   "lastSeen": "2026-07-10T17:56:00-04:00"
-  },
-  {
    "id": "65f34cca7ab4",
    "title": "Library Outreach Specialist Office Hours",
    "date": "2026-07-28",
@@ -2926,15 +2941,15 @@
    "lastSeen": "2026-07-11T06:44:31-04:00"
   },
   {
-   "id": "b5cdd886da6d",
-   "title": "Vermont Public Kids Day with Daniel Tiger",
+   "id": "385ad73604d0",
+   "title": "Vermont Psychic Expo Readings",
    "date": "2026-08-01",
    "change": "missing",
-   "lastSeen": "2026-07-11T17:24:06-04:00"
+   "lastSeen": "2026-07-12T17:31:33-04:00"
   },
   {
-   "id": "79b44cea9de4",
-   "title": "Vermont Psychic Expo",
+   "id": "b5cdd886da6d",
+   "title": "Vermont Public Kids Day with Daniel Tiger",
    "date": "2026-08-01",
    "change": "missing",
    "lastSeen": "2026-07-11T17:24:06-04:00"
@@ -3206,13 +3221,6 @@
    "lastSeen": "2026-07-11T06:44:31-04:00"
   },
   {
-   "id": "8922f2bb04d4",
-   "title": "CEH v12 Ethical Hacking Bootcamp – 4 Days Training in Vermont, VT",
-   "date": "2026-08-11",
-   "change": "missing",
-   "lastSeen": "2026-07-11T17:24:06-04:00"
-  },
-  {
    "id": "732a6d1a95aa",
    "title": "Library Outreach Specialist Office Hours",
    "date": "2026-08-11",
@@ -3274,13 +3282,6 @@
    "date": "2026-08-13",
    "change": "missing",
    "lastSeen": "2026-07-11T06:44:31-04:00"
-  },
-  {
-   "id": "92f17a822169",
-   "title": "Stop Leaving Money on the Table: Build a Revenue Strategy That Actually Scales with Emma Bloksberg-Fireovid",
-   "date": "2026-08-13",
-   "change": "missing",
-   "lastSeen": "2026-07-11T17:24:06-04:00"
   },
   {
    "id": "82d2f79a2954",
