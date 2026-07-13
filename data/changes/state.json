@@ -2,9 +2,9 @@
  "nws-weather": {
   "alerts": [
    {
-    "id": "urn:oid:2.49.0.1.840.0.3f0a370f1b523819b5741a397f4cbae94e9700bf.001.1",
+    "id": "urn:oid:2.49.0.1.840.0.6f7937594ce957202507da2c3399352bbe9ba834.001.1",
     "event": "Heat Advisory",
-    "headline": "Heat Advisory issued July 13 at 2:22AM EDT until July 14 at 8:00PM EDT by NWS Burlington VT",
+    "headline": "Heat Advisory issued July 13 at 1:26PM EDT until July 14 at 8:00PM EDT by NWS Burlington VT",
     "severity": "Moderate",
     "onset": "2026-07-14T11:00:00-04:00",
     "ends": "2026-07-14T20:00:00-04:00",
@@ -58,7 +58,7 @@
    "Oakledge Cove": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-13T14:02:00+00:00"
+    "resultTime": "2026-07-13T17:51:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
@@ -515,6 +515,15 @@
      "Agenda"
     ]
    },
+   "10081": {
+    "name": "City Council - Ordinance Committee Meeting",
+    "start": "2026-07-16T16:30:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Ordinance Committee Meeting Agenda v1",
+     "Ordinance Committee Meeting Agenda Packet v1"
+    ]
+   },
    "10076": {
     "name": "Conservation Board",
     "start": "2026-07-16T17:30:00+00:00",
@@ -535,15 +544,6 @@
     "start": "2026-07-20T15:00:00+00:00",
     "hasAgenda": false,
     "files": []
-   },
-   "10065": {
-    "name": "Housing Board of Review",
-    "start": "2026-07-20T18:30:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Housing Board of Review Agenda 07/20",
-     "Housing Board of Review Agenda 07/20"
-    ]
    }
   }
  },
@@ -625,6 +625,13 @@
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651251",
+      "title": "Closing Brattleboro’s birthing center will cost Vermont more than it saves",
+      "link": "https://vtdigger.org/2026/07/13/opinion/",
+      "ts": "2026-07-13T18:47:03+00:00",
+      "summary": "Rural maternity wards nationwide are closing at a rate of two a month. Without action, Brattleboro's will be next. Read the story on VTDigger here: Closing Brattleboro’s birthing center will cost Vermont more than it saves ."
+     },
      {
       "id": "https://vtdigger.org/?p=651179",
       "title": "A new flood threatens Vermont: Dark money",
@@ -827,24 +834,24 @@
       "link": "https://vtdigger.org/2026/07/07/grand-isle-prosecutors-dui-case-heading-to-court-diversion-court-records-state/",
       "ts": "2026-07-07T19:28:47+00:00",
       "summary": "The program permits participants to avoid a criminal conviction provided they complete the requirements, which can include counseling and community service. Read the story on VTDigger here: Grand Isle prosecutor’s DUI case heading to court diversion, court records state ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=650953",
-      "title": "Judge H. Dickson Corbett",
-      "link": "https://vtdigger.org/2026/07/07/obituary-judge-h-dickson-corbett/",
-      "ts": "2026-07-07T18:53:56+00:00",
-      "summary": "Dickson changed many lives through his professional work, but he gave the most to his family. He was the type of father who was the first to his children when they were hurt and the fastest out of bed when he heard their nightmares. Read the story on VTDigger here: Judge H. Dickson Corbett ."
      }
     ]
    },
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-13/poll-most-vermonters-say-the-state-is-unaffordable",
+      "title": "Poll: Most Vermonters say the state is unaffordable",
+      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-13/poll-most-vermonters-say-the-state-is-unaffordable",
+      "ts": "2026-07-13T18:58:59+00:00",
+      "summary": "About 40% of Vermont residents say they are likely to move out of the state within the next five years."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-13/developing-story-ice-involved-shooting-leaves-one-dead-maine",
       "title": "Developing: One dead in ICE involved shooting in Maine",
       "link": "https://www.vermontpublic.org/local-news/2026-07-13/developing-story-ice-involved-shooting-leaves-one-dead-maine",
       "ts": "2026-07-13T13:30:35+00:00",
-      "summary": "One person is reported dead following a shooting involving ICE agents in Biddeford. That's according to a social media post by Maine House Speaker Speaker Ryan Fecteau."
+      "summary": "One person is reported dead following a shooting involving ICE agents in Biddeford. That's according to a social media post by Maine House Speaker Ryan Fecteau."
      },
      {
       "id": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-12/more-than-just-tawny-orange-choose-daylilies-with-other-color-and-petal-variations",
@@ -915,18 +922,46 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-08/grand-isle-states-attorneys-dui-case-diversion",
       "ts": "2026-07-08T19:01:29+00:00",
       "summary": "Court diversion, an alternative to traditional criminal proceedings, could lead to the case being dismissed and the records sealed."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-08/kaiden-mccarthy-vermonts-highest-mlb-draft-selection",
-      "title": "Chester's Kaiden McCarthy could be Vermont's highest-ever MLB Draft selection",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-08/kaiden-mccarthy-vermonts-highest-mlb-draft-selection",
-      "ts": "2026-07-08T18:55:06+00:00",
-      "summary": "Vermont high school baseball star Kaiden McCarthy could make history at this year's MLB Draft if he's selected within the first three rounds. Only two players from Vermont schools have ever been drafted as high as the fourth round."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "RRILL7GACRB67FAF24ZEHCQ2K4",
+      "title": "Man who killed Dartmouth professors resentenced to 45 years to life in prison",
+      "link": "https://www.wcax.com/2026/07/13/man-who-killed-dartmouth-professors-17-get-chance-parole-about-20-years-judge-rules/",
+      "ts": "2026-07-13T19:45:23+00:00",
+      "summary": "A Vermont man who was 17 when he and a friend killed a pair of married Dartmouth College professors 25 years ago will have a chance at parole in about 20 years, when he reaches the age of one of his victims, a judge ruled Monday"
+     },
+     {
+      "id": "G2XXBAXA2RBU3HDR6EDJLYVFJQ",
+      "title": "Hiker proposes on Mount Kearsarge after girlfriend injures leg",
+      "link": "https://www.wcax.com/2026/07/13/hiker-proposes-mount-kearsarge-after-girlfriend-injures-leg/",
+      "ts": "2026-07-13T19:14:03+00:00",
+      "summary": "A couple hiking Mount Kearsarge turned a rescue into an engagement after the woman hurt her leg on the trail."
+     },
+     {
+      "id": "HSSLUTFQFBFJBDIY64GRVXIKG4",
+      "title": "Vt. police seek tips after dog found tied to street sign in Arlington",
+      "link": "https://www.wcax.com/2026/07/13/vt-police-seek-tips-after-dog-found-tied-street-sign-arlington/",
+      "ts": "2026-07-13T18:53:41+00:00",
+      "summary": "Police are looking for answers after a dog was found tied to a street sign in Arlington two weeks ago."
+     },
+     {
+      "id": "JBB4XW5NHNBW3KDBPSMTA6IITY",
+      "title": "New York joins states challenging Paramount’s takeover of Warner Bros",
+      "link": "https://www.wcax.com/2026/07/13/new-york-joins-states-challenging-paramounts-takeover-warner-bros/",
+      "ts": "2026-07-13T18:05:42+00:00",
+      "summary": "Twelve states challenged Paramount’s takeover of Warner Bros. Discovery on Monday, filing a lawsuit that argues the $81 billion mega merger would “extinguish competition” in Hollywood and threaten jobs across the industry."
+     },
+     {
+      "id": "PKGYOVGLBZANTHK6VVKYDT3ZEQ",
+      "title": "Made in Vermont: Known for its beauty and fragrance, lavender is ‘scent-sational’",
+      "link": "https://www.wcax.com/2026/07/13/made-vermont-known-its-beauty-fragrance-lavender-is-scent-sational/",
+      "ts": "2026-07-13T17:35:16+00:00",
+      "summary": "Lavender is known for its beauty, fragrance and calming properties. It also grows well in rugged conditions. Those are all reasons why a couple in St. Johnsbury thought it would be the perfect plant to grow at their hillside home"
+     },
      {
       "id": "SUMIFRW75REM7IA2MALR4QGEPY",
       "title": "802 Homes to release free home design catalog aimed at lowering construction costs",
@@ -947,13 +982,6 @@
       "link": "https://www.wcax.com/2026/07/13/surprise-air-show-over-lake-champlain-royal-air-force-red-arrows/",
       "ts": "2026-07-13T15:21:56+00:00",
       "summary": "If you saw bright red planes flying above Lake Champlain Monday morning and wondered who they were, they were the Royal Air Force Red Arrows"
-     },
-     {
-      "id": "RRILL7GACRB67FAF24ZEHCQ2K4",
-      "title": "Man who killed Dartmouth professors at 17 to get a chance at parole in about 20 years, judge rules",
-      "link": "https://www.wcax.com/2026/07/13/man-who-killed-dartmouth-professors-17-get-chance-parole-about-20-years-judge-rules/",
-      "ts": "2026-07-13T14:43:56+00:00",
-      "summary": "A Vermont man who was 17 when he and a friend killed a pair of married Dartmouth College professors 25 years ago will have a chance at parole in about 20 years, when he reaches the age of one of his victims, a judge ruled Monday"
      },
      {
       "id": "B7MJWVVJM5AHBOR34NND4KOY2Y",
@@ -1248,34 +1276,6 @@
       "link": "https://www.wcax.com/2026/07/09/brattleboro-memorial-hospital-plans-close-birthing-center-citing-financial-losses/",
       "ts": "2026-07-09T22:10:34+00:00",
       "summary": "The birthing center delivers more than 200 babies every single year, and closure of the facility would force families to travel further."
-     },
-     {
-      "id": "7RY4NRHAAZFBRMJRV2SPBNKYKY",
-      "title": "Randolph’s longtime family doctor trades his stethoscope for a paintbrush",
-      "link": "https://www.wcax.com/2026/07/09/randolphs-longtime-family-doctor-trades-his-stethoscope-paintbrush/",
-      "ts": "2026-07-09T21:51:56+00:00",
-      "summary": "At Gifford Medical Center in Randolph, Super Senior Dr. Ken Borie is a man who cares deeply about his work."
-     },
-     {
-      "id": "TT57A6XGG5EHFLOLAJSFFJ5AGI",
-      "title": "Sanders-style progressives rack up primary wins, raising questions for Democrats",
-      "link": "https://www.wcax.com/2026/07/09/sanders-style-progressives-rack-up-primary-wins-raising-questions-democrats/",
-      "ts": "2026-07-09T21:48:38+00:00",
-      "summary": "A political movement that caught fire in Vermont is spreading to Democratic primaries across the U.S."
-     },
-     {
-      "id": "KBEXKBQUCFGRTNHOH2NDL4IVNE",
-      "title": "Clinton County DA says more arrests possible in Plattsburgh YMCA child abuse probe",
-      "link": "https://www.wcax.com/2026/07/09/clinton-county-da-says-more-arrests-possible-plattsburgh-ymca-child-abuse-probe/",
-      "ts": "2026-07-09T21:46:50+00:00",
-      "summary": "Authorities say more arrests are possible in the expanding child abuse probe of the Bright Beginnings child care center in Plattsburgh."
-     },
-     {
-      "id": "I6ERTNXWNRCCLPDZEKQ6FI3PME",
-      "title": "South Burlington woman pleads not guilty to charges tied to March 11 ICE protest",
-      "link": "https://www.wcax.com/2026/07/09/south-burlington-woman-pleads-not-guilty-charges-tied-march-11-ice-protest/",
-      "ts": "2026-07-09T21:43:45+00:00",
-      "summary": "Connie Anania is one of two remaining people facing charges as a result of the protest."
      }
     ]
    },
@@ -1285,8 +1285,92 @@
       "id": "71918482",
       "title": "Trump says US will blockade Iran in Strait of Hormuz, will charge ships for safe passage",
       "link": "https://www.mynbc5.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
-      "ts": "2026-07-13T17:11:00+00:00",
+      "ts": "2026-07-13T19:38:00+00:00",
       "summary": "President Trump said Monday that the U.S. is “reinstating” a blockade on Iran in the Strait of Hormuz and will charge ships for safe passage."
+     },
+     {
+      "id": "71921422",
+      "title": "Months after his arrest, Cher's son remains in custody in New Hampshire",
+      "link": "https://www.mynbc5.com/article/chers-son-remains-in-custody-new-hampshire-elijiah-allman/71921422",
+      "ts": "2026-07-13T19:33:59+00:00",
+      "summary": "Months after two arrests in New Hampshire, Elijah Allman ,the son of Cher and the late Gregg Allman, remains in custody. A judge has paused the Windham burglary case while questions surrounding his legal representation are addressed. Meanwhile, a competency hearing in his separate Concord case stemming from an incident at St. Paul's School is scheduled for October."
+     },
+     {
+      "id": "71917963",
+      "title": "Person killed in shooting involving ICE in Maine, official says",
+      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
+      "ts": "2026-07-13T19:28:00+00:00",
+      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
+     },
+     {
+      "id": "71919564",
+      "title": "Judge blasts Trump's IRS lawsuit as filed for 'improper purpose,' recommends attorney discipline",
+      "link": "https://www.mynbc5.com/article/judge-blasts-trumps-irs-lawsuit/71919564",
+      "ts": "2026-07-13T19:01:00+00:00",
+      "summary": "A federal judge says President Trump's lawsuit against the IRS over his leaked tax returns was filed for an \"improper purpose\" and referred attorneys for disciplinary actions."
+     },
+     {
+      "id": "71902241",
+      "title": "Sweeping housing bill becomes law, despite Trump delay. Here's what it actually means for the market",
+      "link": "https://www.mynbc5.com/article/what-it-housing-bill-means-for-housing-market/71902241",
+      "ts": "2026-07-13T18:55:00+00:00",
+      "summary": "Sweeping housing bill becomes law, despite Trump's delay. Here's what it actually means for the market"
+     },
+     {
+      "id": "71920951",
+      "title": "Pilot dies in small plane crash at upstate New York airport",
+      "link": "https://www.mynbc5.com/article/piseco-airport-new-york-fatal-crash/71920951",
+      "ts": "2026-07-13T18:30:00+00:00",
+      "summary": "The pilot and sole occupant of a small single-engine plane died in a crash in upstate New York on Sunday."
+     },
+     {
+      "id": "71920785",
+      "title": "Mosquito samples from Vergennes test positive for West Nile Virus",
+      "link": "https://www.mynbc5.com/article/vergennes-vermont-west-nile-virus/71920785",
+      "ts": "2026-07-13T18:03:00+00:00",
+      "summary": "Samples of mosquitoes collected in Vergennes have tested positive for West Nile Virus, according to a recent post from the Vermont Department of Health."
+     },
+     {
+      "id": "71920558",
+      "title": "Sen. Lindsey Graham's death triggers search for replacement, new Senate nominee in South Carolina",
+      "link": "https://www.mynbc5.com/article/south-carolina-senate-replacement-after-graham-death/71920558",
+      "ts": "2026-07-13T17:59:00+00:00",
+      "summary": "Sen. Lindsey Graham's sudden death sets off a South Carolina scramble for a temporary replacement and a new GOP nominee."
+     },
+     {
+      "id": "71914188",
+      "title": "Heat returns Tuesday before 'unusually intense' storms overnight across Vermont, New York",
+      "link": "https://www.mynbc5.com/article/heat-returns-tuesday-before-unusually-intense-storms-overnight-across-vermont-new-york/71914188",
+      "ts": "2026-07-13T17:50:00+00:00",
+      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
+     },
+     {
+      "id": "71920163",
+      "title": "Minnesota prosecutors obtain long-withheld evidence in Renee Good and Alex Pretti shooting deaths",
+      "link": "https://www.mynbc5.com/article/minnesota-prosecutors-renee-good-alex-pretti-evidence/71920163",
+      "ts": "2026-07-13T17:49:00+00:00",
+      "summary": "Minnesota prosecutors have obtained key evidence previously withheld by federal officials in their investigations into the fatal shootings of Renee Good and Alex Pretti."
+     },
+     {
+      "id": "71920610",
+      "title": "States sue to block Paramount’s Warner Bros. Discovery takeover",
+      "link": "https://www.mynbc5.com/article/lawsuit-paramount-warn-bros-takeover/71920610",
+      "ts": "2026-07-13T17:49:00+00:00",
+      "summary": "Twelve states have sued to block Paramount’s takeover of Warner Bros. Discovery, kicking off a high-stakes antitrust battle that could impede the media mega-merger."
+     },
+     {
+      "id": "71920629",
+      "title": "Very warm, sun mixes with clouds Monday afternoon",
+      "link": "https://www.mynbc5.com/article/very-warm-sun-mixes-with-clouds-monday-afternoon-07-13-26/71920629",
+      "ts": "2026-07-13T17:42:00+00:00",
+      "summary": "Intense heat and humidity Tuesday, overnight severe storms likely; cooling off late week"
+     },
+     {
+      "id": "71919527",
+      "title": "2026 Clinton County Fair to bring 30,000 people to celebrate summer in the North Country",
+      "link": "https://www.mynbc5.com/article/2026-clinton-county-fair/71919527",
+      "ts": "2026-07-13T17:39:00+00:00",
+      "summary": "The 2026 Clinton County Fair kicked off on Monday, with this year's event expected to bring about 30,000 people to the North Country."
      },
      {
       "id": "71919798",
@@ -1294,13 +1378,6 @@
       "link": "https://www.mynbc5.com/article/police-arrest-man-with-a-firearm-at-north-barricade-of-the-us-capitol/71919798",
       "ts": "2026-07-13T17:08:00+00:00",
       "summary": "U.S. Capitol Police arrested a man at the Capitol’s north barricade after officers said he was carrying a firearm, which is prohibited on Capitol grounds."
-     },
-     {
-      "id": "71919564",
-      "title": "Judge blasts Trump's IRS lawsuit as filed for 'improper purpose,' recommends attorney discipline",
-      "link": "https://www.mynbc5.com/article/judge-blasts-trumps-irs-lawsuit/71919564",
-      "ts": "2026-07-13T17:08:00+00:00",
-      "summary": "A federal judge says President Trump's lawsuit against the IRS over his leaked tax returns was filed for an \"improper purpose\" and referred attorneys for disciplinary actions."
      },
      {
       "id": "71919729",
@@ -1324,25 +1401,11 @@
       "summary": "Ahead of the Aug. 11 Vermont primaries, the secretary of state is encouraging voters to prepare by checking out an online resource guide including candidate statements"
      },
      {
-      "id": "71919527",
-      "title": "2026 Clinton County Fair to bring 30,000 people to celebrate summer in the North Country",
-      "link": "https://www.mynbc5.com/article/2026-clinton-county-fair/71919527",
-      "ts": "2026-07-13T16:30:00+00:00",
-      "summary": "The 2026 Clinton County Fair kicked off on Monday, with this year's event expected to bring about 30,000 people to the North Country."
-     },
-     {
       "id": "71919523",
       "title": "Upstate New York man accused of shooting and killing his dog",
       "link": "https://www.mynbc5.com/article/providence-new-york-animal-cruelty-van-aken/71919523",
       "ts": "2026-07-13T16:24:00+00:00",
       "summary": "A Saratoga County man is facing aggravated animal cruelty charges after police say he shot his dog with a shotgun in the town of Providence."
-     },
-     {
-      "id": "71917963",
-      "title": "Person killed in shooting involving ICE in Maine, official says",
-      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
-      "ts": "2026-07-13T16:17:00+00:00",
-      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
      },
      {
       "id": "71905428",
@@ -1357,69 +1420,6 @@
       "link": "https://www.mynbc5.com/article/lindsey-graham-temporary-senate-replacement/71919126",
       "ts": "2026-07-13T15:46:00+00:00",
       "summary": "President Trump said Monday he’s recommended that Lindsey Graham’s sister be named as his temporary replacement in the U.S. Senate."
-     },
-     {
-      "id": "71916388",
-      "title": "Man who killed Dartmouth professors at 17 to get chance at parole in about 20 years, judge rules",
-      "link": "https://www.mynbc5.com/article/vermont-man-robert-tulloch-seeks-reduced-prison-sentence/71916388",
-      "ts": "2026-07-13T15:08:00+00:00",
-      "summary": "A Vermont man who was 17 when he and a friend killed a pair of married Dartmouth College professors 25 years ago will have a chance at parole in about 20 years, a judge ruled."
-     },
-     {
-      "id": "71906852",
-      "title": "Young players hit the field as Vermont Green FC, Bernie Sanders host free soccer clinic",
-      "link": "https://www.mynbc5.com/article/free-soccer-clinic-for-kids/71906852",
-      "ts": "2026-07-13T15:08:00+00:00",
-      "summary": "A day of soccer, skills, and community brought families to Burlington's Virtue Field on Saturday as Sen. Bernie Sanders partnered with Vermont Green FC to host a free youth soccer event for local children."
-     },
-     {
-      "id": "71917474",
-      "title": "‘Marvelous Mrs. Maisel’ actor, Broadway star Josh Grisetti dead at 44",
-      "link": "https://www.mynbc5.com/article/josh-grisetti-actor-broadway-dead-at-44/71917474",
-      "ts": "2026-07-13T15:07:00+00:00",
-      "summary": "Josh Grisetti, an acclaimed Broadway star and television actor, has died. He was 44."
-     },
-     {
-      "id": "71918330",
-      "title": "Burlington Electric Department to propose battery storage expansion at City Council meeting",
-      "link": "https://www.mynbc5.com/article/burlington-vermont-bess-facility/71918330",
-      "ts": "2026-07-13T14:39:00+00:00",
-      "summary": "Burlington City Council is set to discuss the possibility of a new battery storage facility coming to the Queen City during Monday night's meeting. Here's why BED says the expansion would be good for ratepayers."
-     },
-     {
-      "id": "71908995",
-      "title": "Focus on career readiness fuels Native American graduation gains at federally funded schools",
-      "link": "https://www.mynbc5.com/article/native-american-tribal-schools-graduation/71908995",
-      "ts": "2026-07-13T14:23:00+00:00",
-      "summary": "The U.S. agency that oversees dozens of schools serving Native Americans is reporting more on-time high school graduations than ever."
-     },
-     {
-      "id": "71918268",
-      "title": "UVM Medical Center resident physicians approve new contract with pay raise and benefits",
-      "link": "https://www.mynbc5.com/article/uvm-medical-center-resident-physicians-contract/71918268",
-      "ts": "2026-07-13T14:18:00+00:00",
-      "summary": "Resident physicians at UVM Medical Center have unanimously approved a new contract that includes a 10% pay raise, expanded benefits, and immigration protections."
-     },
-     {
-      "id": "71836151",
-      "title": "What we know about past outbreaks linked to cyclospora, a parasite that lead to ‘explosive diarrhea’",
-      "link": "https://www.mynbc5.com/article/cyclospora-outbreak-foods-cdc-data/71836151",
-      "ts": "2026-07-13T13:45:00+00:00",
-      "summary": "The parasite behind “explosive diarrhea” is on the rise, with cases reported in 17 states and produce like parsley, cilantro and salad mixes among the foods to watch."
-     },
-     {
-      "id": "71901020",
-      "title": "Rabid beaver confirmed near Turtle Island after July 4 attack, swimming advisory extended",
-      "link": "https://www.mynbc5.com/article/rabid-beaver-confirmed-near-turtle-island-after-july-4-attack/71901020",
-      "ts": "2026-07-13T13:40:00+00:00",
-      "summary": "A beaver found dead near Turtle Island on Lake George has tested positive for rabies, prompting New York officials to extend a swimming advisory through at least July 14."
-     },
-     {
-      "id": "71917579",
-      "title": "Dozens at an Ebola treatment center in Congo go on strike over unpaid salaries",
-      "link": "https://www.mynbc5.com/article/congo-ebola-treatment-center-strike/71917579",
-      "ts": "2026-07-13T13:20:00+00:00",
-      "summary": "Dozens of people working at an Ebola treatment center in northeast Congo went on strike over unpaid salaries and bonuses."
      }
     ]
    },
