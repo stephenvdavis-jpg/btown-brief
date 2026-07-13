@@ -1272,6 +1272,20 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71910443",
+      "title": "Lindsey Graham's journey from a pool hall to the heights of political power",
+      "link": "https://www.mynbc5.com/article/lindsey-graham-journey-from-pool-hall-to-senate/71910443",
+      "ts": "2026-07-12T23:30:00+00:00",
+      "summary": "Lindsey Graham was the garrulous son of South Carolina pool hall owners and he rose to become a prominent senator and fixture on the global stage"
+     },
+     {
+      "id": "71908465",
+      "title": "​​US Sen. Lindsey Graham dies at 71; medical examiner releases preliminary findings",
+      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
+      "ts": "2026-07-12T23:27:00+00:00",
+      "summary": "Sen. Lindsey Graham died after a rupture in his aorta, according to a preliminary medical examiner finding shared by his office. He was 71."
+     },
+     {
       "id": "71910681",
       "title": "Central Vermont's Habitat for Humanity opens new Berlin ReStore",
       "link": "https://www.mynbc5.com/article/central-vermont-new-berlin-restore/71910681",
@@ -1293,13 +1307,6 @@
       "summary": "Intense heat Tuesday may spark off evening and overnight severe storms"
      },
      {
-      "id": "71908465",
-      "title": "​​US Sen. Lindsey Graham dies at 71; medical examiner releases preliminary findings",
-      "link": "https://www.mynbc5.com/article/lindsey-graham-dead-71/71908465",
-      "ts": "2026-07-12T22:25:00+00:00",
-      "summary": "Sen. Lindsey Graham died after a rupture in his aorta, according to a preliminary medical examiner finding shared by his office. He was 71."
-     },
-     {
       "id": "71910763",
       "title": "Sen. Mitch McConnell releases photo from hospital, breaking silence on health condition",
       "link": "https://www.mynbc5.com/article/mitch-mcconnell-health-update-statement-sunday/71910763",
@@ -1314,18 +1321,18 @@
       "summary": "A popular dog food has been recalled nationwide that may contain sharp fragments of metal or plastic."
      },
      {
-      "id": "71899250",
-      "title": "The White House is upgrading its front door to fortify the entrance",
-      "link": "https://www.mynbc5.com/article/white-house-security-upgrades-front-door-north-portico/71899250",
-      "ts": "2026-07-12T20:15:00+00:00",
-      "summary": "​The White House is upgrading the North Portico front door as part of new security measures, with additional fencing plans under review"
-     },
-     {
       "id": "71910456",
       "title": "Wai Ching Ho, Marvel villain and Pixar voice actress, dead at 82",
       "link": "https://www.mynbc5.com/article/wai-ching-ho-marvel-villain-and-pixar-voice-dead/71910456",
       "ts": "2026-07-12T20:15:00+00:00",
       "summary": "Wai Ching Ho, a veteran actress known for memorable Marvel and Pixar roles, has died. She was 82"
+     },
+     {
+      "id": "71899250",
+      "title": "The White House is upgrading its front door to fortify the entrance",
+      "link": "https://www.mynbc5.com/article/white-house-security-upgrades-front-door-north-portico/71899250",
+      "ts": "2026-07-12T20:15:00+00:00",
+      "summary": "​The White House is upgrading the North Portico front door as part of new security measures, with additional fencing plans under review"
      },
      {
       "id": "71910411",
@@ -1403,13 +1410,6 @@
       "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-closed/71907504",
       "ts": "2026-07-12T12:23:00+00:00",
       "summary": "Iran says it again considers the Strait of Hormuz closed after a vessel using an ‘unauthorized route’ was struck by a warning shot in the critical waterway — potentially further menacing the already tenuous ceasefire agreement with the U.S."
-     },
-     {
-      "id": "71905381",
-      "title": "Things To Do: July 12",
-      "link": "https://www.mynbc5.com/article/things-to-do-july-11/71905381",
-      "ts": "2026-07-12T12:17:00+00:00",
-      "summary": "Looking for some weekend fun? NBC5's Andrew Grautski has you covered every weekend with \"Things To Do!\""
      }
     ]
    },
