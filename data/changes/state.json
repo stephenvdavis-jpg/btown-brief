@@ -1,6 +1,16 @@
 {
  "nws-weather": {
-  "alerts": [],
+  "alerts": [
+   {
+    "id": "urn:oid:2.49.0.1.840.0.3f0a370f1b523819b5741a397f4cbae94e9700bf.001.1",
+    "event": "Heat Advisory",
+    "headline": "Heat Advisory issued July 13 at 2:22AM EDT until July 14 at 8:00PM EDT by NWS Burlington VT",
+    "severity": "Moderate",
+    "onset": "2026-07-14T11:00:00-04:00",
+    "ends": "2026-07-14T20:00:00-04:00",
+    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
+   }
+  ],
   "forecast_flag": null
  },
  "beach-status": {
