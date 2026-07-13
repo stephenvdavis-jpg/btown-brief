@@ -17,28 +17,28 @@
   "beaches": {
    "Blanchard Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-13T14:02:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-13T17:24:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-13T14:02:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-13T17:25:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-13T14:13:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-13T17:19:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-12T19:50:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-13T15:35:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "A bit Murky",
-    "resultTime": "2026-07-12T19:50:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-13T15:35:00+00:00"
    },
    "North Beach North": {
     "status": "open",
@@ -52,8 +52,8 @@
    },
    "North Shore Natural Area": {
     "status": "open",
-    "reason": "Bk",
-    "resultTime": "2026-07-12T19:59:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-13T15:22:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
@@ -552,6 +552,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=211784",
+      "title": "In Memoriam: Peter Thomas McCaffrey, 1958-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/in-memoriam-peter-thomas-mccaffrey-1958-2026/",
+      "ts": "2026-07-13T10:00:00+00:00",
+      "summary": "A memorial Mass will be held for Peter Thomas McCaffrey on August 23, 2026, beginning at 9:30 a.m., at Christ the King Church, 136 Locust St., Burlington. The post In Memoriam: Peter Thomas McCaffrey, 1958-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=211750",
       "title": "Obituary: Elbert Howard “Shorty” Neff, 1930-2026",
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-elbert-howard-shorty-neff-1930-2026/",
@@ -613,13 +620,6 @@
       "link": "https://www.sevendaysvt.com/arts-culture/a-minnesota-reader-forges-a-bond-with-a-hyde-park-book-group/",
       "ts": "2026-07-09T18:12:35+00:00",
       "summary": "Fran Megarry joined Lanpher Memorial Library’s discussion group remotely during the pandemic. Three and a half years later, she went to her first meeting in person. The post A Minnesota Reader Forges a Bond With a Hyde Park Book Group appeared first on Seven Days . (Image: courtesy of Heather Traeger)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=210853",
-      "title": "Stuck in Vermont: Revisiting Plainfield, Two Years After a Devastating Flood",
-      "link": "https://www.sevendaysvt.com/arts-culture/stuckinvermont/stuck-in-vermont-revisiting-plainfield-two-years-after-a-devastating-flood/",
-      "ts": "2026-07-09T11:30:00+00:00",
-      "summary": "Episode 771: In Plainfield, the owners of 28 properties are awaiting FEMA buyouts, and one group of locals plans to build on higher ground. The post Stuck in Vermont: Revisiting Plainfield, Two Years After a Devastating Flood appeared first on Seven Days . (Image: Eva Sollberger © Seven Days)"
      }
     ]
    },
@@ -840,11 +840,11 @@
    "vermont-public": {
     "items": [
      {
-      "id": "https://www.vermontpublic.org/2026-07-13/resentencing-hearing-for-teenage-killer-in-dartmouth-professors-case-set-to-begin",
-      "title": "Resentencing hearing for teenage killer in Dartmouth professors’ case set to begin",
-      "link": "https://www.vermontpublic.org/2026-07-13/resentencing-hearing-for-teenage-killer-in-dartmouth-professors-case-set-to-begin",
-      "ts": "2026-07-13T12:03:19+00:00",
-      "summary": "Robert Tulloch was sentenced to serve life in prison for his role in the 2001 Etna slayings. He was 17 years old at the time."
+      "id": "https://www.vermontpublic.org/local-news/2026-07-13/developing-story-ice-involved-shooting-leaves-one-dead-maine",
+      "title": "Developing: One dead in ICE involved shooting in Maine",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-13/developing-story-ice-involved-shooting-leaves-one-dead-maine",
+      "ts": "2026-07-13T13:30:35+00:00",
+      "summary": "One person is reported dead following a shooting involving ICE agents in Biddeford. That's according to a social media post by Maine House Speaker Speaker Ryan Fecteau."
      },
      {
       "id": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-12/more-than-just-tawny-orange-choose-daylilies-with-other-color-and-petal-variations",
@@ -927,6 +927,27 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "SUMIFRW75REM7IA2MALR4QGEPY",
+      "title": "802 Homes to release free home design catalog aimed at lowering construction costs",
+      "link": "https://www.wcax.com/2026/07/11/802-homes-release-free-home-design-catalog-aimed-lowering-construction-costs/",
+      "ts": "2026-07-13T15:58:25+00:00",
+      "summary": "A new project from the state of Vermont is aimed at lowering home prices and increasing availability."
+     },
+     {
+      "id": "2XSVKIDK2RA5BE2YLCXVC7SOCQ",
+      "title": "WCAX First Alert Weather App: How to get severe weather notifications",
+      "link": "https://www.wcax.com/2026/06/18/wcax-first-alert-weather-app-how-get-severe-weather-notifications/",
+      "ts": "2026-07-13T15:27:37+00:00",
+      "summary": "Our free WCAX First Alert Weather App is one way to receive weather alerts for your location directly to your phone. Here’s how to guarantee that you receive severe weather warnings using our weather app!"
+     },
+     {
+      "id": "MWRCTIZBY5BC7FS5P6DNHY3B7U",
+      "title": "A surprise air show over Lake Champlain from the Royal Air Force Red Arrows",
+      "link": "https://www.wcax.com/2026/07/13/surprise-air-show-over-lake-champlain-royal-air-force-red-arrows/",
+      "ts": "2026-07-13T15:21:56+00:00",
+      "summary": "If you saw bright red planes flying above Lake Champlain Monday morning and wondered who they were, they were the Royal Air Force Red Arrows"
+     },
      {
       "id": "RRILL7GACRB67FAF24ZEHCQ2K4",
       "title": "Man who killed Dartmouth professors at 17 to get a chance at parole in about 20 years, judge rules",
@@ -1045,13 +1066,6 @@
       "link": "https://www.wcax.com/2026/07/11/green-mountain-chamber-music-festival-brings-student-musicians-church-street/",
       "ts": "2026-07-11T21:32:35+00:00",
       "summary": "Shops and restaurants along Church Street hosted student musicians Saturday as part of the Green Mountain Chamber Music Festival."
-     },
-     {
-      "id": "SUMIFRW75REM7IA2MALR4QGEPY",
-      "title": "802 Homes to release free home design catalog aimed at lowering construction costs",
-      "link": "https://www.wcax.com/2026/07/11/802-homes-release-free-home-design-catalog-aimed-lowering-construction-costs/",
-      "ts": "2026-07-11T02:40:28+00:00",
-      "summary": "A new project from the state of Vermont is aimed at lowering home prices and increasing availability."
      },
      {
       "id": "UZLWNI7WD5FAVKPV4IVHDKYNXA",
@@ -1262,31 +1276,87 @@
       "link": "https://www.wcax.com/2026/07/09/south-burlington-woman-pleads-not-guilty-charges-tied-march-11-ice-protest/",
       "ts": "2026-07-09T21:43:45+00:00",
       "summary": "Connie Anania is one of two remaining people facing charges as a result of the protest."
-     },
-     {
-      "id": "B6TKF474JVG53BAVL2QHENU6I4",
-      "title": "Essex police search for dog, owner after fatal dog-on-dog attack",
-      "link": "https://www.wcax.com/2026/07/09/essex-police-search-dog-owner-after-fatal-dog-on-dog-attack/",
-      "ts": "2026-07-09T21:39:42+00:00",
-      "summary": "Essex police are investigating a dog attack at the Overlook Park walking trail that left one dog dead."
-     },
-     {
-      "id": "LLHZNBTQR5F33NCB3MWUW43754",
-      "title": "Kurrle leaving Scott cabinet to lead Vermont Gas Systems",
-      "link": "https://www.wcax.com/2026/07/09/kurrle-leaving-scott-cabinet-lead-vermont-gas-systems/",
-      "ts": "2026-07-09T21:33:17+00:00",
-      "summary": "A key member of Gov. Phil Scott's cabinet is leaving state government to lead Vermont Gas Systems."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
-      "id": "71906852",
-      "title": "Young players hit the field as Vermont Green FC, Bernie Sanders host free soccer clinic",
-      "link": "https://www.mynbc5.com/article/free-soccer-clinic-for-kids/71906852",
-      "ts": "2026-07-13T15:08:00+00:00",
-      "summary": "A day of soccer, skills, and community brought families to Burlington's Virtue Field on Saturday as Sen. Bernie Sanders partnered with Vermont Green FC to host a free youth soccer event for local children."
+      "id": "71918482",
+      "title": "Trump says US will blockade Iran in Strait of Hormuz, will charge ships for safe passage",
+      "link": "https://www.mynbc5.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+      "ts": "2026-07-13T17:11:00+00:00",
+      "summary": "President Trump said Monday that the U.S. is “reinstating” a blockade on Iran in the Strait of Hormuz and will charge ships for safe passage."
+     },
+     {
+      "id": "71919798",
+      "title": "Police arrest man with a firearm at north barricade of the U.S. Capitol",
+      "link": "https://www.mynbc5.com/article/police-arrest-man-with-a-firearm-at-north-barricade-of-the-us-capitol/71919798",
+      "ts": "2026-07-13T17:08:00+00:00",
+      "summary": "U.S. Capitol Police arrested a man at the Capitol’s north barricade after officers said he was carrying a firearm, which is prohibited on Capitol grounds."
+     },
+     {
+      "id": "71919564",
+      "title": "Judge blasts Trump's IRS lawsuit as filed for 'improper purpose,' recommends attorney discipline",
+      "link": "https://www.mynbc5.com/article/judge-blasts-trumps-irs-lawsuit/71919564",
+      "ts": "2026-07-13T17:08:00+00:00",
+      "summary": "A federal judge says President Trump's lawsuit against the IRS over his leaked tax returns was filed for an \"improper purpose\" and referred attorneys for disciplinary actions."
+     },
+     {
+      "id": "71919729",
+      "title": "Nurses rally to save Brattleboro Memorial Hospital birthing center",
+      "link": "https://www.mynbc5.com/article/brattleboro-vermont-birthing-center-rally/71919729",
+      "ts": "2026-07-13T16:41:00+00:00",
+      "summary": "Nurses in Brattleboro are rallying to oppose the planned closure of the Brattleboro Memorial Hospital birthing center, which the hospital board announced would close within six to nine months due to financial losses."
+     },
+     {
+      "id": "71898489",
+      "title": "Meet the Vermont scientist studying critically endangered North Atlantic right whales",
+      "link": "https://www.mynbc5.com/article/new-england-aquarium-north-atlantic-right-whales-philip-hamilton/71898489",
+      "ts": "2026-07-13T16:38:00+00:00",
+      "summary": "Philip Hamilton of Putney appeared on NBC5 In Depth to discuss his decades of work studying critically endangered North Atlantic right whales"
+     },
+     {
+      "id": "71898668",
+      "title": "Secretary of state urges voters to prepare for Aug. 11 Vermont primary",
+      "link": "https://www.mynbc5.com/article/vermont-primary-voter-resources-preparation-guide/71898668",
+      "ts": "2026-07-13T16:36:00+00:00",
+      "summary": "Ahead of the Aug. 11 Vermont primaries, the secretary of state is encouraging voters to prepare by checking out an online resource guide including candidate statements"
+     },
+     {
+      "id": "71919527",
+      "title": "2026 Clinton County Fair to bring 30,000 people to celebrate summer in the North Country",
+      "link": "https://www.mynbc5.com/article/2026-clinton-county-fair/71919527",
+      "ts": "2026-07-13T16:30:00+00:00",
+      "summary": "The 2026 Clinton County Fair kicked off on Monday, with this year's event expected to bring about 30,000 people to the North Country."
+     },
+     {
+      "id": "71919523",
+      "title": "Upstate New York man accused of shooting and killing his dog",
+      "link": "https://www.mynbc5.com/article/providence-new-york-animal-cruelty-van-aken/71919523",
+      "ts": "2026-07-13T16:24:00+00:00",
+      "summary": "A Saratoga County man is facing aggravated animal cruelty charges after police say he shot his dog with a shotgun in the town of Providence."
+     },
+     {
+      "id": "71917963",
+      "title": "Person killed in shooting involving ICE in Maine, official says",
+      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
+      "ts": "2026-07-13T16:17:00+00:00",
+      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
+     },
+     {
+      "id": "71905428",
+      "title": "As gas plants rise to power AI data centers, renewable energy allies are fighting for alternatives",
+      "link": "https://www.mynbc5.com/article/ai-data-centers-renewable-energy/71905428",
+      "ts": "2026-07-13T16:06:00+00:00",
+      "summary": "Renewable energy allies are trying to ensure that massive data centers will be powered by sources with lower impacts on the earth."
+     },
+     {
+      "id": "71919126",
+      "title": "Trump says South Carolina governor should appoint Lindsey Graham’s sister to finish his term",
+      "link": "https://www.mynbc5.com/article/lindsey-graham-temporary-senate-replacement/71919126",
+      "ts": "2026-07-13T15:46:00+00:00",
+      "summary": "President Trump said Monday he’s recommended that Lindsey Graham’s sister be named as his temporary replacement in the U.S. Senate."
      },
      {
       "id": "71916388",
@@ -1296,18 +1366,18 @@
       "summary": "A Vermont man who was 17 when he and a friend killed a pair of married Dartmouth College professors 25 years ago will have a chance at parole in about 20 years, a judge ruled."
      },
      {
+      "id": "71906852",
+      "title": "Young players hit the field as Vermont Green FC, Bernie Sanders host free soccer clinic",
+      "link": "https://www.mynbc5.com/article/free-soccer-clinic-for-kids/71906852",
+      "ts": "2026-07-13T15:08:00+00:00",
+      "summary": "A day of soccer, skills, and community brought families to Burlington's Virtue Field on Saturday as Sen. Bernie Sanders partnered with Vermont Green FC to host a free youth soccer event for local children."
+     },
+     {
       "id": "71917474",
       "title": "‘Marvelous Mrs. Maisel’ actor, Broadway star Josh Grisetti dead at 44",
       "link": "https://www.mynbc5.com/article/josh-grisetti-actor-broadway-dead-at-44/71917474",
       "ts": "2026-07-13T15:07:00+00:00",
       "summary": "Josh Grisetti, an acclaimed Broadway star and television actor, has died. He was 44."
-     },
-     {
-      "id": "71918482",
-      "title": "Trump says US will blockade Iran in Strait of Hormuz, will charge ships for safe passage",
-      "link": "https://www.mynbc5.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
-      "ts": "2026-07-13T14:45:00+00:00",
-      "summary": "President Trump said Monday that the U.S. is “reinstating” a blockade on Iran in the Strait of Hormuz and will charge ships for safe passage."
      },
      {
       "id": "71918330",
@@ -1331,13 +1401,6 @@
       "summary": "Resident physicians at UVM Medical Center have unanimously approved a new contract that includes a 10% pay raise, expanded benefits, and immigration protections."
      },
      {
-      "id": "71917963",
-      "title": "Person killed in shooting involving ICE in Maine, official says",
-      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
-      "ts": "2026-07-13T13:48:00+00:00",
-      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
-     },
-     {
       "id": "71836151",
       "title": "What we know about past outbreaks linked to cyclospora, a parasite that lead to ‘explosive diarrhea’",
       "link": "https://www.mynbc5.com/article/cyclospora-outbreak-foods-cdc-data/71836151",
@@ -1357,69 +1420,6 @@
       "link": "https://www.mynbc5.com/article/congo-ebola-treatment-center-strike/71917579",
       "ts": "2026-07-13T13:20:00+00:00",
       "summary": "Dozens of people working at an Ebola treatment center in northeast Congo went on strike over unpaid salaries and bonuses."
-     },
-     {
-      "id": "71917199",
-      "title": "What is an aortic dissection? Explaining heart condition tied to Lindsey Graham’s death",
-      "link": "https://www.mynbc5.com/article/aortic-dissection-lindesy-graham-death/71917199",
-      "ts": "2026-07-13T12:53:00+00:00",
-      "summary": "What is an aortic dissection? Sen. Lindsey Graham died after a tear in his aorta, according to a preliminary medical examiner finding shared by his office."
-     },
-     {
-      "id": "71917224",
-      "title": "Aircraft helping fight Colorado wildfire crashes, killing the pilot",
-      "link": "https://www.mynbc5.com/article/colorado-wildfire-aircraft-crash/71917224",
-      "ts": "2026-07-13T12:34:00+00:00",
-      "summary": "An aircraft helping to fight a Colorado wildfire has crashed into a reservoir, killing the pilot, authorities said."
-     },
-     {
-      "id": "71916031",
-      "title": "President Trump says the Strait of Hormuz is open. Data suggests otherwise",
-      "link": "https://www.mynbc5.com/article/trump-says-strait-of-hormuz-open-data-suggests-otherwise/71916031",
-      "ts": "2026-07-13T12:11:00+00:00",
-      "summary": "The U.S. launched a second strike on Iran within 24 hours on Sunday, as conflicting statements continue over the status of the Strait of Hormuz, a key global oil route."
-     },
-     {
-      "id": "71916885",
-      "title": "VIDEO: Powerful storm knocks down trees, causes damage in Philadelphia",
-      "link": "https://www.mynbc5.com/article/philadelphia-microbursts-storm-damage/71916885",
-      "ts": "2026-07-13T12:08:00+00:00",
-      "summary": "Video shows widespread damage in Philadelphia caused by a line of severe storms over the weekend."
-     },
-     {
-      "id": "71915150",
-      "title": "Graham death and McConnell illness complicate Congress' agenda as lawmakers return from recess",
-      "link": "https://www.mynbc5.com/article/graham-death-mcconnell-illness-congress-agenda-lawmakers-return/71915150",
-      "ts": "2026-07-13T11:56:00+00:00",
-      "summary": "Congress reconvenes after a two-week recess to address defense spending, voter ID legislation, and confirmation hearings, while facing leadership absences and internal Republican disagreements."
-     },
-     {
-      "id": "71916723",
-      "title": "Timeline: See when strong storms roll through Tuesday night in Vermont, New York",
-      "link": "https://www.mynbc5.com/article/timeline-see-when-strong-storms-roll-through-tuesday-night-in-vermont-new-york/71916723",
-      "ts": "2026-07-13T11:31:00+00:00",
-      "summary": "Timeline: See when strong storms roll through Tuesday night in Vermont, New York"
-     },
-     {
-      "id": "71914188",
-      "title": "Heat returns Tuesday before 'unusually intense' storms overnight across Vermont, New York",
-      "link": "https://www.mynbc5.com/article/heat-returns-tuesday-before-unusually-intense-storms-overnight-across-vermont-new-york/71914188",
-      "ts": "2026-07-13T10:31:00+00:00",
-      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
-     },
-     {
-      "id": "71915243",
-      "title": "Senate returns to Washington after Sen. Lindsey Graham's death with uncertain agenda",
-      "link": "https://www.mynbc5.com/article/senate-republicans-graham-death-mcconnell-absence/71915243",
-      "ts": "2026-07-13T10:12:00+00:00",
-      "summary": "Senate Republicans will return to Washington with an uncertain agenda after the sudden death of prominent Republican Lindsey Graham and Mitch McConnell's continued absence"
-     },
-     {
-      "id": "71914485",
-      "title": "Actor Sam Neill, known for 'Jurassic Park' and 'The Piano,' dies at 78, his family says",
-      "link": "https://www.mynbc5.com/article/sam-neill-dies-at-78-film-career-lymphoma/71914485",
-      "ts": "2026-07-13T09:18:00+00:00",
-      "summary": "Sam Neill, an elegant and versatile actor whose career moved from art film to blockbuster as he dodged velociraptors in “Jurassic Park,” has died. He was 78."
      }
     ]
    },
@@ -1473,6 +1473,46 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uvghwg",
+    "title": "Artwork for a good cause 💚",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvghwg/artwork_for_a_good_cause/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T17:01:32+00:00"
+   },
+   {
+    "id": "1uvghe5",
+    "title": "Finale! Urban Reserve project wrap-up party 7/14, w/ free ice cream",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvghe5/finale_urban_reserve_project_wrapup_party_714_w/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T17:01:32+00:00"
+   },
+   {
+    "id": "1uvfrht",
+    "title": "Are you hiring?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvfrht/are_you_hiring/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T17:01:32+00:00"
+   },
+   {
+    "id": "1uvfmtj",
+    "title": "Dogs at Leddy",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvfmtj/dogs_at_leddy/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T17:01:32+00:00"
+   },
+   {
+    "id": "1uvcye1",
+    "title": "THIS FRIDAY AT ODD FELLOWS! A night of punk, grunge and emo 💜💜",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvcye1/this_friday_at_odd_fellows_a_night_of_punk_grunge/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T17:01:32+00:00"
+   },
    {
     "id": "1uvc9lo",
     "title": "Missing cat in Monkton/Bristol",
@@ -1589,46 +1629,6 @@
     "id": "1uuopcq",
     "title": "Dog riding in a sidecar :)",
     "url": "https://www.reddit.com/r/burlington/comments/1uuopcq/dog_riding_in_a_sidecar/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uunjoj",
-    "title": "Does anyone have feedback about the Dorset St Animal Hospital?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uunjoj/does_anyone_have_feedback_about_the_dorset_st/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuksoc",
-    "title": "Tennis doubles match",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuksoc/tennis_doubles_match/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uujqms",
-    "title": "Bike path blasted",
-    "url": "https://www.reddit.com/r/burlington/comments/1uujqms/bike_path_blasted/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuhrrv",
-    "title": "Support Nurses & Health Professionals today @ UVMMC!",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuhrrv/support_nurses_health_professionals_today_uvmmc/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuhqen",
-    "title": "Anywhere in the area that sells rondelle beads?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuhqen/anywhere_in_the_area_that_sells_rondelle_beads/",
     "score": null,
     "comments": null,
     "created": "2026-07-13T02:00:02+00:00"
