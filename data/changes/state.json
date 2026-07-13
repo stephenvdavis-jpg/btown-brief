@@ -552,6 +552,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=211799",
+      "title": "Magnificent 7: Must-See, Must-Do Events in and Around Vermont, July 15-22",
+      "link": "https://www.sevendaysvt.com/arts-culture/magnificent7/magnificent-7-must-see-must-do-events-in-and-around-vermont-july-15-22/",
+      "ts": "2026-07-13T21:11:52+00:00",
+      "summary": "Explore our editor’s picks for must-do events in Vermont this week, including ’90s megastars Big Head Todd the Monsters at the WhistlePig Pavilion in Stowe. The post Magnificent 7: Must-See, Must-Do Events in and Around Vermont, July 15-22 appeared first on Seven Days . (Image: Courtesy of Kirsten Cohen)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=211784",
       "title": "In Memoriam: Peter Thomas McCaffrey, 1958-2026",
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/in-memoriam-peter-thomas-mccaffrey-1958-2026/",
@@ -613,18 +620,25 @@
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-tristram-gray-chase-jensvold-1978-2026/",
       "ts": "2026-07-10T10:00:00+00:00",
       "summary": "Former Danville resident had a huge heart and loved outdoor activities, exploring the world and all animals The post Obituary: Tristram Gray Chase Jensvold, 1978-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211730",
-      "title": "A Minnesota Reader Forges a Bond With a Hyde Park Book Group",
-      "link": "https://www.sevendaysvt.com/arts-culture/a-minnesota-reader-forges-a-bond-with-a-hyde-park-book-group/",
-      "ts": "2026-07-09T18:12:35+00:00",
-      "summary": "Fran Megarry joined Lanpher Memorial Library’s discussion group remotely during the pandemic. Three and a half years later, she went to her first meeting in person. The post A Minnesota Reader Forges a Bond With a Hyde Park Book Group appeared first on Seven Days . (Image: courtesy of Heather Traeger)"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651257",
+      "title": "‘Electric’: After yet another win, Vermont Green FC women head to national final",
+      "link": "https://vtdigger.org/2026/07/13/electric-after-yet-another-win-vermont-green-fc-women-head-to-national-final/",
+      "ts": "2026-07-13T20:47:54+00:00",
+      "summary": "“It's not lost upon me the gravity of what that means for football in Vermont — at least, women's football,” head coach Abby Carchio said of Saturday’s atmosphere. Read the story on VTDigger here: ‘Electric’: After yet another win, Vermont Green FC women head to national final ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651255",
+      "title": "Court filing alleges Vermont Catholic Church posed ‘ethical proposition’ to shield funds from abuse survivors",
+      "link": "https://vtdigger.org/2026/07/13/court-filing-alleges-vermont-catholic-church-posed-ethical-proposition-to-shield-funds-from-abuse-survivors/",
+      "ts": "2026-07-13T20:26:09+00:00",
+      "summary": "In a sworn statement, a 2020 chief financial job applicant claims the state’s largest religious denomination asked if she’d help “transfer its assets as quickly as possible so that it could file for bankruptcy.” Read the story on VTDigger here: Court filing alleges Vermont Catholic Church posed ‘ethical proposition’ to shield funds from abuse survivors ."
+     },
      {
       "id": "https://vtdigger.org/?p=651251",
       "title": "Closing Brattleboro’s birthing center will cost Vermont more than it saves",
@@ -820,31 +834,38 @@
       "link": "https://vtdigger.org/2026/07/07/platners-last-pillar-of-support-falls-as-sanders-says-drop-out/",
       "ts": "2026-07-07T21:19:59+00:00",
       "summary": "Vermont’s congressional delegation called on the Maine Democratic U.S. Senate nominee to leave the race following the sexual assault allegation against him made public Monday. Read the story on VTDigger here: Platner’s last pillar of support falls as Sanders says: Drop out ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=650965",
-      "title": "Why do Vermont roots matter in a story about economic power?",
-      "link": "https://vtdigger.org/2026/07/07/opinion-why-do-vermont-roots-matter-in-a-story-about-economic-power/",
-      "ts": "2026-07-07T20:11:57+00:00",
-      "summary": "Measuring Vermonters by the depth of their roots is a distinction that serves no one — and divides everyone. Read the story on VTDigger here: Why do Vermont roots matter in a story about economic power? ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=650959",
-      "title": "Grand Isle prosecutor’s DUI case heading to court diversion, court records state",
-      "link": "https://vtdigger.org/2026/07/07/grand-isle-prosecutors-dui-case-heading-to-court-diversion-court-records-state/",
-      "ts": "2026-07-07T19:28:47+00:00",
-      "summary": "The program permits participants to avoid a criminal conviction provided they complete the requirements, which can include counseling and community service. Read the story on VTDigger here: Grand Isle prosecutor’s DUI case heading to court diversion, court records state ."
      }
     ]
    },
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
+      "title": "UVM Medical Center inks its second contract with resident physicians",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
+      "ts": "2026-07-13T20:18:49+00:00",
+      "summary": "The hospital’s resident physicians first unionized in 2022, citing grueling schedules and pay that did not keep up with student loans and the cost of living in Chittenden County."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-13/cabot-creamery-eyes-sale-waitsfield-headquarters",
+      "title": "Cabot Creamery eyes sale of Waitsfield headquarters",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-13/cabot-creamery-eyes-sale-waitsfield-headquarters",
+      "ts": "2026-07-13T20:03:04+00:00",
+      "summary": "The dairy cooperative has been headquartered in Waitsfield since 2014. It has no plans to leave Vermont."
+     },
+     {
       "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-13/poll-most-vermonters-say-the-state-is-unaffordable",
       "title": "Poll: Most Vermonters say the state is unaffordable",
       "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-13/poll-most-vermonters-say-the-state-is-unaffordable",
       "ts": "2026-07-13T18:58:59+00:00",
       "summary": "About 40% of Vermont residents say they are likely to move out of the state within the next five years."
+     },
+     {
+      "id": "https://www.vermontpublic.org/2026-07-13/tulloch-resentenced-to-45-to-life-for-dartmouth-professors-murders-with-chance-for-parole",
+      "title": "Tulloch resentenced to 45-to-life for Dartmouth professors’ murders, with chance for parole",
+      "link": "https://www.vermontpublic.org/2026-07-13/tulloch-resentenced-to-45-to-life-for-dartmouth-professors-murders-with-chance-for-parole",
+      "ts": "2026-07-13T17:13:26+00:00",
+      "summary": "Robert Tulloch, along with an accomplice, killed the Zantops inside their home. As a 17 year old at the time of the crime, he was entitled to a new sentencing hearing."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-13/developing-story-ice-involved-shooting-leaves-one-dead-maine",
@@ -901,37 +922,44 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-09/dug-north-vermont-upbringing-prepared-him-grueling-survival-show-alone",
       "ts": "2026-07-09T21:13:29+00:00",
       "summary": "North put skills learned in his youth to the test on the History Channel series. Now he’s passing them along."
-     },
-     {
-      "id": "https://www.vermontpublic.org/2026-07-08/graham-platner-drops-out-of-u-s-senate-race-opening-narrow-path-to-replace-him",
-      "title": "Graham Platner suspends U.S. Senate campaign, opening narrow path to replace him",
-      "link": "https://www.vermontpublic.org/2026-07-08/graham-platner-drops-out-of-u-s-senate-race-opening-narrow-path-to-replace-him",
-      "ts": "2026-07-09T00:24:13+00:00",
-      "summary": "Graham Platner's exit from the race comes just days before a statutory deadline allowing the Maine Democratic Party to replace him by July 27. So far, party leaders aren't saying how that process is going to work."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-08/after-vetoing-lawmakers-plans-scott-pitches-his-healthcare-ideas-again",
-      "title": "After vetoing lawmakers’ plans, Phil Scott pitches his healthcare ideas — again",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-08/after-vetoing-lawmakers-plans-scott-pitches-his-healthcare-ideas-again",
-      "ts": "2026-07-08T21:51:05+00:00",
-      "summary": "The Republican governor’s order mostly touches on ideas he unsuccessfully put before lawmakers in the last legislative session, and much of what he’s proposing would require their eventual approval."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-08/grand-isle-states-attorneys-dui-case-diversion",
-      "title": "Grand Isle state’s attorney’s DUI case sent to diversion",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-08/grand-isle-states-attorneys-dui-case-diversion",
-      "ts": "2026-07-08T19:01:29+00:00",
-      "summary": "Court diversion, an alternative to traditional criminal proceedings, could lead to the case being dismissed and the records sealed."
      }
     ]
    },
    "wcax": {
     "items": [
      {
+      "id": "OYW4JDPMOBDMJOPHKGWQFHNSQI",
+      "title": "Dropped phone triggers false plane crash alert near Mt. Pisgah",
+      "link": "https://www.wcax.com/2026/07/13/dropped-phone-triggers-false-plane-crash-alert/",
+      "ts": "2026-07-13T21:14:12+00:00",
+      "summary": "A hiker who dropped his phone off a cliff set off a large emergency response."
+     },
+     {
+      "id": "MWRCTIZBY5BC7FS5P6DNHY3B7U",
+      "title": "Red Arrows put on surprise aerial display during Beta Technologies stop",
+      "link": "https://www.wcax.com/2026/07/13/red-arrows-put-surprise-aerial-display-during-beta-technologies-stop/",
+      "ts": "2026-07-13T21:08:46+00:00",
+      "summary": "The Royal Air Force Red Arrows put on a surprise show in the skies over the Burlington area on Monday. They were in town on a visit to Beta Technologies."
+     },
+     {
+      "id": "Y6WLA3ITKFD3BGVPD7SQDBA3WY",
+      "title": "Organizers expect big turnout for 71st Clinton County Fair",
+      "link": "https://www.wcax.com/2026/07/13/organizers-expect-big-turnout-71st-clinton-county-fair/",
+      "ts": "2026-07-13T20:54:40+00:00",
+      "summary": "The Clinton County Fair kicked off in Morrisonville on Monday. Thousands are expected to attend the six-day event."
+     },
+     {
+      "id": "FHJWYUKFHBGTTHKW2WSONRVHPE",
+      "title": "Faulty fire alarm shuts down Vermont-Canada border crossing",
+      "link": "https://www.wcax.com/2026/07/13/faulty-fire-alarm-shuts-down-vermont-canada-border-crossing/",
+      "ts": "2026-07-13T20:44:23+00:00",
+      "summary": "A faulty fire alarm on the Canadian side of the border closed the crossing for more than an hour and snarled traffic into Highgate Springs, Vermont."
+     },
+     {
       "id": "RRILL7GACRB67FAF24ZEHCQ2K4",
       "title": "Man who killed Dartmouth professors resentenced to 45 years to life in prison",
-      "link": "https://www.wcax.com/2026/07/13/man-who-killed-dartmouth-professors-17-get-chance-parole-about-20-years-judge-rules/",
-      "ts": "2026-07-13T19:45:23+00:00",
+      "link": "https://www.wcax.com/2026/07/13/man-who-killed-dartmouth-professors-resentenced-45-years-life-prison/",
+      "ts": "2026-07-13T19:56:27+00:00",
       "summary": "A Vermont man who was 17 when he and a friend killed a pair of married Dartmouth College professors 25 years ago will have a chance at parole in about 20 years, when he reaches the age of one of his victims, a judge ruled Monday"
      },
      {
@@ -975,13 +1003,6 @@
       "link": "https://www.wcax.com/2026/06/18/wcax-first-alert-weather-app-how-get-severe-weather-notifications/",
       "ts": "2026-07-13T15:27:37+00:00",
       "summary": "Our free WCAX First Alert Weather App is one way to receive weather alerts for your location directly to your phone. Here’s how to guarantee that you receive severe weather warnings using our weather app!"
-     },
-     {
-      "id": "MWRCTIZBY5BC7FS5P6DNHY3B7U",
-      "title": "A surprise air show over Lake Champlain from the Royal Air Force Red Arrows",
-      "link": "https://www.wcax.com/2026/07/13/surprise-air-show-over-lake-champlain-royal-air-force-red-arrows/",
-      "ts": "2026-07-13T15:21:56+00:00",
-      "summary": "If you saw bright red planes flying above Lake Champlain Monday morning and wondered who they were, they were the Royal Air Force Red Arrows"
      },
      {
       "id": "B7MJWVVJM5AHBOR34NND4KOY2Y",
@@ -1255,32 +1276,95 @@
       "link": "https://www.wcax.com/2026/07/09/vermont-marks-3-year-anniversary-devastating-flooding/",
       "ts": "2026-07-10T12:50:43+00:00",
       "summary": "The WCAX First Alert Weather Team takes a look back at 3 years of Vermont flooding in a special streaming on our website and apps."
-     },
-     {
-      "id": "D5V32S6U4VFCRAOMFQBE4CHH5A",
-      "title": "Lake Champlain Community Sailing Center receives $500,000 endowment",
-      "link": "https://www.wcax.com/2026/07/10/lake-champlain-community-sailing-center-receives-500000-endowment/",
-      "ts": "2026-07-10T02:44:08+00:00",
-      "summary": "The Lake Champlain Community Sailing Center has received a $500,000 endowment fund that will help expand its reach into new communities."
-     },
-     {
-      "id": "MX2I33NVINGGHMOYORTAXZHWYU",
-      "title": "Vermont man dies after accident at Coventry landfill",
-      "link": "https://www.wcax.com/2026/07/09/vermont-man-dies-after-accident-coventry-landfill/",
-      "ts": "2026-07-09T22:46:34+00:00",
-      "summary": "Police say a Fairfax man died after an accident with an aerial lift at the Casella landfill in Coventry."
-     },
-     {
-      "id": "UIXQA4FM2BAZ5J5WO32NMGPXKE",
-      "title": "Brattleboro Memorial Hospital plans to close birthing center, citing financial losses",
-      "link": "https://www.wcax.com/2026/07/09/brattleboro-memorial-hospital-plans-close-birthing-center-citing-financial-losses/",
-      "ts": "2026-07-09T22:10:34+00:00",
-      "summary": "The birthing center delivers more than 200 babies every single year, and closure of the facility would force families to travel further."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71920198",
+      "title": "Rubio vows to 'dismantle' International Criminal Court",
+      "link": "https://www.mynbc5.com/article/rubio-dismantle-international-criminal-court/71920198",
+      "ts": "2026-07-13T21:19:00+00:00",
+      "summary": "Rubio accused the ICC of “waging a war against our country, not with bullets or missiles,” but with “the force of so-called international law.”"
+     },
+     {
+      "id": "71922073",
+      "title": "Ukraine fears it will have a weaker link to Trump after Sen. Lindsey Graham’s sudden death",
+      "link": "https://www.mynbc5.com/article/ukraine-fears-weaker-link-to-trump-after-graham-death/71922073",
+      "ts": "2026-07-13T21:12:00+00:00",
+      "summary": "Ukraine is mourning Sen. Lindsey Graham, whose death leaves leaders concerned about losing a key advocate with influence in President Trump's circle."
+     },
+     {
+      "id": "71919795",
+      "title": "‘Sunlight on demand’: U.S. approves test of giant space mirror to redirect sunlight",
+      "link": "https://www.mynbc5.com/article/fcc-approves-space-mirror-reflect-orbital/71919795",
+      "ts": "2026-07-13T21:08:00+00:00",
+      "summary": "The U.S. has approved plans for an experimental satellite carrying a massive mirror, designed to test if “sunlight on demand” is possible by reflecting sunlight onto targeted areas on Earth."
+     },
+     {
+      "id": "71921896",
+      "title": "Photos: Vehicle drives into swimming pool at Smugglers Notch Resort; Person in police custody",
+      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
+      "ts": "2026-07-13T21:08:00+00:00",
+      "summary": "Police and first responders are at Smugglers Notch Resort in Jeffersonville on Monday after a vehicle crashed into a swimming pool earlier this afternoon."
+     },
+     {
+      "id": "71921558",
+      "title": "Filling the seat: Process underway to fill Graham vacancy",
+      "link": "https://www.mynbc5.com/article/graham-replacement-process-sister/71921558",
+      "ts": "2026-07-13T21:06:00+00:00",
+      "summary": "The sudden death of Sen. Lindsey Graham has left a critical seat open in Washington. Now, efforts are underway to appoint a temporary replacement and select a new Republican nominee."
+     },
+     {
+      "id": "71921362",
+      "title": "Sweet reunion: Missing pet bird named 'Sunny' found at her favorite handout spot, an ice cream shop",
+      "link": "https://www.mynbc5.com/article/missing-cockatiel-found-ice-cream-shop-maine/71921362",
+      "ts": "2026-07-13T20:49:00+00:00",
+      "summary": "A missing pet cockatiel vanished for days. She turned up at her favorite hangout — an ice cream shop. Here's how the shop's employees and local police got her home."
+     },
+     {
+      "id": "71921767",
+      "title": "Caught on camera: Bystanders rescue mother and baby from vehicle stuck in flooded ditch",
+      "link": "https://www.mynbc5.com/article/georgia-mother-baby-rescued-submerged-vehicle/71921767",
+      "ts": "2026-07-13T20:42:00+00:00",
+      "summary": "Bystanders rushed to save a Georgia mother and baby after their car became partially submerged in floodwaters."
+     },
+     {
+      "id": "71921702",
+      "title": "Who is Darline Graham Nordone?",
+      "link": "https://www.mynbc5.com/article/darline-graham-nordone-lindsey-graham-sister/71921702",
+      "ts": "2026-07-13T20:31:00+00:00",
+      "summary": "South Carolina Gov. Henry McMaster appointed Sen. Lindsey Graham’s sister , Darline Graham Nordone, to serve for the rest of the senator's term on Monday. Here's what we know about her."
+     },
+     {
+      "id": "71917963",
+      "title": "Person killed in shooting involving ICE in Maine, official says",
+      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
+      "ts": "2026-07-13T20:24:00+00:00",
+      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
+     },
+     {
+      "id": "71919126",
+      "title": "South Carolina governor taps Lindsey Graham's sister to fill his Senate seat",
+      "link": "https://www.mynbc5.com/article/lindsey-graham-temporary-senate-replacement/71919126",
+      "ts": "2026-07-13T20:24:00+00:00",
+      "summary": "South Carolina Gov. Henry McMaster on Monday appointed Graham’s sister, Darline Graham Nordone, as his temporary replacement in the Senate."
+     },
+     {
+      "id": "71919798",
+      "title": "Police arrest man with a firearm at north barricade of the U.S. Capitol",
+      "link": "https://www.mynbc5.com/article/police-arrest-man-with-a-firearm-at-north-barricade-of-the-us-capitol/71919798",
+      "ts": "2026-07-13T20:04:00+00:00",
+      "summary": "U.S. Capitol Police arrested a man at the Capitol’s north barricade after officers said he was carrying a firearm, which is prohibited on Capitol grounds."
+     },
+     {
+      "id": "71920568",
+      "title": "Immigration officials have fired at civilians 29 times in Trump's second term",
+      "link": "https://www.mynbc5.com/article/ice-shootings-trump-second-term-data/71920568",
+      "ts": "2026-07-13T20:00:00+00:00",
+      "summary": "Eight people have been killed in shootings by immigration officials since January 2025, data shows. The latest shooting, involving ICE agents in Maine, was the 29th incident in President Donald Trump's second term."
+     },
      {
       "id": "71918482",
       "title": "Trump says US will blockade Iran in Strait of Hormuz, will charge ships for safe passage",
@@ -1294,13 +1378,6 @@
       "link": "https://www.mynbc5.com/article/chers-son-remains-in-custody-new-hampshire-elijiah-allman/71921422",
       "ts": "2026-07-13T19:33:59+00:00",
       "summary": "Months after two arrests in New Hampshire, Elijah Allman ,the son of Cher and the late Gregg Allman, remains in custody. A judge has paused the Windham burglary case while questions surrounding his legal representation are addressed. Meanwhile, a competency hearing in his separate Concord case stemming from an incident at St. Paul's School is scheduled for October."
-     },
-     {
-      "id": "71917963",
-      "title": "Person killed in shooting involving ICE in Maine, official says",
-      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
-      "ts": "2026-07-13T19:28:00+00:00",
-      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
      },
      {
       "id": "71919564",
@@ -1343,83 +1420,6 @@
       "link": "https://www.mynbc5.com/article/heat-returns-tuesday-before-unusually-intense-storms-overnight-across-vermont-new-york/71914188",
       "ts": "2026-07-13T17:50:00+00:00",
       "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
-     },
-     {
-      "id": "71920163",
-      "title": "Minnesota prosecutors obtain long-withheld evidence in Renee Good and Alex Pretti shooting deaths",
-      "link": "https://www.mynbc5.com/article/minnesota-prosecutors-renee-good-alex-pretti-evidence/71920163",
-      "ts": "2026-07-13T17:49:00+00:00",
-      "summary": "Minnesota prosecutors have obtained key evidence previously withheld by federal officials in their investigations into the fatal shootings of Renee Good and Alex Pretti."
-     },
-     {
-      "id": "71920610",
-      "title": "States sue to block Paramount’s Warner Bros. Discovery takeover",
-      "link": "https://www.mynbc5.com/article/lawsuit-paramount-warn-bros-takeover/71920610",
-      "ts": "2026-07-13T17:49:00+00:00",
-      "summary": "Twelve states have sued to block Paramount’s takeover of Warner Bros. Discovery, kicking off a high-stakes antitrust battle that could impede the media mega-merger."
-     },
-     {
-      "id": "71920629",
-      "title": "Very warm, sun mixes with clouds Monday afternoon",
-      "link": "https://www.mynbc5.com/article/very-warm-sun-mixes-with-clouds-monday-afternoon-07-13-26/71920629",
-      "ts": "2026-07-13T17:42:00+00:00",
-      "summary": "Intense heat and humidity Tuesday, overnight severe storms likely; cooling off late week"
-     },
-     {
-      "id": "71919527",
-      "title": "2026 Clinton County Fair to bring 30,000 people to celebrate summer in the North Country",
-      "link": "https://www.mynbc5.com/article/2026-clinton-county-fair/71919527",
-      "ts": "2026-07-13T17:39:00+00:00",
-      "summary": "The 2026 Clinton County Fair kicked off on Monday, with this year's event expected to bring about 30,000 people to the North Country."
-     },
-     {
-      "id": "71919798",
-      "title": "Police arrest man with a firearm at north barricade of the U.S. Capitol",
-      "link": "https://www.mynbc5.com/article/police-arrest-man-with-a-firearm-at-north-barricade-of-the-us-capitol/71919798",
-      "ts": "2026-07-13T17:08:00+00:00",
-      "summary": "U.S. Capitol Police arrested a man at the Capitol’s north barricade after officers said he was carrying a firearm, which is prohibited on Capitol grounds."
-     },
-     {
-      "id": "71919729",
-      "title": "Nurses rally to save Brattleboro Memorial Hospital birthing center",
-      "link": "https://www.mynbc5.com/article/brattleboro-vermont-birthing-center-rally/71919729",
-      "ts": "2026-07-13T16:41:00+00:00",
-      "summary": "Nurses in Brattleboro are rallying to oppose the planned closure of the Brattleboro Memorial Hospital birthing center, which the hospital board announced would close within six to nine months due to financial losses."
-     },
-     {
-      "id": "71898489",
-      "title": "Meet the Vermont scientist studying critically endangered North Atlantic right whales",
-      "link": "https://www.mynbc5.com/article/new-england-aquarium-north-atlantic-right-whales-philip-hamilton/71898489",
-      "ts": "2026-07-13T16:38:00+00:00",
-      "summary": "Philip Hamilton of Putney appeared on NBC5 In Depth to discuss his decades of work studying critically endangered North Atlantic right whales"
-     },
-     {
-      "id": "71898668",
-      "title": "Secretary of state urges voters to prepare for Aug. 11 Vermont primary",
-      "link": "https://www.mynbc5.com/article/vermont-primary-voter-resources-preparation-guide/71898668",
-      "ts": "2026-07-13T16:36:00+00:00",
-      "summary": "Ahead of the Aug. 11 Vermont primaries, the secretary of state is encouraging voters to prepare by checking out an online resource guide including candidate statements"
-     },
-     {
-      "id": "71919523",
-      "title": "Upstate New York man accused of shooting and killing his dog",
-      "link": "https://www.mynbc5.com/article/providence-new-york-animal-cruelty-van-aken/71919523",
-      "ts": "2026-07-13T16:24:00+00:00",
-      "summary": "A Saratoga County man is facing aggravated animal cruelty charges after police say he shot his dog with a shotgun in the town of Providence."
-     },
-     {
-      "id": "71905428",
-      "title": "As gas plants rise to power AI data centers, renewable energy allies are fighting for alternatives",
-      "link": "https://www.mynbc5.com/article/ai-data-centers-renewable-energy/71905428",
-      "ts": "2026-07-13T16:06:00+00:00",
-      "summary": "Renewable energy allies are trying to ensure that massive data centers will be powered by sources with lower impacts on the earth."
-     },
-     {
-      "id": "71919126",
-      "title": "Trump says South Carolina governor should appoint Lindsey Graham’s sister to finish his term",
-      "link": "https://www.mynbc5.com/article/lindsey-graham-temporary-senate-replacement/71919126",
-      "ts": "2026-07-13T15:46:00+00:00",
-      "summary": "President Trump said Monday he’s recommended that Lindsey Graham’s sister be named as his temporary replacement in the U.S. Senate."
      }
     ]
    },
@@ -1473,6 +1473,70 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uvmc3i",
+    "title": "Charcuterie Frick, Lacolle?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvmc3i/charcuterie_frick_lacolle/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T20:01:44+00:00"
+   },
+   {
+    "id": "1uvm60o",
+    "title": "Where is a good spot for a refreshing drink and a book?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvm60o/where_is_a_good_spot_for_a_refreshing_drink_and_a/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T20:01:44+00:00"
+   },
+   {
+    "id": "1uvlx92",
+    "title": "Bull Terrier",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvlx92/bull_terrier/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T20:01:44+00:00"
+   },
+   {
+    "id": "1uvl52a",
+    "title": "Job posting options?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvl52a/job_posting_options/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T20:01:44+00:00"
+   },
+   {
+    "id": "1uvkvk3",
+    "title": "Favorite farm stands?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvkvk3/favorite_farm_stands/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T20:01:44+00:00"
+   },
+   {
+    "id": "1uvk29v",
+    "title": "What's going on with high school baseball field?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvk29v/whats_going_on_with_high_school_baseball_field/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T20:01:44+00:00"
+   },
+   {
+    "id": "1uvjzot",
+    "title": "D&D Night Wednesday (with cats) @ Queen City Cat Lounge",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvjzot/dd_night_wednesday_with_cats_queen_city_cat_lounge/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T20:01:44+00:00"
+   },
+   {
+    "id": "1uvj7m8",
+    "title": "Looking for VT Green tickets this weekend",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvj7m8/looking_for_vt_green_tickets_this_weekend/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-13T20:01:44+00:00"
+   },
    {
     "id": "1uvghwg",
     "title": "Artwork for a good cause 💚",
@@ -1568,70 +1632,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-13T11:00:59+00:00"
-   },
-   {
-    "id": "1uuya8r",
-    "title": "Anyone know what's happening in Burlington rn?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuya8r/anyone_know_whats_happening_in_burlington_rn/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuxf0e",
-    "title": "Drunk driver on Spear St",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuxf0e/drunk_driver_on_spear_st/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuwnjf",
-    "title": "Lost necklace at beach",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuwnjf/lost_necklace_at_beach/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuuoqo",
-    "title": "group bike ride on 7/18!",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuuoqo/group_bike_ride_on_718/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuuasz",
-    "title": "Why is it sad and kinda funny",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuuasz/why_is_it_sad_and_kinda_funny/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuqd21",
-    "title": "Crochet Night with CATS: this Friday @ Queen City Cat Lounge",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuqd21/crochet_night_with_cats_this_friday_queen_city/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuoq9x",
-    "title": "Bissonette for Bram?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuoq9x/bissonette_for_bram/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
-   },
-   {
-    "id": "1uuopcq",
-    "title": "Dog riding in a sidecar :)",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuopcq/dog_riding_in_a_sidecar/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T02:00:02+00:00"
    }
   ]
  },
