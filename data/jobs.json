@@ -1,6 +1,31 @@
 {
- "updated": "2026-07-11T05:21:56+00:00",
+ "updated": "2026-07-13T12:43:36+00:00",
  "jobs": [
+  {
+   "id": "state-of-vermont-1408111400",
+   "title": "Nurse Case Manager / URN I - Temporary",
+   "employer": "State of Vermont — Disabilities Aging & Independent Living",
+   "pay": null,
+   "posted": "2026-07-13",
+   "url": "https://careers.vermont.gov/job/Burlington-Nurse-Case-Manager-URN-I-Temporary-VT-05401/1408111400/",
+   "source": "State of Vermont",
+   "tags": [
+    "city",
+    "seasonal"
+   ]
+  },
+  {
+   "id": "state-of-vermont-1399251800",
+   "title": "Staff Attorney / Administrative Law Judge",
+   "employer": "State of Vermont — Labor",
+   "pay": null,
+   "posted": "2026-07-11",
+   "url": "https://careers.vermont.gov/job/Burlington-Staff-Attorney-Administrative-Law-Judge-VT-05401/1399251800/",
+   "source": "State of Vermont",
+   "tags": [
+    "city"
+   ]
+  },
   {
    "id": "uvm-87244",
    "title": "Exam Proctoring Support Specialist",
@@ -50,18 +75,6 @@
    "url": "https://www.uvmjobs.com/postings/87226",
    "source": "UVM",
    "tags": []
-  },
-  {
-   "id": "state-of-vermont-1398865900",
-   "title": "Court Officer B",
-   "employer": "State of Vermont — Judiciary",
-   "pay": null,
-   "posted": "2026-07-10",
-   "url": "https://careers.vermont.gov/job/Burlington-Court-Officer-B-VT-05401/1398865900/",
-   "source": "State of Vermont",
-   "tags": [
-    "city"
-   ]
   },
   {
    "id": "seven-days-1946c30fa9f8",
@@ -410,7 +423,7 @@
    "title": "Grounds Maintenance Assistant",
    "employer": "City of Burlington — Parks, Recreation & Waterfront",
    "pay": "$19.15 Hourly",
-   "posted": "2026-07-04",
+   "posted": "2026-07-06",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5397925/grounds-maintenance-assistant",
    "source": "City of Burlington",
    "tags": [
@@ -424,7 +437,7 @@
    "title": "Police Officer",
    "employer": "City of Burlington — Police",
    "pay": "$81,653.10 - $95,573.09 Annually",
-   "posted": "2026-07-04",
+   "posted": "2026-07-06",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5396206/police-officer",
    "source": "City of Burlington",
    "tags": [
