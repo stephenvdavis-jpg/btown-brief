@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T13:01:34+00:00",
+  "updated": "2026-07-13T16:57:28+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -177,22 +177,22 @@
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
-      "title": "Red Rocks",
-      "url": "https://www.reddit.com/r/burlington/comments/1uv2db6/red_rocks/",
+      "title": "Jack White in Essex Junction, a Bastille Day Moth StorySLAM, and a World Cup watch party at the library, plus a shakeup at the top of Vermont's commerce agency, and what the shelter accountability debate means for Burlington, your whole week is in the Monday Brief",
+      "url": "https://www.reddit.com/r/burlington/comments/1uvbz1q/jack_white_in_essex_junction_a_bastille_day_moth/",
       "sub": "r/burlington",
-      "when": "2026-07-13T11:00:59+00:00",
-      "blurb": "Anyone know when the upper and lower parking lots for Red Rocks are open? I'd love to take my kayak to the beach to put in but I can't…",
+      "when": "2026-07-13T14:00:57+00:00",
+      "blurb": "Happy Monday, Burlington! The week opens warm and a little humid, with Monday landing around 87 and staying mostly dry. Tuesday is the one…",
       "comments": null,
       "unverified": false
     },
     {
       "slot": "needs_help",
       "slot_label": "Someone needs help",
-      "title": "Lost necklace at beach",
-      "url": "https://www.reddit.com/r/burlington/comments/1uuwnjf/lost_necklace_at_beach/",
+      "title": "Missing cat in Monkton/Bristol",
+      "url": "https://www.reddit.com/r/burlington/comments/1uvc9lo/missing_cat_in_monktonbristol/",
       "sub": "r/burlington",
-      "when": "2026-07-13T02:00:02+00:00",
-      "blurb": "If you lost a necklace at secret beach, I have it.",
+      "when": "2026-07-13T14:00:57+00:00",
+      "blurb": "submitted by /u/sprinkle1977 [link] [comments]",
       "comments": null,
       "unverified": false
     },
@@ -243,19 +243,12 @@
       "sub": "r/vermont",
       "when": "2026-07-11T02:54:50+00:00",
       "comments": null
-    },
-    {
-      "title": "Dunkin",
-      "url": "https://www.reddit.com/r/burlington/comments/1usmda8/dunkin/",
-      "sub": "r/burlington",
-      "when": "2026-07-10T14:00:07+00:00",
-      "comments": null
     }
   ],
   "stats": {
-    "posts_scanned": 118,
+    "posts_scanned": 99,
     "per_source": {
-      "r/burlington": 69,
+      "r/burlington": 50,
       "r/vermont": 49
     }
   }
