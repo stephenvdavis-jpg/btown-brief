@@ -1,17 +1,24 @@
 {
-  "updated": "2026-07-13T23:29:56+00:00",
+  "updated": "2026-07-14T11:59:39+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
     {
-      "id": "cat-cats-crochet",
-      "label": "D&D Night Wednesday (with cats) @ Queen City Cat Lounge",
+      "id": "cats-cat-lounge",
+      "label": "D&D with Cats Weds 6-9pm @ Queen City Cat Lounge",
       "direction": "hot",
-      "posts": 3,
+      "posts": 4,
       "comments": null,
-      "last_activity": "2026-07-13T20:01:44+00:00",
+      "last_activity": "2026-07-14T04:03:42+00:00",
       "sources": [
+        {
+          "title": "D&D with Cats Weds 6-9pm @ Queen City Cat Lounge",
+          "url": "https://www.reddit.com/r/vermont/comments/1uvkkh5/dd_with_cats_weds_69pm_queen_city_cat_lounge/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T04:03:42+00:00",
+          "comments": null
+        },
         {
           "title": "D&D Night Wednesday (with cats) @ Queen City Cat Lounge",
           "url": "https://www.reddit.com/r/burlington/comments/1uvjzot/dd_night_wednesday_with_cats_queen_city_cat_lounge/",
@@ -36,117 +43,107 @@
       ]
     },
     {
-      "id": "2026-comments-confederate",
-      "label": "Confederate Flag in Winooski, VT 2026",
+      "id": "border-closed-crossing",
+      "label": "Highgate Border Crossing Closed",
       "direction": "hot",
       "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-13T02:00:02+00:00",
+      "last_activity": "2026-07-14T04:03:42+00:00",
       "sources": [
         {
-          "title": "Confederate Flag in Winooski, VT 2026",
-          "url": "https://www.reddit.com/r/burlington/comments/1uugtza/confederate_flag_in_winooski_vt_2026/",
-          "sub": "r/burlington",
-          "when": "2026-07-13T02:00:02+00:00",
+          "title": "PSA: Highgate Border Crossing Closed",
+          "url": "https://www.reddit.com/r/vermont/comments/1uvbq3t/psa_highgate_border_crossing_closed/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T04:03:42+00:00",
           "comments": null
         },
         {
-          "title": "Confederate Flag in Winooski, VT 2026",
-          "url": "https://www.reddit.com/r/vermont/comments/1uugt4p/confederate_flag_in_winooski_vt_2026/",
-          "sub": "r/vermont",
-          "when": "2026-07-12T23:54:41+00:00",
+          "title": "PSA: Highgate Border Crossing Closed",
+          "url": "https://www.reddit.com/r/burlington/comments/1uvbs28/psa_highgate_border_crossing_closed/",
+          "sub": "r/burlington",
+          "when": "2026-07-13T14:00:57+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "dog-riding-saw",
-      "label": "Dog riding in a sidecar :)",
+      "id": "cat-missing-bristol",
+      "label": "Missing cat in Monkton/Bristol",
       "direction": "hot",
       "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-13T02:00:02+00:00",
+      "last_activity": "2026-07-14T04:03:42+00:00",
       "sources": [
         {
-          "title": "Dog riding in a sidecar :)",
-          "url": "https://www.reddit.com/r/burlington/comments/1uuopcq/dog_riding_in_a_sidecar/",
-          "sub": "r/burlington",
-          "when": "2026-07-13T02:00:02+00:00",
+          "title": "Missing cat in Monkton/Bristol",
+          "url": "https://www.reddit.com/r/vermont/comments/1uvc9ce/missing_cat_in_monktonbristol/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T04:03:42+00:00",
           "comments": null
         },
         {
-          "title": "Dog riding in a sidecar :)",
-          "url": "https://www.reddit.com/r/vermont/comments/1uuon78/dog_riding_in_a_sidecar/",
-          "sub": "r/vermont",
-          "when": "2026-07-12T23:54:41+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "well-1utnmdl-4th",
-      "label": "4th of July Visitor",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-13T02:54:40+00:00",
-      "sources": [
-        {
-          "title": "4th of July Visitor",
-          "url": "https://www.reddit.com/r/vermont/comments/1utnmdl/4th_of_july_visitor/",
-          "sub": "r/vermont",
-          "when": "2026-07-13T02:54:40+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "auditor-state-actions",
-      "label": "A paper from the Vermont State Auditor: observed and…",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-12T23:54:41+00:00",
-      "sources": [
-        {
-          "title": "A paper from the Vermont State Auditor: observed and documented behaviors and actions of Vermont Sheriffs (including a few arrests)",
-          "url": "https://www.reddit.com/r/vermont/comments/1uuu8vs/a_paper_from_the_vermont_state_auditor_observed/",
-          "sub": "r/vermont",
-          "when": "2026-07-12T23:54:41+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "hiking-sticks-use",
-      "label": "Any hikers using hiking sticks?",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-12T23:54:41+00:00",
-      "sources": [
-        {
-          "title": "Any hikers using hiking sticks?",
-          "url": "https://www.reddit.com/r/vermont/comments/1utxf8a/any_hikers_using_hiking_sticks/",
-          "sub": "r/vermont",
-          "when": "2026-07-12T23:54:41+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "anywhere-beads-michael",
-      "label": "Anywhere in the area that sells rondelle beads?",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-13T02:00:02+00:00",
-      "sources": [
-        {
-          "title": "Anywhere in the area that sells rondelle beads?",
-          "url": "https://www.reddit.com/r/burlington/comments/1uuhqen/anywhere_in_the_area_that_sells_rondelle_beads/",
+          "title": "Missing cat in Monkton/Bristol",
+          "url": "https://www.reddit.com/r/burlington/comments/1uvc9lo/missing_cat_in_monktonbristol/",
           "sub": "r/burlington",
-          "when": "2026-07-13T02:00:02+00:00",
+          "when": "2026-07-13T14:00:57+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "comments-emo-fellows",
+      "label": "THIS FRIDAY AT ODD FELLOWS IN BURLINGTON!!! A night of pop…",
+      "direction": "hot",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-14T04:03:42+00:00",
+      "sources": [
+        {
+          "title": "THIS FRIDAY AT ODD FELLOWS IN BURLINGTON!!! A night of pop punk, grunge and emo 💜",
+          "url": "https://www.reddit.com/r/vermont/comments/1uvcz4h/this_friday_at_odd_fellows_in_burlington_a_night/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T04:03:42+00:00",
+          "comments": null
+        },
+        {
+          "title": "THIS FRIDAY AT ODD FELLOWS! A night of punk, grunge and emo 💜💜",
+          "url": "https://www.reddit.com/r/burlington/comments/1uvcye1/this_friday_at_odd_fellows_a_night_of_punk_grunge/",
+          "sub": "r/burlington",
+          "when": "2026-07-13T17:01:32+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "ads-california-campaign",
+      "label": "AI slop campaign ads are sweeping the nation this election…",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-14T04:03:42+00:00",
+      "sources": [
+        {
+          "title": "AI slop campaign ads are sweeping the nation this election season, from California all the way to \"Varmont\"",
+          "url": "https://www.reddit.com/r/vermont/comments/1uv96pf/ai_slop_campaign_ads_are_sweeping_the_nation_this/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T04:03:42+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "vortec-2004-550",
+      "label": "Anyone need a 4.3L V6 vortec?",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-14T04:03:42+00:00",
+      "sources": [
+        {
+          "title": "Anyone need a 4.3L V6 vortec?",
+          "url": "https://www.reddit.com/r/vermont/comments/1uvobk3/anyone_need_a_43l_v6_vortec/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T04:03:42+00:00",
           "comments": null
         }
       ]
@@ -167,23 +164,29 @@
           "comments": null
         }
       ]
+    },
+    {
+      "id": "artwork-343-across",
+      "label": "Artwork for a good cause 💚",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-13T17:01:32+00:00",
+      "sources": [
+        {
+          "title": "Artwork for a good cause 💚",
+          "url": "https://www.reddit.com/r/burlington/comments/1uvghwg/artwork_for_a_good_cause/",
+          "sub": "r/burlington",
+          "when": "2026-07-13T17:01:32+00:00",
+          "comments": null
+        }
+      ]
     }
   ],
   "highlights": [
     {
-      "slot": "funniest",
-      "slot_label": "Funniest local post",
-      "title": "THIS FRIDAY AT ODD FELLOWS! A night of punk, grunge and emo 💜💜",
-      "url": "https://www.reddit.com/r/burlington/comments/1uvcye1/this_friday_at_odd_fellows_a_night_of_punk_grunge/",
-      "sub": "r/burlington",
-      "when": "2026-07-13T17:01:32+00:00",
-      "blurb": "submitted by /u/purplemusicianz [link] [comments]",
-      "comments": null,
-      "unverified": false
-    },
-    {
-      "slot": "most_debated",
-      "slot_label": "Most debated",
+      "slot": "useful_question",
+      "slot_label": "Most useful neighbor question",
       "title": "What's going on with high school baseball field?",
       "url": "https://www.reddit.com/r/burlington/comments/1uvk29v/whats_going_on_with_high_school_baseball_field/",
       "sub": "r/burlington",
@@ -193,13 +196,35 @@
       "unverified": false
     },
     {
+      "slot": "funniest",
+      "slot_label": "Funniest local post",
+      "title": "Have a memorable Front Porch Forum story? Share it with Vermont Edition",
+      "url": "https://www.reddit.com/r/vermont/comments/1uvdjvz/have_a_memorable_front_porch_forum_story_share_it/",
+      "sub": "r/vermont",
+      "when": "2026-07-14T04:03:42+00:00",
+      "blurb": "This Wednesday, Vermont Edition is talking with the founders of Front Porch Forum for their 20th anniversary and we want to hear from you…",
+      "comments": null,
+      "unverified": false
+    },
+    {
+      "slot": "most_debated",
+      "slot_label": "Most debated",
+      "title": "AI slop campaign ads are sweeping the nation this election season, from California all the way to \"Varmont\"",
+      "url": "https://www.reddit.com/r/vermont/comments/1uv96pf/ai_slop_campaign_ads_are_sweeping_the_nation_this/",
+      "sub": "r/vermont",
+      "when": "2026-07-14T04:03:42+00:00",
+      "blurb": "submitted by /u/PhiloLibrarian [link] [comments]",
+      "comments": null,
+      "unverified": false
+    },
+    {
       "slot": "needs_help",
       "slot_label": "Someone needs help",
       "title": "Missing cat in Monkton/Bristol",
-      "url": "https://www.reddit.com/r/burlington/comments/1uvc9lo/missing_cat_in_monktonbristol/",
-      "sub": "r/burlington",
-      "when": "2026-07-13T14:00:57+00:00",
-      "blurb": "submitted by /u/sprinkle1977 [link] [comments]",
+      "url": "https://www.reddit.com/r/vermont/comments/1uvc9ce/missing_cat_in_monktonbristol/",
+      "sub": "r/vermont",
+      "when": "2026-07-14T04:03:42+00:00",
+      "blurb": "We are missing our 13 year old cat named Snowflake. We have not seen her since about 6pm yesterday. She is all black with a white patch…",
       "comments": null,
       "unverified": false
     },
@@ -217,11 +242,11 @@
     {
       "slot": "rumor",
       "slot_label": "Emerging rumor — unverified",
-      "title": "Dogs at Leddy",
-      "url": "https://www.reddit.com/r/burlington/comments/1uvfmtj/dogs_at_leddy/",
-      "sub": "r/burlington",
-      "when": "2026-07-13T17:01:32+00:00",
-      "blurb": "Does anyone know what the rules are this year for dogs on the beach at leddy? Last year they had signs up and were kicking dogs out left…",
+      "title": "Anyone need a 4.3L V6 vortec?",
+      "url": "https://www.reddit.com/r/vermont/comments/1uvobk3/anyone_need_a_43l_v6_vortec/",
+      "sub": "r/vermont",
+      "when": "2026-07-14T04:03:42+00:00",
+      "blurb": "Hey yall I have an already pulled out 4.3L v6 vortec engine from a 2004 Chevy s10 blazer located in north hyde park with 56k miles on it…",
       "comments": null,
       "unverified": true
     }
@@ -254,20 +279,13 @@
       "sub": "r/burlington",
       "when": "2026-07-13T02:00:02+00:00",
       "comments": null
-    },
-    {
-      "title": "Dog attack in Essex",
-      "url": "https://www.reddit.com/r/vermont/comments/1us4tbm/dog_attack_in_essex/",
-      "sub": "r/vermont",
-      "when": "2026-07-11T02:54:50+00:00",
-      "comments": null
     }
   ],
   "stats": {
-    "posts_scanned": 103,
+    "posts_scanned": 95,
     "per_source": {
-      "r/burlington": 54,
-      "r/vermont": 49
+      "r/burlington": 48,
+      "r/vermont": 47
     }
   }
 }
