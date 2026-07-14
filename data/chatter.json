@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T16:01:24+00:00",
+  "updated": "2026-07-14T19:53:28+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -43,9 +43,57 @@
       ]
     },
     {
+      "id": "available-rory-scovel",
+      "label": "Available: Rory Scovel (x2) 7/14 at VCC",
+      "direction": "hot",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-14T17:02:31+00:00",
+      "sources": [
+        {
+          "title": "Available: Rory Scovel (x2) 7/14 at VCC",
+          "url": "https://www.reddit.com/r/burlington/comments/1uwc44r/available_rory_scovel_x2_714_at_vcc/",
+          "sub": "r/burlington",
+          "when": "2026-07-14T17:02:31+00:00",
+          "comments": null
+        },
+        {
+          "title": "Available: Rory Scovel (x2) 7/14 at VCC",
+          "url": "https://www.reddit.com/r/vermont/comments/1uwc4b0/available_rory_scovel_x2_714_at_vcc/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T16:03:18+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "new-rules-soon",
+      "label": "Vt. town considering new rules for e-bikes and e-motos",
+      "direction": "hot",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-14T17:02:31+00:00",
+      "sources": [
+        {
+          "title": "Vt. town considering new rules for e-bikes and e-motos",
+          "url": "https://www.reddit.com/r/burlington/comments/1uwat2l/vt_town_considering_new_rules_for_ebikes_and/",
+          "sub": "r/burlington",
+          "when": "2026-07-14T17:02:31+00:00",
+          "comments": null
+        },
+        {
+          "title": "New Inspection Rules Question....",
+          "url": "https://www.reddit.com/r/vermont/comments/1uvuuyy/new_inspection_rules_question/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T04:03:42+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "cat-missing-bristol",
       "label": "Missing cat in Monkton/Bristol",
-      "direction": "hot",
+      "direction": "rising",
       "posts": 2,
       "comments": null,
       "last_activity": "2026-07-14T04:03:42+00:00",
@@ -69,7 +117,7 @@
     {
       "id": "comments-emo-fellows",
       "label": "THIS FRIDAY AT ODD FELLOWS IN BURLINGTON!!! A night of pop…",
-      "direction": "hot",
+      "direction": "rising",
       "posts": 2,
       "comments": null,
       "last_activity": "2026-07-14T04:03:42+00:00",
@@ -108,6 +156,23 @@
       ]
     },
     {
+      "id": "water-600-across",
+      "label": "airbnb greed is actually ruining the lake",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-14T19:03:02+00:00",
+      "sources": [
+        {
+          "title": "airbnb greed is actually ruining the lake",
+          "url": "https://www.reddit.com/r/vermont/comments/1uwen3i/airbnb_greed_is_actually_ruining_the_lake/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T19:03:02+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "vortec-2004-550",
       "label": "Anyone need a 4.3L V6 vortec?",
       "direction": "rising",
@@ -118,57 +183,6 @@
         {
           "title": "Anyone need a 4.3L V6 vortec?",
           "url": "https://www.reddit.com/r/vermont/comments/1uvobk3/anyone_need_a_43l_v6_vortec/",
-          "sub": "r/vermont",
-          "when": "2026-07-14T04:03:42+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "hiring-time-work",
-      "label": "Are you hiring?",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-13T17:01:32+00:00",
-      "sources": [
-        {
-          "title": "Are you hiring?",
-          "url": "https://www.reddit.com/r/burlington/comments/1uvfrht/are_you_hiring/",
-          "sub": "r/burlington",
-          "when": "2026-07-13T17:01:32+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "artwork-343-across",
-      "label": "Artwork for a good cause 💚",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-13T17:01:32+00:00",
-      "sources": [
-        {
-          "title": "Artwork for a good cause 💚",
-          "url": "https://www.reddit.com/r/burlington/comments/1uvghwg/artwork_for_a_good_cause/",
-          "sub": "r/burlington",
-          "when": "2026-07-13T17:01:32+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "comments-develops-experts",
-      "label": "As strong El Niño develops off the Pacific, experts say…",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-14T04:03:42+00:00",
-      "sources": [
-        {
-          "title": "As strong El Niño develops off the Pacific, experts say Vermont impact is tough to tease out",
-          "url": "https://www.reddit.com/r/vermont/comments/1uvm5jh/as_strong_el_ni%C3%B1o_develops_off_the_pacific/",
           "sub": "r/vermont",
           "when": "2026-07-14T04:03:42+00:00",
           "comments": null
@@ -246,6 +260,20 @@
   ],
   "rough": [
     {
+      "title": "Burlington is Back!",
+      "url": "https://www.reddit.com/r/burlington/comments/1uwc2yf/burlington_is_back/",
+      "sub": "r/burlington",
+      "when": "2026-07-14T17:02:31+00:00",
+      "comments": null
+    },
+    {
+      "title": "Heads up",
+      "url": "https://www.reddit.com/r/burlington/comments/1uwau1a/heads_up/",
+      "sub": "r/burlington",
+      "when": "2026-07-14T17:02:31+00:00",
+      "comments": null
+    },
+    {
       "title": "Dog attack update #2",
       "url": "https://www.reddit.com/r/burlington/comments/1uw676m/dog_attack_update_2/",
       "sub": "r/burlington",
@@ -282,10 +310,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 93,
+    "posts_scanned": 107,
     "per_source": {
-      "r/burlington": 49,
-      "r/vermont": 44
+      "r/burlington": 54,
+      "r/vermont": 53
     }
   }
 }
