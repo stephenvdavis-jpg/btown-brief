@@ -56,7 +56,7 @@
    "North Shore Natural Area": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-13T15:22:00+00:00"
+    "resultTime": "2026-07-14T15:04:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
@@ -382,11 +382,11 @@
  "gmt-alerts": {
   "items": [
    {
-    "id": "https://ridegmt.com/?p=24678",
-    "title": "Service Alert :: #1 Williston & #6 Shelburne Rd",
-    "link": "https://ridegmt.com/service-alert-6-shelburne-rd/",
-    "ts": "2026-07-14T01:16:14+00:00",
-    "summary": "Buses on Route 1 and Route 6 will be on detour due to construction. Toward Burlington, stops from Main Street at Church Street through Pearl Street at Opposite North Champlain [ ]"
+    "id": "https://ridegmt.com/?p=24367",
+    "title": "Service Alert :: Winooski",
+    "link": "https://ridegmt.com/service-alert-winooski-5/",
+    "ts": "2026-07-14T13:58:22+00:00",
+    "summary": "Buses on Route 9 will be on detour due to construction. Toward Riverside/Winooski, stops from Main Street at La Fountain Street through Weaver Street at St. Peter Street will not [ ]"
    },
    {
     "id": "https://ridegmt.com/?p=24075",
@@ -546,7 +546,7 @@
    "9857": {
     "name": "Advisory Committee on Accessibility Meeting",
     "start": "2026-07-20T15:00:00+00:00",
-    "hasAgenda": false,
+    "hasAgenda": true,
     "files": []
    }
   }
@@ -555,6 +555,20 @@
   "feeds": {
    "sevendays-news": {
     "items": [
+     {
+      "id": "https://www.sevendaysvt.com/?p=211834",
+      "title": "Obituary: Lyndon “Lyn” B. Carew Jr., 1932-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-lyndon-lyn-b-carew-jr-1932-2026/",
+      "ts": "2026-07-14T10:00:00+00:00",
+      "summary": "Professor taught more than 20,000 students at UVM and believed he never grew old while he was teaching The post Obituary: Lyndon “Lyn” B. Carew Jr., 1932-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=211830",
+      "title": "In Memoriam: Dennis Willmott, 1945-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/inmemoriam/in-memoriam-dennis-willmott-1945-2026/",
+      "ts": "2026-07-14T10:00:00+00:00",
+      "summary": "Shelburne gathering celebrates the life of beloved musician who was passionate about keeping traditional blues alive The post In Memoriam: Dennis Willmott, 1945-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
      {
       "id": "https://www.sevendaysvt.com/?p=211810",
       "title": "Burlington City Council Approves Plan for Battery Storage System",
@@ -610,20 +624,6 @@
       "link": "https://www.sevendaysvt.com/life-lines/inmemoriam/in-memoriam-robert-fuller-1946-2026/",
       "ts": "2026-07-10T10:00:00+00:00",
       "summary": "Friends, neighbors, former colleagues and coworkers celebrate chef, restaurateur, adventurer and vintage-motorcycle enthusiast The post In Memoriam: Robert Fuller, 1946-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211760",
-      "title": "Obituary: Arthur Charles Hessler, 1941-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-arthur-charles-hessler-1941-2026/",
-      "ts": "2026-07-10T10:00:00+00:00",
-      "summary": "Teacher, researcher and administrator at Saint Michael’s College for 27 years was a dedicated member of his church and community The post Obituary: Arthur Charles Hessler, 1941-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211754",
-      "title": "In Memoriam: Allen Samuel Daniels, 1934-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/in-memoriam-allen-samuel-daniels-1934-2026/",
-      "ts": "2026-07-10T10:00:00+00:00",
-      "summary": "Lover of life and family charmed every room with his smile, jokes and dapper style The post In Memoriam: Allen Samuel Daniels, 1934-2026 appeared first on Seven Days . (Image: Courtesy)"
      }
     ]
    },
@@ -851,6 +851,13 @@
       "summary": "The two Democrats vying for the state's top government watchdog position discuss their backgrounds and platforms."
      },
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-06-30/heat-high-temperatures-vermont-safety-tips-resources",
+      "title": "Hot weather in Vermont: Safety tips and resources",
+      "link": "https://www.vermontpublic.org/local-news/2026-06-30/heat-high-temperatures-vermont-safety-tips-resources",
+      "ts": "2026-07-14T09:00:00+00:00",
+      "summary": "With dangerous extreme heat in the forecast, here's what you need to know to stay safe."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
       "title": "UVM Medical Center inks its second contract with resident physicians",
       "link": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
@@ -919,13 +926,6 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-10/musician-pandajakey-pens-a-track-for-overthinkers",
       "ts": "2026-07-10T09:00:00+00:00",
       "summary": "This week’s Friday Song is “I Think I Know What's Up” by the Champlain College grad and multimedia artist."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-09/vermont-primary-election-2026-candidates-voting-districts",
-      "title": "Vermont primary election 2026: Look up who's on your ballot",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-09/vermont-primary-election-2026-candidates-voting-districts",
-      "ts": "2026-07-09T22:22:55+00:00",
-      "summary": "Vermont's 2026 primary election is Tuesday, Aug. 11. Use our interactive guide to learn about your local candidates."
      }
     ]
    },
@@ -1286,6 +1286,62 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71930775",
+      "title": "Burlington man arrested after hitting, stabbing victim with hiking pole, police say",
+      "link": "https://www.mynbc5.com/article/burlington-vermont-stabbing-a-dog-skatepark/71930775",
+      "ts": "2026-07-14T14:44:00+00:00",
+      "summary": "Police have arrested an unhoused man after a person was hit in the head and stabbed multiple times with a hiking pole near the Andy A-Dog Williams Skatepark on Tuesday."
+     },
+     {
+      "id": "71835350",
+      "title": "There could be recalled food in your fridge and you may never know",
+      "link": "https://www.mynbc5.com/article/food-recalls-are-easy-to-miss-heres-how-to-protect-your-kitchen/71835350",
+      "ts": "2026-07-14T14:41:00+00:00",
+      "summary": "Expiration dates aren't enough. Here's how to check your kitchen for recalls."
+     },
+     {
+      "id": "71930789",
+      "title": "Small plane crash closes portion of Adirondack Rail Trail, DEC says",
+      "link": "https://www.mynbc5.com/article/lake-clear-new-york-plane-crash-mcmaster/71930789",
+      "ts": "2026-07-14T14:24:00+00:00",
+      "summary": "The New York Department of Environmental Conservation said a section of the Adirondack Rail Trail in Lake Clear is closed following a small plane crash in the area on Monday."
+     },
+     {
+      "id": "71922071",
+      "title": "Argentina court recognizes 2 goldfish as sentient beings with rights",
+      "link": "https://www.mynbc5.com/article/argentina-court-goldfish-sentient-beings/71922071",
+      "ts": "2026-07-14T14:13:00+00:00",
+      "summary": "\"They cease to be considered a thing, an object\" | Two goldfish have been recognized in an Argentine court as sentient beings with rights."
+     },
+     {
+      "id": "71929529",
+      "title": "Two state police troopers taken to hospital after Clinton County crash",
+      "link": "https://www.mynbc5.com/article/state-police-crash-car-fire-plattsburgh/71929529",
+      "ts": "2026-07-14T13:52:00+00:00",
+      "summary": "Police are investigating after two police cruisers and a Jeep Compass collided at the intersection of Route 374 and Rand Hill Road in Clinton County. First responders on the scene confirmed that one of the cruisers caught fire after the crash. Two troopers were taken to the hospital."
+     },
+     {
+      "id": "71930218",
+      "title": "Experimental drug takes a new aim at Alzheimer’s, with promising early results",
+      "link": "https://www.mynbc5.com/article/alzheimer-s-experimental-drug/71930218",
+      "ts": "2026-07-14T13:49:00+00:00",
+      "summary": "For years, scientists have struggled to crack one of Alzheimer’s biggest mysteries. That may finally be changing."
+     },
+     {
+      "id": "71929742",
+      "title": "Supreme Court justices to testify before Congress on increasing security funding in rare appearance",
+      "link": "https://www.mynbc5.com/article/supreme-court-kagan-barrett-congress-security-funding/71929742",
+      "ts": "2026-07-14T13:22:00+00:00",
+      "summary": "Supreme Court Justices Amy Coney Barrett and Elena Kagan are set to appear before Congress, seeking millions of dollars to enhance security amid rising threats to the judiciary."
+     },
+     {
+      "id": "71921896",
+      "title": "Photos: SUV drives into swimming pool at Smugglers' Notch Resort; Person in police custody",
+      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
+      "ts": "2026-07-14T12:45:00+00:00",
+      "summary": "'It hit my head and pulled me under': Child details scary moments when an SUV trapped him in a swimming pool at Smugglers' Notch Resort. VSP aren't releasing driver's identity at this time."
+     },
+     {
       "id": "71929114",
       "title": "Why it's so difficult for the US to fully reopen the Strait of Hormuz",
       "link": "https://www.mynbc5.com/article/reopen-strait-of-hormuz-iran-united-states/71929114",
@@ -1349,13 +1405,6 @@
       "summary": "Since the U.S.-Israeli war with Iran broke out, shipping companies have been calling for greater protection for vessels to safely cross through the Strait of Hormuz"
      },
      {
-      "id": "71921896",
-      "title": "Photos: SUV drives into swimming pool at Smugglers' Notch Resort; Person in police custody",
-      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
-      "ts": "2026-07-14T03:10:00+00:00",
-      "summary": "'It hit my head and pulled me under': Child details scary moments when an SUV trapped him in a swimming pool at Smugglers' Notch Resort. VSP aren't releasing driver's identity at this time."
-     },
-     {
       "id": "71918330",
       "title": "Battery storage expansion approved for McNeil Generating Station",
       "link": "https://www.mynbc5.com/article/burlington-vermont-bess-facility/71918330",
@@ -1375,60 +1424,18 @@
       "link": "https://www.mynbc5.com/article/survey-reveals-priorities-for-burlingtons-next-police-chief/71923398",
       "ts": "2026-07-14T01:29:00+00:00",
       "summary": "Burlington officials say they're looking for a police chief who can reduce crime while strengthening community trust. A national search has drawn 15 applicants, with interviews set to begin this month."
-     },
-     {
-      "id": "71918852",
-      "title": "Could the next World Cup have even more teams? FIFA is considering it",
-      "link": "https://www.mynbc5.com/article/world-cup-more-teams-fifa/71918852",
-      "ts": "2026-07-14T00:57:00+00:00",
-      "summary": "Could the next World Cup have even more teams? FIFA is considering it"
-     },
-     {
-      "id": "71923543",
-      "title": "Record-setting dolphin stranding reported on Cape Cod",
-      "link": "https://www.mynbc5.com/article/dolphins-stranded-on-cape-cod/71923543",
-      "ts": "2026-07-14T00:44:00+00:00",
-      "summary": "Dozens of dolphins stranded on Cape Cod Monday in what rescuers say is Massachusetts' largest known bottlenose dolphin stranding."
-     },
-     {
-      "id": "71923183",
-      "title": "Sen. Graham's death looms large as lawmakers return to Capitol Hill",
-      "link": "https://www.mynbc5.com/article/sen-grahams-death-looms-large-as-lawmakers-return-to-capitol-hill/71923183",
-      "ts": "2026-07-14T00:15:00+00:00",
-      "summary": "As lawmakers mourn the sudden loss of one of their colleagues, Republicans must also grapple with the political implications of his death."
-     },
-     {
-      "id": "71923365",
-      "title": "Woman says 'yes' to proposal after injury on a mountain",
-      "link": "https://www.mynbc5.com/article/new-hampshire-mountain-rescue-proposal/71923365",
-      "ts": "2026-07-14T00:08:00+00:00",
-      "summary": "A mountain rescue took an unforgettable turn when a hiker proposed to his injured partner"
-     },
-     {
-      "id": "71922439",
-      "title": "'Guardian of the Strait': President Trump says US will charge 20% fee for ships using Strait of Hormuz",
-      "link": "https://www.mynbc5.com/article/guardian-of-the-strait-president-trump-says-us-will-charge-20-fee-for-ships-using-strait-of-hormuz/71922439",
-      "ts": "2026-07-13T23:19:00+00:00",
-      "summary": "President Donald Trump says ships will be charged 20% of their cargo’s value in exchange for U.S. protection in the Strait of Hormuz, but the administration has not explained who would pay, how the fee would be collected or what would happen to vessels that refuse."
-     },
-     {
-      "id": "71922482",
-      "title": "The Voice contestant, Plattsburgh native returns to the North Country to perform at Clinton Co. Fair",
-      "link": "https://www.mynbc5.com/article/the-voice-contestant-and-plattsburgh-native-returns-to-the-north-country-to-perform-at-clinton-county-fair/71922482",
-      "ts": "2026-07-13T22:55:00+00:00",
-      "summary": "This will be Liam von Elbe's first stage performance since he competed on the national TV show"
-     },
-     {
-      "id": "71922699",
-      "title": "President Trump reduces size of 2 national monuments in Utah as Republicans reshape land management",
-      "link": "https://www.mynbc5.com/article/trump-reduces-bears-ears-grand-staircase-national-monuments/71922699",
-      "ts": "2026-07-13T22:42:00+00:00",
-      "summary": "President Trump on Monday reduced the size of two national monuments in Utah, undoing protections established by former presidents on public lands that are sacred among many Native Americans."
      }
     ]
    },
    "btv-news-releases": {
     "items": [
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3852/639196181290000000",
+      "title": "07/14/2026 Aggravated Assault | 26BU015794",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3852",
+      "ts": "2026-07-14T14:28:49+00:00",
+      "summary": ""
+     },
      {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3851/639189245400000000",
       "title": "07/05/2026 Aggravated Assault | 26BU014857 and 26BU014859",
@@ -1455,6 +1462,13 @@
    "bpd-updates": {
     "items": [
      {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3852/639196181290000000",
+      "title": "07/14/2026 Aggravated Assault | 26BU015794",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3852",
+      "ts": "2026-07-14T14:28:49+00:00",
+      "summary": ""
+     },
+     {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3851/639189245400000000",
       "title": "07/05/2026 Aggravated Assault | 26BU014857 and 26BU014859",
       "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3851",
@@ -1477,6 +1491,30 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uw7zym",
+    "title": "Sepia Tone Filter Outside",
+    "url": "https://www.reddit.com/r/burlington/comments/1uw7zym/sepia_tone_filter_outside/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T14:02:25+00:00"
+   },
+   {
+    "id": "1uw676m",
+    "title": "Dog attack update #2",
+    "url": "https://www.reddit.com/r/burlington/comments/1uw676m/dog_attack_update_2/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T14:02:25+00:00"
+   },
+   {
+    "id": "1uw64xp",
+    "title": "Lost dog GPS tracker",
+    "url": "https://www.reddit.com/r/burlington/comments/1uw64xp/lost_dog_gps_tracker/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T14:02:25+00:00"
+   },
    {
     "id": "1uvse48",
     "title": "VTGreen R32, R16 tickets for sale.",
@@ -1612,30 +1650,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-13T14:00:57+00:00"
-   },
-   {
-    "id": "1uvby8q",
-    "title": "Where is everyone?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvby8q/where_is_everyone/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T14:00:57+00:00"
-   },
-   {
-    "id": "1uvbs28",
-    "title": "PSA: Highgate Border Crossing Closed",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvbs28/psa_highgate_border_crossing_closed/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T14:00:57+00:00"
-   },
-   {
-    "id": "1uv2db6",
-    "title": "Red Rocks",
-    "url": "https://www.reddit.com/r/burlington/comments/1uv2db6/red_rocks/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T11:00:59+00:00"
    }
   ]
  },
