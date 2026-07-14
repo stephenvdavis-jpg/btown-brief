@@ -512,7 +512,8 @@
     "start": "2026-07-15T18:30:00+00:00",
     "hasAgenda": true,
     "files": [
-     "Agenda"
+     "Agenda",
+     "Agenda Packet"
     ]
    },
    "10081": {
@@ -625,6 +626,13 @@
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651275",
+      "title": "The two Democrats running for Chittenden County sheriff couldn’t be more different",
+      "link": "https://vtdigger.org/2026/07/13/the-two-democrats-running-for-chittenden-county-sheriff-couldnt-be-more-different/",
+      "ts": "2026-07-13T23:39:46+00:00",
+      "summary": "Law enforcement outsider Kevin Bloom is challenging Sheriff Dan Gamelin, who is a career deputy. Bloom thinks they can use the office to reform eviction, while Gamelin counts some of the county’s biggest landlords among his friends. Read the story on VTDigger here: The two Democrats running for Chittenden County sheriff couldn’t be more different ."
+     },
      {
       "id": "https://vtdigger.org/?p=651273",
       "title": "Teen killer of Dartmouth professors in 2001 resentenced, eligible for parole in 20 years",
@@ -827,13 +835,6 @@
       "link": "https://vtdigger.org/2026/07/08/opinion-vermont-doesnt-have-a-housing-shortage-it-has-a-hoarding-problem/",
       "ts": "2026-07-08T20:05:13+00:00",
       "summary": "Vacant second homes and short-term rentals are the real driver of Vermont's housing crisis, not a lack of supply. Read the story on VTDigger here: Vermont doesn’t have a housing shortage. It has a hoarding problem. ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651026",
-      "title": "Vermont Judge Dickson Corbett remembered for kindness and dedication to the law",
-      "link": "https://vtdigger.org/2026/07/08/vermont-judge-dickson-corbett-remembered-for-kindness-and-dedication-to-the-law/",
-      "ts": "2026-07-08T19:54:53+00:00",
-      "summary": "“He was a true scholar of the law, so it was natural for him to be a judge,” said Orange County State’s Attorney Colin Seaman. Corbett died last week in his mid-40s. Read the story on VTDigger here: Vermont Judge Dickson Corbett remembered for kindness and dedication to the law ."
      }
     ]
    },
@@ -928,18 +929,18 @@
    "wcax": {
     "items": [
      {
+      "id": "3NXZDACAIJDFLDVC3D54ZCG4HU",
+      "title": "Vehicle crashes into Smugglers’ Notch Resort pool",
+      "link": "https://www.wcax.com/2026/07/13/vehicle-crashes-into-smugglers-notch-resort-pool/",
+      "ts": "2026-07-14T00:24:03+00:00",
+      "summary": "Police say that due to the age of the individuals involved, no further information will be released."
+     },
+     {
       "id": "OYW4JDPMOBDMJOPHKGWQFHNSQI",
       "title": "Dropped phone triggers false plane crash alert near Mt. Pisgah",
       "link": "https://www.wcax.com/2026/07/13/dropped-phone-triggers-false-plane-crash-alert/",
       "ts": "2026-07-13T22:31:47+00:00",
       "summary": "A hiker who dropped his phone off a cliff set off a large emergency response."
-     },
-     {
-      "id": "3NXZDACAIJDFLDVC3D54ZCG4HU",
-      "title": "Vehicle crashes into Smugglers’ Notch Resort pool",
-      "link": "https://www.wcax.com/2026/07/13/vehicle-crashes-into-smugglers-notch-resort-pool/",
-      "ts": "2026-07-13T22:22:50+00:00",
-      "summary": "No injuries were reported after an SUV went through a fence and into a swimming pool at the Smugglers' Notch Resort on Monday."
      },
      {
       "id": "MWRCTIZBY5BC7FS5P6DNHY3B7U",
@@ -1282,6 +1283,27 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71923543",
+      "title": "Record-setting dolphin stranding reported on Cape Cod",
+      "link": "https://www.mynbc5.com/article/dolphins-stranded-on-cape-cod/71923543",
+      "ts": "2026-07-14T00:44:00+00:00",
+      "summary": "Dozens of dolphins stranded on Cape Cod Monday in what rescuers say is Massachusetts' largest known bottlenose dolphin stranding."
+     },
+     {
+      "id": "71923183",
+      "title": "Sen. Graham's death looms large as lawmakers return to Capitol Hill",
+      "link": "https://www.mynbc5.com/article/sen-grahams-death-looms-large-as-lawmakers-return-to-capitol-hill/71923183",
+      "ts": "2026-07-14T00:15:00+00:00",
+      "summary": "As lawmakers mourn the sudden loss of one of their colleagues, Republicans must also grapple with the political implications of his death."
+     },
+     {
+      "id": "71923365",
+      "title": "Woman says 'yes' to proposal after injury on a mountain",
+      "link": "https://www.mynbc5.com/article/new-hampshire-mountain-rescue-proposal/71923365",
+      "ts": "2026-07-14T00:08:00+00:00",
+      "summary": "A mountain rescue took an unforgettable turn when a hiker proposed to his injured partner"
+     },
+     {
       "id": "71922439",
       "title": "'Guardian of the Strait': President Trump says US will charge 20% fee for ships using Strait of Hormuz",
       "link": "https://www.mynbc5.com/article/guardian-of-the-strait-president-trump-says-us-will-charge-20-fee-for-ships-using-strait-of-hormuz/71922439",
@@ -1387,13 +1409,6 @@
       "summary": "The Rutland County Humane Society is hosting its Fur-Ever Friends day camp this week where campers will make dog treats, cat toys and adoption posters, to help the animals"
      },
      {
-      "id": "71921896",
-      "title": "Photos: Vehicle drives into swimming pool at Smugglers Notch Resort; Person in police custody",
-      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
-      "ts": "2026-07-13T21:43:00+00:00",
-      "summary": "Police and first responders are at Smugglers Notch Resort in Jeffersonville on Monday after a vehicle crashed into a swimming pool earlier this afternoon."
-     },
-     {
       "id": "71920785",
       "title": "Mosquito samples from Vergennes test positive for West Nile Virus",
       "link": "https://www.mynbc5.com/article/vergennes-vermont-west-nile-virus/71920785",
@@ -1401,25 +1416,11 @@
       "summary": "Samples of mosquitoes collected in Vergennes have tested positive for West Nile Virus, according to a recent post from the Vermont Department of Health."
      },
      {
-      "id": "71918482",
-      "title": "US begins new Iran strikes after Trump says ships will be charged to use the Strait of Hormuz",
-      "link": "https://www.mynbc5.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
-      "ts": "2026-07-13T21:39:00+00:00",
-      "summary": "The U.S. announced a new round of strikes on Iran on Monday, hours after President Trump said that the United States is \"reinstating\" a blockade on Iran in the Strait of Hormuz"
-     },
-     {
-      "id": "71917963",
-      "title": "\"Not the target of the warrant.\" Person killed in shooting involving ICE in Biddeford, Maine",
-      "link": "https://www.mynbc5.com/article/significant-police-presence-pool-street-biddeford-maine/71917963",
-      "ts": "2026-07-13T21:27:00+00:00",
-      "summary": "Police closed part of busy Pool Street in Biddeford on Monday morning and there was a significant police presence."
-     },
-     {
-      "id": "71920198",
-      "title": "Rubio vows to 'dismantle' International Criminal Court",
-      "link": "https://www.mynbc5.com/article/rubio-dismantle-international-criminal-court/71920198",
-      "ts": "2026-07-13T21:19:00+00:00",
-      "summary": "Rubio accused the ICC of “waging a war against our country, not with bullets or missiles,” but with “the force of so-called international law.”"
+      "id": "71921896",
+      "title": "Photos: Vehicle drives into swimming pool at Smugglers Notch Resort; Person in police custody",
+      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
+      "ts": "2026-07-13T21:43:00+00:00",
+      "summary": "Police and first responders are at Smugglers Notch Resort in Jeffersonville on Monday after a vehicle crashed into a swimming pool earlier this afternoon."
      }
     ]
    },

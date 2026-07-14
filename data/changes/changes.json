@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13T23:23:27+00:00",
+ "generated": "2026-07-14T00:51:50+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -1408,6 +1408,28 @@
    "sourceName": "r/burlington",
    "priority": 1,
    "kind": "added"
+  },
+  {
+   "ts": "2026-07-13T23:39:46+00:00",
+   "category": "news",
+   "headline": "The two Democrats running for Chittenden County sheriff couldn’t be more different",
+   "detail": "",
+   "url": "https://vtdigger.org/2026/07/13/the-two-democrats-running-for-chittenden-county-sheriff-couldnt-be-more-different/",
+   "source": "vtdigger",
+   "sourceName": "VTDigger",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T00:51:54+00:00",
+   "category": "cityhall",
+   "headline": "Public Works Commission Meeting agenda posted",
+   "detail": "meets Wednesday, Jul 15",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/10064/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 2,
+   "kind": "changed"
   }
  ]
 }
