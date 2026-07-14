@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T11:59:39+00:00",
+  "updated": "2026-07-14T16:01:24+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -38,30 +38,6 @@
           "url": "https://www.reddit.com/r/vermont/comments/1uuqdd3/crochet_night_with_cats_this_friday_queen_city/",
           "sub": "r/vermont",
           "when": "2026-07-12T23:54:41+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "border-closed-crossing",
-      "label": "Highgate Border Crossing Closed",
-      "direction": "hot",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-14T04:03:42+00:00",
-      "sources": [
-        {
-          "title": "PSA: Highgate Border Crossing Closed",
-          "url": "https://www.reddit.com/r/vermont/comments/1uvbq3t/psa_highgate_border_crossing_closed/",
-          "sub": "r/vermont",
-          "when": "2026-07-14T04:03:42+00:00",
-          "comments": null
-        },
-        {
-          "title": "PSA: Highgate Border Crossing Closed",
-          "url": "https://www.reddit.com/r/burlington/comments/1uvbs28/psa_highgate_border_crossing_closed/",
-          "sub": "r/burlington",
-          "when": "2026-07-13T14:00:57+00:00",
           "comments": null
         }
       ]
@@ -181,6 +157,23 @@
           "comments": null
         }
       ]
+    },
+    {
+      "id": "comments-develops-experts",
+      "label": "As strong El Niño develops off the Pacific, experts say…",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-14T04:03:42+00:00",
+      "sources": [
+        {
+          "title": "As strong El Niño develops off the Pacific, experts say Vermont impact is tough to tease out",
+          "url": "https://www.reddit.com/r/vermont/comments/1uvm5jh/as_strong_el_ni%C3%B1o_develops_off_the_pacific/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T04:03:42+00:00",
+          "comments": null
+        }
+      ]
     }
   ],
   "highlights": [
@@ -220,11 +213,11 @@
     {
       "slot": "needs_help",
       "slot_label": "Someone needs help",
-      "title": "Missing cat in Monkton/Bristol",
-      "url": "https://www.reddit.com/r/vermont/comments/1uvc9ce/missing_cat_in_monktonbristol/",
-      "sub": "r/vermont",
-      "when": "2026-07-14T04:03:42+00:00",
-      "blurb": "We are missing our 13 year old cat named Snowflake. We have not seen her since about 6pm yesterday. She is all black with a white patch…",
+      "title": "Lost dog GPS tracker",
+      "url": "https://www.reddit.com/r/burlington/comments/1uw64xp/lost_dog_gps_tracker/",
+      "sub": "r/burlington",
+      "when": "2026-07-14T14:02:25+00:00",
+      "blurb": "Lost Black GPS tracker like in pic. My dog lost her GPS tracker somewhere between Camels Hump trails and Warren around end of June/early…",
       "comments": null,
       "unverified": false
     },
@@ -252,6 +245,13 @@
     }
   ],
   "rough": [
+    {
+      "title": "Dog attack update #2",
+      "url": "https://www.reddit.com/r/burlington/comments/1uw676m/dog_attack_update_2/",
+      "sub": "r/burlington",
+      "when": "2026-07-14T14:02:25+00:00",
+      "comments": null
+    },
     {
       "title": "Best home Internet?",
       "url": "https://www.reddit.com/r/burlington/comments/1uuz1gb/best_home_internet/",
@@ -282,10 +282,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 95,
+    "posts_scanned": 93,
     "per_source": {
-      "r/burlington": 48,
-      "r/vermont": 47
+      "r/burlington": 49,
+      "r/vermont": 44
     }
   }
 }
