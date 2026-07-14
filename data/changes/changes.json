@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14T20:34:14+00:00",
+ "generated": "2026-07-14T22:27:14+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -1848,6 +1848,94 @@
    "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-14T20:51:00+00:00",
+   "category": "news",
+   "headline": "Summer camps stay cool, adapt during heat waves",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/boys-and-girls-club-camps-heat-waves/71935086",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T21:36:01+00:00",
+   "category": "events",
+   "headline": "New event: Teen Art Club",
+   "detail": "today 2 PM · Winooski Memorial Library",
+   "url": "https://calendar.time.ly/nt0nyapn/event/78413833/20260714140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T21:36:01+00:00",
+   "category": "events",
+   "headline": "New event: CANCELLED - YSO ONE Farmer's Market (Dewey Park)",
+   "detail": "today 4 PM",
+   "url": "https://fletcherfree.libcal.com/event/17058136",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T21:36:01+00:00",
+   "category": "events",
+   "headline": "New event: Honky Tonk Tuesday",
+   "detail": "today 9 PM · Radio Bean",
+   "url": "https://www.helloburlingtonvt.com/event/honky-tonk-tuesday/1286/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T21:36:01+00:00",
+   "category": "events",
+   "headline": "New event: Tours",
+   "detail": "tomorrow 2 PM · Merrymac Farm Sanctuary",
+   "url": "https://www.helloburlingtonvt.com/event/tours/7464/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T21:36:01+00:00",
+   "category": "events",
+   "headline": "New event: Trivia Night",
+   "detail": "Thursday 6 PM · Four Quarters Brewing",
+   "url": "https://www.helloburlingtonvt.com/event/trivia-night/2647/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T21:36:01+00:00",
+   "category": "events",
+   "headline": "New event: Pomeroy Playground Grand Reopening",
+   "detail": "Jul 21 2 PM · - 355 North St Burlington VT 05401",
+   "url": "https://www.burlingtonvt.gov/calendar.aspx?EID=4929",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T21:36:01+00:00",
+   "category": "events",
+   "headline": "New event: Extreme Heat Training with APHA & Climate for Health",
+   "detail": "Jul 22 12 PM · UVM Health Offices",
+   "url": "https://events.uvm.edu/event/extreme-heat-training-July2026",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }
