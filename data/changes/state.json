@@ -379,11 +379,11 @@
  "gmt-alerts": {
   "items": [
    {
-    "id": "https://ridegmt.com/?p=24687",
-    "title": "Service Alert :: Essex Junction",
-    "link": "https://ridegmt.com/service-alert-essex-junction-2/",
-    "ts": "2026-07-10T14:19:14+00:00",
-    "summary": "The July 10 10:15 AM trip on Route 2 toward Burlington is experiencing significant delays of approximately 15 minutes due to maintenance. We apologize for the inconvenience."
+    "id": "https://ridegmt.com/?p=24678",
+    "title": "Service Alert :: #1 Williston & #6 Shelburne Rd",
+    "link": "https://ridegmt.com/service-alert-6-shelburne-rd/",
+    "ts": "2026-07-14T01:16:14+00:00",
+    "summary": "Buses on Route 1 and Route 6 will be on detour due to construction. Toward Burlington, stops from Main Street at Church Street through Pearl Street at Opposite North Champlain [ ]"
    },
    {
     "id": "https://ridegmt.com/?p=24075",
@@ -553,6 +553,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=211810",
+      "title": "Burlington City Council Approves Plan for Battery Storage System",
+      "link": "https://www.sevendaysvt.com/news/burlington-city-council-approves-plan-for-battery-storage-system/",
+      "ts": "2026-07-14T02:56:20+00:00",
+      "summary": "Battery energy storage systems have received community pushback in some places. But Burlington councilors unanimously approved a plan for one. The post Burlington City Council Approves Plan for Battery Storage System appeared first on Seven Days ."
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=211799",
       "title": "Magnificent 7: Must-See, Must-Do Events in and Around Vermont, July 15-22",
       "link": "https://www.sevendaysvt.com/arts-culture/magnificent7/magnificent-7-must-see-must-do-events-in-and-around-vermont-july-15-22/",
@@ -614,13 +621,6 @@
       "link": "https://www.sevendaysvt.com/life-lines/in-memoriam-allen-samuel-daniels-1934-2026/",
       "ts": "2026-07-10T10:00:00+00:00",
       "summary": "Lover of life and family charmed every room with his smile, jokes and dapper style The post In Memoriam: Allen Samuel Daniels, 1934-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211745",
-      "title": "Obituary: Tristram Gray Chase Jensvold, 1978-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-tristram-gray-chase-jensvold-1978-2026/",
-      "ts": "2026-07-10T10:00:00+00:00",
-      "summary": "Former Danville resident had a huge heart and loved outdoor activities, exploring the world and all animals The post Obituary: Tristram Gray Chase Jensvold, 1978-2026 appeared first on Seven Days . (Image: Courtesy)"
      }
     ]
    },
@@ -928,6 +928,13 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "K5PYJ4RK4NFTXHSO4TSI6MJF3M",
+      "title": "Burlington City Council approves battery storage system for McNeil Generating Station",
+      "link": "https://www.wcax.com/2026/07/14/burlington-city-council-approves-battery-storage-system-mcneil-generating-station/",
+      "ts": "2026-07-14T02:31:29+00:00",
+      "summary": "The Burlington City Council on Monday approved plans to purchase a battery storage system for the McNeil generating station."
+     },
      {
       "id": "3NXZDACAIJDFLDVC3D54ZCG4HU",
       "title": "Vehicle crashes into Smugglers’ Notch Resort pool",
@@ -1270,18 +1277,67 @@
       "link": "https://www.wcax.com/2026/07/10/storms-cause-damage-northeast-kingdom-street-flooding-barre-city/",
       "ts": "2026-07-10T16:14:00+00:00",
       "summary": "A strong storm that rolled through Lyndon and East Burke damaged trees and powerlines, meanwhile torrential rain caused street flooding in Barre City."
-     },
-     {
-      "id": "5NDVMZO6ANGBXAZBVB5MJUSCHQ",
-      "title": "Brattleboro ‘citizen journalist’ sues attorney general",
-      "link": "https://www.wcax.com/2026/07/10/brattleboro-citizen-journalist-sues-attorney-general/",
-      "ts": "2026-07-10T16:01:09+00:00",
-      "summary": "A provocative social media content creator is suing Vermont’s Attorneys General over a crackdown on artificial intelligence ads"
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71918482",
+      "title": "US attacks Iran and Tehran retaliates across the Middle East as both vie for control of strait",
+      "link": "https://www.mynbc5.com/article/trump-reinstates-blockade-iran-strait-of-hormuz/71918482",
+      "ts": "2026-07-14T04:11:00+00:00",
+      "summary": "The U.S. announced a new round of strikes on Iran on Monday, hours after President Trump said that the United States is \"reinstating\" a blockade on Iran in the Strait of Hormuz"
+     },
+     {
+      "id": "71924073",
+      "title": "Jordan Walker wins Home Run Derby",
+      "link": "https://www.mynbc5.com/article/jordan-walker-home-run-derby/71924073",
+      "ts": "2026-07-14T04:06:00+00:00",
+      "summary": "Wearing a backward cap just like Hall of Famer Ken Griffey Jr, the 24-year-old and 2020 first-round pick is having a breakout season for the Cardinals."
+     },
+     {
+      "id": "71921170",
+      "title": "Trump offers US protection in the Strait of Hormuz for a 20% fee. How would that work?",
+      "link": "https://www.mynbc5.com/article/trump-strait-of-hormuz-20percent-fee/71921170",
+      "ts": "2026-07-14T03:47:00+00:00",
+      "summary": "Since the U.S.-Israeli war with Iran broke out, shipping companies have been calling for greater protection for vessels to safely cross through the Strait of Hormuz"
+     },
+     {
+      "id": "71921896",
+      "title": "Photos: SUV drives into swimming pool at Smugglers' Notch Resort; Person in police custody",
+      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
+      "ts": "2026-07-14T03:10:00+00:00",
+      "summary": "'It hit my head and pulled me under': Child details scary moments when an SUV trapped him in a swimming pool at Smugglers' Notch Resort. VSP aren't releasing driver's identity at this time."
+     },
+     {
+      "id": "71918330",
+      "title": "Battery storage expansion approved for McNeil Generating Station",
+      "link": "https://www.mynbc5.com/article/burlington-vermont-bess-facility/71918330",
+      "ts": "2026-07-14T02:30:00+00:00",
+      "summary": "Burlington City Council gave unanimous approval to a new battery storage facility during Monday night's meeting. Here's why BED says the expansion would be good for ratepayers."
+     },
+     {
+      "id": "71921907",
+      "title": "WATCH: Arizona man still lacing up for ice hockey at 80 years old",
+      "link": "https://www.mynbc5.com/article/arizona-80-year-old-hockey-player-mike-mcconnell/71921907",
+      "ts": "2026-07-14T01:47:00+00:00",
+      "summary": "An Arizona man is gearing up for hockey tournaments just weeks before his 80th birthday"
+     },
+     {
+      "id": "71923398",
+      "title": "Survey reveals priorities for Burlington's next police chief",
+      "link": "https://www.mynbc5.com/article/survey-reveals-priorities-for-burlingtons-next-police-chief/71923398",
+      "ts": "2026-07-14T01:29:00+00:00",
+      "summary": "Burlington officials say they're looking for a police chief who can reduce crime while strengthening community trust. A national search has drawn 15 applicants, with interviews set to begin this month."
+     },
+     {
+      "id": "71918852",
+      "title": "Could the next World Cup have even more teams? FIFA is considering it",
+      "link": "https://www.mynbc5.com/article/world-cup-more-teams-fifa/71918852",
+      "ts": "2026-07-14T00:57:00+00:00",
+      "summary": "Could the next World Cup have even more teams? FIFA is considering it"
+     },
      {
       "id": "71923543",
       "title": "Record-setting dolphin stranding reported on Cape Cod",
@@ -1360,67 +1416,11 @@
       "summary": "After several recent outdoor rescues across the region – including a technical rescue at Lone Rock Point in Burlington – injury prevention experts say many emergencies can be prevented by planning ahead."
      },
      {
-      "id": "71918268",
-      "title": "UVM Medical Center resident physicians approve new contract with pay raise and benefits",
-      "link": "https://www.mynbc5.com/article/uvm-medical-center-resident-physicians-contract/71918268",
-      "ts": "2026-07-13T22:18:00+00:00",
-      "summary": "Resident physicians at UVM Medical Center have unanimously approved a new contract that includes a 10% pay raise, expanded benefits, and immigration protections."
-     },
-     {
       "id": "71922609",
       "title": "Democratic candidates for Vermont Lt. Gov push for nomination one month before primary",
       "link": "https://www.mynbc5.com/article/democratic-candidates-push-for-vt-lt-gov-nomination-one-month-before-primary/71922609",
       "ts": "2026-07-13T22:18:00+00:00",
       "summary": "Candidates for Vermont lieutenant governor push for support ahead of August primary"
-     },
-     {
-      "id": "71922551",
-      "title": "Burlington man pleads not guilty in alleged downtown sexual assault case",
-      "link": "https://www.mynbc5.com/article/burlington-sexual-assault-charge-smith/71922551",
-      "ts": "2026-07-13T22:15:00+00:00",
-      "summary": "A Burlington man has pleaded not guilty after being charged in connection with an alleged sexual assault reported in downtown Burlington last week."
-     },
-     {
-      "id": "71922548",
-      "title": "VSP: Plane crash alert on Mount Pisgah was a false alarm, sent by a hiker's phone",
-      "link": "https://www.mynbc5.com/article/hikers-phone-sends-automatic-alert-of-plane-crash-on-mount-pisgah-triggering-multi-agency-response/71922548",
-      "ts": "2026-07-13T22:11:00+00:00",
-      "summary": "Vermont State Police say multiple first responders mobilized to a possible plane crash on Mount Pisgah. Turns out, it was an automatic alert."
-     },
-     {
-      "id": "71921778",
-      "title": "Red Arrows flight team visits BETA Technologies, performs flyover",
-      "link": "https://www.mynbc5.com/article/red-arrows-flyover-beta/71921778",
-      "ts": "2026-07-13T22:00:00+00:00",
-      "summary": "The Royal Air Force’s Red Arrows aerobatic team visited Beta Technologies on Monday after performing two flyovers that morning."
-     },
-     {
-      "id": "71909375",
-      "title": "Soccer, not just American football, may affect long-term brain health, study suggests",
-      "link": "https://www.mynbc5.com/article/soccer-players-brain-health-study-midlife/71909375",
-      "ts": "2026-07-13T21:56:00+00:00",
-      "summary": "As the World Cup nears its final, a new study raises questions about whether long-term soccer head impacts could affect brain health."
-     },
-     {
-      "id": "71922389",
-      "title": "Vermont animal shelter hosts summer camp this week and camper's projects will benefit their animals",
-      "link": "https://www.mynbc5.com/article/vermont-animal-shelter-hosts-summer-camp-this-week-and-campers-projects-will-benefit-their-animals/71922389",
-      "ts": "2026-07-13T21:53:00+00:00",
-      "summary": "The Rutland County Humane Society is hosting its Fur-Ever Friends day camp this week where campers will make dog treats, cat toys and adoption posters, to help the animals"
-     },
-     {
-      "id": "71920785",
-      "title": "Mosquito samples from Vergennes test positive for West Nile Virus",
-      "link": "https://www.mynbc5.com/article/vergennes-vermont-west-nile-virus/71920785",
-      "ts": "2026-07-13T21:43:00+00:00",
-      "summary": "Samples of mosquitoes collected in Vergennes have tested positive for West Nile Virus, according to a recent post from the Vermont Department of Health."
-     },
-     {
-      "id": "71921896",
-      "title": "Photos: Vehicle drives into swimming pool at Smugglers Notch Resort; Person in police custody",
-      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
-      "ts": "2026-07-13T21:43:00+00:00",
-      "summary": "Police and first responders are at Smugglers Notch Resort in Jeffersonville on Monday after a vehicle crashed into a swimming pool earlier this afternoon."
      }
     ]
    },
@@ -1474,6 +1474,14 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uvse48",
+    "title": "VTGreen R32, R16 tickets for sale.",
+    "url": "https://www.reddit.com/r/burlington/comments/1uvse48/vtgreen_r32_r16_tickets_for_sale/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T02:03:05+00:00"
+   },
    {
     "id": "1uvqld0",
     "title": "Extreme Heat warning",
@@ -1622,14 +1630,6 @@
     "id": "1uv2db6",
     "title": "Red Rocks",
     "url": "https://www.reddit.com/r/burlington/comments/1uv2db6/red_rocks/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T11:00:59+00:00"
-   },
-   {
-    "id": "1uuz1gb",
-    "title": "Best home Internet?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uuz1gb/best_home_internet/",
     "score": null,
     "comments": null,
     "created": "2026-07-13T11:00:59+00:00"

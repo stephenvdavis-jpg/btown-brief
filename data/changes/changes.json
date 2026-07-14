@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14T00:51:50+00:00",
+ "generated": "2026-07-14T04:20:16+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -1430,6 +1430,72 @@
    "sourceName": "City meeting portal",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-14T01:16:14+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: #1 Williston & #6 Shelburne Rd",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-6-shelburne-rd/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T01:29:00+00:00",
+   "category": "news",
+   "headline": "Survey reveals priorities for Burlington's next police chief",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/survey-reveals-priorities-for-burlingtons-next-police-chief/71923398",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T02:03:05+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: VTGreen R32, R16 tickets for sale.",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uvse48/vtgreen_r32_r16_tickets_for_sale/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T02:30:00+00:00",
+   "category": "news",
+   "headline": "Battery storage expansion approved for McNeil Generating Station",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/burlington-vermont-bess-facility/71918330",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T02:31:29+00:00",
+   "category": "news",
+   "headline": "Burlington City Council approves battery storage system for McNeil Generating Station",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/14/burlington-city-council-approves-battery-storage-system-mcneil-generating-station/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T02:56:20+00:00",
+   "category": "news",
+   "headline": "Burlington City Council Approves Plan for Battery Storage System",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/news/burlington-city-council-approves-plan-for-battery-storage-system/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }
