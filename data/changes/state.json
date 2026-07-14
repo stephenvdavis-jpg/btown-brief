@@ -382,6 +382,13 @@
  "gmt-alerts": {
   "items": [
    {
+    "id": "https://ridegmt.com/?p=24691",
+    "title": "Service Alert :: Essex Junction",
+    "link": "https://ridegmt.com/service-alert-essex-junction-2/",
+    "ts": "2026-07-14T16:02:27+00:00",
+    "summary": "The July 14 11:45 AM trip on Route 2 toward Burlington has been canceled due to maintenance."
+   },
+   {
     "id": "https://ridegmt.com/?p=24367",
     "title": "Service Alert :: Winooski",
     "link": "https://ridegmt.com/service-alert-winooski-5/",
@@ -556,11 +563,46 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=211865",
+      "title": "New Vermont State Police Commander Rose Up Through the Ranks",
+      "link": "https://www.sevendaysvt.com/news/new-vermont-state-police-commander-rose-up-through-the-ranks/",
+      "ts": "2026-07-14T18:31:46+00:00",
+      "summary": "Shawn Loan, a 19-year veteran of the state police force, will take over from retiring Col. Matthew Birmingham next month. The post New Vermont State Police Commander Rose Up Through the Ranks appeared first on Seven Days . (Image: Courtesy photo)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=211857",
+      "title": "Argentinean Food and Brazilian Flavors Arrive in Quechee",
+      "link": "https://www.sevendaysvt.com/food-drink/restaurantreviews/argentinean-food-and-brazilian-flavors-arrive-in-quechee/",
+      "ts": "2026-07-14T16:50:37+00:00",
+      "summary": "At Two Bistro Café in the Upper Valley, Paula Fernandes and Adrian Abate serve up Brazilian pastries by morning and Argentinean meats into the evening. The post Argentinean Food and Brazilian Flavors Arrive in Quechee appeared first on Seven Days . (Image: Corin Hirsch)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=211854",
+      "title": "The Stone Pour to Open in Vergennes With Cocktails and Food",
+      "link": "https://www.sevendaysvt.com/food-drink/foodnews/the-stone-pour-to-open-in-vergennes-with-cocktails-and-food/",
+      "ts": "2026-07-14T16:45:04+00:00",
+      "summary": "Part speakeasy, part family-friendly restaurant, the new tenant of the downstairs space that was Bar Antidote will serve familiar favorites and martini flights. The post The Stone Pour to Open in Vergennes With Cocktails and Food appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=211849",
       "title": "Off the Record Vinyl and Coffee Shop Coming to Bristol",
       "link": "https://www.sevendaysvt.com/food-drink/foodnews/off-the-record-vinyl-and-coffee-shop-coming-to-bristol/",
       "ts": "2026-07-14T16:36:44+00:00",
       "summary": "Andy Wohl, who owns food biz Off the Hook at South Mountain Tavern, is opening a dual-purpose shop down the block using beans from Little Seed Coffee Roasters. The post Off the Record Vinyl and Coffee Shop Coming to Bristol appeared first on Seven Days . (Image: Jordan Barry)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=211889",
+      "title": "Obituary: Dr. Jay E. Keller, 1916-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-dr-jay-e-keller-1916-2026/",
+      "ts": "2026-07-14T10:00:00+00:00",
+      "summary": "Surgeon, veteran and volunteer was an active member of his church and a 22-year guide at the Shelburne Museum The post Obituary: Dr. Jay E. Keller, 1916-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=211883",
+      "title": "Obituary: Claudia Elizabeth Bagiackas, 1948-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-claudia-elizabeth-bagiackas-1948-2026/",
+      "ts": "2026-07-14T10:00:00+00:00",
+      "summary": "Cofounder of Central Vermont Montessori carried her foundational roots of family and spirituality with her throughout her full life The post Obituary: Claudia Elizabeth Bagiackas, 1948-2026 appeared first on Seven Days . (Image: Courtesy)"
      },
      {
       "id": "https://www.sevendaysvt.com/?p=211843",
@@ -589,46 +631,25 @@
       "link": "https://www.sevendaysvt.com/life-lines/inmemoriam/in-memoriam-nancy-fitch-1941-2026/",
       "ts": "2026-07-14T10:00:00+00:00",
       "summary": "Family and friends celebrate the life of the “keeper of the garden” The post In Memoriam: Nancy Fitch, 1941-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211810",
-      "title": "Burlington City Council Approves Plan for Battery Storage System",
-      "link": "https://www.sevendaysvt.com/news/burlington-city-council-approves-plan-for-battery-storage-system/",
-      "ts": "2026-07-14T02:56:20+00:00",
-      "summary": "Battery energy storage systems have received community pushback in some places. But Burlington councilors unanimously approved a plan for one. The post Burlington City Council Approves Plan for Battery Storage System appeared first on Seven Days ."
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211799",
-      "title": "Magnificent 7: Must-See, Must-Do Events in and Around Vermont, July 15-22",
-      "link": "https://www.sevendaysvt.com/arts-culture/magnificent7/magnificent-7-must-see-must-do-events-in-and-around-vermont-july-15-22/",
-      "ts": "2026-07-13T21:11:52+00:00",
-      "summary": "Explore our editor’s picks for must-do events in Vermont this week, including ’90s megastars Big Head Todd the Monsters at the WhistlePig Pavilion in Stowe. The post Magnificent 7: Must-See, Must-Do Events in and Around Vermont, July 15-22 appeared first on Seven Days . (Image: Courtesy of Kirsten Cohen)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211784",
-      "title": "In Memoriam: Peter Thomas McCaffrey, 1958-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/in-memoriam-peter-thomas-mccaffrey-1958-2026/",
-      "ts": "2026-07-13T10:00:00+00:00",
-      "summary": "A memorial Mass will be held for Peter Thomas McCaffrey on August 23, 2026, beginning at 9:30 a.m., at Christ the King Church, 136 Locust St., Burlington. The post In Memoriam: Peter Thomas McCaffrey, 1958-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211750",
-      "title": "Obituary: Elbert Howard “Shorty” Neff, 1930-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-elbert-howard-shorty-neff-1930-2026/",
-      "ts": "2026-07-13T10:00:00+00:00",
-      "summary": "Veteran was deeply invested in his community, loved people and always had a story to tell The post Obituary: Elbert Howard \"Shorty\" Neff, 1930-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211777",
-      "title": "State Of Vermont Superior Court, Civil Division, Chittenden Unit, Case No. 25-Sc 02830",
-      "link": "https://www.sevendaysvt.com/legal-notices/generalnotices/state-of-vermont-superior-court-civil-division-chittenden-unit-case-no-25-sc-02830/",
-      "ts": "2026-07-10T20:04:16+00:00",
-      "summary": "Daniel Turner, Plaintiff v. Robert St Francis, Jr., Defendant SUMMONS AND ORDER FOR PUBLICATION THIS SUMMONS IS DIRECTED TO: Robert St Francis, Jr. 1. YOU ARE BEING SUED. The plaintiff has started a small claims lawsuit against you. A copy of the Plaintiff’s Complaint against you is on file and may be obtained from the [ ] The post State Of Vermont Superior Court, Civil Division, Chittenden Unit, "
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651296",
+      "title": "High temps and high winds: What to know about Vermont’s possible severe weather today",
+      "link": "https://vtdigger.org/2026/07/14/high-temps-and-high-winds-what-to-know-about-vermonts-possible-severe-weather-today/",
+      "ts": "2026-07-14T17:36:08+00:00",
+      "summary": "The National Weather Service is forecasting enhanced risk of severe thunderstorms this evening and tonight. Read the story on VTDigger here: High temps and high winds: What to know about Vermont’s possible severe weather today ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651292",
+      "title": "No one struggling to pay rent can meet a $12,000 deductible",
+      "link": "https://vtdigger.org/2026/07/14/opinon-no-one-struggling-to-pay-rent-can-meet-a-12000-deductible/",
+      "ts": "2026-07-14T17:08:44+00:00",
+      "summary": "The people designing health insurance plans have lost touch with a basic fact: For many Vermonters, healthcare is a luxury they can't afford. Read the story on VTDigger here: No one struggling to pay rent can meet a $12,000 deductible ."
+     },
      {
       "id": "https://vtdigger.org/?p=651275",
       "title": "The two Democrats running for Chittenden County sheriff couldn’t be more different",
@@ -824,20 +845,6 @@
       "link": "https://vtdigger.org/2026/07/08/vermont-gets-1-3-million-to-settle-allegations-cash-app-did-not-shield-users-from-fraud/",
       "ts": "2026-07-08T21:01:54+00:00",
       "summary": "The currency transfer platform knew its app was prone to scams but failed to shut them down, even running promotions that exposed more users to fraud, Attorney General Charity Clark said. Read the story on VTDigger here: Vermont gets $1.3 million to settle allegations Cash App did not shield users from fraud ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651031",
-      "title": "Report: Norwich woman died of asphyxia",
-      "link": "https://vtdigger.org/2026/07/08/report-norwich-woman-died-of-asphyxia/",
-      "ts": "2026-07-08T20:12:49+00:00",
-      "summary": "The state police investigation into the death of former Vermont House member Noel A. Neely “remains active and ongoing.” Read the story on VTDigger here: Report: Norwich woman died of asphyxia ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651028",
-      "title": "Vermont doesn’t have a housing shortage. It has a hoarding problem.",
-      "link": "https://vtdigger.org/2026/07/08/opinion-vermont-doesnt-have-a-housing-shortage-it-has-a-hoarding-problem/",
-      "ts": "2026-07-08T20:05:13+00:00",
-      "summary": "Vacant second homes and short-term rentals are the real driver of Vermont's housing crisis, not a lack of supply. Read the story on VTDigger here: Vermont doesn’t have a housing shortage. It has a hoarding problem. ."
      }
     ]
    },
@@ -932,18 +939,53 @@
    "wcax": {
     "items": [
      {
+      "id": "2XSVKIDK2RA5BE2YLCXVC7SOCQ",
+      "title": "WCAX First Alert Weather App: How to get severe weather notifications",
+      "link": "https://www.wcax.com/2026/06/18/wcax-first-alert-weather-app-how-get-severe-weather-notifications/",
+      "ts": "2026-07-14T18:16:19+00:00",
+      "summary": "Our free WCAX First Alert Weather App is one way to receive weather alerts for your location directly to your phone. Here’s how to guarantee that you receive severe weather warnings using our weather app!"
+     },
+     {
+      "id": "6G7YHKLRMBAHVOU56SSYFXMRHY",
+      "title": "FIRST ALERT: Severe storms likely Tuesday",
+      "link": "https://www.wcax.com/2026/07/13/first-alert-hot-humid-stormy-tuesday/",
+      "ts": "2026-07-14T18:15:13+00:00",
+      "summary": "Tuesday is a First Alert Weather Day due to heat, humidity, and the potential for severe storms"
+     },
+     {
+      "id": "QPHIKPPPLFG3JESU7ASXH5B6WA",
+      "title": "Vermont utilities prep for possible severe storms",
+      "link": "https://www.wcax.com/2026/07/14/vermont-utilities-prep-possible-severe-storms/",
+      "ts": "2026-07-14T17:49:15+00:00",
+      "summary": "The combination of extreme heat and humidity could result in a chance for severe weather Tuesday evening."
+     },
+     {
+      "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
+      "title": "Small plane destroyed in Northern New York crash; no word on survivors",
+      "link": "https://www.wcax.com/2026/07/14/small-plane-destroyed-northern-new-york-crash-no-word-survivors/",
+      "ts": "2026-07-14T17:40:23+00:00",
+      "summary": "The NTSB is at the scene of a small plane crash that happened Monday night northwest of Saranac Lake in Harrietstown."
+     },
+     {
+      "id": "7OVXXZFVKRASPAAGUSGCBO3JRQ",
+      "title": "A festive occasion for Vermont’s craft beers",
+      "link": "https://www.wcax.com/2026/07/14/festive-occasion-vermonts-craft-beers/",
+      "ts": "2026-07-14T16:54:20+00:00",
+      "summary": "More than 40 breweries will participate in the 33rd annual Vermont Brewers Festival in Burlington this weekend"
+     },
+     {
+      "id": "ZNS2OJIL5FFAXBKTOKKFWIKI4Q",
+      "title": "New York won’t build big data centers for a year as it weighs energy and climate risks",
+      "link": "https://www.wcax.com/2026/07/14/new-york-wont-build-big-data-centers-year-it-weighs-energy-climate-risks/",
+      "ts": "2026-07-14T16:48:18+00:00",
+      "summary": "Gov. Kathy Hochul signed an executive order Tuesday imposing the country’s first statewide moratorium on hyperscale data centers."
+     },
+     {
       "id": "6VSY5LXZKNDN3NEV7PFH2KYYIM",
       "title": "Vermont State Police names new commander",
       "link": "https://www.wcax.com/2026/07/14/vermont-state-police-names-new-commander/",
       "ts": "2026-07-14T16:05:24+00:00",
       "summary": "Lt. Col. Shawn Loan will become the next commander of the Vermont State Police."
-     },
-     {
-      "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
-      "title": "Investigators at scene of small plane crash in Northern New York",
-      "link": "https://www.wcax.com/2026/07/14/investigators-scene-small-plane-crash-northern-new-york/",
-      "ts": "2026-07-14T16:03:10+00:00",
-      "summary": "First responders are investigating a small plane crash that occurred Monday northwest of Saranac Lake in Harrietstown."
      },
      {
       "id": "4QA34SU2YNG37N5G7JDVMIHFIM",
@@ -965,13 +1007,6 @@
       "link": "https://www.wcax.com/2026/07/14/uvm-finds-new-drug-fight-lung-cancer-could-be-game-changer/",
       "ts": "2026-07-14T11:56:46+00:00",
       "summary": "University of Vermont researchers say a new drug shows promise for patients with a rare form of lung cancer, mesothelioma."
-     },
-     {
-      "id": "6G7YHKLRMBAHVOU56SSYFXMRHY",
-      "title": "FIRST ALERT: Hot, humid, and stormy Tuesday",
-      "link": "https://www.wcax.com/2026/07/13/first-alert-hot-humid-stormy-tuesday/",
-      "ts": "2026-07-14T11:26:06+00:00",
-      "summary": "Tuesday is a First Alert Weather Day due to heat, humidity, and the potential for severe storms"
      },
      {
       "id": "TWXRMCQHBNHGJBYEERU5RTPS3M",
@@ -1077,13 +1112,6 @@
       "link": "https://www.wcax.com/2026/07/11/802-homes-release-free-home-design-catalog-aimed-lowering-construction-costs/",
       "ts": "2026-07-13T15:58:25+00:00",
       "summary": "A new project from the state of Vermont is aimed at lowering home prices and increasing availability."
-     },
-     {
-      "id": "2XSVKIDK2RA5BE2YLCXVC7SOCQ",
-      "title": "WCAX First Alert Weather App: How to get severe weather notifications",
-      "link": "https://www.wcax.com/2026/06/18/wcax-first-alert-weather-app-how-get-severe-weather-notifications/",
-      "ts": "2026-07-13T15:27:37+00:00",
-      "summary": "Our free WCAX First Alert Weather App is one way to receive weather alerts for your location directly to your phone. Here’s how to guarantee that you receive severe weather warnings using our weather app!"
      },
      {
       "id": "B7MJWVVJM5AHBOR34NND4KOY2Y",
@@ -1259,32 +1287,81 @@
       "link": "https://www.wcax.com/2026/07/10/bike-riding-tradition-brings-funds-fight-cancer/",
       "ts": "2026-07-10T21:36:10+00:00",
       "summary": "The Prouty is by far the Dartmouth Cancer Center’s largest fundraiser of the year, and this weekend organizers are looking to set a new record"
-     },
-     {
-      "id": "7QJ6I7NTKBBKLC4J3K3PWW2BLE",
-      "title": "Adirondack Land Trust adds 2,000 acres to holdings",
-      "link": "https://www.wcax.com/2026/07/10/adirondack-land-trust-adds-2000-acres-holdings/",
-      "ts": "2026-07-10T21:35:10+00:00",
-      "summary": "More than 2,000 acres of wilderness in Chesterfield, New York, are now part of the Adirondack Land Trust."
-     },
-     {
-      "id": "2CSNYXWP5REMJPYTKIFV2PLXKQ",
-      "title": "Okemo Mountain upgrades snowmaking equipment ahead of next ski season",
-      "link": "https://www.wcax.com/2026/07/10/okemo-mountain-upgrades-snowmaking-equipment-ahead-next-ski-season/",
-      "ts": "2026-07-10T21:34:39+00:00",
-      "summary": "Okemo Mountain Resort is investing in new snowmaking improvements that officials say will increase efficiency and reliability."
-     },
-     {
-      "id": "D5HVIPD72BCCNCKSHBSGCHYDXY",
-      "title": "Pets with Potential: Siobhan, Katinka, Starfish and Pacific",
-      "link": "https://www.wcax.com/2026/07/10/pets-with-potential-siobhan-katinka-starfish-pacific/",
-      "ts": "2026-07-10T21:30:49+00:00",
-      "summary": "Are you looking to add a new feline friend to your family? Meet these cats waiting for their forever homes!"
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71933663",
+      "title": "Capt. Sully Sullenberger, 'Miracle on the Hudson' pilot, announces Alzheimer's diagnosis",
+      "link": "https://www.mynbc5.com/article/capt-sully-sullenberger-alzheimer-s-miracle-on-the-hudson/71933663",
+      "ts": "2026-07-14T18:12:00+00:00",
+      "summary": "Capt. Chesley “Sully” Sullenberger, who famously landed a plane in the Hudson River in 2009, said he has been diagnosed with Alzheimer’s disease."
+     },
+     {
+      "id": "71930789",
+      "title": "Three dead following small plane crash in Saranac Lake, FAA reports",
+      "link": "https://www.mynbc5.com/article/lake-clear-new-york-plane-crash-mcmaster/71930789",
+      "ts": "2026-07-14T17:57:00+00:00",
+      "summary": "A pilot and two passengers onboard a small plane have died following a crash in Saranac Lake, according to the FAA. Here's what we know."
+     },
+     {
+      "id": "71933264",
+      "title": "Trump says Thursday address will focus on 'free and fair elections'",
+      "link": "https://www.mynbc5.com/article/trump-address-free-and-fair-elections/71933264",
+      "ts": "2026-07-14T17:50:00+00:00",
+      "summary": "President Donald Trump said that his Thursday night address will focus on “free and fair elections” and include “really big news.”"
+     },
+     {
+      "id": "71932712",
+      "title": "More than 25% of Gen Z patients don't have a primary care provider",
+      "link": "https://www.mynbc5.com/article/gen-z-young-patients-primary-care-doctors/71932712",
+      "ts": "2026-07-14T17:46:00+00:00",
+      "summary": "More than 1 in 4 young adults don't have a primary care provider, according to a recent national survey."
+     },
+     {
+      "id": "71929742",
+      "title": "Supreme Court justices tell Congress their safety is at risk and more must be spent on security",
+      "link": "https://www.mynbc5.com/article/supreme-court-kagan-barrett-congress-security-funding/71929742",
+      "ts": "2026-07-14T17:43:00+00:00",
+      "summary": "Supreme Court Justices Amy Coney Barrett and Elena Kagan appeared before Congress, seeking millions of dollars to enhance security amid rising threats to the judiciary."
+     },
+     {
+      "id": "71930982",
+      "title": "Warren Buffett omits annual donation to Bill Gates' foundation after his Epstein ties were disclosed",
+      "link": "https://www.mynbc5.com/article/warren-buffett-omits-donation-to-gates-foundation-epstein/71930982",
+      "ts": "2026-07-14T17:10:00+00:00",
+      "summary": "Billionaire Warren Buffett omitted Bill Gates' foundation from his annual donations this year after disclosures of the Microsoft co-founder's ties to convicted sex offender Jeffrey Epstein."
+     },
+     {
+      "id": "71931283",
+      "title": "Oil prices hit a one-month high after ceasefire collapse",
+      "link": "https://www.mynbc5.com/article/oil-prices-rise-us-iran-ceasefire/71931283",
+      "ts": "2026-07-14T17:09:00+00:00",
+      "summary": "Oil prices hit a one-month high following renewed threats on the Strait of Hormuz."
+     },
+     {
+      "id": "71932660",
+      "title": "Vermont State Police announce leadership change as Shawn Loan to lead agency",
+      "link": "https://www.mynbc5.com/article/vermont-state-police-shawn-loan-leadership-change/71932660",
+      "ts": "2026-07-14T17:01:00+00:00",
+      "summary": "Vermont State Police Col. Matthew Birmingham is retiring after 11 years, with Deputy Director Shawn Loan set to take over next month, focusing on data-driven prevention efforts."
+     },
+     {
+      "id": "71931322",
+      "title": "Could bulk buying be wasting your money?",
+      "link": "https://www.mynbc5.com/article/bulk-buying-items-worth-buying-in-bulk/71931322",
+      "ts": "2026-07-14T16:58:00+00:00",
+      "summary": "Bulk buying is only a deal if you use the products before they expire."
+     },
+     {
+      "id": "71932126",
+      "title": "Comedians Tom Segura and Christina Pazsitzky split after 18 years of marriage",
+      "link": "https://www.mynbc5.com/article/tom-segura-christina-pazsitzky-split-after-18-years/71932126",
+      "ts": "2026-07-14T16:48:00+00:00",
+      "summary": "Tom Segura and Christina Pazsitzky, who co-host the podcast \"Your Mom’s House,\" have split after 18 years of marriage, according to multiple media reports."
+     },
      {
       "id": "71922894",
       "title": "Intense wind, tornadoes possible Tuesday evening",
@@ -1298,13 +1375,6 @@
       "link": "https://www.mynbc5.com/article/heat-surges-tuesday-before-unusually-intense-storms-overnight-across-vermont-new-york/71914188",
       "ts": "2026-07-14T16:32:00+00:00",
       "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
-     },
-     {
-      "id": "71932660",
-      "title": "Vermont State Police announces leadership change as Shawn Loan to lead agency",
-      "link": "https://www.mynbc5.com/article/vermont-state-police-shawn-loan-leadership-change/71932660",
-      "ts": "2026-07-14T16:31:00+00:00",
-      "summary": "Vermont State Police Colonel Matthew Birmingham is retiring after 11 years, with Deputy Director Shawn Loan set to take over next month, focusing on data-driven prevention efforts."
      },
      {
       "id": "71932744",
@@ -1326,13 +1396,6 @@
       "link": "https://www.mynbc5.com/article/burlington-vermont-stabbing-a-dog-skatepark/71930775",
       "ts": "2026-07-14T16:16:00+00:00",
       "summary": "Police have arrested an unhoused man after a person was hit in the head and stabbed multiple times with a hiking pole near the Andy A-Dog Williams Skatepark on Tuesday."
-     },
-     {
-      "id": "71930789",
-      "title": "Small plane crash closes portion of Adirondack Rail Trail, DEC says",
-      "link": "https://www.mynbc5.com/article/lake-clear-new-york-plane-crash-mcmaster/71930789",
-      "ts": "2026-07-14T16:12:00+00:00",
-      "summary": "The New York Department of Environmental Conservation said a section of the Adirondack Rail Trail in Lake Clear is closed following a small plane crash in the area on Monday."
      },
      {
       "id": "71932499",
@@ -1363,67 +1426,11 @@
       "summary": "The Royal Air Force’s Red Arrows aerobatic team visited Beta Technologies on Monday after performing two flyovers that morning."
      },
      {
-      "id": "71930982",
-      "title": "Warren Buffett omits annual donation to Bill Gates' foundation after his Epstein ties were disclosed",
-      "link": "https://www.mynbc5.com/article/warren-buffett-omits-donation-to-gates-foundation-epstein/71930982",
-      "ts": "2026-07-14T15:44:00+00:00",
-      "summary": "Billionaire Warren Buffett omitted Bill Gates' foundation from his annual donations this year after disclosures of the Microsoft co-founder's ties to convicted sex offender Jeffrey Epstein."
-     },
-     {
       "id": "71922071",
       "title": "Argentina court recognizes 2 goldfish as sentient beings with rights",
       "link": "https://www.mynbc5.com/article/argentina-court-goldfish-sentient-beings/71922071",
       "ts": "2026-07-14T15:23:00+00:00",
       "summary": "\"They cease to be considered a thing, an object\" | Two goldfish have been recognized in an Argentine court as sentient beings with rights."
-     },
-     {
-      "id": "71835350",
-      "title": "There could be recalled food in your fridge and you may never know",
-      "link": "https://www.mynbc5.com/article/food-recalls-are-easy-to-miss-heres-how-to-protect-your-kitchen/71835350",
-      "ts": "2026-07-14T14:41:00+00:00",
-      "summary": "Expiration dates aren't enough. Here's how to check your kitchen for recalls."
-     },
-     {
-      "id": "71930218",
-      "title": "Experimental drug takes a new aim at Alzheimer’s, with promising early results",
-      "link": "https://www.mynbc5.com/article/alzheimer-s-experimental-drug/71930218",
-      "ts": "2026-07-14T13:49:00+00:00",
-      "summary": "For years, scientists have struggled to crack one of Alzheimer’s biggest mysteries. That may finally be changing."
-     },
-     {
-      "id": "71929742",
-      "title": "Supreme Court justices to testify before Congress on increasing security funding in rare appearance",
-      "link": "https://www.mynbc5.com/article/supreme-court-kagan-barrett-congress-security-funding/71929742",
-      "ts": "2026-07-14T13:22:00+00:00",
-      "summary": "Supreme Court Justices Amy Coney Barrett and Elena Kagan are set to appear before Congress, seeking millions of dollars to enhance security amid rising threats to the judiciary."
-     },
-     {
-      "id": "71921896",
-      "title": "Photos: SUV drives into swimming pool at Smugglers' Notch Resort; Person in police custody",
-      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-car-into-pool/71921896",
-      "ts": "2026-07-14T12:45:00+00:00",
-      "summary": "'It hit my head and pulled me under': Child details scary moments when an SUV trapped him in a swimming pool at Smugglers' Notch Resort. VSP aren't releasing driver's identity at this time."
-     },
-     {
-      "id": "71927757",
-      "title": "Is the renewed fighting with Iran the new normal? Here's what President Trump says",
-      "link": "https://www.mynbc5.com/article/is-renewed-fighting-with-iran-new-normal-what-trump-says/71927757",
-      "ts": "2026-07-14T12:02:00+00:00",
-      "summary": "President Donald Trump announced a renewed blockade of Iranian ports and a shipping toll through the Strait of Hormuz, as U.S.-Iranian military strikes continue to escalate."
-     },
-     {
-      "id": "71928972",
-      "title": "Trump says Reflecting Pool has been drained and will be ‘put back into service soon’",
-      "link": "https://www.mynbc5.com/article/washington-reflecting-pool-drained-trump/71928972",
-      "ts": "2026-07-14T11:48:00+00:00",
-      "summary": "President Donald Trump said the Lincoln Memorial Reflecting Pool was drained Monday to make repairs and that it “will be refilled and put back into service soon.”"
-     },
-     {
-      "id": "71928566",
-      "title": "Trump rolls out White House welcome mat for new Iraqi Prime Minister Ali al-Zaidi",
-      "link": "https://www.mynbc5.com/article/trump-iraq-prime-minister-ali-al-zaidi/71928566",
-      "ts": "2026-07-14T11:16:00+00:00",
-      "summary": "President Trump is welcoming Iraq's new prime minister to the White House to push for disarming a network of Iran-backed militias operating in the country."
      }
     ]
    },
@@ -1491,6 +1498,62 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uwc44r",
+    "title": "Available: Rory Scovel (x2) 7/14 at VCC",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwc44r/available_rory_scovel_x2_714_at_vcc/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T17:02:31+00:00"
+   },
+   {
+    "id": "1uwc2yf",
+    "title": "Burlington is Back!",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwc2yf/burlington_is_back/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T17:02:31+00:00"
+   },
+   {
+    "id": "1uwayx1",
+    "title": "Gillian Welch & David Rawlings at Shelburne Museum",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwayx1/gillian_welch_david_rawlings_at_shelburne_museum/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T17:02:31+00:00"
+   },
+   {
+    "id": "1uwau1a",
+    "title": "Heads up",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwau1a/heads_up/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T17:02:31+00:00"
+   },
+   {
+    "id": "1uwat2l",
+    "title": "Vt. town considering new rules for e-bikes and e-motos",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwat2l/vt_town_considering_new_rules_for_ebikes_and/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T17:02:31+00:00"
+   },
+   {
+    "id": "1uwag1y",
+    "title": "Visiting",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwag1y/visiting/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T17:02:31+00:00"
+   },
+   {
+    "id": "1uwa7zy",
+    "title": "Edible flowers",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwa7zy/edible_flowers/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-14T17:02:31+00:00"
+   },
    {
     "id": "1uw7zym",
     "title": "Sepia Tone Filter Outside",
@@ -1594,62 +1657,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-13T20:01:44+00:00"
-   },
-   {
-    "id": "1uvghwg",
-    "title": "Artwork for a good cause 💚",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvghwg/artwork_for_a_good_cause/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T17:01:32+00:00"
-   },
-   {
-    "id": "1uvghe5",
-    "title": "Finale! Urban Reserve project wrap-up party 7/14, w/ free ice cream",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvghe5/finale_urban_reserve_project_wrapup_party_714_w/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T17:01:32+00:00"
-   },
-   {
-    "id": "1uvfrht",
-    "title": "Are you hiring?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvfrht/are_you_hiring/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T17:01:32+00:00"
-   },
-   {
-    "id": "1uvfmtj",
-    "title": "Dogs at Leddy",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvfmtj/dogs_at_leddy/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T17:01:32+00:00"
-   },
-   {
-    "id": "1uvcye1",
-    "title": "THIS FRIDAY AT ODD FELLOWS! A night of punk, grunge and emo 💜💜",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvcye1/this_friday_at_odd_fellows_a_night_of_punk_grunge/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T17:01:32+00:00"
-   },
-   {
-    "id": "1uvc9lo",
-    "title": "Missing cat in Monkton/Bristol",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvc9lo/missing_cat_in_monktonbristol/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T14:00:57+00:00"
-   },
-   {
-    "id": "1uvbz1q",
-    "title": "Jack White in Essex Junction, a Bastille Day Moth StorySLAM, and a World Cup watch party at the library, plus a shakeup at the top of Vermont's commerce agency, and what the shelter accountability debate means for Burlington, your whole week is in the Monday Brief",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvbz1q/jack_white_in_essex_junction_a_bastille_day_moth/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-13T14:00:57+00:00"
    }
   ]
  },

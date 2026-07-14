@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14T16:41:52+00:00",
+ "generated": "2026-07-14T18:34:26+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -1652,6 +1652,17 @@
    "kind": "added"
   },
   {
+   "ts": "2026-07-14T16:02:27+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Essex Junction",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-essex-junction-2/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
    "ts": "2026-07-14T16:36:44+00:00",
    "category": "food",
    "headline": "Off the Record Vinyl and Coffee Shop Coming to Bristol",
@@ -1660,6 +1671,116 @@
    "source": "sevendays-news",
    "sourceName": "Seven Days",
    "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T16:45:04+00:00",
+   "category": "food",
+   "headline": "The Stone Pour to Open in Vergennes With Cocktails and Food",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/food-drink/foodnews/the-stone-pour-to-open-in-vergennes-with-cocktails-and-food/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T16:50:37+00:00",
+   "category": "food",
+   "headline": "Argentinean Food and Brazilian Flavors Arrive in Quechee",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/food-drink/restaurantreviews/argentinean-food-and-brazilian-flavors-arrive-in-quechee/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T16:54:20+00:00",
+   "category": "food",
+   "headline": "A festive occasion for Vermont’s craft beers",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/14/festive-occasion-vermonts-craft-beers/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T17:02:31+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Available: Rory Scovel (x2) 7/14 at VCC",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uwc44r/available_rory_scovel_x2_714_at_vcc/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T17:02:31+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Burlington is Back!",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uwc2yf/burlington_is_back/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T17:02:31+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Gillian Welch & David Rawlings at Shelburne Museum",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uwayx1/gillian_welch_david_rawlings_at_shelburne_museum/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T17:02:31+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Heads up",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uwau1a/heads_up/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T17:02:31+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Vt. town considering new rules for e-bikes and e-motos",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uwat2l/vt_town_considering_new_rules_for_ebikes_and/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T17:02:31+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Visiting",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uwag1y/visiting/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T18:31:46+00:00",
+   "category": "news",
+   "headline": "New Vermont State Police Commander Rose Up Through the Ranks",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/news/new-vermont-state-police-commander-rose-up-through-the-ranks/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
    "kind": "added"
   }
  ]
