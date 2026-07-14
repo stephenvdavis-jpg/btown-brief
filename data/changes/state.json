@@ -20,13 +20,13 @@
   "beaches": {
    "Blanchard Beach North": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-13T17:24:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-14T12:42:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-13T17:25:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-14T12:42:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
@@ -35,23 +35,23 @@
    },
    "Leddy Beach North": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-13T15:35:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-14T12:43:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-13T15:35:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-14T12:43:00+00:00"
    },
    "North Beach North": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-13T14:34:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-14T12:43:00+00:00"
    },
    "North Beach South": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-13T14:34:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-14T12:42:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -61,12 +61,12 @@
    "Oakledge Cove": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-13T17:51:00+00:00"
+    "resultTime": "2026-07-14T12:41:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-13T14:34:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-14T12:42:00+00:00"
    }
   }
  },
@@ -844,6 +844,13 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-14/meet-the-democratic-candidates-for-vermont-state-auditor",
+      "title": "Meet the Democratic candidates for Vermont state auditor",
+      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-14/meet-the-democratic-candidates-for-vermont-state-auditor",
+      "ts": "2026-07-14T12:32:30+00:00",
+      "summary": "The two Democrats vying for the state's top government watchdog position discuss their backgrounds and platforms."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
       "title": "UVM Medical Center inks its second contract with resident physicians",
       "link": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
@@ -919,18 +926,25 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-09/vermont-primary-election-2026-candidates-voting-districts",
       "ts": "2026-07-09T22:22:55+00:00",
       "summary": "Vermont's 2026 primary election is Tuesday, Aug. 11. Use our interactive guide to learn about your local candidates."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-09/dug-north-vermont-upbringing-prepared-him-grueling-survival-show-alone",
-      "title": "How Dug North’s Vermont upbringing prepared him for the grueling survival show 'Alone'",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-09/dug-north-vermont-upbringing-prepared-him-grueling-survival-show-alone",
-      "ts": "2026-07-09T21:13:29+00:00",
-      "summary": "North put skills learned in his youth to the test on the History Channel series. Now he’s passing them along."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "L7AIB5ERAJEEFLVBY2WVRE572U",
+      "title": "UVM finds new drug to fight lung cancer could be a game changer",
+      "link": "https://www.wcax.com/2026/07/14/uvm-finds-new-drug-fight-lung-cancer-could-be-game-changer/",
+      "ts": "2026-07-14T11:56:46+00:00",
+      "summary": "University of Vermont (UVM) researchers say a new drug shows promise for patients with a rare form of lung cancer"
+     },
+     {
+      "id": "6G7YHKLRMBAHVOU56SSYFXMRHY",
+      "title": "FIRST ALERT: Hot, humid, and stormy Tuesday",
+      "link": "https://www.wcax.com/2026/07/13/first-alert-hot-humid-stormy-tuesday/",
+      "ts": "2026-07-14T11:26:06+00:00",
+      "summary": "Tuesday is a First Alert Weather Day due to heat, humidity, and the potential for severe storms"
+     },
      {
       "id": "TWXRMCQHBNHGJBYEERU5RTPS3M",
       "title": "Vt. town considering new rules for e-bikes and e-motos",
@@ -1049,13 +1063,6 @@
       "link": "https://www.wcax.com/2026/07/13/locals-remember-murders-25-years-ago-that-rocked-communities/",
       "ts": "2026-07-13T13:11:19+00:00",
       "summary": "Both the Dartmouth College campus in Hanover, N.H., and the town of Chelsea, Vt. were shocked and devastated by the murders of professors Half and Susanne Zantop 25 years ago"
-     },
-     {
-      "id": "6G7YHKLRMBAHVOU56SSYFXMRHY",
-      "title": "FIRST ALERT: Hot, humid, and stormy Tuesday",
-      "link": "https://www.wcax.com/2026/07/13/first-alert-hot-humid-stormy-tuesday/",
-      "ts": "2026-07-13T12:36:40+00:00",
-      "summary": "Tuesday is a First Alert Weather Day due to heat, humidity, and the potential for severe storms"
      },
      {
       "id": "AADBQAFKBFAE7MSYPGBVHHQH6I",
@@ -1273,24 +1280,45 @@
       "link": "https://www.wcax.com/2026/07/10/donate-here-do-good-fest-returns-montpelier-this-weekend/",
       "ts": "2026-07-10T18:37:05+00:00",
       "summary": "Montpelier is the place to be this weekend as crowds converge on Saturday for the Do Good Fest."
-     },
-     {
-      "id": "ACHDUOWC6ZFUPHVS46ZA2X7JZI",
-      "title": "Micron semiconductor plant foundation poured in Clay, NY",
-      "link": "https://www.wcax.com/2026/07/10/micron-semiconductor-plant-foundation-poured-clay-ny/",
-      "ts": "2026-07-10T17:30:41+00:00",
-      "summary": "The foundation has been poured for what is expected to be the largest semiconductor manufacturing plant in the United States, located in the town of Clay."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "71929114",
+      "title": "Why it's so difficult for the US to fully reopen the Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/reopen-strait-of-hormuz-iran-united-states/71929114",
+      "ts": "2026-07-14T12:04:00+00:00",
+      "summary": "Why is it so difficult for the U.S. to fully reopen the Strait of Hormuz? Here’s what the experts say."
+     },
+     {
+      "id": "71927757",
+      "title": "Is the renewed fighting with Iran the new normal? Here's what President Trump says",
+      "link": "https://www.mynbc5.com/article/is-renewed-fighting-with-iran-new-normal-what-trump-says/71927757",
+      "ts": "2026-07-14T12:02:00+00:00",
+      "summary": "President Donald Trump announced a renewed blockade of Iranian ports and a shipping toll through the Strait of Hormuz, as U.S.-Iranian military strikes continue to escalate."
+     },
+     {
+      "id": "71928972",
+      "title": "Trump says Reflecting Pool has been drained and will be ‘put back into service soon’",
+      "link": "https://www.mynbc5.com/article/washington-reflecting-pool-drained-trump/71928972",
+      "ts": "2026-07-14T11:48:00+00:00",
+      "summary": "President Donald Trump said the Lincoln Memorial Reflecting Pool was drained Monday to make repairs and that it “will be refilled and put back into service soon.”"
+     },
+     {
       "id": "71914188",
       "title": "Heat surges Tuesday before 'unusually intense' storms late across Vermont, New York",
       "link": "https://www.mynbc5.com/article/heat-surges-tuesday-before-unusually-intense-storms-overnight-across-vermont-new-york/71914188",
-      "ts": "2026-07-14T09:59:00+00:00",
+      "ts": "2026-07-14T11:47:00+00:00",
       "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
+     },
+     {
+      "id": "71928566",
+      "title": "Trump rolls out White House welcome mat for new Iraqi Prime Minister Ali al-Zaidi",
+      "link": "https://www.mynbc5.com/article/trump-iraq-prime-minister-ali-al-zaidi/71928566",
+      "ts": "2026-07-14T11:16:00+00:00",
+      "summary": "President Trump is welcoming Iraq's new prime minister to the White House to push for disarming a network of Iran-backed militias operating in the country."
      },
      {
       "id": "71925523",
@@ -1396,34 +1424,6 @@
       "link": "https://www.mynbc5.com/article/trump-reduces-bears-ears-grand-staircase-national-monuments/71922699",
       "ts": "2026-07-13T22:42:00+00:00",
       "summary": "President Trump on Monday reduced the size of two national monuments in Utah, undoing protections established by former presidents on public lands that are sacred among many Native Americans."
-     },
-     {
-      "id": "71922894",
-      "title": "Intense wind, tornadoes possible Tuesday evening",
-      "link": "https://www.mynbc5.com/article/intense-wind-tornadoes-possible-tuesday-evening71326/71922894",
-      "ts": "2026-07-13T22:36:27+00:00",
-      "summary": "Northern areas most at risk"
-     },
-     {
-      "id": "71902238",
-      "title": "Family seeks answers after 18-year-old found dead off Mississippi coast",
-      "link": "https://www.mynbc5.com/article/nolan-wells-mississippi-gulf-coast-death-investigation/71902238",
-      "ts": "2026-07-13T22:30:00+00:00",
-      "summary": "Nolan Xavier Wells was found dead two days after leaving for a boat trip with friends to celebrate the Fourth of July on an island off Mississippi’s Gulf Coast. The 18-year-old's parents say what happened is a mystery riddled with conflicting stories, and missing details."
-     },
-     {
-      "id": "71922662",
-      "title": "Social media users spread conspiracy theories about Mitch McConnell after photo release",
-      "link": "https://www.mynbc5.com/article/conspiracy-theories-mitch-mcconnell-photo-release/71922662",
-      "ts": "2026-07-13T22:24:00+00:00",
-      "summary": "Social media users spread conspiracy theories about Mitch McConnell after photo release"
-     },
-     {
-      "id": "71921902",
-      "title": "After recent rescues, experts urge hikers to plan ahead",
-      "link": "https://www.mynbc5.com/article/hiking-safety-reminders-after-recent-rescues/71921902",
-      "ts": "2026-07-13T22:21:00+00:00",
-      "summary": "After several recent outdoor rescues across the region – including a technical rescue at Lone Rock Point in Burlington – injury prevention experts say many emergencies can be prevented by planning ahead."
      }
     ]
    },
@@ -1642,524 +1642,12 @@
  "events-local": {
   "items": [
    {
-    "id": "a9767a90f037",
-    "title": "Get Hip: Liberate Your Pelvis (at Chace Mill)",
-    "link": "https://www.facebook.com/events/912113141399815/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-13T08:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "05c8546d32b1",
-    "title": "Art Wall - Vibrant Lives: Discovering Our Roots of Black Vermont",
-    "link": "https://southburlingtonlibrary.org/art-wall-vibrant-lives-discovering-our-roots-of-black-vermont",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T09:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "9405776e6b35",
+    "id": "39d04530a66c",
     "title": "Grab-&-Go Kit: Boba Tea",
     "link": "https://southburlingtonlibrary.org/grab-and-go-kit-boba-tea",
     "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T09:00:00-04:00",
+    "start": "2026-07-14T09:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "459b8d3ae428",
-    "title": "FREE July Fitness Series: Tai Chi",
-    "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQzNDY0OTM=",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T09:00:00-04:00",
-    "venue": "Wheeler Homestead"
-   },
-   {
-    "id": "8a6d1936c2bf",
-    "title": "2-Day CSM Training | Certified ScrumMaster Course in Burlington, VT",
-    "link": "https://www.eventbrite.com/e/2-day-csm-training-certified-scrummaster-course-in-burlington-vt-tickets-1987514058050",
-    "ts": "2026-07-11T17:24:06-04:00",
-    "start": "2026-07-13T09:00:00-04:00",
-    "venue": "300 Interstate Corporate Ctr"
-   },
-   {
-    "id": "4694293bda24",
-    "title": "Trolley tours",
-    "link": "https://www.helloburlingtonvt.com/event/trolley-tours/4244/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T09:00:00-04:00",
-    "venue": "Perkins Pier"
-   },
-   {
-    "id": "263e8b6915f9",
-    "title": "Conservation on View",
-    "link": "https://shelburnemuseum.org/event/conservation-on-view/2026-07-13/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T10:00:00-04:00",
-    "venue": "Shelburne Museum"
-   },
-   {
-    "id": "5c1608b1fc87",
-    "title": "'Champ: America’s Lake Monster' Exhibit",
-    "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "3bf01323b095",
-    "title": "Glass Factory and Storefront Open !!",
-    "link": "https://www.helloburlingtonvt.com/event/glass-factory-and-storefront-open-!!/5584/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T10:00:00-04:00",
-    "venue": "AO Glass"
-   },
-   {
-    "id": "79e3300b7e4c",
-    "title": "Tech Help with Clif",
-    "link": "https://brownelllibrary.org/event/tech-help-with-clif/2026-07-13/",
-    "ts": "2026-07-11T17:24:06-04:00",
-    "start": "2026-07-13T10:30:00-04:00",
-    "venue": "Brownell Library"
-   },
-   {
-    "id": "a4706e4bbd3d",
-    "title": "'Wild Rescue 3D'",
-    "link": "https://community.sevendaysvt.com/event/wild-rescue-3d-45162401",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T10:30:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "3b1a11488583",
-    "title": "Summertime Stories and Crafts for Kids!",
-    "link": "https://fletcherfree.libcal.com/event/16697932",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T11:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "7132dd826ffb",
-    "title": "Random Acts of Kindness Spree in Burlington VT",
-    "link": "https://www.eventbrite.com/e/random-acts-of-kindness-spree-in-burlington-vt-tickets-1991105765945",
-    "ts": "2026-07-12T17:31:33-04:00",
-    "start": "2026-07-13T11:00:00-04:00",
-    "venue": "Speeder & Earl's Coffee"
-   },
-   {
-    "id": "4f761fb64da4",
-    "title": "Burlington Blitz (VT) Scavenger Hunt",
-    "link": "https://www.eventbrite.com/e/burlington-blitz-vt-scavenger-hunt-tickets-1979063377838",
-    "ts": "2026-07-12T17:31:33-04:00",
-    "start": "2026-07-13T11:00:00-04:00",
-    "venue": "Speeder & Earl's Coffee"
-   },
-   {
-    "id": "04b0ce63ef04",
-    "title": "Mindful Wellness Walk in Burlington",
-    "link": "https://www.eventbrite.com/e/mindful-wellness-walk-in-burlington-tickets-1991499367217",
-    "ts": "2026-07-12T17:31:33-04:00",
-    "start": "2026-07-13T11:00:00-04:00",
-    "venue": "Speeder & Earl's Coffee"
-   },
-   {
-    "id": "b2159223660c",
-    "title": "Burlington Bash Scavenger Hunt",
-    "link": "https://www.eventbrite.com/e/burlington-bash-scavenger-hunt-tickets-1980895760544",
-    "ts": "2026-07-12T17:31:33-04:00",
-    "start": "2026-07-13T11:00:00-04:00",
-    "venue": "Speeder & Earl's Coffee"
-   },
-   {
-    "id": "779c75f16da1",
-    "title": "'Shark Kingdom 3D'",
-    "link": "https://community.sevendaysvt.com/event/shark-kingdom-3d-44971419",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T11:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "8e9554e9e84d",
-    "title": "YSO Edmunds Elementary",
-    "link": "https://fletcherfree.libcal.com/event/17057810",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T11:30:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "695f06cb0871",
-    "title": "'Dinosaurs of Antarctica 3D'",
-    "link": "https://community.sevendaysvt.com/event/dinosaurs-of-antarctica-3d-44804713",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T11:30:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "d3baedac977f",
-    "title": "Creative Co-Working",
-    "link": "https://www.eventbrite.com/e/creative-co-working-registration-1990108929380",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T12:00:00-04:00",
-    "venue": "The S.P.A.C.E. Gallery"
-   },
-   {
-    "id": "524f0b5d230d",
-    "title": "'Backyard Wilderness 3D'",
-    "link": "https://community.sevendaysvt.com/event/backyard-wilderness-3d-44810610",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T12:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "0049a7969073",
-    "title": "Cruise aboard the Spirit of Ethan Allen III",
-    "link": "https://www.helloburlingtonvt.com/event/cruise-aboard-the-spirit-of-ethan-allen-iii/6292/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T12:00:00-04:00",
-    "venue": "Spirit of Ethan Allen"
-   },
-   {
-    "id": "79e3300b7e4c-1300",
-    "title": "Tech Help with Clif",
-    "link": "https://brownelllibrary.org/event/tech-help-with-clif-2/",
-    "ts": "2026-07-11T17:24:06-04:00",
-    "start": "2026-07-13T13:00:00-04:00",
-    "venue": "Brownell Library"
-   },
-   {
-    "id": "b322e8fc17f1",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260713140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
-    "id": "b77265c83996",
-    "title": "YSO Battery Park",
-    "link": "https://fletcherfree.libcal.com/event/17127676",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T14:30:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "37b4c53a5641",
-    "title": "The Pharaoh's Secret: A Puzzle Mystery",
-    "link": "https://southburlingtonlibrary.org/the-pharaohs-secret-a-puzzle-mystery",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T15:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "aebf700a095d",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260713153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T15:30:00-07:00",
-    "venue": ""
-   },
-   {
-    "id": "971df62922b3",
-    "title": "YSO Intervale Community Barn",
-    "link": "https://fletcherfree.libcal.com/event/17058518",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T16:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "fd17faf38eec",
-    "title": "Pokémon Club",
-    "link": "https://community.sevendaysvt.com/event/pokemon-club-40325272",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T16:00:00-04:00",
-    "venue": "Dorothy Alling Memorial Library"
-   },
-   {
-    "id": "2b6fb22af19e",
-    "title": "Half Priced Oysters at La Reprise",
-    "link": "https://www.helloburlingtonvt.com/event/half-priced-oysters-at-la-reprise/7709/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T16:00:00-04:00",
-    "venue": "La Reprise"
-   },
-   {
-    "id": "f2efdcd2a317",
-    "title": "Skiff Oyster Hour",
-    "link": "https://www.helloburlingtonvt.com/event/skiff-oyster-hour/5005/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T16:00:00-04:00",
-    "venue": "Hilton Burlington Lake Champlain"
-   },
-   {
-    "id": "ccca0d793923",
-    "title": "Crowdsourced VT Shrek with Media Factory",
-    "link": "https://fletcherfree.libcal.com/event/16733646",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T16:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "63cb9f576cf0",
-    "title": "FREE July Fitness Series: HWPO Gym VT Functional Fitness in the Park",
-    "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQzNDY0OTQ=",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T17:00:00-04:00",
-    "venue": "Veterans Memorial Park"
-   },
-   {
-    "id": "52297dd991d0",
-    "title": "Half Priced Wine at The Daily Planet",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78067600/20260713170000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T17:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "88d793f39cf6",
-    "title": "Marshmallow Roast and Campfire Songs",
-    "link": "https://brownelllibrary.org/event/marshmallow-roast-and-campfire-songs/",
-    "ts": "2026-07-12T06:59:21-04:00",
-    "start": "2026-07-13T17:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "efe0bf8926f5",
-    "title": "Campfire Songs & Marshmallow Roast",
-    "link": "https://community.sevendaysvt.com/event/campfire-songs-and-marshmallow-roast-45276021",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T17:00:00-04:00",
-    "venue": "Brownell Library"
-   },
-   {
-    "id": "12003b62b5b5",
-    "title": "Skirack's Run Club",
-    "link": "https://www.facebook.com/events/998796849426240/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-13T17:45:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "58c8cd31c4d2",
-    "title": "Pajama Storytime",
-    "link": "https://southburlingtonlibrary.org/pajama-storytime",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "937fd458ed35",
-    "title": "Adult Drop- In Table Tennis",
-    "link": "https://www.burlingtonvt.gov/calendar.aspx?EID=4630",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "Robert Miller Community & Recreation Center"
-   },
-   {
-    "id": "0f129fe5e03f",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-13T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
-    "id": "49612c6af89f",
-    "title": "Smart Cycling Workshops with E-Bikes",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-13T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "Local Motion"
-   },
-   {
-    "id": "42f1f6a6f9c3",
-    "title": "Novice Monday: Group MTB Ride",
-    "link": "https://www.facebook.com/events/1481766720261154/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "3827d53f79db",
-    "title": "Movies for Makers: 'Pitch Perfect'",
-    "link": "https://community.sevendaysvt.com/event/movies-for-makers-pitch-perfect-45165865",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "Partizanfilm"
-   },
-   {
-    "id": "d583dc1d55d6",
-    "title": "Anime Group",
-    "link": "https://community.sevendaysvt.com/event/anime-group-44975802",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "Pathways Vermont Morgan's Place Peer Support Center"
-   },
-   {
-    "id": "f3efadc4661e",
-    "title": "Monday Night Open Mic",
-    "link": "https://community.sevendaysvt.com/event/monday-night-open-mic-44612935",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "Pearl Street Pub"
-   },
-   {
-    "id": "2fb72aee41af",
-    "title": "Trivia Monday",
-    "link": "https://community.sevendaysvt.com/event/trivia-monday-42603487",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "Essex Experience"
-   },
-   {
-    "id": "2da6b2fad5b0",
-    "title": "Burlington Elks Bingo",
-    "link": "https://community.sevendaysvt.com/event/burlington-elks-bingo-42890349",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:00:00-04:00",
-    "venue": "Burlington Elks Lodge 916"
-   },
-   {
-    "id": "65618dc342d2",
-    "title": "MEDITATION CLASS: Living a Meaningful Life Meditations",
-    "link": "https://www.meetup.com/burlington-meditation-and-buddhism/events/315447100/",
-    "ts": "2026-07-13T17:34:21-04:00",
-    "start": "2026-07-13T18:30:00-04:00",
-    "venue": "Burlington Friends Meeting House"
-   },
-   {
-    "id": "469762ef592d",
-    "title": "Heather Layne night of Music and Testimony",
-    "link": "https://www.facebook.com/events/1326770776288124/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-13T18:30:00-04:00",
-    "venue": "Daybreak Community Church"
-   },
-   {
-    "id": "396f38509e87",
-    "title": "Colchester, Vermont",
-    "link": "https://www.facebook.com/events/865861593239142/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-13T18:30:00-04:00",
-    "venue": "Daybreak Community Church"
-   },
-   {
-    "id": "235293c735a7",
-    "title": "Collage Collective",
-    "link": "https://community.sevendaysvt.com/event/collage-collective-41867973",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T18:30:00-04:00",
-    "venue": "Expressive Arts Burlington"
-   },
-   {
-    "id": "ea1c125d6623",
-    "title": "Community of Poets Sharing Circle with Darlene Witte July 13 2026 7 PM",
-    "link": "https://www.meetup.com/community-of-poets-sharing-circle-with-darlene-witte-phd/events/315280234/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T19:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "8e2620e1d6c8",
-    "title": "Cancer New Moon Circle",
-    "link": "https://www.meetup.com/sacred-sisters-circles/events/315641613/",
-    "ts": "2026-07-13T17:34:21-04:00",
-    "start": "2026-07-13T19:00:00-04:00",
-    "venue": "Oakledge Park"
-   },
-   {
-    "id": "7406de0b2afc",
-    "title": "Monday Night Live",
-    "link": "https://community.sevendaysvt.com/event/monday-night-live-44684727",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T19:00:00-04:00",
-    "venue": "Outright Vermont"
-   },
-   {
-    "id": "087f15a9a45f",
-    "title": "Trivia Monday with Top Hat Entertainment",
-    "link": "https://community.sevendaysvt.com/event/trivia-monday-with-top-hat-entertainment-40925080",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T19:00:00-04:00",
-    "venue": "McKee's Original"
-   },
-   {
-    "id": "203f3bcc64bb",
-    "title": "Trivia with Craig Mitchell",
-    "link": "https://community.sevendaysvt.com/event/trivia-with-craig-mitchell-40943661",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T19:00:00-04:00",
-    "venue": "Monkey House"
-   },
-   {
-    "id": "1174f8a4b78d",
-    "title": "Open Mic",
-    "link": "https://community.sevendaysvt.com/event/open-mic-45291396",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T19:00:00-04:00",
-    "venue": "Stone Corral Brewery"
-   },
-   {
-    "id": "f0d038f7d901",
-    "title": "Lomelda, Plume Girl, Home Baker",
-    "link": "https://community.sevendaysvt.com/event/lomelda-plume-girl-home-baker-45289063",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T19:30:00-04:00",
-    "venue": "Radio Bean"
-   },
-   {
-    "id": "ef172a55dd34",
-    "title": "Burlington Watches Together",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78365468/20260713210000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13T21:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "28e763eef7a5",
-    "title": "Everything is Everything: Will Kasso Condry",
-    "link": "https://www.burlingtoncityarts.org/exhibition/everything-everything-will-kasso-condry",
-    "ts": "2026-07-13T08:21:43-04:00",
-    "start": "2026-07-13",
-    "venue": "BCA Center"
-   },
-   {
-    "id": "d57df4d8d83f",
-    "title": "Dream / Mộng : Veronica Pham",
-    "link": "https://www.burlingtoncityarts.org/exhibition/dream-mong-veronica-pham",
-    "ts": "2026-07-13T08:21:43-04:00",
-    "start": "2026-07-13",
-    "venue": "BCA Center"
-   },
-   {
-    "id": "58879aac8442",
-    "title": "Color & Scale: Leah Barranco",
-    "link": "https://www.burlingtoncityarts.org/exhibition/color-scale-leah-barranco",
-    "ts": "2026-07-13T08:21:43-04:00",
-    "start": "2026-07-13",
-    "venue": "BCA Center"
-   },
-   {
-    "id": "a0912d5debbc",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13",
-    "venue": ""
-   },
-   {
-    "id": "b8454c653f01",
-    "title": "Industry Day",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78304357/20260713000000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13",
-    "venue": "Vermont Pub and Brewery"
-   },
-   {
-    "id": "3b8a0219ee2f",
-    "title": "Rachel Rodi and A Fellow Traveler",
-    "link": "https://community.sevendaysvt.com/event/rachel-rodi-and-a-fellow-traveler-45069952",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-13",
-    "venue": "Flynndog Gallery"
    },
    {
     "id": "c3863e83cbf9",
@@ -2250,14 +1738,6 @@
     "venue": "Vermont Comedy Club"
    },
    {
-    "id": "39d04530a66c",
-    "title": "Grab & Go Kit: Boba Tea",
-    "link": "https://community.sevendaysvt.com/event/grab-and-go-kit-boba-tea-45226562",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-14T09:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "488fd26c06aa",
     "title": "Trolley tours",
     "link": "https://www.helloburlingtonvt.com/event/trolley-tours/4244/",
@@ -2320,14 +1800,6 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-14T10:00:00-04:00",
     "venue": ""
-   },
-   {
-    "id": "6fcd40d418ea",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-14T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "b87978aff9d8",
@@ -2674,6 +2146,22 @@
     "venue": "Fletcher Free Library"
    },
    {
+    "id": "b01c74703872",
+    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-14T18",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-14T18:00:00-04:00",
+    "venue": "ArtsRiot"
+   },
+   {
+    "id": "01a5c7ce6d6b",
+    "title": "Smart Cycling Workshops with E-Bikes",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-14T18",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-14T18:00:00-04:00",
+    "venue": "Local Motion"
+   },
+   {
     "id": "ea3b3a6870de",
     "title": "Local Dork Vinyl DJ Night",
     "link": "https://www.facebook.com/events/1471864834133647/",
@@ -2744,22 +2232,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-14T18:00:00-04:00",
     "venue": "Maglianero"
-   },
-   {
-    "id": "b01c74703872",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-14T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-14T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
-    "id": "01a5c7ce6d6b",
-    "title": "Smart Cycling Workshops with E-Bikes",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-14T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-14T18:00:00-04:00",
-    "venue": "Local Motion"
    },
    {
     "id": "807d98b91c45",
@@ -2890,6 +2362,38 @@
     "venue": "The 126"
    },
    {
+    "id": "c5000924cd6c",
+    "title": "Everything is Everything: Will Kasso Condry",
+    "link": "https://www.burlingtoncityarts.org/exhibition/everything-everything-will-kasso-condry",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-07-14",
+    "venue": "BCA Center"
+   },
+   {
+    "id": "fcb686609433",
+    "title": "Dream / Mộng : Veronica Pham",
+    "link": "https://www.burlingtoncityarts.org/exhibition/dream-mong-veronica-pham",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-07-14",
+    "venue": "BCA Center"
+   },
+   {
+    "id": "205f95ab43f0",
+    "title": "Color & Scale: Leah Barranco",
+    "link": "https://www.burlingtoncityarts.org/exhibition/color-scale-leah-barranco",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-07-14",
+    "venue": "BCA Center"
+   },
+   {
+    "id": "6fcd40d418ea",
+    "title": "Dinosaur Safari Exhibit",
+    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-14",
+    "venue": ""
+   },
+   {
     "id": "f47e7fbeb0c1",
     "title": "802sDay",
     "link": "https://calendar.time.ly/vfaca7kw/event/78304375/20260714000000",
@@ -3000,14 +2504,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-15T10:00:00-04:00",
     "venue": "Rock Point"
-   },
-   {
-    "id": "453168ab9703",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-15T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "cdc0c244c9ee",
@@ -3130,14 +2626,6 @@
     "venue": "Howe Library"
    },
    {
-    "id": "0eb8008a50a6",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213730",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-15T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "1cd5664bd074",
     "title": "Howard Center: Community Partners Desk",
     "link": "https://fletcherfree.libcal.com/event/17106654",
@@ -3170,28 +2658,12 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "50c485ce53bb",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260715140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-15T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "c0a79acde734",
     "title": "Make & Build",
     "link": "https://community.sevendaysvt.com/event/make-and-build-45178902",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-15T14:30:00-04:00",
     "venue": "Essex Free Library"
-   },
-   {
-    "id": "b6432eeb2928",
-    "title": "YSO Battery Park",
-    "link": "https://fletcherfree.libcal.com/event/17058223",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-15T15:00:00-04:00",
-    "venue": ""
    },
    {
     "id": "728db883b060",
@@ -3208,6 +2680,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-15T15:00:00-04:00",
     "venue": "Switchback Brewing Company"
+   },
+   {
+    "id": "b6432eeb2928",
+    "title": "YSO Battery Park",
+    "link": "https://fletcherfree.libcal.com/event/17058223",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-15T15:00:00-04:00",
+    "venue": ""
    },
    {
     "id": "07c9dca1619b",
@@ -3554,22 +3034,6 @@
     "venue": "First United Methodist Church"
    },
    {
-    "id": "03704cac69eb",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-15T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-15T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
-    "id": "938c127db170",
-    "title": "Smart Cycling Workshops with E-Bikes",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-15T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-15T18:00:00-04:00",
-    "venue": "Local Motion"
-   },
-   {
     "id": "aa846ea25d32",
     "title": "Community Cooking",
     "link": "https://community.sevendaysvt.com/event/community-cooking-42481660",
@@ -3682,6 +3146,14 @@
     "venue": "Venetian Soda Lounge"
    },
    {
+    "id": "aa89e5864c46",
+    "title": "Paddle at Delta Park",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315676203/",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-07-15T19:00:00-04:00",
+    "venue": "Windemere Way F&W Access"
+   },
+   {
     "id": "5112677584f7",
     "title": "Melissa Chilinski & Elijah Berlow",
     "link": "https://www.facebook.com/events/1687680502465424/",
@@ -3768,22 +3240,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-15T19:30:00-04:00",
     "venue": "Higher Ground"
-   },
-   {
-    "id": "404258cd128c",
-    "title": "Jack White",
-    "link": "https://www.facebook.com/events/2723445711372820/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-15T19:30:00-04:00",
-    "venue": "Essex Junction Vermont"
-   },
-   {
-    "id": "57c20d31d165",
-    "title": "Jack White Live",
-    "link": "https://www.facebook.com/events/972123521962271/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-15T19:30:00-04:00",
-    "venue": "Champlain Valley Fair"
    },
    {
     "id": "569b9396549c",
@@ -3920,22 +3376,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-16T10:00:00-04:00",
     "venue": "Brownell Library"
-   },
-   {
-    "id": "2b48657ddda6",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213808",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-16T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "bb64656ef1fd",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-16T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "3acc7e941d33",
@@ -4136,14 +3576,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-16T14:00:00-04:00",
     "venue": "Winooski Memorial Library"
-   },
-   {
-    "id": "1303ee2efd07",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260716140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-16T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "781c366f6283",
@@ -4354,6 +3786,14 @@
     "venue": "UVM"
    },
    {
+    "id": "ea05008356ee",
+    "title": "Trivia at Four Quarters",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315677942/",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-07-16T18:00:00-04:00",
+    "venue": "Four Quarters Brewing"
+   },
+   {
     "id": "c208a4fd1fa2",
     "title": "American Mah Jong",
     "link": "https://www.meetup.com/friendlytabletopgamers/events/315433976/",
@@ -4496,22 +3936,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-16T18:00:00-04:00",
     "venue": "Vermont Cider Lab"
-   },
-   {
-    "id": "1ff03181203a",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-16T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-16T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
-    "id": "5e60d8d1097a",
-    "title": "Smart Cycling Workshops with E-Bikes",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-16T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-16T18:00:00-04:00",
-    "venue": "Local Motion"
    },
    {
     "id": "6c511d60c3e6",
@@ -4802,22 +4226,6 @@
     "venue": "South Burlington Public Library"
    },
    {
-    "id": "89edd5aa54e8",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213887",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-17T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "2c4e22287e08",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-17T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "065027207093",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -4888,14 +4296,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-17T11:00:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "91806359c068",
-    "title": "Main Street Block Party",
-    "link": "https://events.uvm.edu/event/main-street-block-party",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-17T11:00:00-04:00",
-    "venue": "Church Street Marketplace"
    },
    {
     "id": "dc5e84196568",
@@ -5000,14 +4400,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-17T14:00:00-04:00",
     "venue": "Shelburne Farms"
-   },
-   {
-    "id": "79e681c11e56",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260717140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-17T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "328be75556e2",
@@ -5232,22 +4624,6 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-17T18:00:00-04:00",
     "venue": "Saint John's Club"
-   },
-   {
-    "id": "c09612537c6b",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-17T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-17T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
-    "id": "ba224496275a",
-    "title": "Smart Cycling Workshops with E-Bikes",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-17T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-17T18:00:00-04:00",
-    "venue": "Local Motion"
    },
    {
     "id": "4d015bebc708",
@@ -5666,22 +5042,6 @@
     "venue": "Gardener's Supply Williston"
    },
    {
-    "id": "0f732f7c7541",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213951",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "d2a09c762e29",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "774f924f36c3",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -5816,14 +5176,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T11:00:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "643e1d435da7",
-    "title": "Main Street Block Party",
-    "link": "https://events.uvm.edu/event/main-street-block-party",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T11:00:00-04:00",
-    "venue": "Church Street Marketplace"
    },
    {
     "id": "5bfa02c16e85",
@@ -5978,14 +5330,6 @@
     "venue": "Peace & Justice Center"
    },
    {
-    "id": "393507bec3dc",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260718140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "001d6e7bbdf0",
     "title": "Film Screening: Underland",
     "link": "https://events.uvm.edu/event/underland",
@@ -6122,28 +5466,20 @@
     "venue": "Shelburne Vineyard"
    },
    {
-    "id": "45ec6cc3482b",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-18T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
-    "id": "9ad0160746b1",
-    "title": "Smart Cycling Workshops with E-Bikes",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-18T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T18:00:00-04:00",
-    "venue": "Local Motion"
-   },
-   {
     "id": "7c7eb25db8f1",
     "title": "Emoji Nightmare Presents: SNATCH GAME",
     "link": "https://www-vermontcomedyclub-com.seatengine.com/shows/364458",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T19:00:00-04:00",
     "venue": "Vermont Comedy Club"
+   },
+   {
+    "id": "5705d6c15e1c",
+    "title": "Btown Brief IRL – The Odyssey Premiere",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315677877/",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-07-18T19:00:00-04:00",
+    "venue": "Essex Cinemas"
    },
    {
     "id": "a8e509c2bec0",
@@ -6370,14 +5706,6 @@
     "venue": "Champlain Valley Exposition"
    },
    {
-    "id": "f9f456ddea34",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-19T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "783f124c9363",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -6554,14 +5882,6 @@
     "venue": "Outright Vermont"
    },
    {
-    "id": "a31c87c05a7d",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260719140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-19T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "fcd009a360c4",
     "title": "Live Music",
     "link": "https://community.sevendaysvt.com/event/live-music-45095554",
@@ -6714,22 +6034,6 @@
     "venue": "Hot Yoga Burlington"
    },
    {
-    "id": "52a6a476d23d",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-19T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-19T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
-    "id": "8cb61e82a4e2",
-    "title": "Smart Cycling Workshops with E-Bikes",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-19T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-19T18:00:00-04:00",
-    "venue": "Local Motion"
-   },
-   {
     "id": "ecbcd63a1d35",
     "title": "Westford Summer Concert Series: Jacob Green",
     "link": "https://community.sevendaysvt.com/event/westford-summer-concert-series-jacob-green-45297813",
@@ -6800,14 +6104,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-20T10:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "67735b38f8fe",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-20T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "20e2a54d500f",
@@ -6904,14 +6200,6 @@
     "ts": "2026-07-11T17:24:06-04:00",
     "start": "2026-07-20T13:00:00-04:00",
     "venue": "Brownell Library"
-   },
-   {
-    "id": "62f87ac529b2",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260720140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-20T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "a9db80d418dd",
@@ -7072,22 +6360,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-20T18:00:00-04:00",
     "venue": "Deborah Rawson Memorial Library"
-   },
-   {
-    "id": "032b22fc7241",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-20T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-20T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
-    "id": "ca75c5736e12",
-    "title": "Smart Cycling Workshops with E-Bikes",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/smart-cycling-workshops-with-e-bikes/18483643/2026-07-20T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-20T18:00:00-04:00",
-    "venue": "Local Motion"
    },
    {
     "id": "8e987930c7c4",
@@ -7290,22 +6562,6 @@
     "venue": "Shelburne Museum"
    },
    {
-    "id": "b71a09407c23",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213624",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-21T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "ee93a44c92fd",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-21T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "e1101f554ad1",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -7448,14 +6704,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-21T14:00:00-04:00",
     "venue": "Essex Area Senior Center"
-   },
-   {
-    "id": "5c857590e724",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260721140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-21T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "9b8e2f0a4cee",
@@ -7682,14 +6930,6 @@
     "venue": "Peace & Justice Center"
    },
    {
-    "id": "98de5881c3cb",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-21T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-21T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
     "id": "9add16e8c4d3",
     "title": "Open Studio",
     "link": "https://community.sevendaysvt.com/event/open-studio-41867971",
@@ -7760,14 +7000,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-21T19:00:00-04:00",
     "venue": "Main Street Landing Performing Arts Center"
-   },
-   {
-    "id": "bfbddc44e71e",
-    "title": "Gillian Welch",
-    "link": "https://www.facebook.com/events/2867206126988665/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-21T19:00:00-04:00",
-    "venue": "Ben & Jerry's Concerts on The Green"
    },
    {
     "id": "d48d796ee59e",
@@ -7930,14 +7162,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "ef8b9be22770",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "5c4ebfc730ab",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -8050,14 +7274,6 @@
     "venue": "Howe Library"
    },
    {
-    "id": "de580b809c93",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213731",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "9279740b196a",
     "title": "Curator Tour – Norman Rockwell: At Home in Vermont",
     "link": "https://shelburnemuseum.org/event/curator-tour-norman-rockwell-at-home-in-vermont/2026-07-22/",
@@ -8096,14 +7312,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-22T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "e388e9de7eb6",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260722140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "2dfca33b58f7",
@@ -8386,14 +7594,6 @@
     "venue": "Generator Makerspace"
    },
    {
-    "id": "681564efcd41",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-22T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
     "id": "e9c754cb5266",
     "title": "Community Cooking",
     "link": "https://community.sevendaysvt.com/event/community-cooking-42481660",
@@ -8650,22 +7850,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "dd25667d19f2",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213809",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-23T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "d6b78389b9d0",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-23T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "c86851d65f1c",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -8856,14 +8040,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-23T14:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "bfab97cf1a2f",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260723140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-23T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "ed033ad2bcd0",
@@ -9122,14 +8298,6 @@
     "venue": "Maple Tree Place"
    },
    {
-    "id": "f80a264dce5c",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-23T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-23T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
     "id": "9479bedbb54c",
     "title": "Music Bingo",
     "link": "https://www.facebook.com/events/4517729085142610/",
@@ -9370,22 +8538,6 @@
     "venue": "Burlington Bridge Club"
    },
    {
-    "id": "25516ac42702",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213888",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "e3de31f53aa0",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "3deef48a3b3e",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -9496,14 +8648,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-24T14:00:00-04:00",
     "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "d373bb321d3b",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260724140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "687525278064",
@@ -9682,14 +8826,6 @@
     "venue": ""
    },
    {
-    "id": "21fa08831a98",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-24T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
     "id": "660115d9952c",
     "title": "Burlington FNG",
     "link": "https://community.sevendaysvt.com/event/burlington-fng-45108501",
@@ -9754,14 +8890,6 @@
     "venue": "Radio Bean"
    },
    {
-    "id": "b9149122679f",
-    "title": "Weird Al Yankovic – Essex Junction",
-    "link": "https://www.facebook.com/events/1179344227674361/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-24T19:00:00-04:00",
-    "venue": "Weird Al Yankovic – Essex Junction, VT"
-   },
-   {
     "id": "c4c8cd89f556",
     "title": "Jordan Jensen",
     "link": "https://www.flynnvt.org/Events/2026/7/Jordan-Jensen",
@@ -9786,28 +8914,12 @@
     "venue": "Higher Ground"
    },
    {
-    "id": "cef9f2e54e72",
-    "title": "No Exit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78404657/20260724193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T19:30:00-04:00",
-    "venue": "Off Center for the Performing Arts"
-   },
-   {
     "id": "5572949c2333",
     "title": "'No Exit'",
     "link": "https://community.sevendaysvt.com/event/no-exit-45284734",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-24T19:30:00-04:00",
     "venue": "Off Center for the Dramatic Arts"
-   },
-   {
-    "id": "c01e9ac61cfc",
-    "title": "Weird Al Yankovic Tickets",
-    "link": "https://www.facebook.com/events/729369423549448/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-24T19:30:00-04:00",
-    "venue": "Champlain Valley Expo Center, Essex Junction, Vermont"
    },
    {
     "id": "1ddbcdcb8dc0",
@@ -10026,22 +9138,6 @@
     "venue": "Gardener's Supply Burlington"
    },
    {
-    "id": "3068857f3f73",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213952",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "6fea5889227b",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "563603cc2174",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -10226,14 +9322,6 @@
     "venue": "4 Quarters Brewing"
    },
    {
-    "id": "91052dfd5057",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260725140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "1a6e2e736982",
     "title": "'No Exit'",
     "link": "https://community.sevendaysvt.com/event/no-exit-45284734",
@@ -10330,14 +9418,6 @@
     "venue": "Oom Yung Doe VT"
    },
    {
-    "id": "5f158f3bb417",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-25T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
     "id": "378f365c1b03",
     "title": "Kevin McDonald: Superstar! (ROCK OPERA)",
     "link": "https://www-vermontcomedyclub-com.seatengine.com/shows/367313",
@@ -10368,14 +9448,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-25T19:00:00-04:00",
     "venue": "Leddy Park"
-   },
-   {
-    "id": "11c22ad2dd5c",
-    "title": "No Exit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78404657/20260725193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T19:30:00-04:00",
-    "venue": "Off Center for the Performing Arts"
    },
    {
     "id": "6d6dad97fa27",
@@ -10464,14 +9536,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-26T10:00:00-04:00",
     "venue": "Winooski Falls"
-   },
-   {
-    "id": "ac0bd223de07",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-26T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "c38da4b42dac",
@@ -10682,14 +9746,6 @@
     "venue": "Brick Meeting House"
    },
    {
-    "id": "90fe6ea4d34d",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260726140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-26T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "94535dea30b7",
     "title": "'No Exit'",
     "link": "https://community.sevendaysvt.com/event/no-exit-45284734",
@@ -10802,14 +9858,6 @@
     "venue": "Hot Yoga Burlington"
    },
    {
-    "id": "3f7760b33189",
-    "title": "Green Mountain Swing Benefit for Youth Music Scholarships!",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-26T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-26T18:00:00-04:00",
-    "venue": "ArtsRiot"
-   },
-   {
     "id": "f6df0c6fd929",
     "title": "Hip Hop Dancing - Dance Nights aboard the Spirit of Ethan Allen",
     "link": "https://www.facebook.com/events/1287775823199372/",
@@ -10824,14 +9872,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-26T19:00:00-07:00",
     "venue": ""
-   },
-   {
-    "id": "6859d8fbe99a",
-    "title": "No Exit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78404657/20260726193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-26T19:30:00-04:00",
-    "venue": "Off Center for the Performing Arts"
    },
    {
     "id": "7c86e21e8510",
@@ -10904,14 +9944,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-27T10:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "d11c734a855a",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-27T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "6580b6d019a0",
@@ -11010,14 +10042,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "3198bcd30759",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260727140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-27T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "149b00c61971",
     "title": "YSO Battery Park",
     "link": "https://fletcherfree.libcal.com/event/17127678",
@@ -11098,20 +10122,20 @@
     "venue": ""
    },
    {
-    "id": "418fde966e76",
-    "title": "Pajama Storytime",
-    "link": "https://southburlingtonlibrary.org/pajama-storytime",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-27T18:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "3ba9ad9c251b",
     "title": "Adult Drop- In Table Tennis",
     "link": "https://www.burlingtonvt.gov/calendar.aspx?EID=4632",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-27T18:00:00-04:00",
     "venue": "Robert Miller Community & Recreation Center"
+   },
+   {
+    "id": "418fde966e76",
+    "title": "Pajama Storytime",
+    "link": "https://southburlingtonlibrary.org/pajama-storytime",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-27T18:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "2397abe9bfc8",
@@ -11402,22 +10426,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "65f34cca7ab4",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213625",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-28T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "2f18f3f7cbfa",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-28T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "a3c9425ce639",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -11528,14 +10536,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-28T13:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "896f1b5d1643",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260728140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-28T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "e3f530c1cf7c",
@@ -11906,14 +10906,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "1ba0db459aed",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-29T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "d38f9ce742aa",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -12002,14 +10994,6 @@
     "venue": "Howe Library"
    },
    {
-    "id": "502fc03de6aa",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213732",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-29T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "a4e40e871778",
     "title": "Summer Regional Event",
     "link": "https://www.facebook.com/events/1448808549849509/",
@@ -12024,14 +11008,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-29T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "cdc0e5063d2a",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260729140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-29T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "5de925048c4d",
@@ -12482,22 +11458,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "f3132218fdbb",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213810",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-30T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "e4b6ae7e1864",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-30T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "546c46757aab",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -12656,14 +11616,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-30T14:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "ca56973fdd03",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260730140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-30T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "435b73017fe3",
@@ -13010,28 +11962,12 @@
     "venue": "Shelburne Vineyard"
    },
    {
-    "id": "e1e6db0574fe",
-    "title": "Thundercat",
-    "link": "https://www.facebook.com/events/4043981719232334/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-30T19:00:00-04:00",
-    "venue": "Lake Street Burlington VT 05401"
-   },
-   {
     "id": "e320ddf93e5b",
     "title": "Evening Bird Walk",
     "link": "https://community.sevendaysvt.com/event/evening-bird-walk-45270127",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-30T19:30:00-04:00",
     "venue": "Birds of Vermont Museum"
-   },
-   {
-    "id": "2d1aad26463f",
-    "title": "No Exit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78404657/20260730193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-30T19:30:00-04:00",
-    "venue": "Off Center for the Performing Arts"
    },
    {
     "id": "12b0dd0ae7cd",
@@ -13120,22 +12056,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-31T10:00:00-04:00",
     "venue": "Burlington Bridge Club"
-   },
-   {
-    "id": "b830a8e5df54",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213889",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-31T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "52b71b839fcf",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-31T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "1499ff258f85",
@@ -13240,14 +12160,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-31T13:00:00-04:00",
     "venue": "Essex Free Library"
-   },
-   {
-    "id": "ad6a3865ef1c",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260731140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-31T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "bccdaec0d364",
@@ -13458,28 +12370,12 @@
     "venue": ""
    },
    {
-    "id": "fb87f8d6f663",
-    "title": "Sylvan Esso",
-    "link": "https://www.facebook.com/events/941821511558674/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-31T19:00:00-04:00",
-    "venue": "Lake Street Burlington VT 05401"
-   },
-   {
     "id": "7f4883acb74c",
     "title": "Jordan Klepper",
     "link": "https://www.flynnvt.org/Events/2026/7/Jordan-Klepper",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-31T19:30:00-04:00",
     "venue": "The Flynn"
-   },
-   {
-    "id": "df03950ee346",
-    "title": "No Exit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78404657/20260731193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-31T19:30:00-04:00",
-    "venue": "Off Center for the Performing Arts"
    },
    {
     "id": "4bf6680497b5",
@@ -13626,14 +12522,6 @@
     "venue": "Perkins Pier"
    },
    {
-    "id": "467911ed2caa",
-    "title": "BTown Coffee Club",
-    "link": "https://www.meetup.com/burlington-social-activites-group/events/315653229/",
-    "ts": "2026-07-12T17:31:33-04:00",
-    "start": "2026-08-01T10:00:00-04:00",
-    "venue": "Zero Gravity Craft Brewery"
-   },
-   {
     "id": "405e7feb50d4",
     "title": "Friends Book Sale",
     "link": "https://fletcherfree.libcal.com/event/16806327",
@@ -13674,6 +12562,14 @@
     "venue": ""
    },
    {
+    "id": "467911ed2caa",
+    "title": "BTown Coffee Club",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315653229/",
+    "ts": "2026-07-12T17:31:33-04:00",
+    "start": "2026-08-01T10:00:00-04:00",
+    "venue": "Zero Gravity Craft Brewery"
+   },
+   {
     "id": "36ee8e717f74",
     "title": "KW Fun Run/Walk 5K to benefit Green Mountain Habitat for Humanity",
     "link": "https://www.eventbrite.com/e/kw-fun-runwalk-5k-to-benefit-green-mountain-habitat-for-humanity-tickets-1992079283763",
@@ -13701,22 +12597,6 @@
     "id": "b5cdd886da6d",
     "title": "Vermont Public Kids Day with Daniel Tiger",
     "link": "https://www.echovermont.org/event/vermont-public-kids-day-with-daniel-tiger-2/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-01T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "c99d09684fe5",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213953",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-01T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "caa7aac54140",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-01T10:00:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
@@ -13866,14 +12746,6 @@
     "venue": "Merrymac Animal Sanctuary"
    },
    {
-    "id": "d5d531aa8bcb",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260801140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-01T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "96683bed85bb",
     "title": "'No Exit'",
     "link": "https://community.sevendaysvt.com/event/no-exit-45284734",
@@ -13930,14 +12802,6 @@
     "venue": "Shelburne Vineyard"
    },
    {
-    "id": "c40c503e532c",
-    "title": "Rik Palier",
-    "link": "https://shelburnevineyard.com/events-list/rik-palieri",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-01T18:00:00-04:00",
-    "venue": "Shelburne Vineyard"
-   },
-   {
     "id": "f530b94fd118",
     "title": "Rosebud Baker",
     "link": "https://www-vermontcomedyclub-com.seatengine.com/shows/364177",
@@ -13984,30 +12848,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-01T19:00:00-04:00",
     "venue": "Leddy Park"
-   },
-   {
-    "id": "1f2d03a25590",
-    "title": "The Head And The Heart",
-    "link": "https://www.facebook.com/events/1425439255344667/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-08-01T19:00:00-04:00",
-    "venue": "Lake Street Burlington VT 05401"
-   },
-   {
-    "id": "e5b7163baac5",
-    "title": "The Head and The Heart Tickets",
-    "link": "https://www.facebook.com/events/2146114079261862/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-08-01T19:00:00-04:00",
-    "venue": "Waterfront Burlington"
-   },
-   {
-    "id": "5e7bf9adfca3",
-    "title": "No Exit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78404657/20260801193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-01T19:30:00-04:00",
-    "venue": "Off Center for the Performing Arts"
    },
    {
     "id": "f530b94fd118-2100",
@@ -14120,22 +12960,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-02T10:00:00-04:00",
     "venue": "Hotel Vermont"
-   },
-   {
-    "id": "13f7734af8f0",
-    "title": "Vermont Psychic Expo Readings",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/vermont-psychic-expo-readings/19356035/2026-08-02T10",
-    "ts": "2026-07-10T18:47:39-04:00",
-    "start": "2026-08-02T10:00:00-04:00",
-    "venue": "Champlain Valley Exposition"
-   },
-   {
-    "id": "f556ea84be74",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-02T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "540f4f8b4b98",
@@ -14282,14 +13106,6 @@
     "venue": "Vermont Pub and Brewery"
    },
    {
-    "id": "2acf90fe4106",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260802140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-02T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "d54460df9279",
     "title": "'No Exit'",
     "link": "https://community.sevendaysvt.com/event/no-exit-45284734",
@@ -14418,14 +13234,6 @@
     "venue": "Radio Bean"
    },
    {
-    "id": "88a4728181c6",
-    "title": "No Exit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78404657/20260802193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-02T19:30:00-04:00",
-    "venue": "Off Center for the Performing Arts"
-   },
-   {
     "id": "60b00a3eeeed",
     "title": "Karaoke Sundays!",
     "link": "https://www.helloburlingtonvt.com/event/karaoke-sundays!/4512/",
@@ -14464,14 +13272,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-03T09:30:00-04:00",
     "venue": "Green Mountain Audubon Center"
-   },
-   {
-    "id": "c401e337ca6f",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-03T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "b5667ded7da1",
@@ -14562,14 +13362,6 @@
     "venue": "Spirit of Ethan Allen"
    },
    {
-    "id": "4852523d9103",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260803140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-03T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "3f251ebffd74",
     "title": "YSO Battery Park",
     "link": "https://fletcherfree.libcal.com/event/17127679",
@@ -14642,20 +13434,20 @@
     "venue": ""
    },
    {
-    "id": "867a7aa1744e",
-    "title": "Pajama Storytime",
-    "link": "https://southburlingtonlibrary.org/pajama-storytime",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-03T18:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "f291873b595a",
     "title": "Adult Drop- In Table Tennis",
     "link": "https://www.burlingtonvt.gov/calendar.aspx?EID=4633",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-03T18:00:00-04:00",
     "venue": "Robert Miller Community & Recreation Center"
+   },
+   {
+    "id": "867a7aa1744e",
+    "title": "Pajama Storytime",
+    "link": "https://southburlingtonlibrary.org/pajama-storytime",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-03T18:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "062d065650d6",
@@ -14810,22 +13602,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "97447d3b7d4c",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213626",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-04T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "f479e6ebe718",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-04T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "b67242fd6298",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -14920,14 +13696,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-04T12:00:00-04:00",
     "venue": "Spirit of Ethan Allen"
-   },
-   {
-    "id": "e40e8618b75e",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260804140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-04T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "02d9afb4e20e",
@@ -15250,14 +14018,6 @@
     "venue": "Church Street Marketplace"
    },
    {
-    "id": "6a4c610ee53a",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-05T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "ed0953b136e2",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -15338,14 +14098,6 @@
     "venue": "Howe Library"
    },
    {
-    "id": "aa569b63d259",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213733",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-05T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "14014ec22117",
     "title": "Green Mountain Habitat for Humanity: Community Partners Desk",
     "link": "https://fletcherfree.libcal.com/event/17106637",
@@ -15360,14 +14112,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-05T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "340fad3a36ad",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260805140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-05T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "e0fd63b51346",
@@ -15722,14 +14466,6 @@
     "venue": "The 126"
    },
    {
-    "id": "3c8cf50f89bc",
-    "title": "Sidewalk Sale",
-    "link": "https://www.facebook.com/events/1352514073595334/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-08-05",
-    "venue": "Church St, Burlington, VT 05401, United States"
-   },
-   {
     "id": "1634b708ae44",
     "title": "BTV Clean Up Crew",
     "link": "https://community.sevendaysvt.com/event/btv-clean-up-crew-44102235",
@@ -15776,22 +14512,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-06T10:00:00-04:00",
     "venue": "Church Street Marketplace"
-   },
-   {
-    "id": "43a96234cc8d",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213811",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-06T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "26121739f8a3",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-06T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "dc825f78edf8",
@@ -15960,14 +14680,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-06T14:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "af2863b2f3bf",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260806140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-06T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "8319ca8b297d",
@@ -16362,22 +15074,6 @@
     "venue": "South Burlington Public Library"
    },
    {
-    "id": "1f52450143ce",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213890",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-07T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "db4111cdf411",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-07T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "27ec090829c4",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -16488,14 +15184,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-07T13:00:00-04:00",
     "venue": "Essex Free Library"
-   },
-   {
-    "id": "a6ec09304ef4",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260807140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-07T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "423aabdcdd97",
@@ -16632,6 +15320,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-07T17:00:00-04:00",
     "venue": "South Burlington Parks & Rec"
+   },
+   {
+    "id": "c1401f960833",
+    "title": "Selina Alko | Otherwise Known as Judy the Great: A Poetic Ode to Judy Blume",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/selina-alko-otherwise-known-as-judy-the-great-a-poetic-ode-to-judy-blume/19414291/2026-08-07T17",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-08-07T17:30:00-04:00",
+    "venue": "Phoenix Books"
    },
    {
     "id": "c64804e0164f",
@@ -16810,14 +15506,6 @@
     "venue": "Perkins Pier"
    },
    {
-    "id": "1a3ebc4a3d1d",
-    "title": "BTown Coffee Club",
-    "link": "https://www.meetup.com/burlington-social-activites-group/events/csrdwtyjclblb/",
-    "ts": "2026-07-13T08:21:43-04:00",
-    "start": "2026-08-08T10:00:00-04:00",
-    "venue": "Zero Gravity Craft Brewery"
-   },
-   {
     "id": "60725a049906",
     "title": "Sidewalk Sale",
     "link": "https://events.uvm.edu/event/sidewalk-sale",
@@ -16850,6 +15538,14 @@
     "venue": ""
    },
    {
+    "id": "1a3ebc4a3d1d",
+    "title": "BTown Coffee Club",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/csrdwtyjclblb/",
+    "ts": "2026-07-13T08:21:43-04:00",
+    "start": "2026-08-08T10:00:00-04:00",
+    "venue": "Zero Gravity Craft Brewery"
+   },
+   {
     "id": "d6dc1999a9e6",
     "title": "Mathew Pardue",
     "link": "https://community.sevendaysvt.com/event/mathew-pardue-45158926",
@@ -16864,22 +15560,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-08T10:00:00-04:00",
     "venue": "Little Fenway Park"
-   },
-   {
-    "id": "07858d503443",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213954",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-08T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "757195b20ef7",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-08T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "2e45cfed671e",
@@ -17058,14 +15738,6 @@
     "venue": "Merrymac Animal Sanctuary"
    },
    {
-    "id": "d2c01d575393",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260808140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-08T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
-   },
-   {
     "id": "1c7b81719654",
     "title": "Stack-a-Saurus Topple Town Domino Chain Reactions",
     "link": "https://fletcherfree.libcal.com/event/16720351",
@@ -17178,14 +15850,6 @@
     "venue": "North Star Community Hall"
    },
    {
-    "id": "1049644584e5",
-    "title": "Mind Magic: A Night of Laughter and Astonishment",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78392758/20260808193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-08T19:30:00-04:00",
-    "venue": "Off Center for the Performing Arts"
-   },
-   {
     "id": "739866014bb3",
     "title": "Sunset at Red Rocks Park",
     "link": "https://www.meetup.com/green-mountain-club-burlington-section-outdoor-adventures/events/315172866/",
@@ -17296,14 +15960,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-09T10:00:00-04:00",
     "venue": "Hotel Vermont"
-   },
-   {
-    "id": "8676bfd00357",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-09T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "7ed7050c0028",
@@ -17432,14 +16088,6 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-08-09T14:00:00-04:00",
     "venue": "Spanked Puppy"
-   },
-   {
-    "id": "9bd7a70b4403",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260809140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-09T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "d56261c13623",
@@ -17578,14 +16226,6 @@
     "venue": "Perkins Pier"
    },
    {
-    "id": "b80b076ba0a2",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-10T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "49c01f65458c",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -17648,14 +16288,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-10T12:00:00-04:00",
     "venue": "Spirit of Ethan Allen"
-   },
-   {
-    "id": "13adc001c1ed",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260810140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-10T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "2c1cdbc783f5",
@@ -17890,22 +16522,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "732a6d1a95aa",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213627",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-11T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "4e5161396b88",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-11T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "1b202a6abd38",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -18024,14 +16640,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-11T13:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "22a284fadee4",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260811140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-11T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "13723a0afa72",
@@ -18322,14 +16930,6 @@
     "venue": "South Burlington Public Library"
    },
    {
-    "id": "2ac11d137b15",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-12T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "675229aa92b6",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -18378,14 +16978,6 @@
     "venue": "Howe Library"
    },
    {
-    "id": "bae93ab38a38",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213734",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-12T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "a02c56fa31bc",
     "title": "Steps to End Domestic Violence: Community Partners Desk",
     "link": "https://fletcherfree.libcal.com/event/17106642",
@@ -18408,14 +17000,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-12T14:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "15eea1f4207b",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260812140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-12T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "dd753c70dc48",
@@ -18762,22 +17346,6 @@
     "venue": "Greater Burlington YMCA (Burlington)"
    },
    {
-    "id": "57233bc9fe80",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213812",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-13T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "f4e56f7ac2ee",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-13T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "946ce9417d3a",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -18912,14 +17480,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-13T14:00:00-04:00",
     "venue": "Winooski Memorial Library"
-   },
-   {
-    "id": "e7cec5309abd",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260813140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-13T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "81d588b75847",
@@ -19202,22 +17762,6 @@
     "venue": "Burlington Bridge Club"
    },
    {
-    "id": "82d2f79a2954",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213891",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-14T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "c21405571b15",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-14T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "cc92bc31bcb0",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -19304,14 +17848,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-14T13:00:00-04:00",
     "venue": "Essex Free Library"
-   },
-   {
-    "id": "c06b710f20b1",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260814140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-14T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "d4345a846d6f",
@@ -19538,22 +18074,6 @@
     "venue": "Cucina Antica Bistro"
    },
    {
-    "id": "e13af884ec28",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213955",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-15T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "1042bd4df7c9",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-15T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "9ff52e9af61e",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -19634,14 +18154,6 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
-    "id": "b5e2332a2dba",
-    "title": "Sing Along with Linda at the NNE Branch In-Person",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78338922/20260815110000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-15T11:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "c3e455bb7246",
     "title": "'Dinosaurs of Antarctica 3D'",
     "link": "https://community.sevendaysvt.com/event/dinosaurs-of-antarctica-3d-44804713",
@@ -19696,14 +18208,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-15T14:00:00-04:00",
     "venue": "Main Street, Bristol Vermont"
-   },
-   {
-    "id": "e2a292268f26",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260815140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-15T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "ce5e07857671",
@@ -19858,14 +18362,6 @@
     "venue": "Hotel Vermont"
    },
    {
-    "id": "10f7606219ed",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-16T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "619375e423e0",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -19984,14 +18480,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-16T14:00:00-04:00",
     "venue": "Outright Vermont"
-   },
-   {
-    "id": "9e8ed340e2bf",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260816140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-16T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "fd44be806500",
@@ -20122,14 +18610,6 @@
     "venue": "Fletcher Free Library"
    },
    {
-    "id": "f7aa8f10c662",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-17T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "275fd948de55",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -20192,14 +18672,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-17T12:00:00-04:00",
     "venue": "Spirit of Ethan Allen"
-   },
-   {
-    "id": "98feef8d012a",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260817140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-17T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "c5607ba4433f",
@@ -20346,22 +18818,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "22f9fb0a3904",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213628",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-18T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "d0655ca93e42",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-18T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "a64f373d3372",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -20440,14 +18896,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-18T12:00:00-04:00",
     "venue": "Spirit of Ethan Allen"
-   },
-   {
-    "id": "0529b1dfe66c",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260818140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-18T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "ab5e313cd46a",
@@ -20682,14 +19130,6 @@
     "venue": "New North End Branch"
    },
    {
-    "id": "2ae70482be54",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-19T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "5637e79f0a0b",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -20730,14 +19170,6 @@
     "venue": "Howe Library"
    },
    {
-    "id": "8a83b0d1d1eb",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213735",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-19T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "edd4aef506b7",
     "title": "Howard Center: Community Partners Desk",
     "link": "https://fletcherfree.libcal.com/event/17106655",
@@ -20752,14 +19184,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-19T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "a7eff825af9b",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260819140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-19T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "3b7638c2321b",
@@ -21098,22 +19522,6 @@
     "venue": "Greater Burlington YMCA (Burlington)"
    },
    {
-    "id": "604c3113808f",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213813",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-20T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "3dff912c002d",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-20T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "3e0f78693a46",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -21248,14 +19656,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-20T14:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "b500eca3a380",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260820140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-20T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "701061ae5192",
@@ -21434,6 +19834,14 @@
     "venue": "Vermont Comedy Club"
    },
    {
+    "id": "d75de065946e",
+    "title": "Miciah Bay Gault | The Nobody Code",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/miciah-bay-gault-the-nobody-code/19414292/2026-08-20T19",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-08-20T19:00:00-04:00",
+    "venue": "Phoenix Books"
+   },
+   {
     "id": "2c4ab953c338",
     "title": "Don Mahogany Third Thursday Trivia",
     "link": "https://community.sevendaysvt.com/event/don-mahogany-third-thursday-trivia-44585644",
@@ -21530,22 +19938,6 @@
     "venue": "South Burlington Public Library"
    },
    {
-    "id": "7e167b70d8a2",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213892",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-21T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "9cf51efb299d",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-21T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "5e837fca0519",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -21640,14 +20032,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-21T13:00:00-04:00",
     "venue": "Essex Free Library"
-   },
-   {
-    "id": "b317b862918f",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260821140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-21T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "51088d5c05f3",
@@ -21890,22 +20274,6 @@
     "venue": "Cucina Antica Bistro"
    },
    {
-    "id": "123fabf4dceb",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213956",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-22T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "4ae46351a350",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-22T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "cc5a905ae1e3",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -22016,14 +20384,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-22T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "7606335e6364",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260822140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-22T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "9cca03c2a8ee",
@@ -22178,14 +20538,6 @@
     "venue": "Hotel Vermont"
    },
    {
-    "id": "6824e4f96738",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-23T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "65fb1c85579d",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -22280,14 +20632,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-23T13:00:00-04:00",
     "venue": "Vermont Pub and Brewery"
-   },
-   {
-    "id": "0a4597c5d593",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260823140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-23T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "fbe46054f261",
@@ -22410,14 +20754,6 @@
     "venue": "Perkins Pier"
    },
    {
-    "id": "f4976722d33b",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-24T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "d43043d9d512",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -22488,14 +20824,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-24T12:00:00-04:00",
     "venue": "Spirit of Ethan Allen"
-   },
-   {
-    "id": "c9f83d9d18e2",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260824140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-24T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "f7e5cca1fde6",
@@ -22690,22 +21018,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "b1b1550e14f8",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213629",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-25T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "a1e65fb3bb3e",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-25T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "7f617bb0a11f",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -22808,14 +21120,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-25T13:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "eb970f9e8536",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260825140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-25T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "ad93ed90afb1",
@@ -23042,14 +21346,6 @@
     "venue": "South Burlington Public Library"
    },
    {
-    "id": "0a99c8bc83c6",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-26T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "7468c6ac7c03",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -23122,28 +21418,12 @@
     "venue": "Expressive Arts Burlington Studio"
    },
    {
-    "id": "33f0b29f8653",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213736",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-26T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "8c839c81783c",
     "title": "Guided Tours",
     "link": "https://community.sevendaysvt.com/event/guided-tours-45090735",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-26T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "4f9c304e178e",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260826140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-26T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "df3f319b1a6d",
@@ -23442,22 +21722,6 @@
     "venue": "Greater Burlington YMCA (Burlington)"
    },
    {
-    "id": "3c693b48e8a6",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213814",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-27T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "7736b5fefd4f",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-27T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "f670fc223a35",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -23592,14 +21856,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-27T14:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "3fc2ce366aaa",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260827140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-27T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "44f888092004",
@@ -23818,22 +22074,6 @@
     "venue": "Burlington Bridge Club"
    },
    {
-    "id": "1998f74fabe6",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213893",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-28T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "e974552815e1",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-28T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "05911abb7db5",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -23920,14 +22160,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-28T14:00:00-04:00",
     "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "8531f8f6ffa5",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260828140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-28T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "9870e8da0077",
@@ -24090,14 +22322,6 @@
     "venue": "Off Center for the Dramatic Arts"
    },
    {
-    "id": "6d21993c1cdc",
-    "title": "Alex Clark | Jokes From The Brink | Stand Up Comedy",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78344849/20260828193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-28T19:30:00-07:00",
-    "venue": "Off Center for the Performing Arts"
-   },
-   {
     "id": "e06cd22f33fc",
     "title": "The Strictly Hip",
     "link": "https://highergroundmusic.com/events/the-strictly-hip/",
@@ -24218,22 +22442,6 @@
     "venue": "Cucina Antica Bistro"
    },
    {
-    "id": "8e07623547e0",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213957",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-29T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "abd113377b14",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-29T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "2c23d77f1298",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -24336,14 +22544,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-29T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "9fb04eb868ca",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260829140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-29T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "a902538ea9fb",
@@ -24474,14 +22674,6 @@
     "venue": "Winooski Farmers Market"
    },
    {
-    "id": "1249d9bbad02",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-30T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "477c85d2fbfb",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -24576,14 +22768,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-30T13:30:00-04:00",
     "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "1a1044e3e74d",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260830140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-30T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "7a0e1f64b482",
@@ -24690,14 +22874,6 @@
     "venue": "Perkins Pier"
    },
    {
-    "id": "eff5ed947264",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-31T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "f919c6b83c9d",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -24760,14 +22936,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-31T12:00:00-04:00",
     "venue": "Spirit of Ethan Allen"
-   },
-   {
-    "id": "bd2b01c70fcc",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260831140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-31T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "13b10e153164",
@@ -24946,22 +23114,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "7508281882b5",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213630",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-01T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "f240fd5e788a",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-01T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
     "id": "897627926ee2",
     "title": "'Champ: America’s Lake Monster' Exhibit",
     "link": "https://community.sevendaysvt.com/event/champ-americas-lake-monster-exhibit-44279688",
@@ -25032,14 +23184,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-01T12:00:00-04:00",
     "venue": "Spirit of Ethan Allen"
-   },
-   {
-    "id": "86ecc51b6e04",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260901140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-01T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "910e93be8ad7",
@@ -25242,28 +23386,12 @@
     "venue": "Vermont Pub and Brewery"
    },
    {
-    "id": "77761b557348",
-    "title": "Week of Welcome",
-    "link": "https://events.uvm.edu/event/week-of-welcome",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-01",
-    "venue": ""
-   },
-   {
     "id": "00bd22d6861c",
     "title": "Trolley tours",
     "link": "https://www.helloburlingtonvt.com/event/trolley-tours/4244/",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-02T09:00:00-04:00",
     "venue": "Perkins Pier"
-   },
-   {
-    "id": "1ba173841c59",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-02T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "ea940e9d20ee",
@@ -25290,14 +23418,6 @@
     "venue": "Spirit of Ethan Allen"
    },
    {
-    "id": "d874c06b20b6",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213737",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-02T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "5d7a667e61fd",
     "title": "Green Mountain Habitat for Humanity: Community Partners Desk",
     "link": "https://fletcherfree.libcal.com/event/17106638",
@@ -25312,14 +23432,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-02T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "87164dfd4f05",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260902140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-02T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "8d52a3f9c7c7",
@@ -25578,14 +23690,6 @@
     "venue": "The 126"
    },
    {
-    "id": "0fab15933d0d",
-    "title": "Week of Welcome",
-    "link": "https://events.uvm.edu/event/week-of-welcome",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-02",
-    "venue": ""
-   },
-   {
     "id": "5ce6b44b9b2d",
     "title": "BTV Clean Up Crew",
     "link": "https://community.sevendaysvt.com/event/btv-clean-up-crew-44102235",
@@ -25608,22 +23712,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-03T09:45:00-04:00",
     "venue": "Greater Burlington YMCA (Burlington)"
-   },
-   {
-    "id": "3854c5a20f8e",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213815",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-03T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "74c3eb77a00b",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-03T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "19670af783b6",
@@ -25752,14 +23840,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-03T13:00:00-04:00",
     "venue": "Heineberg Senior Center"
-   },
-   {
-    "id": "d5405551c217",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260903140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-03T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "6ef41560ab41",
@@ -25938,14 +24018,6 @@
     "venue": "RiRa Irish Pub"
    },
    {
-    "id": "de171fbca419",
-    "title": "Week of Welcome",
-    "link": "https://events.uvm.edu/event/week-of-welcome",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-03",
-    "venue": ""
-   },
-   {
     "id": "7905c93a3c0a",
     "title": "Weekly Meditation",
     "link": "https://community.sevendaysvt.com/event/weekly-meditation-44684837",
@@ -25992,22 +24064,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-04T10:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "77728c60715a",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213894",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-04T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "aae1f21e2410",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-04T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "fe0a6a43b6fd",
@@ -26080,14 +24136,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-04T13:00:00-04:00",
     "venue": "Dorothy Alling Memorial Library"
-   },
-   {
-    "id": "bcd627c740fa",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260904140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-04T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "6a4732f9bd54",
@@ -26258,14 +24306,6 @@
     "venue": "Light Club Lamp Shop"
    },
    {
-    "id": "35be686a6cd7",
-    "title": "Week of Welcome",
-    "link": "https://events.uvm.edu/event/week-of-welcome",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-04",
-    "venue": ""
-   },
-   {
     "id": "772fd81c4b5d",
     "title": "Weekly Bird Walk",
     "link": "https://community.sevendaysvt.com/event/weekly-bird-walk-44890940",
@@ -26312,22 +24352,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-05T10:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "1465694af4ba",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213958",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-05T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "e6cab7027a7e",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-05T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "3557effd426a",
@@ -26384,14 +24408,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-05T14:00:00-04:00",
     "venue": "Merrymac Animal Sanctuary"
-   },
-   {
-    "id": "1ba26b17b4d7",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260905140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-05T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "247f3b2fd1f1",
@@ -26466,14 +24482,6 @@
     "venue": "RiRa Irish Pub"
    },
    {
-    "id": "d8c24ca2be8c",
-    "title": "Week of Welcome",
-    "link": "https://events.uvm.edu/event/week-of-welcome",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-05",
-    "venue": ""
-   },
-   {
     "id": "f61ec42a61a4",
     "title": "Winooski Farmers Market",
     "link": "https://www.mychamplainvalley.com/calendar/#/details/winooski-farmers-market/19295673/2026-09-06T10",
@@ -26496,14 +24504,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-06T10:00:00-04:00",
     "venue": "Hotel Vermont"
-   },
-   {
-    "id": "97ebdd64fbe7",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-06T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "025143d98aca",
@@ -26576,14 +24576,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-06T13:00:00-04:00",
     "venue": "Milton Artists' Guild"
-   },
-   {
-    "id": "b091a7cb4c2e",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260906140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-06T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "0655483f9e9c",
@@ -26674,14 +24666,6 @@
     "venue": "Higher Ground"
    },
    {
-    "id": "07cc315cae7d",
-    "title": "Week of Welcome",
-    "link": "https://events.uvm.edu/event/week-of-welcome",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-06",
-    "venue": ""
-   },
-   {
     "id": "870f773269c7",
     "title": "Nature Playgroup",
     "link": "https://community.sevendaysvt.com/event/nature-playgroup-45158924",
@@ -26696,14 +24680,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-07T10:00:00-04:00",
     "venue": "Fletcher Free Library"
-   },
-   {
-    "id": "9488fb48a64f",
-    "title": "Dinosaur Safari Exhibit",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-07T10:00:00-04:00",
-    "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
     "id": "c2b33edb948a",
@@ -26752,14 +24728,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-07T12:00:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "49691e5ac89f",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260907140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-07T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "375bd86e590d",
@@ -26858,14 +24826,6 @@
     "venue": "Vermont Pub and Brewery"
    },
    {
-    "id": "ddb21af2cfba",
-    "title": "Week of Welcome",
-    "link": "https://events.uvm.edu/event/week-of-welcome",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-07",
-    "venue": ""
-   },
-   {
     "id": "9f433a4957c8",
     "title": "Burlington Bitcoin Meetup - @ Zero Gravity",
     "link": "https://www.meetup.com/burlington-bitcoin-meetup/events/ggfpvtyjcmblb/",
@@ -26904,14 +24864,6 @@
     "ts": "2026-07-11T06:44:31-04:00",
     "start": "2026-09-08T10:00:00-04:00",
     "venue": "Fleming Museum of Art"
-   },
-   {
-    "id": "4d8135825688",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213631",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-08T10:00:00-04:00",
-    "venue": "Fletcher Free Library"
    },
    {
     "id": "d39a873fe5d1",
@@ -27000,14 +24952,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-08T13:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "098191a76fc1",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260908140000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-08T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "a440b4322c78",
@@ -27186,14 +25130,6 @@
     "venue": "Leddy Park"
    },
    {
-    "id": "19cf8d4112ef",
-    "title": "Library Outreach Specialist Office Hours",
-    "link": "https://fletcherfree.libcal.com/event/16213738",
-    "ts": "2026-07-11T06:44:31-04:00",
-    "start": "2026-09-09T12:30:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "794b157a664f",
     "title": "Steps to End Domestic Violence: Community Partners Desk",
     "link": "https://fletcherfree.libcal.com/event/17106643",
@@ -27216,14 +25152,6 @@
     "ts": "2026-07-11T17:24:06-04:00",
     "start": "2026-09-09T14:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "dab3ebd80f24",
-    "title": "The Ultimate Chocolate Tasting",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78391346/20260909140000",
-    "ts": "2026-07-11T06:44:31-04:00",
-    "start": "2026-09-09T14:00:00-04:00",
-    "venue": "Lake Champlain Chocolates"
    },
    {
     "id": "885613d57809",
@@ -27594,6 +25522,14 @@
     "venue": "RiRa Irish Pub"
    },
    {
+    "id": "32688863ae8e",
+    "title": "2026 Menopause Café and Clinical Update",
+    "link": "https://events.uvm.edu/event/2026-menopause-cafe-and-clinical-update",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-11T07:30:00-04:00",
+    "venue": "Doubletree by Hilton Hotel in South Burlington, Vermont"
+   },
+   {
     "id": "34039a1a868e",
     "title": "Slow Runners Meet, Greet, & Run",
     "link": "https://www.meetup.com/slow-runners-club/events/gsscztyjcmbpb/",
@@ -27632,6 +25568,14 @@
     "ts": "2026-07-13T08:21:43-04:00",
     "start": "2026-09-11T11:45:00-04:00",
     "venue": "The Innovation Café"
+   },
+   {
+    "id": "ca3bfb2f57dd",
+    "title": "CAT ECare Training",
+    "link": "https://events.uvm.edu/event/cat-ecare-training-sept11",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-11T13:00:00-04:00",
+    "venue": "Rowell Hall"
    },
    {
     "id": "c25b18f421ec",
@@ -27696,6 +25640,94 @@
     "ts": "2026-07-13T08:21:43-04:00",
     "start": "2026-09-11T22:15:00-04:00",
     "venue": "The Flynn"
+   },
+   {
+    "id": "02687dac9953",
+    "title": "21st Annual Kelly Brush Ride - Middlebury College Alumni Stadium - Can join remote!",
+    "link": "https://calendar.time.ly/vfaca7kw/event/78366536/20260912070000",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T07:00:00-04:00",
+    "venue": ""
+   },
+   {
+    "id": "71001d4e8aa4",
+    "title": "Burlington Farmers Market",
+    "link": "https://burlingtonfarmersmarket.org/",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T09:00:00-04:00",
+    "venue": "Burlington Farmers Market"
+   },
+   {
+    "id": "193da04e04cf",
+    "title": "Sing Along with Linda at the NNE Branch",
+    "link": "https://fletcherfree.libcal.com/event/16827630",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T11:00:00-04:00",
+    "venue": "New North End Branch"
+   },
+   {
+    "id": "8cdea99d4173",
+    "title": "The Poetry Experience",
+    "link": "https://fletcherfree.libcal.com/event/15990770",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T13:00:00-04:00",
+    "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "711cef9ad1d4",
+    "title": "Color Fun Run 2026 Registration",
+    "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQxNTMwMzM=",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T13:00:00-04:00",
+    "venue": "Veterans Memorial Park"
+   },
+   {
+    "id": "c51ced474660",
+    "title": "Hold for all-ages program",
+    "link": "https://fletcherfree.libcal.com/event/16448081",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T15:00:00-04:00",
+    "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "2af520d08639",
+    "title": "Rainbow Kitten Surprise",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/rainbow-kitten-surprise/17496181/2026-09-12T18",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T18:30:00-04:00",
+    "venue": "Higher Ground"
+   },
+   {
+    "id": "ded0970b6595",
+    "title": "Big Pond Improv Festival (Save the Dates)!",
+    "link": "https://www-vermontcomedyclub-com.seatengine.com/shows/375088",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T19:00:00-04:00",
+    "venue": "Vermont Comedy Club"
+   },
+   {
+    "id": "3e9a7bc19800",
+    "title": "Dancing with the Stars",
+    "link": "https://www.flynnvt.org/Events/2026/9/Dancing-with-the-Stars",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T19:00:00-04:00",
+    "venue": "The Flynn"
+   },
+   {
+    "id": "65a12b334215",
+    "title": "Rainbow Kitten Surprise",
+    "link": "https://highergroundmusic.com/events/rainbow-kitten-surprise/",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T20:00:00-04:00",
+    "venue": "Champlain Valley Exposition"
+   },
+   {
+    "id": "60205fe8a022",
+    "title": "Live DJ at Ri Ra!",
+    "link": "https://calendar.time.ly/vfaca7kw/event/78247926/20260912220000",
+    "ts": "2026-07-14T07:11:12-04:00",
+    "start": "2026-09-12T22:00:00-04:00",
+    "venue": "RiRa Irish Pub"
    }
   ]
  }

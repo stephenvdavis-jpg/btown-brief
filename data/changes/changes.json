@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14T11:01:08+00:00",
+ "generated": "2026-07-14T12:43:49+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -1507,6 +1507,50 @@
    "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-14T11:11:12+00:00",
+   "category": "events",
+   "headline": "New event: Paddle at Delta Park",
+   "detail": "tomorrow 7 PM · Windemere Way F&W Access",
+   "url": "https://www.meetup.com/burlington-social-activites-group/events/315676203/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T11:11:12+00:00",
+   "category": "events",
+   "headline": "New event: Trivia at Four Quarters",
+   "detail": "Thursday 6 PM · Four Quarters Brewing",
+   "url": "https://www.meetup.com/burlington-social-activites-group/events/315677942/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T11:11:12+00:00",
+   "category": "events",
+   "headline": "New event: Btown Brief IRL – The Odyssey Premiere",
+   "detail": "Saturday 7 PM · Essex Cinemas",
+   "url": "https://www.meetup.com/burlington-social-activites-group/events/315677877/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-14T11:56:46+00:00",
+   "category": "news",
+   "headline": "UVM finds new drug to fight lung cancer could be a game changer",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/14/uvm-finds-new-drug-fight-lung-cancer-could-be-game-changer/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }
