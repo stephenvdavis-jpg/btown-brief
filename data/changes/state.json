@@ -372,6 +372,13 @@
  "gmt-alerts": {
   "items": [
    {
+    "id": "https://ridegmt.com/?p=24687",
+    "title": "Service Alert :: Essex Junction",
+    "link": "https://ridegmt.com/service-alert-essex-junction-2/",
+    "ts": "2026-07-15T13:42:17+00:00",
+    "summary": "The July 15 9:30 AM toward Essex Junction is experiencing significant delays of approximately 10 to 15 minutes due to maintenance. We apologize for the inconvenience."
+   },
+   {
     "id": "https://ridegmt.com/?p=24075",
     "title": "Downtown Transit Center Hours Changing",
     "link": "https://ridegmt.com/downtown-transit-center-hours-changing/",
@@ -424,8 +431,8 @@
     "start": "2026-07-13T18:00:00+00:00",
     "hasAgenda": true,
     "files": [
-     "City Council Meeting V5",
-     "City Council Meeting V5"
+     "City Council Meeting V6",
+     "City Council Meeting V6"
     ]
    },
    "10077": {
@@ -452,7 +459,8 @@
     "hasAgenda": true,
     "files": [
      "Agenda V1",
-     "Packet V1"
+     "Packet V1",
+     "DAB Minutes 7.14.2026"
     ]
    },
    "10071": {
@@ -539,79 +547,86 @@
    "sevendays-news": {
     "items": [
      {
-      "id": "https://www.sevendaysvt.com/?p=211947",
-      "title": "Young People Want to Leave Vermont Over Affordability Concerns, Poll Finds",
-      "link": "https://www.sevendaysvt.com/news/young-people-want-to-leave-vermont-over-affordability-concerns-poll-finds/",
-      "ts": "2026-07-14T19:27:35+00:00",
-      "summary": "The findings capture the scale of Vermont’s cost-of-living woes and the challenge they pose to an aging state that wants to attract younger residents. The post Young People Want to Leave Vermont Over Affordability Concerns, Poll Finds appeared first on Seven Days . (Image: Susan Norton)"
+      "id": "https://www.sevendaysvt.com/?p=211874",
+      "title": "Fortified by Chocolate Milk, Monument Farms Tackles Its Future",
+      "link": "https://www.sevendaysvt.com/food-drink/fortified-by-chocolate-milk-monument-farms-tackles-its-future/",
+      "ts": "2026-07-15T14:00:00+00:00",
+      "summary": "Vermont’s dairy sector continues to struggle, but at the century-old family farm in Weybridge — now the state’s largest milk bottler — a fourth generation rises. The post Fortified by Chocolate Milk, Monument Farms Tackles Its Future appeared first on Seven Days . (Image: Caleb Kenna)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211865",
-      "title": "New Vermont State Police Commander Rose Up Through the Ranks",
-      "link": "https://www.sevendaysvt.com/news/new-vermont-state-police-commander-rose-up-through-the-ranks/",
-      "ts": "2026-07-14T18:31:46+00:00",
-      "summary": "Shawn Loan, a 19-year veteran of the state police force, will take over from retiring Col. Matthew Birmingham next month. The post New Vermont State Police Commander Rose Up Through the Ranks appeared first on Seven Days . (Image: Courtesy photo)"
+      "id": "https://www.sevendaysvt.com/?p=211969",
+      "title": "Vermont Green FC Women Score Big in Inaugural Season",
+      "link": "https://www.sevendaysvt.com/arts-culture/sports/vermont-green-fc-women-score-big-in-inaugural-season/",
+      "ts": "2026-07-15T13:53:00+00:00",
+      "summary": "The team’s first season has been a smashing success, including sold-out home games and a trip to the finals next weekend. The post Vermont Green FC Women Score Big in Inaugural Season appeared first on Seven Days . (Image: Cecilia Luce)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211857",
-      "title": "Argentinean Food and Brazilian Flavors Arrive in Quechee",
-      "link": "https://www.sevendaysvt.com/food-drink/restaurantreviews/argentinean-food-and-brazilian-flavors-arrive-in-quechee/",
-      "ts": "2026-07-14T16:50:37+00:00",
-      "summary": "At Two Bistro Café in the Upper Valley, Paula Fernandes and Adrian Abate serve up Brazilian pastries by morning and Argentinean meats into the evening. The post Argentinean Food and Brazilian Flavors Arrive in Quechee appeared first on Seven Days . (Image: Corin Hirsch)"
+      "id": "https://www.sevendaysvt.com/?p=212001",
+      "title": "Family Remembers Siblings Who Died in Lamoille River",
+      "link": "https://www.sevendaysvt.com/news/immigration-news/family-remembers-siblings-who-died-in-lamoille-river/",
+      "ts": "2026-07-15T13:52:00+00:00",
+      "summary": "A brother and sister of Ecuadorian descent lived and died together. The post Family Remembers Siblings Who Died in Lamoille River appeared first on Seven Days . (Image: Courtesy)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211854",
-      "title": "The Stone Pour to Open in Vergennes With Cocktails and Food",
-      "link": "https://www.sevendaysvt.com/food-drink/foodnews/the-stone-pour-to-open-in-vergennes-with-cocktails-and-food/",
-      "ts": "2026-07-14T16:45:04+00:00",
-      "summary": "Part speakeasy, part family-friendly restaurant, the new tenant of the downstairs space that was Bar Antidote will serve familiar favorites and martini flights. The post The Stone Pour to Open in Vergennes With Cocktails and Food appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212021",
+      "title": "Rutland Debates Removing a Residency Requirement for Firefighters",
+      "link": "https://www.sevendaysvt.com/news/rutland-debates-removing-a-residency-requirement-for-firefighters/",
+      "ts": "2026-07-15T13:50:00+00:00",
+      "summary": "The city’s firefighters think eliminating a rule that they live within five miles of the station would help recruitment. Those opposed worry about backup if there were a big blaze. The post Rutland Debates Removing a Residency Requirement for Firefighters appeared first on Seven Days . (Image: Caleb Kenna)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211849",
-      "title": "Off the Record Vinyl and Coffee Shop Coming to Bristol",
-      "link": "https://www.sevendaysvt.com/food-drink/foodnews/off-the-record-vinyl-and-coffee-shop-coming-to-bristol/",
-      "ts": "2026-07-14T16:36:44+00:00",
-      "summary": "Andy Wohl, who owns food biz Off the Hook at South Mountain Tavern, is opening a dual-purpose shop down the block using beans from Little Seed Coffee Roasters. The post Off the Record Vinyl and Coffee Shop Coming to Bristol appeared first on Seven Days . (Image: Jordan Barry)"
+      "id": "https://www.sevendaysvt.com/?p=212105",
+      "title": "A Luxury Stowe Mansion Is Being Auctioned With No Minimum Price",
+      "link": "https://www.sevendaysvt.com/news/802much/a-luxury-stowe-mansion-is-being-auctioned-with-no-minimum-price/",
+      "ts": "2026-07-15T13:44:00+00:00",
+      "summary": "The property, which includes an indoor athletic field that’s connected to the main house by an underground tunnel, was previously listed for sale at about $16 million. The post A Luxury Stowe Mansion Is Being Auctioned With No Minimum Price appeared first on Seven Days . (Image: Courtesy)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211889",
-      "title": "Obituary: Dr. Jay E. Keller, 1916-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-dr-jay-e-keller-1916-2026/",
-      "ts": "2026-07-14T10:00:00+00:00",
-      "summary": "Surgeon, veteran and volunteer was an active member of his church and a 22-year guide at the Shelburne Museum The post Obituary: Dr. Jay E. Keller, 1916-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=211978",
+      "title": "From the Deputy Publisher: Good Points",
+      "link": "https://www.sevendaysvt.com/news/fromthepublisher/from-the-deputy-publisher-good-points/",
+      "ts": "2026-07-15T13:43:00+00:00",
+      "summary": "Deputy publisher Cathy Resmer was invited to talk about Seven Days’ Good Citizen Challenge at a national news summit in Pittsburgh. The post From the Deputy Publisher: Good Points appeared first on Seven Days . (Image: Courtesy)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211883",
-      "title": "Obituary: Claudia Elizabeth Bagiackas, 1948-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-claudia-elizabeth-bagiackas-1948-2026/",
-      "ts": "2026-07-14T10:00:00+00:00",
-      "summary": "Cofounder of Central Vermont Montessori carried her foundational roots of family and spirituality with her throughout her full life The post Obituary: Claudia Elizabeth Bagiackas, 1948-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=211975",
+      "title": "Letters to the Editor (7/15/26)",
+      "link": "https://www.sevendaysvt.com/news/letters/letters-to-the-editor-7-15-26/",
+      "ts": "2026-07-15T13:42:00+00:00",
+      "summary": "Readers react to recent articles The post Letters to the Editor (7/15/26) appeared first on Seven Days ."
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211843",
-      "title": "Obituary: Jessica Helen Pagliuca, 1978-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-jessica-helen-pagliuca-1978-2026/",
-      "ts": "2026-07-14T10:00:00+00:00",
-      "summary": "Burlington woman devoted her life to working people of all ages and was always grateful for family The post Obituary: Jessica Helen Pagliuca, 1978-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=211882",
+      "title": "With ‘Exit the King,’ Unadilla Theatre Reflects on America",
+      "link": "https://www.sevendaysvt.com/arts-culture/theater-arts-culture/with-exit-the-king-unadilla-theatre-reflects-on-america/",
+      "ts": "2026-07-15T13:41:00+00:00",
+      "summary": "After more than 80 years, the themes of power, mortality and legacy in Eugène Ionescu’s absurdist dramedy still resonate today. The post With ‘Exit the King,’ Unadilla Theatre Reflects on America appeared first on Seven Days . (Image: File: Jeb Wallace-Brodeur)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211834",
-      "title": "Obituary: Lyndon “Lyn” B. Carew Jr., 1932-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-lyndon-lyn-b-carew-jr-1932-2026/",
-      "ts": "2026-07-14T10:00:00+00:00",
-      "summary": "Professor taught more than 20,000 students at UVM and believed he never grew old while he was teaching The post Obituary: Lyndon “Lyn” B. Carew Jr., 1932-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=211863",
+      "title": "Theater Review: ‘The Understudy,’ Dorset Theatre Festival",
+      "link": "https://www.sevendaysvt.com/arts-culture/theater-arts-culture/theater-review-the-understudy-dorset-theatre-festival/",
+      "ts": "2026-07-15T13:40:00+00:00",
+      "summary": "Floating in a make-believe Broadway, the revival of resident playwright Theresa Rebeck’s 2008 hit play is still snappy, hilarious and unpredictable. The post Theater Review: ‘The Understudy,’ Dorset Theatre Festival appeared first on Seven Days . (Image: Courtesy of Joey Moro)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211830",
-      "title": "In Memoriam: Dennis Willmott, 1945-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/inmemoriam/in-memoriam-dennis-willmott-1945-2026/",
-      "ts": "2026-07-14T10:00:00+00:00",
-      "summary": "Shelburne gathering celebrates the life of beloved musician who was passionate about keeping traditional blues alive The post In Memoriam: Dennis Willmott, 1945-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=211896",
+      "title": "Book Review: ‘A Thousand Souls’ by Catherine Tudish",
+      "link": "https://www.sevendaysvt.com/arts-culture/books-arts-culture/book-review-a-thousand-souls-by-catherine-tudish/",
+      "ts": "2026-07-15T13:39:00+00:00",
+      "summary": "The author’s “novel in stories” follows the ordinary yet extraordinary lives of the residents of a fictional Vermont village. The post Book Review: ‘A Thousand Souls’ by Catherine Tudish appeared first on Seven Days . (Image: Courtesy)"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651335",
+      "title": "From conversation to community action: at one year mark, Gone Guys documentary inspires new investments across Vermont and beyond",
+      "link": "https://vtdigger.org/2026/07/15/from-conversation-to-community-action-at-one-year-mark-gone-guys-documentary-inspires-new-investments-across-vermont-and-beyond/",
+      "ts": "2026-07-15T12:52:58+00:00",
+      "summary": "Over the past year, conversations sparked by the documentary film Gone Guys have brought communities together across Vermont and beyond to explore the challenges facing boys and young men. Those conversations are now leading to new partnerships, initiatives, and local action to better support boys and young men. Read the story on VTDigger here: From conversation to community action: at one year ma"
+     },
      {
       "id": "https://vtdigger.org/?p=651318",
       "title": "Vermont’s Kaiden McCarthy picked in second round of MLB draft by Atlanta Braves",
@@ -814,13 +829,6 @@
       "link": "https://vtdigger.org/2026/07/09/opinion-vermonts-low-barrier-shelters-are-failing-the-people-they-were-created-to-serve/",
       "ts": "2026-07-09T19:04:06+00:00",
       "summary": "A year inside one of Burlington's low-barrier shelters raised hard questions about whether the system is built to end homelessness — or just manage it. Read the story on VTDigger here: Vermont’s low-barrier shelters are failing the people they were created to serve ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651037",
-      "title": "‘Broken’ trust: Energy site redevelopment company seeks input from Vernon community on uses for former Vermont Yankee plant",
-      "link": "https://vtdigger.org/2026/07/09/broken-trust-energy-site-redevelopment-company-seeks-input-from-vernon-community-on-uses-for-former-vermont-yankee-plant/",
-      "ts": "2026-07-09T10:53:00+00:00",
-      "summary": "“Communities have more say in outcomes, and I think it's important to figure out how we can work together,” said PowerTransitions spokesperson at a Tuesday night meeting. Read the story on VTDigger here: ‘Broken’ trust: Energy site redevelopment company seeks input from Vernon community on uses for former Vermont Yankee plant ."
      }
     ]
    },
@@ -915,10 +923,24 @@
    "wcax": {
     "items": [
      {
+      "id": "F5SFIMTHOJBINHIZGOKN6KEJIU",
+      "title": "Vermont housing crisis is subject of candidate forum",
+      "link": "https://www.wcax.com/2026/07/15/vermont-housing-crisis-is-subject-candidate-forum/",
+      "ts": "2026-07-15T13:25:54+00:00",
+      "summary": "Democratic candidates for governor and lieutenant governor will lay out their plans on housing"
+     },
+     {
+      "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
+      "title": "3 killed in small plane crash in Northern New York",
+      "link": "https://www.wcax.com/2026/07/14/3-killed-small-plane-crash-northern-new-york/",
+      "ts": "2026-07-15T12:08:00+00:00",
+      "summary": "Questions remain over what caused a fatal plane crash in the Adirondacks late Monday night."
+     },
+     {
       "id": "WZUT6UXPBREA7B37MAWNQF272U",
       "title": "Storm damage reports from across the region",
       "link": "https://www.wcax.com/2026/07/15/tuesday-nights-storm-damage-reports/",
-      "ts": "2026-07-15T11:35:37+00:00",
+      "ts": "2026-07-15T11:30:00+00:00",
       "summary": "Some of us may be waking up to downed or uprooted trees and downed power lines early Wednesday morning."
      },
      {
@@ -948,13 +970,6 @@
       "link": "https://www.wcax.com/2026/07/14/vermont-creemee-passport-offers-sweet-way-explore-state/",
       "ts": "2026-07-15T00:12:55+00:00",
       "summary": "The Vermont Creemee Passport offers stamps for visiting 70 participating locations."
-     },
-     {
-      "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
-      "title": "3 killed in small plane crash in Northern New York",
-      "link": "https://www.wcax.com/2026/07/14/3-killed-small-plane-crash-northern-new-york/",
-      "ts": "2026-07-14T23:13:56+00:00",
-      "summary": "Questions remain over what caused a fatal plane crash in the Adirondacks late Monday night."
      },
      {
       "id": "QPHIKPPPLFG3JESU7ASXH5B6WA",
@@ -1256,23 +1271,93 @@
       "link": "https://www.wcax.com/2026/07/12/vermont-history-organizations-gather-burlington-spotlight-vermont-250-celebration/",
       "ts": "2026-07-12T00:11:12+00:00",
       "summary": "More than 30 museums, historical societies, and cultural organizations gathered at City Hall Park Saturday, turning Burlington into a hub of Vermont history as part of America’s 250th anniversary celebrations."
-     },
-     {
-      "id": "37BKOEDBUFCK5NS6GGDBNCE5PA",
-      "title": "Richford relay race returns to the water and trail",
-      "link": "https://www.wcax.com/2026/07/12/richford-relay-race-returns-water-trail/",
-      "ts": "2026-07-12T00:05:31+00:00",
-      "summary": "The Northern Forest Canoe Trail welcomed paddlers and cyclists to the Missisquoi River Saturday for the annual Missisquoi Paddle-Pedal Relay Race."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "71938159",
+      "title": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease",
+      "link": "https://www.mynbc5.com/article/alzheimers-blood-test-risk-study/71938159",
+      "ts": "2026-07-15T14:03:00+00:00",
+      "summary": "A blood test that helps diagnose Alzheimer's might also forecast whether healthy older adults will develop symptoms."
+     },
+     {
+      "id": "71942728",
+      "title": "Viewer photos show storm damage, trees down in Weathersfield, Vermont",
+      "link": "https://www.mynbc5.com/article/weathersfield-vermont-viewer-photos-storm-damage/71942728",
+      "ts": "2026-07-15T14:01:00+00:00",
+      "summary": "Despite less severe storm damage than forecasts initially anticipated, some areas including Weathersfield, Vermont, saw strong damage, including trees snapped in half and a flipped over trampoline off of Goulden Ridge Road."
+     },
+     {
+      "id": "71942067",
+      "title": "President Trump reverses on Strait of Hormuz toll less than 24 hours after announcing it",
+      "link": "https://www.mynbc5.com/article/trump-reverses-strait-of-hormuz-toll-proposal/71942067",
+      "ts": "2026-07-15T13:54:00+00:00",
+      "summary": "President Donald Trump reversed his proposal to charge ships passing through the Strait of Hormuz, citing productive discussions with Middle East leaders, as U.S.-Iran tensions escalate."
+     },
+     {
+      "id": "71941988",
+      "title": "Hospital announces closure of birthing center in St. Lawrence County",
+      "link": "https://www.mynbc5.com/article/birthing-center-closure-st-lawrence-county/71941988",
+      "ts": "2026-07-15T13:38:00+00:00",
+      "summary": "The North Star Health Alliance has announced plans to close labor and birthing services at Claxton-Hepburn Medical Center in Ogdensburg. The next closest maternity hospital is a 45-minute drive to Potsdam."
+     },
+     {
+      "id": "71941225",
+      "title": "Trump nominees head to Capitol Hill for what could be heated confirmation hearings",
+      "link": "https://www.mynbc5.com/article/trump-nominees-capitol-hill-heated-confirmation-hearings/71941225",
+      "ts": "2026-07-15T13:28:00+00:00",
+      "summary": "Three Trump administration nominees, including Todd Blanche for attorney general, face Senate confirmation hearings Wednesday, with questions expected on key issues."
+     },
+     {
+      "id": "71942429",
+      "title": "Senate to hold hearing for Jay Clayton, Trump's pick to head intelligence agencies",
+      "link": "https://www.mynbc5.com/article/jay-clayton-senate-intelligence-confirmation-hearing/71942429",
+      "ts": "2026-07-15T13:25:00+00:00",
+      "summary": "Jay Clayton, President Trump’s pick to head the nation’s intelligence agencies, is testifying before the Senate Intelligence Committee."
+     },
+     {
+      "id": "71930789",
+      "title": "Three dead following small plane crash in Northern New York, FAA reports; Victims ID'ed",
+      "link": "https://www.mynbc5.com/article/lake-clear-new-york-plane-crash-mcmaster/71930789",
+      "ts": "2026-07-15T13:09:00+00:00",
+      "summary": "A pilot and two passengers onboard a small plane have died following a crash in Harrietstown, according to the FAA. Here's what we know."
+     },
+     {
+      "id": "71941876",
+      "title": "LIVE: Blanche faces Senate confirmation hearing as attorney general",
+      "link": "https://www.mynbc5.com/article/todd-blanche-senate-confirmation-hearing-attorney-general/71941876",
+      "ts": "2026-07-15T13:07:00+00:00",
+      "summary": "Acting Attorney General Todd Blanche will confront questions about his brief but turbulent tenure atop the Justice Department during a Senate confirmation hearing."
+     },
+     {
+      "id": "71939938",
+      "title": "Trees cleared, I-91 northbound reopens following severe storms; See other damage reports",
+      "link": "https://www.mynbc5.com/article/trees-block-interstate-springfield-vermont/71939938",
+      "ts": "2026-07-15T12:57:00+00:00",
+      "summary": "Vermont State Police closed I-91 northbound between Springfield and Weathersfield Wednesday morning after storms knocked down two trees, blocking the highway."
+     },
+     {
+      "id": "71932660",
+      "title": "Incoming VSP commander discusses his goals, ICE, and his own car crash",
+      "link": "https://www.mynbc5.com/article/vermont-state-police-shawn-loan-leadership-change/71932660",
+      "ts": "2026-07-15T12:51:00+00:00",
+      "summary": "Vermont State Police Col. Matthew Birmingham is retiring after 11 years, with Deputy Director Shawn Loan set to take over next month, focusing on data-driven prevention efforts."
+     },
+     {
+      "id": "71935074",
+      "title": "Body of man recovered following drowning in North Hero",
+      "link": "https://www.mynbc5.com/article/fatal-drowning-north-hero/71935074",
+      "ts": "2026-07-15T12:50:00+00:00",
+      "summary": "The body of a missing swimmer has been recovered in North Hero, according to police."
+     },
+     {
       "id": "71941612",
       "title": "Trump says ICE should continue traffic stops after recent deadly shootings",
       "link": "https://www.mynbc5.com/article/trump-ice-traffic-stops-fatal-shootings/71941612",
-      "ts": "2026-07-15T11:50:00+00:00",
+      "ts": "2026-07-15T12:02:00+00:00",
       "summary": "President Trump says ICE should continue traffic stops after recent fatal shootings, seeming to contradict a new policy to halt them"
      },
      {
@@ -1304,13 +1389,6 @@
       "summary": "New York is now the first state to issue a statewide moratorium on the construction of new large-scale data centers. Gov. Kathy Hochul signed the bill to buy time and come up with a regulatory framework that addresses environmental and economic concerns from community members."
      },
      {
-      "id": "71939938",
-      "title": "Trees cleared, I-91 northbound reopens following severe storms",
-      "link": "https://www.mynbc5.com/article/trees-block-interstate-springfield-vermont/71939938",
-      "ts": "2026-07-15T10:00:00+00:00",
-      "summary": "Vermont State Police closed I-91 northbound between Springfield and Weathersfield Wednesday morning after storms knocked down two trees, blocking the highway."
-     },
-     {
       "id": "71940199",
       "title": "Elon Musk likely broke the law by promising voters $1 million payouts, Wisconsin board says",
       "link": "https://www.mynbc5.com/article/elon-musk-wisconsin-law-voter-checks-supreme-court/71940199",
@@ -1333,80 +1411,10 @@
      },
      {
       "id": "71936416",
-      "title": "Overnight severe storms, smoke lingers with dropping humidity Wednesday",
-      "link": "https://www.mynbc5.com/article/overnight-severe-storms-smoke-lingers-with-dropping-humidity-wednesday-07-15-26/71936416",
+      "title": "Turning less humid Wednesday afternoon, smoke lingers",
+      "link": "https://www.mynbc5.com/article/turning-less-humid-wednesday-afternoon-smoke-lingers-07-15-26/71936416",
       "ts": "2026-07-15T04:11:00+00:00",
       "summary": "Large hail, damaging wind for a few towns; highs fall back to the 80s the rest of the week"
-     },
-     {
-      "id": "71914188",
-      "title": "Intense storms likely across Vermont, New York overnight",
-      "link": "https://www.mynbc5.com/article/intense-storms-likely-across-vermont-new-york-overnight-07-14-26/71914188",
-      "ts": "2026-07-15T04:05:00+00:00",
-      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
-     },
-     {
-      "id": "71937213",
-      "title": "Organizers at Clinton County Fair stay prepared ahead of severe weather threats",
-      "link": "https://www.mynbc5.com/article/organizers-at-clinton-county-fair-stay-prepared-ahead-of-severe-weather-threats/71937213",
-      "ts": "2026-07-15T03:23:00+00:00",
-      "summary": "Officials say not many changes are made with how ready they are"
-     },
-     {
-      "id": "71934276",
-      "title": "US reimposes blockade on Iran after Tehran's attacks on ships in the Strait of Hormuz",
-      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-attacks-blockade/71934276",
-      "ts": "2026-07-15T02:41:00+00:00",
-      "summary": "The U.S. military has reimposed its blockade of Iranian ports in response to Iran’s attacks on commercial ships in the Strait of Hormuz."
-     },
-     {
-      "id": "71937442",
-      "title": "U.S. Army Good Conduct Medal returned to WWII veteran’s family after being lost for years",
-      "link": "https://www.mynbc5.com/article/world-war-ii-medal-returned-veteran-family-lost-years/71937442",
-      "ts": "2026-07-15T02:24:00+00:00",
-      "summary": "A World War II medal that was lost for years was returned to the family of a veteran who was among the troops who stormed Utah Beach on D-Day and later fought in the Battle of the Bulge."
-     },
-     {
-      "id": "71931577",
-      "title": "Rare T. rex fossil sells for record $50.1 million at auction",
-      "link": "https://www.mynbc5.com/article/t-rex-fossil-sells-for-record-501-million-auction/71931577",
-      "ts": "2026-07-15T01:31:00+00:00",
-      "summary": "A Tyrannosaurus rex skeleton from South Dakota has become the world’s most expensive fossil sold at auction, after fetching a record $50,130,000 at Sotheby’s in New York Tuesday."
-     },
-     {
-      "id": "71936674",
-      "title": "U.S. military to leave Iraq by end of September, ending 23-year presence",
-      "link": "https://www.mynbc5.com/article/us-military-to-leave-iraq-september-2026/71936674",
-      "ts": "2026-07-15T01:02:00+00:00",
-      "summary": "The U.S. military will leave Iraq by the end of September following a 23-year presence that started with the 2003 invasion against Saddam Hussein and ended with much smaller operations against the Islamic State group"
-     },
-     {
-      "id": "71935176",
-      "title": "ICE temporarily pauses most vehicle stops after deadly shootings as other policies face scrutiny",
-      "link": "https://www.mynbc5.com/article/ice-temporarily-pauses-most-vehicle-stops-after-deadly-shootings/71935176",
-      "ts": "2026-07-14T23:41:00+00:00",
-      "summary": "The deployment of new body cameras and training standards is also facing renewed scrutiny."
-     },
-     {
-      "id": "71935074",
-      "title": "Body of man recovered following drowning in North Hero",
-      "link": "https://www.mynbc5.com/article/fatal-drowning-north-hero/71935074",
-      "ts": "2026-07-14T23:32:00+00:00",
-      "summary": "The body of a missing swimmer has been recovered in North Hero, according to police."
-     },
-     {
-      "id": "71930789",
-      "title": "Three dead following small plane crash in Northern New York, FAA reports",
-      "link": "https://www.mynbc5.com/article/lake-clear-new-york-plane-crash-mcmaster/71930789",
-      "ts": "2026-07-14T23:31:00+00:00",
-      "summary": "A pilot and two passengers onboard a small plane have died following a crash in Harrietstown, according to the FAA. Here's what we know."
-     },
-     {
-      "id": "71929529",
-      "title": "Two NY state police troopers taken to hospital after cruiser catches fire in crash",
-      "link": "https://www.mynbc5.com/article/state-police-crash-car-fire-plattsburgh/71929529",
-      "ts": "2026-07-14T23:30:00+00:00",
-      "summary": "Police are investigating after two police cruisers and a Jeep Compass collided at the intersection of Route 374 and Rand Hill Road in Clinton County. First responders on the scene confirmed that one of the cruisers caught fire after the crash. Two troopers were taken to the hospital."
      }
     ]
    },
@@ -1474,6 +1482,38 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1ux5gto",
+    "title": "Nikhil Goyal's campaign sets fundraising record at $140k, with approximately 67% ($95k) coming from out of state donors.",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux5gto/nikhil_goyals_campaign_sets_fundraising_record_at/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T14:02:28+00:00"
+   },
+   {
+    "id": "1ux493k",
+    "title": "Tattoo Removal",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux493k/tattoo_removal/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T14:02:28+00:00"
+   },
+   {
+    "id": "1ux3oxn",
+    "title": "Couch Removal from 1st Floor Apt",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux3oxn/couch_removal_from_1st_floor_apt/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T14:02:28+00:00"
+   },
+   {
+    "id": "1ux3em1",
+    "title": "Good Tailor/Seamstress?",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux3em1/good_tailorseamstress/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T14:02:28+00:00"
+   },
    {
     "id": "1ux2j48",
     "title": "Played a round of pool at Needs w/ my friends",
@@ -1598,38 +1638,6 @@
     "id": "1uwayx1",
     "title": "Gillian Welch & David Rawlings at Shelburne Museum",
     "url": "https://www.reddit.com/r/burlington/comments/1uwayx1/gillian_welch_david_rawlings_at_shelburne_museum/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T17:02:31+00:00"
-   },
-   {
-    "id": "1uwau1a",
-    "title": "Heads up",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwau1a/heads_up/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T17:02:31+00:00"
-   },
-   {
-    "id": "1uwat2l",
-    "title": "Vt. town considering new rules for e-bikes and e-motos",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwat2l/vt_town_considering_new_rules_for_ebikes_and/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T17:02:31+00:00"
-   },
-   {
-    "id": "1uwag1y",
-    "title": "Visiting",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwag1y/visiting/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T17:02:31+00:00"
-   },
-   {
-    "id": "1uwa7zy",
-    "title": "Edible flowers",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwa7zy/edible_flowers/",
     "score": null,
     "comments": null,
     "created": "2026-07-14T17:02:31+00:00"
