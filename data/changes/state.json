@@ -1,16 +1,6 @@
 {
  "nws-weather": {
-  "alerts": [
-   {
-    "id": "urn:oid:2.49.0.1.840.0.e56f46f4d799027e02465c1e313eff919fc30693.002.1",
-    "event": "Severe Thunderstorm Watch",
-    "headline": "Severe Thunderstorm Watch issued July 15 at 1:40AM EDT until July 15 at 4:00AM EDT by NWS Burlington VT",
-    "severity": "Severe",
-    "onset": "2026-07-15T01:40:00-04:00",
-    "ends": "2026-07-15T04:00:00-04:00",
-    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
-   }
-  ],
+  "alerts": [],
   "forecast_flag": {
    "day": "2026-07-15",
    "text": "Overnight: Showers and thunderstorms"
@@ -837,6 +827,13 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-15/ice-raid-south-burlington-vermont-bodycam-video",
+      "title": "No exit: Inside a botched ICE raid in Vermont",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-15/ice-raid-south-burlington-vermont-bodycam-video",
+      "ts": "2026-07-15T09:00:00+00:00",
+      "summary": "Vermont Public’s review of more than 130 hours of body camera footage shows local police confronted both ICE and protesters as officers resisted — but ultimately accepted — a role in March’s immigration raid."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-14/law-fire-chiefs-forest-fire-wardens",
       "title": "New law makes fire chiefs the new forest fire wardens",
       "link": "https://www.vermontpublic.org/local-news/2026-07-14/law-fire-chiefs-forest-fire-wardens",
@@ -912,13 +909,6 @@
       "link": "https://www.vermontpublic.org/show/vermont-this-week/2026-07-10/in-review-scott-healthcare-order-brattleboro-birthing-center",
       "ts": "2026-07-10T21:20:33+00:00",
       "summary": "Vermont's top journalists join moderator Mitch Wertlieb to delve into the most important news stories of the week."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-10/garden-tours-around-vermont",
-      "title": "Garden tours around Vermont offer an exclusive peek at exceptional landscapes",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-10/garden-tours-around-vermont",
-      "ts": "2026-07-10T18:36:24+00:00",
-      "summary": "Every summer, towns around the state give visitors a chance to walk through private gardens and meet the people who grew them."
      }
     ]
    },
@@ -926,7 +916,7 @@
     "items": [
      {
       "id": "HYJCOZTUHNF4NGVLEYPOANOZEQ",
-      "title": "Severe Thunderstorm Watch in effect for Vermont, New York & New Hampshire overnight",
+      "title": "Severe Thunderstorm Watch in effect for Vermont, New York & New Hampshire through the early morning",
       "link": "https://www.wcax.com/2026/07/15/severe-thunderstorm-watch-effect-vermont-new-york-new-hampshire-tuesday-night/",
       "ts": "2026-07-15T01:08:45+00:00",
       "summary": "Severe thunderstorms are possible in our region through early Wednesday morning. Storms could contain damaging wind gusts and large hail."
@@ -1279,6 +1269,20 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71939735",
+      "title": "Confirmed Ebola cases top 2,000 in Congo, including 754 deaths",
+      "link": "https://www.mynbc5.com/article/congo-ebola-cases-deaths-fastest-growing-outbreak/71939735",
+      "ts": "2026-07-15T09:18:00+00:00",
+      "summary": "Confirmed cases of Ebola in Congo have reached 2,011, according to new data, in what authorities say is the fastest-growing outbreak on record."
+     },
+     {
+      "id": "71928566",
+      "title": "Trump touts 'tremendous chemistry' with new Iraqi Prime Minister al-Zaidi",
+      "link": "https://www.mynbc5.com/article/trump-iraq-prime-minister-ali-al-zaidi/71928566",
+      "ts": "2026-07-15T09:01:00+00:00",
+      "summary": "President Trump is welcoming Iraq's new prime minister to the White House to push for disarming a network of Iran-backed militias operating in the country."
+     },
+     {
       "id": "71936416",
       "title": "Overnight severe storms, smoke lingers with dropping humidity Wednesday",
       "link": "https://www.mynbc5.com/article/overnight-severe-storms-smoke-lingers-with-dropping-humidity-wednesday-07-15-26/71936416",
@@ -1403,20 +1407,6 @@
       "link": "https://www.mynbc5.com/article/campers-brace-for-severe-storms-in-northern-vermont/71934374",
       "ts": "2026-07-14T22:29:00+00:00",
       "summary": "\"We'll see what happens.\" Intense winds in the forecast have campers at VT state parks debating whether to pack up early or ride out the storm."
-     },
-     {
-      "id": "71935909",
-      "title": "Brattleboro Hospital staff and community supporters fight to try and save hospital's birthing center",
-      "link": "https://www.mynbc5.com/article/brattleboro-hospital-staff-and-community-supporters-fight-to-try-and-save-hospitals-birthing-center/71935909",
-      "ts": "2026-07-14T22:28:00+00:00",
-      "summary": "After announcing plans to close its birthing center because of financial reasons, the Brattleboro Memorial Hospital held a public meeting Tuesday where hospital staff and community members shared their concerns"
-     },
-     {
-      "id": "71935235",
-      "title": "Storm prep underway as local crews brace for severe weather",
-      "link": "https://www.mynbc5.com/article/prep-for-potential-storm-damage/71935235",
-      "ts": "2026-07-14T22:02:00+00:00",
-      "summary": "As severe weather approaches, businesses that help with storm damage are preparing for what could be a busy night."
      }
     ]
    },
