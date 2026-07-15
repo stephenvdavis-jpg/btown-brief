@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T15:57:07+00:00",
+ "generated": "2026-07-15T17:42:30+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -2364,6 +2364,83 @@
    "source": "civicclerk",
    "sourceName": "City meeting portal",
    "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-15T17:02:19+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: News about Matty Tanner",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxbeo7/news_about_matty_tanner/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T17:02:19+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Language exchange spanish-english",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxb82f/language_exchange_spanishenglish/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T17:02:19+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Indoor activities",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxaaww/indoor_activities/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T17:02:19+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T17:02:19+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Car Break In S Union",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1ux8v4l/car_break_in_s_union/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T17:02:19+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Why doesn’t Burlington have a strong playground culture like other cities?",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1ux8k2m/why_doesnt_burlington_have_a_strong_playground/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T17:42:32+00:00",
+   "category": "cityhall",
+   "headline": "City Council With Mayor Presiding Meeting agenda posted",
+   "detail": "meets Monday, Jul 13",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/10075/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 3,
    "kind": "changed"
   }
  ]

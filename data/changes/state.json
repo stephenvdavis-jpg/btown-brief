@@ -453,7 +453,8 @@
     "hasAgenda": true,
     "files": [
      "City Council With Mayor Presiding Meeting",
-     "City Council With Mayor Presiding Meeting"
+     "City Council With Mayor Presiding Meeting",
+     "July 13, 2026 City Council With Mayor Presiding Meeting Minutes LO"
     ]
    },
    "10067": {
@@ -845,6 +846,13 @@
       "summary": "Vermont Public’s review of more than 130 hours of body camera footage shows local police confronted both ICE and protesters as officers resisted — but ultimately accepted — a role in March’s immigration raid."
      },
      {
+      "id": "https://www.vermontpublic.org/2026-07-14/your-gaze-is-unique-as-fingerprint-says-dartmouth-study-eye-tracking",
+      "title": "Your gaze is as unique as a fingerprint, says Dartmouth study",
+      "link": "https://www.vermontpublic.org/2026-07-14/your-gaze-is-unique-as-fingerprint-says-dartmouth-study-eye-tracking",
+      "ts": "2026-07-14T21:32:25+00:00",
+      "summary": "New research from Dartmouth says the way we look around new environments reveals information about our internal priorities and memories."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-14/law-fire-chiefs-forest-fire-wardens",
       "title": "New law makes fire chiefs the new forest fire wardens",
       "link": "https://www.vermontpublic.org/local-news/2026-07-14/law-fire-chiefs-forest-fire-wardens",
@@ -913,24 +921,45 @@
       "link": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-12/more-than-just-tawny-orange-choose-daylilies-with-other-color-and-petal-variations",
       "ts": "2026-07-12T09:00:00+00:00",
       "summary": "Along with the cheery orange daylilies, look for different colorways and petal patterns for your yard and gardens."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-this-week/2026-07-10/in-review-scott-healthcare-order-brattleboro-birthing-center",
-      "title": "In review: Gov. Scott's health system prescription, Brattleboro birthing center, affordability poll",
-      "link": "https://www.vermontpublic.org/show/vermont-this-week/2026-07-10/in-review-scott-healthcare-order-brattleboro-birthing-center",
-      "ts": "2026-07-10T21:20:33+00:00",
-      "summary": "Vermont's top journalists join moderator Mitch Wertlieb to delve into the most important news stories of the week."
      }
     ]
    },
    "wcax": {
     "items": [
      {
+      "id": "GGSZHXPAZJHN5F7VRZI6EVUDDA",
+      "title": "Campaign Countdown: Vermont Democrats for lieutenant governor",
+      "link": "https://www.wcax.com/2026/07/14/campaign-countdown-vermont-democrats-lieutenant-governor/",
+      "ts": "2026-07-15T17:30:35+00:00",
+      "summary": "Three Democrats are vying for Vermont’s lieutenant governor seat in the Aug. 11 primary."
+     },
+     {
       "id": "TRV7HEGFZRETTO5VAT2NWPIJBI",
-      "title": "POLL: Should Daylight Saving Time be permanent?",
+      "title": "POLL: Should daylight saving time be permanent?",
       "link": "https://www.wcax.com/2026/07/15/poll-should-daylight-saving-time-be-permanent/",
-      "ts": "2026-07-15T15:30:49+00:00",
+      "ts": "2026-07-15T16:33:27+00:00",
       "summary": "Answer our poll to see what people in our region are saying about this possible change to the way we keep time."
+     },
+     {
+      "id": "RFYXF3RYNZDLXBMVHW2WLQP7II",
+      "title": "Ben and Jerry’s Foundation may close due to funding cuts",
+      "link": "https://www.wcax.com/2026/07/15/ben-jerrys-foundation-may-close-due-funding-cuts/",
+      "ts": "2026-07-15T16:21:16+00:00",
+      "summary": "The Ben and Jerry’s Foundation will shut down at the end of the year unless it wins a high-stakes legal fight over funding"
+     },
+     {
+      "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
+      "title": "3 killed in small plane crash in Northern New York",
+      "link": "https://www.wcax.com/2026/07/14/3-killed-small-plane-crash-northern-new-york/",
+      "ts": "2026-07-15T16:17:05+00:00",
+      "summary": "Questions remain over what caused a fatal plane crash in the Adirondacks late Monday night."
+     },
+     {
+      "id": "6IXXORJACRAFZFLRVOJEBLUQAY",
+      "title": "You Can Quote Me: July 12, 2026",
+      "link": "https://www.wcax.com/2026/07/15/you-can-quote-me-july-12-2026/",
+      "ts": "2026-07-15T15:57:28+00:00",
+      "summary": "On this \"You Can Quote Me,\" Vermont's commerce secretary steps down, a divide in the Democratic Party and the Olympics gets rid of the Nordic combined."
      },
      {
       "id": "D5NLSGFOWVFZDN6V6OP2MFPZAE",
@@ -952,13 +981,6 @@
       "link": "https://www.wcax.com/2026/07/15/vermont-housing-crisis-is-subject-candidate-forum/",
       "ts": "2026-07-15T13:25:54+00:00",
       "summary": "Democratic candidates for governor and lieutenant governor will lay out their plans on housing at a forum on Wednesday evening."
-     },
-     {
-      "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
-      "title": "3 killed in small plane crash in Northern New York",
-      "link": "https://www.wcax.com/2026/07/14/3-killed-small-plane-crash-northern-new-york/",
-      "ts": "2026-07-15T12:08:00+00:00",
-      "summary": "Questions remain over what caused a fatal plane crash in the Adirondacks late Monday night."
      },
      {
       "id": "WZUT6UXPBREA7B37MAWNQF272U",
@@ -1015,13 +1037,6 @@
       "link": "https://www.wcax.com/2026/07/14/no-mow-strategies-protect-grassland-bird-nests-may-be-changing/",
       "ts": "2026-07-14T21:55:01+00:00",
       "summary": "There may be a shift coming in how biologists protect Vermont’s grassland birds. Recent strategies to protect nests have centered around letting fields grow"
-     },
-     {
-      "id": "GGSZHXPAZJHN5F7VRZI6EVUDDA",
-      "title": "Campaign Countdown: Vermont Democrats for lieutenant governor",
-      "link": "https://www.wcax.com/2026/07/14/campaign-countdown-vermont-democrats-lieutenant-governor/",
-      "ts": "2026-07-14T21:42:57+00:00",
-      "summary": "Three Democrats are vying for Vermont’s lieutenant governor seat in the Aug. 11 primary."
      },
      {
       "id": "D2JOJRLGFFEBJPFYN6GLGZXTHE",
@@ -1260,25 +1275,109 @@
       "link": "https://www.wcax.com/2026/07/12/hazy-hot-humid-tuesday-along-with-possibility-severe-thunderstorms-tuesday-evening-even-overnight/",
       "ts": "2026-07-12T12:31:58+00:00",
       "summary": "A First Alert Weather Day remains in effect for Tuesday due to hot and humid weather and the chance for severe thunderstorms. Highs will be in the upper 80s to mid-90s with dew points in the 60s to low 70s. This will create a heat index of 95 to 100 degrees, so be sure to take breaks and stay hydrated if you're outdoors. Also, severe thunderstorms are possible in northern sections during the eveni"
-     },
-     {
-      "id": "RTPWF5KSOFFGPIANZNEVJF56DU",
-      "title": "In the Garden: Summer replanting",
-      "link": "https://www.wcax.com/2026/07/12/garden-summer-replanting/",
-      "ts": "2026-07-12T11:40:53+00:00",
-      "summary": "It's not too late to get your greens growing! Here are tips to get summer veggies going and to plan ahead for fall."
-     },
-     {
-      "id": "LALIETUQ2FB6HMBQA7VTPC56XA",
-      "title": "Burlington Fire, Coast Guard rescue woman after fall near Lake Champlain shores",
-      "link": "https://www.wcax.com/2026/07/12/burlington-fire-coast-guard-rescue-woman-after-fall-near-lake-champlain-shores/",
-      "ts": "2026-07-12T03:49:30+00:00",
-      "summary": "The U.S. Coast Guard and the Burlington Fire Department rescued a woman Sunday evening after she fell an estimated 10 to 15 feet near Lone Rock Point on Lake Champlain."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71941612",
+      "title": "ICE should keep making traffic stops despite recent shootings, Trump says",
+      "link": "https://www.mynbc5.com/article/trump-ice-traffic-stops-fatal-shootings/71941612",
+      "ts": "2026-07-15T17:35:00+00:00",
+      "summary": "President Trump says ICE should continue traffic stops despite recent fatal shootings, seeming to contradict a new policy to halt them."
+     },
+     {
+      "id": "71941354",
+      "title": "'Worst-case' flood scenario underway in southern Texas",
+      "link": "https://www.mynbc5.com/article/southern-texas-flooding-rescues/71941354",
+      "ts": "2026-07-15T17:08:00+00:00",
+      "summary": "The \"worst-case\" flood scenario is underway in southern Texas, where dozens have already been rescued, the Weather Prediction Center says."
+     },
+     {
+      "id": "71933721",
+      "title": "Vermont Fish and Wildlife investigate black bear shot and killed, dumped near Connecticut River",
+      "link": "https://www.mynbc5.com/article/vermont-fish-and-wildlife-investigate-black-bear-shot-and-killed-dumped-near-connecticut-river/71933721",
+      "ts": "2026-07-15T17:07:00+00:00",
+      "summary": "Officials say the mother bear was most likely killed somewhere else and dumped in Newbury."
+     },
+     {
+      "id": "71942165",
+      "title": "Search your ZIP code: Later sunrises under permanent daylight saving time",
+      "link": "https://www.mynbc5.com/article/sunshine-protection-act-daylight-saving-time/71942165",
+      "ts": "2026-07-15T17:04:00+00:00",
+      "summary": "Search your ZIP code to see when your sunrise and sunset would be if the U.S. got rid of the clock change."
+     },
+     {
+      "id": "71936416",
+      "title": "Turning less humid Wednesday afternoon, smoke lingers",
+      "link": "https://www.mynbc5.com/article/turning-less-humid-wednesday-afternoon-smoke-lingers-07-15-26/71936416",
+      "ts": "2026-07-15T17:02:00+00:00",
+      "summary": "Large hail, damaging wind for a few towns; highs fall back to the 80s the rest of the week"
+     },
+     {
+      "id": "71952146",
+      "title": "New Jersey woman charged with DUI after Jeep crashes into swimming pool at resort",
+      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-vermont-dui-jeep-pool/71952146",
+      "ts": "2026-07-15T17:01:00+00:00",
+      "summary": "A New Jersey woman was arrested and charged after police said she drove drunk and crashed her Jeep into a busy swimming pool at Smugglers' Notch Resort in Cambridge earlier this week."
+     },
+     {
+      "id": "71945811",
+      "title": "Man found dead after going missing on Lake George",
+      "link": "https://www.mynbc5.com/article/lake-george-new-york-drowning/71945811",
+      "ts": "2026-07-15T16:47:00+00:00",
+      "summary": "A man who went missing while swimming with friends on Lake George has been found dead, according to the Warren County Sheriff's Office."
+     },
+     {
+      "id": "71941023",
+      "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
+      "link": "https://www.mynbc5.com/article/us-iran-war-latest-july-15/71941023",
+      "ts": "2026-07-15T16:42:00+00:00",
+      "summary": "The U.S. reimposed a naval blockade on Iran and intensified its airstrikes in retaliation for Tehran’s attacks on ships trying to pass through the Strait of Hormuz."
+     },
+     {
+      "id": "71943225",
+      "title": "Wildfires expose millions in the Midwest, Northeast US to dangerous smoke",
+      "link": "https://www.mynbc5.com/article/wildfires-dangerous-smoke-expose-millions-midwest-northeast/71943225",
+      "ts": "2026-07-15T16:32:00+00:00",
+      "summary": "Heavy smoke from several wildfires is expected to expose millions of people across the Midwest and Northeast U.S. to dangerous air pollution."
+     },
+     {
+      "id": "71935074",
+      "title": "Body of man recovered following drowning in North Hero",
+      "link": "https://www.mynbc5.com/article/fatal-drowning-north-hero/71935074",
+      "ts": "2026-07-15T16:27:00+00:00",
+      "summary": "The body of a missing swimmer has been recovered in North Hero, according to police."
+     },
+     {
+      "id": "71939376",
+      "title": "Gov. Hochul signs bill, pausing permits for new data centers",
+      "link": "https://www.mynbc5.com/article/hochul-pauses-new-data-center-permits/71939376",
+      "ts": "2026-07-15T16:26:00+00:00",
+      "summary": "New York is now the first state to issue a statewide moratorium on the construction of new large-scale data centers. Gov. Kathy Hochul signed the bill to buy time and come up with a regulatory framework that addresses environmental and economic concerns from community members."
+     },
+     {
+      "id": "71944008",
+      "title": "New York announces air quality advisory",
+      "link": "https://www.mynbc5.com/article/ny-announces-air-quality-advisory/71944008",
+      "ts": "2026-07-15T16:08:00+00:00",
+      "summary": "Across Northern New York, air quality has been rated unsafe for sensitive groups, because of wildfire smoke coming from Minnesota and Ontario, Canada."
+     },
+     {
+      "id": "71943970",
+      "title": "Senate committee reviews Erica Schwartz's nomination to take over beleaguered CDC",
+      "link": "https://www.mynbc5.com/article/erica-schwartz-cdc-director-senate-hearing/71943970",
+      "ts": "2026-07-15T16:02:00+00:00",
+      "summary": "Dr. Erica Schwartz, the nominee to lead the CDC, is appearing before a U.S. Senate committee."
+     },
+     {
+      "id": "71941876",
+      "title": "LIVE: Blanche confronts skeptical questioning at Senate confirmation hearing",
+      "link": "https://www.mynbc5.com/article/todd-blanche-senate-confirmation-hearing-attorney-general/71941876",
+      "ts": "2026-07-15T15:54:00+00:00",
+      "summary": "Acting Attorney General Todd Blanche is confronting skeptical questioning at a Senate confirmation hearing about the creation of a fund to compensate allies of President Trump and a tax immunity deal for the president."
+     },
      {
       "id": "71942429",
       "title": "Trump's pick for intelligence head emphasizes security experience as Democrats press on elections",
@@ -1292,13 +1391,6 @@
       "link": "https://www.mynbc5.com/article/ice-body-cameras-fatal-shootings-dhs-delay/71943082",
       "ts": "2026-07-15T15:23:00+00:00",
       "summary": "ICE agents involved in two recent deadly shootings in Houston and in Maine were not wearing body cameras, raising questions about accountability."
-     },
-     {
-      "id": "71943225",
-      "title": "Wildfires expose millions in the Midwest, Northeast US to dangerous smoke",
-      "link": "https://www.mynbc5.com/article/wildfires-dangerous-smoke-expose-millions-midwest-northeast/71943225",
-      "ts": "2026-07-15T15:18:00+00:00",
-      "summary": "Heavy smoke from several wildfires is expected to expose millions of people across the Midwest and Northeast U.S. to dangerous air pollution."
      },
      {
       "id": "71923361",
@@ -1327,97 +1419,6 @@
       "link": "https://www.mynbc5.com/article/weathersfield-vermont-viewer-photos-storm-damage/71942728",
       "ts": "2026-07-15T14:01:00+00:00",
       "summary": "Despite less severe storm damage than forecasts initially anticipated, some areas including Weathersfield, Vermont, saw strong damage, including trees snapped in half and a flipped over trampoline off of Goulden Ridge Road."
-     },
-     {
-      "id": "71942067",
-      "title": "President Trump reverses on Strait of Hormuz toll less than 24 hours after announcing it",
-      "link": "https://www.mynbc5.com/article/trump-reverses-strait-of-hormuz-toll-proposal/71942067",
-      "ts": "2026-07-15T13:54:00+00:00",
-      "summary": "President Donald Trump reversed his proposal to charge ships passing through the Strait of Hormuz, citing productive discussions with Middle East leaders, as U.S.-Iran tensions escalate."
-     },
-     {
-      "id": "71941988",
-      "title": "Hospital announces closure of birthing center in St. Lawrence County",
-      "link": "https://www.mynbc5.com/article/birthing-center-closure-st-lawrence-county/71941988",
-      "ts": "2026-07-15T13:38:00+00:00",
-      "summary": "The North Star Health Alliance has announced plans to close labor and birthing services at Claxton-Hepburn Medical Center in Ogdensburg. The next closest maternity hospital is a 45-minute drive to Potsdam."
-     },
-     {
-      "id": "71941225",
-      "title": "Trump nominees head to Capitol Hill for what could be heated confirmation hearings",
-      "link": "https://www.mynbc5.com/article/trump-nominees-capitol-hill-heated-confirmation-hearings/71941225",
-      "ts": "2026-07-15T13:28:00+00:00",
-      "summary": "Three Trump administration nominees, including Todd Blanche for attorney general, face Senate confirmation hearings Wednesday, with questions expected on key issues."
-     },
-     {
-      "id": "71930789",
-      "title": "Three dead following small plane crash in Northern New York, FAA reports; Victims ID'ed",
-      "link": "https://www.mynbc5.com/article/lake-clear-new-york-plane-crash-mcmaster/71930789",
-      "ts": "2026-07-15T13:09:00+00:00",
-      "summary": "A pilot and two passengers onboard a small plane have died following a crash in Harrietstown, according to the FAA. Here's what we know."
-     },
-     {
-      "id": "71941876",
-      "title": "LIVE: Blanche faces Senate confirmation hearing as attorney general",
-      "link": "https://www.mynbc5.com/article/todd-blanche-senate-confirmation-hearing-attorney-general/71941876",
-      "ts": "2026-07-15T13:07:00+00:00",
-      "summary": "Acting Attorney General Todd Blanche will confront questions about his brief but turbulent tenure atop the Justice Department during a Senate confirmation hearing."
-     },
-     {
-      "id": "71939938",
-      "title": "Trees cleared, I-91 northbound reopens following severe storms; See other damage reports",
-      "link": "https://www.mynbc5.com/article/trees-block-interstate-springfield-vermont/71939938",
-      "ts": "2026-07-15T12:57:00+00:00",
-      "summary": "Vermont State Police closed I-91 northbound between Springfield and Weathersfield Wednesday morning after storms knocked down two trees, blocking the highway."
-     },
-     {
-      "id": "71932660",
-      "title": "Incoming VSP commander discusses his goals, ICE, and his own car crash",
-      "link": "https://www.mynbc5.com/article/vermont-state-police-shawn-loan-leadership-change/71932660",
-      "ts": "2026-07-15T12:51:00+00:00",
-      "summary": "Vermont State Police Col. Matthew Birmingham is retiring after 11 years, with Deputy Director Shawn Loan set to take over next month, focusing on data-driven prevention efforts."
-     },
-     {
-      "id": "71935074",
-      "title": "Body of man recovered following drowning in North Hero",
-      "link": "https://www.mynbc5.com/article/fatal-drowning-north-hero/71935074",
-      "ts": "2026-07-15T12:50:00+00:00",
-      "summary": "The body of a missing swimmer has been recovered in North Hero, according to police."
-     },
-     {
-      "id": "71941612",
-      "title": "Trump says ICE should continue traffic stops after recent deadly shootings",
-      "link": "https://www.mynbc5.com/article/trump-ice-traffic-stops-fatal-shootings/71941612",
-      "ts": "2026-07-15T12:02:00+00:00",
-      "summary": "President Trump says ICE should continue traffic stops after recent fatal shootings, seeming to contradict a new policy to halt them"
-     },
-     {
-      "id": "71936810",
-      "title": "1 dead and 3 missing after boat carrying mostly family members sinks near Alcatraz Island",
-      "link": "https://www.mynbc5.com/article/pontoon-boat-fire-alcatraz-island-san-francisco/71936810",
-      "ts": "2026-07-15T11:12:00+00:00",
-      "summary": "Authorities say one person has died, three people are missing and 16 others have been rescued from waters off San Francisco after a pontoon boat sank."
-     },
-     {
-      "id": "71940749",
-      "title": "74-year-old inmate executed in Florida for 1982 murder",
-      "link": "https://www.mynbc5.com/article/florida-dennis-sochor-execution-patricia-gifford/71940749",
-      "ts": "2026-07-15T11:04:00+00:00",
-      "summary": "Dennis Sochor, convicted of killing 18-year-old Patricia Gifford in 1982, became the oldest inmate executed in Florida at the age of 74."
-     },
-     {
-      "id": "71941023",
-      "title": "US resumes strikes on Iran in daylight, part of an increasing tempo of attacks",
-      "link": "https://www.mynbc5.com/article/us-iran-war-latest-july-15/71941023",
-      "ts": "2026-07-15T10:51:00+00:00",
-      "summary": "The U.S. reimposed a naval blockade on Iran and intensified its airstrikes in retaliation for Tehran’s attacks on ships trying to pass through the Strait of Hormuz."
-     },
-     {
-      "id": "71939376",
-      "title": "Gov. Hochul signs bill, pausing permits for new data centers",
-      "link": "https://www.mynbc5.com/article/hochul-pauses-new-data-center-permits/71939376",
-      "ts": "2026-07-15T10:13:00+00:00",
-      "summary": "New York is now the first state to issue a statewide moratorium on the construction of new large-scale data centers. Gov. Kathy Hochul signed the bill to buy time and come up with a regulatory framework that addresses environmental and economic concerns from community members."
      }
     ]
    },
@@ -1485,6 +1486,70 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uxbeo7",
+    "title": "News about Matty Tanner",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxbeo7/news_about_matty_tanner/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T17:02:19+00:00"
+   },
+   {
+    "id": "1uxb82f",
+    "title": "Language exchange spanish-english",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxb82f/language_exchange_spanishenglish/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T17:02:19+00:00"
+   },
+   {
+    "id": "1uxaaww",
+    "title": "Indoor activities",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxaaww/indoor_activities/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T17:02:19+00:00"
+   },
+   {
+    "id": "1ux9ust",
+    "title": "Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T17:02:19+00:00"
+   },
+   {
+    "id": "1ux8v4l",
+    "title": "Car Break In S Union",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux8v4l/car_break_in_s_union/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T17:02:19+00:00"
+   },
+   {
+    "id": "1ux8k2m",
+    "title": "Why doesn’t Burlington have a strong playground culture like other cities?",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux8k2m/why_doesnt_burlington_have_a_strong_playground/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T17:02:19+00:00"
+   },
+   {
+    "id": "1ux7v1q",
+    "title": "Hello neighbors",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux7v1q/hello_neighbors/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T17:02:19+00:00"
+   },
+   {
+    "id": "1ux7ndg",
+    "title": "soundscapes of our city 🥰",
+    "url": "https://www.reddit.com/r/burlington/comments/1ux7ndg/soundscapes_of_our_city/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T17:02:19+00:00"
+   },
    {
     "id": "1ux5gto",
     "title": "Nikhil Goyal's campaign sets fundraising record at $140k, with approximately 67% ($95k) coming from out of state donors.",
@@ -1580,70 +1645,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-14T23:01:58+00:00"
-   },
-   {
-    "id": "1uwkgvp",
-    "title": "Cellphone reception on the lake Causeway?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwkgvp/cellphone_reception_on_the_lake_causeway/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T23:01:58+00:00"
-   },
-   {
-    "id": "1uwim1w",
-    "title": "Looking for a roommate in September",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwim1w/looking_for_a_roommate_in_september/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T20:02:39+00:00"
-   },
-   {
-    "id": "1uwfxip",
-    "title": "Hill Fest at the Old Lantern!",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwfxip/hill_fest_at_the_old_lantern/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T20:02:39+00:00"
-   },
-   {
-    "id": "1uwevks",
-    "title": "Does anyone know what's going on with Shalimar?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwevks/does_anyone_know_whats_going_on_with_shalimar/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T20:02:39+00:00"
-   },
-   {
-    "id": "1uwel9j",
-    "title": "shoutout city market (south end)",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwel9j/shoutout_city_market_south_end/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T20:02:39+00:00"
-   },
-   {
-    "id": "1uwc44r",
-    "title": "Available: Rory Scovel (x2) 7/14 at VCC",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwc44r/available_rory_scovel_x2_714_at_vcc/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T17:02:31+00:00"
-   },
-   {
-    "id": "1uwc2yf",
-    "title": "Burlington is Back!",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwc2yf/burlington_is_back/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T17:02:31+00:00"
-   },
-   {
-    "id": "1uwayx1",
-    "title": "Gillian Welch & David Rawlings at Shelburne Museum",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwayx1/gillian_welch_david_rawlings_at_shelburne_museum/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T17:02:31+00:00"
    }
   ]
  },
