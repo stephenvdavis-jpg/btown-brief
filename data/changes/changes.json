@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T17:42:30+00:00",
+ "generated": "2026-07-15T19:43:12+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -2442,6 +2442,138 @@
    "sourceName": "City meeting portal",
    "priority": 3,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-15T19:06:53+00:00",
+   "category": "news",
+   "headline": "Cutting GLP-1 coverage may cost UVM Health more than it saves",
+   "detail": "",
+   "url": "https://vtdigger.org/2026/07/15/opinion-cutting-glp-1-coverage-may-cost-uvm-health-more-than-it-saves/",
+   "source": "vtdigger",
+   "sourceName": "VTDigger",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:16:00+00:00",
+   "category": "news",
+   "headline": "Act 250 Notice, Minor Application 4c0418-6a, 10 V.S.A. §§ 6000 – 6111",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/act250notices/act-250-notice-minor-application-4c0418-6a-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:20:00+00:00",
+   "category": "news",
+   "headline": "Burlington Development Review Board, Tuesday, August 4, 2026, 5:00 Pm, Public Hearing Notice",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/publicmeetings/burlington-development-review-board-tuesday-august-4-2026-500-pm-public-hearing-notice/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:24:00+00:00",
+   "category": "news",
+   "headline": "Act 250 Notice, Minor Application 4c0364-1a, 10 V.S.A. §§ 6000 – 6111",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/act250notices/act-250-notice-minor-application-4c0364-1a-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:27:00+00:00",
+   "category": "news",
+   "headline": "Northstar Self Storage will be having a public and online sale/auction for the following storage units on JuLY 30, 2026 at 9:00 am",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/storageauctions/northstar-self-storage-will-be-having-a-public-and-online-sale-auction-for-the-following-storage-units-on-july-30-2026-at-900-am/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:29:00+00:00",
+   "category": "news",
+   "headline": "Town Of Westford Development Review Board, Notice Of Public Hearing",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/publicmeetings/town-of-westford-development-review-board-notice-of-public-hearing-4/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:30:00+00:00",
+   "category": "news",
+   "headline": "City Of Burlington, In The Year Two Thousand Twenty-Six. A Regulation in Relation to Rules and Regulations of the Traffic Commission — §9 Fifteen-minute parking",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legals/city-of-burlington-in-the-year-two-thousand-twenty-six-a-regulation-in-relation-to-rules-and-regulations-of-the-traffic-commission-%c2%a79-fifteen-minute-parking-2/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:30:00+00:00",
+   "category": "news",
+   "headline": "Notice Of Invitation To Bid: Chittenden County RPC, Lake Forest Condos, Stormwater Improvement Project. Sealed bids due 1:00 p.m. Friday, August 7, 2026",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/requestforproposals/notice-of-invitation-to-bid-chittenden-county-rpc-lake-forest-condos-stormwater-improvement-project-sealed-bids-due-100-p-m-friday-august-7-2026/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:30:00+00:00",
+   "category": "news",
+   "headline": "Act 250 Notice, Minor Application 4c1040r-3a-1, 10 V.S.A. §§ 6000 – 6111",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/act-250-notice-minor-application-4c1040r-3a-1-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:30:00+00:00",
+   "category": "news",
+   "headline": "State of Vermont Superior Court, Probate Division, Orleans Unit Docket No. 26-PR-03345",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/noticetocreditors/state-of-vermont-superior-court-probate-division-orleans-unit-docket-no-26-pr-03345/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:30:00+00:00",
+   "category": "news",
+   "headline": "Huntington Development Review Board, Agenda, July 22nd, 2026",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/publicmeetings/huntington-development-review-board-agenda-july-22nd-2026/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:31:36+00:00",
+   "category": "news",
+   "headline": "Man accused of sexually assaulting woman near Burlington parking garage",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/15/man-accused-sexually-assaulting-woman-near-burlington-parking-garage/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }

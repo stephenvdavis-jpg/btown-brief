@@ -11,42 +11,42 @@
    "Blanchard Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-14T19:05:00+00:00"
+    "resultTime": "2026-07-15T18:20:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-14T19:05:00+00:00"
+    "resultTime": "2026-07-15T18:20:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-14T19:13:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-15T18:21:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-14T19:54:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-15T18:51:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-14T19:53:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-15T18:51:00+00:00"
    },
    "North Beach North": {
     "status": "open",
-    "reason": "Little murky",
-    "resultTime": "2026-07-14T19:35:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-15T18:39:00+00:00"
    },
    "North Beach South": {
     "status": "open",
-    "reason": "Little murky",
-    "resultTime": "2026-07-14T19:34:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-15T18:38:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
-    "reason": "Wavy and clear",
-    "resultTime": "2026-07-14T20:02:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-15T18:53:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
@@ -55,8 +55,8 @@
    },
    "Texaco Beach": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-14T19:29:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-15T18:33:00+00:00"
    }
   }
  },
@@ -542,7 +542,10 @@
     "name": "Advisory Committee on Accessibility Meeting",
     "start": "2026-07-20T15:00:00+00:00",
     "hasAgenda": true,
-    "files": []
+    "files": [
+     "07.20.26 BACA Agenda",
+     "07.20.26 BACA Agenda Packet"
+    ]
    }
   }
  },
@@ -551,79 +554,86 @@
    "sevendays-news": {
     "items": [
      {
-      "id": "https://www.sevendaysvt.com/?p=211874",
-      "title": "Fortified by Chocolate Milk, Monument Farms Tackles Its Future",
-      "link": "https://www.sevendaysvt.com/food-drink/fortified-by-chocolate-milk-monument-farms-tackles-its-future/",
-      "ts": "2026-07-15T14:00:00+00:00",
-      "summary": "Vermont’s dairy sector continues to struggle, but at the century-old family farm in Weybridge — now the state’s largest milk bottler — a fourth generation rises. The post Fortified by Chocolate Milk, Monument Farms Tackles Its Future appeared first on Seven Days . (Image: Caleb Kenna)"
+      "id": "https://www.sevendaysvt.com/?p=212182",
+      "title": "City Of Burlington, In The Year Two Thousand Twenty-Six. A Regulation in Relation to Rules and Regulations of the Traffic Commission — §9 Fifteen-minute parking",
+      "link": "https://www.sevendaysvt.com/legals/city-of-burlington-in-the-year-two-thousand-twenty-six-a-regulation-in-relation-to-rules-and-regulations-of-the-traffic-commission-%c2%a79-fifteen-minute-parking-2/",
+      "ts": "2026-07-15T19:30:00+00:00",
+      "summary": "Sponsor(s): Public Works Commission Action: Approval Date: 03/18/2026 Attestation of Adoption: Madeline Suender, EI Public Works Transportation Engineer, Technical Services Published: 07/15/26 Effective: 08/04/26 It is hereby Ordained by the Public Works Commission of the City of Burlington as follows: That Appendix C, Rule and Regulations of the Traffic Commission, §9 Fifteen-minute parking., of "
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211969",
-      "title": "Vermont Green FC Women Score Big in Inaugural Season",
-      "link": "https://www.sevendaysvt.com/arts-culture/sports/vermont-green-fc-women-score-big-in-inaugural-season/",
-      "ts": "2026-07-15T13:53:00+00:00",
-      "summary": "The team’s first season has been a smashing success, including sold-out home games and a trip to the finals next weekend. The post Vermont Green FC Women Score Big in Inaugural Season appeared first on Seven Days . (Image: Cecilia Luce)"
+      "id": "https://www.sevendaysvt.com/?p=212176",
+      "title": "Notice Of Invitation To Bid: Chittenden County RPC, Lake Forest Condos, Stormwater Improvement Project. Sealed bids due 1:00 p.m. Friday, August 7, 2026",
+      "link": "https://www.sevendaysvt.com/legal-notices/requestforproposals/notice-of-invitation-to-bid-chittenden-county-rpc-lake-forest-condos-stormwater-improvement-project-sealed-bids-due-100-p-m-friday-august-7-2026/",
+      "ts": "2026-07-15T19:30:00+00:00",
+      "summary": "The Chittenden County Regional Planning Commission (CCRPC) invites qualified contractors to prepare lump sum bids for the construction of the Stormwater Management Improvement Project located on the Lake Forest Condominiums property off Lake Forest Drive in Burlington, Vermont, herein referred to as the Project. The Project includes all work necessary to provide stormwater treatment improvements ["
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212001",
-      "title": "Family Remembers Siblings Who Died in Lamoille River",
-      "link": "https://www.sevendaysvt.com/news/immigration-news/family-remembers-siblings-who-died-in-lamoille-river/",
-      "ts": "2026-07-15T13:52:00+00:00",
-      "summary": "A brother and sister of Ecuadorian descent lived and died together. The post Family Remembers Siblings Who Died in Lamoille River appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212157",
+      "title": "Act 250 Notice, Minor Application 4c1040r-3a-1, 10 V.S.A. §§ 6000 – 6111",
+      "link": "https://www.sevendaysvt.com/legal-notices/act-250-notice-minor-application-4c1040r-3a-1-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
+      "ts": "2026-07-15T19:30:00+00:00",
+      "summary": "Application 4C1040R-3A-1 from Asch Enterprises, LLC, 2 Tigan Street, Winooski, VT 05404 was received on June 29, 2026 and deemed complete on July 6, 2026. The project is generally described as construction of a new 50 space parking lot along with associated lighting, landscaping and stormwater improvements. The project is located in E-Commerce Park at [ ] The post Act 250 Notice, Minor Application"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212021",
-      "title": "Rutland Debates Removing a Residency Requirement for Firefighters",
-      "link": "https://www.sevendaysvt.com/news/rutland-debates-removing-a-residency-requirement-for-firefighters/",
-      "ts": "2026-07-15T13:50:00+00:00",
-      "summary": "The city’s firefighters think eliminating a rule that they live within five miles of the station would help recruitment. Those opposed worry about backup if there were a big blaze. The post Rutland Debates Removing a Residency Requirement for Firefighters appeared first on Seven Days . (Image: Caleb Kenna)"
+      "id": "https://www.sevendaysvt.com/?p=212155",
+      "title": "State of Vermont Superior Court, Probate Division, Orleans Unit Docket No. 26-PR-03345",
+      "link": "https://www.sevendaysvt.com/legal-notices/noticetocreditors/state-of-vermont-superior-court-probate-division-orleans-unit-docket-no-26-pr-03345/",
+      "ts": "2026-07-15T19:30:00+00:00",
+      "summary": "In re ESTATE of SUSAN MOULTON NOTICE TO CREDITORS To the creditors of: Susan Moulton late of Newport Center I have been appointed to administer this estate. All creditors having claims against the decedent or the estate must present their claims in writing within four (4) months of the date of the first publication of [ ] The post State of Vermont Superior Court, Probate Division, Orleans Unit Doc"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212105",
-      "title": "A Luxury Stowe Mansion Is Being Auctioned With No Minimum Price",
-      "link": "https://www.sevendaysvt.com/news/802much/a-luxury-stowe-mansion-is-being-auctioned-with-no-minimum-price/",
-      "ts": "2026-07-15T13:44:00+00:00",
-      "summary": "The property, which includes an indoor athletic field that’s connected to the main house by an underground tunnel, was previously listed for sale at about $16 million. The post A Luxury Stowe Mansion Is Being Auctioned With No Minimum Price appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212153",
+      "title": "Huntington Development Review Board, Agenda, July 22nd, 2026",
+      "link": "https://www.sevendaysvt.com/legal-notices/publicmeetings/huntington-development-review-board-agenda-july-22nd-2026/",
+      "ts": "2026-07-15T19:30:00+00:00",
+      "summary": "Development Review Board: Wednesday, July 22nd, 2026, 7 pm Zoom: https://us06web.zoom.us/j/89027947592?pwd=rraLJDIfD7tUIxWmKbUKfq3p3VhubF.1 Telephone (toll-free): +16465588656, 89027947592#, *004384# US (New York) +16469313860, 89027947592#,*004384# US Meeting ID: 890 2794 7592 Passcode: 004384 Agendas and meeting materials can be accessed on-line at https://www.huntingtonvt.org Agendas and meetin"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211978",
-      "title": "From the Deputy Publisher: Good Points",
-      "link": "https://www.sevendaysvt.com/news/fromthepublisher/from-the-deputy-publisher-good-points/",
-      "ts": "2026-07-15T13:43:00+00:00",
-      "summary": "Deputy publisher Cathy Resmer was invited to talk about Seven Days’ Good Citizen Challenge at a national news summit in Pittsburgh. The post From the Deputy Publisher: Good Points appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212170",
+      "title": "Town Of Westford Development Review Board, Notice Of Public Hearing",
+      "link": "https://www.sevendaysvt.com/legal-notices/publicmeetings/town-of-westford-development-review-board-notice-of-public-hearing-4/",
+      "ts": "2026-07-15T19:29:00+00:00",
+      "summary": "Pursuant to 24 V.S.A. Chapter 117 and the Westford Land Use Development Regulations, the Westford Development Review Board will hold a public hearing at the Westford Town Offices (1713 Route 128) via ZOOM on Monday, July 27th, 2026 at 7:00 PM to review the following application: Application: Site Plan Review Applicant: Casey Mathieu [ ] The post Town Of Westford Development Review Board, Notice Of"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211975",
-      "title": "Letters to the Editor (7/15/26)",
-      "link": "https://www.sevendaysvt.com/news/letters/letters-to-the-editor-7-15-26/",
-      "ts": "2026-07-15T13:42:00+00:00",
-      "summary": "Readers react to recent articles The post Letters to the Editor (7/15/26) appeared first on Seven Days ."
+      "id": "https://www.sevendaysvt.com/?p=212167",
+      "title": "Northstar Self Storage will be having a public and online sale/auction for the following storage units on JuLY 30, 2026 at 9:00 am",
+      "link": "https://www.sevendaysvt.com/legal-notices/storageauctions/northstar-self-storage-will-be-having-a-public-and-online-sale-auction-for-the-following-storage-units-on-july-30-2026-at-900-am/",
+      "ts": "2026-07-15T19:27:00+00:00",
+      "summary": "Northstar Self Storage will be having a public and online sale/auction on July 30, 2026 at 9am EST at 205 Route 4A West, Castleton VT 05735 (Unit C111), 615 VT Route 7, Danby VT 05739 (D54), 681 Rockingham Rd, Rockingham VT 05151 (R58), 2517 Charlestown Rd, Springfield, VT 05150 (S15, S76), and online at www.storagetreasures.com [ ] The post Northstar Self Storage will be having a public and onlin"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211882",
-      "title": "With ‘Exit the King,’ Unadilla Theatre Reflects on America",
-      "link": "https://www.sevendaysvt.com/arts-culture/theater-arts-culture/with-exit-the-king-unadilla-theatre-reflects-on-america/",
-      "ts": "2026-07-15T13:41:00+00:00",
-      "summary": "After more than 80 years, the themes of power, mortality and legacy in Eugène Ionescu’s absurdist dramedy still resonate today. The post With ‘Exit the King,’ Unadilla Theatre Reflects on America appeared first on Seven Days . (Image: File: Jeb Wallace-Brodeur)"
+      "id": "https://www.sevendaysvt.com/?p=212165",
+      "title": "Act 250 Notice, Minor Application 4c0364-1a, 10 V.S.A. §§ 6000 – 6111",
+      "link": "https://www.sevendaysvt.com/legal-notices/act250notices/act-250-notice-minor-application-4c0364-1a-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
+      "ts": "2026-07-15T19:24:00+00:00",
+      "summary": "Application 4C0364-1A from Catamount Outdoor Family Center, 592 Governor Chittenden Road, Williston, VT 05495 and Town of Williston, 7900 Williston Road, Williston, VT 04595 was received on June 18, 2026 and deemed complete on July 2, 2026. The project specifically authorizes a selection of trail upgrades that constitutes the first implementation phase for an overall [ ] The post Act 250 Notice, M"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211863",
-      "title": "Theater Review: ‘The Understudy,’ Dorset Theatre Festival",
-      "link": "https://www.sevendaysvt.com/arts-culture/theater-arts-culture/theater-review-the-understudy-dorset-theatre-festival/",
-      "ts": "2026-07-15T13:40:00+00:00",
-      "summary": "Floating in a make-believe Broadway, the revival of resident playwright Theresa Rebeck’s 2008 hit play is still snappy, hilarious and unpredictable. The post Theater Review: ‘The Understudy,’ Dorset Theatre Festival appeared first on Seven Days . (Image: Courtesy of Joey Moro)"
+      "id": "https://www.sevendaysvt.com/?p=212163",
+      "title": "Burlington Development Review Board, Tuesday, August 4, 2026, 5:00 Pm, Public Hearing Notice",
+      "link": "https://www.sevendaysvt.com/legal-notices/publicmeetings/burlington-development-review-board-tuesday-august-4-2026-500-pm-public-hearing-notice/",
+      "ts": "2026-07-15T19:20:00+00:00",
+      "summary": "Hybrid In Person (at 645 Pine Street) Meeting Zoom: https://us02web.zoom.us/j/83225696227?pwd=SGQ0bTdnS000Wkc3c2J4WWw1dzMxUT09 Webinar ID: 832 2569 6227 Passcode: 969186 Telephone: US +1 929 205 6099 or +1 301 715 8592 or +1 312 626 6799 or +1 669 900 6833 or+1 253 215 8782 or +1 346 248 7799 1. ZP-26-293; 227 North Champlain St (RM, [ ] The post Burlington Development Review Board, Tuesday, Augus"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=211896",
-      "title": "Book Review: ‘A Thousand Souls’ by Catherine Tudish",
-      "link": "https://www.sevendaysvt.com/arts-culture/books-arts-culture/book-review-a-thousand-souls-by-catherine-tudish/",
-      "ts": "2026-07-15T13:39:00+00:00",
-      "summary": "The author’s “novel in stories” follows the ordinary yet extraordinary lives of the residents of a fictional Vermont village. The post Book Review: ‘A Thousand Souls’ by Catherine Tudish appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212159",
+      "title": "Act 250 Notice, Minor Application 4c0418-6a, 10 V.S.A. §§ 6000 – 6111",
+      "link": "https://www.sevendaysvt.com/legal-notices/act250notices/act-250-notice-minor-application-4c0418-6a-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
+      "ts": "2026-07-15T19:16:00+00:00",
+      "summary": "Application 4C0418-6A from City of Winooski, 27 West Allen Street, Winooski, VT 05404 was received on June 18, 2026 and deemed complete on July 2, 2026. The project is generally described as This permit specifically authorizes the reconstruction of an existing park space with a shared-use recreational path, trees, benches, and lawn space, as well [ ] The post Act 250 Notice, Minor Application 4c04"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651348",
+      "title": "Cutting GLP-1 coverage may cost UVM Health more than it saves",
+      "link": "https://vtdigger.org/2026/07/15/opinion-cutting-glp-1-coverage-may-cost-uvm-health-more-than-it-saves/",
+      "ts": "2026-07-15T19:06:53+00:00",
+      "summary": "UVM Health expects to save $19 million a year by cutting GLP-1 coverage for employees. But does that figure account for the medical costs patients avoid once the treatment works? Read the story on VTDigger here: Cutting GLP-1 coverage may cost UVM Health more than it saves ."
+     },
      {
       "id": "https://vtdigger.org/?p=651335",
       "title": "From conversation to community action: at one year mark, Gone Guys documentary inspires new investments across Vermont and beyond",
@@ -826,13 +836,6 @@
       "link": "https://vtdigger.org/2026/07/09/substantial-concerns-new-filing-in-border-patrol-agents-killing-challenges-law-enforcement-version-of-events/",
       "ts": "2026-07-09T19:48:23+00:00",
       "summary": "“Defense investigation into the veracity and consistency of these accounts is ongoing, but there are reasons to question the accuracy and forthrightness of these law enforcement accounts,” the murder suspect’s attorney wrote. Read the story on VTDigger here: ‘Substantial concerns’: New filing in border patrol agent’s killing challenges law enforcement version of events ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651092",
-      "title": "Vermont’s low-barrier shelters are failing the people they were created to serve",
-      "link": "https://vtdigger.org/2026/07/09/opinion-vermonts-low-barrier-shelters-are-failing-the-people-they-were-created-to-serve/",
-      "ts": "2026-07-09T19:04:06+00:00",
-      "summary": "A year inside one of Burlington's low-barrier shelters raised hard questions about whether the system is built to end homelessness — or just manage it. Read the story on VTDigger here: Vermont’s low-barrier shelters are failing the people they were created to serve ."
      }
     ]
    },
@@ -927,6 +930,41 @@
    "wcax": {
     "items": [
      {
+      "id": "S7IHHQDLBJB6DCGHHGADW25DUE",
+      "title": "Storm damage cleanup underway around the region",
+      "link": "https://www.wcax.com/2026/07/15/storm-damage-cleanup-underway-around-region/",
+      "ts": "2026-07-15T19:35:42+00:00",
+      "summary": "Downed trees and power outages were reported across Vermont Wednesday morning following a night of strong storms passing through the region"
+     },
+     {
+      "id": "7E25JL6OHZBEVJOTUHNWLCTDMY",
+      "title": "Man accused of sexually assaulting woman near Burlington parking garage",
+      "link": "https://www.wcax.com/2026/07/15/man-accused-sexually-assaulting-woman-near-burlington-parking-garage/",
+      "ts": "2026-07-15T19:31:36+00:00",
+      "summary": "A man is accused of following a woman and sexually assaulting her near the Cherry Street parking garage."
+     },
+     {
+      "id": "F5SFIMTHOJBINHIZGOKN6KEJIU",
+      "title": "WATCH LIVE: Democratic candidates tackle Vt. housing crisis",
+      "link": "https://www.wcax.com/2026/07/15/watch-live-vermont-housing-crisis-is-subject-candidate-forum/",
+      "ts": "2026-07-15T19:17:50+00:00",
+      "summary": "Democratic candidates for governor and lieutenant governor will lay out their plans on housing at a forum on Wednesday evening."
+     },
+     {
+      "id": "D5NLSGFOWVFZDN6V6OP2MFPZAE",
+      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
+      "link": "https://www.wcax.com/2026/07/15/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke/",
+      "ts": "2026-07-15T18:42:42+00:00",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution."
+     },
+     {
+      "id": "M7LWHQR4BNBHDFJECXEYOPWVHQ",
+      "title": "Driver charged in fiery Plattsburgh crash involving state troopers",
+      "link": "https://www.wcax.com/2026/07/14/driver-charged-fiery-plattsburgh-crash-involving-state-troopers/",
+      "ts": "2026-07-15T18:26:09+00:00",
+      "summary": "Two New York state troopers were taken to the hospital after a fiery crash"
+     },
+     {
       "id": "GGSZHXPAZJHN5F7VRZI6EVUDDA",
       "title": "Campaign Countdown: Vermont Democrats for lieutenant governor",
       "link": "https://www.wcax.com/2026/07/14/campaign-countdown-vermont-democrats-lieutenant-governor/",
@@ -960,27 +998,6 @@
       "link": "https://www.wcax.com/2026/07/15/you-can-quote-me-july-12-2026/",
       "ts": "2026-07-15T15:57:28+00:00",
       "summary": "On this \"You Can Quote Me,\" Vermont's commerce secretary steps down, a divide in the Democratic Party and the Olympics gets rid of the Nordic combined."
-     },
-     {
-      "id": "D5NLSGFOWVFZDN6V6OP2MFPZAE",
-      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
-      "link": "https://www.wcax.com/2026/07/15/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke/",
-      "ts": "2026-07-15T14:55:42+00:00",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution."
-     },
-     {
-      "id": "S7IHHQDLBJB6DCGHHGADW25DUE",
-      "title": "Sunrise reveals storm damage and a close call as cleanup begins",
-      "link": "https://www.wcax.com/2026/07/15/sunrise-reveals-storm-damage-close-call-cleanup-begins/",
-      "ts": "2026-07-15T14:40:13+00:00",
-      "summary": "Downed trees and power outages were reported across Vermont Wednesday morning following a night of strong storms passing through the region"
-     },
-     {
-      "id": "F5SFIMTHOJBINHIZGOKN6KEJIU",
-      "title": "Vermont housing crisis is subject of candidate forum",
-      "link": "https://www.wcax.com/2026/07/15/vermont-housing-crisis-is-subject-candidate-forum/",
-      "ts": "2026-07-15T13:25:54+00:00",
-      "summary": "Democratic candidates for governor and lieutenant governor will lay out their plans on housing at a forum on Wednesday evening."
      },
      {
       "id": "WZUT6UXPBREA7B37MAWNQF272U",
@@ -1100,13 +1117,6 @@
       "link": "https://www.wcax.com/2026/07/14/burlington-police-investigate-assault-skate-park/",
       "ts": "2026-07-14T16:00:54+00:00",
       "summary": "A Burlington man faces aggravated assault charges following a stabbing incident at a skate park on Lake Street"
-     },
-     {
-      "id": "M7LWHQR4BNBHDFJECXEYOPWVHQ",
-      "title": "Fiery crash in Plattsburgh involves state troopers",
-      "link": "https://www.wcax.com/2026/07/14/fiery-crash-plattsburgh-involves-state-troopers/",
-      "ts": "2026-07-14T15:52:03+00:00",
-      "summary": "Two New York state troopers were taken to the hospital after a fiery crash"
      },
      {
       "id": "L7AIB5ERAJEEFLVBY2WVRE572U",
@@ -1268,18 +1278,95 @@
       "link": "https://www.wcax.com/2026/07/12/police-intoxicated-man-bites-arresting-officers-do-good-fest/",
       "ts": "2026-07-12T13:33:16+00:00",
       "summary": "One man was arrested after allegedly running from security and physically fighting off authorities while in the crowd at a festival in Montpelier."
-     },
-     {
-      "id": "TX37LO2ZMBFUPK5CDT7BOO76XA",
-      "title": "Hazy, hot and humid on Tuesday, along with the possibility of severe thunderstorms Tuesday evening and even overnight.",
-      "link": "https://www.wcax.com/2026/07/12/hazy-hot-humid-tuesday-along-with-possibility-severe-thunderstorms-tuesday-evening-even-overnight/",
-      "ts": "2026-07-12T12:31:58+00:00",
-      "summary": "A First Alert Weather Day remains in effect for Tuesday due to hot and humid weather and the chance for severe thunderstorms. Highs will be in the upper 80s to mid-90s with dew points in the 60s to low 70s. This will create a heat index of 95 to 100 degrees, so be sure to take breaks and stay hydrated if you're outdoors. Also, severe thunderstorms are possible in northern sections during the eveni"
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71934918",
+      "title": "Mexico asks US state attorneys general to investigate migrant deaths in ICE custody",
+      "link": "https://www.mynbc5.com/article/mexico-requests-investigation-ice-custody-migrant-deaths/71934918",
+      "ts": "2026-07-15T19:39:00+00:00",
+      "summary": "Mexico has formally requested that U.S. state attorneys general investigate cases of migrants who have died in Immigration and Customs Enforcement custody or during raids"
+     },
+     {
+      "id": "71943970",
+      "title": "CDC nominee says she won't betray science — and also backs Kennedy's actions",
+      "link": "https://www.mynbc5.com/article/erica-schwartz-cdc-director-senate-hearing/71943970",
+      "ts": "2026-07-15T19:38:00+00:00",
+      "summary": "Dr. Erica Schwartz, the nominee to lead the CDC, drew frustrated reactions from some U.S. senators on Wednesday when they pressed her on whether she would protect the centers from political meddling."
+     },
+     {
+      "id": "72031025",
+      "title": "Vermont State Police search for dozens of missing chicks reported stolen from home",
+      "link": "https://www.mynbc5.com/article/randolph-vermont-chicks-stolen-vsp/72031025",
+      "ts": "2026-07-15T19:34:00+00:00",
+      "summary": "Unusual crime: Vermont State Police are investigating after a person reported that dozens of baby chicks were stolen from their home earlier this month."
+     },
+     {
+      "id": "72011665",
+      "title": "Johnson unveils $95 billion plan for defense spending and Trump’s elections overhaul",
+      "link": "https://www.mynbc5.com/article/johnson-unveils-95-billion-plan-for-defense-spending-and-trumps-elections-overhaul/72011665",
+      "ts": "2026-07-15T19:30:00+00:00",
+      "summary": "House Speaker Mike Johnson revealed his long-awaited plans for a massive $95 billion emergency funding request to pay for defense spending, including for the Iran War, and to promote President Donald Trump’s push to crack down on election laws."
+     },
+     {
+      "id": "71941876",
+      "title": "Blanche confronts skeptical questioning at Senate confirmation hearing",
+      "link": "https://www.mynbc5.com/article/todd-blanche-senate-confirmation-hearing-attorney-general/71941876",
+      "ts": "2026-07-15T19:18:00+00:00",
+      "summary": "Acting Attorney General Todd Blanche faced skeptical questioning at a Senate confirmation hearing about the creation of a fund to compensate allies of President Trump and a tax immunity deal for the president."
+     },
+     {
+      "id": "72019780",
+      "title": "Driver charged after crash causes New York State Police cruiser to burst into flames",
+      "link": "https://www.mynbc5.com/article/plattsburgh-new-york-cruiser-crash-charges/72019780",
+      "ts": "2026-07-15T19:13:00+00:00",
+      "summary": "A North Country driver involved in a fiery crash with two New York State Police troopers has been charged with driving under the influence."
+     },
+     {
+      "id": "72002182",
+      "title": "New York man dies after getting trapped in hay baler, police say",
+      "link": "https://www.mynbc5.com/article/putnam-new-york-farm-equipment-death/72002182",
+      "ts": "2026-07-15T19:02:00+00:00",
+      "summary": "A New York man died this week after police said he became accidentally trapped in a hay baler while working."
+     },
+     {
+      "id": "71958821",
+      "title": "U.S. Mint to begin producing $1 coins featuring Trump",
+      "link": "https://www.mynbc5.com/article/us-mint-to-begin-producing-1-coins-featuring-trump/71958821",
+      "ts": "2026-07-15T18:51:00+00:00",
+      "summary": "The United States Mint will start producing a new $1 coin bearing President Donald Trump’s face, U.S. Treasury Secretary Scott Bessent said Wednesday."
+     },
+     {
+      "id": "71944211",
+      "title": "Former Obama counsel Kathryn Ruemmler says Epstein used her to gain legitimacy",
+      "link": "https://www.mynbc5.com/article/former-obama-counsel-kathryn-ruemmler-epstein-probe/71944211",
+      "ts": "2026-07-15T18:49:00+00:00",
+      "summary": "Goldman Sachs' former top lawyer Kathryn Ruemmler is testifying as part of the House's investigation into Jeffrey Epstein"
+     },
+     {
+      "id": "71998713",
+      "title": "Propane truck driver says he fell asleep before Alburgh crash",
+      "link": "https://www.mynbc5.com/article/propane-truck-driver-says-he-fell-asleep-before-alburgh-crash/71998713",
+      "ts": "2026-07-15T18:28:00+00:00",
+      "summary": "W. Shore Road in Alburgh is closed as crews clean up after a propane truck overturned. Investigators say the driver told them he fell asleep before the crash."
+     },
+     {
+      "id": "71952146",
+      "title": "New Jersey woman charged with DUI after Jeep crashes into swimming pool at resort",
+      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-vermont-dui-jeep-pool/71952146",
+      "ts": "2026-07-15T17:59:00+00:00",
+      "summary": "A New Jersey woman was arrested and charged after police said she drove drunk and crashed her Jeep into a busy swimming pool at Smugglers' Notch Resort in Cambridge earlier this week."
+     },
+     {
+      "id": "71940651",
+      "title": "Biden will publish 'Promise Me, America' memoir after the November midterm elections",
+      "link": "https://www.mynbc5.com/article/biden-promise-me-america-memoir/71940651",
+      "ts": "2026-07-15T17:42:00+00:00",
+      "summary": "Former President Joe Biden plans to publish his memoir, \"Promise Me, America,\" this fall"
+     },
      {
       "id": "71941612",
       "title": "ICE should keep making traffic stops despite recent shootings, Trump says",
@@ -1316,13 +1403,6 @@
       "summary": "Large hail, damaging wind for a few towns; highs fall back to the 80s the rest of the week"
      },
      {
-      "id": "71952146",
-      "title": "New Jersey woman charged with DUI after Jeep crashes into swimming pool at resort",
-      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-vermont-dui-jeep-pool/71952146",
-      "ts": "2026-07-15T17:01:00+00:00",
-      "summary": "A New Jersey woman was arrested and charged after police said she drove drunk and crashed her Jeep into a busy swimming pool at Smugglers' Notch Resort in Cambridge earlier this week."
-     },
-     {
       "id": "71945811",
       "title": "Man found dead after going missing on Lake George",
       "link": "https://www.mynbc5.com/article/lake-george-new-york-drowning/71945811",
@@ -1342,83 +1422,6 @@
       "link": "https://www.mynbc5.com/article/wildfires-dangerous-smoke-expose-millions-midwest-northeast/71943225",
       "ts": "2026-07-15T16:32:00+00:00",
       "summary": "Heavy smoke from several wildfires is expected to expose millions of people across the Midwest and Northeast U.S. to dangerous air pollution."
-     },
-     {
-      "id": "71935074",
-      "title": "Body of man recovered following drowning in North Hero",
-      "link": "https://www.mynbc5.com/article/fatal-drowning-north-hero/71935074",
-      "ts": "2026-07-15T16:27:00+00:00",
-      "summary": "The body of a missing swimmer has been recovered in North Hero, according to police."
-     },
-     {
-      "id": "71939376",
-      "title": "Gov. Hochul signs bill, pausing permits for new data centers",
-      "link": "https://www.mynbc5.com/article/hochul-pauses-new-data-center-permits/71939376",
-      "ts": "2026-07-15T16:26:00+00:00",
-      "summary": "New York is now the first state to issue a statewide moratorium on the construction of new large-scale data centers. Gov. Kathy Hochul signed the bill to buy time and come up with a regulatory framework that addresses environmental and economic concerns from community members."
-     },
-     {
-      "id": "71944008",
-      "title": "New York announces air quality advisory",
-      "link": "https://www.mynbc5.com/article/ny-announces-air-quality-advisory/71944008",
-      "ts": "2026-07-15T16:08:00+00:00",
-      "summary": "Across Northern New York, air quality has been rated unsafe for sensitive groups, because of wildfire smoke coming from Minnesota and Ontario, Canada."
-     },
-     {
-      "id": "71943970",
-      "title": "Senate committee reviews Erica Schwartz's nomination to take over beleaguered CDC",
-      "link": "https://www.mynbc5.com/article/erica-schwartz-cdc-director-senate-hearing/71943970",
-      "ts": "2026-07-15T16:02:00+00:00",
-      "summary": "Dr. Erica Schwartz, the nominee to lead the CDC, is appearing before a U.S. Senate committee."
-     },
-     {
-      "id": "71941876",
-      "title": "LIVE: Blanche confronts skeptical questioning at Senate confirmation hearing",
-      "link": "https://www.mynbc5.com/article/todd-blanche-senate-confirmation-hearing-attorney-general/71941876",
-      "ts": "2026-07-15T15:54:00+00:00",
-      "summary": "Acting Attorney General Todd Blanche is confronting skeptical questioning at a Senate confirmation hearing about the creation of a fund to compensate allies of President Trump and a tax immunity deal for the president."
-     },
-     {
-      "id": "71942429",
-      "title": "Trump's pick for intelligence head emphasizes security experience as Democrats press on elections",
-      "link": "https://www.mynbc5.com/article/jay-clayton-senate-intelligence-confirmation-hearing/71942429",
-      "ts": "2026-07-15T15:50:00+00:00",
-      "summary": "Jay Clayton, President Trump’s pick to head the nation’s intelligence agencies, is testifying before the Senate Intelligence Committee."
-     },
-     {
-      "id": "71943082",
-      "title": "Lack of body cameras on ICE agents fuels more uncertainty over fatal shootings",
-      "link": "https://www.mynbc5.com/article/ice-body-cameras-fatal-shootings-dhs-delay/71943082",
-      "ts": "2026-07-15T15:23:00+00:00",
-      "summary": "ICE agents involved in two recent deadly shootings in Houston and in Maine were not wearing body cameras, raising questions about accountability."
-     },
-     {
-      "id": "71923361",
-      "title": "What to know about the executive order shrinking 2 national monuments in Utah",
-      "link": "https://www.mynbc5.com/article/utah-national-monuments-trump-executive-order/71923361",
-      "ts": "2026-07-15T15:06:00+00:00",
-      "summary": "A new executive order shrinking two national monuments in Utah isn't the first to do so. Here's what you should know."
-     },
-     {
-      "id": "71900503",
-      "title": "Holding law enforcement accountable: New report from Vermont auditor looks at sheriff's departments",
-      "link": "https://www.mynbc5.com/article/vermont-auditor-report-sheriffs-departments/71900503",
-      "ts": "2026-07-15T14:40:00+00:00",
-      "summary": "A new report from the Vermont auditor's office is taking a close look at the state's sheriff's departments and how accountability might be improved."
-     },
-     {
-      "id": "71938159",
-      "title": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease",
-      "link": "https://www.mynbc5.com/article/alzheimers-blood-test-risk-study/71938159",
-      "ts": "2026-07-15T14:03:00+00:00",
-      "summary": "A blood test that helps diagnose Alzheimer's might also forecast whether healthy older adults will develop symptoms."
-     },
-     {
-      "id": "71942728",
-      "title": "Viewer photos show storm damage, trees down in Weathersfield, Vermont",
-      "link": "https://www.mynbc5.com/article/weathersfield-vermont-viewer-photos-storm-damage/71942728",
-      "ts": "2026-07-15T14:01:00+00:00",
-      "summary": "Despite less severe storm damage than forecasts initially anticipated, some areas including Weathersfield, Vermont, saw strong damage, including trees snapped in half and a flipped over trampoline off of Goulden Ridge Road."
      }
     ]
    },
