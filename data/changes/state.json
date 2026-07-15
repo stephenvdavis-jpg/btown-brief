@@ -372,11 +372,11 @@
  "gmt-alerts": {
   "items": [
    {
-    "id": "https://ridegmt.com/?p=24687",
-    "title": "Service Alert :: Essex Junction",
-    "link": "https://ridegmt.com/service-alert-essex-junction-2/",
-    "ts": "2026-07-15T13:42:17+00:00",
-    "summary": "The July 15 9:30 AM toward Essex Junction is experiencing significant delays of approximately 10 to 15 minutes due to maintenance. We apologize for the inconvenience."
+    "id": "https://ridegmt.com/?p=24367",
+    "title": "Service Alert :: Winooski",
+    "link": "https://ridegmt.com/service-alert-winooski-5/",
+    "ts": "2026-07-15T20:08:11+00:00",
+    "summary": "Buses on Route 9 will be on detour due to construction. Toward Riverside/Winooski, stops from Main Street at La Fountain Street through Weaver Street at St. Peter Street will not [ ]"
    },
    {
     "id": "https://ridegmt.com/?p=24075",
@@ -493,7 +493,8 @@
     "start": "2026-07-15T07:45:00+00:00",
     "hasAgenda": true,
     "files": [
-     "Library Commission Agenda"
+     "Library Commission Agenda",
+     "Library Commission Minutes 7.15.26"
     ]
    },
    "10078": {
@@ -519,8 +520,8 @@
     "start": "2026-07-16T16:30:00+00:00",
     "hasAgenda": true,
     "files": [
-     "Ordinance Committee Meeting Agenda v1",
-     "Ordinance Committee Meeting Agenda Packet v1"
+     "Ordinance Committee Meeting Agenda",
+     "Ordinance Committee Meeting Agenda Packet"
     ]
    },
    "10076": {
@@ -553,6 +554,20 @@
   "feeds": {
    "sevendays-news": {
     "items": [
+     {
+      "id": "https://www.sevendaysvt.com/?p=212189",
+      "title": "City Of Burlington, In The Year Two Thousand Twenty-Six. A Regulation In Relation To Rules And Regulations Of The Traffic Commission — §9 Fifteen-Minute Parking",
+      "link": "https://www.sevendaysvt.com/legal-notices/ordinancechanges/city-of-burlington-in-the-year-two-thousand-twenty-six-a-regulation-in-relation-to-rules-and-regulations-of-the-traffic-commission-%c2%a79-fifteen-minute-parking-3/",
+      "ts": "2026-07-15T20:00:00+00:00",
+      "summary": "Sponsor(s): Public Works Commission Action: Approval Date: 03/18/2026 Attestation of Adoption: Madeline Suender, EI Public Works Transportation Engineer, Technical Services Published: 07/15/26 Effective: 08/04/26 It is hereby Ordained by the Public Works Commission of the City of Burlington as follows: That Appendix C, Rule and Regulations of the Traffic Commission, §9 Fifteen-minute parking., of "
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212151",
+      "title": "In Accordance With Vt Title 9 Commerce And Trade Chapter 098: Storage Units 3905",
+      "link": "https://www.sevendaysvt.com/legal-notices/storageauctions/in-accordance-with-vt-title-9-commerce-and-trade-chapter-098-storage-units-3905-21/",
+      "ts": "2026-07-15T19:46:00+00:00",
+      "summary": "Enforcement of Lien, Champlain Valley Self Storage,LLC shall host a private auction of the following units on or after August 1, 2026: Contents: household goods Location: 2211 Main St Colchester VT 05446 Jake Nickerson: # 716 Brittany Trayah: #546 Ashleigh tillson: #881 Location: 78 Lincoln St. Essex Jct, VT 05452 Samantha Ducharme: #146 Amy Zdorove: [ ] The post In Accordance With Vt Title 9 Comm"
+     },
      {
       "id": "https://www.sevendaysvt.com/?p=212182",
       "title": "City Of Burlington, In The Year Two Thousand Twenty-Six. A Regulation in Relation to Rules and Regulations of the Traffic Commission — §9 Fifteen-minute parking",
@@ -608,25 +623,18 @@
       "link": "https://www.sevendaysvt.com/legal-notices/act250notices/act-250-notice-minor-application-4c0364-1a-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
       "ts": "2026-07-15T19:24:00+00:00",
       "summary": "Application 4C0364-1A from Catamount Outdoor Family Center, 592 Governor Chittenden Road, Williston, VT 05495 and Town of Williston, 7900 Williston Road, Williston, VT 04595 was received on June 18, 2026 and deemed complete on July 2, 2026. The project specifically authorizes a selection of trail upgrades that constitutes the first implementation phase for an overall [ ] The post Act 250 Notice, M"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212163",
-      "title": "Burlington Development Review Board, Tuesday, August 4, 2026, 5:00 Pm, Public Hearing Notice",
-      "link": "https://www.sevendaysvt.com/legal-notices/publicmeetings/burlington-development-review-board-tuesday-august-4-2026-500-pm-public-hearing-notice/",
-      "ts": "2026-07-15T19:20:00+00:00",
-      "summary": "Hybrid In Person (at 645 Pine Street) Meeting Zoom: https://us02web.zoom.us/j/83225696227?pwd=SGQ0bTdnS000Wkc3c2J4WWw1dzMxUT09 Webinar ID: 832 2569 6227 Passcode: 969186 Telephone: US +1 929 205 6099 or +1 301 715 8592 or +1 312 626 6799 or +1 669 900 6833 or+1 253 215 8782 or +1 346 248 7799 1. ZP-26-293; 227 North Champlain St (RM, [ ] The post Burlington Development Review Board, Tuesday, Augus"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212159",
-      "title": "Act 250 Notice, Minor Application 4c0418-6a, 10 V.S.A. §§ 6000 – 6111",
-      "link": "https://www.sevendaysvt.com/legal-notices/act250notices/act-250-notice-minor-application-4c0418-6a-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
-      "ts": "2026-07-15T19:16:00+00:00",
-      "summary": "Application 4C0418-6A from City of Winooski, 27 West Allen Street, Winooski, VT 05404 was received on June 18, 2026 and deemed complete on July 2, 2026. The project is generally described as This permit specifically authorizes the reconstruction of an existing park space with a shared-use recreational path, trees, benches, and lawn space, as well [ ] The post Act 250 Notice, Minor Application 4c04"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651359",
+      "title": "Vermont Conversation: Some joy, some tragedy. 2 Vermont authors on the struggles of rural living",
+      "link": "https://vtdigger.org/2026/07/15/vermont-conversation-some-joy-some-tragedy-2-vermont-authors-on-the-struggles-of-rural-living/",
+      "ts": "2026-07-15T20:42:01+00:00",
+      "summary": "Brett Ann Stanciu and Catherine Tudish bring characters and the fictional Vermont towns they inhabit to life in recent books set in the state. Read the story on VTDigger here: Vermont Conversation: Some joy, some tragedy. 2 Vermont authors on the struggles of rural living ."
+     },
      {
       "id": "https://vtdigger.org/?p=651348",
       "title": "Cutting GLP-1 coverage may cost UVM Health more than it saves",
@@ -829,18 +837,18 @@
       "link": "https://vtdigger.org/2026/07/09/gov-scott-names-new-secretary-of-commerce-and-community-development-as-kurrle-exits-for-vermont-gas/",
       "ts": "2026-07-09T20:24:19+00:00",
       "summary": "Lindsay Kurrle, who has led the agency for seven years, will leave her position July 24 to become the energy company’s president and CEO. Read the story on VTDigger here: Gov. Scott names new secretary of commerce and community development as Kurrle exits for Vermont Gas ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651098",
-      "title": "‘Substantial concerns’: New filing in border patrol agent’s killing challenges law enforcement version of events",
-      "link": "https://vtdigger.org/2026/07/09/substantial-concerns-new-filing-in-border-patrol-agents-killing-challenges-law-enforcement-version-of-events/",
-      "ts": "2026-07-09T19:48:23+00:00",
-      "summary": "“Defense investigation into the veracity and consistency of these accounts is ongoing, but there are reasons to question the accuracy and forthrightness of these law enforcement accounts,” the murder suspect’s attorney wrote. Read the story on VTDigger here: ‘Substantial concerns’: New filing in border patrol agent’s killing challenges law enforcement version of events ."
      }
     ]
    },
    "vermont-public": {
     "items": [
+     {
+      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-15/front-porch-forum-founders-reflect-on-20-years",
+      "title": "Front Porch Forum founders reflect on 20 years",
+      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-15/front-porch-forum-founders-reflect-on-20-years",
+      "ts": "2026-07-15T20:24:07+00:00",
+      "summary": "The Vermont-grown online platform has helped people connect with their community since 2006."
+     },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-15/ice-raid-south-burlington-vermont-bodycam-video",
       "title": "No exit: Inside a botched ICE raid in Vermont",
@@ -917,31 +925,52 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-13/developing-story-ice-involved-shooting-leaves-one-dead-maine",
       "ts": "2026-07-13T13:30:35+00:00",
       "summary": "One person is reported dead following a shooting involving ICE agents in Biddeford. That's according to a social media post by Maine House Speaker Ryan Fecteau."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-12/more-than-just-tawny-orange-choose-daylilies-with-other-color-and-petal-variations",
-      "title": "More than just tawny orange, choose daylilies with other color and petal variations",
-      "link": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-12/more-than-just-tawny-orange-choose-daylilies-with-other-color-and-petal-variations",
-      "ts": "2026-07-12T09:00:00+00:00",
-      "summary": "Along with the cheery orange daylilies, look for different colorways and petal patterns for your yard and gardens."
      }
     ]
    },
    "wcax": {
     "items": [
      {
+      "id": "FGQIELMRB5HQTAARD2CBZQJR4A",
+      "title": "Vermont health officials monitoring cyclospora outbreak as Midwest cases surge",
+      "link": "https://www.wcax.com/2026/07/15/vermont-health-officials-monitoring-cyclospora-outbreak-midwest-cases-surge/",
+      "ts": "2026-07-15T21:10:39+00:00",
+      "summary": "Vermont health officials are keeping a close eye on a gastrointestinal illness that has sickened people across the country."
+     },
+     {
+      "id": "GYDKVMMEJBH67DPLPHW55VHSNU",
+      "title": "Crash near Burlington’s Beltline closes part of Manhattan Drive",
+      "link": "https://www.wcax.com/2026/07/15/crash-near-burlingtons-beltline-closes-part-manhattan-drive/",
+      "ts": "2026-07-15T20:37:34+00:00",
+      "summary": "A crash near the Beltline in Burlington’s Old North End slowed traffic Wednesday afternoon."
+     },
+     {
+      "id": "SHND3YRBM5C3LKU6EU4I76HZCI",
+      "title": "Vermonters weigh in on bill to make daylight saving time permanent",
+      "link": "https://www.wcax.com/2026/07/15/vermonters-weigh-bill-make-daylight-saving-time-permanent/",
+      "ts": "2026-07-15T20:27:39+00:00",
+      "summary": "The debate over whether to keep turning the clocks twice a year moved closer to a resolution this week."
+     },
+     {
       "id": "S7IHHQDLBJB6DCGHHGADW25DUE",
       "title": "Storm damage cleanup underway around the region",
       "link": "https://www.wcax.com/2026/07/15/storm-damage-cleanup-underway-around-region/",
-      "ts": "2026-07-15T19:35:42+00:00",
+      "ts": "2026-07-15T20:11:56+00:00",
       "summary": "Downed trees and power outages were reported across Vermont Wednesday morning following a night of strong storms passing through the region"
      },
      {
       "id": "7E25JL6OHZBEVJOTUHNWLCTDMY",
       "title": "Man accused of sexually assaulting woman near Burlington parking garage",
       "link": "https://www.wcax.com/2026/07/15/man-accused-sexually-assaulting-woman-near-burlington-parking-garage/",
-      "ts": "2026-07-15T19:31:36+00:00",
+      "ts": "2026-07-15T19:54:42+00:00",
       "summary": "A man is accused of following a woman and sexually assaulting her near the Cherry Street parking garage."
+     },
+     {
+      "id": "NHJLMRHFSNB5XKETN474MDQ43U",
+      "title": "Police on the lookout for chick thief",
+      "link": "https://www.wcax.com/2026/07/15/police-lookout-chick-thief/",
+      "ts": "2026-07-15T19:46:53+00:00",
+      "summary": "Police are investigating after someone made off with a container of baby chicks from a home in Randolph."
      },
      {
       "id": "F5SFIMTHOJBINHIZGOKN6KEJIU",
@@ -1250,39 +1279,116 @@
       "link": "https://www.wcax.com/2026/07/12/annual-horse-show-draws-riders-spectators-across-new-england-dorset/",
       "ts": "2026-07-12T21:38:44+00:00",
       "summary": "An annual horse show is underway in southern Vermont, drawing riders and spectators from across New England."
-     },
-     {
-      "id": "QWGUCNP27FHQFIHUFA6NEPXLIU",
-      "title": "Hundreds of Vt. healthcare workers rally against UVM Health layoffs",
-      "link": "https://www.wcax.com/2026/07/12/hundreds-vt-healthcare-workers-rally-against-uvm-health-layoffs/",
-      "ts": "2026-07-12T21:24:57+00:00",
-      "summary": "Hundreds of unionized nurses and support staff took to Burlington's Church Street on Sunday, calling for a fair contract and an end to layoffs at UVM Health."
-     },
-     {
-      "id": "UE7SRZ3LSVDKZPQ774DTRQVQUU",
-      "title": "UVM researcher working on app to help pregnant women stop smoking",
-      "link": "https://www.wcax.com/2026/07/12/uvm-researcher-working-app-help-pregnant-women-stop-smoking/",
-      "ts": "2026-07-12T20:45:33+00:00",
-      "summary": "Vermont ranks among the worst states for smoking during pregnancy, and experts say the problem is most severe in rural areas where resources are limited."
-     },
-     {
-      "id": "Z2CKXNT6HZBVZB7TEAR6UUW5VY",
-      "title": "Local leaders react to sudden death of Lindsey Graham",
-      "link": "https://www.wcax.com/2026/07/12/local-leaders-react-sudden-death-lindsey-graham/",
-      "ts": "2026-07-12T20:36:51+00:00",
-      "summary": "Reaction is pouring in from leaders across the world, and here in our region, after the sudden death of South Carolina Senator Lindsey Graham."
-     },
-     {
-      "id": "YU2GVSKHPZAEHNZ5IZCGFOJ5KY",
-      "title": "Intoxicated man bites arresting officers at Do Good Fest, police say",
-      "link": "https://www.wcax.com/2026/07/12/police-intoxicated-man-bites-arresting-officers-do-good-fest/",
-      "ts": "2026-07-12T13:33:16+00:00",
-      "summary": "One man was arrested after allegedly running from security and physically fighting off authorities while in the crowd at a festival in Montpelier."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "72048838",
+      "title": "Answering your questions about Cyclosporiasis, the stomach bug outbreak that could linger through summer",
+      "link": "https://www.mynbc5.com/article/cyclospora-outbreak-what-causes/72048838",
+      "ts": "2026-07-15T21:16:00+00:00",
+      "summary": "You have questions. We have answers. Explaining cyclospora, the tiny parasite behind “explosive diarrhea.”"
+     },
+     {
+      "id": "72080359",
+      "title": "Defending champion Argentina reaches World Cup final by beating England 2-1",
+      "link": "https://www.mynbc5.com/article/argentina-world-cup-final/72080359",
+      "ts": "2026-07-15T21:12:00+00:00",
+      "summary": "Defending champion Argentina rallied to beat England 2-1 and reach the World Cup final"
+     },
+     {
+      "id": "72019780",
+      "title": "Driver charged after crash causes New York State Police cruiser to burst into flames",
+      "link": "https://www.mynbc5.com/article/plattsburgh-new-york-cruiser-crash-charges/72019780",
+      "ts": "2026-07-15T21:08:00+00:00",
+      "summary": "A North Country driver involved in a fiery crash with two New York State Police troopers has been charged with driving under the influence."
+     },
+     {
+      "id": "72070036",
+      "title": "Burlington hosts free educational Alzheimer’s conference",
+      "link": "https://www.mynbc5.com/article/burlington-alzheimers-conference/72070036",
+      "ts": "2026-07-15T21:05:00+00:00",
+      "summary": "The Alzheimer’s Foundation of America hosted an event in Burlington on Wednesday to help locals learn more about the disease."
+     },
+     {
+      "id": "72052272",
+      "title": "Rescuers still searching for 3 people after boat sank in San Francisco Bay, killing 1",
+      "link": "https://www.mynbc5.com/article/rescue-search-boat-sank-san-francisco-bay/72052272",
+      "ts": "2026-07-15T21:05:00+00:00",
+      "summary": "Rescuers were still searching for three people missing after a boat involved in a memorial service sank in the cold, fast-moving waters of San Francisco Bay."
+     },
+     {
+      "id": "72047464",
+      "title": "Foundation started by Ben & Jerry's co-founders may be shutting down",
+      "link": "https://www.mynbc5.com/article/ben-jerrys-foundation-ongoing-legal-battle/72047464",
+      "ts": "2026-07-15T21:04:00+00:00",
+      "summary": "The Ben & Jerry's Foundation contributes about $600,000 annually in Vermont."
+     },
+     {
+      "id": "71944008",
+      "title": "New York announces air quality advisory",
+      "link": "https://www.mynbc5.com/article/ny-announces-air-quality-advisory/71944008",
+      "ts": "2026-07-15T21:01:00+00:00",
+      "summary": "Across Northern New York, air quality has been rated unsafe for sensitive groups, because of wildfire smoke coming from Minnesota and Ontario, Canada."
+     },
+     {
+      "id": "71942429",
+      "title": "Trump's intelligence nominee Jay Clayton clashes with Democrats over 2020 election",
+      "link": "https://www.mynbc5.com/article/jay-clayton-senate-intelligence-confirmation-hearing/71942429",
+      "ts": "2026-07-15T20:56:00+00:00",
+      "summary": "Jay Clayton, President Trump’s pick to head the nation’s intelligence agencies, is testifying before the Senate Intelligence Committee."
+     },
+     {
+      "id": "72039869",
+      "title": "Trump’s speech may focus on 2020 election. Here’s a primer on foreign interference, voting security",
+      "link": "https://www.mynbc5.com/article/trumps-speech-2020-election-foreign-interference-voting-security/72039869",
+      "ts": "2026-07-15T20:39:00+00:00",
+      "summary": "Trump’s speech may focus on 2020 election. Here’s a primer on foreign interference, voting security"
+     },
+     {
+      "id": "71941612",
+      "title": "ICE should keep making traffic stops despite recent shootings, Trump says",
+      "link": "https://www.mynbc5.com/article/trump-ice-traffic-stops-fatal-shootings/71941612",
+      "ts": "2026-07-15T20:38:00+00:00",
+      "summary": "President Trump says ICE should continue traffic stops despite recent fatal shootings, seeming to contradict a new policy to halt them."
+     },
+     {
+      "id": "72024856",
+      "title": "New Hampshire use of force case deemed 'legally justified'",
+      "link": "https://www.mynbc5.com/article/new-hampshire-use-of-force-legally-justified/72024856",
+      "ts": "2026-07-15T20:15:00+00:00",
+      "summary": "An investigation into an officer-involved shooting case from Nov. 14, 2025, in Charlestown, New Hampshire found the officer’s use of force “legally justified.”"
+     },
+     {
+      "id": "72036929",
+      "title": "Burlington ranks number 6 in top towns to visit list",
+      "link": "https://www.mynbc5.com/article/burlington-vermont-top-towns-to-visit-2026/72036929",
+      "ts": "2026-07-15T20:14:00+00:00",
+      "summary": "Burlington sits behind just five other towns across the country in CNN's 'America's Best Towns to Visit 2026' list and is described as \"surprisingly wild.\""
+     },
+     {
+      "id": "71941023",
+      "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
+      "link": "https://www.mynbc5.com/article/us-iran-war-latest-july-15/71941023",
+      "ts": "2026-07-15T19:59:00+00:00",
+      "summary": "The U.S. reimposed a naval blockade on Iran and intensified its airstrikes in retaliation for Tehran’s attacks on ships trying to pass through the Strait of Hormuz."
+     },
+     {
+      "id": "72039042",
+      "title": "Hegseth announces new policy to test troops for low testosterone",
+      "link": "https://www.mynbc5.com/article/hegseth-low-testosterone-tests/72039042",
+      "ts": "2026-07-15T19:56:00+00:00",
+      "summary": "Defense Secretary Pete Hegseth announced Wednesday that he is rolling out a new screening program for “testosterone deficiency” among troops, calling it necessary to allow them to operate at their \"absolute best.”"
+     },
+     {
+      "id": "72031025",
+      "title": "Vermont State Police search for missing chicks reported stolen from home",
+      "link": "https://www.mynbc5.com/article/randolph-vermont-chicks-stolen-vsp/72031025",
+      "ts": "2026-07-15T19:43:00+00:00",
+      "summary": "Unusual crime: Vermont State Police are investigating after a person reported that baby chicks were stolen from their home earlier this month."
+     },
      {
       "id": "71934918",
       "title": "Mexico asks US state attorneys general to investigate migrant deaths in ICE custody",
@@ -1296,13 +1402,6 @@
       "link": "https://www.mynbc5.com/article/erica-schwartz-cdc-director-senate-hearing/71943970",
       "ts": "2026-07-15T19:38:00+00:00",
       "summary": "Dr. Erica Schwartz, the nominee to lead the CDC, drew frustrated reactions from some U.S. senators on Wednesday when they pressed her on whether she would protect the centers from political meddling."
-     },
-     {
-      "id": "72031025",
-      "title": "Vermont State Police search for dozens of missing chicks reported stolen from home",
-      "link": "https://www.mynbc5.com/article/randolph-vermont-chicks-stolen-vsp/72031025",
-      "ts": "2026-07-15T19:34:00+00:00",
-      "summary": "Unusual crime: Vermont State Police are investigating after a person reported that dozens of baby chicks were stolen from their home earlier this month."
      },
      {
       "id": "72011665",
@@ -1319,109 +1418,11 @@
       "summary": "Acting Attorney General Todd Blanche faced skeptical questioning at a Senate confirmation hearing about the creation of a fund to compensate allies of President Trump and a tax immunity deal for the president."
      },
      {
-      "id": "72019780",
-      "title": "Driver charged after crash causes New York State Police cruiser to burst into flames",
-      "link": "https://www.mynbc5.com/article/plattsburgh-new-york-cruiser-crash-charges/72019780",
-      "ts": "2026-07-15T19:13:00+00:00",
-      "summary": "A North Country driver involved in a fiery crash with two New York State Police troopers has been charged with driving under the influence."
-     },
-     {
       "id": "72002182",
       "title": "New York man dies after getting trapped in hay baler, police say",
       "link": "https://www.mynbc5.com/article/putnam-new-york-farm-equipment-death/72002182",
       "ts": "2026-07-15T19:02:00+00:00",
       "summary": "A New York man died this week after police said he became accidentally trapped in a hay baler while working."
-     },
-     {
-      "id": "71958821",
-      "title": "U.S. Mint to begin producing $1 coins featuring Trump",
-      "link": "https://www.mynbc5.com/article/us-mint-to-begin-producing-1-coins-featuring-trump/71958821",
-      "ts": "2026-07-15T18:51:00+00:00",
-      "summary": "The United States Mint will start producing a new $1 coin bearing President Donald Trump’s face, U.S. Treasury Secretary Scott Bessent said Wednesday."
-     },
-     {
-      "id": "71944211",
-      "title": "Former Obama counsel Kathryn Ruemmler says Epstein used her to gain legitimacy",
-      "link": "https://www.mynbc5.com/article/former-obama-counsel-kathryn-ruemmler-epstein-probe/71944211",
-      "ts": "2026-07-15T18:49:00+00:00",
-      "summary": "Goldman Sachs' former top lawyer Kathryn Ruemmler is testifying as part of the House's investigation into Jeffrey Epstein"
-     },
-     {
-      "id": "71998713",
-      "title": "Propane truck driver says he fell asleep before Alburgh crash",
-      "link": "https://www.mynbc5.com/article/propane-truck-driver-says-he-fell-asleep-before-alburgh-crash/71998713",
-      "ts": "2026-07-15T18:28:00+00:00",
-      "summary": "W. Shore Road in Alburgh is closed as crews clean up after a propane truck overturned. Investigators say the driver told them he fell asleep before the crash."
-     },
-     {
-      "id": "71952146",
-      "title": "New Jersey woman charged with DUI after Jeep crashes into swimming pool at resort",
-      "link": "https://www.mynbc5.com/article/smugglers-notch-resort-vermont-dui-jeep-pool/71952146",
-      "ts": "2026-07-15T17:59:00+00:00",
-      "summary": "A New Jersey woman was arrested and charged after police said she drove drunk and crashed her Jeep into a busy swimming pool at Smugglers' Notch Resort in Cambridge earlier this week."
-     },
-     {
-      "id": "71940651",
-      "title": "Biden will publish 'Promise Me, America' memoir after the November midterm elections",
-      "link": "https://www.mynbc5.com/article/biden-promise-me-america-memoir/71940651",
-      "ts": "2026-07-15T17:42:00+00:00",
-      "summary": "Former President Joe Biden plans to publish his memoir, \"Promise Me, America,\" this fall"
-     },
-     {
-      "id": "71941612",
-      "title": "ICE should keep making traffic stops despite recent shootings, Trump says",
-      "link": "https://www.mynbc5.com/article/trump-ice-traffic-stops-fatal-shootings/71941612",
-      "ts": "2026-07-15T17:35:00+00:00",
-      "summary": "President Trump says ICE should continue traffic stops despite recent fatal shootings, seeming to contradict a new policy to halt them."
-     },
-     {
-      "id": "71941354",
-      "title": "'Worst-case' flood scenario underway in southern Texas",
-      "link": "https://www.mynbc5.com/article/southern-texas-flooding-rescues/71941354",
-      "ts": "2026-07-15T17:08:00+00:00",
-      "summary": "The \"worst-case\" flood scenario is underway in southern Texas, where dozens have already been rescued, the Weather Prediction Center says."
-     },
-     {
-      "id": "71933721",
-      "title": "Vermont Fish and Wildlife investigate black bear shot and killed, dumped near Connecticut River",
-      "link": "https://www.mynbc5.com/article/vermont-fish-and-wildlife-investigate-black-bear-shot-and-killed-dumped-near-connecticut-river/71933721",
-      "ts": "2026-07-15T17:07:00+00:00",
-      "summary": "Officials say the mother bear was most likely killed somewhere else and dumped in Newbury."
-     },
-     {
-      "id": "71942165",
-      "title": "Search your ZIP code: Later sunrises under permanent daylight saving time",
-      "link": "https://www.mynbc5.com/article/sunshine-protection-act-daylight-saving-time/71942165",
-      "ts": "2026-07-15T17:04:00+00:00",
-      "summary": "Search your ZIP code to see when your sunrise and sunset would be if the U.S. got rid of the clock change."
-     },
-     {
-      "id": "71936416",
-      "title": "Turning less humid Wednesday afternoon, smoke lingers",
-      "link": "https://www.mynbc5.com/article/turning-less-humid-wednesday-afternoon-smoke-lingers-07-15-26/71936416",
-      "ts": "2026-07-15T17:02:00+00:00",
-      "summary": "Large hail, damaging wind for a few towns; highs fall back to the 80s the rest of the week"
-     },
-     {
-      "id": "71945811",
-      "title": "Man found dead after going missing on Lake George",
-      "link": "https://www.mynbc5.com/article/lake-george-new-york-drowning/71945811",
-      "ts": "2026-07-15T16:47:00+00:00",
-      "summary": "A man who went missing while swimming with friends on Lake George has been found dead, according to the Warren County Sheriff's Office."
-     },
-     {
-      "id": "71941023",
-      "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
-      "link": "https://www.mynbc5.com/article/us-iran-war-latest-july-15/71941023",
-      "ts": "2026-07-15T16:42:00+00:00",
-      "summary": "The U.S. reimposed a naval blockade on Iran and intensified its airstrikes in retaliation for Tehran’s attacks on ships trying to pass through the Strait of Hormuz."
-     },
-     {
-      "id": "71943225",
-      "title": "Wildfires expose millions in the Midwest, Northeast US to dangerous smoke",
-      "link": "https://www.mynbc5.com/article/wildfires-dangerous-smoke-expose-millions-midwest-northeast/71943225",
-      "ts": "2026-07-15T16:32:00+00:00",
-      "summary": "Heavy smoke from several wildfires is expected to expose millions of people across the Midwest and Northeast U.S. to dangerous air pollution."
      }
     ]
    },
@@ -1489,6 +1490,38 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uxg5qc",
+    "title": "Is there a crash on the beltine, or maybe washington ave?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxg5qc/is_there_a_crash_on_the_beltine_or_maybe/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T20:02:50+00:00"
+   },
+   {
+    "id": "1uxehq1",
+    "title": "Anti ice Protest Thursday at 6pm",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxehq1/anti_ice_protest_thursday_at_6pm/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T20:02:50+00:00"
+   },
+   {
+    "id": "1uxdpbl",
+    "title": "No exit: The inside story of a botched ICE raid in Vermont",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxdpbl/no_exit_the_inside_story_of_a_botched_ice_raid_in/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T20:02:50+00:00"
+   },
+   {
+    "id": "1uxcjct",
+    "title": "Best Touchless Car Wash?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxcjct/best_touchless_car_wash/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T20:02:50+00:00"
+   },
    {
     "id": "1uxbeo7",
     "title": "News about Matty Tanner",
@@ -1616,38 +1649,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-15T02:00:58+00:00"
-   },
-   {
-    "id": "1uwnw3l",
-    "title": "To whoever in Burlington sent me this letter — thank you",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwnw3l/to_whoever_in_burlington_sent_me_this_letter/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T23:01:58+00:00"
-   },
-   {
-    "id": "1uwn5wo",
-    "title": "2 tickets for sale for Friday’s game",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwn5wo/2_tickets_for_sale_for_fridays_game/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T23:01:58+00:00"
-   },
-   {
-    "id": "1uwlg84",
-    "title": "Don’t pave Starr Farm Park. We need housing, but not at the expense of our parks.",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwlg84/dont_pave_starr_farm_park_we_need_housing_but_not/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T23:01:58+00:00"
-   },
-   {
-    "id": "1uwkkr4",
-    "title": "Went to Needs for a round of pool",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwkkr4/went_to_needs_for_a_round_of_pool/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T23:01:58+00:00"
    }
   ]
  },

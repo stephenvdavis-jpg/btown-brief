@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T19:43:12+00:00",
+ "generated": "2026-07-15T21:27:14+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -2574,6 +2574,116 @@
    "sourceName": "WCAX",
    "priority": 1,
    "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T19:46:00+00:00",
+   "category": "news",
+   "headline": "In Accordance With Vt Title 9 Commerce And Trade Chapter 098: Storage Units 3905",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/storageauctions/in-accordance-with-vt-title-9-commerce-and-trade-chapter-098-storage-units-3905-21/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T20:00:00+00:00",
+   "category": "news",
+   "headline": "City Of Burlington, In The Year Two Thousand Twenty-Six. A Regulation In Relation To Rules And Regulations Of The Traffic Commission — §9 Fifteen-Minute Parking",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/legal-notices/ordinancechanges/city-of-burlington-in-the-year-two-thousand-twenty-six-a-regulation-in-relation-to-rules-and-regulations-of-the-traffic-commission-%c2%a79-fifteen-minute-parking-3/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T20:02:50+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Is there a crash on the beltine, or maybe washington ave?",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxg5qc/is_there_a_crash_on_the_beltine_or_maybe/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T20:02:50+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Anti ice Protest Thursday at 6pm",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxehq1/anti_ice_protest_thursday_at_6pm/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T20:02:50+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: No exit: The inside story of a botched ICE raid in Vermont",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxdpbl/no_exit_the_inside_story_of_a_botched_ice_raid_in/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T20:02:50+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Best Touchless Car Wash?",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxcjct/best_touchless_car_wash/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T20:14:00+00:00",
+   "category": "news",
+   "headline": "Burlington ranks number 6 in top towns to visit list",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/burlington-vermont-top-towns-to-visit-2026/72036929",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T20:37:34+00:00",
+   "category": "news",
+   "headline": "Crash near Burlington’s Beltline closes part of Manhattan Drive",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/15/crash-near-burlingtons-beltline-closes-part-manhattan-drive/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:05:00+00:00",
+   "category": "news",
+   "headline": "Burlington hosts free educational Alzheimer’s conference",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/burlington-alzheimers-conference/72070036",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:27:16+00:00",
+   "category": "cityhall",
+   "headline": "Fletcher Free Library Commission agenda posted",
+   "detail": "meets Wednesday, Jul 15",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/10073/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 2,
+   "kind": "changed"
   }
  ]
 }
