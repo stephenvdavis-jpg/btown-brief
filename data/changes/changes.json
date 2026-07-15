@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T14:17:17+00:00",
+ "generated": "2026-07-15T15:57:07+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -2328,6 +2328,39 @@
    "headline": "Design Advisory Board Meeting agenda posted",
    "detail": "meets Tuesday, Jul 14",
    "url": "https://burlingtonvt.portal.civicclerk.com/event/10067/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-15T15:57:10+00:00",
+   "category": "cityhall",
+   "headline": "Board of Finance Meeting agenda posted",
+   "detail": "meets Monday, Jul 13",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/8622/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-15T15:57:10+00:00",
+   "category": "cityhall",
+   "headline": "City Council Meeting agenda posted",
+   "detail": "meets Monday, Jul 13",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/8640/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 3,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-15T15:57:10+00:00",
+   "category": "cityhall",
+   "headline": "Local Control Commission Meeting agenda posted",
+   "detail": "meets Monday, Jul 13",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/10077/overview",
    "source": "civicclerk",
    "sourceName": "City meeting portal",
    "priority": 2,

@@ -423,7 +423,8 @@
     "hasAgenda": true,
     "files": [
      "Board of Finance Meeting",
-     "Board of Finance Meeting"
+     "Board of Finance Meeting",
+     "July 13, 2026 Board of Finance Meeting Minutes LO"
     ]
    },
    "8640": {
@@ -432,7 +433,8 @@
     "hasAgenda": true,
     "files": [
      "City Council Meeting V6",
-     "City Council Meeting V6"
+     "City Council Meeting V6",
+     "July 13, 2026 City Council Meeting Minutes LO"
     ]
    },
    "10077": {
@@ -441,7 +443,8 @@
     "hasAgenda": true,
     "files": [
      "Local Control Commission Meeting",
-     "Local Control Commission Meeting"
+     "Local Control Commission Meeting",
+     "July 13, 2026 Local Control Commission Meeting Minutes LO"
     ]
    },
    "10075": {
@@ -923,11 +926,32 @@
    "wcax": {
     "items": [
      {
+      "id": "TRV7HEGFZRETTO5VAT2NWPIJBI",
+      "title": "POLL: Should Daylight Saving Time be permanent?",
+      "link": "https://www.wcax.com/2026/07/15/poll-should-daylight-saving-time-be-permanent/",
+      "ts": "2026-07-15T15:30:49+00:00",
+      "summary": "Answer our poll to see what people in our region are saying about this possible change to the way we keep time."
+     },
+     {
+      "id": "D5NLSGFOWVFZDN6V6OP2MFPZAE",
+      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
+      "link": "https://www.wcax.com/2026/07/15/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke/",
+      "ts": "2026-07-15T14:55:42+00:00",
+      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution."
+     },
+     {
+      "id": "S7IHHQDLBJB6DCGHHGADW25DUE",
+      "title": "Sunrise reveals storm damage and a close call as cleanup begins",
+      "link": "https://www.wcax.com/2026/07/15/sunrise-reveals-storm-damage-close-call-cleanup-begins/",
+      "ts": "2026-07-15T14:40:13+00:00",
+      "summary": "Downed trees and power outages were reported across Vermont Wednesday morning following a night of strong storms passing through the region"
+     },
+     {
       "id": "F5SFIMTHOJBINHIZGOKN6KEJIU",
       "title": "Vermont housing crisis is subject of candidate forum",
       "link": "https://www.wcax.com/2026/07/15/vermont-housing-crisis-is-subject-candidate-forum/",
       "ts": "2026-07-15T13:25:54+00:00",
-      "summary": "Democratic candidates for governor and lieutenant governor will lay out their plans on housing"
+      "summary": "Democratic candidates for governor and lieutenant governor will lay out their plans on housing at a forum on Wednesday evening."
      },
      {
       "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
@@ -944,13 +968,6 @@
       "summary": "Some of us may be waking up to downed or uprooted trees and downed power lines early Wednesday morning."
      },
      {
-      "id": "S7IHHQDLBJB6DCGHHGADW25DUE",
-      "title": "Sunrise reveals storm damage across the region as cleanup begins",
-      "link": "https://www.wcax.com/2026/07/15/sunrise-reveals-storm-damage-across-region-cleanup-begins/",
-      "ts": "2026-07-15T10:15:06+00:00",
-      "summary": "Downed trees and power outages were reported across Vermont Wednesday morning following a night of strong storms passing through the region"
-     },
-     {
       "id": "HYJCOZTUHNF4NGVLEYPOANOZEQ",
       "title": "Severe Thunderstorm Watch in effect for Vermont, New York & New Hampshire through the early morning",
       "link": "https://www.wcax.com/2026/07/15/severe-thunderstorm-watch-effect-vermont-new-york-new-hampshire-tuesday-night/",
@@ -962,7 +979,7 @@
       "title": "Vt., NH, NY part of multistate settlement over 23andMe data breach",
       "link": "https://www.wcax.com/2026/07/15/vt-nh-ny-part-multistate-settlement-over-23andme-data-breach/",
       "ts": "2026-07-15T01:04:43+00:00",
-      "summary": "Vermont, New Hampshire, and New York are among 42 states joining in an $18 million settlement over a 2023 data breach by the genetic testing company 23andMe."
+      "summary": "Vermont, New Hampshire and New York are among 42 states joining in an $18 million settlement over a 2023 data breach by the genetic testing company 23andMe."
      },
      {
       "id": "TRXHMPZPRFAFRORLW4T2JZBNVA",
@@ -1257,25 +1274,46 @@
       "link": "https://www.wcax.com/2026/07/12/burlington-fire-coast-guard-rescue-woman-after-fall-near-lake-champlain-shores/",
       "ts": "2026-07-12T03:49:30+00:00",
       "summary": "The U.S. Coast Guard and the Burlington Fire Department rescued a woman Sunday evening after she fell an estimated 10 to 15 feet near Lone Rock Point on Lake Champlain."
-     },
-     {
-      "id": "QTTMDZCSKFDRRFRKXGQ5NVFZLE",
-      "title": "Sen. Bernie Sanders, VGFC kick around with athletes at free soccer clinic",
-      "link": "https://www.wcax.com/2026/07/12/sen-bernie-sanders-vgfc-kick-around-with-athletes-free-soccer-clinic/",
-      "ts": "2026-07-12T00:22:49+00:00",
-      "summary": "Vermont Green F.C. players and Sen. Bernie Sanders took to the turf with young athletes as part of a free youth soccer clinic Saturday."
-     },
-     {
-      "id": "R7AINH3GJ5DPTPQKX3EEDYRJXM",
-      "title": "Vermont history organizations gather in Burlington for Spotlight Vermont 250 celebration",
-      "link": "https://www.wcax.com/2026/07/12/vermont-history-organizations-gather-burlington-spotlight-vermont-250-celebration/",
-      "ts": "2026-07-12T00:11:12+00:00",
-      "summary": "More than 30 museums, historical societies, and cultural organizations gathered at City Hall Park Saturday, turning Burlington into a hub of Vermont history as part of America’s 250th anniversary celebrations."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71942429",
+      "title": "Trump's pick for intelligence head emphasizes security experience as Democrats press on elections",
+      "link": "https://www.mynbc5.com/article/jay-clayton-senate-intelligence-confirmation-hearing/71942429",
+      "ts": "2026-07-15T15:50:00+00:00",
+      "summary": "Jay Clayton, President Trump’s pick to head the nation’s intelligence agencies, is testifying before the Senate Intelligence Committee."
+     },
+     {
+      "id": "71943082",
+      "title": "Lack of body cameras on ICE agents fuels more uncertainty over fatal shootings",
+      "link": "https://www.mynbc5.com/article/ice-body-cameras-fatal-shootings-dhs-delay/71943082",
+      "ts": "2026-07-15T15:23:00+00:00",
+      "summary": "ICE agents involved in two recent deadly shootings in Houston and in Maine were not wearing body cameras, raising questions about accountability."
+     },
+     {
+      "id": "71943225",
+      "title": "Wildfires expose millions in the Midwest, Northeast US to dangerous smoke",
+      "link": "https://www.mynbc5.com/article/wildfires-dangerous-smoke-expose-millions-midwest-northeast/71943225",
+      "ts": "2026-07-15T15:18:00+00:00",
+      "summary": "Heavy smoke from several wildfires is expected to expose millions of people across the Midwest and Northeast U.S. to dangerous air pollution."
+     },
+     {
+      "id": "71923361",
+      "title": "What to know about the executive order shrinking 2 national monuments in Utah",
+      "link": "https://www.mynbc5.com/article/utah-national-monuments-trump-executive-order/71923361",
+      "ts": "2026-07-15T15:06:00+00:00",
+      "summary": "A new executive order shrinking two national monuments in Utah isn't the first to do so. Here's what you should know."
+     },
+     {
+      "id": "71900503",
+      "title": "Holding law enforcement accountable: New report from Vermont auditor looks at sheriff's departments",
+      "link": "https://www.mynbc5.com/article/vermont-auditor-report-sheriffs-departments/71900503",
+      "ts": "2026-07-15T14:40:00+00:00",
+      "summary": "A new report from the Vermont auditor's office is taking a close look at the state's sheriff's departments and how accountability might be improved."
+     },
      {
       "id": "71938159",
       "title": "Study shows a blood test can help identify healthy people at high risk for Alzheimer's disease",
@@ -1310,13 +1348,6 @@
       "link": "https://www.mynbc5.com/article/trump-nominees-capitol-hill-heated-confirmation-hearings/71941225",
       "ts": "2026-07-15T13:28:00+00:00",
       "summary": "Three Trump administration nominees, including Todd Blanche for attorney general, face Senate confirmation hearings Wednesday, with questions expected on key issues."
-     },
-     {
-      "id": "71942429",
-      "title": "Senate to hold hearing for Jay Clayton, Trump's pick to head intelligence agencies",
-      "link": "https://www.mynbc5.com/article/jay-clayton-senate-intelligence-confirmation-hearing/71942429",
-      "ts": "2026-07-15T13:25:00+00:00",
-      "summary": "Jay Clayton, President Trump’s pick to head the nation’s intelligence agencies, is testifying before the Senate Intelligence Committee."
      },
      {
       "id": "71930789",
@@ -1387,34 +1418,6 @@
       "link": "https://www.mynbc5.com/article/hochul-pauses-new-data-center-permits/71939376",
       "ts": "2026-07-15T10:13:00+00:00",
       "summary": "New York is now the first state to issue a statewide moratorium on the construction of new large-scale data centers. Gov. Kathy Hochul signed the bill to buy time and come up with a regulatory framework that addresses environmental and economic concerns from community members."
-     },
-     {
-      "id": "71940199",
-      "title": "Elon Musk likely broke the law by promising voters $1 million payouts, Wisconsin board says",
-      "link": "https://www.mynbc5.com/article/elon-musk-wisconsin-law-voter-checks-supreme-court/71940199",
-      "ts": "2026-07-15T09:48:00+00:00",
-      "summary": "Billionaire Elon Musk likely broke Wisconsin law when he promised to hand out $1 million checks to voters in the 2025 state Supreme Court election, the Wisconsin Elections Commission found."
-     },
-     {
-      "id": "71939735",
-      "title": "Confirmed Ebola cases top 2,000 in Congo, including 754 deaths",
-      "link": "https://www.mynbc5.com/article/congo-ebola-cases-deaths-fastest-growing-outbreak/71939735",
-      "ts": "2026-07-15T09:18:00+00:00",
-      "summary": "Confirmed cases of Ebola in Congo have reached 2,011, according to new data, in what authorities say is the fastest-growing outbreak on record."
-     },
-     {
-      "id": "71928566",
-      "title": "Trump touts 'tremendous chemistry' with new Iraqi Prime Minister al-Zaidi",
-      "link": "https://www.mynbc5.com/article/trump-iraq-prime-minister-ali-al-zaidi/71928566",
-      "ts": "2026-07-15T09:01:00+00:00",
-      "summary": "President Trump is welcoming Iraq's new prime minister to the White House to push for disarming a network of Iran-backed militias operating in the country."
-     },
-     {
-      "id": "71936416",
-      "title": "Turning less humid Wednesday afternoon, smoke lingers",
-      "link": "https://www.mynbc5.com/article/turning-less-humid-wednesday-afternoon-smoke-lingers-07-15-26/71936416",
-      "ts": "2026-07-15T04:11:00+00:00",
-      "summary": "Large hail, damaging wind for a few towns; highs fall back to the 80s the rest of the week"
      }
     ]
    },
