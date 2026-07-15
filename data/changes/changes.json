@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T21:27:14+00:00",
+ "generated": "2026-07-15T23:25:49+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -2682,6 +2682,215 @@
    "url": "https://burlingtonvt.portal.civicclerk.com/event/10073/overview",
    "source": "civicclerk",
    "sourceName": "City meeting portal",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-15T21:32:23+00:00",
+   "category": "news",
+   "headline": "Judge rejects bid for new lawyer by Burlington man accused of shooting three Palestinian students",
+   "detail": "",
+   "url": "https://vtdigger.org/2026/07/15/judge-rejects-bid-for-new-lawyer-by-burlington-man-accused-of-shooting-three-palestinian-students/",
+   "source": "vtdigger",
+   "sourceName": "VTDigger",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:37:29+00:00",
+   "category": "events",
+   "headline": "New event: Burlington Vermont Scavenger Hunt: Burlington’s Big-City Energy",
+   "detail": "today 3 PM · City Hall Park",
+   "url": "https://www.eventbrite.com/e/burlington-vermont-scavenger-hunt-burlingtons-big-city-energy-tickets-1993927641250",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:37:29+00:00",
+   "category": "events",
+   "headline": "New event: Random Acts of Kindness Spree in Burlington VT",
+   "detail": "tomorrow 11 AM · Speeder & Earl's Coffee",
+   "url": "https://www.eventbrite.com/e/random-acts-of-kindness-spree-in-burlington-vt-tickets-1991105771963",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:37:29+00:00",
+   "category": "events",
+   "headline": "New event: Burlington Blitz (VT) Scavenger Hunt",
+   "detail": "tomorrow 11 AM · Speeder & Earl's Coffee",
+   "url": "https://www.eventbrite.com/e/burlington-blitz-vt-scavenger-hunt-tickets-1979063383856",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:37:29+00:00",
+   "category": "events",
+   "headline": "New event: Mindful Wellness Walk in Burlington",
+   "detail": "tomorrow 11 AM · Speeder & Earl's Coffee",
+   "url": "https://www.eventbrite.com/e/mindful-wellness-walk-in-burlington-tickets-1991499373235",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:37:29+00:00",
+   "category": "events",
+   "headline": "New event: Burlington Bash Scavenger Hunt",
+   "detail": "tomorrow 11 AM · Speeder & Earl's Coffee",
+   "url": "https://www.eventbrite.com/e/burlington-bash-scavenger-hunt-tickets-1980895766562",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:37:29+00:00",
+   "category": "events",
+   "headline": "New event: Shelburne Farms Tour 2026",
+   "detail": "tomorrow 11:30 AM · 1611 Harbor Rd",
+   "url": "https://www.eventbrite.com/e/shelburne-farms-tour-2026-tickets-1987836935786",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:37:29+00:00",
+   "category": "events",
+   "headline": "New event: House & Garden Tour at the Shelburne Farms Inn 2026",
+   "detail": "tomorrow 1:30 PM · Shelburne Farms",
+   "url": "https://www.eventbrite.com/e/house-garden-tour-at-the-shelburne-farms-inn-2026-tickets-1987835583742",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T21:37:29+00:00",
+   "category": "events",
+   "headline": "New event: Jasper Craven in conversation with Garrett M. Graff | God Forgives, Brothers Don't",
+   "detail": "tomorrow 7 PM · Phoenix Books",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78413624/20260716190000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T22:17:24+00:00",
+   "category": "news",
+   "headline": "Group accuses Chittenden County sheriff’s campaign of transphobic speech against primary opponent",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/15/group-accuses-chittenden-county-sheriffs-campaign-transphobic-speech-against-primary-opponent/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T22:22:46+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Winooski",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-winooski-4/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T22:25:52+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: North Avenue",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-north-avenue-2/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T22:27:43+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Shelburne Road",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-shelburne-road-2/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T22:29:51+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Pine Street",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-pine-street/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T22:31:37+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Essex Junction",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-essex-junction/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T22:34:53+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Williston",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-williston-2/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T23:02:14+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Cross Country Moving Pod",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxjcx7/cross_country_moving_pod/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T23:02:14+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: What’s the best new station to watch around here?",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uxhiv0/whats_the_best_new_station_to_watch_around_here/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T23:25:50+00:00",
+   "category": "weather",
+   "headline": "Thursday: Patchy smoke before 10am, then a slight chance of showers and thunderstorms between 1pm and 2pm, then a chance of showers and thunderstorms between 2pm and 4pm",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
   }
