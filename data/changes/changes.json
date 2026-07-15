@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15T03:42:03+00:00",
+ "generated": "2026-07-15T06:33:41+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -2029,6 +2029,39 @@
    "ts": "2026-07-15T03:42:03+00:00",
    "category": "weather",
    "headline": "Tonight: Patchy smoke and showers and thunderstorms",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-15T05:01:27+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Hiring in Burlington Area",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uwvd70/hiring_in_burlington_area/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-15T06:33:41+00:00",
+   "category": "weather",
+   "headline": "Severe Thunderstorm Watch has ended",
+   "detail": "Severe Thunderstorm Watch issued July 14 at 8:24PM EDT until July 15 at 4:00AM EDT by NWS Burlington VT",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "status"
+  },
+  {
+   "ts": "2026-07-15T06:33:41+00:00",
+   "category": "weather",
+   "headline": "Overnight: Showers and thunderstorms",
    "detail": "",
    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
    "source": "nws-weather",

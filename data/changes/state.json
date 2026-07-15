@@ -2,18 +2,18 @@
  "nws-weather": {
   "alerts": [
    {
-    "id": "urn:oid:2.49.0.1.840.0.efc0d83560e93e6f7a845c39d423d1e0b4cd3c97.001.1",
+    "id": "urn:oid:2.49.0.1.840.0.e56f46f4d799027e02465c1e313eff919fc30693.002.1",
     "event": "Severe Thunderstorm Watch",
-    "headline": "Severe Thunderstorm Watch issued July 14 at 8:24PM EDT until July 15 at 4:00AM EDT by NWS Burlington VT",
+    "headline": "Severe Thunderstorm Watch issued July 15 at 1:40AM EDT until July 15 at 4:00AM EDT by NWS Burlington VT",
     "severity": "Severe",
-    "onset": "2026-07-14T20:25:00-04:00",
+    "onset": "2026-07-15T01:40:00-04:00",
     "ends": "2026-07-15T04:00:00-04:00",
     "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
    }
   ],
   "forecast_flag": {
-   "day": "2026-07-14",
-   "text": "Tonight: Patchy smoke and showers and thunderstorms"
+   "day": "2026-07-15",
+   "text": "Overnight: Showers and thunderstorms"
   }
  },
  "beach-status": {
@@ -926,10 +926,10 @@
     "items": [
      {
       "id": "HYJCOZTUHNF4NGVLEYPOANOZEQ",
-      "title": "Severe Thunderstorm Watch in effect for Vermont, New York & New Hampshire Tuesday night",
+      "title": "Severe Thunderstorm Watch in effect for Vermont, New York & New Hampshire overnight",
       "link": "https://www.wcax.com/2026/07/15/severe-thunderstorm-watch-effect-vermont-new-york-new-hampshire-tuesday-night/",
       "ts": "2026-07-15T01:08:45+00:00",
-      "summary": "Severe thunderstorms are possible in our region Tuesday night into Wednesday morning."
+      "summary": "Severe thunderstorms are possible in our region through early Wednesday morning. Storms could contain damaging wind gusts and large hail."
      },
      {
       "id": "OE2UQFWS4RGSVNWE4ZULXPHUEI",
@@ -1279,6 +1279,20 @@
    "mynbc5": {
     "items": [
      {
+      "id": "71936416",
+      "title": "Overnight severe storms, smoke lingers with dropping humidity Wednesday",
+      "link": "https://www.mynbc5.com/article/overnight-severe-storms-smoke-lingers-with-dropping-humidity-wednesday-07-15-26/71936416",
+      "ts": "2026-07-15T04:11:00+00:00",
+      "summary": "Large hail, damaging wind for a few towns; highs fall back to the 80s the rest of the week"
+     },
+     {
+      "id": "71914188",
+      "title": "Intense storms likely across Vermont, New York overnight",
+      "link": "https://www.mynbc5.com/article/intense-storms-likely-across-vermont-new-york-overnight-07-14-26/71914188",
+      "ts": "2026-07-15T04:05:00+00:00",
+      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
+     },
+     {
       "id": "71937213",
       "title": "Organizers at Clinton County Fair stay prepared ahead of severe weather threats",
       "link": "https://www.mynbc5.com/article/organizers-at-clinton-county-fair-stay-prepared-ahead-of-severe-weather-threats/71937213",
@@ -1319,20 +1333,6 @@
       "link": "https://www.mynbc5.com/article/us-military-to-leave-iraq-september-2026/71936674",
       "ts": "2026-07-15T01:02:00+00:00",
       "summary": "The U.S. military will leave Iraq by the end of September following a 23-year presence that started with the 2003 invasion against Saddam Hussein and ended with much smaller operations against the Islamic State group"
-     },
-     {
-      "id": "71914188",
-      "title": "Intense storms likely across Vermont, New York overnight",
-      "link": "https://www.mynbc5.com/article/intense-storms-likely-across-vermont-new-york-overnight-07-14-26/71914188",
-      "ts": "2026-07-15T00:50:00+00:00",
-      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
-     },
-     {
-      "id": "71936416",
-      "title": "Scattered storms expected overnight, some may be severe",
-      "link": "https://www.mynbc5.com/article/scattered-storms-expected-overnight-some-may-be-severe-07-14-26/71936416",
-      "ts": "2026-07-15T00:46:00+00:00",
-      "summary": "Northern areas most at risk — damaging wind, large hail and a tornado all potential hazards"
      },
      {
       "id": "71935176",
@@ -1485,6 +1485,14 @@
  "reddit-burlington": {
   "posts": [
    {
+    "id": "1uwvd70",
+    "title": "Hiring in Burlington Area",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwvd70/hiring_in_burlington_area/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T05:01:27+00:00"
+   },
+   {
     "id": "1uwpsyq",
     "title": "Upcoming rentals",
     "url": "https://www.reddit.com/r/burlington/comments/1uwpsyq/upcoming_rentals/",
@@ -1632,14 +1640,6 @@
     "id": "1uw7zym",
     "title": "Sepia Tone Filter Outside",
     "url": "https://www.reddit.com/r/burlington/comments/1uw7zym/sepia_tone_filter_outside/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T14:02:25+00:00"
-   },
-   {
-    "id": "1uw676m",
-    "title": "Dog attack update #2",
-    "url": "https://www.reddit.com/r/burlington/comments/1uw676m/dog_attack_update_2/",
     "score": null,
     "comments": null,
     "created": "2026-07-14T14:02:25+00:00"
