@@ -1,9 +1,19 @@
 {
  "nws-weather": {
-  "alerts": [],
+  "alerts": [
+   {
+    "id": "urn:oid:2.49.0.1.840.0.efc0d83560e93e6f7a845c39d423d1e0b4cd3c97.001.1",
+    "event": "Severe Thunderstorm Watch",
+    "headline": "Severe Thunderstorm Watch issued July 14 at 8:24PM EDT until July 15 at 4:00AM EDT by NWS Burlington VT",
+    "severity": "Severe",
+    "onset": "2026-07-14T20:25:00-04:00",
+    "ends": "2026-07-15T04:00:00-04:00",
+    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
+   }
+  ],
   "forecast_flag": {
    "day": "2026-07-14",
-   "text": "Tonight: Patchy smoke before 7pm, then patchy smoke and a slight chance of showers and thunderstorms between 7pm and 8pm, then patchy smoke and showers and thunderstorms"
+   "text": "Tonight: Patchy smoke and showers and thunderstorms"
   }
  },
  "beach-status": {
@@ -543,7 +553,7 @@
       "title": "Young People Want to Leave Vermont Over Affordability Concerns, Poll Finds",
       "link": "https://www.sevendaysvt.com/news/young-people-want-to-leave-vermont-over-affordability-concerns-poll-finds/",
       "ts": "2026-07-14T19:27:35+00:00",
-      "summary": "The findings capture the scale of Vermont’s cost of living woes and the challenge that poses to an aging state that wants to attract younger residents. The post Young People Want to Leave Vermont Over Affordability Concerns, Poll Finds appeared first on Seven Days . (Image: Susan Norton)"
+      "summary": "The findings capture the scale of Vermont’s cost-of-living woes and the challenge they pose to an aging state that wants to attract younger residents. The post Young People Want to Leave Vermont Over Affordability Concerns, Poll Finds appeared first on Seven Days . (Image: Susan Norton)"
      },
      {
       "id": "https://www.sevendaysvt.com/?p=211865",
@@ -638,7 +648,7 @@
       "title": "High temps and high winds: What to know about Vermont’s severe weather threat today",
       "link": "https://vtdigger.org/2026/07/14/high-temps-and-high-winds-what-to-know-about-vermonts-possible-severe-weather-today/",
       "ts": "2026-07-14T17:36:08+00:00",
-      "summary": "The National Weather Service is forecasting an enhanced risk of severe thunderstorms this evening and night in the northern part of the state. Read the story on VTDigger here: High temps and high winds: What to know about Vermont’s severe weather threat today ."
+      "summary": "The National Weather Service is forecasting an enhanced risk of severe thunderstorms this evening and night in parts of the state. Read the story on VTDigger here: High temps and high winds: What to know about Vermont’s severe weather threat today ."
      },
      {
       "id": "https://vtdigger.org/?p=651292",
@@ -915,6 +925,27 @@
    "wcax": {
     "items": [
      {
+      "id": "HYJCOZTUHNF4NGVLEYPOANOZEQ",
+      "title": "Severe Thunderstorm Watch in effect for Vermont, New York & New Hampshire Tuesday night",
+      "link": "https://www.wcax.com/2026/07/15/severe-thunderstorm-watch-effect-vermont-new-york-new-hampshire-tuesday-night/",
+      "ts": "2026-07-15T01:08:45+00:00",
+      "summary": "Severe thunderstorms are possible in our region Tuesday night into Wednesday morning."
+     },
+     {
+      "id": "OE2UQFWS4RGSVNWE4ZULXPHUEI",
+      "title": "Vt., NH, NY part of multistate settlement over 23andMe data breach",
+      "link": "https://www.wcax.com/2026/07/15/vt-nh-ny-part-multistate-settlement-over-23andme-data-breach/",
+      "ts": "2026-07-15T01:04:43+00:00",
+      "summary": "Vermont, New Hampshire, and New York are among 42 states joining in an $18 million settlement over a 2023 data breach by the genetic testing company 23andMe."
+     },
+     {
+      "id": "TRXHMPZPRFAFRORLW4T2JZBNVA",
+      "title": "Vermont creemee passport offers sweet way to explore the state",
+      "link": "https://www.wcax.com/2026/07/14/vermont-creemee-passport-offers-sweet-way-explore-state/",
+      "ts": "2026-07-15T00:12:55+00:00",
+      "summary": "The Vermont Creemee Passport offers stamps for visiting 70 participating locations."
+     },
+     {
       "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
       "title": "3 killed in small plane crash in Northern New York",
       "link": "https://www.wcax.com/2026/07/14/3-killed-small-plane-crash-northern-new-york/",
@@ -969,13 +1000,6 @@
       "link": "https://www.wcax.com/2026/07/14/middlebury-opens-town-pool-free-tuesday-amid-high-temperatures/",
       "ts": "2026-07-14T21:25:52+00:00",
       "summary": "The town of Middlebury opened its pool for free Tuesday as high temperatures moved through the region."
-     },
-     {
-      "id": "TRXHMPZPRFAFRORLW4T2JZBNVA",
-      "title": "Vermont creemee passport offers sweet way to explore the state",
-      "link": "https://www.wcax.com/2026/07/14/vermont-creemee-passport-offers-sweet-way-explore-state/",
-      "ts": "2026-07-14T21:21:53+00:00",
-      "summary": "The Vermont Creemee Passport offers stamps for visiting 70 participating locations."
      },
      {
       "id": "S6BRC23WVBEUBBJLOEZQZ3VPDA",
@@ -1249,25 +1273,67 @@
       "link": "https://www.wcax.com/2026/07/11/green-mountain-chamber-music-festival-brings-student-musicians-church-street/",
       "ts": "2026-07-11T21:32:35+00:00",
       "summary": "Shops and restaurants along Church Street hosted student musicians Saturday as part of the Green Mountain Chamber Music Festival."
-     },
-     {
-      "id": "UZLWNI7WD5FAVKPV4IVHDKYNXA",
-      "title": "Vt. game wardens seek tips after doe illegally killed in Bennington",
-      "link": "https://www.wcax.com/2026/07/10/vt-game-wardens-seek-tips-after-doe-illegally-killed-bennington/",
-      "ts": "2026-07-10T22:52:55+00:00",
-      "summary": "Fish and Wildlife investigators are searching for the person who illegally killed a deer in Bennington, took some of its meat and left the rest to waste."
-     },
-     {
-      "id": "RHQSXFQCAZGJRHHSEUAHHZNLQ4",
-      "title": "Future first responders busting down doors and fighting fires",
-      "link": "https://www.wcax.com/2026/07/10/future-first-responders-busting-down-doors-fighting-fires/",
-      "ts": "2026-07-10T22:44:29+00:00",
-      "summary": "Teens from across the area are suiting up to be firefighters. They learn the ropes at the Vermont State Firefighters' Association cadet academy"
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "71937213",
+      "title": "Organizers at Clinton County Fair stay prepared ahead of severe weather threats",
+      "link": "https://www.mynbc5.com/article/organizers-at-clinton-county-fair-stay-prepared-ahead-of-severe-weather-threats/71937213",
+      "ts": "2026-07-15T03:23:00+00:00",
+      "summary": "Officials say not many changes are made with how ready they are"
+     },
+     {
+      "id": "71934276",
+      "title": "US reimposes blockade on Iran after Tehran's attacks on ships in the Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-attacks-blockade/71934276",
+      "ts": "2026-07-15T02:41:00+00:00",
+      "summary": "The U.S. military has reimposed its blockade of Iranian ports in response to Iran’s attacks on commercial ships in the Strait of Hormuz."
+     },
+     {
+      "id": "71937442",
+      "title": "U.S. Army Good Conduct Medal returned to WWII veteran’s family after being lost for years",
+      "link": "https://www.mynbc5.com/article/world-war-ii-medal-returned-veteran-family-lost-years/71937442",
+      "ts": "2026-07-15T02:24:00+00:00",
+      "summary": "A World War II medal that was lost for years was returned to the family of a veteran who was among the troops who stormed Utah Beach on D-Day and later fought in the Battle of the Bulge."
+     },
+     {
+      "id": "71931577",
+      "title": "Rare T. rex fossil sells for record $50.1 million at auction",
+      "link": "https://www.mynbc5.com/article/t-rex-fossil-sells-for-record-501-million-auction/71931577",
+      "ts": "2026-07-15T01:31:00+00:00",
+      "summary": "A Tyrannosaurus rex skeleton from South Dakota has become the world’s most expensive fossil sold at auction, after fetching a record $50,130,000 at Sotheby’s in New York Tuesday."
+     },
+     {
+      "id": "71936810",
+      "title": "1 dead and 2 missing from pontoon boat near Alcatraz Island off San Francisco",
+      "link": "https://www.mynbc5.com/article/pontoon-boat-fire-alcatraz-island-san-francisco/71936810",
+      "ts": "2026-07-15T01:21:00+00:00",
+      "summary": "Authorities say a person is missing and 17 others have been rescued after a fire on a pontoon boat off the coast of San Francisco."
+     },
+     {
+      "id": "71936674",
+      "title": "U.S. military to leave Iraq by end of September, ending 23-year presence",
+      "link": "https://www.mynbc5.com/article/us-military-to-leave-iraq-september-2026/71936674",
+      "ts": "2026-07-15T01:02:00+00:00",
+      "summary": "The U.S. military will leave Iraq by the end of September following a 23-year presence that started with the 2003 invasion against Saddam Hussein and ended with much smaller operations against the Islamic State group"
+     },
+     {
+      "id": "71914188",
+      "title": "Intense storms likely across Vermont, New York overnight",
+      "link": "https://www.mynbc5.com/article/intense-storms-likely-across-vermont-new-york-overnight-07-14-26/71914188",
+      "ts": "2026-07-15T00:50:00+00:00",
+      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
+     },
+     {
+      "id": "71936416",
+      "title": "Scattered storms expected overnight, some may be severe",
+      "link": "https://www.mynbc5.com/article/scattered-storms-expected-overnight-some-may-be-severe-07-14-26/71936416",
+      "ts": "2026-07-15T00:46:00+00:00",
+      "summary": "Northern areas most at risk — damaging wind, large hail and a tornado all potential hazards"
+     },
      {
       "id": "71935176",
       "title": "ICE temporarily pauses most vehicle stops after deadly shootings as other policies face scrutiny",
@@ -1318,20 +1384,6 @@
       "summary": "Spain will face either defending champion Argentina or England on Sunday in East Rutherford, New Jersey. They face each other on Wednesday in Atlanta."
      },
      {
-      "id": "71936416",
-      "title": "Intense wind, tornadoes possible Tuesday evening",
-      "link": "https://www.mynbc5.com/article/intense-wind-tornadoes-possible-tuesday-evening71326-1784069094/71936416",
-      "ts": "2026-07-14T22:58:00+00:00",
-      "summary": "Northern areas most at risk"
-     },
-     {
-      "id": "71914188",
-      "title": "Intense storms likely across Vermont, New York overnight",
-      "link": "https://www.mynbc5.com/article/intense-storms-likely-across-vermont-new-york-overnight-07-14-26/71914188",
-      "ts": "2026-07-14T22:44:00+00:00",
-      "summary": "The Storm Prediction Center has placed parts of Northern New York and northern Vermont under a rare Enhanced Risk (Level 3 of 5) for severe thunderstorms Tuesday evening into Tuesday night."
-     },
-     {
       "id": "71935303",
       "title": "Inflation drops at fastest pace in six years, but experts warn relief may not last",
       "link": "https://www.mynbc5.com/article/inflation-drops-experts-warn-relief-may-not-last/71935303",
@@ -1365,48 +1417,6 @@
       "link": "https://www.mynbc5.com/article/prep-for-potential-storm-damage/71935235",
       "ts": "2026-07-14T22:02:00+00:00",
       "summary": "As severe weather approaches, businesses that help with storm damage are preparing for what could be a busy night."
-     },
-     {
-      "id": "71935903",
-      "title": "House passes bill to 'ditch the switch' and make daylight saving time permanent",
-      "link": "https://www.mynbc5.com/article/house-passes-bill-daylight-saving-time/71935903",
-      "ts": "2026-07-14T22:00:00+00:00",
-      "summary": "The House passed a bill Tuesday that would make daylight saving time permanent."
-     },
-     {
-      "id": "71935794",
-      "title": "Former Bright Beginnings Childcare Center employee pleads not guilty to child abuse charges",
-      "link": "https://www.mynbc5.com/article/former-bright-beginnings-childcare-center-employee-pleads-not-guilty-to-child-abuse-charges/71935794",
-      "ts": "2026-07-14T21:45:00+00:00",
-      "summary": "Former Bright Beginnings Childcare Center employee pleads not guilty to child abuse charges"
-     },
-     {
-      "id": "71933674",
-      "title": "In a sweet discovery, astronomers find sugar lurking in the space between stars",
-      "link": "https://www.mynbc5.com/article/in-a-sweet-discovery-astronomers-find-sugar-lurking-in-the-space-between-stars-interstellar-raspberry/71933674",
-      "ts": "2026-07-14T21:38:00+00:00",
-      "summary": "Astronomers have detected a type of sugar in interstellar space that's also found in raspberries."
-     },
-     {
-      "id": "71932499",
-      "title": "ICE agents ordered to temporarily stop most vehicle stops, per reports",
-      "link": "https://www.mynbc5.com/article/ice-pauses-most-vehicle-stops-nationwide/71932499",
-      "ts": "2026-07-14T21:31:00+00:00",
-      "summary": "Federal immigration agents have been ordered to temporarily stop most vehicle stops nationwide, according to multiple media reports."
-     },
-     {
-      "id": "71934979",
-      "title": "Vermont Emergency Management urges residents to prepare for severe weather",
-      "link": "https://www.mynbc5.com/article/vermont-emergency-management-storm-preparedness/71934979",
-      "ts": "2026-07-14T21:28:00+00:00",
-      "summary": "Officials share what Vermonters should know before severe weather strikes."
-     },
-     {
-      "id": "71917958",
-      "title": "Map shows cyclospora outbreaks across more than half of states",
-      "link": "https://www.mynbc5.com/article/cyclospora-outbreak-map-us-states/71917958",
-      "ts": "2026-07-14T21:27:00+00:00",
-      "summary": "Cyclospora outbreaks are growing in the Midwest, with Michigan reporting the largest cluster."
      }
     ]
    },
@@ -1474,6 +1484,22 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uwpsyq",
+    "title": "Upcoming rentals",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwpsyq/upcoming_rentals/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T02:00:58+00:00"
+   },
+   {
+    "id": "1uwpjrs",
+    "title": "Where to watch the World Cup?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uwpjrs/where_to_watch_the_world_cup/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-15T02:00:58+00:00"
+   },
    {
     "id": "1uwnw3l",
     "title": "To whoever in Burlington sent me this letter — thank you",
@@ -1617,22 +1643,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-14T14:02:25+00:00"
-   },
-   {
-    "id": "1uw64xp",
-    "title": "Lost dog GPS tracker",
-    "url": "https://www.reddit.com/r/burlington/comments/1uw64xp/lost_dog_gps_tracker/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T14:02:25+00:00"
-   },
-   {
-    "id": "1uvse48",
-    "title": "VTGreen R32, R16 tickets for sale.",
-    "url": "https://www.reddit.com/r/burlington/comments/1uvse48/vtgreen_r32_r16_tickets_for_sale/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-14T02:03:05+00:00"
    }
   ]
  },
