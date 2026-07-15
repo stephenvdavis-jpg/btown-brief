@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:48:03+00:00",
+  "updated": "2026-07-15T23:35:00+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -77,30 +77,6 @@
       ]
     },
     {
-      "id": "pool-guys-only",
-      "label": "Played a round of pool at Needs w/ my friends",
-      "direction": "hot",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-15T11:02:19+00:00",
-      "sources": [
-        {
-          "title": "Played a round of pool at Needs w/ my friends",
-          "url": "https://www.reddit.com/r/burlington/comments/1ux2j48/played_a_round_of_pool_at_needs_w_my_friends/",
-          "sub": "r/burlington",
-          "when": "2026-07-15T11:02:19+00:00",
-          "comments": null
-        },
-        {
-          "title": "Went to Needs for a round of pool",
-          "url": "https://www.reddit.com/r/burlington/comments/1uwkkr4/went_to_needs_for_a_round_of_pool/",
-          "sub": "r/burlington",
-          "when": "2026-07-14T23:01:58+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "comments-link-submitted",
       "label": "soundscapes of our city 🥰",
       "direction": "hot",
@@ -120,30 +96,6 @@
           "url": "https://www.reddit.com/r/vermont/comments/1uwjrio/just_the_tip/",
           "sub": "r/vermont",
           "when": "2026-07-14T22:02:51+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "tickets-friday-game",
-      "label": "2 tickets for sale for Friday’s game",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-14T23:01:58+00:00",
-      "sources": [
-        {
-          "title": "2 tickets for sale for Friday’s game",
-          "url": "https://www.reddit.com/r/burlington/comments/1uwn5wo/2_tickets_for_sale_for_fridays_game/",
-          "sub": "r/burlington",
-          "when": "2026-07-14T23:01:58+00:00",
-          "comments": null
-        },
-        {
-          "title": "VTGreen R32, R16 tickets for sale.",
-          "url": "https://www.reddit.com/r/burlington/comments/1uvse48/vtgreen_r32_r16_tickets_for_sale/",
-          "sub": "r/burlington",
-          "when": "2026-07-14T02:03:05+00:00",
           "comments": null
         }
       ]
@@ -173,6 +125,30 @@
       ]
     },
     {
+      "id": "pool-guys-only",
+      "label": "Played a round of pool at Needs w/ my friends",
+      "direction": "rising",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-15T11:02:19+00:00",
+      "sources": [
+        {
+          "title": "Played a round of pool at Needs w/ my friends",
+          "url": "https://www.reddit.com/r/burlington/comments/1ux2j48/played_a_round_of_pool_at_needs_w_my_friends/",
+          "sub": "r/burlington",
+          "when": "2026-07-15T11:02:19+00:00",
+          "comments": null
+        },
+        {
+          "title": "Went to Needs for a round of pool",
+          "url": "https://www.reddit.com/r/burlington/comments/1uwkkr4/went_to_needs_for_a_round_of_pool/",
+          "sub": "r/burlington",
+          "when": "2026-07-14T23:01:58+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "monday-watch-cup",
       "label": "Where to watch the World Cup?",
       "direction": "rising",
@@ -192,6 +168,23 @@
           "url": "https://www.reddit.com/r/burlington/comments/1uvbz1q/jack_white_in_essex_junction_a_bastille_day_moth/",
           "sub": "r/burlington",
           "when": "2026-07-13T14:00:57+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "article-homes-second",
+      "label": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-15T16:02:20+00:00",
+      "sources": [
+        {
+          "title": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
+          "url": "https://www.reddit.com/r/vermont/comments/1ux6hso/second_homes_first_a_support_group_for_citybased/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T16:02:20+00:00",
           "comments": null
         }
       ]
@@ -245,11 +238,11 @@
     {
       "slot": "recommendation",
       "slot_label": "Something people keep recommending",
-      "title": "Best places to swim near Newport and surrounding area?",
-      "url": "https://www.reddit.com/r/vermont/comments/1uwt14u/best_places_to_swim_near_newport_and_surrounding/",
-      "sub": "r/vermont",
-      "when": "2026-07-15T07:03:57+00:00",
-      "blurb": "Going up for one day and want to go swimming. Preferably away from people, but a beach on the lake is fine. River recommendations welcome…",
+      "title": "What’s the best new station to watch around here?",
+      "url": "https://www.reddit.com/r/burlington/comments/1uxhiv0/whats_the_best_new_station_to_watch_around_here/",
+      "sub": "r/burlington",
+      "when": "2026-07-15T23:02:14+00:00",
+      "blurb": "Which news station in the area is producing relevant content that applies to Vermont?",
       "comments": null,
       "unverified": false
     },
@@ -266,6 +259,13 @@
     }
   ],
   "rough": [
+    {
+      "title": "No exit: The inside story of a botched ICE raid in Vermont",
+      "url": "https://www.reddit.com/r/burlington/comments/1uxdpbl/no_exit_the_inside_story_of_a_botched_ice_raid_in/",
+      "sub": "r/burlington",
+      "when": "2026-07-15T20:02:50+00:00",
+      "comments": null
+    },
     {
       "title": "No exit: The inside story of a botched ICE raid in Vermont",
       "url": "https://www.reddit.com/r/vermont/comments/1uxd8sk/no_exit_the_inside_story_of_a_botched_ice_raid_in/",
@@ -324,10 +324,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 160,
+    "posts_scanned": 167,
     "per_source": {
-      "r/burlington": 79,
-      "r/vermont": 81
+      "r/burlington": 85,
+      "r/vermont": 82
     }
   }
 }
