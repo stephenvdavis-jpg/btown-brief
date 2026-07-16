@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T21:29:30+00:00",
+ "generated": "2026-07-16T23:15:34+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -3298,6 +3298,61 @@
    "url": "https://www.wcax.com/2026/07/16/crews-clean-graffiti-off-rocks-along-newly-opened-champlain-parkway/",
    "source": "wcax",
    "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T21:44:24+00:00",
+   "category": "events",
+   "headline": "New event: World Cup Finals!",
+   "detail": "Saturday 5 PM · Citizen Cider",
+   "url": "https://www.helloburlingtonvt.com/event/world-cup-finals!/7732/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T21:44:24+00:00",
+   "category": "events",
+   "headline": "New event: Unearth a Story Summer Craftytown! Soil Layer Dirt Cups",
+   "detail": "Jul 28 1 PM · South Burlington Public Library",
+   "url": "https://southburlingtonlibrary.org/unearth-a-story-summer-craftytown-soil-layer-dirt-cups",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T22:32:00+00:00",
+   "category": "news",
+   "headline": "Campaign Countdown: Former coworkers face off in Chittenden County state’s attorney race",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/16/campaign-countdown-former-coworkers-face-off-chittenden-county-states-attorney-race/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T23:03:44+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Massive Upgrade at Oakledge - Goodbye North Beach",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uyff7y/massive_upgrade_at_oakledge_goodbye_north_beach/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T23:03:44+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Pine street Vehicle Crash with E-Bike incident report",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uydxcp/pine_street_vehicle_crash_with_ebike_incident/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
    "priority": 1,
    "kind": "added"
   }
