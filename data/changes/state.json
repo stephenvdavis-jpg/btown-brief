@@ -445,46 +445,6 @@
  },
  "civicclerk": {
   "meetings": {
-   "8622": {
-    "name": "Board of Finance Meeting",
-    "start": "2026-07-13T17:00:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Board of Finance Meeting",
-     "Board of Finance Meeting",
-     "July 13, 2026 Board of Finance Meeting Minutes LO"
-    ]
-   },
-   "8640": {
-    "name": "City Council Meeting",
-    "start": "2026-07-13T18:00:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "City Council Meeting V6",
-     "City Council Meeting V6",
-     "July 13, 2026 City Council Meeting Minutes LO"
-    ]
-   },
-   "10077": {
-    "name": "Local Control Commission Meeting",
-    "start": "2026-07-13T18:55:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Local Control Commission Meeting",
-     "Local Control Commission Meeting",
-     "July 13, 2026 Local Control Commission Meeting Minutes LO"
-    ]
-   },
-   "10075": {
-    "name": "City Council With Mayor Presiding Meeting",
-    "start": "2026-07-13T19:00:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "City Council With Mayor Presiding Meeting",
-     "City Council With Mayor Presiding Meeting",
-     "July 13, 2026 City Council With Mayor Presiding Meeting Minutes LO"
-    ]
-   },
    "10067": {
     "name": "Design Advisory Board Meeting",
     "start": "2026-07-14T15:00:00+00:00",
@@ -574,6 +534,41 @@
     "files": [
      "07.20.26 BACA Agenda",
      "07.20.26 BACA Agenda Packet"
+    ]
+   },
+   "10065": {
+    "name": "Housing Board of Review",
+    "start": "2026-07-20T18:30:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Housing Board of Review Agenda 07/20",
+     "Housing Board of Review Agenda 07/20"
+    ]
+   },
+   "10058": {
+    "name": "Development Review Board",
+    "start": "2026-07-21T17:00:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Agenda V1"
+    ]
+   },
+   "10066": {
+    "name": "Development Review Board Meeting",
+    "start": "2026-07-21T17:00:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Agenda V2",
+     "Packet V1"
+    ]
+   },
+   "10079": {
+    "name": "REIB City Council Committee Meeting",
+    "start": "2026-07-21T17:30:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Agenda v1",
+     "Agenda Packet v1"
     ]
    }
   }
@@ -959,6 +954,48 @@
    "wcax": {
     "items": [
      {
+      "id": "THP7YBCMGZCCHPLYRLT2D3AIIA",
+      "title": "Vermont governor, lieutenant governor candidates outline housing plans at South Burlington forum",
+      "link": "https://www.wcax.com/2026/07/16/vermont-governor-lieutenant-governor-candidates-outline-housing-plans-south-burlington-forum/",
+      "ts": "2026-07-16T03:09:27+00:00",
+      "summary": "Vermont governor, lieutenant governor candidates outline housing plans at South Burlington forum"
+     },
+     {
+      "id": "3DGTAYO2V5DSLGHMV3ECAXGA5A",
+      "title": "Stabbing provokes police standoff in Middlebury",
+      "link": "https://www.wcax.com/2026/07/16/stabbing-provokes-police-standoff-middlebury/",
+      "ts": "2026-07-16T01:21:27+00:00",
+      "summary": "A Middlebury man was arrested after police say he stabbed a family member and barricaded himself inside a home."
+     },
+     {
+      "id": "WCZ2ND4TZZEL7A4Z62WE4WC57Q",
+      "title": "19-year-old drowns in Merrimack River in Canterbury",
+      "link": "https://www.wcax.com/2026/07/16/19-year-old-drowns-merrimack-river-canterbury/",
+      "ts": "2026-07-16T00:55:13+00:00",
+      "summary": "A 19-year-old drowned in the Merrimack River in Canterbury on Wednesday."
+     },
+     {
+      "id": "7E25JL6OHZBEVJOTUHNWLCTDMY",
+      "title": "Man accused of sexually assaulting woman near Burlington parking garage",
+      "link": "https://www.wcax.com/2026/07/15/man-accused-sexually-assaulting-woman-near-burlington-parking-garage/",
+      "ts": "2026-07-16T00:52:33+00:00",
+      "summary": "A man is accused of following a woman and sexually assaulting her near the Cherry Street parking garage."
+     },
+     {
+      "id": "FGQIELMRB5HQTAARD2CBZQJR4A",
+      "title": "Regional health officials monitoring cyclospora outbreak as national cases surge",
+      "link": "https://www.wcax.com/2026/07/15/vermont-health-officials-monitoring-cyclospora-outbreak-midwest-cases-surge/",
+      "ts": "2026-07-16T00:44:45+00:00",
+      "summary": "Vermont health officials are keeping a close eye on a gastrointestinal illness that has sickened people across the country."
+     },
+     {
+      "id": "NRIVCZGSCBFG5EUIJDFM2MYCNU",
+      "title": "First Alert: Wildfire smoke and poor air quality return on Thursday",
+      "link": "https://www.wcax.com/2026/07/15/first-alert-wildfire-smoke-poor-air-quality-return-thursday/",
+      "ts": "2026-07-15T23:46:45+00:00",
+      "summary": "Air quality alerts are in effect for Vermont and New York. Air quality is expected to be unhealthy for sensitive groups."
+     },
+     {
       "id": "CSOBSATTIRFCXIRDVXLOVOF4CM",
       "title": "Shelburne Museum builds on its legacy with new Native American art center",
       "link": "https://www.wcax.com/2026/07/15/shelburne-museum-builds-its-legacy-with-new-native-american-art-center/",
@@ -987,13 +1024,6 @@
       "summary": "The owner of a small dog killed by another dog at a local trail last week is speaking out"
      },
      {
-      "id": "FGQIELMRB5HQTAARD2CBZQJR4A",
-      "title": "Vermont health officials monitoring cyclospora outbreak as Midwest cases surge",
-      "link": "https://www.wcax.com/2026/07/15/vermont-health-officials-monitoring-cyclospora-outbreak-midwest-cases-surge/",
-      "ts": "2026-07-15T21:10:39+00:00",
-      "summary": "Vermont health officials are keeping a close eye on a gastrointestinal illness that has sickened people across the country."
-     },
-     {
       "id": "GYDKVMMEJBH67DPLPHW55VHSNU",
       "title": "Crash near Burlington’s Beltline closes part of Manhattan Drive",
       "link": "https://www.wcax.com/2026/07/15/crash-near-burlingtons-beltline-closes-part-manhattan-drive/",
@@ -1015,25 +1045,11 @@
       "summary": "Downed trees and power outages were reported across Vermont Wednesday morning following a night of strong storms passing through the region"
      },
      {
-      "id": "7E25JL6OHZBEVJOTUHNWLCTDMY",
-      "title": "Man accused of sexually assaulting woman near Burlington parking garage",
-      "link": "https://www.wcax.com/2026/07/15/man-accused-sexually-assaulting-woman-near-burlington-parking-garage/",
-      "ts": "2026-07-15T19:54:42+00:00",
-      "summary": "A man is accused of following a woman and sexually assaulting her near the Cherry Street parking garage."
-     },
-     {
       "id": "NHJLMRHFSNB5XKETN474MDQ43U",
       "title": "Police on the lookout for chick thief",
       "link": "https://www.wcax.com/2026/07/15/police-lookout-chick-thief/",
       "ts": "2026-07-15T19:46:53+00:00",
       "summary": "Police are investigating after someone made off with a container of baby chicks from a home in Randolph."
-     },
-     {
-      "id": "F5SFIMTHOJBINHIZGOKN6KEJIU",
-      "title": "WATCH LIVE: Democratic candidates tackle Vt. housing crisis",
-      "link": "https://www.wcax.com/2026/07/15/watch-live-vermont-housing-crisis-is-subject-candidate-forum/",
-      "ts": "2026-07-15T19:17:50+00:00",
-      "summary": "Democratic candidates for governor and lieutenant governor will lay out their plans on housing at a forum on Wednesday evening."
      },
      {
       "id": "D5NLSGFOWVFZDN6V6OP2MFPZAE",
@@ -1286,32 +1302,116 @@
       "link": "https://www.wcax.com/2026/07/13/hiker-proposes-mount-kearsarge-after-girlfriend-injures-leg/",
       "ts": "2026-07-13T19:14:03+00:00",
       "summary": "A couple hiking Mount Kearsarge turned a rescue into an engagement after the woman hurt her leg on the trail."
-     },
-     {
-      "id": "HSSLUTFQFBFJBDIY64GRVXIKG4",
-      "title": "Vt. police seek tips after dog found tied to street sign in Arlington",
-      "link": "https://www.wcax.com/2026/07/13/vt-police-seek-tips-after-dog-found-tied-street-sign-arlington/",
-      "ts": "2026-07-13T18:53:41+00:00",
-      "summary": "Police are looking for answers after a dog was found tied to a street sign in Arlington two weeks ago."
-     },
-     {
-      "id": "JBB4XW5NHNBW3KDBPSMTA6IITY",
-      "title": "New York joins states challenging Paramount’s takeover of Warner Bros",
-      "link": "https://www.wcax.com/2026/07/13/new-york-joins-states-challenging-paramounts-takeover-warner-bros/",
-      "ts": "2026-07-13T18:05:42+00:00",
-      "summary": "Twelve states challenged Paramount’s takeover of Warner Bros. Discovery on Monday, filing a lawsuit that argues the $81 billion mega merger would “extinguish competition” in Hollywood and threaten jobs across the industry."
-     },
-     {
-      "id": "PKGYOVGLBZANTHK6VVKYDT3ZEQ",
-      "title": "Made in Vermont: Known for its beauty and fragrance, lavender is ‘scent-sational’",
-      "link": "https://www.wcax.com/2026/07/13/made-vermont-known-its-beauty-fragrance-lavender-is-scent-sational/",
-      "ts": "2026-07-13T17:35:16+00:00",
-      "summary": "Lavender is known for its beauty, fragrance and calming properties. It also grows well in rugged conditions. Those are all reasons why a couple in St. Johnsbury thought it would be the perfect plant to grow at their hillside home"
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "72270944",
+      "title": "The biggest rocket ever is coming to Florida's Space Coast",
+      "link": "https://www.mynbc5.com/article/biggest-rocket-florida-space-coast-texas/72270944",
+      "ts": "2026-07-16T03:25:00+00:00",
+      "summary": "The biggest rocket ever is coming to Florida's Space Coast | Here's a glimpse of what life is like for those working and living around what is known as Starbase."
+     },
+     {
+      "id": "72122721",
+      "title": "Middlebury man arrested after stabbing, shooting during family dispute",
+      "link": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
+      "ts": "2026-07-16T03:11:00+00:00",
+      "summary": "Police say a family dispute in Middlebury escalated into a stabbing and gunfire Wednesday evening. One man was airlifted to UVM Medical Center, and a 39-year-old suspect is in custody"
+     },
+     {
+      "id": "71998713",
+      "title": "Alburgh residents say not enough is being done to prioritize safety on busy routes after latest crash",
+      "link": "https://www.mynbc5.com/article/propane-truck-driver-says-he-fell-asleep-before-alburgh-crash/71998713",
+      "ts": "2026-07-16T02:22:00+00:00",
+      "summary": "W. Shore Road in Alburgh closed for hours as crews clean up after a propane truck overturned. Residents said more needs to be done to prioritze safety on busy roads."
+     },
+     {
+      "id": "72058055",
+      "title": "NYC mayor watches World Cup with Rikers inmates during special event",
+      "link": "https://www.mynbc5.com/article/zohran-mamdani-rikers-island-world-cup-watch-party/72058055",
+      "ts": "2026-07-16T02:21:00+00:00",
+      "summary": "More than 100 Rikers inmates got a World Cup semifinal watch party, and Mayor Zohran Mamdani stopped by to chat with them."
+     },
+     {
+      "id": "72224867",
+      "title": "US airstrikes hit northern Iran as it disables ship trying to run the blockade",
+      "link": "https://www.mynbc5.com/article/us-airstrikes-northern-iran-blockade/72224867",
+      "ts": "2026-07-16T01:48:00+00:00",
+      "summary": "U.S. airstrikes hit northern Iran as it disables ship trying to run the blockade"
+     },
+     {
+      "id": "72082903",
+      "title": "Trump drifts into campaign topics while addressing defense technology gathering",
+      "link": "https://www.mynbc5.com/article/trump-address-defense-technology-meeting/72082903",
+      "ts": "2026-07-16T01:43:00+00:00",
+      "summary": "President Trump addressed a defense summit at the U.S. Army War College, but he focused more on political themes than battlefield issues."
+     },
+     {
+      "id": "71943933",
+      "title": "Tiny Mozart statues pop up across Salzburg — but some are already missing",
+      "link": "https://www.mynbc5.com/article/miniature-mozart-statues-270th-birthday/71943933",
+      "ts": "2026-07-16T01:17:00+00:00",
+      "summary": "Hundreds of miniature golden statues of Mozart and his dog popped up in Salzburg — and some were stolen within hours. Here's why they're on display."
+     },
+     {
+      "id": "71967009",
+      "title": "China and Xi are seen more favorably than the US and Trump in many nations, new survey says",
+      "link": "https://www.mynbc5.com/article/china-xi-us-trump-new-survey/71967009",
+      "ts": "2026-07-16T01:09:00+00:00",
+      "summary": "The world has largely viewed the U.S. more favorably than China for years, but those opinions have now flipped in Beijing's favor"
+     },
+     {
+      "id": "72175589",
+      "title": "New York Times files motion to quash subpoenas served on journalists over Air Force One coverage",
+      "link": "https://www.mynbc5.com/article/new-york-times-files-motion-subpoenas-air-force-one/72175589",
+      "ts": "2026-07-16T00:47:00+00:00",
+      "summary": "New York Times files motion to quash subpoenas served on journalists over Air Force One coverage"
+     },
+     {
+      "id": "72065524",
+      "title": "Lincoln Memorial Reflecting Pool looks gray after Trump’s 'American flag blue' revamp in Washington",
+      "link": "https://www.mynbc5.com/article/drained-reflecting-pool-blue-liner-faded-gray/72065524",
+      "ts": "2026-07-16T00:33:00+00:00",
+      "summary": "The Lincoln Memorial Reflecting Pool's new liner, once dubbed \"American flag blue\" by President Donald Trump, appears to have faded to a color closer to gray."
+     },
+     {
+      "id": "72091686",
+      "title": "CAUGHT ON CAMERA: Tree trimmers survive 45-foot fall after cable snaps during job",
+      "link": "https://www.mynbc5.com/article/video-tree-trimmers-survive-45-foot-fall-oklahoma/72091686",
+      "ts": "2026-07-16T00:28:00+00:00",
+      "summary": "‘We heard a snap’: A terrifying video shows two Oklahoma tree trimmers falling 45 feet when a cable snapped on the job."
+     },
+     {
+      "id": "72118103",
+      "title": "ICE makes arrest in Lake Placid",
+      "link": "https://www.mynbc5.com/article/ice-makes-arrest-in-lake-placid/72118103",
+      "ts": "2026-07-16T00:21:00+00:00",
+      "summary": "ICE says it arrested a 51-year-old Venezuelan man in Lake Placid during a targeted enforcement operation after he allegedly overstayed his U.S. visa."
+     },
+     {
+      "id": "72164318",
+      "title": "Road worker seriously hurt after being struck by pickup in Jay",
+      "link": "https://www.mynbc5.com/article/road-worker-seriously-hurt-after-being-struck-by-pickup-in-jay/72164318",
+      "ts": "2026-07-15T23:56:00+00:00",
+      "summary": "A road construction flagger was seriously injured after being struck by a pickup truck Wednesday afternoon on Route 105 in Jay. Vermont State Police cited the driver, an 88-year-old Troy man, with negligent operation."
+     },
+     {
+      "id": "72143360",
+      "title": "Tuesday's storm leaves behind significant tree damage in Addison County",
+      "link": "https://www.mynbc5.com/article/tuesdays-storm-leaves-behind-significant-tree-damage-in-addison-county/72143360",
+      "ts": "2026-07-15T23:44:00+00:00",
+      "summary": "Severe winds from Tuesday night's storms left properties on Watch Point Road in Shoreham, Vermont with several large trees uprooted"
+     },
+     {
+      "id": "72115176",
+      "title": "Trump reverses suspension of ICE vehicle stops after deadly shootings",
+      "link": "https://www.mynbc5.com/article/trump-reverses-suspension-of-ice-vehicle-stops-after-deadly-shootings/72115176",
+      "ts": "2026-07-15T23:26:00+00:00",
+      "summary": "The reversal comes one day after the Department of Homeland Security sent new guidance out to ICE officers."
+     },
      {
       "id": "72038642",
       "title": "Pentagon to offer troops testosterone therapy",
@@ -1334,13 +1434,6 @@
       "summary": "Sunny and pleasant Friday, few showers and storms this weekend"
      },
      {
-      "id": "72122721",
-      "title": "US 7 closed in Middlebury due to police incident",
-      "link": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
-      "ts": "2026-07-15T22:37:00+00:00",
-      "summary": "US 7 is closed between McDonald's and Aubuchon Hardware in Middlebury due to an active law enforcement incident. Drivers should avoid the area and expect delays."
-     },
-     {
       "id": "72069800",
       "title": "Beach businesses hope for clearer skies after slow start to summer",
       "link": "https://www.mynbc5.com/article/haze-impacting-beach-businesses/72069800",
@@ -1353,104 +1446,6 @@
       "link": "https://www.mynbc5.com/article/harrietstown-plane-crash-site-investigation/72080412",
       "ts": "2026-07-15T22:28:00+00:00",
       "summary": "NBC5 has learned more information about the three victims of a deadly plane crash in the Adirondacks as authorities have completed part of their investigation near the crash site."
-     },
-     {
-      "id": "71998713",
-      "title": "Propane truck driver says he fell asleep before Alburgh crash",
-      "link": "https://www.mynbc5.com/article/propane-truck-driver-says-he-fell-asleep-before-alburgh-crash/71998713",
-      "ts": "2026-07-15T22:27:00+00:00",
-      "summary": "W. Shore Road in Alburgh is closed as crews clean up after a propane truck overturned. Investigators say the driver told them he fell asleep before the crash."
-     },
-     {
-      "id": "72113316",
-      "title": "How a teen turned a candy hobby into business sold at Disney World",
-      "link": "https://www.mynbc5.com/article/teen-freeze-dried-candy-disney-world/72113316",
-      "ts": "2026-07-15T22:23:00+00:00",
-      "summary": "An 18-year-old has transformed her COVID-era hobby into a thriving business, with her freeze-dried candy now sold at Disney World and other prominent locations."
-     },
-     {
-      "id": "71900503",
-      "title": "Holding law enforcement accountable: New report from Vermont auditor looks at sheriff's departments",
-      "link": "https://www.mynbc5.com/article/vermont-auditor-report-sheriffs-departments/71900503",
-      "ts": "2026-07-15T22:15:00+00:00",
-      "summary": "A new report from the Vermont auditor's office is taking a close look at the state's sheriff's departments and how accountability might be improved."
-     },
-     {
-      "id": "72065523",
-      "title": "Federal government replaces slavery exhibition at Washington's home in Philadelphia",
-      "link": "https://www.mynbc5.com/article/slavery-exhibition-removed-washington-home-philadelphia/72065523",
-      "ts": "2026-07-15T21:59:00+00:00",
-      "summary": "The Trump administration has replaced an exhibit on slavery at the site of President George Washington's home in Philadelphia with a version that some historians say whitewashes the nation's history."
-     },
-     {
-      "id": "72044554",
-      "title": "Todd Blanche faces fiery questions from Senate in bid to lead DOJ",
-      "link": "https://www.mynbc5.com/article/todd-blanche-senate-doj/72044554",
-      "ts": "2026-07-15T21:54:00+00:00",
-      "summary": "Acting Attorney General Todd Blanche faced fierce questions Wednesday from Senate lawmakers tasked with confirming him as the nation's top law enforcement officer."
-     },
-     {
-      "id": "72082414",
-      "title": "Jason Eaton back in court as September trial nears",
-      "link": "https://www.mynbc5.com/article/jason-eaton-court-attempted-murder-trial/72082414",
-      "ts": "2026-07-15T21:46:00+00:00",
-      "summary": "The man accused of shooting three Palestinian college students in 2023 was back in court on Wednesday as his attempted murder case moves closer to trial."
-     },
-     {
-      "id": "72091686",
-      "title": "CAUGHT ON CAMERA: Tree trimmers survive 45-foot fall after cable snaps during job",
-      "link": "https://www.mynbc5.com/article/video-tree-trimmers-survive-45-foot-fall-oklahoma/72091686",
-      "ts": "2026-07-15T21:42:00+00:00",
-      "summary": "‘We heard a snap’: A terrifying video shows two Oklahoma tree trimmers falling 45 feet when a cable snapped on the job."
-     },
-     {
-      "id": "72094276",
-      "title": "Four people impacted by house fire in Plattsburgh",
-      "link": "https://www.mynbc5.com/article/four-people-impacted-by-house-fire-in-plattsburgh/72094276",
-      "ts": "2026-07-15T21:42:00+00:00",
-      "summary": "Four people were impacted by a house fire in Plattsburgh at a home on Michele Avenue, officials said."
-     },
-     {
-      "id": "72076828",
-      "title": "Trump reverses suspension of ICE vehicle stops after fatal shootings",
-      "link": "https://www.mynbc5.com/article/trump-reverses-suspension-ice-vehicle-stops/72076828",
-      "ts": "2026-07-15T21:32:00+00:00",
-      "summary": "President Donald Trump has overturned his administration's suspension of most ICE vehicle stops, following two fatal shootings during attempted stops in Maine and Texas."
-     },
-     {
-      "id": "71941023",
-      "title": "US reimposes blockade and steps up strikes as Iran threatens to halt Mideast energy exports",
-      "link": "https://www.mynbc5.com/article/us-iran-war-latest-july-15/71941023",
-      "ts": "2026-07-15T21:27:00+00:00",
-      "summary": "The U.S. reimposed a naval blockade on Iran and intensified its airstrikes in retaliation for Tehran’s attacks on ships trying to pass through the Strait of Hormuz."
-     },
-     {
-      "id": "72048838",
-      "title": "Answering your questions about Cyclosporiasis, the stomach bug outbreak that could linger through summer",
-      "link": "https://www.mynbc5.com/article/cyclospora-outbreak-what-causes/72048838",
-      "ts": "2026-07-15T21:16:00+00:00",
-      "summary": "You have questions. We have answers. Explaining cyclospora, the tiny parasite behind “explosive diarrhea.”"
-     },
-     {
-      "id": "72080359",
-      "title": "Defending champion Argentina reaches World Cup final by beating England 2-1",
-      "link": "https://www.mynbc5.com/article/argentina-world-cup-final/72080359",
-      "ts": "2026-07-15T21:12:00+00:00",
-      "summary": "Defending champion Argentina rallied to beat England 2-1 and reach the World Cup final"
-     },
-     {
-      "id": "72019780",
-      "title": "Driver charged after crash causes New York State Police cruiser to burst into flames",
-      "link": "https://www.mynbc5.com/article/plattsburgh-new-york-cruiser-crash-charges/72019780",
-      "ts": "2026-07-15T21:08:00+00:00",
-      "summary": "A North Country driver involved in a fiery crash with two New York State Police troopers has been charged with driving under the influence."
-     },
-     {
-      "id": "72070036",
-      "title": "Burlington hosts free educational Alzheimer’s conference",
-      "link": "https://www.mynbc5.com/article/burlington-alzheimers-conference/72070036",
-      "ts": "2026-07-15T21:05:00+00:00",
-      "summary": "The Alzheimer’s Foundation of America hosted an event in Burlington on Wednesday to help locals learn more about the disease."
      }
     ]
    },
@@ -1518,6 +1513,22 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uxod0p",
+    "title": "How’s that’s stadium deal working out",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxod0p/hows_thats_stadium_deal_working_out/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T02:02:59+00:00"
+   },
+   {
+    "id": "1uxm3nf",
+    "title": "Sheriff Gamelin Transphobia?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uxm3nf/sheriff_gamelin_transphobia/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T02:02:59+00:00"
+   },
    {
     "id": "1uxjcx7",
     "title": "Cross Country Moving Pod",
@@ -1661,22 +1672,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-15T14:02:28+00:00"
-   },
-   {
-    "id": "1ux2j48",
-    "title": "Played a round of pool at Needs w/ my friends",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux2j48/played_a_round_of_pool_at_needs_w_my_friends/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T11:02:19+00:00"
-   },
-   {
-    "id": "1uwvd70",
-    "title": "Hiring in Burlington Area",
-    "url": "https://www.reddit.com/r/burlington/comments/1uwvd70/hiring_in_burlington_area/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T05:01:27+00:00"
    }
   ]
  },
