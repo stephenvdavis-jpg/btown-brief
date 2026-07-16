@@ -1,6 +1,16 @@
 {
  "nws-weather": {
-  "alerts": [],
+  "alerts": [
+   {
+    "id": "urn:oid:2.49.0.1.840.0.c267c7d9f3f542159e834303d4ec1da796c37a8d.002.1",
+    "event": "Air Quality Alert",
+    "headline": "Air Quality Alert issued July 16 at 8:29AM EDT by NWS Burlington VT",
+    "severity": "Unknown",
+    "onset": "2026-07-16T08:29:00-04:00",
+    "ends": "2026-07-17T08:30:00-04:00",
+    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
+   }
+  ],
   "forecast_flag": {
    "day": "2026-07-16",
    "text": "Today: Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely"
@@ -11,17 +21,17 @@
    "Blanchard Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:20:00+00:00"
+    "resultTime": "2026-07-16T13:45:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:20:00+00:00"
+    "resultTime": "2026-07-16T13:45:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:21:00+00:00"
+    "resultTime": "2026-07-16T13:54:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
@@ -36,12 +46,12 @@
    "North Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:39:00+00:00"
+    "resultTime": "2026-07-16T14:19:00+00:00"
    },
    "North Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:38:00+00:00"
+    "resultTime": "2026-07-16T14:19:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -51,12 +61,12 @@
    "Oakledge Cove": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-14T19:05:00+00:00"
+    "resultTime": "2026-07-16T13:39:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:33:00+00:00"
+    "resultTime": "2026-07-16T14:19:00+00:00"
    }
   }
  },
@@ -372,48 +382,6 @@
  "gmt-alerts": {
   "items": [
    {
-    "id": "https://ridegmt.com/?p=24661",
-    "title": "Service Alert :: Williston",
-    "link": "https://ridegmt.com/service-alert-williston-2/",
-    "ts": "2026-07-15T22:34:53+00:00",
-    "summary": "Buses on Route 1 will be on detour due to construction. Detour in effect starting July 15 at 7:00 PM. Detour ends July 15 at approximately 11:59 PM. Toward Walmart, [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24304",
-    "title": "Service Alert :: Essex Junction",
-    "link": "https://ridegmt.com/service-alert-essex-junction/",
-    "ts": "2026-07-15T22:31:37+00:00",
-    "summary": "Buses on Route 2 will be on detour due to construction. Detour in effect starting July 15 at 7:00 PM. Detour ends July 15 at approximately 11:59 PM. Toward Essex [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24308",
-    "title": "Service Alert :: Pine Street",
-    "link": "https://ridegmt.com/service-alert-pine-street/",
-    "ts": "2026-07-15T22:29:51+00:00",
-    "summary": "Buses on Route 5 will be on detour due to construction. Detour in effect starting July 15 at 7:00 PM. Detour ends July 15 at approximately 11:59 PM. Toward Pine [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24312",
-    "title": "Service Alert :: Shelburne Road",
-    "link": "https://ridegmt.com/service-alert-shelburne-road-2/",
-    "ts": "2026-07-15T22:27:43+00:00",
-    "summary": "Buses on Route 6 will be on detour due to construction. Detour in effect starting July 15 at 7:00 PM. Detour ends July 15 at approximately 11:59 PM. Toward Shelburne, [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24320",
-    "title": "Service Alert :: North Avenue",
-    "link": "https://ridegmt.com/service-alert-north-avenue-2/",
-    "ts": "2026-07-15T22:25:52+00:00",
-    "summary": "Buses on Route 7 will be on detour due to construction. Detour in effect starting July 15 at 7:00 PM. Detour ends July 15 at approximately 11:59 PM. Toward Northgate, [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24324",
-    "title": "Service Alert :: Winooski",
-    "link": "https://ridegmt.com/service-alert-winooski-4/",
-    "ts": "2026-07-15T22:22:46+00:00",
-    "summary": "Buses on Route 9 will be on detour due to construction. Detour in effect starting July 15 at 7:00 PM. Detour ends July 15 at approximately 11:59 PM. Toward Riverside/Winooski, [ ]"
-   },
-   {
     "id": "https://ridegmt.com/?p=24075",
     "title": "Downtown Transit Center Hours Changing",
     "link": "https://ridegmt.com/downtown-transit-center-hours-changing/",
@@ -440,6 +408,13 @@
     "link": "https://ridegmt.com/service-alert-milton-commuter-main-street-revitalization-project/",
     "ts": "2025-11-28T13:59:21+00:00",
     "summary": "Due to the construction, buses cannot access stops on Winooski Falls Way. Outbound riders should use the temporary stop at Spinner Place at Champlain Mill. Inbound riders can request the [ ]"
+   },
+   {
+    "id": "https://ridegmt.com/?p=22255",
+    "title": "Service Alert :: Winooski",
+    "link": "https://ridegmt.com/service-alert-winooski/",
+    "ts": "2025-09-26T01:59:42+00:00",
+    "summary": "Due to the closure of Abenaki Way, buses cannot access stops on Winooski Falls Way and Abenaki Way. Outbound riders should utilize the temporary stop at the VSAC building on [ ]"
    }
   ]
  },
@@ -524,7 +499,7 @@
    "8682": {
     "name": "Retirement Board Meeting",
     "start": "2026-07-20T09:30:00+00:00",
-    "hasAgenda": false,
+    "hasAgenda": true,
     "files": []
    },
    "9857": {
@@ -578,6 +553,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=212193",
+      "title": "Obituary: Douglas W. Smith",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-douglas-w-smith/",
+      "ts": "2026-07-16T10:00:00+00:00",
+      "summary": "Instructor, pilot and founder of the Vermont Flight Academy was also a beloved grandfather who enjoyed preserving family stories The post Obituary: Douglas W. Smith appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212189",
       "title": "City Of Burlington, In The Year Two Thousand Twenty-Six. A Regulation In Relation To Rules And Regulations Of The Traffic Commission — §9 Fifteen-Minute Parking",
       "link": "https://www.sevendaysvt.com/legal-notices/ordinancechanges/city-of-burlington-in-the-year-two-thousand-twenty-six-a-regulation-in-relation-to-rules-and-regulations-of-the-traffic-commission-%c2%a79-fifteen-minute-parking-3/",
@@ -594,7 +576,7 @@
      {
       "id": "https://www.sevendaysvt.com/?p=212182",
       "title": "City Of Burlington, In The Year Two Thousand Twenty-Six. A Regulation in Relation to Rules and Regulations of the Traffic Commission — §9 Fifteen-minute parking",
-      "link": "https://www.sevendaysvt.com/legals/city-of-burlington-in-the-year-two-thousand-twenty-six-a-regulation-in-relation-to-rules-and-regulations-of-the-traffic-commission-%c2%a79-fifteen-minute-parking-2/",
+      "link": "https://www.sevendaysvt.com/legal-notices/ordinancechanges/city-of-burlington-in-the-year-two-thousand-twenty-six-a-regulation-in-relation-to-rules-and-regulations-of-the-traffic-commission-%c2%a79-fifteen-minute-parking-2/",
       "ts": "2026-07-15T19:30:00+00:00",
       "summary": "Sponsor(s): Public Works Commission Action: Approval Date: 03/18/2026 Attestation of Adoption: Madeline Suender, EI Public Works Transportation Engineer, Technical Services Published: 07/15/26 Effective: 08/04/26 It is hereby Ordained by the Public Works Commission of the City of Burlington as follows: That Appendix C, Rule and Regulations of the Traffic Commission, §9 Fifteen-minute parking., of "
      },
@@ -639,18 +621,18 @@
       "link": "https://www.sevendaysvt.com/legal-notices/storageauctions/northstar-self-storage-will-be-having-a-public-and-online-sale-auction-for-the-following-storage-units-on-july-30-2026-at-900-am/",
       "ts": "2026-07-15T19:27:00+00:00",
       "summary": "Northstar Self Storage will be having a public and online sale/auction on July 30, 2026 at 9am EST at 205 Route 4A West, Castleton VT 05735 (Unit C111), 615 VT Route 7, Danby VT 05739 (D54), 681 Rockingham Rd, Rockingham VT 05151 (R58), 2517 Charlestown Rd, Springfield, VT 05150 (S15, S76), and online at www.storagetreasures.com [ ] The post Northstar Self Storage will be having a public and onlin"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212165",
-      "title": "Act 250 Notice, Minor Application 4c0364-1a, 10 V.S.A. §§ 6000 – 6111",
-      "link": "https://www.sevendaysvt.com/legal-notices/act250notices/act-250-notice-minor-application-4c0364-1a-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
-      "ts": "2026-07-15T19:24:00+00:00",
-      "summary": "Application 4C0364-1A from Catamount Outdoor Family Center, 592 Governor Chittenden Road, Williston, VT 05495 and Town of Williston, 7900 Williston Road, Williston, VT 04595 was received on June 18, 2026 and deemed complete on July 2, 2026. The project specifically authorizes a selection of trail upgrades that constitutes the first implementation phase for an overall [ ] The post Act 250 Notice, M"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651389",
+      "title": "When the day job disappears",
+      "link": "https://vtdigger.org/2026/07/16/when-the-day-job-disappears/",
+      "ts": "2026-07-16T12:54:00+00:00",
+      "summary": "A Johnson institution gives Vermont artists space, time and community to create — and to give back. Read the story on VTDigger here: When the day job disappears ."
+     },
      {
       "id": "https://vtdigger.org/?p=651377",
       "title": "Expedited judicial process coming to Windham County court",
@@ -853,13 +835,6 @@
       "link": "https://vtdigger.org/2026/07/10/vermonts-public-schools-could-benefit-from-a-new-federal-school-choice-tax-credit-program-but-skeptics-abound/",
       "ts": "2026-07-10T19:23:12+00:00",
       "summary": "Lawmakers and Gov. Phil Scott adopted a framework to enter into the federal school choice tax credit program, albeit with some limits. Read the story on VTDigger here: Vermont’s public schools could benefit from a new federal school choice tax credit program, but skeptics abound ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651166",
-      "title": "When did school boards stop answering to the public?",
-      "link": "https://vtdigger.org/2026/07/10/opinion-when-did-school-boards-stop-answering-to-the-public/",
-      "ts": "2026-07-10T18:59:55+00:00",
-      "summary": "The school board failed to answer questions from the public about its artificial turf proposal, then approved the project without releasing the agreement or explaining its decision. Read the story on VTDigger here: When did school boards stop answering to the public? ."
      }
     ]
    },
@@ -954,6 +929,13 @@
    "wcax": {
     "items": [
      {
+      "id": "JLUDKCFUL5E65ML52Z33JUYK64",
+      "title": "Woman allegedly pulled a gun on fellow Interstate 89 driver",
+      "link": "https://www.wcax.com/2026/07/16/woman-allegedly-pulled-gun-fellow-interstate-89-driver/",
+      "ts": "2026-07-16T12:26:38+00:00",
+      "summary": "A Mississippi woman was arrested for allegedly pointing a gun at a Vermont driver in an apparent road rage incident Wednesday on Interstate 89, according to Vermont State Police"
+     },
+     {
       "id": "JUQWRPHNORARHFYK73VHLGD6DU",
       "title": "Adult day services ending at Vermont hospital",
       "link": "https://www.wcax.com/2026/07/16/adult-day-services-ending-vermont-hospital/",
@@ -1011,7 +993,7 @@
      },
      {
       "id": "NRIVCZGSCBFG5EUIJDFM2MYCNU",
-      "title": "First Alert: Wildfire smoke and poor air quality return on Thursday",
+      "title": "First Alert: Wildfire smoke and poor air quality for Thursday",
       "link": "https://www.wcax.com/2026/07/15/first-alert-wildfire-smoke-poor-air-quality-return-thursday/",
       "ts": "2026-07-15T23:46:45+00:00",
       "summary": "Air quality alerts are in effect for Vermont and New York. Air quality is expected to be unhealthy for sensitive groups."
@@ -1295,18 +1277,74 @@
       "link": "https://www.wcax.com/2026/07/13/organizers-expect-big-turnout-71st-clinton-county-fair/",
       "ts": "2026-07-13T20:54:40+00:00",
       "summary": "The Clinton County Fair kicked off in Morrisonville on Monday. Thousands are expected to attend the six-day event."
-     },
-     {
-      "id": "FHJWYUKFHBGTTHKW2WSONRVHPE",
-      "title": "Faulty fire alarm shuts down Vermont-Canada border crossing",
-      "link": "https://www.wcax.com/2026/07/13/faulty-fire-alarm-shuts-down-vermont-canada-border-crossing/",
-      "ts": "2026-07-13T20:44:23+00:00",
-      "summary": "A faulty fire alarm on the Canadian side of the border closed the crossing for more than an hour and snarled traffic into Highgate Springs, Vermont."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "72604901",
+      "title": "Pet Connection: All about the dogs",
+      "link": "https://www.mynbc5.com/article/pet-connection-july-16-2026/72604901",
+      "ts": "2026-07-16T14:03:00+00:00",
+      "summary": "Two adorable dogs are featured in this week's edition of Pet Connection."
+     },
+     {
+      "id": "72555937",
+      "title": "Hal Williams, ‘Sanford and Son’ and ‘227’ star, dead at 91",
+      "link": "https://www.mynbc5.com/article/actor-hal-williams-dead-at-91/72555937",
+      "ts": "2026-07-16T13:59:00+00:00",
+      "summary": "Veteran actor Hall Williams has died at 91. He was known for his roles in “Sanford and Son,” “227” and dozens of other television roles from the 1970s and 1980s."
+     },
+     {
+      "id": "72551882",
+      "title": "Texas flooding surges from huge rainstorms as rescuers pull people from rising waters",
+      "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
+      "ts": "2026-07-16T13:55:00+00:00",
+      "summary": "Some residents in southwest Texas are being urged to evacuate during severe downpours"
+     },
+     {
+      "id": "72594711",
+      "title": "Air quality alert for several Vermont counties today",
+      "link": "https://www.mynbc5.com/article/vermont-air-quality-alert-wildfire-smoke/72594711",
+      "ts": "2026-07-16T13:52:00+00:00",
+      "summary": "Several southern Vermont counties will have impacted air quality on Thursday due to Canadian wildfire smoke, according to the Vermont DEC."
+     },
+     {
+      "id": "72080412",
+      "title": "Investigators complete part of investigation near deadly Harrietstown plane crash site",
+      "link": "https://www.mynbc5.com/article/harrietstown-plane-crash-site-investigation/72080412",
+      "ts": "2026-07-16T13:46:00+00:00",
+      "summary": "NBC5 has learned more information about the three victims of a deadly plane crash in the Adirondacks as authorities have completed part of their investigation near the crash site."
+     },
+     {
+      "id": "72571535",
+      "title": "Trump to make 2020 election allegations focus of Thursday's national address",
+      "link": "https://www.mynbc5.com/article/trump-address-nation-july-16-2026/72571535",
+      "ts": "2026-07-16T13:00:00+00:00",
+      "summary": "President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines."
+     },
+     {
+      "id": "72567538",
+      "title": "Pluto flyby mission wakes up after long sleep nearly 6 billion miles from Earth",
+      "link": "https://www.mynbc5.com/article/pluto-flyby-mission-earth/72567538",
+      "ts": "2026-07-16T12:49:00+00:00",
+      "summary": "A groundbreaking mission that explored Pluto and distant solar system objects in unprecedented detail has awakened from its longest sleep ever — and it’s 5.9 billion miles from Earth."
+     },
+     {
+      "id": "72549961",
+      "title": "FBI affidavit alleges drugs found in van involved in Houston ICE shooting",
+      "link": "https://www.mynbc5.com/article/houston-ice-shooting-fbi-warrant-drugs-lorenzo-salgado-araujo/72549961",
+      "ts": "2026-07-16T12:18:00+00:00",
+      "summary": "A week after a man was fatally shot by an ICE agent in Houston, the FBI filed a warrant application saying the agency has cause to believe there were illegal drugs in the vehicle he was driving."
+     },
+     {
+      "id": "72048838",
+      "title": "Answering your questions about Cyclosporiasis, the stomach bug outbreak that could linger through summer",
+      "link": "https://www.mynbc5.com/article/cyclospora-outbreak-what-causes/72048838",
+      "ts": "2026-07-16T11:55:00+00:00",
+      "summary": "You have questions. We have answers. Explaining cyclospora, the tiny parasite behind “explosive diarrhea.”"
+     },
      {
       "id": "72460174",
       "title": "Iran threatens to halt energy exports as US bombings, blockade escalate",
@@ -1383,69 +1421,6 @@
       "link": "https://www.mynbc5.com/article/us-airstrikes-northern-iran-blockade/72224867",
       "ts": "2026-07-16T04:40:00+00:00",
       "summary": "U.S. airstrikes hit northern Iran as it disables ship trying to run the blockade"
-     },
-     {
-      "id": "72052272",
-      "title": "Search suspended for 3 missing after boat capsizes on San Francisco Bay",
-      "link": "https://www.mynbc5.com/article/rescue-search-boat-sank-san-francisco-bay/72052272",
-      "ts": "2026-07-16T04:26:00+00:00",
-      "summary": "U.S. Coast Guard crews have suspended their search for three people missing after a boat sank in San Francisco Bay near Alcatraz Island."
-     },
-     {
-      "id": "72105834",
-      "title": "George Santos' next gig? Reality TV show contestant",
-      "link": "https://www.mynbc5.com/article/george-santos-reality-tv/72105834",
-      "ts": "2026-07-16T04:13:00+00:00",
-      "summary": "George Santos has worn many hats: Swindler, congressman, prison inmate, podcast host. The obvious next gig? Reality TV show contestant."
-     },
-     {
-      "id": "72263820",
-      "title": "Upper Valley Nighthawks hold on for third straight win",
-      "link": "https://www.mynbc5.com/article/upper-valley-nighthawks-hold-on-for-third-straight-win/72263820",
-      "ts": "2026-07-16T03:44:00+00:00",
-      "summary": "A three-run second inning helps the Nighthawks take down the Mystic Schooners 7-6"
-     },
-     {
-      "id": "72270944",
-      "title": "The biggest rocket ever is coming to Florida's Space Coast",
-      "link": "https://www.mynbc5.com/article/biggest-rocket-florida-space-coast-texas/72270944",
-      "ts": "2026-07-16T03:25:00+00:00",
-      "summary": "The biggest rocket ever is coming to Florida's Space Coast | Here's a glimpse of what life is like for those working and living around what is known as Starbase."
-     },
-     {
-      "id": "72122721",
-      "title": "Middlebury man arrested after stabbing, shooting during family dispute",
-      "link": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
-      "ts": "2026-07-16T03:11:00+00:00",
-      "summary": "Police say a family dispute in Middlebury escalated into a stabbing and gunfire Wednesday evening. One man was airlifted to UVM Medical Center, and a 39-year-old suspect is in custody"
-     },
-     {
-      "id": "71998713",
-      "title": "Alburgh residents say not enough is being done to prioritize safety on busy routes after latest crash",
-      "link": "https://www.mynbc5.com/article/propane-truck-driver-says-he-fell-asleep-before-alburgh-crash/71998713",
-      "ts": "2026-07-16T02:22:00+00:00",
-      "summary": "W. Shore Road in Alburgh closed for hours as crews clean up after a propane truck overturned. Residents said more needs to be done to prioritze safety on busy roads."
-     },
-     {
-      "id": "72058055",
-      "title": "NYC mayor watches World Cup with Rikers inmates during special event",
-      "link": "https://www.mynbc5.com/article/zohran-mamdani-rikers-island-world-cup-watch-party/72058055",
-      "ts": "2026-07-16T02:21:00+00:00",
-      "summary": "More than 100 Rikers inmates got a World Cup semifinal watch party, and Mayor Zohran Mamdani stopped by to chat with them."
-     },
-     {
-      "id": "72082903",
-      "title": "Trump drifts into campaign topics while addressing defense technology gathering",
-      "link": "https://www.mynbc5.com/article/trump-address-defense-technology-meeting/72082903",
-      "ts": "2026-07-16T01:43:00+00:00",
-      "summary": "President Trump addressed a defense summit at the U.S. Army War College, but he focused more on political themes than battlefield issues."
-     },
-     {
-      "id": "71943933",
-      "title": "Tiny Mozart statues pop up across Salzburg — but some are already missing",
-      "link": "https://www.mynbc5.com/article/miniature-mozart-statues-270th-birthday/71943933",
-      "ts": "2026-07-16T01:17:00+00:00",
-      "summary": "Hundreds of miniature golden statues of Mozart and his dog popped up in Salzburg — and some were stolen within hours. Here's why they're on display."
      }
     ]
    },
@@ -1513,6 +1488,38 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uy3qf9",
+    "title": "Thrift stores/cheap places to acquire swim trunks?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uy3qf9/thrift_storescheap_places_to_acquire_swim_trunks/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T14:02:42+00:00"
+   },
+   {
+    "id": "1uy1kyw",
+    "title": "Household battery disposal",
+    "url": "https://www.reddit.com/r/burlington/comments/1uy1kyw/household_battery_disposal/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T14:02:42+00:00"
+   },
+   {
+    "id": "1uy1bnv",
+    "title": "Hotel Champlain",
+    "url": "https://www.reddit.com/r/burlington/comments/1uy1bnv/hotel_champlain/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T14:02:42+00:00"
+   },
+   {
+    "id": "1uy08tm",
+    "title": "Jack White - No Phones",
+    "url": "https://www.reddit.com/r/burlington/comments/1uy08tm/jack_white_no_phones/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T14:02:42+00:00"
+   },
    {
     "id": "1uxod0p",
     "title": "How’s that’s stadium deal working out",
@@ -1640,38 +1647,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-15T17:02:19+00:00"
-   },
-   {
-    "id": "1ux5gto",
-    "title": "Nikhil Goyal's campaign sets fundraising record at $140k, with approximately 67% ($95k) coming from out of state donors.",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux5gto/nikhil_goyals_campaign_sets_fundraising_record_at/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T14:02:28+00:00"
-   },
-   {
-    "id": "1ux493k",
-    "title": "Tattoo Removal",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux493k/tattoo_removal/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T14:02:28+00:00"
-   },
-   {
-    "id": "1ux3oxn",
-    "title": "Couch Removal from 1st Floor Apt",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux3oxn/couch_removal_from_1st_floor_apt/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T14:02:28+00:00"
-   },
-   {
-    "id": "1ux3em1",
-    "title": "Good Tailor/Seamstress?",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux3em1/good_tailorseamstress/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T14:02:28+00:00"
    }
   ]
  },

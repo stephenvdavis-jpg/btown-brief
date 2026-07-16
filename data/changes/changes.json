@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T11:57:01+00:00",
+ "generated": "2026-07-16T14:29:06+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -3012,6 +3012,83 @@
    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
    "source": "nws-weather",
    "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-16T12:29:00+00:00",
+   "category": "weather",
+   "headline": "Air Quality Alert issued",
+   "detail": "Air Quality Alert issued July 16 at 8:29AM EDT by NWS Burlington VT",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 3,
+   "kind": "status"
+  },
+  {
+   "ts": "2026-07-16T14:02:42+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Thrift stores/cheap places to acquire swim trunks?",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uy3qf9/thrift_storescheap_places_to_acquire_swim_trunks/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T14:02:42+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Household battery disposal",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uy1kyw/household_battery_disposal/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T14:02:42+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Hotel Champlain",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uy1bnv/hotel_champlain/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T14:02:42+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Jack White - No Phones",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uy08tm/jack_white_no_phones/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T14:29:08+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Winooski",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-winooski/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T14:29:09+00:00",
+   "category": "cityhall",
+   "headline": "Retirement Board Meeting agenda posted",
+   "detail": "meets Monday, Jul 20",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/8682/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
    "priority": 2,
    "kind": "changed"
   }
