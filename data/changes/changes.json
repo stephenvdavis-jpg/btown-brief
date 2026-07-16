@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T09:33:19+00:00",
+ "generated": "2026-07-16T11:57:01+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -2975,6 +2975,39 @@
    "ts": "2026-07-16T06:38:51+00:00",
    "category": "weather",
    "headline": "Thursday: Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-16T11:20:49+00:00",
+   "category": "events",
+   "headline": "New event: Library Outreach Specialist Office Hours",
+   "detail": "today 10 AM · Fletcher Free Library",
+   "url": "https://fletcherfree.libcal.com/event/16213808",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T11:20:49+00:00",
+   "category": "events",
+   "headline": "New event: The Ultimate Chocolate Tasting",
+   "detail": "today 2 PM · Lake Champlain Chocolates",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78391346/20260716140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T11:57:01+00:00",
+   "category": "weather",
+   "headline": "Today: Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely",
    "detail": "",
    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
    "source": "nws-weather",
