@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-16T20:35:35+00:00",
+ "updated": "2026-07-16T21:47:10+00:00",
  "sections_updated": {
-  "now": "2026-07-16T20:35:35+00:00",
-  "forecast": "2026-07-16T20:35:35+00:00",
-  "hourly": "2026-07-16T20:35:35+00:00",
-  "alerts": "2026-07-16T20:35:35+00:00",
-  "afd": "2026-07-16T20:35:35+00:00",
-  "lake_forecast": "2026-07-16T20:35:35+00:00",
+  "now": "2026-07-16T21:47:10+00:00",
+  "forecast": "2026-07-16T21:47:10+00:00",
+  "hourly": "2026-07-16T21:47:10+00:00",
+  "alerts": "2026-07-16T21:47:10+00:00",
+  "afd": "2026-07-16T21:47:10+00:00",
+  "lake_forecast": "2026-07-16T21:47:10+00:00",
   "lake_gage": "2026-07-16T20:35:35+00:00",
-  "air": "2026-07-16T20:35:35+00:00",
-  "sun": "2026-07-16T20:35:35+00:00",
-  "models": "2026-07-16T20:35:35+00:00"
+  "air": "2026-07-16T21:47:10+00:00",
+  "sun": "2026-07-16T21:47:10+00:00",
+  "models": "2026-07-16T21:47:10+00:00"
  },
  "now": {
-  "observed_at": "2026-07-16T20:15:00+00:00",
+  "observed_at": "2026-07-16T21:25:00+00:00",
   "station": "KBTV",
-  "description": "Mostly Clear",
-  "temp_f": 75,
-  "feels_like_f": 75,
-  "humidity": 61,
-  "dewpoint_f": 61,
-  "wind_mph": 3,
+  "description": "Clear",
+  "temp_f": 79,
+  "feels_like_f": 79,
+  "humidity": null,
+  "dewpoint_f": null,
+  "wind_mph": null,
   "wind_gust_mph": null,
-  "wind_dir": "W"
+  "wind_dir": null
  },
  "forecast": {
   "updated": "2026-07-16T18:35:18+00:00",
@@ -31,10 +31,10 @@
     "name": "This Afternoon",
     "is_day": true,
     "temp_f": 82,
-    "pop": 28,
-    "wind": "NW 15 mph",
-    "short": "Chance Showers And Thunderstorms",
-    "detailed": "A chance of showers and thunderstorms before 5pm. Mostly sunny, with a high near 82. Northwest wind around 15 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+    "pop": 4,
+    "wind": "NW 14 mph",
+    "short": "Mostly Sunny",
+    "detailed": "Mostly sunny, with a high near 82. Northwest wind around 14 mph. New rainfall amounts less than a tenth of an inch possible."
    },
    {
     "name": "Tonight",
@@ -86,17 +86,6 @@
  "hourly": {
   "updated": "2026-07-16T18:35:18+00:00",
   "hours": [
-   {
-    "t": "2026-07-16T16:00:00-04:00",
-    "temp_f": 82,
-    "feels_f": 82,
-    "pop": 28,
-    "humidity": 41,
-    "wind_mph": 15,
-    "wind_dir": "NW",
-    "sky": 62,
-    "short": "Chance Showers And Thunderstorms"
-   },
    {
     "t": "2026-07-16T17:00:00-04:00",
     "temp_f": 81,
@@ -481,6 +470,17 @@
     "wind_dir": "S",
     "sky": 87,
     "short": "Mostly Cloudy"
+   },
+   {
+    "t": "2026-07-18T04:00:00-04:00",
+    "temp_f": 61,
+    "feels_f": 61,
+    "pop": 0,
+    "humidity": 72,
+    "wind_mph": 6,
+    "wind_dir": "S",
+    "sky": 93,
+    "short": "Cloudy"
    }
   ]
  },
@@ -777,10 +777,10 @@
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 50,
+  "aqi": 46,
   "category": "Good",
   "pollutant": "PM2.5",
-  "observed": "07/16/26 16:00",
+  "observed": "07/16/26 17:00",
   "discussion": "On Friday, July 17th, expect generally good air quality across Vermont, as smoke from wildfires is expected to be blown southward of the state by a cold frontal passage."
  },
  "sun": {
@@ -807,7 +807,7 @@
     "precip_in": {
      "GFS": 0.0,
      "Euro": 0.2,
-     "ICON": 0.06
+     "ICON": 0.11
     },
     "high_spread_f": 6
    },
@@ -835,19 +835,19 @@
     "high_f": {
      "GFS": 78,
      "Euro": 85,
-     "ICON": 72
+     "ICON": 77
     },
     "pop_max": {
-     "GFS": 94,
+     "GFS": 89,
      "Euro": 89,
      "ICON": 91
     },
     "precip_in": {
      "GFS": 0.39,
      "Euro": 0.05,
-     "ICON": 0.47
+     "ICON": 0.31
     },
-    "high_spread_f": 13
+    "high_spread_f": 8
    }
   ]
  }
