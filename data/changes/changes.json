@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T18:36:15+00:00",
+ "generated": "2026-07-16T20:15:40+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -3179,6 +3179,116 @@
    "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-16T19:45:00+00:00",
+   "category": "news",
+   "headline": "E-bike rider seriously injured in downtown Burlington crash, police say",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/pine-street-burlington-e-bike-crash/72769533",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T19:57:00+00:00",
+   "category": "news",
+   "headline": "Middlebury man arrested after stabbing, shooting during family dispute",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T20:02:13+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: A-Dog Skate Park",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uycksm/adog_skate_park/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T20:02:13+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Open Mic Tonight @ Specs in Winooski",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uybqcp/open_mic_tonight_specs_in_winooski/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T20:02:13+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Car crashed onto sidewalk/bike path on Pine st",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uyanxx/car_crashed_onto_sidewalkbike_path_on_pine_st/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T20:02:13+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Maple Creemee Affogato 🤞",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uy92u9/maple_creemee_affogato/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T20:02:13+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T20:15:40+00:00",
+   "category": "weather",
+   "headline": "This Afternoon: A chance of showers and thunderstorms before 5pm",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-16T20:15:46+00:00",
+   "category": "news",
+   "headline": "07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853",
+   "source": "btv-news-releases",
+   "sourceName": "City of Burlington",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T20:15:46+00:00",
+   "category": "news",
+   "headline": "07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853",
+   "source": "bpd-updates",
+   "sourceName": "Burlington Police",
+   "priority": 2,
+   "kind": "added"
   }
  ]
 }

@@ -13,7 +13,7 @@
   ],
   "forecast_flag": {
    "day": "2026-07-16",
-   "text": "This Afternoon: Areas of smoke and a chance of showers and thunderstorms before 5pm"
+   "text": "This Afternoon: A chance of showers and thunderstorms before 5pm"
   }
  },
  "beach-status": {
@@ -31,27 +31,27 @@
    "Blodgett Water Access Point": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T13:54:00+00:00"
+    "resultTime": "2026-07-16T18:38:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T14:39:00+00:00"
+    "resultTime": "2026-07-16T19:15:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T14:39:00+00:00"
+    "resultTime": "2026-07-16T19:14:00+00:00"
    },
    "North Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T14:19:00+00:00"
+    "resultTime": "2026-07-16T18:55:00+00:00"
    },
    "North Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T14:19:00+00:00"
+    "resultTime": "2026-07-16T18:54:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -66,7 +66,7 @@
    "Texaco Beach": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T14:19:00+00:00"
+    "resultTime": "2026-07-16T18:51:00+00:00"
    }
   }
  },
@@ -381,13 +381,6 @@
  },
  "gmt-alerts": {
   "items": [
-   {
-    "id": "https://ridegmt.com/?p=24703",
-    "title": "Service Alert :: Pine Street",
-    "link": "https://ridegmt.com/service-alert-pine-street-2/",
-    "ts": "2026-07-16T17:45:26+00:00",
-    "summary": "Buses on Route 5 will be on detour due to an accident. Toward Pine Street, stops from Pine Street at Lakeside Avenue (Cumberland Farms) through Howard Center will not be [ ]"
-   },
    {
     "id": "https://ridegmt.com/?p=24075",
     "title": "Downtown Transit Center Hours Changing",
@@ -939,6 +932,34 @@
    "wcax": {
     "items": [
      {
+      "id": "6ZXMGCAAS5BRRL4VYOMQ2KZK4M",
+      "title": "Ben & Jerry’s launches new flavor to mobilize voters ahead of November midterms",
+      "link": "https://www.wcax.com/2026/07/16/ben-jerrys-launches-new-flavor-mobilize-voters-ahead-november-midterms/",
+      "ts": "2026-07-16T20:01:52+00:00",
+      "summary": "The Vermont ice brand has introduced a new flavor called Razz Up aimed at mobilizing voters to “stand against authoritarianism.”"
+     },
+     {
+      "id": "PHFOZC56ORB35AAMLUV4G45VH4",
+      "title": "Middlebury man held without bail after allegedly stabbing family member, sparking standoff",
+      "link": "https://www.wcax.com/2026/07/16/middlebury-man-held-without-bail-after-allegedly-stabbing-family-member-sparking-standoff/",
+      "ts": "2026-07-16T19:22:43+00:00",
+      "summary": "A Middlebury man is being held without bail after assaulting a family member and prompting a police standoff Wednesday night."
+     },
+     {
+      "id": "WLS5OJMJJNBQHMIYBHV5GTNJRU",
+      "title": "Do Good Fest raises $200K for youth mental health nonprofits",
+      "link": "https://www.wcax.com/2026/07/16/do-good-fest-raises-200k-youth-mental-health-nonprofits/",
+      "ts": "2026-07-16T18:57:35+00:00",
+      "summary": "Last weekend’s Do Good Fest charity concert raised $200,000 to support youth mental health."
+     },
+     {
+      "id": "4ONWFMB3BRB4RICMC2IAKFORDE",
+      "title": "Crews still cleaning up microburst damage in Shrewsbury",
+      "link": "https://www.wcax.com/2026/07/16/crews-still-cleaning-up-microburst-damage-shrewsbury/",
+      "ts": "2026-07-16T18:41:48+00:00",
+      "summary": "Crews are continuing to clean up debris and downed trees after severe wind struck southern Vermont Tuesday night."
+     },
+     {
       "id": "N46BAJPJCZAZ3H37ENG3C5HGW4",
       "title": "Wildfire raging in the Adirondacks",
       "link": "https://www.wcax.com/2026/07/16/wildfire-raging-adirondacks/",
@@ -1259,39 +1280,116 @@
       "link": "https://www.wcax.com/2026/07/14/uvm-finds-new-drug-fight-lung-cancer-could-be-game-changer/",
       "ts": "2026-07-14T11:56:46+00:00",
       "summary": "University of Vermont researchers say a new drug shows promise for patients with a rare form of lung cancer, mesothelioma."
-     },
-     {
-      "id": "TWXRMCQHBNHGJBYEERU5RTPS3M",
-      "title": "Vt. town considering new rules for e-bikes and e-motos",
-      "link": "https://www.wcax.com/2026/07/14/vt-town-considering-new-rules-e-bikes-e-motos/",
-      "ts": "2026-07-14T10:50:10+00:00",
-      "summary": "The Colchester Selectboard could take up new rules for e-bikes and e-motos"
-     },
-     {
-      "id": "K5PYJ4RK4NFTXHSO4TSI6MJF3M",
-      "title": "Burlington City Council approves battery storage system for McNeil Generating Station",
-      "link": "https://www.wcax.com/2026/07/14/burlington-city-council-approves-battery-storage-system-mcneil-generating-station/",
-      "ts": "2026-07-14T02:31:29+00:00",
-      "summary": "The Burlington City Council on Monday approved plans to purchase a battery storage system for the McNeil generating station."
-     },
-     {
-      "id": "3NXZDACAIJDFLDVC3D54ZCG4HU",
-      "title": "Vehicle crashes into Smugglers’ Notch Resort pool",
-      "link": "https://www.wcax.com/2026/07/13/vehicle-crashes-into-smugglers-notch-resort-pool/",
-      "ts": "2026-07-14T00:24:03+00:00",
-      "summary": "Police say that due to the age of the individuals involved, no further information will be released."
-     },
-     {
-      "id": "OYW4JDPMOBDMJOPHKGWQFHNSQI",
-      "title": "Dropped phone triggers false plane crash alert near Mt. Pisgah",
-      "link": "https://www.wcax.com/2026/07/13/dropped-phone-triggers-false-plane-crash-alert/",
-      "ts": "2026-07-13T22:31:47+00:00",
-      "summary": "A hiker who dropped his phone off a cliff set off a large emergency response."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "72783284",
+      "title": "Crews battle wildfire for days in Essex County, New York",
+      "link": "https://www.mynbc5.com/article/wildfire-burns-for-days-near-sawteeth-mountain-in-essex-county/72783284",
+      "ts": "2026-07-16T20:08:00+00:00",
+      "summary": "Forest rangers are working to contain a quarter-acre wildfire near Sawteeth Mountain in Keene, New York, which has been burning since Monday."
+     },
+     {
+      "id": "72551882",
+      "title": "1 person has died as Texas flooding forces evacuations, high-water rescues, governor says",
+      "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
+      "ts": "2026-07-16T20:05:00+00:00",
+      "summary": "Some residents in southwest Texas are being urged to evacuate during severe downpours."
+     },
+     {
+      "id": "72122721",
+      "title": "Middlebury man arrested after stabbing, shooting during family dispute",
+      "link": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
+      "ts": "2026-07-16T19:57:00+00:00",
+      "summary": "Police say a family dispute in Middlebury escalated into a stabbing and gunfire Wednesday evening. One man was airlifted to UVM Medical Center, and a 39-year-old suspect is in custody"
+     },
+     {
+      "id": "72640953",
+      "title": "New study says speeding wastes gas, money and barely saves time",
+      "link": "https://www.mynbc5.com/article/speeding-costs-gas-and-barely-saves-time-study/72640953",
+      "ts": "2026-07-16T19:54:00+00:00",
+      "summary": "Speeding barely saves time, but new research says it wastes fuel and adds emissions — costing drivers money at the pump."
+     },
+     {
+      "id": "72400432",
+      "title": "Vermont blogger helps share Vermont's hidden gems",
+      "link": "https://www.mynbc5.com/article/vermont-blogger-helps-share-vermonts-hidden-gems/72400432",
+      "ts": "2026-07-16T19:50:00+00:00",
+      "summary": "We met Tara at one of her favorite parks in Hubbardton, where she explained why the quiet corners of Vermont deserve just as much attention as the famous ones."
+     },
+     {
+      "id": "72506587",
+      "title": "UVM doctor awarded national funding to treat tick-borne illnesses",
+      "link": "https://www.mynbc5.com/article/uvm-doctor-national-funding-tick-illnesses/72506587",
+      "ts": "2026-07-16T19:49:00+00:00",
+      "summary": "The number of ticks and tick bites in Vermont are on the rise. To help limit the impacts, one University of Vermont researcher is getting national funding, to find new treatments and prevention methods of tick-borne illnesses."
+     },
+     {
+      "id": "72769533",
+      "title": "E-bike rider seriously injured in downtown Burlington crash, police say",
+      "link": "https://www.mynbc5.com/article/pine-street-burlington-e-bike-crash/72769533",
+      "ts": "2026-07-16T19:45:00+00:00",
+      "summary": "A woman was seriously injured after she was hit by a car while riding an E-bike in Burlington on Thursday."
+     },
+     {
+      "id": "72571535",
+      "title": "Trump to make 2020 election allegations focus of Thursday's national address",
+      "link": "https://www.mynbc5.com/article/trump-address-nation-july-16-2026/72571535",
+      "ts": "2026-07-16T19:33:00+00:00",
+      "summary": "President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines."
+     },
+     {
+      "id": "72549961",
+      "title": "DA pushes back as FBI alleges drugs found in van involved in Houston ICE shooting",
+      "link": "https://www.mynbc5.com/article/houston-ice-shooting-fbi-warrant-drugs-lorenzo-salgado-araujo/72549961",
+      "ts": "2026-07-16T19:31:00+00:00",
+      "summary": "Prosecutors in Texas’ Harris County don’t believe that substances collected in the van in which Lorenzo Salgado Araujo was fatally shot by an ICE agent in Houston last week were drugs, countering the FBI's warrant application."
+     },
+     {
+      "id": "72721122",
+      "title": "How would permanent Daylight Saving Time impact Vermont and New York? We examine the data",
+      "link": "https://www.mynbc5.com/article/permanent-daylight-saving-time-vermont-new-york/72721122",
+      "ts": "2026-07-16T19:28:00+00:00",
+      "summary": "With lawmakers trying to pass a law to make Daylight Saving Time permanent, our Matt DiLoreto looks at what a change like this would mean for residents in Vermont and New York."
+     },
+     {
+      "id": "72689633",
+      "title": "How to protect yourself from poor air quality caused by wildfires",
+      "link": "https://www.mynbc5.com/article/how-protect-yourself-air-quality-caused-wildfires/72689633",
+      "ts": "2026-07-16T19:17:00+00:00",
+      "summary": "Here are precautions you should take to protect yourself as air quality degrades due to wildfires."
+     },
+     {
+      "id": "72749662",
+      "title": "President Trump to present evidence on election integrity in address",
+      "link": "https://www.mynbc5.com/article/trump-election-integrity-address-thursday/72749662",
+      "ts": "2026-07-16T19:06:00+00:00",
+      "summary": "Press Secretary Karoline Leavitt says President Trump will present evidence on election integrity during his address tonight, though investigations and court rulings have found no evidence of widespread fraud in the 2020 election."
+     },
+     {
+      "id": "72744131",
+      "title": "Kris Jenner's mother, Mary Jo 'MJ' Shannon, dies at 91",
+      "link": "https://www.mynbc5.com/article/kris-jenner-mother-mj-mary-jo-shannon-dies/72744131",
+      "ts": "2026-07-16T18:57:00+00:00",
+      "summary": "Kris Jenner shared an emotional tribute after the death of her mother, Mary Jo “MJ” Shannon."
+     },
+     {
+      "id": "72708676",
+      "title": "Trump’s teleprompter operator under investigation for insider trading, reports say",
+      "link": "https://www.mynbc5.com/article/trump-teleprompter-insider-investigation-gabriel-perez/72708676",
+      "ts": "2026-07-16T18:55:00+00:00",
+      "summary": "The federal agency that regulates prediction markets is investigating President Donald Trump’s longtime teleprompter operator for potential insider trading, according to two sources familiar with the matter."
+     },
+     {
+      "id": "71935250",
+      "title": "Before you choose paint colors, choose the right contractor. It could save you thousands.﻿",
+      "link": "https://www.mynbc5.com/article/hiring-contractor-red-flags/71935250",
+      "ts": "2026-07-16T18:41:00+00:00",
+      "summary": "A bad contractor can turn a dream project into a costly mistake. Experts say the warning signs often show up before the work even begins."
+     },
      {
       "id": "65616245",
       "title": "Tips to maintain air quality during wildfire season",
@@ -1314,13 +1412,6 @@
       "summary": "A man captured video of the moment he went into a flooded creek to help save another man, who had been swept away."
      },
      {
-      "id": "72551882",
-      "title": "1 person has died as Texas flooding forces evacuations, high-water rescues, governor says",
-      "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
-      "ts": "2026-07-16T17:14:00+00:00",
-      "summary": "Some residents in southwest Texas are being urged to evacuate during severe downpours."
-     },
-     {
       "id": "72574393",
       "title": "Watch: Blue Angels conducting review after low-altitude flyover in Florida",
       "link": "https://www.mynbc5.com/article/watch-blue-angels-conducting-review-after-low-altitude-flyover-in-florida/72574393",
@@ -1328,114 +1419,23 @@
       "summary": "An ultra-low Blue Angels flyover at a popular Florida beach is under investigation."
      },
      {
-      "id": "72506587",
-      "title": "UVM doctor awarded national funding to treat tick-borne illnesses",
-      "link": "https://www.mynbc5.com/article/uvm-doctor-national-funding-tick-illnesses/72506587",
-      "ts": "2026-07-16T16:48:00+00:00",
-      "summary": "The number of ticks and tick bites in Vermont are on the rise. To help limit the impacts, one University of Vermont researcher is getting national funding, to find new treatments and prevention methods of tick-borne illnesses."
-     },
-     {
       "id": "72124471",
       "title": "Smoky sky lingers, with isolated PM storms Thursday",
       "link": "https://www.mynbc5.com/article/smoky-sky-lingers-with-isolated-pm-storms-thursday-07-16-26/72124471",
       "ts": "2026-07-16T16:42:00+00:00",
       "summary": "Sunny and pleasant Friday, few showers and storms this weekend"
-     },
-     {
-      "id": "72648475",
-      "title": "After 23 years in prison, exonerated Florida man still awaits compensation",
-      "link": "https://www.mynbc5.com/article/after-23-years-exonerated-brevard-man-compensation/72648475",
-      "ts": "2026-07-16T16:02:00+00:00",
-      "summary": "A Florida man spent 23 years in prison for a murder DNA evidence cleared him of. But the more than $1 million in compensation a judge said he should receive hasn't arrived."
-     },
-     {
-      "id": "72646772",
-      "title": "Dramatic video: Train crew surrounded by intense flames from Canada wildfire",
-      "link": "https://www.mynbc5.com/article/video-train-crew-northern-ontario-wildfire-flames/72646772",
-      "ts": "2026-07-16T15:51:00+00:00",
-      "summary": "Video shows a train crew staying surprisingly calm as they were surrounded by flames from wildfires burning in Canada. They were safely evacuated."
-     },
-     {
-      "id": "71998713",
-      "title": "Alburgh residents say not enough is being done to prioritize safety on busy routes after crash",
-      "link": "https://www.mynbc5.com/article/propane-truck-driver-says-he-fell-asleep-before-alburgh-crash/71998713",
-      "ts": "2026-07-16T15:36:00+00:00",
-      "summary": "W. Shore Road in Alburgh closed for hours as crews clean up after a propane truck overturned. Residents said more needs to be done to prioritze safety on busy roads."
-     },
-     {
-      "id": "72164318",
-      "title": "Road worker seriously hurt after being struck by pickup in Jay",
-      "link": "https://www.mynbc5.com/article/road-worker-seriously-hurt-after-being-struck-by-pickup-in-jay/72164318",
-      "ts": "2026-07-16T15:29:00+00:00",
-      "summary": "A road construction flagger was seriously injured after being struck by a pickup truck Wednesday afternoon on Route 105 in Jay. Vermont State Police cited the driver, an 88-year-old Troy man, with negligent operation."
-     },
-     {
-      "id": "72002182",
-      "title": "New York man dies after getting trapped in hay baler, police say",
-      "link": "https://www.mynbc5.com/article/putnam-new-york-farm-equipment-death/72002182",
-      "ts": "2026-07-16T15:27:00+00:00",
-      "summary": "A New York man died this week after police said he became accidentally trapped in a hay baler while working."
-     },
-     {
-      "id": "72080412",
-      "title": "Investigators complete part of investigation near deadly Harrietstown plane crash site",
-      "link": "https://www.mynbc5.com/article/harrietstown-plane-crash-site-investigation/72080412",
-      "ts": "2026-07-16T15:21:00+00:00",
-      "summary": "NBC5 has learned more information about the three victims of a deadly plane crash in the Adirondacks as authorities have completed part of their investigation near the crash site."
-     },
-     {
-      "id": "71897966",
-      "title": "More than half of US states ban transgender athletes from participating in sports. See where",
-      "link": "https://www.mynbc5.com/article/transgender-athletes-sports-ban-map/71897966",
-      "ts": "2026-07-16T15:11:00+00:00",
-      "summary": "More than half of U.S. states have bans that prohibit either transgender girls or all transgender athletes from participating on certain sports teams. See where"
-     },
-     {
-      "id": "71942578",
-      "title": "Report: People detained at ICE facility in Texas report human rights abuses",
-      "link": "https://www.mynbc5.com/article/ice-detention-center-texas-rights-abuses-report/71942578",
-      "ts": "2026-07-16T14:54:00+00:00",
-      "summary": "A new report from human rights advocates says 90% of detainees interviewed at a sprawling ICE facility in Texas say they were either beaten by guards or witnessed others being beaten."
-     },
-     {
-      "id": "72606962",
-      "title": "2 more of Brad Pitt’s kids want to ditch his last name",
-      "link": "https://www.mynbc5.com/article/zahara-maddox-drop-brad-pitt-last-name/72606962",
-      "ts": "2026-07-16T14:40:00+00:00",
-      "summary": "Two more of Brad Pitt’s children, 21-year-old Zahara and 24-year-old Maddox, have applied to legally drop the star’s last name."
-     },
-     {
-      "id": "72604901",
-      "title": "Pet Connection: All about the dogs",
-      "link": "https://www.mynbc5.com/article/pet-connection-july-16-2026/72604901",
-      "ts": "2026-07-16T14:03:00+00:00",
-      "summary": "Two adorable dogs are featured in this week's edition of Pet Connection."
-     },
-     {
-      "id": "72555937",
-      "title": "Hal Williams, ‘Sanford and Son’ and ‘227’ star, dead at 91",
-      "link": "https://www.mynbc5.com/article/actor-hal-williams-dead-at-91/72555937",
-      "ts": "2026-07-16T13:59:00+00:00",
-      "summary": "Veteran actor Hall Williams has died at 91. He was known for his roles in “Sanford and Son,” “227” and dozens of other television roles from the 1970s and 1980s."
-     },
-     {
-      "id": "72594711",
-      "title": "Air quality alert for several Vermont counties today",
-      "link": "https://www.mynbc5.com/article/vermont-air-quality-alert-wildfire-smoke/72594711",
-      "ts": "2026-07-16T13:52:00+00:00",
-      "summary": "Several southern Vermont counties will have impacted air quality on Thursday due to Canadian wildfire smoke, according to the Vermont DEC."
-     },
-     {
-      "id": "72571535",
-      "title": "Trump to make 2020 election allegations focus of Thursday's national address",
-      "link": "https://www.mynbc5.com/article/trump-address-nation-july-16-2026/72571535",
-      "ts": "2026-07-16T13:00:00+00:00",
-      "summary": "President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines."
      }
     ]
    },
    "btv-news-releases": {
     "items": [
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853/639198128730000000",
+      "title": "07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853",
+      "ts": "2026-07-16T20:34:33+00:00",
+      "summary": ""
+     },
      {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3852/639196181290000000",
       "title": "07/14/2026 Aggravated Assault | 26BU015794",
@@ -1469,6 +1469,13 @@
    "bpd-updates": {
     "items": [
      {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853/639198128730000000",
+      "title": "07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853",
+      "ts": "2026-07-16T20:34:33+00:00",
+      "summary": ""
+     },
+     {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3852/639196181290000000",
       "title": "07/14/2026 Aggravated Assault | 26BU015794",
       "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3852",
@@ -1498,6 +1505,46 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uycksm",
+    "title": "A-Dog Skate Park",
+    "url": "https://www.reddit.com/r/burlington/comments/1uycksm/adog_skate_park/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T20:02:13+00:00"
+   },
+   {
+    "id": "1uybqcp",
+    "title": "Open Mic Tonight @ Specs in Winooski",
+    "url": "https://www.reddit.com/r/burlington/comments/1uybqcp/open_mic_tonight_specs_in_winooski/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T20:02:13+00:00"
+   },
+   {
+    "id": "1uyanxx",
+    "title": "Car crashed onto sidewalk/bike path on Pine st",
+    "url": "https://www.reddit.com/r/burlington/comments/1uyanxx/car_crashed_onto_sidewalkbike_path_on_pine_st/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T20:02:13+00:00"
+   },
+   {
+    "id": "1uy92u9",
+    "title": "Maple Creemee Affogato 🤞",
+    "url": "https://www.reddit.com/r/burlington/comments/1uy92u9/maple_creemee_affogato/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T20:02:13+00:00"
+   },
+   {
+    "id": "1uy8ri6",
+    "title": "Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
+    "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T20:02:13+00:00"
+   },
    {
     "id": "1uy7isk",
     "title": "Best cheap food in Burlington",
@@ -1614,46 +1661,6 @@
     "id": "1uxbeo7",
     "title": "News about Matty Tanner",
     "url": "https://www.reddit.com/r/burlington/comments/1uxbeo7/news_about_matty_tanner/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T17:02:19+00:00"
-   },
-   {
-    "id": "1uxb82f",
-    "title": "Language exchange spanish-english",
-    "url": "https://www.reddit.com/r/burlington/comments/1uxb82f/language_exchange_spanishenglish/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T17:02:19+00:00"
-   },
-   {
-    "id": "1uxaaww",
-    "title": "Indoor activities",
-    "url": "https://www.reddit.com/r/burlington/comments/1uxaaww/indoor_activities/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T17:02:19+00:00"
-   },
-   {
-    "id": "1ux9ust",
-    "title": "Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T17:02:19+00:00"
-   },
-   {
-    "id": "1ux8v4l",
-    "title": "Car Break In S Union",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux8v4l/car_break_in_s_union/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T17:02:19+00:00"
-   },
-   {
-    "id": "1ux8k2m",
-    "title": "Why doesn’t Burlington have a strong playground culture like other cities?",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux8k2m/why_doesnt_burlington_have_a_strong_playground/",
     "score": null,
     "comments": null,
     "created": "2026-07-15T17:02:19+00:00"
