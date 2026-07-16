@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-16T12:10:29+00:00",
+ "updated": "2026-07-16T14:47:32+00:00",
  "sections_updated": {
-  "now": "2026-07-16T12:10:29+00:00",
-  "forecast": "2026-07-16T12:10:29+00:00",
-  "hourly": "2026-07-16T12:10:29+00:00",
-  "alerts": "2026-07-16T12:10:29+00:00",
-  "afd": "2026-07-16T12:10:29+00:00",
-  "lake_forecast": "2026-07-16T12:10:29+00:00",
-  "lake_gage": "2026-07-16T12:10:29+00:00",
-  "air": "2026-07-16T12:10:29+00:00",
-  "sun": "2026-07-16T12:10:29+00:00",
-  "models": "2026-07-16T12:10:29+00:00"
+  "now": "2026-07-16T14:47:32+00:00",
+  "forecast": "2026-07-16T14:47:32+00:00",
+  "hourly": "2026-07-16T14:47:32+00:00",
+  "alerts": "2026-07-16T14:47:32+00:00",
+  "afd": "2026-07-16T14:47:32+00:00",
+  "lake_forecast": "2026-07-16T14:47:32+00:00",
+  "lake_gage": "2026-07-16T14:47:32+00:00",
+  "air": "2026-07-16T14:47:32+00:00",
+  "sun": "2026-07-16T14:47:32+00:00",
+  "models": "2026-07-16T14:47:32+00:00"
  },
  "now": {
-  "observed_at": "2026-07-16T11:50:00+00:00",
+  "observed_at": "2026-07-16T14:30:00+00:00",
   "station": "KBTV",
-  "description": "Mostly Cloudy",
-  "temp_f": 70,
-  "feels_like_f": 70,
-  "humidity": 64,
-  "dewpoint_f": 57,
-  "wind_mph": 8,
+  "description": "Cloudy",
+  "temp_f": 75,
+  "feels_like_f": 75,
+  "humidity": 57,
+  "dewpoint_f": 59,
+  "wind_mph": 3,
   "wind_gust_mph": null,
-  "wind_dir": "SSW"
+  "wind_dir": "WSW"
  },
  "forecast": {
   "updated": "2026-07-16T06:18:33+00:00",
@@ -32,9 +32,9 @@
     "is_day": true,
     "temp_f": 82,
     "pop": 58,
-    "wind": "W 5 to 16 mph",
+    "wind": "NW 8 to 16 mph",
     "short": "Areas Of Smoke then Patchy Smoke",
-    "detailed": "Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely. Mostly sunny, with a high near 82. West wind 5 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+    "detailed": "Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely. Mostly sunny, with a high near 82. Northwest wind 8 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
    },
    {
     "name": "Tonight",
@@ -86,39 +86,6 @@
  "hourly": {
   "updated": "2026-07-16T06:18:33+00:00",
   "hours": [
-   {
-    "t": "2026-07-16T07:00:00-04:00",
-    "temp_f": 68,
-    "feels_f": 68,
-    "pop": 1,
-    "humidity": 73,
-    "wind_mph": 5,
-    "wind_dir": "S",
-    "sky": 14,
-    "short": "Patchy Smoke"
-   },
-   {
-    "t": "2026-07-16T08:00:00-04:00",
-    "temp_f": 69,
-    "feels_f": 69,
-    "pop": 11,
-    "humidity": 73,
-    "wind_mph": 6,
-    "wind_dir": "W",
-    "sky": 28,
-    "short": "Areas Of Smoke"
-   },
-   {
-    "t": "2026-07-16T09:00:00-04:00",
-    "temp_f": 72,
-    "feels_f": 72,
-    "pop": 8,
-    "humidity": 66,
-    "wind_mph": 7,
-    "wind_dir": "SW",
-    "sky": 22,
-    "short": "Areas Of Smoke"
-   },
    {
     "t": "2026-07-16T10:00:00-04:00",
     "temp_f": 74,
@@ -481,11 +448,51 @@
     "wind_dir": "NW",
     "sky": 4,
     "short": "Clear"
+   },
+   {
+    "t": "2026-07-17T19:00:00-04:00",
+    "temp_f": 78,
+    "feels_f": 78,
+    "pop": 0,
+    "humidity": 37,
+    "wind_mph": 5,
+    "wind_dir": "NW",
+    "sky": 7,
+    "short": "Mostly Clear"
+   },
+   {
+    "t": "2026-07-17T20:00:00-04:00",
+    "temp_f": 74,
+    "feels_f": 74,
+    "pop": 0,
+    "humidity": 48,
+    "wind_mph": 3,
+    "wind_dir": "NW",
+    "sky": 19,
+    "short": "Mostly Clear"
+   },
+   {
+    "t": "2026-07-17T21:00:00-04:00",
+    "temp_f": 70,
+    "feels_f": 70,
+    "pop": 0,
+    "humidity": 57,
+    "wind_mph": 2,
+    "wind_dir": "S",
+    "sky": 9,
+    "short": "Mostly Clear"
    }
   ]
  },
  "alerts": {
-  "active": []
+  "active": [
+   {
+    "event": "Air Quality Alert",
+    "headline": "Air Quality Alert issued July 16 at 8:29AM EDT by NWS Burlington VT",
+    "severity": "Unknown",
+    "expires": "2026-07-17T08:30:00-04:00"
+   }
+  ]
  },
  "afd": {
   "issued": "2026-07-16T11:13:00+00:00",
@@ -732,18 +739,18 @@
  },
  "lake_gage": {
   "water_temp_f": 75,
-  "water_temp_at": "2026-07-16T08:00:00.000-04:00",
-  "level_ft": 96.26,
-  "level_at": "2026-07-16T08:00:00.000-04:00",
+  "water_temp_at": "2026-07-16T10:00:00.000-04:00",
+  "level_ft": 96.24,
+  "level_at": "2026-07-16T10:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 60,
+  "aqi": 62,
   "category": "Moderate",
   "pollutant": "PM2.5",
-  "observed": "07/16/26 7:00",
-  "discussion": "On Thursday, July 16th, smoke from Canadian wildfires is expected to impact Vermont.  Southern Vermont is expected to be Unhealthy for Sensitive Groups and an air quality alert is in place for that area.  Moderate particulate matter from smoke may be present in the remainder of Vermont."
+  "observed": "07/16/26 10:00",
+  "discussion": "On Thursday, July 16th, smoke from Canadian wildfires is expected to impact Vermont.  Air quality is expected to be Unhealthy for Sensitive Groups and an air quality alert has been issued for all of the state except Grand Isle, Orleans, Essex and Franklin counties.  Smoke is expected to be heavy for several hours in the morning then diminish over the course of the day as cleaner air moves in from the north."
  },
  "sun": {
   "sunrise": "2026-07-16T05:23-04:00",
@@ -757,21 +764,21 @@
    {
     "date": "2026-07-16",
     "high_f": {
-     "GFS": 81,
-     "Euro": 80,
+     "GFS": 83,
+     "Euro": 76,
      "ICON": 77
     },
     "pop_max": {
-     "GFS": 22,
-     "Euro": 70,
+     "GFS": 21,
+     "Euro": 89,
      "ICON": 30
     },
     "precip_in": {
      "GFS": 0.0,
-     "Euro": 0.02,
+     "Euro": 0.07,
      "ICON": 0.01
     },
-    "high_spread_f": 4
+    "high_spread_f": 7
    },
    {
     "date": "2026-07-17",
@@ -796,20 +803,20 @@
     "date": "2026-07-18",
     "high_f": {
      "GFS": 78,
-     "Euro": 79,
+     "Euro": 85,
      "ICON": 68
     },
     "pop_max": {
      "GFS": 92,
-     "Euro": 92,
+     "Euro": 89,
      "ICON": 93
     },
     "precip_in": {
      "GFS": 1.24,
-     "Euro": 0.15,
+     "Euro": 0.09,
      "ICON": 1.57
     },
-    "high_spread_f": 11
+    "high_spread_f": 17
    }
   ]
  }
