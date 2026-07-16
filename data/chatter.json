@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T12:05:16+00:00",
+  "updated": "2026-07-16T16:00:39+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -29,30 +29,6 @@
       ]
     },
     {
-      "id": "state-95k-campaign",
-      "label": "Nikhil Goyal's campaign sets fundraising record at $140k, with…",
-      "direction": "hot",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-15T14:02:28+00:00",
-      "sources": [
-        {
-          "title": "Nikhil Goyal's campaign sets fundraising record at $140k, with approximately 67% ($95k) coming from out of state donors.",
-          "url": "https://www.reddit.com/r/burlington/comments/1ux5gto/nikhil_goyals_campaign_sets_fundraising_record_at/",
-          "sub": "r/burlington",
-          "when": "2026-07-15T14:02:28+00:00",
-          "comments": null
-        },
-        {
-          "title": "Nikhil Goyal's campaign sets fundraising record at $140k, with approximately 67% ($95k) coming from out of state donors.",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux3a9u/nikhil_goyals_campaign_sets_fundraising_record_at/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T13:03:01+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "smoke-wildfire-breathe",
       "label": "US Wildfire Smoke Map",
       "direction": "hot",
@@ -72,30 +48,6 @@
           "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
           "sub": "r/burlington",
           "when": "2026-07-15T17:02:19+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "northern-before-housing",
-      "label": "More of the same on housing cost, property tax, health care?…",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-15T13:03:01+00:00",
-      "sources": [
-        {
-          "title": "More of the same on housing cost, property tax, health care? Or a new direction? Vote on or before 8/11",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux547a/more_of_the_same_on_housing_cost_property_tax/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T13:03:01+00:00",
-          "comments": null
-        },
-        {
-          "title": "Never before seen weather risk in northern New England (northern ME, northern NH, northern VT, northeastern NY)",
-          "url": "https://www.reddit.com/r/vermont/comments/1uwc32e/never_before_seen_weather_risk_in_northern_new/",
-          "sub": "r/vermont",
-          "when": "2026-07-14T16:03:18+00:00",
           "comments": null
         }
       ]
@@ -125,40 +77,6 @@
       ]
     },
     {
-      "id": "article-homes-second",
-      "label": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-15T16:02:20+00:00",
-      "sources": [
-        {
-          "title": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux6hso/second_homes_first_a_support_group_for_citybased/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T16:02:20+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "old-photos-time",
-      "label": "A place for tintype old time photos?",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-15T13:03:01+00:00",
-      "sources": [
-        {
-          "title": "A place for tintype old time photos?",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux484y/a_place_for_tintype_old_time_photos/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T13:03:01+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "here-like-almost",
       "label": "An unexpected guest showed up today and decided to inspect my…",
       "direction": "rising",
@@ -171,6 +89,74 @@
           "url": "https://www.reddit.com/r/vermont/comments/1uxgctf/an_unexpected_guest_showed_up_today_and_decided/",
           "sub": "r/vermont",
           "when": "2026-07-15T22:03:36+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "6pm-anti-comments",
+      "label": "Anti ice Protest Thursday at 6pm",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-15T20:02:50+00:00",
+      "sources": [
+        {
+          "title": "Anti ice Protest Thursday at 6pm",
+          "url": "https://www.reddit.com/r/burlington/comments/1uxehq1/anti_ice_protest_thursday_at_6pm/",
+          "sub": "r/burlington",
+          "when": "2026-07-15T20:02:50+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "like-something-50cc",
+      "label": "Anybody have like a 50cc scooter they are looking to get rid of?",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-15T19:03:13+00:00",
+      "sources": [
+        {
+          "title": "Anybody have like a 50cc scooter they are looking to get rid of?",
+          "url": "https://www.reddit.com/r/vermont/comments/1uxb07m/anybody_have_like_a_50cc_scooter_they_are_looking/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T19:03:13+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "car-comments-internalmedicina",
+      "label": "Best Touchless Car Wash?",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-15T20:02:50+00:00",
+      "sources": [
+        {
+          "title": "Best Touchless Car Wash?",
+          "url": "https://www.reddit.com/r/burlington/comments/1uxcjct/best_touchless_car_wash/",
+          "sub": "r/burlington",
+          "when": "2026-07-15T20:02:50+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "country-cross-moving",
+      "label": "Cross Country Moving Pod",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-15T23:02:14+00:00",
+      "sources": [
+        {
+          "title": "Cross Country Moving Pod",
+          "url": "https://www.reddit.com/r/burlington/comments/1uxjcx7/cross_country_moving_pod/",
+          "sub": "r/burlington",
+          "when": "2026-07-15T23:02:14+00:00",
           "comments": null
         }
       ]
@@ -282,10 +268,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 130,
+    "posts_scanned": 131,
     "per_source": {
       "r/burlington": 62,
-      "r/vermont": 68
+      "r/vermont": 69
     }
   }
 }
