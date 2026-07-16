@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T23:35:00+00:00",
+  "updated": "2026-07-16T12:05:16+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -29,30 +29,6 @@
       ]
     },
     {
-      "id": "northern-before-housing",
-      "label": "More of the same on housing cost, property tax, health care?…",
-      "direction": "hot",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-15T13:03:01+00:00",
-      "sources": [
-        {
-          "title": "More of the same on housing cost, property tax, health care? Or a new direction? Vote on or before 8/11",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux547a/more_of_the_same_on_housing_cost_property_tax/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T13:03:01+00:00",
-          "comments": null
-        },
-        {
-          "title": "Never before seen weather risk in northern New England (northern ME, northern NH, northern VT, northeastern NY)",
-          "url": "https://www.reddit.com/r/vermont/comments/1uwc32e/never_before_seen_weather_risk_in_northern_new/",
-          "sub": "r/vermont",
-          "when": "2026-07-14T16:03:18+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "state-95k-campaign",
       "label": "Nikhil Goyal's campaign sets fundraising record at $140k, with…",
       "direction": "hot",
@@ -77,9 +53,57 @@
       ]
     },
     {
+      "id": "smoke-wildfire-breathe",
+      "label": "US Wildfire Smoke Map",
+      "direction": "hot",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-16T01:02:50+00:00",
+      "sources": [
+        {
+          "title": "US Wildfire Smoke Map",
+          "url": "https://www.reddit.com/r/vermont/comments/1uxlta8/us_wildfire_smoke_map/",
+          "sub": "r/vermont",
+          "when": "2026-07-16T01:02:50+00:00",
+          "comments": null
+        },
+        {
+          "title": "Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
+          "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
+          "sub": "r/burlington",
+          "when": "2026-07-15T17:02:19+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "northern-before-housing",
+      "label": "More of the same on housing cost, property tax, health care?…",
+      "direction": "rising",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-15T13:03:01+00:00",
+      "sources": [
+        {
+          "title": "More of the same on housing cost, property tax, health care? Or a new direction? Vote on or before 8/11",
+          "url": "https://www.reddit.com/r/vermont/comments/1ux547a/more_of_the_same_on_housing_cost_property_tax/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T13:03:01+00:00",
+          "comments": null
+        },
+        {
+          "title": "Never before seen weather risk in northern New England (northern ME, northern NH, northern VT, northeastern NY)",
+          "url": "https://www.reddit.com/r/vermont/comments/1uwc32e/never_before_seen_weather_risk_in_northern_new/",
+          "sub": "r/vermont",
+          "when": "2026-07-14T16:03:18+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "comments-link-submitted",
       "label": "soundscapes of our city 🥰",
-      "direction": "hot",
+      "direction": "rising",
       "posts": 2,
       "comments": null,
       "last_activity": "2026-07-15T17:02:19+00:00",
@@ -101,78 +125,6 @@
       ]
     },
     {
-      "id": "old-photos-early",
-      "label": "A place for tintype old time photos?",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-15T13:03:01+00:00",
-      "sources": [
-        {
-          "title": "A place for tintype old time photos?",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux484y/a_place_for_tintype_old_time_photos/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T13:03:01+00:00",
-          "comments": null
-        },
-        {
-          "title": "Old photos of my grandfathers farm to the early 90s and early 2000s",
-          "url": "https://www.reddit.com/r/vermont/comments/1uu307c/old_photos_of_my_grandfathers_farm_to_the_early/",
-          "sub": "r/vermont",
-          "when": "2026-07-12T23:54:41+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "pool-guys-only",
-      "label": "Played a round of pool at Needs w/ my friends",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-15T11:02:19+00:00",
-      "sources": [
-        {
-          "title": "Played a round of pool at Needs w/ my friends",
-          "url": "https://www.reddit.com/r/burlington/comments/1ux2j48/played_a_round_of_pool_at_needs_w_my_friends/",
-          "sub": "r/burlington",
-          "when": "2026-07-15T11:02:19+00:00",
-          "comments": null
-        },
-        {
-          "title": "Went to Needs for a round of pool",
-          "url": "https://www.reddit.com/r/burlington/comments/1uwkkr4/went_to_needs_for_a_round_of_pool/",
-          "sub": "r/burlington",
-          "when": "2026-07-14T23:01:58+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "monday-watch-cup",
-      "label": "Where to watch the World Cup?",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-15T02:00:58+00:00",
-      "sources": [
-        {
-          "title": "Where to watch the World Cup?",
-          "url": "https://www.reddit.com/r/burlington/comments/1uwpjrs/where_to_watch_the_world_cup/",
-          "sub": "r/burlington",
-          "when": "2026-07-15T02:00:58+00:00",
-          "comments": null
-        },
-        {
-          "title": "Jack White in Essex Junction, a Bastille Day Moth StorySLAM, and a World Cup watch party at the library, plus a shakeup at the top of Vermont's commerce agency, and what the shelter accountability debate means for Burlington, your whole week is in the Monday Brief",
-          "url": "https://www.reddit.com/r/burlington/comments/1uvbz1q/jack_white_in_essex_junction_a_bastille_day_moth/",
-          "sub": "r/burlington",
-          "when": "2026-07-13T14:00:57+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "article-homes-second",
       "label": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
       "direction": "rising",
@@ -185,6 +137,40 @@
           "url": "https://www.reddit.com/r/vermont/comments/1ux6hso/second_homes_first_a_support_group_for_citybased/",
           "sub": "r/vermont",
           "when": "2026-07-15T16:02:20+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "old-photos-time",
+      "label": "A place for tintype old time photos?",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-15T13:03:01+00:00",
+      "sources": [
+        {
+          "title": "A place for tintype old time photos?",
+          "url": "https://www.reddit.com/r/vermont/comments/1ux484y/a_place_for_tintype_old_time_photos/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T13:03:01+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "here-like-almost",
+      "label": "An unexpected guest showed up today and decided to inspect my…",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-15T22:03:36+00:00",
+      "sources": [
+        {
+          "title": "An unexpected guest showed up today and decided to inspect my plants.",
+          "url": "https://www.reddit.com/r/vermont/comments/1uxgctf/an_unexpected_guest_showed_up_today_and_decided/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T22:03:36+00:00",
           "comments": null
         }
       ]
@@ -227,11 +213,11 @@
     {
       "slot": "needs_help",
       "slot_label": "Someone needs help",
-      "title": "Lost dog GPS tracker",
-      "url": "https://www.reddit.com/r/burlington/comments/1uw64xp/lost_dog_gps_tracker/",
-      "sub": "r/burlington",
-      "when": "2026-07-14T14:02:25+00:00",
-      "blurb": "Lost Black GPS tracker like in pic. My dog lost her GPS tracker somewhere between Camels Hump trails and Warren around end of June/early…",
+      "title": "Gondola ride",
+      "url": "https://www.reddit.com/r/vermont/comments/1uxnb0z/gondola_ride/",
+      "sub": "r/vermont",
+      "when": "2026-07-16T01:02:50+00:00",
+      "blurb": "Looking to possibly do the Gondola ride in Stowe. A little concerned about the on/off process as I know it doesn’t come to a complete…",
       "comments": null,
       "unverified": false
     },
@@ -293,41 +279,13 @@
       "sub": "r/burlington",
       "when": "2026-07-14T14:02:25+00:00",
       "comments": null
-    },
-    {
-      "title": "Best home Internet?",
-      "url": "https://www.reddit.com/r/burlington/comments/1uuz1gb/best_home_internet/",
-      "sub": "r/burlington",
-      "when": "2026-07-13T11:00:59+00:00",
-      "comments": null
-    },
-    {
-      "title": "Anyone know what's happening in Burlington rn?",
-      "url": "https://www.reddit.com/r/burlington/comments/1uuya8r/anyone_know_whats_happening_in_burlington_rn/",
-      "sub": "r/burlington",
-      "when": "2026-07-13T02:00:02+00:00",
-      "comments": null
-    },
-    {
-      "title": "Drunk driver on Spear St",
-      "url": "https://www.reddit.com/r/burlington/comments/1uuxf0e/drunk_driver_on_spear_st/",
-      "sub": "r/burlington",
-      "when": "2026-07-13T02:00:02+00:00",
-      "comments": null
-    },
-    {
-      "title": "Hit & run fender bender on N Winooski",
-      "url": "https://www.reddit.com/r/burlington/comments/1uts7nn/hit_run_fender_bender_on_n_winooski/",
-      "sub": "r/burlington",
-      "when": "2026-07-13T02:00:02+00:00",
-      "comments": null
     }
   ],
   "stats": {
-    "posts_scanned": 167,
+    "posts_scanned": 130,
     "per_source": {
-      "r/burlington": 85,
-      "r/vermont": 82
+      "r/burlington": 62,
+      "r/vermont": 68
     }
   }
 }
