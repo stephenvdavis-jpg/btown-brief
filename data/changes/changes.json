@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T03:44:57+00:00",
+ "generated": "2026-07-16T06:38:51+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -2970,6 +2970,17 @@
    "sourceName": "City meeting portal",
    "priority": 2,
    "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T06:38:51+00:00",
+   "category": "weather",
+   "headline": "Thursday: Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "changed"
   }
  ]
 }

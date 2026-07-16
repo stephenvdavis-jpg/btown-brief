@@ -2,8 +2,8 @@
  "nws-weather": {
   "alerts": [],
   "forecast_flag": {
-   "day": "2026-07-15",
-   "text": "Thursday: Patchy smoke before 10am, then a slight chance of showers and thunderstorms between 1pm and 2pm, then a chance of showers and thunderstorms between 2pm and 4pm"
+   "day": "2026-07-16",
+   "text": "Thursday: Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely"
   }
  },
  "beach-status": {
@@ -1308,6 +1308,41 @@
    "mynbc5": {
     "items": [
      {
+      "id": "72321780",
+      "title": "Sam Neill died from pneumonia, agent says",
+      "link": "https://www.mynbc5.com/article/sam-neill-died-pneumonia/72321780",
+      "ts": "2026-07-16T05:07:00+00:00",
+      "summary": "The agent for Sam Neill says the 'Jurassic Park' actor died from pneumonia"
+     },
+     {
+      "id": "72224867",
+      "title": "US strikes expand into northern Iran as it disables ship trying to run blockade",
+      "link": "https://www.mynbc5.com/article/us-airstrikes-northern-iran-blockade/72224867",
+      "ts": "2026-07-16T04:40:00+00:00",
+      "summary": "U.S. airstrikes hit northern Iran as it disables ship trying to run the blockade"
+     },
+     {
+      "id": "72052272",
+      "title": "Search suspended for 3 missing after boat capsizes on San Francisco Bay",
+      "link": "https://www.mynbc5.com/article/rescue-search-boat-sank-san-francisco-bay/72052272",
+      "ts": "2026-07-16T04:26:00+00:00",
+      "summary": "U.S. Coast Guard crews have suspended their search for three people missing after a boat sank in San Francisco Bay near Alcatraz Island."
+     },
+     {
+      "id": "72105834",
+      "title": "George Santos' next gig? Reality TV show contestant",
+      "link": "https://www.mynbc5.com/article/george-santos-reality-tv/72105834",
+      "ts": "2026-07-16T04:13:00+00:00",
+      "summary": "George Santos has worn many hats: Swindler, congressman, prison inmate, podcast host. The obvious next gig? Reality TV show contestant."
+     },
+     {
+      "id": "72263820",
+      "title": "Upper Valley Nighthawks hold on for third straight win",
+      "link": "https://www.mynbc5.com/article/upper-valley-nighthawks-hold-on-for-third-straight-win/72263820",
+      "ts": "2026-07-16T03:44:00+00:00",
+      "summary": "A three-run second inning helps the Nighthawks take down the Mystic Schooners 7-6"
+     },
+     {
       "id": "72270944",
       "title": "The biggest rocket ever is coming to Florida's Space Coast",
       "link": "https://www.mynbc5.com/article/biggest-rocket-florida-space-coast-texas/72270944",
@@ -1334,13 +1369,6 @@
       "link": "https://www.mynbc5.com/article/zohran-mamdani-rikers-island-world-cup-watch-party/72058055",
       "ts": "2026-07-16T02:21:00+00:00",
       "summary": "More than 100 Rikers inmates got a World Cup semifinal watch party, and Mayor Zohran Mamdani stopped by to chat with them."
-     },
-     {
-      "id": "72224867",
-      "title": "US airstrikes hit northern Iran as it disables ship trying to run the blockade",
-      "link": "https://www.mynbc5.com/article/us-airstrikes-northern-iran-blockade/72224867",
-      "ts": "2026-07-16T01:48:00+00:00",
-      "summary": "U.S. airstrikes hit northern Iran as it disables ship trying to run the blockade"
      },
      {
       "id": "72082903",
@@ -1418,34 +1446,6 @@
       "link": "https://www.mynbc5.com/article/pentagon-to-offer-troops-testosterone-therapy/72038642",
       "ts": "2026-07-15T23:11:00+00:00",
       "summary": "Secretary Pete Hegseth has unveiled a new program to screen service members for testosterone deficiency, aiming to improve their health and readiness."
-     },
-     {
-      "id": "72129228",
-      "title": "Cemetery creates grave marker for beloved goose who gained national attention in search for a mate",
-      "link": "https://www.mynbc5.com/article/iowa-cemetery-blossom-goose-grave-marker/72129228",
-      "ts": "2026-07-15T23:06:00+00:00",
-      "summary": "Blossom, a beloved goose who captured hearts nationwide in her search for a companion, is getting a special grave marker at an Iowa cemetery."
-     },
-     {
-      "id": "72124471",
-      "title": "Smoky skies linger, with isolated PM storms Thursday",
-      "link": "https://www.mynbc5.com/article/smoky-skies-linger-with-isolated-pm-storms-thursday-07-15-26/72124471",
-      "ts": "2026-07-15T22:41:00+00:00",
-      "summary": "Sunny and pleasant Friday, few showers and storms this weekend"
-     },
-     {
-      "id": "72069800",
-      "title": "Beach businesses hope for clearer skies after slow start to summer",
-      "link": "https://www.mynbc5.com/article/haze-impacting-beach-businesses/72069800",
-      "ts": "2026-07-15T22:32:00+00:00",
-      "summary": "Canadian wildfire smoke and a stretch of severe weather are putting a damper on beach days across the region, and businesses that rely on summer crowds say they're feeling the effects."
-     },
-     {
-      "id": "72080412",
-      "title": "Investigators complete part of investigation near deadly Harrietstown plane crash site",
-      "link": "https://www.mynbc5.com/article/harrietstown-plane-crash-site-investigation/72080412",
-      "ts": "2026-07-15T22:28:00+00:00",
-      "summary": "NBC5 has learned more information about the three victims of a deadly plane crash in the Adirondacks as authorities have completed part of their investigation near the crash site."
      }
     ]
    },
