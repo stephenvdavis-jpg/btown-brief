@@ -13,7 +13,7 @@
   ],
   "forecast_flag": {
    "day": "2026-07-16",
-   "text": "This Afternoon: Smoke before 1pm, then smoke and a chance of showers and thunderstorms between 1pm and 2pm, then areas of smoke and a chance of showers and thunderstorms between 2pm and 5pm"
+   "text": "This Afternoon: Areas of smoke and a chance of showers and thunderstorms before 5pm"
   }
  },
  "beach-status": {
@@ -21,12 +21,12 @@
    "Blanchard Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T13:45:00+00:00"
+    "resultTime": "2026-07-16T18:29:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T13:45:00+00:00"
+    "resultTime": "2026-07-16T18:29:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
@@ -382,6 +382,13 @@
  "gmt-alerts": {
   "items": [
    {
+    "id": "https://ridegmt.com/?p=24703",
+    "title": "Service Alert :: Pine Street",
+    "link": "https://ridegmt.com/service-alert-pine-street-2/",
+    "ts": "2026-07-16T17:45:26+00:00",
+    "summary": "Buses on Route 5 will be on detour due to an accident. Toward Pine Street, stops from Pine Street at Lakeside Avenue (Cumberland Farms) through Howard Center will not be [ ]"
+   },
+   {
     "id": "https://ridegmt.com/?p=24075",
     "title": "Downtown Transit Center Hours Changing",
     "link": "https://ridegmt.com/downtown-transit-center-hours-changing/",
@@ -556,6 +563,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=212199",
+      "title": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
+      "link": "https://www.sevendaysvt.com/news/ben-jerrys-foundation-plans-to-shut-down-by-end-of-year/",
+      "ts": "2026-07-16T17:43:11+00:00",
+      "summary": "In addition to its global work, the foundation provided $600,000 worth of annual funding to Vermont-based causes. The post Ben & Jerry’s Foundation Plans to Shut Down by End of Year appeared first on Seven Days . (Image: File: Jeb Wallace-Brodeur)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212193",
       "title": "Obituary: Douglas W. Smith",
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-douglas-w-smith/",
@@ -617,13 +631,6 @@
       "link": "https://www.sevendaysvt.com/legal-notices/publicmeetings/town-of-westford-development-review-board-notice-of-public-hearing-4/",
       "ts": "2026-07-15T19:29:00+00:00",
       "summary": "Pursuant to 24 V.S.A. Chapter 117 and the Westford Land Use Development Regulations, the Westford Development Review Board will hold a public hearing at the Westford Town Offices (1713 Route 128) via ZOOM on Monday, July 27th, 2026 at 7:00 PM to review the following application: Application: Site Plan Review Applicant: Casey Mathieu [ ] The post Town Of Westford Development Review Board, Notice Of"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212167",
-      "title": "Northstar Self Storage will be having a public and online sale/auction for the following storage units on JuLY 30, 2026 at 9:00 am",
-      "link": "https://www.sevendaysvt.com/legal-notices/storageauctions/northstar-self-storage-will-be-having-a-public-and-online-sale-auction-for-the-following-storage-units-on-july-30-2026-at-900-am/",
-      "ts": "2026-07-15T19:27:00+00:00",
-      "summary": "Northstar Self Storage will be having a public and online sale/auction on July 30, 2026 at 9am EST at 205 Route 4A West, Castleton VT 05735 (Unit C111), 615 VT Route 7, Danby VT 05739 (D54), 681 Rockingham Rd, Rockingham VT 05151 (R58), 2517 Charlestown Rd, Springfield, VT 05150 (S15, S76), and online at www.storagetreasures.com [ ] The post Northstar Self Storage will be having a public and onlin"
      }
     ]
    },
@@ -932,6 +939,13 @@
    "wcax": {
     "items": [
      {
+      "id": "N46BAJPJCZAZ3H37ENG3C5HGW4",
+      "title": "Wildfire raging in the Adirondacks",
+      "link": "https://www.wcax.com/2026/07/16/wildfire-raging-adirondacks/",
+      "ts": "2026-07-16T16:59:54+00:00",
+      "summary": "Sawteeth Mountain in the Adirondacks is dealing with a wildfire"
+     },
+     {
       "id": "THP7YBCMGZCCHPLYRLT2D3AIIA",
       "title": "Democratic candidates debate Vermont housing crisis at public forum",
       "link": "https://www.wcax.com/2026/07/16/democratic-candidates-debate-vermont-housing-crisis-public-forum/",
@@ -958,13 +972,6 @@
       "link": "https://www.wcax.com/2026/07/16/vermont-special-education-flagged-needs-intervention-by-federal-agency/",
       "ts": "2026-07-16T15:59:47+00:00",
       "summary": "Vermont is not doing enough to support children with disabilities"
-     },
-     {
-      "id": "N46BAJPJCZAZ3H37ENG3C5HGW4",
-      "title": "Wildfire raging in the Adirondacks",
-      "link": "https://www.wcax.com/2026/07/16/wildfire-raging-adirondacks/",
-      "ts": "2026-07-16T15:55:01+00:00",
-      "summary": "Sawteeth Mountain in the Adirondacks is dealing with a wildfire"
      },
      {
       "id": "JUQWRPHNORARHFYK73VHLGD6DU",
@@ -1286,18 +1293,53 @@
    "mynbc5": {
     "items": [
      {
-      "id": "72124471",
-      "title": "Smoky sky lingers, with isolated PM storms Thursday",
-      "link": "https://www.mynbc5.com/article/smoky-sky-lingers-with-isolated-pm-storms-thursday-07-16-26/72124471",
-      "ts": "2026-07-16T16:42:00+00:00",
-      "summary": "Sunny and pleasant Friday, few showers and storms this weekend"
+      "id": "65616245",
+      "title": "Tips to maintain air quality during wildfire season",
+      "link": "https://www.mynbc5.com/article/air-quality-tips-wildfires/65616245",
+      "ts": "2026-07-16T18:22:00+00:00",
+      "summary": ""
+     },
+     {
+      "id": "72676912",
+      "title": "Trump administration revives rule that could deny green cards to immigrants who use public benefits",
+      "link": "https://www.mynbc5.com/article/trump-administration-rule-green-cards-immigrants-public-benefits/72676912",
+      "ts": "2026-07-16T17:49:00+00:00",
+      "summary": "The Trump administration is reviving a rule that could deny green cards to immigrants who use public benefits, including food stamps, Medicaid, housing vouchers and others."
+     },
+     {
+      "id": "72688838",
+      "title": "Good Samaritan helps rescue man from flooded Texas creek",
+      "link": "https://www.mynbc5.com/article/texas-floods-good-samaritan-creek-rescue/72688838",
+      "ts": "2026-07-16T17:36:00+00:00",
+      "summary": "A man captured video of the moment he went into a flooded creek to help save another man, who had been swept away."
      },
      {
       "id": "72551882",
       "title": "1 person has died as Texas flooding forces evacuations, high-water rescues, governor says",
       "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
-      "ts": "2026-07-16T16:21:00+00:00",
+      "ts": "2026-07-16T17:14:00+00:00",
       "summary": "Some residents in southwest Texas are being urged to evacuate during severe downpours."
+     },
+     {
+      "id": "72574393",
+      "title": "Watch: Blue Angels conducting review after low-altitude flyover in Florida",
+      "link": "https://www.mynbc5.com/article/watch-blue-angels-conducting-review-after-low-altitude-flyover-in-florida/72574393",
+      "ts": "2026-07-16T16:50:00+00:00",
+      "summary": "An ultra-low Blue Angels flyover at a popular Florida beach is under investigation."
+     },
+     {
+      "id": "72506587",
+      "title": "UVM doctor awarded national funding to treat tick-borne illnesses",
+      "link": "https://www.mynbc5.com/article/uvm-doctor-national-funding-tick-illnesses/72506587",
+      "ts": "2026-07-16T16:48:00+00:00",
+      "summary": "The number of ticks and tick bites in Vermont are on the rise. To help limit the impacts, one University of Vermont researcher is getting national funding, to find new treatments and prevention methods of tick-borne illnesses."
+     },
+     {
+      "id": "72124471",
+      "title": "Smoky sky lingers, with isolated PM storms Thursday",
+      "link": "https://www.mynbc5.com/article/smoky-sky-lingers-with-isolated-pm-storms-thursday-07-16-26/72124471",
+      "ts": "2026-07-16T16:42:00+00:00",
+      "summary": "Sunny and pleasant Friday, few showers and storms this weekend"
      },
      {
       "id": "72648475",
@@ -1389,41 +1431,6 @@
       "link": "https://www.mynbc5.com/article/trump-address-nation-july-16-2026/72571535",
       "ts": "2026-07-16T13:00:00+00:00",
       "summary": "President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines."
-     },
-     {
-      "id": "72567538",
-      "title": "Pluto flyby mission wakes up after long sleep nearly 6 billion miles from Earth",
-      "link": "https://www.mynbc5.com/article/pluto-flyby-mission-earth/72567538",
-      "ts": "2026-07-16T12:49:00+00:00",
-      "summary": "A groundbreaking mission that explored Pluto and distant solar system objects in unprecedented detail has awakened from its longest sleep ever — and it’s 5.9 billion miles from Earth."
-     },
-     {
-      "id": "72549961",
-      "title": "FBI affidavit alleges drugs found in van involved in Houston ICE shooting",
-      "link": "https://www.mynbc5.com/article/houston-ice-shooting-fbi-warrant-drugs-lorenzo-salgado-araujo/72549961",
-      "ts": "2026-07-16T12:18:00+00:00",
-      "summary": "A week after a man was fatally shot by an ICE agent in Houston, the FBI filed a warrant application saying the agency has cause to believe there were illegal drugs in the vehicle he was driving."
-     },
-     {
-      "id": "72048838",
-      "title": "Answering your questions about Cyclosporiasis, the stomach bug outbreak that could linger through summer",
-      "link": "https://www.mynbc5.com/article/cyclospora-outbreak-what-causes/72048838",
-      "ts": "2026-07-16T11:55:00+00:00",
-      "summary": "You have questions. We have answers. Explaining cyclospora, the tiny parasite behind “explosive diarrhea.”"
-     },
-     {
-      "id": "72460174",
-      "title": "Iran threatens to halt energy exports as US bombings, blockade escalate",
-      "link": "https://www.mynbc5.com/article/iran-threatens-energy-exports-us-bombings-blockade-escalate/72460174",
-      "ts": "2026-07-16T11:46:00+00:00",
-      "summary": "The U.S. carried out a third round of bombings on Iran within 24 hours, with President Trump threatening to target civilian infrastructure if Iran does not negotiate."
-     },
-     {
-      "id": "72522037",
-      "title": "Trump says Iran has released American woman detained since 2024",
-      "link": "https://www.mynbc5.com/article/dena-karari-released-from-iran/72522037",
-      "ts": "2026-07-16T11:24:00+00:00",
-      "summary": "An American woman wrongfully detained in Iran since 2024 was allowed to leave the country, President Trump said."
      }
     ]
    },
@@ -1491,6 +1498,22 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uy7isk",
+    "title": "Best cheap food in Burlington",
+    "url": "https://www.reddit.com/r/burlington/comments/1uy7isk/best_cheap_food_in_burlington/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T17:01:44+00:00"
+   },
+   {
+    "id": "1uy6qit",
+    "title": "Lash lift and tint?",
+    "url": "https://www.reddit.com/r/burlington/comments/1uy6qit/lash_lift_and_tint/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-16T17:01:44+00:00"
+   },
    {
     "id": "1uy3qf9",
     "title": "Thrift stores/cheap places to acquire swim trunks?",
@@ -1631,22 +1654,6 @@
     "id": "1ux8k2m",
     "title": "Why doesn’t Burlington have a strong playground culture like other cities?",
     "url": "https://www.reddit.com/r/burlington/comments/1ux8k2m/why_doesnt_burlington_have_a_strong_playground/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T17:02:19+00:00"
-   },
-   {
-    "id": "1ux7v1q",
-    "title": "Hello neighbors",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux7v1q/hello_neighbors/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-15T17:02:19+00:00"
-   },
-   {
-    "id": "1ux7ndg",
-    "title": "soundscapes of our city 🥰",
-    "url": "https://www.reddit.com/r/burlington/comments/1ux7ndg/soundscapes_of_our_city/",
     "score": null,
     "comments": null,
     "created": "2026-07-15T17:02:19+00:00"

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T16:46:49+00:00",
+ "generated": "2026-07-16T18:36:15+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -3107,6 +3107,72 @@
    "ts": "2026-07-16T16:46:50+00:00",
    "category": "weather",
    "headline": "This Afternoon: Smoke before 1pm, then smoke and a chance of showers and thunderstorms between 1pm and 2pm, then areas of smoke and a chance of showers and thunderstorms between 2pm and 5pm",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-16T16:48:00+00:00",
+   "category": "news",
+   "headline": "UVM doctor awarded national funding to treat tick-borne illnesses",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/uvm-doctor-national-funding-tick-illnesses/72506587",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T17:01:44+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Best cheap food in Burlington",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uy7isk/best_cheap_food_in_burlington/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T17:01:44+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Lash lift and tint?",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uy6qit/lash_lift_and_tint/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T17:43:11+00:00",
+   "category": "news",
+   "headline": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/news/ben-jerrys-foundation-plans-to-shut-down-by-end-of-year/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T17:45:26+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Pine Street",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-pine-street-2/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T18:36:16+00:00",
+   "category": "weather",
+   "headline": "This Afternoon: Areas of smoke and a chance of showers and thunderstorms before 5pm",
    "detail": "",
    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
    "source": "nws-weather",
