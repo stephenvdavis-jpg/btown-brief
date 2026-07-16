@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16T14:29:06+00:00",
+ "generated": "2026-07-16T16:46:49+00:00",
  "events": [
   {
    "ts": "2026-07-10T02:44:08+00:00",
@@ -3089,6 +3089,28 @@
    "url": "https://burlingtonvt.portal.civicclerk.com/event/8682/overview",
    "source": "civicclerk",
    "sourceName": "City meeting portal",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-16T16:05:22+00:00",
+   "category": "news",
+   "headline": "Judge: Man accused of shooting Palestinian students can’t get a new lawyer",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/16/vt-man-accused-shooting-3-palestinian-students-still-cant-get-new-lawyer/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-16T16:46:50+00:00",
+   "category": "weather",
+   "headline": "This Afternoon: Smoke before 1pm, then smoke and a chance of showers and thunderstorms between 1pm and 2pm, then areas of smoke and a chance of showers and thunderstorms between 2pm and 5pm",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
   }

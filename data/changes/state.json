@@ -13,7 +13,7 @@
   ],
   "forecast_flag": {
    "day": "2026-07-16",
-   "text": "Today: Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely"
+   "text": "This Afternoon: Smoke before 1pm, then smoke and a chance of showers and thunderstorms between 1pm and 2pm, then areas of smoke and a chance of showers and thunderstorms between 2pm and 5pm"
   }
  },
  "beach-status": {
@@ -36,12 +36,12 @@
    "Leddy Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:51:00+00:00"
+    "resultTime": "2026-07-16T14:39:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:51:00+00:00"
+    "resultTime": "2026-07-16T14:39:00+00:00"
    },
    "North Beach North": {
     "status": "open",
@@ -56,7 +56,7 @@
    "North Shore Natural Area": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-15T18:53:00+00:00"
+    "resultTime": "2026-07-16T14:50:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
@@ -500,7 +500,10 @@
     "name": "Retirement Board Meeting",
     "start": "2026-07-20T09:30:00+00:00",
     "hasAgenda": true,
-    "files": []
+    "files": [
+     "Retirement Board Meeting V2",
+     "Retirement Board Meeting V2"
+    ]
    },
    "9857": {
     "name": "Advisory Committee on Accessibility Meeting",
@@ -929,11 +932,39 @@
    "wcax": {
     "items": [
      {
+      "id": "THP7YBCMGZCCHPLYRLT2D3AIIA",
+      "title": "Democratic candidates debate Vermont housing crisis at public forum",
+      "link": "https://www.wcax.com/2026/07/16/democratic-candidates-debate-vermont-housing-crisis-public-forum/",
+      "ts": "2026-07-16T16:10:47+00:00",
+      "summary": "Vermont governor, lieutenant governor candidates outline housing plans at South Burlington forum"
+     },
+     {
+      "id": "Z3RPCRASGBGODB3AC3JH2UEBXE",
+      "title": "Judge: Man accused of shooting Palestinian students can’t get a new lawyer",
+      "link": "https://www.wcax.com/2026/07/16/vt-man-accused-shooting-3-palestinian-students-still-cant-get-new-lawyer/",
+      "ts": "2026-07-16T16:05:22+00:00",
+      "summary": "A judge has once again denied new counsel for a Burlington man accused of shooting three Palestinian-American students in 2023"
+     },
+     {
       "id": "JLUDKCFUL5E65ML52Z33JUYK64",
       "title": "Woman allegedly pulled a gun on fellow Interstate 89 driver",
       "link": "https://www.wcax.com/2026/07/16/woman-allegedly-pulled-gun-fellow-interstate-89-driver/",
-      "ts": "2026-07-16T12:26:38+00:00",
+      "ts": "2026-07-16T16:04:16+00:00",
       "summary": "A Mississippi woman was arrested for allegedly pointing a gun at a Vermont driver in an apparent road rage incident Wednesday on Interstate 89, according to Vermont State Police"
+     },
+     {
+      "id": "K6MKJDGBTBEIJFKHMWI6LCV4AE",
+      "title": "Vermont special education flagged as ‘needs intervention’ by federal agency",
+      "link": "https://www.wcax.com/2026/07/16/vermont-special-education-flagged-needs-intervention-by-federal-agency/",
+      "ts": "2026-07-16T15:59:47+00:00",
+      "summary": "Vermont is not doing enough to support children with disabilities"
+     },
+     {
+      "id": "N46BAJPJCZAZ3H37ENG3C5HGW4",
+      "title": "Wildfire raging in the Adirondacks",
+      "link": "https://www.wcax.com/2026/07/16/wildfire-raging-adirondacks/",
+      "ts": "2026-07-16T15:55:01+00:00",
+      "summary": "Sawteeth Mountain in the Adirondacks is dealing with a wildfire"
      },
      {
       "id": "JUQWRPHNORARHFYK73VHLGD6DU",
@@ -955,13 +986,6 @@
       "link": "https://www.wcax.com/2026/07/16/hot-sauce-could-heat-up-vermont-farmer-profits/",
       "ts": "2026-07-16T11:19:10+00:00",
       "summary": "A Vermont bakery believes it is creating a more reliable paycheck for growers whose success isn’t just measured by growing a good crop, it’s about finding a reliable buyer"
-     },
-     {
-      "id": "THP7YBCMGZCCHPLYRLT2D3AIIA",
-      "title": "Democratic candidates debate Vermont housing crisis at public forum.",
-      "link": "https://www.wcax.com/2026/07/16/democratic-candidates-debate-vermont-housing-crisis-public-forum/",
-      "ts": "2026-07-16T10:04:36+00:00",
-      "summary": "Vermont governor, lieutenant governor candidates outline housing plans at South Burlington forum"
      },
      {
       "id": "3DGTAYO2V5DSLGHMV3ECAXGA5A",
@@ -1256,32 +1280,88 @@
       "link": "https://www.wcax.com/2026/07/13/dropped-phone-triggers-false-plane-crash-alert/",
       "ts": "2026-07-13T22:31:47+00:00",
       "summary": "A hiker who dropped his phone off a cliff set off a large emergency response."
-     },
-     {
-      "id": "MWRCTIZBY5BC7FS5P6DNHY3B7U",
-      "title": "Royal Air Force puts on surprise airshow during Beta visit",
-      "link": "https://www.wcax.com/2026/07/13/raf-puts-surprise-airshow-during-beta-visit/",
-      "ts": "2026-07-13T21:31:48+00:00",
-      "summary": "The Royal Air Force Red Arrows put on a surprise show in the skies over the Burlington area on Monday. They were in town on a visit to Beta Technologies."
-     },
-     {
-      "id": "E3WE7S7FLZFP3AQ7SVC6XQG7E4",
-      "title": "UVMMC resident physicians ratify new contract with pay increase, plan to end 24-hour shifts",
-      "link": "https://www.wcax.com/2026/07/13/uvmmc-resident-physicians-ratify-new-contract-with-pay-increase-plan-end-24-hour-shifts/",
-      "ts": "2026-07-13T21:27:41+00:00",
-      "summary": "The agreement went into effect June 10, bringing several changes for UVMMC residents and interns — including benefits and a 10.25% salary increase spread out over three years."
-     },
-     {
-      "id": "Y6WLA3ITKFD3BGVPD7SQDBA3WY",
-      "title": "Organizers expect big turnout for 71st Clinton County Fair",
-      "link": "https://www.wcax.com/2026/07/13/organizers-expect-big-turnout-71st-clinton-county-fair/",
-      "ts": "2026-07-13T20:54:40+00:00",
-      "summary": "The Clinton County Fair kicked off in Morrisonville on Monday. Thousands are expected to attend the six-day event."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "72124471",
+      "title": "Smoky sky lingers, with isolated PM storms Thursday",
+      "link": "https://www.mynbc5.com/article/smoky-sky-lingers-with-isolated-pm-storms-thursday-07-16-26/72124471",
+      "ts": "2026-07-16T16:42:00+00:00",
+      "summary": "Sunny and pleasant Friday, few showers and storms this weekend"
+     },
+     {
+      "id": "72551882",
+      "title": "1 person has died as Texas flooding forces evacuations, high-water rescues, governor says",
+      "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
+      "ts": "2026-07-16T16:21:00+00:00",
+      "summary": "Some residents in southwest Texas are being urged to evacuate during severe downpours."
+     },
+     {
+      "id": "72648475",
+      "title": "After 23 years in prison, exonerated Florida man still awaits compensation",
+      "link": "https://www.mynbc5.com/article/after-23-years-exonerated-brevard-man-compensation/72648475",
+      "ts": "2026-07-16T16:02:00+00:00",
+      "summary": "A Florida man spent 23 years in prison for a murder DNA evidence cleared him of. But the more than $1 million in compensation a judge said he should receive hasn't arrived."
+     },
+     {
+      "id": "72646772",
+      "title": "Dramatic video: Train crew surrounded by intense flames from Canada wildfire",
+      "link": "https://www.mynbc5.com/article/video-train-crew-northern-ontario-wildfire-flames/72646772",
+      "ts": "2026-07-16T15:51:00+00:00",
+      "summary": "Video shows a train crew staying surprisingly calm as they were surrounded by flames from wildfires burning in Canada. They were safely evacuated."
+     },
+     {
+      "id": "71998713",
+      "title": "Alburgh residents say not enough is being done to prioritize safety on busy routes after crash",
+      "link": "https://www.mynbc5.com/article/propane-truck-driver-says-he-fell-asleep-before-alburgh-crash/71998713",
+      "ts": "2026-07-16T15:36:00+00:00",
+      "summary": "W. Shore Road in Alburgh closed for hours as crews clean up after a propane truck overturned. Residents said more needs to be done to prioritze safety on busy roads."
+     },
+     {
+      "id": "72164318",
+      "title": "Road worker seriously hurt after being struck by pickup in Jay",
+      "link": "https://www.mynbc5.com/article/road-worker-seriously-hurt-after-being-struck-by-pickup-in-jay/72164318",
+      "ts": "2026-07-16T15:29:00+00:00",
+      "summary": "A road construction flagger was seriously injured after being struck by a pickup truck Wednesday afternoon on Route 105 in Jay. Vermont State Police cited the driver, an 88-year-old Troy man, with negligent operation."
+     },
+     {
+      "id": "72002182",
+      "title": "New York man dies after getting trapped in hay baler, police say",
+      "link": "https://www.mynbc5.com/article/putnam-new-york-farm-equipment-death/72002182",
+      "ts": "2026-07-16T15:27:00+00:00",
+      "summary": "A New York man died this week after police said he became accidentally trapped in a hay baler while working."
+     },
+     {
+      "id": "72080412",
+      "title": "Investigators complete part of investigation near deadly Harrietstown plane crash site",
+      "link": "https://www.mynbc5.com/article/harrietstown-plane-crash-site-investigation/72080412",
+      "ts": "2026-07-16T15:21:00+00:00",
+      "summary": "NBC5 has learned more information about the three victims of a deadly plane crash in the Adirondacks as authorities have completed part of their investigation near the crash site."
+     },
+     {
+      "id": "71897966",
+      "title": "More than half of US states ban transgender athletes from participating in sports. See where",
+      "link": "https://www.mynbc5.com/article/transgender-athletes-sports-ban-map/71897966",
+      "ts": "2026-07-16T15:11:00+00:00",
+      "summary": "More than half of U.S. states have bans that prohibit either transgender girls or all transgender athletes from participating on certain sports teams. See where"
+     },
+     {
+      "id": "71942578",
+      "title": "Report: People detained at ICE facility in Texas report human rights abuses",
+      "link": "https://www.mynbc5.com/article/ice-detention-center-texas-rights-abuses-report/71942578",
+      "ts": "2026-07-16T14:54:00+00:00",
+      "summary": "A new report from human rights advocates says 90% of detainees interviewed at a sprawling ICE facility in Texas say they were either beaten by guards or witnessed others being beaten."
+     },
+     {
+      "id": "72606962",
+      "title": "2 more of Brad Pitt’s kids want to ditch his last name",
+      "link": "https://www.mynbc5.com/article/zahara-maddox-drop-brad-pitt-last-name/72606962",
+      "ts": "2026-07-16T14:40:00+00:00",
+      "summary": "Two more of Brad Pitt’s children, 21-year-old Zahara and 24-year-old Maddox, have applied to legally drop the star’s last name."
+     },
      {
       "id": "72604901",
       "title": "Pet Connection: All about the dogs",
@@ -1297,25 +1377,11 @@
       "summary": "Veteran actor Hall Williams has died at 91. He was known for his roles in “Sanford and Son,” “227” and dozens of other television roles from the 1970s and 1980s."
      },
      {
-      "id": "72551882",
-      "title": "Texas flooding surges from huge rainstorms as rescuers pull people from rising waters",
-      "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
-      "ts": "2026-07-16T13:55:00+00:00",
-      "summary": "Some residents in southwest Texas are being urged to evacuate during severe downpours"
-     },
-     {
       "id": "72594711",
       "title": "Air quality alert for several Vermont counties today",
       "link": "https://www.mynbc5.com/article/vermont-air-quality-alert-wildfire-smoke/72594711",
       "ts": "2026-07-16T13:52:00+00:00",
       "summary": "Several southern Vermont counties will have impacted air quality on Thursday due to Canadian wildfire smoke, according to the Vermont DEC."
-     },
-     {
-      "id": "72080412",
-      "title": "Investigators complete part of investigation near deadly Harrietstown plane crash site",
-      "link": "https://www.mynbc5.com/article/harrietstown-plane-crash-site-investigation/72080412",
-      "ts": "2026-07-16T13:46:00+00:00",
-      "summary": "NBC5 has learned more information about the three victims of a deadly plane crash in the Adirondacks as authorities have completed part of their investigation near the crash site."
      },
      {
       "id": "72571535",
@@ -1358,69 +1424,6 @@
       "link": "https://www.mynbc5.com/article/dena-karari-released-from-iran/72522037",
       "ts": "2026-07-16T11:24:00+00:00",
       "summary": "An American woman wrongfully detained in Iran since 2024 was allowed to leave the country, President Trump said."
-     },
-     {
-      "id": "72124471",
-      "title": "Smoky sky lingers, with isolated PM storms Thursday",
-      "link": "https://www.mynbc5.com/article/smoky-sky-lingers-with-isolated-pm-storms-thursday-07-16-26/72124471",
-      "ts": "2026-07-16T11:16:00+00:00",
-      "summary": "Sunny and pleasant Friday, few showers and storms this weekend"
-     },
-     {
-      "id": "72501155",
-      "title": "Vance says Trump administration 'screwed up' communications around Epstein files",
-      "link": "https://www.mynbc5.com/article/jd-vance-trump-administration-epstein-files/72501155",
-      "ts": "2026-07-16T10:45:00+00:00",
-      "summary": "Vice President JD Vance says the Trump administration “absolutely” mishandled the communications surrounding the Jeffrey Epstein files."
-     },
-     {
-      "id": "71944008",
-      "title": "New York announces air quality advisory",
-      "link": "https://www.mynbc5.com/article/ny-announces-air-quality-advisory/71944008",
-      "ts": "2026-07-16T10:37:00+00:00",
-      "summary": "Across Northern New York, air quality has been rated unsafe for sensitive groups, because of wildfire smoke coming from Minnesota and Ontario, Canada."
-     },
-     {
-      "id": "72476152",
-      "title": "US imposing new 25% tariffs on Brazil, citing unfair trade practices",
-      "link": "https://www.mynbc5.com/article/us-imposes-25-percent-tariffs-on-brazil/72476152",
-      "ts": "2026-07-16T09:51:00+00:00",
-      "summary": "The U.S. is imposing 25% tariffs on imports from Brazil after finding a range of what it deemed unfair trade practices by the world’s 10th-biggest economy."
-     },
-     {
-      "id": "72443343",
-      "title": "Mississippi woman arrested, accused of pointing loaded gun at driver on Vermont highway",
-      "link": "https://www.mynbc5.com/article/mississippi-woman-arrested-gun-road-rage-vermont/72443343",
-      "ts": "2026-07-16T09:46:00+00:00",
-      "summary": "Police say a Mississippi woman was arrested Wednesday night after she allegedly pointed a loaded firearm at another driver on a Vermont highway."
-     },
-     {
-      "id": "72459410",
-      "title": "Taiwan computer chipmaker pledges another $100 billion to expand US chipmaking capacity",
-      "link": "https://www.mynbc5.com/article/tsmc-us-chip-investment-ai-demand/72459410",
-      "ts": "2026-07-16T09:21:00+00:00",
-      "summary": "Major Taiwan computer chipmaker TSMC plans to spend another $100 billion on expanding its manufacturing capacity in the U.S."
-     },
-     {
-      "id": "72400432",
-      "title": "Vermont blogger helps share Vermont's hidden gems",
-      "link": "https://www.mynbc5.com/article/vermont-blogger-helps-share-vermonts-hidden-gems/72400432",
-      "ts": "2026-07-16T08:46:00+00:00",
-      "summary": "We met Tara at one of her favorite parks in Hubbardton, where she explained why the quiet corners of Vermont deserve just as much attention as the famous ones."
-     },
-     {
-      "id": "72321780",
-      "title": "Sam Neill died from pneumonia, agent says",
-      "link": "https://www.mynbc5.com/article/sam-neill-died-pneumonia/72321780",
-      "ts": "2026-07-16T05:07:00+00:00",
-      "summary": "The agent for Sam Neill says the 'Jurassic Park' actor died from pneumonia"
-     },
-     {
-      "id": "72224867",
-      "title": "US strikes expand into northern Iran as it disables ship trying to run blockade",
-      "link": "https://www.mynbc5.com/article/us-airstrikes-northern-iran-blockade/72224867",
-      "ts": "2026-07-16T04:40:00+00:00",
-      "summary": "U.S. airstrikes hit northern Iran as it disables ship trying to run the blockade"
      }
     ]
    },
