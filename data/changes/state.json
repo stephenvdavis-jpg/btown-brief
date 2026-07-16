@@ -630,6 +630,27 @@
    "vtdigger": {
     "items": [
      {
+      "id": "https://vtdigger.org/?p=651415",
+      "title": "Central Vermont Medical Center names new president",
+      "link": "https://vtdigger.org/2026/07/16/central-vermont-medical-center-names-new-president/",
+      "ts": "2026-07-16T21:11:01+00:00",
+      "summary": "Marc Kosak most recently served as chief operating officer for Greenwich Hospital in Connecticut. The announcement comes amid mass layoffs across the hospital’s parent network. Read the story on VTDigger here: Central Vermont Medical Center names new president ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651413",
+      "title": "Shuttered Vermont colleges: reincarnated and repurposed.",
+      "link": "https://vtdigger.org/2026/07/16/shuttered-vermont-colleges-reincarnated-and-repurposed/",
+      "ts": "2026-07-16T20:29:42+00:00",
+      "summary": "\"The success will be measured on whether we have preserved opportunity, jobs, community vitality, because the last thing we want is a closed campus to sit idle,” said the Vermont Agency of Commerce and Community Development secretary. Read the story on VTDigger here: Shuttered Vermont colleges: reincarnated and repurposed. ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651410",
+      "title": "Vermont faces an emergency blood shortage from summer donation lull",
+      "link": "https://vtdigger.org/2026/07/16/vermont-faces-an-emergency-blood-shortage-from-summer-donation-lull/",
+      "ts": "2026-07-16T20:16:24+00:00",
+      "summary": "About half of the state's blood donation appointments in the next two weeks are unfilled. Read the story on VTDigger here: Vermont faces an emergency blood shortage from summer donation lull ."
+     },
+     {
       "id": "https://vtdigger.org/?p=651389",
       "title": "When the day job disappears",
       "link": "https://vtdigger.org/2026/07/16/when-the-day-job-disappears/",
@@ -817,32 +838,25 @@
       "link": "https://vtdigger.org/2026/07/10/i-still-worry-vermonters-recount-floods-impacts-at-anniversary-climate-panel/",
       "ts": "2026-07-10T22:31:41+00:00",
       "summary": "“Disasters don't end when the water recedes,” one person who lost her mobile home said. “They reshape lives for years.” Read the story on VTDigger here: ‘I still worry’: Vermonters recount floods’ impacts at anniversary climate panel ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651185",
-      "title": "A choice ‘on a scale from environmental to spiritual’",
-      "link": "https://vtdigger.org/2026/07/10/a-choice-on-a-scale-from-environmental-to-spiritual/",
-      "ts": "2026-07-10T20:33:00+00:00",
-      "summary": "Higher Ground Conservation Burial launches at the Manitou Project in Williamsville, marking the milestone with a tour and music. Read the story on VTDigger here: A choice ‘on a scale from environmental to spiritual’ ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651170",
-      "title": "Benjamin “Ben” Huffman",
-      "link": "https://vtdigger.org/2026/07/10/obituary-benjamin-ben-huffman/",
-      "ts": "2026-07-10T19:46:27+00:00",
-      "summary": "Ben was a worker, and a thinker, sustained by his marriage of 50 years to Kristin Glaser, and by the pleasure of his children. Read the story on VTDigger here: Benjamin \"Ben\" Huffman ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=650627",
-      "title": "Vermont’s public schools could benefit from a new federal school choice tax credit program, but skeptics abound",
-      "link": "https://vtdigger.org/2026/07/10/vermonts-public-schools-could-benefit-from-a-new-federal-school-choice-tax-credit-program-but-skeptics-abound/",
-      "ts": "2026-07-10T19:23:12+00:00",
-      "summary": "Lawmakers and Gov. Phil Scott adopted a framework to enter into the federal school choice tax credit program, albeit with some limits. Read the story on VTDigger here: Vermont’s public schools could benefit from a new federal school choice tax credit program, but skeptics abound ."
      }
     ]
    },
    "vermont-public": {
     "items": [
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
+      "title": "Vermont not making the grade on educating students with disabilities, feds say",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
+      "ts": "2026-07-16T21:13:48+00:00",
+      "summary": "Vermont is one of four states that “needs intervention” to come into compliance with a federal law that governs special education, and it could face financial sanctions if it doesn't improve academic proficiency among students with disabilities."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-16/springfield-hospital-plans-close-adult-day-program-caregivers-fewer-options",
+      "title": "Springfield Hospital plans to close its adult day program, leaving caregivers fewer respite options",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-16/springfield-hospital-plans-close-adult-day-program-caregivers-fewer-options",
+      "ts": "2026-07-16T20:59:08+00:00",
+      "summary": "Springfield Hospital plans to close its long-running adult day program in September, citing financial reasons. It's one of only 10 adult day programs for people with cognitive and physical disabilities currently operating in the state."
+     },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-15/brattleboro-memorial-says-it-needs-help-to-keep-its-birth-center-open-gov-scott-isnt-stepping-in",
       "title": "Brattleboro Memorial says it needs help to keep its birth center open. Gov. Scott isn't stepping in",
@@ -856,6 +870,13 @@
       "link": "https://www.vermontpublic.org/local-news/2023-07-03/a-vermonters-guide-to-wildfire-smoke-and-air-quality",
       "ts": "2026-07-15T21:48:00+00:00",
       "summary": "Wildfire smoke is becoming more of an issue in Vermont and across the country. Here are some resources to help with smoke exposure when air quality gets dangerous."
+     },
+     {
+      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-15/summer-swimming-hole-safety",
+      "title": "Summer swimming hole safety",
+      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-15/summer-swimming-hole-safety",
+      "ts": "2026-07-15T20:32:25+00:00",
+      "summary": "Vermont’s search and rescue coordinator shares important information on how to stay safe while in or on the water."
      },
      {
       "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-15/front-porch-forum-founders-reflect-on-20-years",
@@ -905,32 +926,39 @@
       "link": "https://www.vermontpublic.org/local-news/2026-06-30/heat-high-temperatures-vermont-safety-tips-resources",
       "ts": "2026-07-14T09:00:00+00:00",
       "summary": "With dangerous extreme heat in the forecast, here's what you need to know to stay safe."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
-      "title": "UVM Medical Center inks its second contract with resident physicians",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
-      "ts": "2026-07-13T20:18:49+00:00",
-      "summary": "The hospital’s resident physicians first unionized in 2022, citing grueling schedules and pay that did not keep up with student loans and the cost of living in Chittenden County."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-13/cabot-creamery-eyes-sale-waitsfield-headquarters",
-      "title": "Cabot Creamery eyes sale of Waitsfield headquarters",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-13/cabot-creamery-eyes-sale-waitsfield-headquarters",
-      "ts": "2026-07-13T20:03:04+00:00",
-      "summary": "The dairy cooperative has been headquartered in Waitsfield since 2014. It has no plans to leave Vermont."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-13/poll-most-vermonters-say-the-state-is-unaffordable",
-      "title": "Poll: Most Vermonters say the state is unaffordable",
-      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-13/poll-most-vermonters-say-the-state-is-unaffordable",
-      "ts": "2026-07-13T18:58:59+00:00",
-      "summary": "About 40% of Vermont residents say they are likely to move out of the state within the next five years."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "VZWJRFGC3FGPJJ45TVMX52ETGI",
+      "title": "Youth-led Clubhouse Commons to open in Montpelier",
+      "link": "https://www.wcax.com/2026/07/16/youth-led-clubhouse-commons-open-montpelier/",
+      "ts": "2026-07-16T21:25:03+00:00",
+      "summary": "A new spot for Vermonters to gather is opening in Montpelier. It’s for young people, created by young people"
+     },
+     {
+      "id": "VX6B5F3I45F63GWXYZAT47LJS4",
+      "title": "NLRB dismisses Healthy Living’s bid to overturn union election",
+      "link": "https://www.wcax.com/2026/07/16/nlrb-dismisses-healthy-livings-bid-overturn-union-election/",
+      "ts": "2026-07-16T21:08:24+00:00",
+      "summary": "Workers at all three stores voted to unionize with Workers United back in April."
+     },
+     {
+      "id": "NZVNODTH5FG5LJ7PZXOQY6EGSA",
+      "title": "Crews clean graffiti off rocks along newly opened Champlain Parkway",
+      "link": "https://www.wcax.com/2026/07/16/crews-clean-graffiti-off-rocks-along-newly-opened-champlain-parkway/",
+      "ts": "2026-07-16T20:32:58+00:00",
+      "summary": "Crews closed the shoulder of the parkway Thursday morning to spray down a rocky ledge on the inbound side, cleaning off graffiti on the rocks."
+     },
+     {
+      "id": "FB7MAKNI6JBLBGLDJEMYIZWDK4",
+      "title": "Rutland’s Parker House sold to new owners for $4.4 million",
+      "link": "https://www.wcax.com/2026/07/16/rutlands-parker-house-sold-new-owners-44-million/",
+      "ts": "2026-07-16T20:21:38+00:00",
+      "summary": "The Parker House, a Section 8 apartment building for the elderly in downtown Rutland, has changed hands after more than four decades under the same ownership."
+     },
      {
       "id": "6ZXMGCAAS5BRRL4VYOMQ2KZK4M",
       "title": "Ben & Jerry’s launches new flavor to mobilize voters ahead of November midterms",
@@ -1252,45 +1280,115 @@
       "link": "https://www.wcax.com/2026/07/13/first-alert-hot-humid-stormy-tuesday/",
       "ts": "2026-07-14T18:15:13+00:00",
       "summary": "Tuesday is a First Alert Weather Day due to heat, humidity, and the potential for severe storms"
-     },
-     {
-      "id": "7OVXXZFVKRASPAAGUSGCBO3JRQ",
-      "title": "A festive occasion for Vermont’s craft beers",
-      "link": "https://www.wcax.com/2026/07/14/festive-occasion-vermonts-craft-beers/",
-      "ts": "2026-07-14T16:54:20+00:00",
-      "summary": "More than 40 breweries will participate in the 33rd annual Vermont Brewers Festival in Burlington this weekend"
-     },
-     {
-      "id": "ZNS2OJIL5FFAXBKTOKKFWIKI4Q",
-      "title": "New York won’t build big data centers for a year as it weighs energy and climate risks",
-      "link": "https://www.wcax.com/2026/07/14/new-york-wont-build-big-data-centers-year-it-weighs-energy-climate-risks/",
-      "ts": "2026-07-14T16:48:18+00:00",
-      "summary": "Gov. Kathy Hochul signed an executive order Tuesday imposing the country’s first statewide moratorium on hyperscale data centers."
-     },
-     {
-      "id": "4QA34SU2YNG37N5G7JDVMIHFIM",
-      "title": "Burlington police investigate assault at skate park",
-      "link": "https://www.wcax.com/2026/07/14/burlington-police-investigate-assault-skate-park/",
-      "ts": "2026-07-14T16:00:54+00:00",
-      "summary": "A Burlington man faces aggravated assault charges following a stabbing incident at a skate park on Lake Street"
-     },
-     {
-      "id": "L7AIB5ERAJEEFLVBY2WVRE572U",
-      "title": "UVM finds new drug to fight lung cancer could be a game changer",
-      "link": "https://www.wcax.com/2026/07/14/uvm-finds-new-drug-fight-lung-cancer-could-be-game-changer/",
-      "ts": "2026-07-14T11:56:46+00:00",
-      "summary": "University of Vermont researchers say a new drug shows promise for patients with a rare form of lung cancer, mesothelioma."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "72122721",
+      "title": "Middlebury man arrested after stabbing, shooting during family dispute",
+      "link": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
+      "ts": "2026-07-16T21:25:00+00:00",
+      "summary": "Police say a family dispute in Middlebury escalated into a stabbing and gunfire Wednesday evening. One man was airlifted to UVM Medical Center, and a 39-year-old suspect is in custody"
+     },
+     {
+      "id": "72768275",
+      "title": "Track air quality across the US with this live map",
+      "link": "https://www.mynbc5.com/article/map-air-quality-wildfires/72768275",
+      "ts": "2026-07-16T21:20:00+00:00",
+      "summary": "A wave of smoke from Canadian wildfires is affecting parts of the East Coast and northern U.S. Use this map to check your local air quality."
+     },
+     {
+      "id": "65616245",
+      "title": "Tips to maintain air quality during wildfire season",
+      "link": "https://www.mynbc5.com/article/air-quality-tips-wildfires/65616245",
+      "ts": "2026-07-16T21:08:00+00:00",
+      "summary": ""
+     },
+     {
+      "id": "72752197",
+      "title": "New monkey species with orange lips discovered after years of searching",
+      "link": "https://www.mynbc5.com/article/new-monkey-species-orange-lips/72752197",
+      "ts": "2026-07-16T21:06:00+00:00",
+      "summary": "A monkey with striking orange lips and a thunderous roar has just been identified as a new species after years of mystery. Here’s why scientists say it’s a major find."
+     },
+     {
+      "id": "72799897",
+      "title": "Festival brings music, fun to downtown Middlebury",
+      "link": "https://www.mynbc5.com/article/middlebury-festival-on-the-green-back-for-47th-year/72799897",
+      "ts": "2026-07-16T21:04:00+00:00",
+      "summary": "The Festival on the Green brings artists from across the country and the world for free, family-friendly shows."
+     },
+     {
+      "id": "72638503",
+      "title": "2 of 8 men charged in alleged plot to attack the White House UFC event plead not guilty",
+      "link": "https://www.mynbc5.com/article/white-house-ufc-attack-plot-men-charged-plea/72638503",
+      "ts": "2026-07-16T20:56:00+00:00",
+      "summary": "Two of the eight men indicted in an alleged plot to attack President Trump's UFC cage-fighting event on the White House lawn pleaded not guilty to federal conspiracy charges."
+     },
+     {
+      "id": "72750126",
+      "title": "What we know about the nation-wide Cyclospora outbreak and tips from local experts",
+      "link": "https://www.mynbc5.com/article/what-we-know-about-the-nation-wide-cyclospora-outbreak-and-tips-from-local-experts/72750126",
+      "ts": "2026-07-16T20:53:00+00:00",
+      "summary": "\"There's 34 states, and we don't know the source,\" McDonald said. \"Just two weeks ago, it was 18 states. Last week it was 31 states and now it's 34 states.\""
+     },
+     {
+      "id": "72721122",
+      "title": "How would permanent Daylight Saving Time impact Vermont and New York? We examine the data",
+      "link": "https://www.mynbc5.com/article/permanent-daylight-saving-time-vermont-new-york/72721122",
+      "ts": "2026-07-16T20:50:00+00:00",
+      "summary": "With lawmakers trying to pass a law to make Daylight Saving Time permanent, our Matt DiLoreto looks at what a change like this would mean for residents in Vermont and New York."
+     },
+     {
+      "id": "72791062",
+      "title": "Arrest warrant issued for Mississippi woman following Vermont road rage incident",
+      "link": "https://www.mynbc5.com/article/mississippi-road-rage-vermont-arrest/72791062",
+      "ts": "2026-07-16T20:49:00+00:00",
+      "summary": "Police have issued an arrest warrant for a Mississippi woman after she failed to come to court Thursday. This was after the woman allegedly pointed a loaded gun at another driver on a Vermont highway."
+     },
+     {
+      "id": "72773133",
+      "title": "Essex County Fair begins construction to make historic grandstand wheelchair accessible",
+      "link": "https://www.mynbc5.com/article/essex-county-fair-begins-construction-to-make-historic-grandstand-wheelchair-accessible/72773133",
+      "ts": "2026-07-16T20:44:00+00:00",
+      "summary": "Essex County Fair begins construction to make historic grandstand wheelchair accessible"
+     },
+     {
+      "id": "72785651",
+      "title": "Canadian man accused of killing daughter and hiding her body to face trial next week",
+      "link": "https://www.mynbc5.com/article/luciano-frattolin-murder-trial-ticonderoga/72785651",
+      "ts": "2026-07-16T20:33:00+00:00",
+      "summary": "Luciano Frattolin, accused of killing his 9-year-old daughter and hiding her body in Ticonderoga, New York, will go to trial next week, with jury selection starting Monday."
+     },
+     {
+      "id": "71942620",
+      "title": "Recall roundup: Dozens of popular everyday items have been recalled nationwide",
+      "link": "https://www.mynbc5.com/article/nationwide-recalls-fda-roundup/71942620",
+      "ts": "2026-07-16T20:31:00+00:00",
+      "summary": "Dozens of everyday products sold across the United States have been recalled over the past two weeks, affecting everything from food and pet products to household items and outdoor equipment."
+     },
+     {
       "id": "72783284",
       "title": "Crews battle wildfire for days in Essex County, New York",
       "link": "https://www.mynbc5.com/article/wildfire-burns-for-days-near-sawteeth-mountain-in-essex-county/72783284",
-      "ts": "2026-07-16T20:08:00+00:00",
+      "ts": "2026-07-16T20:28:00+00:00",
       "summary": "Forest rangers are working to contain a quarter-acre wildfire near Sawteeth Mountain in Keene, New York, which has been burning since Monday."
+     },
+     {
+      "id": "72767343",
+      "title": "Pillsbury bread rolls recalled over possible glass",
+      "link": "https://www.mynbc5.com/article/pillsbury-roll-recall-may-contain-glass/72767343",
+      "ts": "2026-07-16T20:17:00+00:00",
+      "summary": "General Mills has recalled nearly 736,000 Pillsbury bread rolls over possible glass contamination."
+     },
+     {
+      "id": "72721009",
+      "title": "FDA approves a first-of-its-kind pill to cut cholesterol in high-risk patients",
+      "link": "https://www.mynbc5.com/article/fda-approves-cholesterol-pill/72721009",
+      "ts": "2026-07-16T20:13:00+00:00",
+      "summary": "The FDA approved a first-of-its-kind pill that can drastically reduce cholesterol in a way previously only available with expensive injectable drugs."
      },
      {
       "id": "72551882",
@@ -1298,13 +1396,6 @@
       "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
       "ts": "2026-07-16T20:05:00+00:00",
       "summary": "Some residents in southwest Texas are being urged to evacuate during severe downpours."
-     },
-     {
-      "id": "72122721",
-      "title": "Middlebury man arrested after stabbing, shooting during family dispute",
-      "link": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
-      "ts": "2026-07-16T19:57:00+00:00",
-      "summary": "Police say a family dispute in Middlebury escalated into a stabbing and gunfire Wednesday evening. One man was airlifted to UVM Medical Center, and a 39-year-old suspect is in custody"
      },
      {
       "id": "72640953",
@@ -1333,97 +1424,6 @@
       "link": "https://www.mynbc5.com/article/pine-street-burlington-e-bike-crash/72769533",
       "ts": "2026-07-16T19:45:00+00:00",
       "summary": "A woman was seriously injured after she was hit by a car while riding an E-bike in Burlington on Thursday."
-     },
-     {
-      "id": "72571535",
-      "title": "Trump to make 2020 election allegations focus of Thursday's national address",
-      "link": "https://www.mynbc5.com/article/trump-address-nation-july-16-2026/72571535",
-      "ts": "2026-07-16T19:33:00+00:00",
-      "summary": "President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines."
-     },
-     {
-      "id": "72549961",
-      "title": "DA pushes back as FBI alleges drugs found in van involved in Houston ICE shooting",
-      "link": "https://www.mynbc5.com/article/houston-ice-shooting-fbi-warrant-drugs-lorenzo-salgado-araujo/72549961",
-      "ts": "2026-07-16T19:31:00+00:00",
-      "summary": "Prosecutors in Texas’ Harris County don’t believe that substances collected in the van in which Lorenzo Salgado Araujo was fatally shot by an ICE agent in Houston last week were drugs, countering the FBI's warrant application."
-     },
-     {
-      "id": "72721122",
-      "title": "How would permanent Daylight Saving Time impact Vermont and New York? We examine the data",
-      "link": "https://www.mynbc5.com/article/permanent-daylight-saving-time-vermont-new-york/72721122",
-      "ts": "2026-07-16T19:28:00+00:00",
-      "summary": "With lawmakers trying to pass a law to make Daylight Saving Time permanent, our Matt DiLoreto looks at what a change like this would mean for residents in Vermont and New York."
-     },
-     {
-      "id": "72689633",
-      "title": "How to protect yourself from poor air quality caused by wildfires",
-      "link": "https://www.mynbc5.com/article/how-protect-yourself-air-quality-caused-wildfires/72689633",
-      "ts": "2026-07-16T19:17:00+00:00",
-      "summary": "Here are precautions you should take to protect yourself as air quality degrades due to wildfires."
-     },
-     {
-      "id": "72749662",
-      "title": "President Trump to present evidence on election integrity in address",
-      "link": "https://www.mynbc5.com/article/trump-election-integrity-address-thursday/72749662",
-      "ts": "2026-07-16T19:06:00+00:00",
-      "summary": "Press Secretary Karoline Leavitt says President Trump will present evidence on election integrity during his address tonight, though investigations and court rulings have found no evidence of widespread fraud in the 2020 election."
-     },
-     {
-      "id": "72744131",
-      "title": "Kris Jenner's mother, Mary Jo 'MJ' Shannon, dies at 91",
-      "link": "https://www.mynbc5.com/article/kris-jenner-mother-mj-mary-jo-shannon-dies/72744131",
-      "ts": "2026-07-16T18:57:00+00:00",
-      "summary": "Kris Jenner shared an emotional tribute after the death of her mother, Mary Jo “MJ” Shannon."
-     },
-     {
-      "id": "72708676",
-      "title": "Trump’s teleprompter operator under investigation for insider trading, reports say",
-      "link": "https://www.mynbc5.com/article/trump-teleprompter-insider-investigation-gabriel-perez/72708676",
-      "ts": "2026-07-16T18:55:00+00:00",
-      "summary": "The federal agency that regulates prediction markets is investigating President Donald Trump’s longtime teleprompter operator for potential insider trading, according to two sources familiar with the matter."
-     },
-     {
-      "id": "71935250",
-      "title": "Before you choose paint colors, choose the right contractor. It could save you thousands.﻿",
-      "link": "https://www.mynbc5.com/article/hiring-contractor-red-flags/71935250",
-      "ts": "2026-07-16T18:41:00+00:00",
-      "summary": "A bad contractor can turn a dream project into a costly mistake. Experts say the warning signs often show up before the work even begins."
-     },
-     {
-      "id": "65616245",
-      "title": "Tips to maintain air quality during wildfire season",
-      "link": "https://www.mynbc5.com/article/air-quality-tips-wildfires/65616245",
-      "ts": "2026-07-16T18:22:00+00:00",
-      "summary": ""
-     },
-     {
-      "id": "72676912",
-      "title": "Trump administration revives rule that could deny green cards to immigrants who use public benefits",
-      "link": "https://www.mynbc5.com/article/trump-administration-rule-green-cards-immigrants-public-benefits/72676912",
-      "ts": "2026-07-16T17:49:00+00:00",
-      "summary": "The Trump administration is reviving a rule that could deny green cards to immigrants who use public benefits, including food stamps, Medicaid, housing vouchers and others."
-     },
-     {
-      "id": "72688838",
-      "title": "Good Samaritan helps rescue man from flooded Texas creek",
-      "link": "https://www.mynbc5.com/article/texas-floods-good-samaritan-creek-rescue/72688838",
-      "ts": "2026-07-16T17:36:00+00:00",
-      "summary": "A man captured video of the moment he went into a flooded creek to help save another man, who had been swept away."
-     },
-     {
-      "id": "72574393",
-      "title": "Watch: Blue Angels conducting review after low-altitude flyover in Florida",
-      "link": "https://www.mynbc5.com/article/watch-blue-angels-conducting-review-after-low-altitude-flyover-in-florida/72574393",
-      "ts": "2026-07-16T16:50:00+00:00",
-      "summary": "An ultra-low Blue Angels flyover at a popular Florida beach is under investigation."
-     },
-     {
-      "id": "72124471",
-      "title": "Smoky sky lingers, with isolated PM storms Thursday",
-      "link": "https://www.mynbc5.com/article/smoky-sky-lingers-with-isolated-pm-storms-thursday-07-16-26/72124471",
-      "ts": "2026-07-16T16:42:00+00:00",
-      "summary": "Sunny and pleasant Friday, few showers and storms this weekend"
      }
     ]
    },
