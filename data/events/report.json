@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-15T17:37:29-04:00",
+ "generated": "2026-07-16T07:20:49-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
-   "count": 34,
-   "seconds": 6.5
+   "count": 33,
+   "seconds": 5.9
   },
   "breweries": {
    "label": "Breweries & Taprooms",
-   "count": 50,
-   "seconds": 2.1
+   "count": 46,
+   "seconds": 2.7
   },
   "brownell": {
    "label": "Brownell Library",
-   "count": 51,
-   "seconds": 2.7
+   "count": 48,
+   "seconds": 2.5
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
-   "count": 159,
-   "seconds": 3.2
+   "count": 154,
+   "seconds": 2.1
   },
   "churchst": {
    "label": "Church Street Marketplace",
-   "count": 102,
-   "seconds": 3.3
+   "count": 95,
+   "seconds": 1.6
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -33,28 +33,28 @@
   },
   "eventbrite": {
    "label": "Eventbrite",
-   "count": 136,
-   "seconds": 31.5
+   "count": 0,
+   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-16&end_date=2026-09-14&page=1 (HTTP Error 405: Not Allowed)"
   },
   "facebook": {
    "label": "Facebook (manual drops)",
-   "count": 216,
+   "count": 191,
    "seconds": 0.1
   },
   "farmersmarket": {
    "label": "Burlington Farmers Market",
    "count": 9,
-   "seconds": 0.2
+   "seconds": 0.4
   },
   "fletcherfree": {
    "label": "Fletcher Free Library",
-   "count": 243,
-   "seconds": 66.5
+   "count": 230,
+   "seconds": 76.8
   },
   "flynn": {
    "label": "The Flynn",
    "count": 16,
-   "seconds": 2.5
+   "seconds": 2.8
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -64,12 +64,12 @@
   "helloburlington": {
    "label": "Hello Burlington",
    "count": 750,
-   "seconds": 37.1
+   "seconds": 38.7
   },
   "higherground": {
    "label": "Higher Ground",
-   "count": 60,
-   "seconds": 85.0
+   "count": 59,
+   "seconds": 92.0
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -78,28 +78,28 @@
   },
   "loveburlington": {
    "label": "Love Burlington",
-   "count": 677,
-   "seconds": 75.7
+   "count": 660,
+   "seconds": 68.4
   },
   "meetup": {
    "label": "Meetup",
-   "count": 70,
-   "seconds": 136.8
+   "count": 69,
+   "seconds": 136.9
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 16,
-   "seconds": 15.2
+   "seconds": 16.7
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
-   "count": 80,
-   "seconds": 4.5
+   "count": 77,
+   "seconds": 4.0
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
-   "count": 51,
-   "seconds": 25.9
+   "count": 48,
+   "seconds": 27.1
   },
   "sevendays": {
    "label": "Seven Days",
@@ -113,65 +113,30 @@
   },
   "uvm": {
    "label": "UVM & Colleges",
-   "count": 165,
-   "seconds": 6.5
+   "count": 164,
+   "seconds": 12.4
   },
   "uvmbored": {
    "label": "UVM Bored",
-   "count": 135,
+   "count": 133,
    "seconds": 0.1
   },
   "vcc": {
    "label": "Vermont Comedy Club",
-   "count": 53,
-   "seconds": 68.4
+   "count": 51,
+   "seconds": 71.8
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
-   "count": 33,
-   "seconds": 0.4
+   "count": 32,
+   "seconds": 0.2
   }
  },
- "gathered": 3106,
- "afterDedup": 1602,
- "duplicatesMerged": 1504,
- "final": 2694,
+ "gathered": 2881,
+ "afterDedup": 1432,
+ "duplicatesMerged": 1449,
+ "final": 2612,
  "mergeLog": [
-  {
-   "kept": {
-    "title": "Party on the Bricks",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-13"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-13"
-  },
-  {
-   "kept": {
-    "title": "Pub Hour",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-13"
-  },
   {
    "kept": {
     "title": "Hot Dog & A Can Thursdays",
@@ -1395,17 +1360,6 @@
   },
   {
    "kept": {
-    "title": "Flora & Fiber: Naturally Dye a Tote Bag!",
-    "source": "eventbrite"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "eventbrite"
-   ],
-   "date": "2026-08-29"
-  },
-  {
-   "kept": {
     "title": "D.R.I.",
     "source": "higherground"
    },
@@ -2225,17 +2179,6 @@
   },
   {
    "kept": {
-    "title": "VT / NH Society For Respiratory Care Annual Educational Conference",
-    "source": "eventbrite"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "eventbrite"
-   ],
-   "date": "2026-09-09"
-  },
-  {
-   "kept": {
     "title": "Italian Conversation Group",
     "source": "fletcherfree"
    },
@@ -2251,6 +2194,7 @@
     "source": "higherground"
    },
    "merged_sources": [
+    "helloburlington",
     "higherground",
     "uvm",
     "uvmbored"
@@ -2264,6 +2208,7 @@
    },
    "merged_sources": [
     "champlainvalley",
+    "helloburlington",
     "higherground",
     "uvm",
     "uvmbored"
@@ -2327,12 +2272,34 @@
   },
   {
    "kept": {
-    "title": "DisruptHR Burlington",
-    "source": "helloburlington"
+    "title": "Pub Hour",
+    "source": "loveburlington"
    },
    "merged_sources": [
-    "eventbrite",
-    "helloburlington"
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-10"
+  },
+  {
+   "kept": {
+    "title": "Hot Dog & A Can Thursdays",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-10"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
    ],
    "date": "2026-09-10"
   },
@@ -2343,7 +2310,8 @@
    },
    "merged_sources": [
     "champlainvalley",
-    "flynn"
+    "flynn",
+    "helloburlington"
    ],
    "date": "2026-09-11"
   },
@@ -2382,6 +2350,28 @@
   },
   {
    "kept": {
+    "title": "Pub Hour",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-11"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-11"
+  },
+  {
+   "kept": {
     "title": "Rainbow Kitten Surprise",
     "source": "higherground"
    },
@@ -2414,59 +2404,26 @@
     "loveburlington"
    ],
    "date": "2026-09-12"
+  },
+  {
+   "kept": {
+    "title": "Jim Norton",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "higherground",
+    "uvm"
+   ],
+   "date": "2026-09-13"
   }
  ],
  "changes": [
-  {
-   "id": "9ee99bba31c6",
-   "title": "CAPM Certification Weekday Classroom Training in Burlington, VT",
-   "date": "2026-07-15",
-   "change": "dropped"
-  },
-  {
-   "id": "9e8ed6c4dcca",
-   "title": "Nature Journaling at Rock Point",
-   "date": "2026-07-15",
-   "change": "dropped"
-  },
-  {
-   "id": "3a8293b45ad7",
-   "title": "Nature Journaling",
-   "date": "2026-07-15",
-   "change": "dropped"
-  },
-  {
-   "id": "dd4e85c2c90f",
-   "title": "Downtown Block Party",
-   "date": "2026-07-15",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
-  },
-  {
-   "id": "aa89e5864c46",
-   "title": "Paddle at Delta Park",
-   "date": "2026-07-15",
-   "change": "missing",
-   "lastSeen": "2026-07-14T17:36:01-04:00"
-  },
-  {
-   "id": "ecaa31749ebe",
-   "title": "2026 Governor and Lieutenant Governor Housing Forum",
-   "date": "2026-07-15",
-   "change": "dropped"
-  },
   {
    "id": "3726ababc682",
    "title": "Bay & Brisket Trivia Thursday",
    "date": "2026-07-16",
    "change": "missing",
    "lastSeen": "2026-07-14T07:11:12-04:00"
-  },
-  {
-   "id": "e12eb119b795",
-   "title": "How to make the best Co-op Summer Salads",
-   "date": "2026-07-16",
-   "change": "dropped"
   },
   {
    "id": "ea05008356ee",
@@ -2490,16 +2447,11 @@
    "lastSeen": "2026-07-14T07:11:12-04:00"
   },
   {
-   "id": "1cc3e06d4c04",
-   "title": "PMP Certification Weekend Classroom Training in Burlington, VT",
-   "date": "2026-07-17",
-   "change": "dropped"
-  },
-  {
-   "id": "11dc703c049e",
-   "title": "Sun to Cheese Tour 2026",
-   "date": "2026-07-17",
-   "change": "dropped"
+   "id": "bbff215aa423",
+   "title": "Dream / Mộng : Veronica Pham",
+   "date": "2026-07-16",
+   "change": "missing",
+   "lastSeen": "2026-07-15T17:37:29-04:00"
   },
   {
    "id": "9927f635e6bb",
@@ -2516,35 +2468,11 @@
    "lastSeen": "2026-07-13T08:21:43-04:00"
   },
   {
-   "id": "4f5e1b84555f",
-   "title": "PMI-CPMAI® Weekend Training – Project in AI Certification in Vermont, VT",
-   "date": "2026-07-18",
-   "change": "dropped"
-  },
-  {
    "id": "5b64cd247290",
    "title": "Nepenthes 101 - Tropical Pitcher Plant Workshop",
    "date": "2026-07-18",
    "change": "missing",
    "lastSeen": "2026-07-14T07:11:12-04:00"
-  },
-  {
-   "id": "81fb90692bda",
-   "title": "Beary Fun Beach Party!",
-   "date": "2026-07-18",
-   "change": "dropped"
-  },
-  {
-   "id": "74d2c05144b4",
-   "title": "Saturday Zentangle with Julia Davenport",
-   "date": "2026-07-18",
-   "change": "dropped"
-  },
-  {
-   "id": "36ec3ba0e9dd",
-   "title": "Hill Fest: Live at the Lantern",
-   "date": "2026-07-18",
-   "change": "dropped"
   },
   {
    "id": "0857721012f7",
@@ -2554,41 +2482,11 @@
    "lastSeen": "2026-07-14T07:11:12-04:00"
   },
   {
-   "id": "54382929f86d",
-   "title": "4-Day Data Science with Python Bootcamp in Montpelier, VT",
-   "date": "2026-07-21",
-   "change": "dropped"
-  },
-  {
-   "id": "4682ff758d87",
-   "title": "Birds: An Exploration Through Art",
-   "date": "2026-07-22",
-   "change": "dropped"
-  },
-  {
-   "id": "6a82d2ede0fe",
-   "title": "SAFe® 5.1 POPM 2Days Classroom Training in Burlington, VT",
-   "date": "2026-07-23",
-   "change": "dropped"
-  },
-  {
-   "id": "4ea27c487a1d",
-   "title": "SAFe® 5.1 (LPM) 2Days Classroom Training in Burlington, VT",
-   "date": "2026-07-23",
-   "change": "dropped"
-  },
-  {
-   "id": "9182052916cb",
-   "title": "Networking Lunch at Hula with the Network of Women",
+   "id": "c0d3bee74895",
+   "title": "Networking Lunch at Hula with the Network of Women--July Lunch",
    "date": "2026-07-23",
    "change": "missing",
-   "lastSeen": "2026-07-15T07:13:29-04:00"
-  },
-  {
-   "id": "a51d4fb2d9b9",
-   "title": "Weekly Activity for Kids: Tie Dye Shirts- Note new date of July 23",
-   "date": "2026-07-23",
-   "change": "dropped"
+   "lastSeen": "2026-07-15T17:37:29-04:00"
   },
   {
    "id": "6c8617e97379",
@@ -2617,31 +2515,6 @@
    "date": "2026-07-26",
    "change": "missing",
    "lastSeen": "2026-07-14T07:11:12-04:00"
-  },
-  {
-   "id": "69a9ac9a9e01",
-   "title": "Certified Ethical Hacker – Practical Ethical Hacker in Vermont, VT",
-   "date": "2026-07-28",
-   "change": "dropped"
-  },
-  {
-   "id": "b784f93512da",
-   "title": "Adult Craft: Polymer Clay Pendants",
-   "date": "2026-07-28",
-   "change": "dropped"
-  },
-  {
-   "id": "467911ed2caa",
-   "title": "BTown Coffee Club",
-   "date": "2026-08-01",
-   "change": "missing",
-   "lastSeen": "2026-07-13T17:34:21-04:00"
-  },
-  {
-   "id": "385ad73604d0",
-   "title": "Vermont Psychic Expo Readings",
-   "date": "2026-08-01",
-   "change": "dropped"
   },
   {
    "id": "de0b0ce9eab3",
@@ -2684,24 +2557,6 @@
    "date": "2026-08-08",
    "change": "missing",
    "lastSeen": "2026-07-13T08:21:43-04:00"
-  },
-  {
-   "id": "91cf80c8e6c4",
-   "title": "Data Science with Phython Certification Training in Vermont, VT",
-   "date": "2026-08-11",
-   "change": "dropped"
-  },
-  {
-   "id": "8922f2bb04d4",
-   "title": "CEH v12 Ethical Hacking Bootcamp – 4 Days Training in Vermont, VT",
-   "date": "2026-08-11",
-   "change": "dropped"
-  },
-  {
-   "id": "92f17a822169",
-   "title": "Stop Leaving Money on the Table: Build a Revenue Strategy That Actually Scales with Emma Bloksberg-Fireovid",
-   "date": "2026-08-13",
-   "change": "dropped"
   },
   {
    "id": "5766b8ee536f",
