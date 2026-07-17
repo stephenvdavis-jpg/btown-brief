@@ -1,9 +1,47 @@
 {
-  "updated": "2026-07-17T16:00:37+00:00",
+  "updated": "2026-07-17T19:42:36+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
+    {
+      "id": "smoke-friday-last",
+      "label": "A sunny smoke free Friday for the Main Street Block Party…",
+      "direction": "hot",
+      "posts": 4,
+      "comments": null,
+      "last_activity": "2026-07-17T17:04:49+00:00",
+      "sources": [
+        {
+          "title": "A sunny smoke free Friday for the Main Street Block Party, Brewers Fest, and Brownell Library's 100th birthday, a stacked Saturday with steamroller printmaking, a gem and fossil show, and a sold out playoff match, and a Sunday built around Argentina vs Spain, this weekend has tons to explore",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz4622/a_sunny_smoke_free_friday_for_the_main_street/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T17:04:49+00:00",
+          "comments": null
+        },
+        {
+          "title": "Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
+          "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
+          "sub": "r/burlington",
+          "when": "2026-07-16T20:02:13+00:00",
+          "comments": null
+        },
+        {
+          "title": "Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
+          "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
+          "sub": "r/burlington",
+          "when": "2026-07-15T17:02:19+00:00",
+          "comments": null
+        },
+        {
+          "title": "Did anyone get any severe weather last night?",
+          "url": "https://www.reddit.com/r/vermont/comments/1ux0sbe/did_anyone_get_any_severe_weather_last_night/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T10:03:12+00:00",
+          "comments": null
+        }
+      ]
+    },
     {
       "id": "ben-jerry-foundation",
       "label": "Boycott Ben & Jerry's!",
@@ -38,6 +76,30 @@
           "url": "https://www.reddit.com/r/vermont/comments/1uxd2wx/today_magnum_ordered_the_ben_jerrys_foundation/",
           "sub": "r/vermont",
           "when": "2026-07-15T19:03:13+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "dog-dogs-leash",
+      "label": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs…",
+      "direction": "hot",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-17T17:04:49+00:00",
+      "sources": [
+        {
+          "title": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs in Leashed Areas",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz3wxt/photograph_share_shame_dog_owners_who_dont_leash/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T17:04:49+00:00",
+          "comments": null
+        },
+        {
+          "title": "Fellow Dog Owners….",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz1bze/fellow_dog_owners/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T17:04:49+00:00",
           "comments": null
         }
       ]
@@ -91,25 +153,18 @@
       ]
     },
     {
-      "id": "last-night-band",
-      "label": "Seth Yacovone Band was bringing it last night at the Winooski…",
+      "id": "302-hotdog-remember",
+      "label": "302 hotdog restaurant",
       "direction": "rising",
-      "posts": 2,
+      "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-16T20:02:13+00:00",
+      "last_activity": "2026-07-17T19:04:39+00:00",
       "sources": [
         {
-          "title": "Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
-          "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T20:02:13+00:00",
-          "comments": null
-        },
-        {
-          "title": "Did anyone get any severe weather last night?",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux0sbe/did_anyone_get_any_severe_weather_last_night/",
+          "title": "302 hotdog restaurant",
+          "url": "https://www.reddit.com/r/vermont/comments/1uz45jg/302_hotdog_restaurant/",
           "sub": "r/vermont",
-          "when": "2026-07-15T10:03:12+00:00",
+          "when": "2026-07-17T19:04:39+00:00",
           "comments": null
         }
       ]
@@ -147,40 +202,6 @@
           "comments": null
         }
       ]
-    },
-    {
-      "id": "here-carpenter-moving",
-      "label": "Are people still desperate for contractors in this state, or…",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-17T01:04:29+00:00",
-      "sources": [
-        {
-          "title": "Are people still desperate for contractors in this state, or has something changed?",
-          "url": "https://www.reddit.com/r/vermont/comments/1uyfov2/are_people_still_desperate_for_contractors_in/",
-          "sub": "r/vermont",
-          "when": "2026-07-17T01:04:29+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "cheap-food-engagement",
-      "label": "Best cheap food in Burlington",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-16T17:01:44+00:00",
-      "sources": [
-        {
-          "title": "Best cheap food in Burlington",
-          "url": "https://www.reddit.com/r/burlington/comments/1uy7isk/best_cheap_food_in_burlington/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T17:01:44+00:00",
-          "comments": null
-        }
-      ]
     }
   ],
   "highlights": [
@@ -198,22 +219,22 @@
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
-      "title": "More of the same on housing cost, property tax, health care? Or a new direction? Vote on or before 8/11",
-      "url": "https://www.reddit.com/r/vermont/comments/1ux547a/more_of_the_same_on_housing_cost_property_tax/",
+      "title": "School Board Backs CVU Artificial Turf Field Project despite residents' concerns.",
+      "url": "https://www.reddit.com/r/vermont/comments/1uz0lmw/school_board_backs_cvu_artificial_turf_field/",
       "sub": "r/vermont",
-      "when": "2026-07-15T13:03:01+00:00",
-      "blurb": "I'm supporting Amanda Janoo in the Democratic Primary for Governor. https://www.janooforvt.com/ Phil Scott has been popular, but people…",
+      "when": "2026-07-17T16:04:29+00:00",
+      "blurb": "submitted by /u/Particular_Seat2857 [link] [comments]",
       "comments": null,
       "unverified": false
     },
     {
       "slot": "needs_help",
       "slot_label": "Someone needs help",
-      "title": "Gondola ride",
-      "url": "https://www.reddit.com/r/vermont/comments/1uxnb0z/gondola_ride/",
+      "title": "Look what I found",
+      "url": "https://www.reddit.com/r/vermont/comments/1uz0src/look_what_i_found/",
       "sub": "r/vermont",
-      "when": "2026-07-16T01:02:50+00:00",
-      "blurb": "Looking to possibly do the Gondola ride in Stowe. A little concerned about the on/off process as I know it doesn’t come to a complete…",
+      "when": "2026-07-17T16:04:29+00:00",
+      "blurb": "Cleaning air b&b on North Winooski and wander to next door yard...once the ground is a fricken headstone from the elmwood cemetery sottomg…",
       "comments": null,
       "unverified": false
     },
@@ -261,27 +282,13 @@
       "sub": "r/vermont",
       "when": "2026-07-15T19:03:13+00:00",
       "comments": null
-    },
-    {
-      "title": "Burlington is Back!",
-      "url": "https://www.reddit.com/r/burlington/comments/1uwc2yf/burlington_is_back/",
-      "sub": "r/burlington",
-      "when": "2026-07-14T17:02:31+00:00",
-      "comments": null
-    },
-    {
-      "title": "Heads up",
-      "url": "https://www.reddit.com/r/burlington/comments/1uwau1a/heads_up/",
-      "sub": "r/burlington",
-      "when": "2026-07-14T17:02:31+00:00",
-      "comments": null
     }
   ],
   "stats": {
-    "posts_scanned": 124,
+    "posts_scanned": 125,
     "per_source": {
-      "r/burlington": 61,
-      "r/vermont": 63
+      "r/burlington": 60,
+      "r/vermont": 65
     }
   }
 }
