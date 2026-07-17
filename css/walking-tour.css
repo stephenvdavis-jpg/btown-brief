@@ -1,0 +1,263 @@
+/* Downtown walking tour — a route ledger built for reading in motion. */
+.tour-page {
+  max-width: 760px;
+  padding-bottom: var(--space-16);
+}
+
+.tour-hero {
+  padding: var(--space-4) 0 var(--space-6);
+  border-bottom: 1px solid var(--line);
+}
+
+.tour-hero h1 {
+  max-width: 12ch;
+  font-size: clamp(2.25rem, 11vw, 4.25rem);
+  line-height: 1.02;
+  letter-spacing: -0.045em;
+  margin: var(--space-2) 0 var(--space-4);
+}
+
+.tour-hero .page-hero-sub {
+  font-size: clamp(1.0625rem, 4.7vw, 1.25rem);
+  line-height: 1.55;
+}
+
+.tour-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-top: var(--space-5);
+}
+
+.tour-fact {
+  padding: 7px 12px;
+  color: var(--ink-2);
+  background: var(--bg-subtle);
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius-full);
+  font-size: var(--text-sm);
+  font-weight: 600;
+}
+
+.tour-progress {
+  position: sticky;
+  top: calc(var(--header-h) + var(--space-3));
+  z-index: 20;
+  width: max-content;
+  margin: var(--space-4) 0 var(--space-2) auto;
+  padding: 7px 12px;
+  color: #fff;
+  background: var(--ink);
+  border-radius: var(--radius-full);
+  box-shadow: var(--shadow-md);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  font-variant-numeric: tabular-nums;
+}
+
+[data-theme="dark"] .tour-progress { background: var(--coral); }
+
+.tour-route {
+  position: relative;
+  list-style: none;
+  margin-top: var(--space-2);
+}
+
+.tour-route::before {
+  content: '';
+  position: absolute;
+  top: 32px;
+  bottom: 32px;
+  left: 27px;
+  width: 2px;
+  background: var(--line);
+}
+
+.tour-stop {
+  position: relative;
+  display: grid;
+  grid-template-columns: 56px minmax(0, 1fr);
+  gap: var(--space-3);
+  padding: var(--space-4) 0 var(--space-6);
+  scroll-margin-top: calc(var(--header-h) + 64px);
+}
+
+.tour-stop-number {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  color: #fff;
+  background: var(--teal);
+  border: 5px solid var(--bg);
+  border-radius: 50%;
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  transition: border-color var(--duration-base) var(--ease);
+}
+
+.tour-stop-card {
+  min-width: 0;
+  padding: var(--space-5);
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+}
+
+.tour-stop-title {
+  font-family: var(--font-display);
+  font-size: clamp(1.45rem, 6.5vw, 2rem);
+  line-height: 1.18;
+  letter-spacing: -0.02em;
+}
+
+.tour-stop-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  margin: var(--space-2) 0 var(--space-4);
+}
+
+.tour-location {
+  min-width: 0;
+  color: var(--ink-3);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.tour-map-link {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 14px;
+  color: var(--teal);
+  background: var(--teal-light);
+  border-radius: var(--radius-full);
+  font-size: var(--text-sm);
+  font-weight: 700;
+}
+
+.tour-map-link:hover { text-decoration: none; filter: brightness(0.97); }
+
+.tour-history {
+  color: var(--ink-2);
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.tour-directions {
+  margin-top: var(--space-5);
+  padding: var(--space-4);
+  color: var(--ink-2);
+  background: var(--bg-subtle);
+  border-left: 3px solid var(--coral);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  font-size: var(--text-sm);
+  line-height: 1.55;
+}
+
+.tour-directions-label {
+  display: block;
+  margin-bottom: 3px;
+  color: var(--coral);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.tour-sources,
+.tour-more {
+  margin-left: 68px;
+}
+
+.tour-sources {
+  margin-top: var(--space-6);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.tour-sources summary {
+  padding: var(--space-5) 0;
+  color: var(--ink);
+  cursor: pointer;
+  font-family: var(--font-display);
+  font-size: var(--text-md);
+  font-weight: 700;
+}
+
+.tour-sources-list {
+  padding: 0 0 var(--space-6) 1.25rem;
+  color: var(--ink-3);
+  font-size: var(--text-xs);
+  line-height: 1.6;
+}
+
+.tour-sources-list li + li { margin-top: var(--space-2); }
+.tour-sources-list a { overflow-wrap: anywhere; }
+
+.tour-more {
+  margin-top: var(--space-8);
+  padding: var(--space-6);
+  color: #fff;
+  background: var(--ink);
+  border-radius: var(--radius-lg);
+}
+
+.tour-more h2 {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  line-height: 1.2;
+}
+
+.tour-more p {
+  margin-top: var(--space-2);
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.tour-more-links {
+  display: grid;
+  gap: var(--space-3);
+  margin-top: var(--space-5);
+}
+
+.tour-more a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 52px;
+  padding: 0 var(--space-4);
+  color: var(--ink);
+  background: var(--bg-raised);
+  border-radius: var(--radius-md);
+  font-weight: 700;
+}
+
+.tour-more a:hover { color: var(--teal); text-decoration: none; }
+
+@media (max-width: 480px) {
+  .tour-page { padding-right: var(--space-3); padding-left: var(--space-3); }
+  .tour-route::before { left: 20px; }
+  .tour-stop { grid-template-columns: 42px minmax(0, 1fr); gap: var(--space-2); }
+  .tour-stop-number { width: 42px; height: 42px; border-width: 4px; font-size: var(--text-base); }
+  .tour-stop-card { padding: var(--space-4); }
+  .tour-stop-meta { align-items: flex-start; flex-direction: column; }
+  .tour-map-link { align-self: stretch; justify-content: center; }
+  .tour-sources, .tour-more { margin-left: 50px; }
+  .tour-more { padding: var(--space-5); }
+}
+
+@media (min-width: 700px) {
+  .tour-more-links { grid-template-columns: 1fr 1fr; }
+  .tour-stop-card { padding: var(--space-6); }
+}
