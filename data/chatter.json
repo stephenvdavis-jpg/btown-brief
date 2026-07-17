@@ -1,29 +1,43 @@
 {
-  "updated": "2026-07-17T11:54:45+00:00",
+  "updated": "2026-07-17T16:00:37+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
     {
-      "id": "article-campaign-first",
-      "label": "Brickner Campaign Reports Broad, Local Support In First…",
+      "id": "ben-jerry-foundation",
+      "label": "Boycott Ben & Jerry's!",
       "direction": "hot",
-      "posts": 2,
+      "posts": 4,
       "comments": null,
-      "last_activity": "2026-07-17T01:04:29+00:00",
+      "last_activity": "2026-07-17T14:04:02+00:00",
       "sources": [
         {
-          "title": "Brickner Campaign Reports Broad, Local Support In First Campaign Finance Filing",
-          "url": "https://www.reddit.com/r/vermont/comments/1uyjrqv/brickner_campaign_reports_broad_local_support_in/",
-          "sub": "r/vermont",
-          "when": "2026-07-17T01:04:29+00:00",
+          "title": "Boycott Ben & Jerry's!",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz0bxv/boycott_ben_jerrys/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T14:04:02+00:00",
           "comments": null
         },
         {
-          "title": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux6hso/second_homes_first_a_support_group_for_citybased/",
+          "title": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
+          "url": "https://www.reddit.com/r/burlington/comments/1uymbcb/ben_jerrys_foundation_plans_to_shut_down_by_end/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T02:04:15+00:00",
+          "comments": null
+        },
+        {
+          "title": "Ben & Jerry's Foundation warns of shutdown in 2026",
+          "url": "https://www.reddit.com/r/vermont/comments/1uxel96/ben_jerrys_foundation_warns_of_shutdown_in_2026/",
           "sub": "r/vermont",
-          "when": "2026-07-15T16:02:20+00:00",
+          "when": "2026-07-15T19:03:13+00:00",
+          "comments": null
+        },
+        {
+          "title": "Today, Magnum ordered the Ben & Jerry's Foundation out of its own corporate office.",
+          "url": "https://www.reddit.com/r/vermont/comments/1uxd2wx/today_magnum_ordered_the_ben_jerrys_foundation/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T19:03:13+00:00",
           "comments": null
         }
       ]
@@ -53,6 +67,30 @@
       ]
     },
     {
+      "id": "article-campaign-first",
+      "label": "Brickner Campaign Reports Broad, Local Support In First…",
+      "direction": "rising",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-17T01:04:29+00:00",
+      "sources": [
+        {
+          "title": "Brickner Campaign Reports Broad, Local Support In First Campaign Finance Filing",
+          "url": "https://www.reddit.com/r/vermont/comments/1uyjrqv/brickner_campaign_reports_broad_local_support_in/",
+          "sub": "r/vermont",
+          "when": "2026-07-17T01:04:29+00:00",
+          "comments": null
+        },
+        {
+          "title": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
+          "url": "https://www.reddit.com/r/vermont/comments/1ux6hso/second_homes_first_a_support_group_for_citybased/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T16:02:20+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "last-night-band",
       "label": "Seth Yacovone Band was bringing it last night at the Winooski…",
       "direction": "rising",
@@ -72,6 +110,23 @@
           "url": "https://www.reddit.com/r/vermont/comments/1ux0sbe/did_anyone_get_any_severe_weather_last_night/",
           "sub": "r/vermont",
           "when": "2026-07-15T10:03:12+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "rep-always-balint",
+      "label": "A+ Trolling from our Rep.",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-17T13:04:32+00:00",
+      "sources": [
+        {
+          "title": "A+ Trolling from our Rep.",
+          "url": "https://www.reddit.com/r/vermont/comments/1uyxfle/a_trolling_from_our_rep/",
+          "sub": "r/vermont",
+          "when": "2026-07-17T13:04:32+00:00",
           "comments": null
         }
       ]
@@ -126,43 +181,20 @@
           "comments": null
         }
       ]
-    },
-    {
-      "id": "birth-brattleboro-bye4now28",
-      "label": "Brattleboro Memorial says it needs help to keep its birth…",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-17T01:04:29+00:00",
-      "sources": [
-        {
-          "title": "Brattleboro Memorial says it needs help to keep its birth center open. Gov. Scott isn't stepping in",
-          "url": "https://www.reddit.com/r/vermont/comments/1uygeeq/brattleboro_memorial_says_it_needs_help_to_keep/",
-          "sub": "r/vermont",
-          "when": "2026-07-17T01:04:29+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "number-000-100",
-      "label": "Farmers markets per 100,000 residents, by US state",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-17T01:04:29+00:00",
-      "sources": [
-        {
-          "title": "Farmers markets per 100,000 residents, by US state",
-          "url": "https://www.reddit.com/r/vermont/comments/1uy2z7u/farmers_markets_per_100000_residents_by_us_state/",
-          "sub": "r/vermont",
-          "when": "2026-07-17T01:04:29+00:00",
-          "comments": null
-        }
-      ]
     }
   ],
   "highlights": [
+    {
+      "slot": "funniest",
+      "slot_label": "Funniest local post",
+      "title": "Clean air fee",
+      "url": "https://www.reddit.com/r/vermont/comments/1uylbhs/clean_air_fee/",
+      "sub": "r/vermont",
+      "when": "2026-07-17T13:04:32+00:00",
+      "blurb": "Ah yes. As I breathe in all the smoke from wildfires I have to pay a clean air fee Edit: this is a joke. I am well aware that we cannot…",
+      "comments": null,
+      "unverified": false
+    },
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
@@ -243,20 +275,13 @@
       "sub": "r/burlington",
       "when": "2026-07-14T17:02:31+00:00",
       "comments": null
-    },
-    {
-      "title": "Dog attack update #2",
-      "url": "https://www.reddit.com/r/burlington/comments/1uw676m/dog_attack_update_2/",
-      "sub": "r/burlington",
-      "when": "2026-07-14T14:02:25+00:00",
-      "comments": null
     }
   ],
   "stats": {
-    "posts_scanned": 121,
+    "posts_scanned": 124,
     "per_source": {
-      "r/burlington": 60,
-      "r/vermont": 61
+      "r/burlington": 61,
+      "r/vermont": 63
     }
   }
 }
