@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:42:36+00:00",
+  "updated": "2026-07-17T23:29:45+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -81,6 +81,30 @@
       ]
     },
     {
+      "id": "beach-north-farm",
+      "label": "North of Star Farm Beach",
+      "direction": "hot",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-17T23:04:21+00:00",
+      "sources": [
+        {
+          "title": "North of Star Farm Beach",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzc2ql/north_of_star_farm_beach/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T23:04:21+00:00",
+          "comments": null
+        },
+        {
+          "title": "Massive Upgrade at Oakledge - Goodbye North Beach",
+          "url": "https://www.reddit.com/r/burlington/comments/1uyff7y/massive_upgrade_at_oakledge_goodbye_north_beach/",
+          "sub": "r/burlington",
+          "when": "2026-07-16T23:03:44+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "dog-dogs-leash",
       "label": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs…",
       "direction": "hot",
@@ -105,25 +129,49 @@
       ]
     },
     {
-      "id": "bike-car-crashed",
-      "label": "Pine street Vehicle Crash with E-Bike incident report",
+      "id": "distortion-social-967",
+      "label": "Social distortion tickets x3",
       "direction": "hot",
       "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-16T23:03:44+00:00",
+      "last_activity": "2026-07-17T23:04:21+00:00",
       "sources": [
         {
-          "title": "Pine street Vehicle Crash with E-Bike incident report",
-          "url": "https://www.reddit.com/r/burlington/comments/1uydxcp/pine_street_vehicle_crash_with_ebike_incident/",
+          "title": "Social distortion tickets x3",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzakyr/social_distortion_tickets_x3/",
           "sub": "r/burlington",
-          "when": "2026-07-16T23:03:44+00:00",
+          "when": "2026-07-17T23:04:21+00:00",
           "comments": null
         },
         {
-          "title": "Car crashed onto sidewalk/bike path on Pine st",
-          "url": "https://www.reddit.com/r/burlington/comments/1uyanxx/car_crashed_onto_sidewalkbike_path_on_pine_st/",
+          "title": "Social Distortion Ticket",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz5xek/social_distortion_ticket/",
           "sub": "r/burlington",
-          "when": "2026-07-16T20:02:13+00:00",
+          "when": "2026-07-17T20:04:01+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "ice-joan-lorenzo",
+      "label": "Yesterday’s march for Lorenzo & Joan",
+      "direction": "hot",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-17T20:04:01+00:00",
+      "sources": [
+        {
+          "title": "Yesterday’s march for Lorenzo & Joan",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz6f8h/yesterdays_march_for_lorenzo_joan/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T20:04:01+00:00",
+          "comments": null
+        },
+        {
+          "title": "Yesterday’s march for Lorenzo & Joan",
+          "url": "https://www.reddit.com/r/vermont/comments/1uz6geq/yesterdays_march_for_lorenzo_joan/",
+          "sub": "r/vermont",
+          "when": "2026-07-17T19:04:39+00:00",
           "comments": null
         }
       ]
@@ -168,51 +216,17 @@
           "comments": null
         }
       ]
-    },
-    {
-      "id": "rep-always-balint",
-      "label": "A+ Trolling from our Rep.",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-17T13:04:32+00:00",
-      "sources": [
-        {
-          "title": "A+ Trolling from our Rep.",
-          "url": "https://www.reddit.com/r/vermont/comments/1uyxfle/a_trolling_from_our_rep/",
-          "sub": "r/vermont",
-          "when": "2026-07-17T13:04:32+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "there-adults-almost",
-      "label": "A-Dog Skate Park",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-16T20:02:13+00:00",
-      "sources": [
-        {
-          "title": "A-Dog Skate Park",
-          "url": "https://www.reddit.com/r/burlington/comments/1uycksm/adog_skate_park/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T20:02:13+00:00",
-          "comments": null
-        }
-      ]
     }
   ],
   "highlights": [
     {
       "slot": "funniest",
       "slot_label": "Funniest local post",
-      "title": "Clean air fee",
-      "url": "https://www.reddit.com/r/vermont/comments/1uylbhs/clean_air_fee/",
-      "sub": "r/vermont",
-      "when": "2026-07-17T13:04:32+00:00",
-      "blurb": "Ah yes. As I breathe in all the smoke from wildfires I have to pay a clean air fee Edit: this is a joke. I am well aware that we cannot…",
+      "title": "North of Star Farm Beach",
+      "url": "https://www.reddit.com/r/burlington/comments/1uzc2ql/north_of_star_farm_beach/",
+      "sub": "r/burlington",
+      "when": "2026-07-17T23:04:21+00:00",
+      "blurb": "What’s up with all the naked dudes north of star farm beach? Was a little surprised walking my dog LOL. Is this like a thing?",
       "comments": null,
       "unverified": false
     },
@@ -285,10 +299,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 125,
+    "posts_scanned": 121,
     "per_source": {
-      "r/burlington": 60,
-      "r/vermont": 65
+      "r/burlington": 61,
+      "r/vermont": 60
     }
   }
 }
