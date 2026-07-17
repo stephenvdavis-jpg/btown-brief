@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-17T11:09:00+00:00",
+ "updated": "2026-07-17T11:58:41+00:00",
  "sections_updated": {
-  "now": "2026-07-17T11:09:00+00:00",
-  "forecast": "2026-07-17T11:09:00+00:00",
-  "hourly": "2026-07-17T11:09:00+00:00",
-  "alerts": "2026-07-17T11:09:00+00:00",
-  "afd": "2026-07-17T11:09:00+00:00",
-  "lake_forecast": "2026-07-17T11:09:00+00:00",
-  "lake_gage": "2026-07-17T11:09:00+00:00",
-  "air": "2026-07-17T11:09:00+00:00",
-  "sun": "2026-07-17T11:09:00+00:00",
-  "models": "2026-07-17T11:09:00+00:00"
+  "now": "2026-07-17T11:58:41+00:00",
+  "forecast": "2026-07-17T11:58:41+00:00",
+  "hourly": "2026-07-17T11:58:41+00:00",
+  "alerts": "2026-07-17T11:58:41+00:00",
+  "afd": "2026-07-17T11:58:41+00:00",
+  "lake_forecast": "2026-07-17T11:58:41+00:00",
+  "lake_gage": "2026-07-17T11:58:41+00:00",
+  "air": "2026-07-17T11:58:41+00:00",
+  "sun": "2026-07-17T11:58:41+00:00",
+  "models": "2026-07-17T11:58:41+00:00"
  },
  "now": {
-  "observed_at": "2026-07-17T10:50:00+00:00",
+  "observed_at": "2026-07-17T11:40:00+00:00",
   "station": "KBTV",
-  "description": null,
-  "temp_f": 64,
-  "feels_like_f": 64,
-  "humidity": 56,
-  "dewpoint_f": 48,
-  "wind_mph": 7,
+  "description": "Clear",
+  "temp_f": 66,
+  "feels_like_f": 66,
+  "humidity": 49,
+  "dewpoint_f": 46,
+  "wind_mph": 9,
   "wind_gust_mph": null,
   "wind_dir": "NW"
  },
@@ -495,14 +495,14 @@
   ]
  },
  "afd": {
-  "issued": "2026-07-17T06:41:00+00:00",
+  "issued": "2026-07-17T11:08:00+00:00",
   "key_messages": [
    "Thunderstorms and heavy rain expected Saturday afternoon and evening.",
    "Seasonable weather and intervals of wildfire smoke expected over the next few days.",
    "Frontal passages bring chances for showers on both Tuesday and Wednesday before high pressure dominates our weather on Thursday and Friday."
   ],
   "what_changed": "As of 240 AM EDT Friday... The severe threat for Saturday has increased.",
-  "raw": "\n000\nFXUS61 KBTV 170641\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n241 AM EDT Fri Jul 17 2026\n\n.WHAT HAS CHANGED...\nAs of 240 AM EDT Friday...\n\nThe severe threat for Saturday has increased.\n\n&&\n\n.KEY MESSAGES...\nAs of 240 AM EDT Friday...\n\n1. Thunderstorms and heavy rain expected Saturday afternoon and \nevening. \n\n2. Seasonable weather and intervals of wildfire smoke expected \nover the next few days. \n\n3. Frontal passages bring chances for showers on both Tuesday \nand Wednesday before high pressure dominates our weather on Thursday \nand Friday. \n\n&&\n\n.DISCUSSION...\nAs of 240 AM EDT Friday...\n\nKEY MESSAGE 1: An anomalously strong low for the time of year (sub 1000 \nmb) looks to take a general track up the St. Lawrence Valley or \nclose to that Saturday into Saturday night. Showers will be more \nwidespread close to the international border on Saturday as the warm \nfront and center of the low would be closer. A powerful cold front \nwill come through in the afternoon and evening, bringing a round of \nshowers and storms. The airmass ahead of the system will be \nrelatively cool and not conducive to high instability. Mean HREF \nSBCAPE values are around 500 J during this time frame. However, due \nto the strength of the low, there will be strong shear and dynamics. \n0-6 KM shear is forecast to be in the 40-50 KT range. One thing \nlacking will be a significant surface wind shift/convergence with \nthe front, with southwesterly synoptic flow expected behind the \nfront until the center of the surface low pushes east. Height falls \nwill be quite significant though. Based on this information, the SPC \nupgraded the region to a split between a slight and marginal risk. \nThese storms will contain heavy rain but with strong background \nflow, the storms will move quickly and minimize the flooding threat. \nThere also does not look to be a stalled axis of rain along the warm \nfront on the front side that often occurs in these setups. However, \nthe threat for flooding cannot be completely ruled out if areas see \nmultiple rounds of heavy rain, with the greatest threat of that \nbeing along the international border.\n\nKEY MESSAGE 2: Highs look to be in the 70s to mid 80s over the next few \ndays, with slightly cooler conditions on Sunday. Lows will generally \nbe in the 50s and dew points will be relatively low. The wildfire \nsmoke makes a return for Saturday as flow becomes westerly to \nsouthwesterly, bringing the smoke that is currently over the Midwest \nand Great Lakes into the region. Thankfully, behind the cold front \non Saturday, winds eventually become northwesterly and push the \nsmoke back to the south. The source of the smoke is fires in western \nOntario.\n\nKEY MESSAGE 3: Showers wills spread into the region on Tuesday as a \nwarm front lifts across our area associated with a low pressure \nsystem which is north of the Great Lakes. Chance for precipitation \nwill continue into Wednesday as cold front crosses our area \nassociated with the same low pressure system. Will need to monitor \nas we get closer for potential for strong or severe storms and also \nfor heavy rainfall. Drier weather is then expected for both Thursday \nand Friday as high pressure ridge builds over our area.\n\n&&\n\n.AVIATION /06Z FRIDAY THROUGH TUESDAY/...\nThrough 06Z Saturday...Through 06Z Saturday...Currently LIFR\nconditions at RUT in fog. Seems fog will remain until it lifts\naround 12z, but should be limited to just RUT as other sites have\nhad drier air move into the area. Otherwise, light winds and VFR\nconditions at all sites.\n\nOutlook...\n\nSaturday: VFR. Definite SHRA, Chance TSRA.\nSaturday Night: Mainly MVFR, with areas VFR possible. Definite\nSHRA, Chance TSRA.\nSunday: Mainly VFR, with local MVFR possible. Slight chance SHRA.\nSunday Night: VFR. NO SIG WX.\nMonday: VFR. NO SIG WX.\nMonday Night: VFR. Slight chance SHRA.\nTuesday: Mainly VFR, with local MVFR possible. Chance SHRA,\nSlight chance TSRA.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Myskowski\nDISCUSSION...Myskowski/Neiles\nAVIATION...Neiles\n"
+  "raw": "\n000\nFXUS61 KBTV 171108\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n708 AM EDT Fri Jul 17 2026\n\n.WHAT HAS CHANGED...\nAs of 240 AM EDT Friday...\n\nThe severe threat for Saturday has increased.\n\n&&\n\n.KEY MESSAGES...\nAs of 240 AM EDT Friday...\n\n1. Thunderstorms and heavy rain expected Saturday afternoon and \nevening. \n\n2. Seasonable weather and intervals of wildfire smoke expected \nover the next few days. \n\n3. Frontal passages bring chances for showers on both Tuesday \nand Wednesday before high pressure dominates our weather on Thursday \nand Friday.\n\n&&\n\n.DISCUSSION...\nAs of 240 AM EDT Friday...\n\nKEY MESSAGE 1: An anomalously strong low for the time of year (sub 1000 \nmb) looks to take a general track up the St. Lawrence Valley or \nclose to that Saturday into Saturday night. Showers will be more \nwidespread close to the international border on Saturday as the warm \nfront and center of the low would be closer. A powerful cold front \nwill come through in the afternoon and evening, bringing a round of \nshowers and storms. The airmass ahead of the system will be \nrelatively cool and not conducive to high instability. Mean HREF \nSBCAPE values are around 500 J during this time frame. However, due \nto the strength of the low, there will be strong shear and dynamics. \n0-6 KM shear is forecast to be in the 40-50 KT range. One thing \nlacking will be a significant surface wind shift/convergence with \nthe front, with southwesterly synoptic flow expected behind the \nfront until the center of the surface low pushes east. Height falls \nwill be quite significant though. Based on this information, the SPC \nupgraded the region to a split between a slight and marginal risk. \nThese storms will contain heavy rain but with strong background \nflow, the storms will move quickly and minimize the flooding threat. \nThere also does not look to be a stalled axis of rain along the warm \nfront on the front side that often occurs in these setups. However, \nthe threat for flooding cannot be completely ruled out if areas see \nmultiple rounds of heavy rain, with the greatest threat of that \nbeing along the international border.\n\nKEY MESSAGE 2: Highs look to be in the 70s to mid 80s over the next few \ndays, with slightly cooler conditions on Sunday. Lows will generally \nbe in the 50s and dew points will be relatively low. The wildfire \nsmoke makes a return for Saturday as flow becomes westerly to \nsouthwesterly, bringing the smoke that is currently over the Midwest \nand Great Lakes into the region. Thankfully, behind the cold front \non Saturday, winds eventually become northwesterly and push the \nsmoke back to the south. The source of the smoke is fires in western \nOntario.\n\nKEY MESSAGE 3: Showers wills spread into the region on Tuesday as a \nwarm front lifts across our area associated with a low pressure \nsystem which is north of the Great Lakes. Chance for precipitation \nwill continue into Wednesday as cold front crosses our area \nassociated with the same low pressure system. Will need to monitor \nas we get closer for potential for strong or severe storms and also \nfor heavy rainfall. Drier weather is then expected for both Thursday \nand Friday as high pressure ridge builds over our area.\n\n&&\n\n.AVIATION /12Z FRIDAY THROUGH TUESDAY/...\nThrough 12Z Saturday...Currently LIFR conditions at RUT in fog.\nSeems fog will remain until it lifts around 13z, but should be \nlimited to just RUT as other sites have had drier air move into \nthe area. Otherwise, light winds and VFR conditions at all \nsites.\n\nOutlook...\n\nSaturday: VFR. Chance SHRA, Chance TSRA.\nSaturday Night: Mainly MVFR, with areas VFR possible. Chance\nSHRA.\nSunday: Mainly VFR, with local MVFR possible. NO SIG WX.\nSunday Night: VFR. NO SIG WX.\nMonday: VFR. NO SIG WX.\nMonday Night: VFR. NO SIG WX.\nTuesday: Mainly VFR, with areas MVFR possible. Likely SHRA,\nChance TSRA.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Myskowski\nDISCUSSION...Neiles/Myskowski\nAVIATION...Neiles\n"
  },
  "lake_forecast": {
   "issued": "2026-07-17T06:16:00+00:00",
@@ -750,10 +750,10 @@
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 28,
+  "aqi": 31,
   "category": "Good",
   "pollutant": "PM2.5",
-  "observed": "07/17/26 6:00",
+  "observed": "07/17/26 7:00",
   "discussion": "On Friday, July 17th, expect generally good air quality across Vermont, as smoke from wildfires is expected to be blown southward of the state by a cold frontal passage."
  },
  "sun": {
@@ -816,7 +816,7 @@
      "ICON": 75
     },
     "precip_in": {
-     "GFS": 0.13,
+     "GFS": 0.01,
      "Euro": 0.02,
      "ICON": 0.0
     },
