@@ -11,27 +11,27 @@
    "Blanchard Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-17T12:01:00+00:00"
+    "resultTime": "2026-07-17T16:43:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-17T12:02:00+00:00"
+    "resultTime": "2026-07-17T16:44:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T18:38:00+00:00"
+    "resultTime": "2026-07-17T16:38:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-17T11:59:00+00:00"
+    "resultTime": "2026-07-17T16:12:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-17T12:00:00+00:00"
+    "resultTime": "2026-07-17T16:12:00+00:00"
    },
    "North Beach North": {
     "status": "open",
@@ -46,7 +46,7 @@
    "North Shore Natural Area": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-16T14:50:00+00:00"
+    "resultTime": "2026-07-17T16:01:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
@@ -578,6 +578,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=212269",
+      "title": "FBI Most Wanted Suspect Captured in Alburgh",
+      "link": "https://www.sevendaysvt.com/news/fbi-most-wanted-suspect-captured-in-alburgh/",
+      "ts": "2026-07-17T17:10:59+00:00",
+      "summary": "Nitish Kaushal could face a life sentence for his alleged involvement in extortion, kidnappings, murders, and international drug and weapons trafficking. The post FBI Most Wanted Suspect Captured in Alburgh appeared first on Seven Days . (Image: U.S. Department of Justice)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/news/news-quiz-what-did-the-owner-landlord-of-dozens-of-neon-colored-houses-in-burlingtons-old-north-end-announce-he-would-do-36539606/",
       "title": "News Quiz: Which Vermont philanthropic organization said it would shut down at the end of the year?",
       "link": "https://www.sevendaysvt.com/news/newsquiz/news-quiz/",
@@ -639,13 +646,6 @@
       "link": "https://www.sevendaysvt.com/legal-notices/requestforproposals/notice-of-invitation-to-bid-chittenden-county-rpc-lake-forest-condos-stormwater-improvement-project-sealed-bids-due-100-p-m-friday-august-7-2026/",
       "ts": "2026-07-15T19:30:00+00:00",
       "summary": "The Chittenden County Regional Planning Commission (CCRPC) invites qualified contractors to prepare lump sum bids for the construction of the Stormwater Management Improvement Project located on the Lake Forest Condominiums property off Lake Forest Drive in Burlington, Vermont, herein referred to as the Project. The Project includes all work necessary to provide stormwater treatment improvements ["
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212157",
-      "title": "Act 250 Notice, Minor Application 4c1040r-3a-1, 10 V.S.A. §§ 6000 – 6111",
-      "link": "https://www.sevendaysvt.com/legal-notices/act-250-notice-minor-application-4c1040r-3a-1-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
-      "ts": "2026-07-15T19:30:00+00:00",
-      "summary": "Application 4C1040R-3A-1 from Asch Enterprises, LLC, 2 Tigan Street, Winooski, VT 05404 was received on June 29, 2026 and deemed complete on July 6, 2026. The project is generally described as construction of a new 50 space parking lot along with associated lighting, landscaping and stormwater improvements. The project is located in E-Commerce Park at [ ] The post Act 250 Notice, Minor Application"
      }
     ]
    },
@@ -866,6 +866,13 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/score-for-sustainability-behind-eco-conscious-design-vermont-green-fc-soccer-kits",
+      "title": "A score for sustainability: Behind the eco-conscious design of the Vermont Green’s soccer kits",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/score-for-sustainability-behind-eco-conscious-design-vermont-green-fc-soccer-kits",
+      "ts": "2026-07-17T17:04:20+00:00",
+      "summary": "As the issue of sustainability in soccer takes the pitch, the local soccer team is accepting the challenge of designing soccer kits that prioritize a sustainable, circular economy."
+     },
+     {
       "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-17/vermonts-prisons-not-as-staffed-as-we-want-to-be-says-corrections-commissioner",
       "title": "Prisons not 'as staffed as we want to be,' says Vermont corrections commissioner",
       "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-17/vermonts-prisons-not-as-staffed-as-we-want-to-be-says-corrections-commissioner",
@@ -873,18 +880,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -941,18 +948,25 @@
       "link": "https://www.vermontpublic.org/2026-07-14/your-gaze-is-unique-as-fingerprint-says-dartmouth-study-eye-tracking",
       "ts": "2026-07-14T21:32:25+00:00",
       "summary": "New research from Dartmouth says the way we look around new environments reveals information about our internal priorities and memories."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-14/law-fire-chiefs-forest-fire-wardens",
-      "title": "New law makes fire chiefs the new forest fire wardens",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-14/law-fire-chiefs-forest-fire-wardens",
-      "ts": "2026-07-14T20:56:32+00:00",
-      "summary": "A new law aimed at modernizing Vermont's wildland fire response is inspiring varied reactions from rural fire chiefs."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "HN3S7TE33RBJRGNU4HHGV7CQOM",
+      "title": "NH man charged with assault with deadly weapon after Thursday night attack",
+      "link": "https://www.wcax.com/2026/07/17/nh-man-charged-with-assault-with-deadly-weapon-after-thursday-night-attack/",
+      "ts": "2026-07-17T17:05:57+00:00",
+      "summary": "A Bath, New Hampshire, man faces multiple charges after police say he assaulted another man with a blunt object Thursday night."
+     },
+     {
+      "id": "MBAA2MTDWRHVHLF7L7BTCJTAZI",
+      "title": "Teen missing from Salisbury area found safe",
+      "link": "https://www.wcax.com/2026/07/17/teen-missing-salisbury-area-found-safe/",
+      "ts": "2026-07-17T16:35:16+00:00",
+      "summary": "A 16-year-old had been reported missing in Salisbury"
+     },
      {
       "id": "X6Y25AOSORAKPAWBBVEEDV2DWE",
       "title": "Drowning victim discovered in Lake Champlain",
@@ -966,13 +980,6 @@
       "link": "https://www.wcax.com/2026/07/17/beer-here-starting-friday-night-burlington/",
       "ts": "2026-07-17T12:48:09+00:00",
       "summary": "The Vermont Brewers Festival returns Friday night for its 33rd year"
-     },
-     {
-      "id": "MBAA2MTDWRHVHLF7L7BTCJTAZI",
-      "title": "Teen missing from Salisbury area found safe",
-      "link": "https://www.wcax.com/2026/07/17/teen-missing-salisbury-area-found-safe/",
-      "ts": "2026-07-17T11:59:36+00:00",
-      "summary": "A 16-year-old had been reported missing in Salisbury"
      },
      {
       "id": "HX5TG66ZSJEPHA3FANHTT5ZCCQ",
@@ -1295,18 +1302,53 @@
       "link": "https://www.wcax.com/2026/07/15/poll-should-daylight-saving-time-be-permanent/",
       "ts": "2026-07-15T16:33:27+00:00",
       "summary": "Answer our poll to see what people in our region are saying about this possible change to the way we keep time."
-     },
-     {
-      "id": "RFYXF3RYNZDLXBMVHW2WLQP7II",
-      "title": "Ben and Jerry’s Foundation may close due to funding cuts",
-      "link": "https://www.wcax.com/2026/07/15/ben-jerrys-foundation-may-close-due-funding-cuts/",
-      "ts": "2026-07-15T16:21:16+00:00",
-      "summary": "The Ben and Jerry’s Foundation will shut down at the end of the year unless it wins a high-stakes legal fight over funding"
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73171811",
+      "title": "Woman taken into ICE custody at Logan Airport after attending Noah Kahan concert",
+      "link": "https://www.mynbc5.com/article/logan-airport-ice-detained-woman-noah-kahan-concert/73171811",
+      "ts": "2026-07-17T17:24:19+00:00",
+      "summary": "A woman visiting Boston from Miami was taken into ICE custody last week at Logan Airport after attending the Noah Kahan concert at Fenway Park."
+     },
+     {
+      "id": "72804193",
+      "title": "Rutland County Agricultural Society shares plan to upgrade old infrastructure at Vermont State Fair",
+      "link": "https://www.mynbc5.com/article/rutland-county-agricultural-society-shares-plan-to-upgrade-old-infrastructure-at-vermont-state-fair/72804193",
+      "ts": "2026-07-17T17:13:00+00:00",
+      "summary": "Vermont State Fair staff say the old entrance at the fairgrounds in Rutland is in need of repairs to preserve its historic gatehouse"
+     },
+     {
+      "id": "72808853",
+      "title": "Meteorite that landed in New Jersey contains otherworldly chemistry, researchers say",
+      "link": "https://www.mynbc5.com/article/meteorite-that-landed-in-new-jersey-contains-otherworldly-chemistry-researchers-say/72808853",
+      "ts": "2026-07-17T16:46:00+00:00",
+      "summary": "A meteorite that crashed into a New Jersey bedroom in the summer of 2024 may hold a clue to ancient life on Earth."
+     },
+     {
+      "id": "72839654",
+      "title": "Beautiful sunshine Friday as smoke temporarily clears",
+      "link": "https://www.mynbc5.com/article/beautiful-sunshine-friday-as-smoke-temporarily-clears-7-17-26/72839654",
+      "ts": "2026-07-17T16:30:00+00:00",
+      "summary": "Showers and storms likely Saturday as smoke returns"
+     },
+     {
+      "id": "73171180",
+      "title": "Powerful 7.3-magnitude earthquake hits off Mexico’s southern coast",
+      "link": "https://www.mynbc5.com/article/mexico-earthquake-southern-coast/73171180",
+      "ts": "2026-07-17T16:22:00+00:00",
+      "summary": "A powerful earthquake in southern Mexico shook nearby countries Guatemala and El Salvador on Friday, with the U.S. Geological Survey measuring its preliminary magnitude at 7.3."
+     },
+     {
+      "id": "73170782",
+      "title": "Woman taken into ICE custody at airport after attending Noah Kahan concert in Boston",
+      "link": "https://www.mynbc5.com/article/logan-airport-ice-detained-woman-noah-kahan-concert/73170782",
+      "ts": "2026-07-17T15:56:00+00:00",
+      "summary": "A woman visiting Boston from Miami was taken into ICE custody last week at Logan Airport after attending the Noah Kahan concert at Fenway Park."
+     },
      {
       "id": "73168569",
       "title": "Vermont Brewer's Festival returns for 33rd year",
@@ -1364,18 +1406,18 @@
       "summary": "Friday marks the 50th anniversary of the summer Olympics in Montreal, which is remembered for the first-ever “Perfect 10” score on the uneven bars by Romanian gymnast Nadia Comaneci."
      },
      {
-      "id": "72902656",
-      "title": "Relatives say ICE officer in deadly Maine shooting had history of violent behavior",
-      "link": "https://www.mynbc5.com/article/ice-officer-maine-shooting-history-family-records/72902656",
-      "ts": "2026-07-17T14:31:00+00:00",
-      "summary": "The Immigration and Customs Enforcement officer who shot a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, according to close relatives who spoke to The Associated Press."
-     },
-     {
       "id": "72551882",
       "title": "Flash floods in Texas leave at least 2 dead in region devastated a year ago",
       "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
       "ts": "2026-07-17T14:31:00+00:00",
       "summary": "Authorities in Texas have rescued hundreds of stranded drivers and people trapped in homes, and at least two people have died due to catastrophic flooding."
+     },
+     {
+      "id": "72902656",
+      "title": "Relatives say ICE officer in deadly Maine shooting had history of violent behavior",
+      "link": "https://www.mynbc5.com/article/ice-officer-maine-shooting-history-family-records/72902656",
+      "ts": "2026-07-17T14:31:00+00:00",
+      "summary": "The Immigration and Customs Enforcement officer who shot a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, according to close relatives who spoke to The Associated Press."
      },
      {
       "id": "73169319",
@@ -1404,48 +1446,6 @@
       "link": "https://www.mynbc5.com/article/fatal-drowning-north-hero/71935074",
       "ts": "2026-07-17T13:01:00+00:00",
       "summary": "The body of a missing swimmer has been recovered in North Hero, according to police."
-     },
-     {
-      "id": "73168864",
-      "title": "Woman gets sick from cyclospora parasite while on honeymoon",
-      "link": "https://www.mynbc5.com/article/woman-gets-sick-from-cyclospora-parasite-while-on-honeymoon/73168864",
-      "ts": "2026-07-17T12:51:00+00:00",
-      "summary": "Woman suffers symptoms of diarrhea-causing parasite cyclospora while on honeymoon: \"Our vows said in sickness and in health, so we're just getting an early start on that\""
-     },
-     {
-      "id": "73168445",
-      "title": "US shortens foreign journalist visas, China warns of reciprocal countermeasures",
-      "link": "https://www.mynbc5.com/article/trump-administration-cuts-foreign-journalist-visas/73168445",
-      "ts": "2026-07-17T11:35:00+00:00",
-      "summary": "The Trump administration is drastically shortening visas for foreign journalists in the U.S. to 240 days, and cut those for Chinese journalists to only 90 days."
-     },
-     {
-      "id": "73166514",
-      "title": "US launches attack on Iran's bridges as strikes continue for 6th straight night",
-      "link": "https://www.mynbc5.com/article/us-launches-attack-on-iran-bridges-strikes-continue-6th-straight-night/73166514",
-      "ts": "2026-07-17T11:30:00+00:00",
-      "summary": "The U.S. launched strikes on Iranian infrastructure and military targets, while Iran retaliated with attacks on Qatar and a tanker in the Strait of Hormuz."
-     },
-     {
-      "id": "73167877",
-      "title": "Prediction markets allow people to bet on wildfires. Experts fear it will fuel arson",
-      "link": "https://www.mynbc5.com/article/prediction-markets-wildfire-betting-arson/73167877",
-      "ts": "2026-07-17T10:58:00+00:00",
-      "summary": "Some prediction markets allow people to bet on wildfires, as well as other extreme weather events. Experts are sounding the alarm."
-     },
-     {
-      "id": "73165226",
-      "title": "Trump claims foreign influence in 2020 election during primetime address, releases declassified files",
-      "link": "https://www.mynbc5.com/article/trump-claims-foreign-influence-2020-election-releases-declassified-documents/73165226",
-      "ts": "2026-07-17T10:46:00+00:00",
-      "summary": "President Donald Trump claimed foreign influence in the 2020 election during a primetime address, announced the release of declassified intelligence, and called for new voting legislation."
-     },
-     {
-      "id": "73167705",
-      "title": "Trump firm plans to sell priority access to Truth Social posts, possibly his own",
-      "link": "https://www.mynbc5.com/article/trump-media-truth-psi-high-speed-access/73167705",
-      "ts": "2026-07-17T10:26:00+00:00",
-      "summary": "President Trump's media company is planning to charge for special high-speed access to Truth Social posts, including possibly his own, affecting national security and financial markets."
      }
     ]
    },
@@ -1527,6 +1527,54 @@
  },
  "reddit-burlington": {
   "posts": [
+   {
+    "id": "1uz4622",
+    "title": "A sunny smoke free Friday for the Main Street Block Party, Brewers Fest, and Brownell Library's 100th birthday, a stacked Saturday with steamroller printmaking, a gem and fossil show, and a sold out playoff match, and a Sunday built around Argentina vs Spain, this weekend has tons to explore",
+    "url": "https://www.reddit.com/r/burlington/comments/1uz4622/a_sunny_smoke_free_friday_for_the_main_street/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-17T17:04:49+00:00"
+   },
+   {
+    "id": "1uz3wxt",
+    "title": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs in Leashed Areas",
+    "url": "https://www.reddit.com/r/burlington/comments/1uz3wxt/photograph_share_shame_dog_owners_who_dont_leash/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-17T17:04:49+00:00"
+   },
+   {
+    "id": "1uz3pjv",
+    "title": "ESA counted against limit",
+    "url": "https://www.reddit.com/r/burlington/comments/1uz3pjv/esa_counted_against_limit/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-17T17:04:49+00:00"
+   },
+   {
+    "id": "1uz3gio",
+    "title": "Free carpet",
+    "url": "https://www.reddit.com/r/burlington/comments/1uz3gio/free_carpet/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-17T17:04:49+00:00"
+   },
+   {
+    "id": "1uz1bze",
+    "title": "Fellow Dog Owners….",
+    "url": "https://www.reddit.com/r/burlington/comments/1uz1bze/fellow_dog_owners/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-17T17:04:49+00:00"
+   },
+   {
+    "id": "1uz18vo",
+    "title": "Stop electing officials that campaign not do their job. \"The two Democrats running for Chittenden County sheriff couldn’t be more different\"",
+    "url": "https://www.reddit.com/r/burlington/comments/1uz18vo/stop_electing_officials_that_campaign_not_do/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-17T17:04:49+00:00"
+   },
    {
     "id": "1uz0bxv",
     "title": "Boycott Ben & Jerry's!",
@@ -1638,54 +1686,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-16T20:02:13+00:00"
-   },
-   {
-    "id": "1uy8ri6",
-    "title": "Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
-    "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-16T20:02:13+00:00"
-   },
-   {
-    "id": "1uy7isk",
-    "title": "Best cheap food in Burlington",
-    "url": "https://www.reddit.com/r/burlington/comments/1uy7isk/best_cheap_food_in_burlington/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-16T17:01:44+00:00"
-   },
-   {
-    "id": "1uy6qit",
-    "title": "Lash lift and tint?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uy6qit/lash_lift_and_tint/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-16T17:01:44+00:00"
-   },
-   {
-    "id": "1uy3qf9",
-    "title": "Thrift stores/cheap places to acquire swim trunks?",
-    "url": "https://www.reddit.com/r/burlington/comments/1uy3qf9/thrift_storescheap_places_to_acquire_swim_trunks/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-16T14:02:42+00:00"
-   },
-   {
-    "id": "1uy1kyw",
-    "title": "Household battery disposal",
-    "url": "https://www.reddit.com/r/burlington/comments/1uy1kyw/household_battery_disposal/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-16T14:02:42+00:00"
-   },
-   {
-    "id": "1uy1bnv",
-    "title": "Hotel Champlain",
-    "url": "https://www.reddit.com/r/burlington/comments/1uy1bnv/hotel_champlain/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-16T14:02:42+00:00"
    }
   ]
  },

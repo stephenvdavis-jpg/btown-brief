@@ -1,50 +1,6 @@
 {
- "generated": "2026-07-17T15:51:11+00:00",
+ "generated": "2026-07-17T17:35:01+00:00",
  "events": [
-  {
-   "ts": "2026-07-10T17:00:04+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Who makes the best pina colada in Burlington?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1usr0zz/who_makes_the_best_pina_colada_in_burlington/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-10T17:00:04+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Anywhere in the area to buy a nice fedora hat?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1usqrwq/anywhere_in_the_area_to_buy_a_nice_fedora_hat/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-10T17:00:04+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Savatree paper mail",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uspwmf/savatree_paper_mail/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-10T17:00:04+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: chicken update…",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uspeaz/chicken_update/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-10T21:56:00+00:00",
    "category": "events",
@@ -3617,6 +3573,83 @@
    "url": "https://www.mynbc5.com/article/vermont-brewers-festival-2026/73168569",
    "source": "mynbc5",
    "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T17:04:49+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: A sunny smoke free Friday for the Main Street Block Party, Brewers Fest, and Brownell Library's 100th birthday, a stacked Saturday with steamroller printmaking, a gem and fossil show, and a sold out playoff match, and a Sunday built around Argentina vs Spain, this weekend has tons to explore",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uz4622/a_sunny_smoke_free_friday_for_the_main_street/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T17:04:49+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs in Leashed Areas",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uz3wxt/photograph_share_shame_dog_owners_who_dont_leash/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T17:04:49+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: ESA counted against limit",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uz3pjv/esa_counted_against_limit/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T17:04:49+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Free carpet",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uz3gio/free_carpet/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T17:04:49+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Fellow Dog Owners….",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uz1bze/fellow_dog_owners/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T17:04:49+00:00",
+   "category": "chatter",
+   "headline": "New on r/burlington: Stop electing officials that campaign not do their job. \"The two Democrats running for Chittenden County sheriff couldn’t be more different\"",
+   "detail": "",
+   "url": "https://www.reddit.com/r/burlington/comments/1uz18vo/stop_electing_officials_that_campaign_not_do/",
+   "source": "reddit-burlington",
+   "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T17:10:59+00:00",
+   "category": "news",
+   "headline": "FBI Most Wanted Suspect Captured in Alburgh",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/news/fbi-most-wanted-suspect-captured-in-alburgh/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
    "priority": 1,
    "kind": "added"
   }
