@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-16T23:30:58+00:00",
+  "updated": "2026-07-17T11:54:45+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
+    {
+      "id": "article-campaign-first",
+      "label": "Brickner Campaign Reports Broad, Local Support In First…",
+      "direction": "hot",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-17T01:04:29+00:00",
+      "sources": [
+        {
+          "title": "Brickner Campaign Reports Broad, Local Support In First Campaign Finance Filing",
+          "url": "https://www.reddit.com/r/vermont/comments/1uyjrqv/brickner_campaign_reports_broad_local_support_in/",
+          "sub": "r/vermont",
+          "when": "2026-07-17T01:04:29+00:00",
+          "comments": null
+        },
+        {
+          "title": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
+          "url": "https://www.reddit.com/r/vermont/comments/1ux6hso/second_homes_first_a_support_group_for_citybased/",
+          "sub": "r/vermont",
+          "when": "2026-07-15T16:02:20+00:00",
+          "comments": null
+        }
+      ]
+    },
     {
       "id": "bike-car-crashed",
       "label": "Pine street Vehicle Crash with E-Bike incident report",
@@ -31,7 +55,7 @@
     {
       "id": "last-night-band",
       "label": "Seth Yacovone Band was bringing it last night at the Winooski…",
-      "direction": "hot",
+      "direction": "rising",
       "posts": 2,
       "comments": null,
       "last_activity": "2026-07-16T20:02:13+00:00",
@@ -48,30 +72,6 @@
           "url": "https://www.reddit.com/r/vermont/comments/1ux0sbe/did_anyone_get_any_severe_weather_last_night/",
           "sub": "r/vermont",
           "when": "2026-07-15T10:03:12+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "smoke-wildfire-breathe",
-      "label": "US Wildfire Smoke Map",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-16T01:02:50+00:00",
-      "sources": [
-        {
-          "title": "US Wildfire Smoke Map",
-          "url": "https://www.reddit.com/r/vermont/comments/1uxlta8/us_wildfire_smoke_map/",
-          "sub": "r/vermont",
-          "when": "2026-07-16T01:02:50+00:00",
-          "comments": null
-        },
-        {
-          "title": "Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
-          "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
-          "sub": "r/burlington",
-          "when": "2026-07-15T17:02:19+00:00",
           "comments": null
         }
       ]
@@ -94,6 +94,23 @@
       ]
     },
     {
+      "id": "here-carpenter-moving",
+      "label": "Are people still desperate for contractors in this state, or…",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-17T01:04:29+00:00",
+      "sources": [
+        {
+          "title": "Are people still desperate for contractors in this state, or has something changed?",
+          "url": "https://www.reddit.com/r/vermont/comments/1uyfov2/are_people_still_desperate_for_contractors_in/",
+          "sub": "r/vermont",
+          "when": "2026-07-17T01:04:29+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "cheap-food-engagement",
       "label": "Best cheap food in Burlington",
       "direction": "rising",
@@ -111,69 +128,41 @@
       ]
     },
     {
-      "id": "gondola-ride-also",
-      "label": "Gondola ride",
+      "id": "birth-brattleboro-bye4now28",
+      "label": "Brattleboro Memorial says it needs help to keep its birth…",
       "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-16T01:02:50+00:00",
+      "last_activity": "2026-07-17T01:04:29+00:00",
       "sources": [
         {
-          "title": "Gondola ride",
-          "url": "https://www.reddit.com/r/vermont/comments/1uxnb0z/gondola_ride/",
+          "title": "Brattleboro Memorial says it needs help to keep its birth center open. Gov. Scott isn't stepping in",
+          "url": "https://www.reddit.com/r/vermont/comments/1uygeeq/brattleboro_memorial_says_it_needs_help_to_keep/",
           "sub": "r/vermont",
-          "when": "2026-07-16T01:02:50+00:00",
+          "when": "2026-07-17T01:04:29+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "hotel-champlain-front",
-      "label": "Hotel Champlain",
+      "id": "number-000-100",
+      "label": "Farmers markets per 100,000 residents, by US state",
       "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-16T14:02:42+00:00",
+      "last_activity": "2026-07-17T01:04:29+00:00",
       "sources": [
         {
-          "title": "Hotel Champlain",
-          "url": "https://www.reddit.com/r/burlington/comments/1uy1bnv/hotel_champlain/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T14:02:42+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "aaas-aas-bag",
-      "label": "Household battery disposal",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-16T14:02:42+00:00",
-      "sources": [
-        {
-          "title": "Household battery disposal",
-          "url": "https://www.reddit.com/r/burlington/comments/1uy1kyw/household_battery_disposal/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T14:02:42+00:00",
+          "title": "Farmers markets per 100,000 residents, by US state",
+          "url": "https://www.reddit.com/r/vermont/comments/1uy2z7u/farmers_markets_per_100000_residents_by_us_state/",
+          "sub": "r/vermont",
+          "when": "2026-07-17T01:04:29+00:00",
           "comments": null
         }
       ]
     }
   ],
   "highlights": [
-    {
-      "slot": "funniest",
-      "slot_label": "Funniest local post",
-      "title": "Anyone need a 4.3L V6 vortec?",
-      "url": "https://www.reddit.com/r/vermont/comments/1uvobk3/anyone_need_a_43l_v6_vortec/",
-      "sub": "r/vermont",
-      "when": "2026-07-14T04:03:42+00:00",
-      "blurb": "Hey yall I have an already pulled out 4.3L v6 vortec engine from a 2004 Chevy s10 blazer located in north hyde park with 56k miles on it…",
-      "comments": null,
-      "unverified": false
-    },
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
@@ -221,6 +210,13 @@
   ],
   "rough": [
     {
+      "title": "Mississippi woman arrested, accused of pointing loaded gun at driver on Vermont highway",
+      "url": "https://www.reddit.com/r/vermont/comments/1uyevcw/mississippi_woman_arrested_accused_of_pointing/",
+      "sub": "r/vermont",
+      "when": "2026-07-17T01:04:29+00:00",
+      "comments": null
+    },
+    {
       "title": "No exit: The inside story of a botched ICE raid in Vermont",
       "url": "https://www.reddit.com/r/burlington/comments/1uxdpbl/no_exit_the_inside_story_of_a_botched_ice_raid_in/",
       "sub": "r/burlington",
@@ -257,10 +253,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 126,
+    "posts_scanned": 121,
     "per_source": {
-      "r/burlington": 57,
-      "r/vermont": 69
+      "r/burlington": 60,
+      "r/vermont": 61
     }
   }
 }
