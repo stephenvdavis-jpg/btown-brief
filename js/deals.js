@@ -85,7 +85,9 @@
       <span class="deal-card-title">${esc(d.title)}</span>
       <span class="deal-card-when">${esc(F.dealDaysLabel(d))}${F.dealTimeLabel(d) ? ' · ' + esc(F.dealTimeLabel(d)) : ''}</span>
       <div class="deal-card-foot">
-        <span>${d.last_verified ? `Verified ${esc(d.last_verified)}` : 'Unverified'}</span>
+        <span>${d.source === 'restaurant'
+          ? `From the restaurant${d.last_verified ? ` · ${esc(d.last_verified)}` : ''}`
+          : d.last_verified ? `Verified ${esc(d.last_verified)}` : 'Unverified'}</span>
         <button class="deal-expired-btn ${reported ? 'deal-expired-done' : ''}" data-deal="${esc(d.id)}" ${reported ? 'disabled' : ''}>
           ${reported ? '✓ reported — thanks' : 'this expired?'}
         </button>
