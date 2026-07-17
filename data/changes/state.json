@@ -36,12 +36,12 @@
    "North Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-17T12:00:00+00:00"
+    "resultTime": "2026-07-17T15:44:00+00:00"
    },
    "North Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-17T12:01:00+00:00"
+    "resultTime": "2026-07-17T15:44:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -56,7 +56,7 @@
    "Texaco Beach": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-17T12:01:00+00:00"
+    "resultTime": "2026-07-17T15:44:00+00:00"
    }
   }
  },
@@ -585,6 +585,20 @@
       "summary": "Answer this question and seven others in our new weekly news quiz about Vermont news. It's quick, fun and informative. The post News Quiz: Which Vermont philanthropic organization said it would shut down at the end of the year? appeared first on Seven Days ."
      },
      {
+      "id": "https://www.sevendaysvt.com/?p=212263",
+      "title": "Obituary: Mary Lynne Tromp, 1957-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-mary-lynne-tromp-1957-2026/",
+      "ts": "2026-07-17T10:00:00+00:00",
+      "summary": "“Ohio girl at heart” loved her beloved friends and family, listening to music, and sitting in the sun The post Obituary: Mary Lynne Tromp, 1957-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212258",
+      "title": "Obituary: Suzanne J. Merchant, 1936-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-suzanne-j-merchant-1936-2026/",
+      "ts": "2026-07-17T10:00:00+00:00",
+      "summary": "Wife and mother had a quick wit and a sense of humor that brought out the best in others, and she always shared her love of Jesus The post Obituary: Suzanne J. Merchant, 1936-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212199",
       "title": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
       "link": "https://www.sevendaysvt.com/news/ben-jerrys-foundation-plans-to-shut-down-by-end-of-year/",
@@ -632,20 +646,6 @@
       "link": "https://www.sevendaysvt.com/legal-notices/act-250-notice-minor-application-4c1040r-3a-1-10-v-s-a-%c2%a7%c2%a7-6000-6111/",
       "ts": "2026-07-15T19:30:00+00:00",
       "summary": "Application 4C1040R-3A-1 from Asch Enterprises, LLC, 2 Tigan Street, Winooski, VT 05404 was received on June 29, 2026 and deemed complete on July 6, 2026. The project is generally described as construction of a new 50 space parking lot along with associated lighting, landscaping and stormwater improvements. The project is located in E-Commerce Park at [ ] The post Act 250 Notice, Minor Application"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212155",
-      "title": "State of Vermont Superior Court, Probate Division, Orleans Unit Docket No. 26-PR-03345",
-      "link": "https://www.sevendaysvt.com/legal-notices/noticetocreditors/state-of-vermont-superior-court-probate-division-orleans-unit-docket-no-26-pr-03345/",
-      "ts": "2026-07-15T19:30:00+00:00",
-      "summary": "In re ESTATE of SUSAN MOULTON NOTICE TO CREDITORS To the creditors of: Susan Moulton late of Newport Center I have been appointed to administer this estate. All creditors having claims against the decedent or the estate must present their claims in writing within four (4) months of the date of the first publication of [ ] The post State of Vermont Superior Court, Probate Division, Orleans Unit Doc"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212153",
-      "title": "Huntington Development Review Board, Agenda, July 22nd, 2026",
-      "link": "https://www.sevendaysvt.com/legal-notices/publicmeetings/huntington-development-review-board-agenda-july-22nd-2026/",
-      "ts": "2026-07-15T19:30:00+00:00",
-      "summary": "Development Review Board: Wednesday, July 22nd, 2026, 7 pm Zoom: https://us06web.zoom.us/j/89027947592?pwd=rraLJDIfD7tUIxWmKbUKfq3p3VhubF.1 Telephone (toll-free): +16465588656, 89027947592#, *004384# US (New York) +16469313860, 89027947592#,*004384# US Meeting ID: 890 2794 7592 Passcode: 004384 Agendas and meeting materials can be accessed on-line at https://www.huntingtonvt.org Agendas and meetin"
      }
     ]
    },
@@ -873,18 +873,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -953,6 +953,13 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "X6Y25AOSORAKPAWBBVEEDV2DWE",
+      "title": "Drowning victim discovered in Lake Champlain",
+      "link": "https://www.wcax.com/2026/07/17/drowning-victim-discovered-lake-champlain/",
+      "ts": "2026-07-17T14:20:53+00:00",
+      "summary": "An 86-year-old man is dead after drowning in Lake Champlain"
+     },
      {
       "id": "544HNKHZKJAGTHUBBCDMGQZ4HI",
       "title": "Beer here! Starting Friday night in Burlington",
@@ -1295,18 +1302,81 @@
       "link": "https://www.wcax.com/2026/07/15/ben-jerrys-foundation-may-close-due-funding-cuts/",
       "ts": "2026-07-15T16:21:16+00:00",
       "summary": "The Ben and Jerry’s Foundation will shut down at the end of the year unless it wins a high-stakes legal fight over funding"
-     },
-     {
-      "id": "UXMF25HE2JCF7HMVRG3MY5Q2AU",
-      "title": "3 killed in small plane crash in Northern New York",
-      "link": "https://www.wcax.com/2026/07/14/3-killed-small-plane-crash-northern-new-york/",
-      "ts": "2026-07-15T16:17:05+00:00",
-      "summary": "Questions remain over what caused a fatal plane crash in the Adirondacks late Monday night."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73168569",
+      "title": "Vermont Brewer's Festival returns for 33rd year",
+      "link": "https://www.mynbc5.com/article/vermont-brewers-festival-2026/73168569",
+      "ts": "2026-07-17T15:47:00+00:00",
+      "summary": "The Vermont Brewer’s Association is bringing more than three dozen local businesses to the Burlington waterfront. It's a part of their annual festival, celebrating community partnerships and local craft drinks."
+     },
+     {
+      "id": "72830001",
+      "title": "Family rallies behind local Vermont Green soccer standout",
+      "link": "https://www.mynbc5.com/article/waterbury-louisa-thomsen-uslw-national-championship/72830001",
+      "ts": "2026-07-17T15:45:00+00:00",
+      "summary": "Local star's family shares journey as Thomsen prepares for USL W National Championship."
+     },
+     {
+      "id": "72795149",
+      "title": "GlobalFoundries and ECHO announce new partnership",
+      "link": "https://www.mynbc5.com/article/globalfoundries-echo-stem-partnership/72795149",
+      "ts": "2026-07-17T15:45:00+00:00",
+      "summary": "The two companies are collaborating to strengthen STEM outreach programs and extend STEM education to rural communities across the state."
+     },
+     {
+      "id": "73166239",
+      "title": "Burlington hosts block party to celebrate Main Street re-opening",
+      "link": "https://www.mynbc5.com/article/burlington-block-party-main-street-construction/73166239",
+      "ts": "2026-07-17T15:33:00+00:00",
+      "summary": "After years of construction, Burlington's Main Street is finally open, and to celebrate, the city is hosting a two-day block party, right in downtown."
+     },
+     {
+      "id": "72750126",
+      "title": "What we know about the nation-wide Cyclospora outbreak and tips from local experts",
+      "link": "https://www.mynbc5.com/article/what-we-know-about-the-nation-wide-cyclospora-outbreak-and-tips-from-local-experts/72750126",
+      "ts": "2026-07-17T15:31:00+00:00",
+      "summary": "\"There's 34 states, and we don't know the source,\" McDonald said. \"Just two weeks ago, it was 18 states. Last week it was 31 states and now it's 34 states.\""
+     },
+     {
+      "id": "72752197",
+      "title": "New monkey species with orange lips discovered after years of searching",
+      "link": "https://www.mynbc5.com/article/new-monkey-species-orange-lips/72752197",
+      "ts": "2026-07-17T15:26:00+00:00",
+      "summary": "A monkey with striking orange lips and a thunderous roar has just been identified as a new species after years of mystery. Here’s why scientists say it’s a major find."
+     },
+     {
+      "id": "73170315",
+      "title": "Will smoke smother out the World Cup final? Here’s the forecast",
+      "link": "https://www.mynbc5.com/article/smoke-world-cup-final-nyc/73170315",
+      "ts": "2026-07-17T15:24:00+00:00",
+      "summary": "Dense smoke is suffocating much of the Northeast. Will the air pollution be a problem for the World Cup final on Sunday in New York City?"
+     },
+     {
+      "id": "73170176",
+      "title": "Remembering the famous 1976 Montreal Olympics on 50th anniversary",
+      "link": "https://www.mynbc5.com/article/1976-montreal-olympics-50th-anniversary/73170176",
+      "ts": "2026-07-17T14:53:00+00:00",
+      "summary": "Friday marks the 50th anniversary of the summer Olympics in Montreal, which is remembered for the first-ever “Perfect 10” score on the uneven bars by Romanian gymnast Nadia Comaneci."
+     },
+     {
+      "id": "72902656",
+      "title": "Relatives say ICE officer in deadly Maine shooting had history of violent behavior",
+      "link": "https://www.mynbc5.com/article/ice-officer-maine-shooting-history-family-records/72902656",
+      "ts": "2026-07-17T14:31:00+00:00",
+      "summary": "The Immigration and Customs Enforcement officer who shot a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, according to close relatives who spoke to The Associated Press."
+     },
+     {
+      "id": "72551882",
+      "title": "Flash floods in Texas leave at least 2 dead in region devastated a year ago",
+      "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
+      "ts": "2026-07-17T14:31:00+00:00",
+      "summary": "Authorities in Texas have rescued hundreds of stranded drivers and people trapped in homes, and at least two people have died due to catastrophic flooding."
+     },
      {
       "id": "73169319",
       "title": "Oscar winner Brenda Fricker, known for ‘My Left Foot’ and ‘Home Alone 2,’ dead at 81",
@@ -1315,25 +1385,11 @@
       "summary": "Oscar-winning actress Brenda Fricker, known for her roles in \"My Left Foot\" and \"Home Alone 2,\" has died."
      },
      {
-      "id": "72795149",
-      "title": "GlobalFoundries and ECHO announce new partnership",
-      "link": "https://www.mynbc5.com/article/globalfoundries-echo-stem-partnership/72795149",
-      "ts": "2026-07-17T13:50:00+00:00",
-      "summary": "The two companies are collaborating to strengthen STEM outreach programs and extend STEM education to rural communities across the state."
-     },
-     {
       "id": "73165847",
       "title": "Tanker fire closes portion of Interstate in Chittenden County",
       "link": "https://www.mynbc5.com/article/tanker-fire-closes-interstate-colchester/73165847",
       "ts": "2026-07-17T13:48:00+00:00",
       "summary": "Both southbound lanes of Interstate 89 were obstructed early Friday morning after an oil tanker caught fire between Milton and Colchester."
-     },
-     {
-      "id": "72830001",
-      "title": "Family rallies behind local Vermont Green soccer standout",
-      "link": "https://www.mynbc5.com/article/waterbury-louisa-thomsen-uslw-national-championship/72830001",
-      "ts": "2026-07-17T13:42:00+00:00",
-      "summary": "Local star's family shares journey as Thomsen prepares for USL W National Championship."
      },
      {
       "id": "72969712",
@@ -1390,62 +1446,6 @@
       "link": "https://www.mynbc5.com/article/trump-media-truth-psi-high-speed-access/73167705",
       "ts": "2026-07-17T10:26:00+00:00",
       "summary": "President Trump's media company is planning to charge for special high-speed access to Truth Social posts, including possibly his own, affecting national security and financial markets."
-     },
-     {
-      "id": "73165800",
-      "title": "National Guard deployment to DC will last through Trump's term",
-      "link": "https://www.mynbc5.com/article/trump-extends-national-guard-deployment-washington-dc-2029/73165800",
-      "ts": "2026-07-17T09:51:00+00:00",
-      "summary": "President Trump's deployment of National Guard troops to the nation's capital is being extended by more than two years and will last until the end of his term."
-     },
-     {
-      "id": "72839654",
-      "title": "Beautiful sunshine Friday as smoke temporarily clears",
-      "link": "https://www.mynbc5.com/article/beautiful-sunshine-friday-as-smoke-temporarily-clears-7-17-26/72839654",
-      "ts": "2026-07-17T09:43:00+00:00",
-      "summary": "Showers and storms likely Saturday as smoke returns"
-     },
-     {
-      "id": "73164905",
-      "title": "China rejects Trump's election interference claim as 'groundless accusations'",
-      "link": "https://www.mynbc5.com/article/china-denies-us-election-meddling-trump-claim/73164905",
-      "ts": "2026-07-17T09:28:00+00:00",
-      "summary": "China says it has never interfered in U.S. elections and has no interest in doing so after President Trump accused Beijing of meddling in the 2020 election."
-     },
-     {
-      "id": "72934775",
-      "title": "US strikes bridges and collapses a tower at a key port as its Iran campaign expands",
-      "link": "https://www.mynbc5.com/article/us-iran-airstrikes-bridges-strait-of-hormuz-escalation/72934775",
-      "ts": "2026-07-17T05:35:00+00:00",
-      "summary": "The United States is expanding its airstrike campaign against Iran by increasingly hitting bridges."
-     },
-     {
-      "id": "73042186",
-      "title": "Asian shares sink, with Tokyo down nearly 5%",
-      "link": "https://www.mynbc5.com/article/asian-shares-sink-slumping-ai-stocks-world-markets-lower/73042186",
-      "ts": "2026-07-17T05:33:00+00:00",
-      "summary": "Asian shares have skidded, with Tokyo’s Nikkei 225 down 5% as heavy selling of computer chipmakers and other AI-related shares drag markets lower."
-     },
-     {
-      "id": "73046255",
-      "title": "Man pulls 2 teens from burning car after train crash",
-      "link": "https://www.mynbc5.com/article/man-pulls-brothers-from-burning-car-after-train-crash/73046255",
-      "ts": "2026-07-17T05:02:00+00:00",
-      "summary": "An Iowa man rescued two brothers from a burning car moments after a train collision, an act the local sheriff said likely saved their lives."
-     },
-     {
-      "id": "73009941",
-      "title": "Trump releases declassified documents on election security, claims of foreign interference",
-      "link": "https://www.mynbc5.com/article/trump-releases-declassified-documents-on-election-security-claims-of-foreign-interference/73009941",
-      "ts": "2026-07-17T03:50:00+00:00",
-      "summary": "President Donald Trump announced the release of dozens of declassified documents during his primetime address Thursday night, claiming foreign interference in the 2020 election. Here's a fact check."
-     },
-     {
-      "id": "72964770",
-      "title": "MLB-Partnered League Pitching Prospect shines in Saranac Lake Surge Victory",
-      "link": "https://www.mynbc5.com/article/mlb-partnered-league-pitching-prospect-shines-in-saranac-lake-surge-victory/72964770",
-      "ts": "2026-07-17T03:40:00+00:00",
-      "summary": "Dominic Pucetti strikes out five batters in just over four innings leading to 10-9 Surge win over North Country Thunderbirds"
      }
     ]
    },

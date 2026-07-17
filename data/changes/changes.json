@@ -1,28 +1,6 @@
 {
- "generated": "2026-07-17T14:09:41+00:00",
+ "generated": "2026-07-17T15:51:11+00:00",
  "events": [
-  {
-   "ts": "2026-07-10T14:19:14+00:00",
-   "category": "roads",
-   "headline": "GMT: Service Alert :: Essex Junction",
-   "detail": "",
-   "url": "https://ridegmt.com/service-alert-essex-junction-2/",
-   "source": "gmt-alerts",
-   "sourceName": "Green Mountain Transit",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-10T15:37:24+00:00",
-   "category": "news",
-   "headline": "Amazon launches new delivery station in the North Country",
-   "detail": "",
-   "url": "https://www.wcax.com/2026/07/10/amazon-launches-new-delivery-station-north-country/",
-   "source": "wcax",
-   "sourceName": "WCAX",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-10T17:00:04+00:00",
    "category": "chatter",
@@ -3606,6 +3584,39 @@
    "url": "https://www.reddit.com/r/burlington/comments/1uyobie/honda_odyssey_owners/",
    "source": "reddit-burlington",
    "sourceName": "r/burlington",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T14:20:53+00:00",
+   "category": "news",
+   "headline": "Drowning victim discovered in Lake Champlain",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/17/drowning-victim-discovered-lake-champlain/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T15:33:00+00:00",
+   "category": "news",
+   "headline": "Burlington hosts block party to celebrate Main Street re-opening",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/burlington-block-party-main-street-construction/73166239",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T15:47:00+00:00",
+   "category": "news",
+   "headline": "Vermont Brewer's Festival returns for 33rd year",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/vermont-brewers-festival-2026/73168569",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
    "priority": 1,
    "kind": "added"
   }
