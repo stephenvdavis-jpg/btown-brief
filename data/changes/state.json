@@ -382,6 +382,48 @@
  "gmt-alerts": {
   "items": [
    {
+    "id": "https://ridegmt.com/?p=24324",
+    "title": "Service Alert :: Winooski",
+    "link": "https://ridegmt.com/service-alert-winooski-4/",
+    "ts": "2026-07-17T00:06:08+00:00",
+    "summary": "Buses on Route 9 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Riverside/Winooski, [ ]"
+   },
+   {
+    "id": "https://ridegmt.com/?p=24320",
+    "title": "Service Alert :: North Avenue",
+    "link": "https://ridegmt.com/service-alert-north-avenue-2/",
+    "ts": "2026-07-17T00:04:50+00:00",
+    "summary": "Buses on Route 7 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Northgate, [ ]"
+   },
+   {
+    "id": "https://ridegmt.com/?p=24312",
+    "title": "Service Alert :: Shelburne Road",
+    "link": "https://ridegmt.com/service-alert-shelburne-road-2/",
+    "ts": "2026-07-17T00:02:52+00:00",
+    "summary": "Buses on Route 6 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Shelburne, [ ]"
+   },
+   {
+    "id": "https://ridegmt.com/?p=24308",
+    "title": "Service Alert :: Pine Street",
+    "link": "https://ridegmt.com/service-alert-pine-street/",
+    "ts": "2026-07-17T00:02:16+00:00",
+    "summary": "Buses on Route 5 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Pine [ ]"
+   },
+   {
+    "id": "https://ridegmt.com/?p=24304",
+    "title": "Service Alert :: Essex Junction",
+    "link": "https://ridegmt.com/service-alert-essex-junction/",
+    "ts": "2026-07-17T00:01:42+00:00",
+    "summary": "Buses on Route 2 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Essex [ ]"
+   },
+   {
+    "id": "https://ridegmt.com/?p=24661",
+    "title": "Service Alert :: Williston",
+    "link": "https://ridegmt.com/service-alert-williston-2/",
+    "ts": "2026-07-17T00:00:08+00:00",
+    "summary": "Buses on Route 1 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Walmart, [ ]"
+   },
+   {
     "id": "https://ridegmt.com/?p=24075",
     "title": "Downtown Transit Center Hours Changing",
     "link": "https://ridegmt.com/downtown-transit-center-hours-changing/",
@@ -408,49 +450,11 @@
     "link": "https://ridegmt.com/service-alert-milton-commuter-main-street-revitalization-project/",
     "ts": "2025-11-28T13:59:21+00:00",
     "summary": "Due to the construction, buses cannot access stops on Winooski Falls Way. Outbound riders should use the temporary stop at Spinner Place at Champlain Mill. Inbound riders can request the [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=22255",
-    "title": "Service Alert :: Winooski",
-    "link": "https://ridegmt.com/service-alert-winooski/",
-    "ts": "2025-09-26T01:59:42+00:00",
-    "summary": "Due to the closure of Abenaki Way, buses cannot access stops on Winooski Falls Way and Abenaki Way. Outbound riders should utilize the temporary stop at the VSAC building on [ ]"
    }
   ]
  },
  "civicclerk": {
   "meetings": {
-   "10067": {
-    "name": "Design Advisory Board Meeting",
-    "start": "2026-07-14T15:00:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Agenda V1",
-     "Packet V1",
-     "DAB Minutes 7.14.2026"
-    ]
-   },
-   "10071": {
-    "name": "Rose St & Cedar St Improvements Project Public Information Meeting",
-    "start": "2026-07-14T17:30:00+00:00",
-    "hasAgenda": true,
-    "files": []
-   },
-   "10072": {
-    "name": "Rose St & Cedar St Improvements Project Public Information Meeting",
-    "start": "2026-07-14T17:30:00+00:00",
-    "hasAgenda": false,
-    "files": []
-   },
-   "9957": {
-    "name": "Planning Commission Meeting - Collaborative Working Group on Inclusionary Zoning",
-    "start": "2026-07-14T18:00:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Agenda",
-     "Agenda Packet"
-    ]
-   },
    "10073": {
     "name": "Fletcher Free Library Commission",
     "start": "2026-07-15T07:45:00+00:00",
@@ -548,6 +552,34 @@
      "Agenda v1",
      "Agenda Packet v1"
     ]
+   },
+   "10082": {
+    "name": "planBTV New North End Community Meeting",
+    "start": "2026-07-22T18:30:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Meeting Information"
+    ]
+   },
+   "10083": {
+    "name": "Design Advisory Board",
+    "start": "2026-07-28T15:00:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Agenda V1"
+    ]
+   },
+   "10080": {
+    "name": "Transportation, Energy, and Utilities Committee",
+    "start": "2026-07-28T17:30:00+00:00",
+    "hasAgenda": true,
+    "files": []
+   },
+   "9960": {
+    "name": "Regular Planning Commission Meeting",
+    "start": "2026-07-28T18:30:00+00:00",
+    "hasAgenda": false,
+    "files": []
    }
   }
  },
@@ -932,6 +964,20 @@
    "wcax": {
     "items": [
      {
+      "id": "M7WIZRKERZAZHCFQPWNO4XKQ5I",
+      "title": "Richmond boil water notice extended a fourth day after valve break",
+      "link": "https://www.wcax.com/2026/07/17/richmond-boil-water-notice-extended-fourth-day-after-valve-break/",
+      "ts": "2026-07-17T00:18:08+00:00",
+      "summary": "Residents served by Richmond Water Resource who have been without potable water for three days will have to wait at least one more day before the boil water notice is lifted."
+     },
+     {
+      "id": "JQYBUO2HYRHUZPFM4D6ZOIMI2A",
+      "title": "E-bike crash leaves woman seriously injured in Burlington",
+      "link": "https://www.wcax.com/2026/07/16/e-bike-crash-leaves-woman-seriously-injured-burlington/",
+      "ts": "2026-07-17T00:10:23+00:00",
+      "summary": "A woman was seriously injured in an e-bike crash Thursday afternoon at the intersection of Pine and Locust streets, according to police."
+     },
+     {
       "id": "DMYMSBUPM5GF3ETSZ3B7N6ETPI",
       "title": "Newfane Super Senior has cooked monthly church meals for close to 30 years",
       "link": "https://www.wcax.com/2026/07/16/newfane-super-senior-has-cooked-monthly-church-meals-close-30-years/",
@@ -1266,25 +1312,53 @@
       "link": "https://www.wcax.com/2026/07/14/vermont-creemee-passport-offers-sweet-way-explore-state/",
       "ts": "2026-07-15T00:12:55+00:00",
       "summary": "The Vermont Creemee Passport offers stamps for visiting 70 participating locations."
-     },
-     {
-      "id": "QPHIKPPPLFG3JESU7ASXH5B6WA",
-      "title": "Utility crews, campers, and emergency officials brace for possible severe storms",
-      "link": "https://www.wcax.com/2026/07/14/vermont-utilities-prep-possible-severe-storms/",
-      "ts": "2026-07-14T22:24:06+00:00",
-      "summary": "The combination of extreme heat and humidity could result in a chance for severe weather Tuesday evening."
-     },
-     {
-      "id": "6VSY5LXZKNDN3NEV7PFH2KYYIM",
-      "title": "New top cop named for Vermont State Police",
-      "link": "https://www.wcax.com/2026/07/14/new-top-cop-named-vermont-state-police/",
-      "ts": "2026-07-14T22:04:11+00:00",
-      "summary": "Lt. Col. Shawn Loan will become the next commander of the Vermont State Police."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "72571535",
+      "title": "Trump to make 2020 election allegations focus of Thursday's national address",
+      "link": "https://www.mynbc5.com/article/trump-address-nation-july-16-2026/72571535",
+      "ts": "2026-07-17T00:47:00+00:00",
+      "summary": "President Donald Trump is set to address the nation on Thursday night on topics he said will include elections and voting machines."
+     },
+     {
+      "id": "72841282",
+      "title": "Iceberg lettuce sold at Taco Bell linked to cyclospora outbreak, sources say",
+      "link": "https://www.mynbc5.com/article/cyclospora-outbreak-taco-bell-taylor-farms-lettuce/72841282",
+      "ts": "2026-07-17T00:33:00+00:00",
+      "summary": "Sources say shredded iceberg lettuce supplied by Taylor Farms and sold at some Taco Bell restaurants has been linked to a multistate outbreak of cyclosporiasis, according to reports."
+     },
+     {
+      "id": "72903965",
+      "title": "Wife of man shot, killed by ICE agent in Maine makes public statement",
+      "link": "https://www.mynbc5.com/article/maine-ice-shooting-wife-of-man-killed-speaks/72903965",
+      "ts": "2026-07-17T00:25:00+00:00",
+      "summary": "“MY SOUL IS BROKEN” | Wife of the man shot and killed by an ICE agent in Maine spoke publicly about her husband's death. Here's what she said."
+     },
+     {
+      "id": "72122721",
+      "title": "Court appearance postponed for Middlebury man accused of stabbing, shooting during family dispute",
+      "link": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
+      "ts": "2026-07-17T00:12:00+00:00",
+      "summary": "Police say a family dispute in Middlebury escalated into a stabbing and gunfire Wednesday evening. One man was airlifted to UVM Medical Center, and a 39-year-old suspect is in custody"
+     },
+     {
+      "id": "72750126",
+      "title": "What we know about the nation-wide Cyclospora outbreak and tips from local experts",
+      "link": "https://www.mynbc5.com/article/what-we-know-about-the-nation-wide-cyclospora-outbreak-and-tips-from-local-experts/72750126",
+      "ts": "2026-07-16T23:57:00+00:00",
+      "summary": "\"There's 34 states, and we don't know the source,\" McDonald said. \"Just two weeks ago, it was 18 states. Last week it was 31 states and now it's 34 states.\""
+     },
+     {
+      "id": "72851532",
+      "title": "NTSB report: NYC sightseeing helicopter likely hit birds before its fatal plunge into Hudson River",
+      "link": "https://www.mynbc5.com/article/nyc-helicopter-crash-bird-strike-ntsb-report/72851532",
+      "ts": "2026-07-16T23:48:00+00:00",
+      "summary": "The NTSB says the remains of several geese were found on the wreckage of a New York City sightseeing helicopter that crashed into the Hudson River last year and killed 6 people"
+     },
      {
       "id": "72830001",
       "title": "Family behind local Vermont Green soccer standout",
@@ -1305,13 +1379,6 @@
       "link": "https://www.mynbc5.com/article/trump-to-address-election-security-in-primetime-speech/72829380",
       "ts": "2026-07-16T22:30:00+00:00",
       "summary": "President Donald Trump will focus on election security during his primetime speech at 9 p.m. ET on Thursday."
-     },
-     {
-      "id": "72841282",
-      "title": "Iceberg lettuce sold at Taco Bell linked to cyclospora outbreak, sources say",
-      "link": "https://www.mynbc5.com/article/cyclospora-outbreak-taco-bell-taylor-farms-lettuce/72841282",
-      "ts": "2026-07-16T22:24:00+00:00",
-      "summary": "Sources say shredded iceberg lettuce supplied by Taylor Farms and sold at some Taco Bell restaurants has been linked to a multistate outbreak of cyclosporiasis, according to reports."
      },
      {
       "id": "72804193",
@@ -1349,13 +1416,6 @@
       "summary": "The Middlebury Festival on the Green brings artists from across the country and the world together for free, family-friendly shows."
      },
      {
-      "id": "72122721",
-      "title": "Court appearance postponed for Middlebury man accused of stabbing, shooting during family dispute",
-      "link": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
-      "ts": "2026-07-16T21:34:00+00:00",
-      "summary": "Police say a family dispute in Middlebury escalated into a stabbing and gunfire Wednesday evening. One man was airlifted to UVM Medical Center, and a 39-year-old suspect is in custody"
-     },
-     {
       "id": "72768275",
       "title": "Track air quality across the US with this live map",
       "link": "https://www.mynbc5.com/article/map-air-quality-wildfires/72768275",
@@ -1384,13 +1444,6 @@
       "summary": "Two of the eight men indicted in an alleged plot to attack President Trump's UFC cage-fighting event on the White House lawn pleaded not guilty to federal conspiracy charges."
      },
      {
-      "id": "72750126",
-      "title": "What we know about the nation-wide Cyclospora outbreak and tips from local experts",
-      "link": "https://www.mynbc5.com/article/what-we-know-about-the-nation-wide-cyclospora-outbreak-and-tips-from-local-experts/72750126",
-      "ts": "2026-07-16T20:53:00+00:00",
-      "summary": "\"There's 34 states, and we don't know the source,\" McDonald said. \"Just two weeks ago, it was 18 states. Last week it was 31 states and now it's 34 states.\""
-     },
-     {
       "id": "72721122",
       "title": "How would permanent Daylight Saving Time impact Vermont and New York? We examine the data",
       "link": "https://www.mynbc5.com/article/permanent-daylight-saving-time-vermont-new-york/72721122",
@@ -1403,27 +1456,6 @@
       "link": "https://www.mynbc5.com/article/mississippi-road-rage-vermont-arrest/72791062",
       "ts": "2026-07-16T20:49:00+00:00",
       "summary": "Police have issued an arrest warrant for a Mississippi woman after she failed to come to court Thursday. This was after the woman allegedly pointed a loaded gun at another driver on a Vermont highway."
-     },
-     {
-      "id": "72773133",
-      "title": "Essex County Fair begins construction to make historic grandstand wheelchair accessible",
-      "link": "https://www.mynbc5.com/article/essex-county-fair-begins-construction-to-make-historic-grandstand-wheelchair-accessible/72773133",
-      "ts": "2026-07-16T20:44:00+00:00",
-      "summary": "Essex County Fair begins construction to make historic grandstand wheelchair accessible"
-     },
-     {
-      "id": "72785651",
-      "title": "Canadian man accused of killing daughter and hiding her body to face trial next week",
-      "link": "https://www.mynbc5.com/article/luciano-frattolin-murder-trial-ticonderoga/72785651",
-      "ts": "2026-07-16T20:33:00+00:00",
-      "summary": "Luciano Frattolin, accused of killing his 9-year-old daughter and hiding her body in Ticonderoga, New York, will go to trial next week, with jury selection starting Monday."
-     },
-     {
-      "id": "71942620",
-      "title": "Recall roundup: Dozens of popular everyday items have been recalled nationwide",
-      "link": "https://www.mynbc5.com/article/nationwide-recalls-fda-roundup/71942620",
-      "ts": "2026-07-16T20:31:00+00:00",
-      "summary": "Dozens of everyday products sold across the United States have been recalled over the past two weeks, affecting everything from food and pet products to household items and outdoor equipment."
      }
     ]
    },
