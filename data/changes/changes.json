@@ -1,17 +1,6 @@
 {
- "generated": "2026-07-17T07:31:06+00:00",
+ "generated": "2026-07-17T10:14:46+00:00",
  "events": [
-  {
-   "ts": "2026-07-10T09:00:00+00:00",
-   "category": "news",
-   "headline": "Musician Pandajakey pens a track for overthinkers",
-   "detail": "",
-   "url": "https://www.vermontpublic.org/local-news/2026-07-10/musician-pandajakey-pens-a-track-for-overthinkers",
-   "source": "vermont-public",
-   "sourceName": "Vermont Public",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-10T14:00:07+00:00",
    "category": "chatter",
@@ -3450,6 +3439,28 @@
    "headline": "Vermonters say they won't 'sit back' after latest ICE agent killings",
    "detail": "",
    "url": "https://www.mynbc5.com/article/vermonters-protest-shooting-deaths/72969712",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T09:00:00+00:00",
+   "category": "news",
+   "headline": "Musician Mikahely shares traditional Malagasy rhythms",
+   "detail": "",
+   "url": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+   "source": "vermont-public",
+   "sourceName": "Vermont Public",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-17T10:12:00+00:00",
+   "category": "news",
+   "headline": "Tanker fire closes portion of Interstate in Chittenden County",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/tanker-fire-closes-interstate-colchester/73165847",
    "source": "mynbc5",
    "sourceName": "NBC5",
    "priority": 1,

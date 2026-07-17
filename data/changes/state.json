@@ -876,6 +876,20 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
       "title": "Vermont not making the grade on educating students with disabilities, feds say",
       "link": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -944,25 +958,18 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-14/downtown-rutlands-center-street-makeover",
       "ts": "2026-07-14T20:10:37+00:00",
       "summary": "The city plans to redesign downtown Rutland’s Center Street. Plans include a curved one-way traffic pattern, larger pedestrian areas and curbless streetscaping."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-14/meet-the-democratic-candidates-for-vermont-state-auditor",
-      "title": "Meet the Democratic candidates for Vermont state auditor",
-      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-14/meet-the-democratic-candidates-for-vermont-state-auditor",
-      "ts": "2026-07-14T12:32:30+00:00",
-      "summary": "The two Democrats vying for the state's top government watchdog position discuss their backgrounds and platforms."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-06-30/heat-high-temperatures-vermont-safety-tips-resources",
-      "title": "Hot weather in Vermont: Safety tips and resources",
-      "link": "https://www.vermontpublic.org/local-news/2026-06-30/heat-high-temperatures-vermont-safety-tips-resources",
-      "ts": "2026-07-14T09:00:00+00:00",
-      "summary": "With dangerous extreme heat in the forecast, here's what you need to know to stay safe."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "MBAA2MTDWRHVHLF7L7BTCJTAZI",
+      "title": "Teen missing from Salisbury area",
+      "link": "https://www.wcax.com/2026/07/17/teen-missing-salisbury-area/",
+      "ts": "2026-07-17T10:07:51+00:00",
+      "summary": "A 16-year-old has been reported missing in Salisbury"
+     },
      {
       "id": "GGSZHXPAZJHN5F7VRZI6EVUDDA",
       "title": "Campaign Countdown: Vermont Democrats for lieutenant governor",
@@ -1305,18 +1312,39 @@
       "link": "https://www.wcax.com/2026/07/15/vt-nh-ny-part-multistate-settlement-over-23andme-data-breach/",
       "ts": "2026-07-15T01:04:43+00:00",
       "summary": "Vermont, New Hampshire and New York are among 42 states joining in an $18 million settlement over a 2023 data breach by the genetic testing company 23andMe."
-     },
-     {
-      "id": "TRXHMPZPRFAFRORLW4T2JZBNVA",
-      "title": "Vermont creemee passport offers sweet way to explore the state",
-      "link": "https://www.wcax.com/2026/07/14/vermont-creemee-passport-offers-sweet-way-explore-state/",
-      "ts": "2026-07-15T00:12:55+00:00",
-      "summary": "The Vermont Creemee Passport offers stamps for visiting 70 participating locations."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73165847",
+      "title": "Tanker fire closes portion of Interstate in Chittenden County",
+      "link": "https://www.mynbc5.com/article/tanker-fire-closes-interstate-colchester/73165847",
+      "ts": "2026-07-17T10:12:00+00:00",
+      "summary": "Both southbound lanes of Interstate 89 were obstructed early Friday morning after an oil tanker caught fire between Milton and Colchester."
+     },
+     {
+      "id": "73165800",
+      "title": "National Guard deployment to DC will last through Trump's term",
+      "link": "https://www.mynbc5.com/article/trump-extends-national-guard-deployment-washington-dc-2029/73165800",
+      "ts": "2026-07-17T09:51:00+00:00",
+      "summary": "President Trump's deployment of National Guard troops to the nation's capital is being extended by more than two years and will last until the end of his term."
+     },
+     {
+      "id": "72839654",
+      "title": "Beautiful sunshine Friday as smoke temporarily clears",
+      "link": "https://www.mynbc5.com/article/beautiful-sunshine-friday-as-smoke-temporarily-clears-7-17-26/72839654",
+      "ts": "2026-07-17T09:43:00+00:00",
+      "summary": "Showers and storms likely Saturday as smoke returns"
+     },
+     {
+      "id": "73164905",
+      "title": "China rejects Trump's election interference claim as 'groundless accusations'",
+      "link": "https://www.mynbc5.com/article/china-denies-us-election-meddling-trump-claim/73164905",
+      "ts": "2026-07-17T09:28:00+00:00",
+      "summary": "China says it has never interfered in U.S. elections and has no interest in doing so after President Trump accused Beijing of meddling in the 2020 election."
+     },
      {
       "id": "72934775",
       "title": "US strikes bridges and collapses a tower at a key port as its Iran campaign expands",
@@ -1428,34 +1456,6 @@
       "link": "https://www.mynbc5.com/article/waterbury-louisa-thomsen-uslw-national-championship/72830001",
       "ts": "2026-07-16T22:37:00+00:00",
       "summary": "Local star's family shares journey as Thomsen prepares for USL W National Championship."
-     },
-     {
-      "id": "72840057",
-      "title": "Vermont man arrested in New York for DWI, illegal weapons possession",
-      "link": "https://www.mynbc5.com/article/vermont-man-arrested-in-new-york-for-dui-illegal-weapons-possession/72840057",
-      "ts": "2026-07-16T22:34:00+00:00",
-      "summary": "A Poultney, Vermont, man was arrested in Northern New York after police said he drove under the influence and had an illegal weapon."
-     },
-     {
-      "id": "72829380",
-      "title": "Trump to address election security in primetime speech",
-      "link": "https://www.mynbc5.com/article/trump-to-address-election-security-in-primetime-speech/72829380",
-      "ts": "2026-07-16T22:30:00+00:00",
-      "summary": "President Donald Trump will focus on election security during his primetime speech at 9 p.m. ET on Thursday."
-     },
-     {
-      "id": "72804193",
-      "title": "Rutland County Agricultural Society shares plan to upgrade old infrastructure at Vermont State Fair",
-      "link": "https://www.mynbc5.com/article/rutland-county-agricultural-society-shares-plan-to-upgrade-old-infrastructure-at-vermont-state-fair/72804193",
-      "ts": "2026-07-16T22:20:00+00:00",
-      "summary": "Vermont State Fair staff say the old entrance at the fairgrounds in Rutland is in need of repairs to preserve its historic gatehouse"
-     },
-     {
-      "id": "72839654",
-      "title": "Beautiful sunshine Friday as smoke temporarily clears",
-      "link": "https://www.mynbc5.com/article/beautiful-sunshine-friday-as-smoke-temporarily-clears-7-16-26/72839654",
-      "ts": "2026-07-16T22:04:00+00:00",
-      "summary": "Showers and storms likely Saturday as smoke returns"
      }
     ]
    },
