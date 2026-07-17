@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-17T07:08:33-04:00",
+ "generated": "2026-07-17T17:30:53-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
    "count": 33,
-   "seconds": 5.5
+   "seconds": 7.2
   },
   "breweries": {
    "label": "Breweries & Taprooms",
    "count": 47,
-   "seconds": 3.0
+   "seconds": 4.2
   },
   "brownell": {
    "label": "Brownell Library",
-   "count": 54,
-   "seconds": 3.3
+   "count": 61,
+   "seconds": 2.9
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
    "count": 149,
-   "seconds": 3.3
+   "seconds": 2.2
   },
   "churchst": {
    "label": "Church Street Marketplace",
    "count": 94,
-   "seconds": 1.7
+   "seconds": 1.5
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -49,12 +49,12 @@
   "fletcherfree": {
    "label": "Fletcher Free Library",
    "count": 225,
-   "seconds": 68.1
+   "seconds": 76.9
   },
   "flynn": {
    "label": "The Flynn",
    "count": 15,
-   "seconds": 2.2
+   "seconds": 2.6
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -64,12 +64,12 @@
   "helloburlington": {
    "label": "Hello Burlington",
    "count": 750,
-   "seconds": 35.5
+   "seconds": 43.1
   },
   "higherground": {
    "label": "Higher Ground",
    "count": 59,
-   "seconds": 86.1
+   "seconds": 96.1
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -79,27 +79,27 @@
   "loveburlington": {
    "label": "Love Burlington",
    "count": 603,
-   "seconds": 72.3
+   "seconds": 67.5
   },
   "meetup": {
    "label": "Meetup",
-   "count": 64,
-   "seconds": 123.7
+   "count": 63,
+   "seconds": 127.8
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 18,
-   "seconds": 14.0
+   "seconds": 16.4
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
    "count": 73,
-   "seconds": 6.8
+   "seconds": 4.7
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
    "count": 45,
-   "seconds": 26.0
+   "seconds": 27.3
   },
   "sevendays": {
    "label": "Seven Days",
@@ -114,7 +114,7 @@
   "uvm": {
    "label": "UVM & Colleges",
    "count": 163,
-   "seconds": 11.2
+   "seconds": 8.6
   },
   "uvmbored": {
    "label": "UVM Bored",
@@ -123,19 +123,19 @@
   },
   "vcc": {
    "label": "Vermont Comedy Club",
-   "count": 49,
-   "seconds": 62.3
+   "count": 52,
+   "seconds": 69.6
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
    "count": 29,
-   "seconds": 0.4
+   "seconds": 0.2
   }
  },
- "gathered": 2784,
- "afterDedup": 1363,
+ "gathered": 2793,
+ "afterDedup": 1372,
  "duplicatesMerged": 1421,
- "final": 2544,
+ "final": 2546,
  "mergeLog": [
   {
    "kept": {
@@ -2421,11 +2421,17 @@
    "lastSeen": "2026-07-16T17:44:24-04:00"
   },
   {
+   "id": "642793d275be",
+   "title": "Lunch with the Poets",
+   "date": "2026-07-17",
+   "change": "missing",
+   "lastSeen": "2026-07-17T07:08:33-04:00"
+  },
+  {
    "id": "9927f635e6bb",
    "title": "DD Island & The Wormdogs",
    "date": "2026-07-17",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "86384a89f636",
@@ -2438,15 +2444,13 @@
    "id": "5b64cd247290",
    "title": "Nepenthes 101 - Tropical Pitcher Plant Workshop",
    "date": "2026-07-18",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "0857721012f7",
    "title": "Old vs New Tech",
    "date": "2026-07-19",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "a375333818cf",
@@ -2454,6 +2458,13 @@
    "date": "2026-07-19",
    "change": "missing",
    "lastSeen": "2026-07-16T07:20:49-04:00"
+  },
+  {
+   "id": "b9c0187b6ce9-1300",
+   "title": "Tech Help with Clif",
+   "date": "2026-07-20",
+   "change": "missing",
+   "lastSeen": "2026-07-17T07:08:33-04:00"
   },
   {
    "id": "c8ede9d02bd9",
@@ -2494,8 +2505,7 @@
    "id": "6c8617e97379",
    "title": "Summer Concert Series",
    "date": "2026-07-23",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "07d1024afec4",
@@ -2508,22 +2518,19 @@
    "id": "4573d10a06a8",
    "title": "Jeffrey Foucault",
    "date": "2026-07-24",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "6d6dad97fa27",
    "title": "Downtown Boys",
    "date": "2026-07-25",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "adc77f31c5a5",
    "title": "Best Pooch in the Noosk",
    "date": "2026-07-26",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "75166e78a793",
@@ -2538,6 +2545,13 @@
    "date": "2026-07-26",
    "change": "missing",
    "lastSeen": "2026-07-16T07:20:49-04:00"
+  },
+  {
+   "id": "fdef63c3067b-1300",
+   "title": "Tech Help with Clif",
+   "date": "2026-07-27",
+   "change": "missing",
+   "lastSeen": "2026-07-17T07:08:33-04:00"
   },
   {
    "id": "d1534f66e638",
@@ -2578,8 +2592,7 @@
    "id": "4863e13fe712",
    "title": "Putts for Paws Charity Golf Tournament",
    "date": "2026-08-03",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "f01da97388a1",
@@ -2613,8 +2626,7 @@
    "id": "74daa45ec2e6",
    "title": "Compa & Friends Summer Residency! - Rob Compa, Cotter Ellis, & Chuck Jones",
    "date": "2026-08-06",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "b213cf5be974",
@@ -2666,11 +2678,32 @@
    "lastSeen": "2026-07-16T07:20:49-04:00"
   },
   {
+   "id": "09d703e11c5a",
+   "title": "Tech Help with Clif",
+   "date": "2026-08-17",
+   "change": "missing",
+   "lastSeen": "2026-07-17T07:08:33-04:00"
+  },
+  {
+   "id": "09d703e11c5a-1300",
+   "title": "Tech Help with Clif",
+   "date": "2026-08-17",
+   "change": "missing",
+   "lastSeen": "2026-07-17T07:08:33-04:00"
+  },
+  {
    "id": "c5607ba4433f",
    "title": "Burlington Electric Department Office Hours",
    "date": "2026-08-17",
    "change": "missing",
    "lastSeen": "2026-07-16T07:20:49-04:00"
+  },
+  {
+   "id": "fcbd1ff99cdd",
+   "title": "ServSafe® Food Protection Manager Class & Exam",
+   "date": "2026-08-19",
+   "change": "missing",
+   "lastSeen": "2026-07-17T07:08:33-04:00"
   },
   {
    "id": "c915df9917f0",
@@ -2753,15 +2786,13 @@
    "id": "5766b8ee536f",
    "title": "Warren Zeiders",
    "date": "2026-08-28",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "4a0f9b1b225c",
    "title": "Jordan Davis",
    "date": "2026-08-29",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "7517d91c9f99",
@@ -2816,15 +2847,13 @@
    "id": "5454ce0c3d94",
    "title": "Soulja Boy & Bow Wow & Fat Joe",
    "date": "2026-09-05",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "0923004e5880",
    "title": "Bret Michaels",
    "date": "2026-09-06",
-   "change": "missing",
-   "lastSeen": "2026-07-14T07:11:12-04:00"
+   "change": "dropped"
   },
   {
    "id": "37405bc69bd5",
