@@ -1319,10 +1319,24 @@
     "items": [
      {
       "id": "72934775",
-      "title": "US hits more bridges in Iran in an expansion of its airstrike campaign",
+      "title": "US strikes bridges and collapses a tower at a key port as its Iran campaign expands",
       "link": "https://www.mynbc5.com/article/us-iran-airstrikes-bridges-strait-of-hormuz-escalation/72934775",
-      "ts": "2026-07-17T04:10:00+00:00",
+      "ts": "2026-07-17T05:35:00+00:00",
       "summary": "The United States is expanding its airstrike campaign against Iran by increasingly hitting bridges."
+     },
+     {
+      "id": "73042186",
+      "title": "Asian shares sink, with Tokyo down nearly 5%",
+      "link": "https://www.mynbc5.com/article/asian-shares-sink-slumping-ai-stocks-world-markets-lower/73042186",
+      "ts": "2026-07-17T05:33:00+00:00",
+      "summary": "Asian shares have skidded, with Tokyo’s Nikkei 225 down 5% as heavy selling of computer chipmakers and other AI-related shares drag markets lower."
+     },
+     {
+      "id": "73046255",
+      "title": "Man pulls 2 teens from burning car after train crash",
+      "link": "https://www.mynbc5.com/article/man-pulls-brothers-from-burning-car-after-train-crash/73046255",
+      "ts": "2026-07-17T05:02:00+00:00",
+      "summary": "An Iowa man rescued two brothers from a burning car moments after a train collision, an act the local sheriff said likely saved their lives."
      },
      {
       "id": "73009941",
@@ -1442,20 +1456,6 @@
       "link": "https://www.mynbc5.com/article/beautiful-sunshine-friday-as-smoke-temporarily-clears-7-16-26/72839654",
       "ts": "2026-07-16T22:04:00+00:00",
       "summary": "Showers and storms likely Saturday as smoke returns"
-     },
-     {
-      "id": "72795149",
-      "title": "GlobalFoundries and ECHO announce new partnership",
-      "link": "https://www.mynbc5.com/article/globalfoundries-echo-stem-partnership/72795149",
-      "ts": "2026-07-16T22:02:00+00:00",
-      "summary": "The two companies are collaborating to strengthen STEM outreach programs and extend STEM education to rural communities across the state."
-     },
-     {
-      "id": "72824921",
-      "title": "Smoke from wildfires triggers air quality alerts in Vermont, New York",
-      "link": "https://www.mynbc5.com/article/air-quality-alerts-wildfire-smoke-vermont/72824921",
-      "ts": "2026-07-16T21:56:00+00:00",
-      "summary": "Wildfire smoke is creating hazy skies and poor air quality across parts of Vermont and New York, prompting health officials to urge people to limit strenuous outdoor activity and pay close attention to changing conditions."
      }
     ]
    },
