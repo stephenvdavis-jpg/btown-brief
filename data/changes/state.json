@@ -1,6 +1,16 @@
 {
  "nws-weather": {
-  "alerts": [],
+  "alerts": [
+   {
+    "id": "urn:oid:2.49.0.1.840.0.1b373a936f5f38f25764d72287fd560ea09d8584.002.1",
+    "event": "Air Quality Alert",
+    "headline": "Air Quality Alert issued July 17 at 3:27PM EDT by NWS Burlington VT",
+    "severity": "Unknown",
+    "onset": "2026-07-17T15:27:00-04:00",
+    "ends": "2026-07-18T15:30:00-04:00",
+    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
+   }
+  ],
   "forecast_flag": {
    "day": "2026-07-16",
    "text": "This Afternoon: A chance of showers and thunderstorms before 5pm"
@@ -10,53 +20,53 @@
   "beaches": {
    "Blanchard Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T16:43:00+00:00"
+    "reason": "Clear and wavy",
+    "resultTime": "2026-07-17T19:09:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T16:44:00+00:00"
+    "reason": "Clear and wavy",
+    "resultTime": "2026-07-17T19:10:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T16:38:00+00:00"
+    "reason": "Clear and wavy",
+    "resultTime": "2026-07-17T19:03:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T16:12:00+00:00"
+    "reason": "Clear and wavy",
+    "resultTime": "2026-07-17T18:49:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T16:12:00+00:00"
+    "reason": "Bk",
+    "resultTime": "2026-07-17T18:39:00+00:00"
    },
    "North Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T15:44:00+00:00"
+    "reason": "Clear and wavy",
+    "resultTime": "2026-07-17T18:46:00+00:00"
    },
    "North Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T15:44:00+00:00"
+    "reason": "Crystal clear",
+    "resultTime": "2026-07-17T18:01:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T16:01:00+00:00"
+    "reason": "Bk",
+    "resultTime": "2026-07-17T18:27:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T12:02:00+00:00"
+    "reason": "Clear and wavy",
+    "resultTime": "2026-07-17T19:13:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-17T15:44:00+00:00"
+    "reason": "Clear and wavy",
+    "resultTime": "2026-07-17T18:03:00+00:00"
    }
   }
  },
@@ -652,6 +662,13 @@
    "vtdigger": {
     "items": [
      {
+      "id": "https://vtdigger.org/?p=651493",
+      "title": "Vermont chose belonging. Let’s keep it that way.",
+      "link": "https://vtdigger.org/2026/07/17/opinion-vermont-chose-belonging-lets-keep-it-that-way/",
+      "ts": "2026-07-17T19:11:36+00:00",
+      "summary": "A Supreme Court ruling on transgender athletes doesn't require Vermont to abandon its inclusive policies — and it shouldn't. Read the story on VTDigger here: Vermont chose belonging. Let’s keep it that way. ."
+     },
+     {
       "id": "https://vtdigger.org/?p=651423",
       "title": "The cumulative weight of standing there",
       "link": "https://vtdigger.org/2026/07/17/the-cumulative-weight-of-standing-there/",
@@ -853,13 +870,6 @@
       "link": "https://vtdigger.org/2026/07/12/as-strong-el-nino-develops-off-the-pacific-experts-say-vermont-impact-is-tough-to-tease-out/",
       "ts": "2026-07-12T11:10:00+00:00",
       "summary": "What local impacts, if any, should residents expect? Read the story on VTDigger here: As strong El Niño develops off the Pacific, experts say Vermont impact is tough to tease out ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651202",
-      "title": "The nation is craving protein, but Vermont dairy isn’t cashing in",
-      "link": "https://vtdigger.org/2026/07/12/the-nation-is-craving-protein-but-vermont-dairy-isnt-cashing-in/",
-      "ts": "2026-07-12T10:32:00+00:00",
-      "summary": "Expensive land and aging infrastructure have left Vermont’s dairy industry behind as other states dominate. Read the story on VTDigger here: The nation is craving protein, but Vermont dairy isn’t cashing in ."
      }
     ]
    },
@@ -954,6 +964,34 @@
    "wcax": {
     "items": [
      {
+      "id": "LDFBTKBK3JEUXP6BYGLAU546Y4",
+      "title": "Shelburne garage fire contained without serious damage to attached home",
+      "link": "https://www.wcax.com/2026/07/17/shelburne-garage-fire-contained-without-serious-damage-attached-home/",
+      "ts": "2026-07-17T19:06:53+00:00",
+      "summary": "Multiple agencies were able to contain a garage fire in Shelburne on Wednesday."
+     },
+     {
+      "id": "M7WIZRKERZAZHCFQPWNO4XKQ5I",
+      "title": "Richmond lifts boil water notice after 4 days",
+      "link": "https://www.wcax.com/2026/07/17/richmond-boil-water-notice-extended-fourth-day-after-valve-break/",
+      "ts": "2026-07-17T18:57:30+00:00",
+      "summary": "Richmond lifted a boil water notice Friday that had been in effect since Tuesday."
+     },
+     {
+      "id": "4FQG6XYUKNEM5AI3W33BMDFMP4",
+      "title": "Rail View Dairy named Vermont Dairy Farm of the Year",
+      "link": "https://www.wcax.com/2026/07/17/rail-view-dairy-named-vermont-dairy-farm-year/",
+      "ts": "2026-07-17T18:38:18+00:00",
+      "summary": "Congratulations to Rail View Dairy in New Haven, the 2026 Vermont Dairy Farm of the year"
+     },
+     {
+      "id": "OVRHE2WGR5GOBFDKVRFZ2SKL6Q",
+      "title": "Vermont AG and secretary of state push back on Trump’s election integrity claims",
+      "link": "https://www.wcax.com/2026/07/17/vermont-ag-secretary-state-push-back-trumps-election-integrity-claims/",
+      "ts": "2026-07-17T17:44:39+00:00",
+      "summary": "In a joint statement, Vermont Attorney General Charity Clark and Secretary of State Sarah Copeland Hanzas assured that elections in Vermont — and the nation — are free, fair, accessible, and secure."
+     },
+     {
       "id": "HN3S7TE33RBJRGNU4HHGV7CQOM",
       "title": "NH man charged with assault with deadly weapon after Thursday night attack",
       "link": "https://www.wcax.com/2026/07/17/nh-man-charged-with-assault-with-deadly-weapon-after-thursday-night-attack/",
@@ -1008,13 +1046,6 @@
       "link": "https://www.wcax.com/2026/07/14/campaign-countdown-vermont-democrats-lieutenant-governor/",
       "ts": "2026-07-17T01:01:35+00:00",
       "summary": "Three Democrats are vying for Vermont’s lieutenant governor seat in the Aug. 11 primary."
-     },
-     {
-      "id": "M7WIZRKERZAZHCFQPWNO4XKQ5I",
-      "title": "Richmond boil water notice extended a fourth day after valve break",
-      "link": "https://www.wcax.com/2026/07/17/richmond-boil-water-notice-extended-fourth-day-after-valve-break/",
-      "ts": "2026-07-17T00:18:08+00:00",
-      "summary": "Residents served by Richmond Water Resource who have been without potable water for three days will have to wait at least one more day before the boil water notice is lifted."
      },
      {
       "id": "JQYBUO2HYRHUZPFM4D6ZOIMI2A",
@@ -1281,32 +1312,39 @@
       "link": "https://www.wcax.com/2026/07/15/police-lookout-chick-thief/",
       "ts": "2026-07-15T19:46:53+00:00",
       "summary": "Police are investigating after someone made off with a container of baby chicks from a home in Randolph."
-     },
-     {
-      "id": "D5NLSGFOWVFZDN6V6OP2MFPZAE",
-      "title": "Wildfires expose millions in the Midwest and Northeast US to dangerous smoke",
-      "link": "https://www.wcax.com/2026/07/15/wildfires-expose-millions-midwest-northeast-us-dangerous-smoke/",
-      "ts": "2026-07-15T18:42:42+00:00",
-      "summary": "Heavy smoke from several large wildfires blazing in Canada and Minnesota is expected to engulf large swaths of the Midwest and Northeast U.S. this week, exposing millions of people to dangerous air pollution."
-     },
-     {
-      "id": "M7LWHQR4BNBHDFJECXEYOPWVHQ",
-      "title": "Driver charged in fiery Plattsburgh crash involving state troopers",
-      "link": "https://www.wcax.com/2026/07/14/driver-charged-fiery-plattsburgh-crash-involving-state-troopers/",
-      "ts": "2026-07-15T18:26:09+00:00",
-      "summary": "Two New York state troopers were taken to the hospital after a fiery crash"
-     },
-     {
-      "id": "TRV7HEGFZRETTO5VAT2NWPIJBI",
-      "title": "POLL: Should daylight saving time be permanent?",
-      "link": "https://www.wcax.com/2026/07/15/poll-should-daylight-saving-time-be-permanent/",
-      "ts": "2026-07-15T16:33:27+00:00",
-      "summary": "Answer our poll to see what people in our region are saying about this possible change to the way we keep time."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73172314",
+      "title": "US to auction off sections of water around American Samoa in deep-sea mining push",
+      "link": "https://www.mynbc5.com/article/us-auction-water-american-samoa-deep-sea-mining/73172314",
+      "ts": "2026-07-17T19:34:00+00:00",
+      "summary": "The U.S. plans to auction off sections of water for potential deep-sea mining, which scientists warn could unleash suffocating dust storms and affect fragile marine life."
+     },
+     {
+      "id": "73172594",
+      "title": "Vermont secretary of state, attorney general react to President Trump's election security speech",
+      "link": "https://www.mynbc5.com/article/trump-election-security-speech-copeland-hanzas-clark-reaction/73172594",
+      "ts": "2026-07-17T19:29:00+00:00",
+      "summary": "Secretary of State Sarah Copeland Hanzas called it \"unfathomable\" that President Trump continues to focus on the results of the 2020 election"
+     },
+     {
+      "id": "73172599",
+      "title": "Taylor Fresh Foods pulls iceberg lettuce from U.S. market following cyclosporiasis outbreak",
+      "link": "https://www.mynbc5.com/article/taylor-farms-pulls-iceberg-lettuce-cyclospora-outbreak/73172599",
+      "ts": "2026-07-17T19:23:00+00:00",
+      "summary": "Taylor Fresh Foods is pulling all iceberg lettuce from central Mexico after shredded lettuce sold at some Taco Bell restaurants was linked to a cyclosporiasis outbreak in five states."
+     },
+     {
+      "id": "73171180",
+      "title": "Powerful 7.3-magnitude earthquake hits off Mexico’s southern coast",
+      "link": "https://www.mynbc5.com/article/mexico-earthquake-southern-coast/73171180",
+      "ts": "2026-07-17T17:39:00+00:00",
+      "summary": "A powerful earthquake in southern Mexico shook nearby countries Guatemala and El Salvador on Friday, with the U.S. Geological Survey measuring its preliminary magnitude at 7.3."
+     },
      {
       "id": "73171811",
       "title": "Woman taken into ICE custody at Logan Airport after attending Noah Kahan concert",
@@ -1334,13 +1372,6 @@
       "link": "https://www.mynbc5.com/article/beautiful-sunshine-friday-as-smoke-temporarily-clears-7-17-26/72839654",
       "ts": "2026-07-17T16:30:00+00:00",
       "summary": "Showers and storms likely Saturday as smoke returns"
-     },
-     {
-      "id": "73171180",
-      "title": "Powerful 7.3-magnitude earthquake hits off Mexico’s southern coast",
-      "link": "https://www.mynbc5.com/article/mexico-earthquake-southern-coast/73171180",
-      "ts": "2026-07-17T16:22:00+00:00",
-      "summary": "A powerful earthquake in southern Mexico shook nearby countries Guatemala and El Salvador on Friday, with the U.S. Geological Survey measuring its preliminary magnitude at 7.3."
      },
      {
       "id": "73170782",
@@ -1406,13 +1437,6 @@
       "summary": "Friday marks the 50th anniversary of the summer Olympics in Montreal, which is remembered for the first-ever “Perfect 10” score on the uneven bars by Romanian gymnast Nadia Comaneci."
      },
      {
-      "id": "72551882",
-      "title": "Flash floods in Texas leave at least 2 dead in region devastated a year ago",
-      "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
-      "ts": "2026-07-17T14:31:00+00:00",
-      "summary": "Authorities in Texas have rescued hundreds of stranded drivers and people trapped in homes, and at least two people have died due to catastrophic flooding."
-     },
-     {
       "id": "72902656",
       "title": "Relatives say ICE officer in deadly Maine shooting had history of violent behavior",
       "link": "https://www.mynbc5.com/article/ice-officer-maine-shooting-history-family-records/72902656",
@@ -1420,32 +1444,18 @@
       "summary": "The Immigration and Customs Enforcement officer who shot a Colombian man in Maine this week is an Army veteran who has struggled with serious mental health issues since early childhood, according to close relatives who spoke to The Associated Press."
      },
      {
+      "id": "72551882",
+      "title": "Flash floods in Texas leave at least 2 dead in region devastated a year ago",
+      "link": "https://www.mynbc5.com/article/texas-flooding-rainstorms-rescues/72551882",
+      "ts": "2026-07-17T14:31:00+00:00",
+      "summary": "Authorities in Texas have rescued hundreds of stranded drivers and people trapped in homes, and at least two people have died due to catastrophic flooding."
+     },
+     {
       "id": "73169319",
       "title": "Oscar winner Brenda Fricker, known for ‘My Left Foot’ and ‘Home Alone 2,’ dead at 81",
       "link": "https://www.mynbc5.com/article/brenda-fricker-pigeon-lady-home-alone-dead-81/73169319",
       "ts": "2026-07-17T13:57:00+00:00",
       "summary": "Oscar-winning actress Brenda Fricker, known for her roles in \"My Left Foot\" and \"Home Alone 2,\" has died."
-     },
-     {
-      "id": "73165847",
-      "title": "Tanker fire closes portion of Interstate in Chittenden County",
-      "link": "https://www.mynbc5.com/article/tanker-fire-closes-interstate-colchester/73165847",
-      "ts": "2026-07-17T13:48:00+00:00",
-      "summary": "Both southbound lanes of Interstate 89 were obstructed early Friday morning after an oil tanker caught fire between Milton and Colchester."
-     },
-     {
-      "id": "72969712",
-      "title": "Vermonters say they won't 'sit back' after latest ICE agent killings",
-      "link": "https://www.mynbc5.com/article/vermonters-protest-shooting-deaths/72969712",
-      "ts": "2026-07-17T13:39:00+00:00",
-      "summary": "Vermonters marched from Burlington City Hall to the federal building on Elmwood Ave. on Thursday to stand up against ICE agents killing immigrants across U.S."
-     },
-     {
-      "id": "71935074",
-      "title": "Body of man recovered following drowning in North Hero",
-      "link": "https://www.mynbc5.com/article/fatal-drowning-north-hero/71935074",
-      "ts": "2026-07-17T13:01:00+00:00",
-      "summary": "The body of a missing swimmer has been recovered in North Hero, according to police."
      }
     ]
    },
