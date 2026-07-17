@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-17T16:03:18+00:00",
+ "updated": "2026-07-17T17:47:28+00:00",
  "source": "City of Burlington beach tracker (burlingtonvt.gov/1219)",
  "note": "E. coli sampled Mon + Thu, posted by 11 AM Tue/Fri; cyanobacteria checked daily in season. Closed = advisory or E. coli over 235.",
  "beaches": [
@@ -13,16 +13,16 @@
   {
    "name": "Leddy Park",
    "status": "green",
-   "reason": "Open (E. coli 2 MPN, under the 235 limit)",
-   "ecoli": 2,
-   "sampled": "07/17/2026 7:59 AM"
+   "reason": "Open — tested clean",
+   "ecoli": null,
+   "sampled": "07/17/2026 12:12 PM"
   },
   {
    "name": "Blanchard Beach",
    "status": "green",
-   "reason": "Open (E. coli 6 MPN, under the 235 limit)",
-   "ecoli": 6,
-   "sampled": "07/17/2026 8:01 AM"
+   "reason": "Open — tested clean",
+   "ecoli": null,
+   "sampled": "07/17/2026 12:43 PM"
   },
   {
    "name": "Texaco Beach",
