@@ -1,6 +1,159 @@
 {
- "updated": "2026-07-15T11:55:18+00:00",
+ "updated": "2026-07-17T11:48:14+00:00",
  "jobs": [
+  {
+   "id": "uvm-87335",
+   "title": "CAS Admin Coordinator, School of World Languages & Cultures",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://www.uvmjobs.com/postings/87335",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87330",
+   "title": "VTSGC Program Administrator/Coordinator",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://www.uvmjobs.com/postings/87330",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "state-of-vermont-1384711000",
+   "title": "Motor Vehicle Direct Client Service Specialist I - Temporary",
+   "employer": "State of Vermont — Transportation Agency",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://careers.vermont.gov/job/So_-Burlington-Motor-Vehicle-Direct-Client-Service-Specialist-I-Temporary-VT-05401/1384711000/",
+   "source": "State of Vermont",
+   "tags": [
+    "city",
+    "seasonal"
+   ]
+  },
+  {
+   "id": "seven-days-f31dfbf3b4a8",
+   "title": "Coordinated Entry Administrative Specialist",
+   "employer": "Champlain Valley Office of Economic Opportunity",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://jobs.sevendaysvt.com/job/nonprofit/champlain-valley-office-of-economic-opportunity-burlington-full-time-coordinated-entry-administrative-specialist/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-f275841a5e52",
+   "title": "Legal Assistant",
+   "employer": "Sheehey Furlong & Behm",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://jobs.sevendaysvt.com/job/legal-government/sheehey-furlong-and-behm-legal-assistant-2-3/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-da0fb80470fd",
+   "title": "Distribution and Receiving Coordinator",
+   "employer": "CVOEO",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://jobs.sevendaysvt.com/job/nonprofit/cvoeo-distribution-and-receiving-coordinator/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-af926a4e0537",
+   "title": "Kitchen and Facility Manager",
+   "employer": "UVM Hillel",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://jobs.sevendaysvt.com/job/restaurant-food-service/kitchen-and-facility-manager/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-acbd7fa15d08",
+   "title": "VTT Tenant Advocate",
+   "employer": "Champlain Valley Office of Economic Opportunity",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://jobs.sevendaysvt.com/job/nonprofit/champlain-valley-office-of-economic-opportunity-burlington-part-time-vtt-tenant-advocate/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-5fee1b954bf1",
+   "title": "Case Administrator",
+   "employer": "United States Bankruptcy Court",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://jobs.sevendaysvt.com/job/legal-government/united-states-bankruptcy-court-case-administrator/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-35933aa0b6ba",
+   "title": "Case Administrator",
+   "employer": "United States District Court",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://jobs.sevendaysvt.com/job/legal-government/united-states-district-court-case-administrator/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-286653ccf2ed",
+   "title": "Aide for Young Man with Autism",
+   "employer": "Kieselstein Autism Program",
+   "pay": null,
+   "posted": "2026-07-16",
+   "url": "https://jobs.sevendaysvt.com/job/healthcare/kieselstein-autism-program-burlington-vermont-usa-part-time-aide-for-young-man-with-autism/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "uvm-87318",
+   "title": "Research Administrator",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-15",
+   "url": "https://www.uvmjobs.com/postings/87318",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87309",
+   "title": "Research Biosafety Officer",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-15",
+   "url": "https://www.uvmjobs.com/postings/87309",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87302",
+   "title": "Video & Accessibility Services Specialist",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-15",
+   "url": "https://www.uvmjobs.com/postings/87302",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87297",
+   "title": "Biomedical Equipment Technician I",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-15",
+   "url": "https://www.uvmjobs.com/postings/87297",
+   "source": "UVM",
+   "tags": []
+  },
   {
    "id": "state-of-vermont-1366750800",
    "title": "Reemployment Services and Eligibility Assessment Program Facilitator",
@@ -11,6 +164,56 @@
    "source": "State of Vermont",
    "tags": [
     "city"
+   ]
+  },
+  {
+   "id": "seven-days-48f39afc8b04",
+   "title": "Accountant / Bookkeeper",
+   "employer": "The 4x4 Center",
+   "pay": null,
+   "posted": "2026-07-15",
+   "url": "https://jobs.sevendaysvt.com/job/accounting-finance/the-4x4-center-south-burlington-full-time-part-time-accountant-bookkeeper/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "city-of-burlington-5411053",
+   "title": "Customer Service Associate",
+   "employer": "City of Burlington — Clerk/Treasurer",
+   "pay": "$58,406.40 - $65,062.40 Annually",
+   "posted": "2026-07-15",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5411053/customer-service-associate",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "pay25"
+   ]
+  },
+  {
+   "id": "city-of-burlington-5410877",
+   "title": "Trusted Community Voices Liaison",
+   "employer": "City of Burlington — Racial Equity, Inclusion & Belonging",
+   "pay": "$30.00 Hourly",
+   "posted": "2026-07-15",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5410877/trusted-community-voices-liaison",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "pay25",
+    "seasonal"
+   ]
+  },
+  {
+   "id": "city-of-burlington-5374760",
+   "title": "Assistant City Attorney",
+   "employer": "City of Burlington — City Attorney",
+   "pay": "$101,783.98 - $113,642.34 Annually",
+   "posted": "2026-07-15",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5374760/assistant-city-attorney",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "pay25"
    ]
   },
   {
@@ -31,16 +234,6 @@
    "posted": "2026-07-14",
    "url": "https://uvmhealthcareers.org/job/11898/staff-sonographer-diagnostic-imaging-us-vt-burlington-111-colchester-ave/",
    "source": "UVM Med Center",
-   "tags": []
-  },
-  {
-   "id": "uvm-87282",
-   "title": "CAS Admin Coordinator, School of World Languages & Cultures",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-14",
-   "url": "https://www.uvmjobs.com/postings/87282",
-   "source": "UVM",
    "tags": []
   },
   {
@@ -72,18 +265,6 @@
    "url": "https://www.uvmjobs.com/postings/87263",
    "source": "UVM",
    "tags": []
-  },
-  {
-   "id": "seven-days-f98abbe2e862",
-   "title": "Building Maintenance & Custodian",
-   "employer": "Spectrum",
-   "pay": null,
-   "posted": "2026-07-14",
-   "url": "https://jobs.sevendaysvt.com/job/construction-trades/spectrum-building-maintenance-custodian-4/",
-   "source": "Seven Days",
-   "tags": [
-    "no-degree"
-   ]
   },
   {
    "id": "seven-days-c1986c653f00",
@@ -164,78 +345,6 @@
    "tags": [
     "city",
     "seasonal"
-   ]
-  },
-  {
-   "id": "seven-days-86d8e0803fb9",
-   "title": "Clinic Assistant",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://jobs.sevendaysvt.com/job/healthcare/uvm-clinic-assistant/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "seven-days-823aac43a561",
-   "title": "Housing Retention Specialist",
-   "employer": "Burlington Housing Authority",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://jobs.sevendaysvt.com/job/admin-office/burlington-housing-authority-housing-retention-specialist-2-roles/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "seven-days-79cccd9dd1ed",
-   "title": "Licensed Nurse (LPN/RN)",
-   "employer": "Lund",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://jobs.sevendaysvt.com/job/nonprofit/lund-licensed-nurse-lpn-rn/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "seven-days-76abee026d98",
-   "title": "Health Care RN – UVM Student Health Services",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://jobs.sevendaysvt.com/job/healthcare/health-care-rn-uvm-student-health-services/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "seven-days-5f876dfec2b3",
-   "title": "Youth Programming Coordinator",
-   "employer": "NFI",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://jobs.sevendaysvt.com/job/nonprofit/youth-programming-coordinator/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "seven-days-3d7ec5d2d742",
-   "title": "Housing Retention Specialist – Site Based",
-   "employer": "Burlington Housing Authority",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://jobs.sevendaysvt.com/job/nonprofit/burlington-housing-authority-housing-retention-specialist-12/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "seven-days-1201f395aad1",
-   "title": "Cafe Cook",
-   "employer": "OnLogic",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://jobs.sevendaysvt.com/job/restaurant-food-service/onlogic-south-burlington-full-time-cafe-cook/",
-   "source": "Seven Days",
-   "tags": [
-    "no-degree"
    ]
   },
   {
@@ -354,71 +463,11 @@
    "tags": []
   },
   {
-   "id": "seven-days-1946c30fa9f8",
-   "title": "Program Support Generalist",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-10",
-   "url": "https://jobs.sevendaysvt.com/job/admin-office/uvm-program-support-generalist/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
-   "id": "uvm-87218",
-   "title": "Cash Management Analyst",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-09",
-   "url": "https://www.uvmjobs.com/postings/87218",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87212",
-   "title": "Business Process Improvement Analyst",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-09",
-   "url": "https://www.uvmjobs.com/postings/87212",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87208",
-   "title": "LCOM IT Support Technician",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-09",
-   "url": "https://www.uvmjobs.com/postings/87208",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87199",
-   "title": "RN",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-09",
-   "url": "https://www.uvmjobs.com/postings/87199",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87196",
-   "title": "Athletic Trainer",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-09",
-   "url": "https://www.uvmjobs.com/postings/87196",
-   "source": "UVM",
-   "tags": []
-  },
-  {
    "id": "city-of-burlington-5404383",
    "title": "Emergency Communications Specialist",
    "employer": "City of Burlington — Police",
    "pay": "$67,589.60 - $75,355.90 Annually",
-   "posted": "2026-07-09",
+   "posted": "2026-07-10",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5404383/emergency-communications-specialist",
    "source": "City of Burlington",
    "tags": [
@@ -431,94 +480,13 @@
    "title": "Temporary General Services Assistant",
    "employer": "City of Burlington — Burlington Electric",
    "pay": "$25.00 Hourly",
-   "posted": "2026-07-09",
+   "posted": "2026-07-10",
    "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5404277/temporary-general-services-assistant",
    "source": "City of Burlington",
    "tags": [
     "city",
     "pay25",
     "seasonal"
-   ]
-  },
-  {
-   "id": "uvm-87166",
-   "title": "Veteran Housing Service Coordinator- Northern VT Region",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-08",
-   "url": "https://www.uvmjobs.com/postings/87166",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87160",
-   "title": "Event & Scheduling Coordinator",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-08",
-   "url": "https://www.uvmjobs.com/postings/87160",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87151",
-   "title": "HVAC Mechanic",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-08",
-   "url": "https://www.uvmjobs.com/postings/87151",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87148",
-   "title": "HVAC Technician",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-08",
-   "url": "https://www.uvmjobs.com/postings/87148",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "city-of-burlington-5402063",
-   "title": "Right of Way Field Technician I",
-   "employer": "City of Burlington — Public Works",
-   "pay": "$58,406.40 - $65,041.60 Annually",
-   "posted": "2026-07-08",
-   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5402063/right-of-way-field-technician-i",
-   "source": "City of Burlington",
-   "tags": [
-    "city",
-    "pay25"
-   ]
-  },
-  {
-   "id": "city-of-burlington-5401969",
-   "title": "Street Laborer-Temporary",
-   "employer": "City of Burlington — Public Works",
-   "pay": "$22.50 - $25.00 Hourly",
-   "posted": "2026-07-08",
-   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401969/street-laborer-temporary",
-   "source": "City of Burlington",
-   "tags": [
-    "city",
-    "no-degree",
-    "seasonal"
-   ]
-  },
-  {
-   "id": "city-of-burlington-5401459",
-   "title": "Fleet Maintenance Technician",
-   "employer": "City of Burlington — Public Works",
-   "pay": "$65,915.20 - $73,465.60 Annually",
-   "posted": "2026-07-08",
-   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5401459/fleet-maintenance-technician",
-   "source": "City of Burlington",
-   "tags": [
-    "city",
-    "no-degree",
-    "pay25"
    ]
   },
   {
