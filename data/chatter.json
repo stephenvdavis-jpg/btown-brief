@@ -1,47 +1,9 @@
 {
-  "updated": "2026-07-17T23:29:45+00:00",
+  "updated": "2026-07-18T11:31:39+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
-    {
-      "id": "smoke-friday-last",
-      "label": "A sunny smoke free Friday for the Main Street Block Party…",
-      "direction": "hot",
-      "posts": 4,
-      "comments": null,
-      "last_activity": "2026-07-17T17:04:49+00:00",
-      "sources": [
-        {
-          "title": "A sunny smoke free Friday for the Main Street Block Party, Brewers Fest, and Brownell Library's 100th birthday, a stacked Saturday with steamroller printmaking, a gem and fossil show, and a sold out playoff match, and a Sunday built around Argentina vs Spain, this weekend has tons to explore",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz4622/a_sunny_smoke_free_friday_for_the_main_street/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T17:04:49+00:00",
-          "comments": null
-        },
-        {
-          "title": "Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
-          "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T20:02:13+00:00",
-          "comments": null
-        },
-        {
-          "title": "Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
-          "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
-          "sub": "r/burlington",
-          "when": "2026-07-15T17:02:19+00:00",
-          "comments": null
-        },
-        {
-          "title": "Did anyone get any severe weather last night?",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux0sbe/did_anyone_get_any_severe_weather_last_night/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T10:03:12+00:00",
-          "comments": null
-        }
-      ]
-    },
     {
       "id": "ben-jerry-foundation",
       "label": "Boycott Ben & Jerry's!",
@@ -81,25 +43,39 @@
       ]
     },
     {
-      "id": "beach-north-farm",
-      "label": "North of Star Farm Beach",
+      "id": "smoke-friday-saturday",
+      "label": "Question for former staff about Mirabelle's from Main Street Era",
       "direction": "hot",
-      "posts": 2,
+      "posts": 4,
       "comments": null,
-      "last_activity": "2026-07-17T23:04:21+00:00",
+      "last_activity": "2026-07-18T05:04:20+00:00",
       "sources": [
         {
-          "title": "North of Star Farm Beach",
-          "url": "https://www.reddit.com/r/burlington/comments/1uzc2ql/north_of_star_farm_beach/",
+          "title": "Question for former staff about Mirabelle's from Main Street Era",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzjb3a/question_for_former_staff_about_mirabelles_from/",
           "sub": "r/burlington",
-          "when": "2026-07-17T23:04:21+00:00",
+          "when": "2026-07-18T05:04:20+00:00",
           "comments": null
         },
         {
-          "title": "Massive Upgrade at Oakledge - Goodbye North Beach",
-          "url": "https://www.reddit.com/r/burlington/comments/1uyff7y/massive_upgrade_at_oakledge_goodbye_north_beach/",
+          "title": "A sunny smoke free Friday for the Main Street Block Party, Brewers Fest, and Brownell Library's 100th birthday, a stacked Saturday with steamroller printmaking, a gem and fossil show, and a sold out playoff match, and a Sunday built around Argentina vs Spain, this weekend has tons to explore",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz4622/a_sunny_smoke_free_friday_for_the_main_street/",
           "sub": "r/burlington",
-          "when": "2026-07-16T23:03:44+00:00",
+          "when": "2026-07-17T17:04:49+00:00",
+          "comments": null
+        },
+        {
+          "title": "Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
+          "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
+          "sub": "r/burlington",
+          "when": "2026-07-16T20:02:13+00:00",
+          "comments": null
+        },
+        {
+          "title": "Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
+          "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
+          "sub": "r/burlington",
+          "when": "2026-07-15T17:02:19+00:00",
           "comments": null
         }
       ]
@@ -177,25 +153,49 @@
       ]
     },
     {
-      "id": "article-campaign-first",
-      "label": "Brickner Campaign Reports Broad, Local Support In First…",
+      "id": "beach-north-farm",
+      "label": "North of Star Farm Beach",
       "direction": "rising",
       "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-17T01:04:29+00:00",
+      "last_activity": "2026-07-17T23:04:21+00:00",
       "sources": [
         {
-          "title": "Brickner Campaign Reports Broad, Local Support In First Campaign Finance Filing",
-          "url": "https://www.reddit.com/r/vermont/comments/1uyjrqv/brickner_campaign_reports_broad_local_support_in/",
-          "sub": "r/vermont",
-          "when": "2026-07-17T01:04:29+00:00",
+          "title": "North of Star Farm Beach",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzc2ql/north_of_star_farm_beach/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T23:04:21+00:00",
           "comments": null
         },
         {
-          "title": "\"Second Homes First\" - A Support Group for City-Based STR Owners",
-          "url": "https://www.reddit.com/r/vermont/comments/1ux6hso/second_homes_first_a_support_group_for_citybased/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T16:02:20+00:00",
+          "title": "Massive Upgrade at Oakledge - Goodbye North Beach",
+          "url": "https://www.reddit.com/r/burlington/comments/1uyff7y/massive_upgrade_at_oakledge_goodbye_north_beach/",
+          "sub": "r/burlington",
+          "when": "2026-07-16T23:03:44+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "removal-tattoo-get",
+      "label": "Tattoo Removal Recommendations",
+      "direction": "rising",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-18T05:04:20+00:00",
+      "sources": [
+        {
+          "title": "Tattoo Removal Recommendations",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzj0d8/tattoo_removal_recommendations/",
+          "sub": "r/burlington",
+          "when": "2026-07-18T05:04:20+00:00",
+          "comments": null
+        },
+        {
+          "title": "Tattoo Removal",
+          "url": "https://www.reddit.com/r/burlington/comments/1ux493k/tattoo_removal/",
+          "sub": "r/burlington",
+          "when": "2026-07-15T14:02:28+00:00",
           "comments": null
         }
       ]
@@ -220,6 +220,17 @@
   ],
   "highlights": [
     {
+      "slot": "useful_question",
+      "slot_label": "Most useful neighbor question",
+      "title": "Tractor repair places in Northwestern VT?",
+      "url": "https://www.reddit.com/r/vermont/comments/1uzed7y/tractor_repair_places_in_northwestern_vt/",
+      "sub": "r/vermont",
+      "when": "2026-07-18T01:04:41+00:00",
+      "blurb": "I am wondering if there are any good places to get my tractor worked on somewhere in the Northwestern VT area. This past winter it…",
+      "comments": null,
+      "unverified": false
+    },
+    {
       "slot": "funniest",
       "slot_label": "Funniest local post",
       "title": "North of Star Farm Beach",
@@ -233,22 +244,22 @@
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
-      "title": "School Board Backs CVU Artificial Turf Field Project despite residents' concerns.",
-      "url": "https://www.reddit.com/r/vermont/comments/1uz0lmw/school_board_backs_cvu_artificial_turf_field/",
-      "sub": "r/vermont",
-      "when": "2026-07-17T16:04:29+00:00",
-      "blurb": "submitted by /u/Particular_Seat2857 [link] [comments]",
+      "title": "NLRB dismisses Healthy Living’s bid to overturn union election",
+      "url": "https://www.reddit.com/r/burlington/comments/1uzizyz/nlrb_dismisses_healthy_livings_bid_to_overturn/",
+      "sub": "r/burlington",
+      "when": "2026-07-18T02:03:21+00:00",
+      "blurb": "submitted by /u/Evening-Elevator-234 [link] [comments]",
       "comments": null,
       "unverified": false
     },
     {
       "slot": "needs_help",
       "slot_label": "Someone needs help",
-      "title": "Look what I found",
-      "url": "https://www.reddit.com/r/vermont/comments/1uz0src/look_what_i_found/",
+      "title": "Iso roomate",
+      "url": "https://www.reddit.com/r/vermont/comments/1uzfmiy/iso_roomate/",
       "sub": "r/vermont",
-      "when": "2026-07-17T16:04:29+00:00",
-      "blurb": "Cleaning air b&b on North Winooski and wander to next door yard...once the ground is a fricken headstone from the elmwood cemetery sottomg…",
+      "when": "2026-07-18T01:04:41+00:00",
+      "blurb": "Hello, I have an oppprtunity in Stowe for a job as Maintenance Superviser. Im currently in Montana. Lived previously in Asheville NC for…",
       "comments": null,
       "unverified": false
     },
@@ -301,8 +312,8 @@
   "stats": {
     "posts_scanned": 121,
     "per_source": {
-      "r/burlington": 61,
-      "r/vermont": 60
+      "r/burlington": 64,
+      "r/vermont": 57
     }
   }
 }
