@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-18T11:37:41+00:00",
+ "updated": "2026-07-18T12:39:24+00:00",
  "sections_updated": {
-  "now": "2026-07-18T11:37:41+00:00",
-  "forecast": "2026-07-18T11:37:41+00:00",
-  "hourly": "2026-07-18T11:37:41+00:00",
-  "alerts": "2026-07-18T11:37:41+00:00",
-  "afd": "2026-07-18T11:37:41+00:00",
-  "lake_forecast": "2026-07-18T11:37:41+00:00",
-  "lake_gage": "2026-07-18T11:37:41+00:00",
-  "air": "2026-07-18T11:37:41+00:00",
-  "sun": "2026-07-18T11:37:41+00:00",
-  "models": "2026-07-18T11:37:41+00:00"
+  "now": "2026-07-18T12:39:24+00:00",
+  "forecast": "2026-07-18T12:39:24+00:00",
+  "hourly": "2026-07-18T12:39:24+00:00",
+  "alerts": "2026-07-18T12:39:24+00:00",
+  "afd": "2026-07-18T12:39:24+00:00",
+  "lake_forecast": "2026-07-18T12:39:24+00:00",
+  "lake_gage": "2026-07-18T12:39:24+00:00",
+  "air": "2026-07-18T12:39:24+00:00",
+  "sun": "2026-07-18T12:39:24+00:00",
+  "models": "2026-07-18T12:39:24+00:00"
  },
  "now": {
-  "observed_at": "2026-07-18T11:25:00+00:00",
+  "observed_at": "2026-07-18T12:25:00+00:00",
   "station": "KBTV",
   "description": "Cloudy",
-  "temp_f": 64,
-  "feels_like_f": 64,
-  "humidity": 64,
+  "temp_f": 68,
+  "feels_like_f": 68,
+  "humidity": 56,
   "dewpoint_f": 52,
-  "wind_mph": 0,
+  "wind_mph": 5,
   "wind_gust_mph": null,
-  "wind_dir": "N"
+  "wind_dir": "SSW"
  },
  "forecast": {
   "updated": "2026-07-18T08:40:59+00:00",
@@ -32,9 +32,9 @@
     "is_day": true,
     "temp_f": 81,
     "pop": 63,
-    "wind": "S 9 to 17 mph",
+    "wind": "S 10 to 17 mph",
     "short": "Rain Showers Likely",
-    "detailed": "Rain showers likely before 1pm, then rain showers likely and patchy smoke between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely between 2pm and 4pm, then areas of smoke and a chance of showers and thunderstorms between 4pm and 5pm, then patchy smoke and showers and thunderstorms likely. Mostly cloudy, with a high near 81. South wind 9 to 17 mph, with gusts as high as 32 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+    "detailed": "Rain showers likely before 1pm, then rain showers likely and patchy smoke between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely between 2pm and 4pm, then areas of smoke and a chance of showers and thunderstorms between 4pm and 5pm, then patchy smoke and showers and thunderstorms likely. Mostly cloudy, with a high near 81. South wind 10 to 17 mph, with gusts as high as 32 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
    },
    {
     "name": "Tonight",
@@ -86,17 +86,6 @@
  "hourly": {
   "updated": "2026-07-18T08:40:59+00:00",
   "hours": [
-   {
-    "t": "2026-07-18T07:00:00-04:00",
-    "temp_f": 63,
-    "feels_f": 63,
-    "pop": 46,
-    "humidity": 70,
-    "wind_mph": 9,
-    "wind_dir": "S",
-    "sky": 76,
-    "short": "Chance Rain Showers"
-   },
    {
     "t": "2026-07-18T08:00:00-04:00",
     "temp_f": 66,
@@ -481,6 +470,17 @@
     "wind_dir": "NW",
     "sky": 14,
     "short": "Mostly Clear"
+   },
+   {
+    "t": "2026-07-19T19:00:00-04:00",
+    "temp_f": 73,
+    "feels_f": 73,
+    "pop": 0,
+    "humidity": 46,
+    "wind_mph": 12,
+    "wind_dir": "NW",
+    "sky": 17,
+    "short": "Mostly Clear"
    }
   ]
  },
@@ -495,14 +495,14 @@
   ]
  },
  "afd": {
-  "issued": "2026-07-18T06:33:00+00:00",
+  "issued": "2026-07-18T11:50:00+00:00",
   "key_messages": [
    "Thunderstorms and heavy rain this afternoon and evening.",
    "Seasonably cool weather and intervals of wildfire smoke expected over the next few days.",
    "Frontal passages bring chances for showers and thunderstorms Tuesday night into Wednesday before high pressure dominates our weather on Thursday and Friday."
   ],
   "what_changed": "As of 232 AM EDT Saturday... No significant changes.",
-  "raw": "\n000\nFXUS61 KBTV 180633\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n233 AM EDT Sat Jul 18 2026\n\n.WHAT HAS CHANGED...\nAs of 232 AM EDT Saturday...\n\nNo significant changes.\n\n&&\n\n.KEY MESSAGES...\nAs of 232 AM EDT Saturday...\n\n1. Thunderstorms and heavy rain this afternoon and evening. \n\n2. Seasonably cool weather and intervals of wildfire smoke \nexpected over the next few days. \n\n3. Frontal passages bring chances for showers and thunderstorms \nTuesday night into Wednesday before high pressure dominates our \nweather on Thursday and Friday.\n\n&&\n\n.DISCUSSION...\nAs of 232 AM EDT Saturday...\n\nKEY MESSAGE 1: An anomalously strong low for the time of year (~995 mb) \nwill track eastward from Ontario through southern Quebec today and \ntonight. Showers will be more widespread close to the international \nborder as the warm front and center of the low will be closer. A \npowerful cold front will come through in the afternoon and evening, \nbringing a round of showers and storms. The airmass ahead of the \nsystem will be relatively cool and not conducive to high \ninstability. Peak mean HREF SBCAPE values are around 500-750 J \nduring this time frame and earlier rounds of showers/clouds could \nprevent enough heating to reach these values. However, due to the \nstrength of the low, there will be strong shear and dynamics. 0-6 KM \nshear is forecast to be in the 40-50 KT range. One thing lacking \nwill be a significant surface wind shift/convergence with the front, \nwith southwesterly synoptic flow expected behind the front until the \ncenter of the surface low pushes east. Height falls will be quite \nsignificant though. The main threat from the storms is by far the \ndamaging winds, but there is a large amount of helicity where some \nlow level rotation will be possible. Based on this information, the \nSPC continued the region in a split between a slight and marginal \nrisk. These storms will contain heavy rain, but with strong \nbackground flow, the storms will move quickly and minimize the \nflooding threat. There also does not look to be a stalled axis of \nrain along the warm front on the front side that often occurs in \nthese setups. However, the threat for flooding cannot be completely \nruled out if areas see multiple rounds of heavy rain, with the \ngreatest threat of that being along the international border. In \nsummary, it is a conditional severe threat where little to no \ndevelopment could happen, but if just enough solar heating does \noccur, there could be several strong and severe storms this \nafternoon and evening.\n\nKEY MESSAGE 2: Highs look to be in the 70s to mid 80s over the next few \ndays, with slightly cooler conditions on Sunday. Lows will generally \nbe in the 50s and dew points will be relatively low. The wildfire \nsmoke makes a return for today as flow becomes westerly to \nsouthwesterly, bringing the smoke that is currently over the Midwest \nand Great Lakes into the region. Thankfully, behind the cold front \non Saturday, winds eventually become northwesterly and push the \nsmoke back to the south. The source of the smoke is fires in western \nOntario.\n\nKEY MESSAGE 3: A cold frontal boundary and upper level trough are both \nexpected to cross the forecast area Tuesday night into Wednesday, \nbringing another round of showers with embedded thunderstorms. By \nThursday morning surface high pressure will begin to ridge into the \nnorth country, bringing a return to drier weather once again. Headed \ninto the weekend not a lot of model agreement on what will happen. \nWill monitor the mid week period for potential strong or severe \nstorms as well as heavy rainfall. Highs for the mid and late week \nare expected to be around the 70s and lower 80s with lows in the \nupper 40s to lower 60s, though this may depend on how exactly the \natmospheric pattern shapes up during this period.\n\n&&\n\n.AVIATION /06Z SATURDAY THROUGH WEDNESDAY/...\nThrough 06Z Sunday...Quiet/VFR aviation weather conditions are \nexpected to prevail through 12Z Saturday. Light rain showers are\nspreading across our area overnight, but not expecting any\nreductions below VFR as activity remains light. Light and \nvariable winds overnight will become southerly after sunrise \nwith increasing gustiness; gusts to 25 kts are expected at BTV,\nespecially during Saturday afternoon. A low level jet will also\ncross the region from SW-NE starting around 12Z-15Z, so LLWS is\nforecast at most of the TAF locations except RUT. Included some\nvisibility restrictions during the daylight hours Saturday in \nhaze and wildfire smoke. In terms of precipitation, currently\nseeing a leading band of -SHRA, followed by a stronger line of \nshowers and possibly embedded thunderstorms during the late \nafternoon into the early evening hours. A few storms could be \nstrong to severe late in the day, but are not currently \nmentioned in the TAFs due to uncertainties related to timing and\nspatial coverage of activity. Brief heavy rainfall and gusty \nwinds will be possible.\n\nOutlook...\n\nSunday: Mainly VFR, with local MVFR possible. NO SIG WX.\nSunday Night: VFR. NO SIG WX.\nMonday: VFR. NO SIG WX.\nMonday Night: VFR. NO SIG WX.\nTuesday: Mainly VFR, with areas MVFR possible. Likely SHRA,\nChance TSRA.\nTuesday Night: Mainly MVFR, with local IFR possible. Definite\nSHRA, Chance TSRA.\nWednesday: MVFR/IFR conditions possible. Likely SHRA, Chance\nTSRA.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...Air Quality Alert from 6 AM this morning to 11 PM EDT this \n     evening for VTZ001>011-016>021.\nNY...Air Quality Alert until midnight EDT tonight for NYZ026>031-\n     034-035-087.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Myskowski\nDISCUSSION...Myskowski/Neiles\nAVIATION...Neiles\n"
+  "raw": "\n000\nFXUS61 KBTV 181150\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n750 AM EDT Sat Jul 18 2026\n\n.WHAT HAS CHANGED...\nAs of 232 AM EDT Saturday...\n\nNo significant changes.\n\n&&\n\n.KEY MESSAGES...\nAs of 232 AM EDT Saturday...\n\n1. Thunderstorms and heavy rain this afternoon and evening. \n\n2. Seasonably cool weather and intervals of wildfire smoke \nexpected over the next few days. \n\n3. Frontal passages bring chances for showers and thunderstorms\nTuesday night into Wednesday before high pressure dominates our\nweather on Thursday and Friday.\n\n&&\n\n.DISCUSSION...\nAs of 232 AM EDT Saturday...\n\nKEY MESSAGE 1: An anomalously strong low for the time of year \n(~995 mb) will track eastward from Ontario through southern \nQuebec today and tonight. Showers will be more widespread close \nto the international border as the warm front and center of the \nlow will be closer. A powerful cold front will come through in \nthe afternoon and evening, bringing a round of showers and \nstorms. The airmass ahead of the system will be relatively cool \nand not conducive to high instability. Peak mean HREF SBCAPE \nvalues are around 500-750 J during this time frame and earlier \nrounds of showers/clouds could prevent enough heating to reach \nthese values. However, due to the strength of the low, there \nwill be strong shear and dynamics. 0-6 KM shear is forecast to \nbe in the 40-50 KT range. One thing lacking will be a \nsignificant surface wind shift/convergence with the front, with \nsouthwesterly synoptic flow expected behind the front until the \ncenter of the surface low pushes east. Height falls will be \nquite significant though. The main threat from the storms is by \nfar the damaging winds, but there is a large amount of helicity \nwhere some low level rotation will be possible. Based on this \ninformation, the SPC continued the region in a split between a \nslight and marginal risk. These storms will contain heavy rain, \nbut with strong background flow, the storms will move quickly \nand minimize the flooding threat. There also does not look to be\na stalled axis of rain along the warm front on the front side \nthat often occurs in these setups. However, the threat for \nflooding cannot be completely ruled out if areas see multiple \nrounds of heavy rain, with the greatest threat of that being \nalong the international border. In summary, it is a conditional \nsevere threat where little to no development could happen, but \nif just enough solar heating does occur, there could be several \nstrong and severe storms this afternoon and evening.\n\nKEY MESSAGE 2: Highs look to be in the 70s to mid 80s over the \nnext few days, with slightly cooler conditions on Sunday. Lows \nwill generally be in the 50s and dew points will be relatively \nlow. The wildfire smoke makes a return for today as flow becomes\nwesterly to southwesterly, bringing the smoke that is currently\nover the Midwest and Great Lakes into the region. Thankfully, \nbehind the cold front on Saturday, winds eventually become \nnorthwesterly and push the smoke back to the south. The source \nof the smoke is fires in western Ontario.\n\nKEY MESSAGE 3: A cold frontal boundary and upper level trough \nare both expected to cross the forecast area Tuesday night into \nWednesday, bringing another round of showers with embedded \nthunderstorms. By Thursday morning surface high pressure will \nbegin to ridge into the north country, bringing a return to \ndrier weather once again. Headed into the weekend not a lot of \nmodel agreement on what will happen. Will monitor the mid week \nperiod for potential strong or severe storms as well as heavy \nrainfall. Highs for the mid and late week are expected to be \naround the 70s and lower 80s with lows in the upper 40s to lower\n60s, though this may depend on how exactly the atmospheric \npattern shapes up during this period.\n\n&&\n\n.AVIATION /12Z SATURDAY THROUGH WEDNESDAY/...\nThrough 12Z Sunday...Light rain showers are spreading across \nour area early this morning, but not expecting any reductions \nbelow VFR as activity remains light. Light and variable winds \nthis morning will become southerly this morning with increasing \ngustiness; gusts to 25 kts are expected at BTV, especially \nduring the afternoon. There may be some visibility restrictions \nduring the daylight hours today in haze and wildfire smoke, but \nhave left out of the TAFs for now due to uncertainty with how \nthis will evolve. Showers have been moving across the area \novernight, and thunderstorms upstream will be moving into the \narea as well. A few storms could be strong to severe late in the\nday, but are not currently mentioned in the TAFs due to \nuncertainties related to timing and spatial coverage of \nactivity. Brief heavy rainfall and gusty winds will be possible.\n\nOutlook...\n\nSunday: Mainly VFR, with local MVFR possible. NO SIG WX.\nSunday Night: VFR. NO SIG WX.\nMonday: VFR. NO SIG WX.\nMonday Night: VFR. NO SIG WX.\nTuesday: VFR. Likely SHRA, Chance TSRA.\nTuesday Night: MVFR/IFR conditions possible. Definite SHRA,\nSlight chance TSRA.\nWednesday: Mainly MVFR, with areas IFR possible. Likely SHRA,\nChance TSRA.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...Air Quality Alert until 11 PM EDT this evening for VTZ001>011-\n     016>021.\nNY...Air Quality Alert until midnight EDT tonight for NYZ026>031-\n     034-035-087.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Myskowski\nDISCUSSION...Myskowski/Neiles\nAVIATION...Neiles\n"
  },
  "lake_forecast": {
   "issued": "2026-07-18T06:19:00+00:00",
@@ -767,17 +767,17 @@
  },
  "lake_gage": {
   "water_temp_f": 72,
-  "water_temp_at": "2026-07-18T07:00:00.000-04:00",
-  "level_ft": 96.14,
-  "level_at": "2026-07-18T07:00:00.000-04:00",
+  "water_temp_at": "2026-07-18T08:00:00.000-04:00",
+  "level_ft": 96.11,
+  "level_at": "2026-07-18T08:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 32,
+  "aqi": 31,
   "category": "Good",
   "pollutant": "OZONE",
-  "observed": "07/18/26 7:00",
+  "observed": "07/18/26 8:00",
   "discussion": "On Saturday, July 18th, a health alert has been issued statewide across Vermont for Unhealthy for Sensitive Groups (USG) concentrations of fine particulate matter (PM25). Please note that PM25 concentrations may occur in the unhealthy range on an hourly basis for many locations in the state, especially in the late morning through afternoon hours.  Smoke from wildfires is expected to return to the New England region from the smoke plume currently stretching from the Ohio Valley to the mid atlantic region."
  },
  "sun": {
@@ -792,21 +792,21 @@
    {
     "date": "2026-07-18",
     "high_f": {
-     "GFS": 78,
+     "GFS": 77,
      "Euro": 82,
      "ICON": 82
     },
     "pop_max": {
-     "GFS": 44,
+     "GFS": 55,
      "Euro": 100,
      "ICON": 90
     },
     "precip_in": {
-     "GFS": 0.2,
+     "GFS": 0.16,
      "Euro": 0.24,
      "ICON": 0.33
     },
-    "high_spread_f": 4
+    "high_spread_f": 5
    },
    {
     "date": "2026-07-19",
@@ -816,7 +816,7 @@
      "ICON": 76
     },
     "pop_max": {
-     "GFS": 27,
+     "GFS": 26,
      "Euro": 52,
      "ICON": 10
     },
