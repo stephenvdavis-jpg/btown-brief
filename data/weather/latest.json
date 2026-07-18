@@ -1,40 +1,40 @@
 {
- "updated": "2026-07-18T01:07:05+00:00",
+ "updated": "2026-07-18T04:32:36+00:00",
  "sections_updated": {
-  "now": "2026-07-18T01:07:05+00:00",
-  "forecast": "2026-07-18T01:07:05+00:00",
-  "hourly": "2026-07-18T01:07:05+00:00",
-  "alerts": "2026-07-18T01:07:05+00:00",
-  "afd": "2026-07-18T01:07:05+00:00",
-  "lake_forecast": "2026-07-18T01:07:05+00:00",
-  "lake_gage": "2026-07-17T23:36:48+00:00",
-  "air": "2026-07-18T01:07:05+00:00",
-  "sun": "2026-07-18T01:07:05+00:00",
-  "models": "2026-07-18T01:07:05+00:00"
+  "now": "2026-07-18T04:32:36+00:00",
+  "forecast": "2026-07-18T04:32:36+00:00",
+  "hourly": "2026-07-18T04:32:36+00:00",
+  "alerts": "2026-07-18T04:32:36+00:00",
+  "afd": "2026-07-18T04:32:36+00:00",
+  "lake_forecast": "2026-07-18T04:32:36+00:00",
+  "lake_gage": "2026-07-18T04:32:36+00:00",
+  "air": "2026-07-18T04:32:36+00:00",
+  "sun": "2026-07-18T04:32:36+00:00",
+  "models": "2026-07-18T04:32:36+00:00"
  },
  "now": {
-  "observed_at": "2026-07-18T00:50:00+00:00",
+  "observed_at": "2026-07-18T04:10:00+00:00",
   "station": "KBTV",
-  "description": null,
-  "temp_f": 70,
-  "feels_like_f": 70,
-  "humidity": 46,
-  "dewpoint_f": 48,
+  "description": "Clear",
+  "temp_f": 63,
+  "feels_like_f": 63,
+  "humidity": 68,
+  "dewpoint_f": 52,
   "wind_mph": 3,
   "wind_gust_mph": null,
-  "wind_dir": "ESE"
+  "wind_dir": "E"
  },
  "forecast": {
-  "updated": "2026-07-17T18:26:21+00:00",
+  "updated": "2026-07-18T02:04:48+00:00",
   "periods": [
    {
-    "name": "Tonight",
+    "name": "Overnight",
     "is_day": false,
     "temp_f": 58,
     "pop": 3,
-    "wind": "SE 2 to 7 mph",
+    "wind": "SE 7 mph",
     "short": "Mostly Cloudy",
-    "detailed": "Mostly cloudy, with a low around 58. Southeast wind 2 to 7 mph."
+    "detailed": "Mostly cloudy, with a low around 58. Southeast wind around 7 mph."
    },
    {
     "name": "Saturday",
@@ -84,41 +84,8 @@
   ]
  },
  "hourly": {
-  "updated": "2026-07-17T18:26:21+00:00",
+  "updated": "2026-07-18T02:04:48+00:00",
   "hours": [
-   {
-    "t": "2026-07-17T21:00:00-04:00",
-    "temp_f": 69,
-    "feels_f": 69,
-    "pop": 0,
-    "humidity": 49,
-    "wind_mph": 2,
-    "wind_dir": "E",
-    "sky": 42,
-    "short": "Partly Cloudy"
-   },
-   {
-    "t": "2026-07-17T22:00:00-04:00",
-    "temp_f": 67,
-    "feels_f": 67,
-    "pop": 0,
-    "humidity": 56,
-    "wind_mph": 3,
-    "wind_dir": "SE",
-    "sky": 58,
-    "short": "Mostly Cloudy"
-   },
-   {
-    "t": "2026-07-17T23:00:00-04:00",
-    "temp_f": 65,
-    "feels_f": 65,
-    "pop": 0,
-    "humidity": 65,
-    "wind_mph": 5,
-    "wind_dir": "SE",
-    "sky": 45,
-    "short": "Partly Cloudy"
-   },
    {
     "t": "2026-07-18T00:00:00-04:00",
     "temp_f": 64,
@@ -481,6 +448,39 @@
     "wind_dir": "NW",
     "sky": 40,
     "short": "Mostly Sunny"
+   },
+   {
+    "t": "2026-07-19T09:00:00-04:00",
+    "temp_f": 68,
+    "feels_f": 68,
+    "pop": 2,
+    "humidity": 63,
+    "wind_mph": 14,
+    "wind_dir": "NW",
+    "sky": 14,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-19T10:00:00-04:00",
+    "temp_f": 70,
+    "feels_f": 70,
+    "pop": 2,
+    "humidity": 57,
+    "wind_mph": 14,
+    "wind_dir": "NW",
+    "sky": 21,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-19T11:00:00-04:00",
+    "temp_f": 72,
+    "feels_f": 72,
+    "pop": 2,
+    "humidity": 53,
+    "wind_mph": 14,
+    "wind_dir": "NW",
+    "sky": 28,
+    "short": "Mostly Sunny"
    }
   ]
  },
@@ -769,10 +769,10 @@
   }
  },
  "lake_gage": {
-  "water_temp_f": 73,
-  "water_temp_at": "2026-07-17T19:00:00.000-04:00",
-  "level_ft": 96.14,
-  "level_at": "2026-07-17T19:00:00.000-04:00",
+  "water_temp_f": 72,
+  "water_temp_at": "2026-07-18T00:00:00.000-04:00",
+  "level_ft": 96.11,
+  "level_at": "2026-07-18T00:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
@@ -780,28 +780,66 @@
   "aqi": 31,
   "category": "Good",
   "pollutant": "OZONE",
-  "observed": "07/17/26 20:00",
+  "observed": "07/18/26 0:00",
   "discussion": "On Saturday, July 18th, a health alert has been issued statewide across Vermont for Unhealthy for Sensitive Groups (USG) concentrations of fine particulate matter (PM25). Please note that PM25 concentrations may occur in the unhealthy range on an hourly basis for many locations in the state, especially in the late morning through afternoon hours.  Smoke from wildfires is expected to return to the New England region from the smoke plume currently stretching from the Ohio Valley to the mid atlantic region."
  },
  "sun": {
-  "sunrise": "2026-07-17T05:24-04:00",
-  "sunset": "2026-07-17T20:33-04:00",
-  "sunrise_tomorrow": "2026-07-18T05:25-04:00",
-  "sunset_tomorrow": "2026-07-18T20:32-04:00",
-  "uv_max": 7.4
+  "sunrise": "2026-07-18T05:25-04:00",
+  "sunset": "2026-07-18T20:32-04:00",
+  "sunrise_tomorrow": "2026-07-19T05:26-04:00",
+  "sunset_tomorrow": "2026-07-19T20:31-04:00",
+  "uv_max": 6.6
  },
  "models": {
   "days": [
    {
-    "date": "2026-07-17",
+    "date": "2026-07-18",
     "high_f": {
-     "GFS": 80,
-     "Euro": 76,
-     "ICON": 78
+     "GFS": 84,
+     "Euro": 83,
+     "ICON": 76
     },
     "pop_max": {
-     "GFS": 0,
-     "Euro": 0,
+     "GFS": 35,
+     "Euro": 98,
+     "ICON": 90
+    },
+    "precip_in": {
+     "GFS": 0.11,
+     "Euro": 0.25,
+     "ICON": 0.27
+    },
+    "high_spread_f": 8
+   },
+   {
+    "date": "2026-07-19",
+    "high_f": {
+     "GFS": 76,
+     "Euro": 75,
+     "ICON": 75
+    },
+    "pop_max": {
+     "GFS": 25,
+     "Euro": 62,
+     "ICON": 10
+    },
+    "precip_in": {
+     "GFS": 0.0,
+     "Euro": 0.07,
+     "ICON": 0.0
+    },
+    "high_spread_f": 1
+   },
+   {
+    "date": "2026-07-20",
+    "high_f": {
+     "GFS": 80,
+     "Euro": 79,
+     "ICON": 82
+    },
+    "pop_max": {
+     "GFS": 1,
+     "Euro": 4,
      "ICON": 0
     },
     "precip_in": {
@@ -809,45 +847,7 @@
      "Euro": 0.0,
      "ICON": 0.0
     },
-    "high_spread_f": 4
-   },
-   {
-    "date": "2026-07-18",
-    "high_f": {
-     "GFS": 83,
-     "Euro": 81,
-     "ICON": 82
-    },
-    "pop_max": {
-     "GFS": 41,
-     "Euro": 96,
-     "ICON": 70
-    },
-    "precip_in": {
-     "GFS": 0.53,
-     "Euro": 0.58,
-     "ICON": 0.32
-    },
-    "high_spread_f": 2
-   },
-   {
-    "date": "2026-07-19",
-    "high_f": {
-     "GFS": 72,
-     "Euro": 74,
-     "ICON": 74
-    },
-    "pop_max": {
-     "GFS": 22,
-     "Euro": 57,
-     "ICON": 13
-    },
-    "precip_in": {
-     "GFS": 0.0,
-     "Euro": 0.05,
-     "ICON": 0.0
-    },
-    "high_spread_f": 2
+    "high_spread_f": 3
    }
   ]
  }
