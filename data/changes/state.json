@@ -898,18 +898,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -1312,6 +1312,20 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73176309",
+      "title": "Lost dog found in Port Orange reunited with family after 7 years",
+      "link": "https://www.mynbc5.com/article/port-orange-lost-dog-reunited-after-7-years/73176309",
+      "ts": "2026-07-18T17:04:00+00:00",
+      "summary": "\"We drove around every day for about a week looking for her,\" the family said. \"As time went along, we just kind of gave up hope.\" What they didn't know was that Copper was still alive, hundreds of miles away."
+     },
+     {
+      "id": "73176046",
+      "title": "Rep. Ralph Norman announces he'll run to succeed Lindsey Graham in Senate",
+      "link": "https://www.mynbc5.com/article/ralph-norman-enter-race-succeed-lindsey-graham-senate/73176046",
+      "ts": "2026-07-18T15:58:00+00:00",
+      "summary": "Rep. Ralph Norman of South Carolina announced Saturday that he will run to replace Lindsey Graham in the Senate."
+     },
+     {
       "id": "73175211",
       "title": "Iran says it is suspending commitments to interim deal with US amid exchange of attacks",
       "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
@@ -1436,20 +1450,6 @@
       "link": "https://www.mynbc5.com/article/trump-administration-demands-oversight-of-states-voter-rolls/73173162",
       "ts": "2026-07-17T23:36:00+00:00",
       "summary": "Following President Donald Trump's speech on election security Thursday, the administration is now demanding states review voter rolls, while state officials continue to assert elections remain secure."
-     },
-     {
-      "id": "73174122",
-      "title": "Stormy, smoky Saturday",
-      "link": "https://www.mynbc5.com/article/stormy-smoky-saturday/73174122",
-      "ts": "2026-07-17T23:03:02+00:00",
-      "summary": "Severe storms possible"
-     },
-     {
-      "id": "73174103",
-      "title": "Lawmakers call for New Hampshire representative to resign over her defense for speeding",
-      "link": "https://www.mynbc5.com/article/new-hampshire-state-rep-ellen-read-constitution-speeding/73174103",
-      "ts": "2026-07-17T23:02:00+00:00",
-      "summary": "There are bipartisan calls for the removal of a state representative who has been recently criticized for saying she should not be pulled over for speeding."
      }
     ]
    },

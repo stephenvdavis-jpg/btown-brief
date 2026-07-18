@@ -1,39 +1,6 @@
 {
- "generated": "2026-07-18T15:26:26+00:00",
+ "generated": "2026-07-18T17:26:58+00:00",
  "events": [
-  {
-   "ts": "2026-07-11T15:27:12+00:00",
-   "category": "cityhall",
-   "headline": "Planning Commission Meeting - Collaborative Working Group on Inclusionary Zoning agenda posted",
-   "detail": "meets Tuesday, Jul 14",
-   "url": "https://burlingtonvt.portal.civicclerk.com/event/9957/overview",
-   "source": "civicclerk",
-   "sourceName": "City meeting portal",
-   "priority": 2,
-   "kind": "changed"
-  },
-  {
-   "ts": "2026-07-11T16:59:44+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: It’s USLW National Semifinal Matchday!",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1utp0oe/its_uslw_national_semifinal_matchday/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T16:59:44+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: 🦷 Never Had a Teeth Cleaning Before? This Opportunity Is for You! 🦷",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uto6bu/never_had_a_teeth_cleaning_before_this/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-11T21:24:06+00:00",
    "category": "events",
