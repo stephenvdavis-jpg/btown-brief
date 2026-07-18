@@ -13,7 +13,7 @@
   ],
   "forecast_flag": {
    "day": "2026-07-18",
-   "text": "Today: Rain showers likely before 1pm, then rain showers likely and patchy smoke between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely between 2pm and 4pm, then areas of smoke and a chance of showers and thunderstorms between 4pm and 5pm, then patchy smoke and showers and thunderstorms likely"
+   "text": "Tonight: Rain showers likely before 8pm, then a chance of showers and thunderstorms between 8pm and 1am"
   }
  },
  "beach-status": {
@@ -1312,18 +1312,32 @@
    "mynbc5": {
     "items": [
      {
-      "id": "73175739",
-      "title": "8 killed, more than 60 wounded in Ukrainian drone attack on Russia",
-      "link": "https://www.mynbc5.com/article/ukrainian-drone-attack-russia-kill-wound-war/73175739",
-      "ts": "2026-07-18T13:39:00+00:00",
-      "summary": "Eight people were killed and more than 60 others were wounded in Russia by overnight Ukrainian drone attacks, Russian officials said Saturday."
+      "id": "73175211",
+      "title": "Iran says it is suspending commitments to interim deal with US amid exchange of attacks",
+      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
+      "ts": "2026-07-18T14:54:00+00:00",
+      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
      },
      {
-      "id": "73175211",
-      "title": "US, Iran trade strikes over Strait of Hormuz. Kuwait suffers infrastructure damage",
-      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
-      "ts": "2026-07-18T13:08:00+00:00",
-      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
+      "id": "73175739",
+      "title": "9 killed, more than 60 wounded in Ukrainian drone attack on Russia",
+      "link": "https://www.mynbc5.com/article/ukrainian-drone-attack-russia-kill-wound-war/73175739",
+      "ts": "2026-07-18T14:48:00+00:00",
+      "summary": "Nine people were killed and more than 60 others were wounded in Russia by overnight Ukrainian drone attacks, Russian officials said Saturday."
+     },
+     {
+      "id": "73175903",
+      "title": "Death toll from Venezuela earthquakes surpasses 5,000",
+      "link": "https://www.mynbc5.com/article/venezuela-earthquake-death-toll-surpasses-5000/73175903",
+      "ts": "2026-07-18T14:43:00+00:00",
+      "summary": "The death toll from the two quakes that shook Venezuela last month rose to 5,069 late Friday, local authorities said."
+     },
+     {
+      "id": "73174797",
+      "title": "Vermont Green FC Men's Soccer cruises to USL2 Playoff Victory",
+      "link": "https://www.mynbc5.com/article/vermont-green-fc-mens-soccer-cruises-to-usl2-playoff-victory/73174797",
+      "ts": "2026-07-18T14:17:00+00:00",
+      "summary": "Green score three first half goals to blank Ironbound SC 4-0 in Round of 16 match"
      },
      {
       "id": "73175566",
@@ -1436,20 +1450,6 @@
       "link": "https://www.mynbc5.com/article/new-hampshire-state-rep-ellen-read-constitution-speeding/73174103",
       "ts": "2026-07-17T23:02:00+00:00",
       "summary": "There are bipartisan calls for the removal of a state representative who has been recently criticized for saying she should not be pulled over for speeding."
-     },
-     {
-      "id": "73172946",
-      "title": "Vermont Green playoffs, World Cup driving soccer excitement",
-      "link": "https://www.mynbc5.com/article/soccer-world-cup-vermont-green-excitement/73172946",
-      "ts": "2026-07-17T22:46:00+00:00",
-      "summary": "With the World Cup back in the U.S. for the first time since the 90s and both Vermont Green teams looking for national championships, soccer excitement is reaching new levels in our region."
-     },
-     {
-      "id": "73174022",
-      "title": "Man taken into custody after reported family assault in Groton",
-      "link": "https://www.mynbc5.com/article/man-taken-into-custody-after-reported-family-assault-in-groton/73174022",
-      "ts": "2026-07-17T22:41:00+00:00",
-      "summary": "Vermont State Police say a man is in custody after reportedly injuring a family member with a weapon and fleeing into the woods in Groton."
      }
     ]
    },
