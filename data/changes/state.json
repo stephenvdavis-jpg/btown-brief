@@ -12,8 +12,8 @@
    }
   ],
   "forecast_flag": {
-   "day": "2026-07-17",
-   "text": "Saturday: A slight chance of rain showers between 11am and 1pm, then areas of smoke and showers and thunderstorms likely between 2pm and 5pm, then smoke and showers and thunderstorms likely"
+   "day": "2026-07-18",
+   "text": "Saturday: Rain showers likely before 1pm, then a chance of showers and thunderstorms between 1pm and 2pm, then smoke and a chance of showers and thunderstorms between 2pm and 5pm, then patchy smoke and showers and thunderstorms likely"
   }
  },
  "beach-status": {
@@ -898,18 +898,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -1532,6 +1532,38 @@
  "reddit-burlington": {
   "posts": [
    {
+    "id": "1uzjv0w",
+    "title": "White Mazda with hazards on and Indiana plates",
+    "url": "https://www.reddit.com/r/burlington/comments/1uzjv0w/white_mazda_with_hazards_on_and_indiana_plates/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-18T05:04:20+00:00"
+   },
+   {
+    "id": "1uzjmxa",
+    "title": "Twisted Halo",
+    "url": "https://www.reddit.com/r/burlington/comments/1uzjmxa/twisted_halo/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-18T05:04:20+00:00"
+   },
+   {
+    "id": "1uzjb3a",
+    "title": "Question for former staff about Mirabelle's from Main Street Era",
+    "url": "https://www.reddit.com/r/burlington/comments/1uzjb3a/question_for_former_staff_about_mirabelles_from/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-18T05:04:20+00:00"
+   },
+   {
+    "id": "1uzj0d8",
+    "title": "Tattoo Removal Recommendations",
+    "url": "https://www.reddit.com/r/burlington/comments/1uzj0d8/tattoo_removal_recommendations/",
+    "score": null,
+    "comments": null,
+    "created": "2026-07-18T05:04:20+00:00"
+   },
+   {
     "id": "1uzizyz",
     "title": "NLRB dismisses Healthy Living’s bid to overturn union election",
     "url": "https://www.reddit.com/r/burlington/comments/1uzizyz/nlrb_dismisses_healthy_livings_bid_to_overturn/",
@@ -1658,38 +1690,6 @@
     "score": null,
     "comments": null,
     "created": "2026-07-17T17:04:49+00:00"
-   },
-   {
-    "id": "1uz3gio",
-    "title": "Free carpet",
-    "url": "https://www.reddit.com/r/burlington/comments/1uz3gio/free_carpet/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-17T17:04:49+00:00"
-   },
-   {
-    "id": "1uz1bze",
-    "title": "Fellow Dog Owners….",
-    "url": "https://www.reddit.com/r/burlington/comments/1uz1bze/fellow_dog_owners/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-17T17:04:49+00:00"
-   },
-   {
-    "id": "1uz18vo",
-    "title": "Stop electing officials that campaign not do their job. \"The two Democrats running for Chittenden County sheriff couldn’t be more different\"",
-    "url": "https://www.reddit.com/r/burlington/comments/1uz18vo/stop_electing_officials_that_campaign_not_do/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-17T17:04:49+00:00"
-   },
-   {
-    "id": "1uz0bxv",
-    "title": "Boycott Ben & Jerry's!",
-    "url": "https://www.reddit.com/r/burlington/comments/1uz0bxv/boycott_ben_jerrys/",
-    "score": null,
-    "comments": null,
-    "created": "2026-07-17T14:04:02+00:00"
    }
   ]
  },
