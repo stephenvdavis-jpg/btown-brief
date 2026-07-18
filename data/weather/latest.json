@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-18T16:37:53+00:00",
+ "updated": "2026-07-18T17:41:58+00:00",
  "sections_updated": {
-  "now": "2026-07-18T16:37:53+00:00",
-  "forecast": "2026-07-18T16:37:53+00:00",
-  "hourly": "2026-07-18T16:37:53+00:00",
-  "alerts": "2026-07-18T16:37:53+00:00",
-  "afd": "2026-07-18T16:37:53+00:00",
-  "lake_forecast": "2026-07-18T16:37:53+00:00",
-  "lake_gage": "2026-07-18T16:37:53+00:00",
-  "air": "2026-07-18T16:37:53+00:00",
-  "sun": "2026-07-18T16:37:53+00:00",
-  "models": "2026-07-18T16:37:53+00:00"
+  "now": "2026-07-18T17:41:58+00:00",
+  "forecast": "2026-07-18T17:41:58+00:00",
+  "hourly": "2026-07-18T17:41:58+00:00",
+  "alerts": "2026-07-18T17:41:58+00:00",
+  "afd": "2026-07-18T17:41:58+00:00",
+  "lake_forecast": "2026-07-18T17:41:58+00:00",
+  "lake_gage": "2026-07-18T17:41:58+00:00",
+  "air": "2026-07-18T17:41:58+00:00",
+  "sun": "2026-07-18T17:41:58+00:00",
+  "models": "2026-07-18T17:41:58+00:00"
  },
  "now": {
-  "observed_at": "2026-07-18T16:25:00+00:00",
+  "observed_at": "2026-07-18T17:30:00+00:00",
   "station": "KBTV",
-  "description": "Cloudy",
-  "temp_f": 70,
-  "feels_like_f": 70,
-  "humidity": 64,
-  "dewpoint_f": 57,
-  "wind_mph": 7,
-  "wind_gust_mph": null,
-  "wind_dir": "S"
+  "description": "Rain",
+  "temp_f": 66,
+  "feels_like_f": 66,
+  "humidity": 83,
+  "dewpoint_f": 61,
+  "wind_mph": null,
+  "wind_gust_mph": 18,
+  "wind_dir": null
  },
  "forecast": {
   "updated": "2026-07-18T14:42:34+00:00",
@@ -31,10 +31,10 @@
     "name": "This Afternoon",
     "is_day": true,
     "temp_f": 76,
-    "pop": 79,
-    "wind": "S 13 to 18 mph",
+    "pop": 76,
+    "wind": "S 15 to 18 mph",
     "short": "Light Rain",
-    "detailed": "Rain before 2pm, then rain showers likely between 2pm and 5pm, then a chance of rain showers and patchy smoke. Cloudy, with a high near 76. South wind 13 to 18 mph, with gusts as high as 32 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+    "detailed": "Rain before 2pm, then rain showers likely between 2pm and 5pm, then a chance of rain showers and patchy smoke. Cloudy, with a high near 76. South wind 15 to 18 mph, with gusts as high as 32 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
    },
    {
     "name": "Tonight",
@@ -86,17 +86,6 @@
  "hourly": {
   "updated": "2026-07-18T14:42:34+00:00",
   "hours": [
-   {
-    "t": "2026-07-18T12:00:00-04:00",
-    "temp_f": 72,
-    "feels_f": 72,
-    "pop": 79,
-    "humidity": 64,
-    "wind_mph": 13,
-    "wind_dir": "S",
-    "sky": 84,
-    "short": "Light Rain"
-   },
    {
     "t": "2026-07-18T13:00:00-04:00",
     "temp_f": 73,
@@ -481,6 +470,17 @@
     "wind_dir": "W",
     "sky": 7,
     "short": "Mostly Clear"
+   },
+   {
+    "t": "2026-07-20T00:00:00-04:00",
+    "temp_f": 62,
+    "feels_f": 62,
+    "pop": 0,
+    "humidity": 75,
+    "wind_mph": 5,
+    "wind_dir": "W",
+    "sky": 8,
+    "short": "Mostly Clear"
    }
   ]
  },
@@ -767,17 +767,17 @@
  },
  "lake_gage": {
   "water_temp_f": 72,
-  "water_temp_at": "2026-07-18T12:00:00.000-04:00",
-  "level_ft": 96.05,
-  "level_at": "2026-07-18T12:00:00.000-04:00",
+  "water_temp_at": "2026-07-18T13:00:00.000-04:00",
+  "level_ft": 96.06,
+  "level_at": "2026-07-18T13:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 58,
+  "aqi": 64,
   "category": "Moderate",
   "pollutant": "PM2.5",
-  "observed": "07/18/26 12:00",
+  "observed": "07/18/26 13:00",
   "discussion": "On Saturday, July 18th, a health alert has been issued statewide across Vermont for Unhealthy for Sensitive Groups (USG) concentrations of fine particulate matter (PM25). Please note that PM25 concentrations may occur in the unhealthy range on an hourly basis for many locations in the state, especially in the late morning through afternoon hours.  Smoke from wildfires is expected to return to the New England region from the smoke plume currently stretching from the Ohio Valley to the mid atlantic region."
  },
  "sun": {
@@ -785,28 +785,28 @@
   "sunset": "2026-07-18T20:32-04:00",
   "sunrise_tomorrow": "2026-07-19T05:26-04:00",
   "sunset_tomorrow": "2026-07-19T20:31-04:00",
-  "uv_max": 5.6
+  "uv_max": 4.85
  },
  "models": {
   "days": [
    {
     "date": "2026-07-18",
     "high_f": {
-     "GFS": 75,
+     "GFS": 73,
      "Euro": 79,
      "ICON": 82
     },
     "pop_max": {
-     "GFS": 70,
+     "GFS": 75,
      "Euro": 96,
      "ICON": 85
     },
     "precip_in": {
-     "GFS": 0.0,
+     "GFS": 0.03,
      "Euro": 0.06,
      "ICON": 0.32
     },
-    "high_spread_f": 7
+    "high_spread_f": 9
    },
    {
     "date": "2026-07-19",
@@ -816,7 +816,7 @@
      "ICON": 75
     },
     "pop_max": {
-     "GFS": 20,
+     "GFS": 15,
      "Euro": 62,
      "ICON": 13
     },
