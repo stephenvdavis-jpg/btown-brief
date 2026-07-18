@@ -888,18 +888,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -984,10 +984,10 @@
      },
      {
       "id": "G25BMP3HPZEUVFQOG4A476JAEA",
-      "title": "Air Quality Alert today as smoke returns, strong storms possible",
+      "title": "Air quality is currently unhealthy, but will improve quickly through the evening.",
       "link": "https://www.wcax.com/2026/07/17/air-quality-alert-saturday-smoke-returns-strong-storms-possible/",
       "ts": "2026-07-17T23:25:54+00:00",
-      "summary": "Wildfire smoke will reduce air quality for Vermont, New York and New Hampshire today along with afternoon thunderstorms."
+      "summary": "The air quality is currently unhealthy for most of our region, but will improve fairly quickly through the evening as a cold front scours out most of the smoke."
      },
      {
       "id": "JD64XEUDQ5CXXGZZQMM3BQSROM",
@@ -1302,6 +1302,13 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73177107",
+      "title": "Drier Sunday, with less smoke and increasing sunshine",
+      "link": "https://www.mynbc5.com/article/drier-sunday-with-less-smoke-and-increasing-sunshine-7-18-26/73177107",
+      "ts": "2026-07-18T21:43:35+00:00",
+      "summary": "Gorgeous Monday before showers return by Tuesday"
+     },
+     {
       "id": "73176621",
       "title": "Iceberg lettuce recalled in 27 states due to potential Cyclospora contamination",
       "link": "https://www.mynbc5.com/article/iceberg-lettuce-recalled-in-27-states-due-to-potential-cyclospora-contamination-health-consumer-news/73176621",
@@ -1433,13 +1440,6 @@
       "link": "https://www.mynbc5.com/article/elon-musk-xai-sues-user-child-sexual-abuse-materials-grok/72238593",
       "ts": "2026-07-18T01:18:00+00:00",
       "summary": "Elon Musk's xAI sues user over allegedly creating child sexual abuse materials with Grok"
-     },
-     {
-      "id": "73172599",
-      "title": "Taylor Fresh Foods pulls iceberg lettuce from U.S. market following cyclosporiasis outbreak",
-      "link": "https://www.mynbc5.com/article/taylor-farms-pulls-iceberg-lettuce-cyclospora-outbreak/73172599",
-      "ts": "2026-07-18T00:40:00+00:00",
-      "summary": "Taylor Fresh Foods is pulling all iceberg lettuce from central Mexico after shredded lettuce sold at some Taco Bell restaurants was linked to a cyclosporiasis outbreak in five states."
      }
     ]
    },
@@ -2030,6 +2030,14 @@
     "venue": "South Burlington Public Library"
    },
    {
+    "id": "64070f56b24c",
+    "title": "Chess Club",
+    "link": "https://southburlingtonlibrary.org/chess-club-digital-lab",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-18T11:00:00-04:00",
+    "venue": "South Burlington Public Library"
+   },
+   {
     "id": "622e483c59b9",
     "title": "Here to Help",
     "link": "https://www.facebook.com/events/853605907754308/",
@@ -2044,14 +2052,6 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-18T11:00:00-04:00",
     "venue": "The Pinball Co-op"
-   },
-   {
-    "id": "64070f56b24c",
-    "title": "Chess Club",
-    "link": "https://community.sevendaysvt.com/event/chess-club-37282318",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T11:00:00-04:00",
-    "venue": "South Burlington Public Library"
    },
    {
     "id": "885a1bbe8011",
@@ -2166,20 +2166,20 @@
     "venue": "Phoenix Books"
    },
    {
-    "id": "9ac04d570b1b",
-    "title": "Whine & Bark",
-    "link": "https://shelburnevineyard.com/events-list/whineandbark",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T13:00:00-04:00",
-    "venue": "Shelburne Vineyard"
-   },
-   {
     "id": "f5b2cfd334db",
     "title": "Hill Fest: Live at the Lantern",
     "link": "https://www.helloburlingtonvt.com/event/hill-fest%3a-live-at-the-lantern/7523/",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T13:00:00-04:00",
     "venue": "Farmers & Foragers Hillside"
+   },
+   {
+    "id": "9ac04d570b1b",
+    "title": "Whine & Bark",
+    "link": "https://shelburnevineyard.com/events-list/whineandbark",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-18T13:00:00-04:00",
+    "venue": "Shelburne Vineyard"
    },
    {
     "id": "e0f570f6959b",
@@ -2294,14 +2294,6 @@
     "venue": "Main Street Landing Performing Arts Center"
    },
    {
-    "id": "b4fb94df339a",
-    "title": "Burlington Watches Together: World Cup 3rd Place Playoff",
-    "link": "https://fletcherfree.libcal.com/event/16614657",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-18T17:00:00-04:00",
-    "venue": "Fletcher Free Library"
-   },
-   {
     "id": "bffac7fc9927",
     "title": "Downtown Sextet",
     "link": "https://calendar.time.ly/vfaca7kw/event/78385030/20260718170000",
@@ -2340,6 +2332,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-18T17:00:00-04:00",
     "venue": "On Tap Bar & Grill"
+   },
+   {
+    "id": "b4fb94df339a",
+    "title": "Burlington Watches Together: World Cup 3rd Place Playoff",
+    "link": "https://fletcherfree.libcal.com/event/16614657",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-18T17:00:00-04:00",
+    "venue": "Fletcher Free Library"
    },
    {
     "id": "144ce430693f",
@@ -2452,6 +2452,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-18T21:00:00-04:00",
     "venue": "Foam Brewers"
+   },
+   {
+    "id": "437aea646d4c",
+    "title": "Burlington Watches Together",
+    "link": "https://calendar.time.ly/vfaca7kw/event/78365468/20260718210000",
+    "ts": "2026-07-18T17:32:30-04:00",
+    "start": "2026-07-18T21:00:00-04:00",
+    "venue": ""
    },
    {
     "id": "189ecafbc136",
@@ -3294,6 +3302,14 @@
     "venue": "Deborah Rawson Memorial Library"
    },
    {
+    "id": "86efe3ed7e5e",
+    "title": "Sunset Paddle or Kayak @ Shelburne Bay",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315733837/",
+    "ts": "2026-07-18T17:32:30-04:00",
+    "start": "2026-07-20T19:00:00-04:00",
+    "venue": "Shelburne Bay Park"
+   },
+   {
     "id": "f7b48e86152a",
     "title": "Community of Poets Sharing Circle with Darlene Witte July 20, 2026 at 7 PM",
     "link": "https://www.meetup.com/community-of-poets-sharing-circle-with-darlene-witte-phd/events/315476598/",
@@ -3588,6 +3604,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-21T13:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "6884d6e22a28",
+    "title": "Teen Art Club",
+    "link": "https://calendar.time.ly/nt0nyapn/event/78413833/20260721140000",
+    "ts": "2026-07-18T17:32:30-04:00",
+    "start": "2026-07-21T14:00:00-04:00",
+    "venue": "Winooski Memorial Library"
    },
    {
     "id": "5088ce2008b1",
@@ -5534,14 +5558,6 @@
     "venue": ""
    },
    {
-    "id": "5945d359dfe7",
-    "title": "\"Weird Al\" Yankovic",
-    "link": "https://www.mychamplainvalley.com/calendar/#/details/-weird-al-yankovic/17496180/2026-07-24T18",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T18:00:00-04:00",
-    "venue": "Higher Ground"
-   },
-   {
     "id": "660115d9952c",
     "title": "Burlington FNG",
     "link": "https://community.sevendaysvt.com/event/burlington-fng-45108501",
@@ -5612,6 +5628,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-24T19:30:00-04:00",
     "venue": "Champlain Valley Exposition"
+   },
+   {
+    "id": "5945d359dfe7",
+    "title": "\"Weird Al\" Yankovic",
+    "link": "https://www.mychamplainvalley.com/calendar/#/details/-weird-al-yankovic/17496180/2026-07-24T19",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-24T19:30:00-04:00",
+    "venue": "Higher Ground"
    },
    {
     "id": "1ddbcdcb8dc0",
@@ -5782,20 +5806,20 @@
     "venue": "Veterans Memorial Park"
    },
    {
-    "id": "ed5363d626da",
-    "title": "BTown Coffee Club",
-    "link": "https://www.meetup.com/burlington-social-activites-group/events/315557313/",
-    "ts": "2026-07-10T23:07:48-04:00",
-    "start": "2026-07-25T10:00:00-04:00",
-    "venue": "Zero Gravity Craft Brewery"
-   },
-   {
     "id": "0bb1d830a153",
     "title": "Orchids 101",
     "link": "https://www.helloburlingtonvt.com/event/orchids-101/7713/",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-25T10:00:00-04:00",
     "venue": "Gardener's Supply Burlington"
+   },
+   {
+    "id": "ed5363d626da",
+    "title": "BTown Coffee Club",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315557313/",
+    "ts": "2026-07-10T23:07:48-04:00",
+    "start": "2026-07-25T10:00:00-04:00",
+    "venue": "Zero Gravity Craft Brewery"
    },
    {
     "id": "3281d4cf6dcd",
@@ -5846,6 +5870,14 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
+    "id": "4e336a502066",
+    "title": "Chess Club",
+    "link": "https://southburlingtonlibrary.org/chess-club-digital-lab",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-25T11:00:00-04:00",
+    "venue": "South Burlington Public Library"
+   },
+   {
     "id": "8b65113bf370",
     "title": "Family Art Saturday",
     "link": "https://www.burlingtoncityarts.org/event/family-art-saturday-35",
@@ -5892,14 +5924,6 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-25T11:00:00-04:00",
     "venue": ""
-   },
-   {
-    "id": "4e336a502066",
-    "title": "Chess Club",
-    "link": "https://community.sevendaysvt.com/event/chess-club-37282318",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T11:00:00-04:00",
-    "venue": "South Burlington Public Library"
    },
    {
     "id": "8c60a590dff2",
@@ -7060,6 +7084,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-28T13:00:00-04:00",
     "venue": "South Burlington Public Library"
+   },
+   {
+    "id": "4e2123a837e2",
+    "title": "Teen Art Club",
+    "link": "https://calendar.time.ly/nt0nyapn/event/78413833/20260728140000",
+    "ts": "2026-07-18T17:32:30-04:00",
+    "start": "2026-07-28T14:00:00-04:00",
+    "venue": "Winooski Memorial Library"
    },
    {
     "id": "e3f530c1cf7c",
@@ -9894,6 +9926,14 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
+    "id": "ea4d01908a40",
+    "title": "Teen Art Club",
+    "link": "https://calendar.time.ly/nt0nyapn/event/78413833/20260804140000",
+    "ts": "2026-07-18T17:32:30-04:00",
+    "start": "2026-08-04T14:00:00-04:00",
+    "venue": "Winooski Memorial Library"
+   },
+   {
     "id": "02d9afb4e20e",
     "title": "YSO Starr Farm Park",
     "link": "https://fletcherfree.libcal.com/event/17058074",
@@ -11224,7 +11264,7 @@
    {
     "id": "1b17a280bb2c",
     "title": "Lunch with the Poets",
-    "link": "https://www.meetup.com/burlington-writers/events/fkbcztyjclbkb/",
+    "link": "https://www.meetup.com/burlington-writers/events/315736630/",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-07T11:45:00-04:00",
     "venue": "The Innovation Café"
@@ -12628,6 +12668,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-11T13:00:00-04:00",
     "venue": "South Burlington Public Library"
+   },
+   {
+    "id": "7affae4bbdb8",
+    "title": "Teen Art Club",
+    "link": "https://calendar.time.ly/nt0nyapn/event/78413833/20260811140000",
+    "ts": "2026-07-18T17:32:30-04:00",
+    "start": "2026-08-11T14:00:00-04:00",
+    "venue": "Winooski Memorial Library"
    },
    {
     "id": "090e3aa1d1a7",

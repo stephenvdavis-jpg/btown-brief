@@ -1,105 +1,6 @@
 {
- "generated": "2026-07-18T21:10:29+00:00",
+ "generated": "2026-07-18T22:11:00+00:00",
  "events": [
-  {
-   "ts": "2026-07-11T21:24:06+00:00",
-   "category": "events",
-   "headline": "New event: Random Acts of Kindness Spree in Burlington VT",
-   "detail": "tomorrow 11 AM · Speeder & Earl's Coffee",
-   "url": "https://www.eventbrite.com/e/random-acts-of-kindness-spree-in-burlington-vt-tickets-1991105763939",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T21:24:06+00:00",
-   "category": "events",
-   "headline": "New event: Burlington Blitz (VT) Scavenger Hunt",
-   "detail": "tomorrow 11 AM · Speeder & Earl's Coffee",
-   "url": "https://www.eventbrite.com/e/burlington-blitz-vt-scavenger-hunt-tickets-1979063375832",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T21:24:06+00:00",
-   "category": "events",
-   "headline": "New event: Mindful Wellness Walk in Burlington",
-   "detail": "tomorrow 11 AM · Speeder & Earl's Coffee",
-   "url": "https://www.eventbrite.com/e/mindful-wellness-walk-in-burlington-tickets-1991499365211",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T21:24:06+00:00",
-   "category": "events",
-   "headline": "New event: Burlington Bash Scavenger Hunt",
-   "detail": "tomorrow 11 AM · Speeder & Earl's Coffee",
-   "url": "https://www.eventbrite.com/e/burlington-bash-scavenger-hunt-tickets-1980895758538",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T21:24:06+00:00",
-   "category": "events",
-   "headline": "New event: Will Kasso Condry",
-   "detail": "tomorrow · BCA Center",
-   "url": "https://community.sevendaysvt.com/event/will-kasso-condry-45272671",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T21:24:06+00:00",
-   "category": "events",
-   "headline": "New event: Leah Barranco",
-   "detail": "tomorrow · BCA Center",
-   "url": "https://community.sevendaysvt.com/event/leah-barranco-45273891",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T21:24:06+00:00",
-   "category": "events",
-   "headline": "New event: 'On Point: Needlework from the Garthwaite Family Collection'",
-   "detail": "tomorrow · Shelburne Museum",
-   "url": "https://community.sevendaysvt.com/event/on-point-needlework-from-the-garthwaite-family-collection-45029018",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T21:24:06+00:00",
-   "category": "events",
-   "headline": "New event: Veronica Pham",
-   "detail": "tomorrow · BCA Center",
-   "url": "https://community.sevendaysvt.com/event/veronica-pham-45272674",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-11T21:32:35+00:00",
-   "category": "food",
-   "headline": "Green Mountain Chamber Music Festival brings student musicians to Church Street",
-   "detail": "",
-   "url": "https://www.wcax.com/2026/07/11/green-mountain-chamber-music-festival-brings-student-musicians-church-street/",
-   "source": "wcax",
-   "sourceName": "WCAX",
-   "priority": 2,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-12T00:11:12+00:00",
    "category": "news",
@@ -3608,6 +3509,50 @@
    "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-18T21:32:30+00:00",
+   "category": "events",
+   "headline": "New event: Burlington Watches Together",
+   "detail": "today 9 PM",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78365468/20260718210000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-18T21:32:30+00:00",
+   "category": "events",
+   "headline": "New event: Sunset Paddle or Kayak @ Shelburne Bay",
+   "detail": "Monday 7 PM · Shelburne Bay Park",
+   "url": "https://www.meetup.com/burlington-social-activites-group/events/315733837/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-18T21:32:30+00:00",
+   "category": "events",
+   "headline": "New event: Teen Art Club",
+   "detail": "Tuesday 2 PM · Winooski Memorial Library",
+   "url": "https://calendar.time.ly/nt0nyapn/event/78413833/20260721140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-18T21:32:30+00:00",
+   "category": "events",
+   "headline": "New event: Teen Art Club",
+   "detail": "Jul 28 2 PM · Winooski Memorial Library",
+   "url": "https://calendar.time.ly/nt0nyapn/event/78413833/20260728140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }
