@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:46:41+00:00",
+  "updated": "2026-07-18T23:32:03+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -7,7 +7,7 @@
     {
       "id": "smoke-band-block",
       "label": "Question for former staff about Mirabelle's from Main Street Era",
-      "direction": "hot",
+      "direction": "rising",
       "posts": 3,
       "comments": null,
       "last_activity": "2026-07-18T05:04:20+00:00",
@@ -31,30 +31,6 @@
           "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
           "sub": "r/burlington",
           "when": "2026-07-16T20:02:13+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "distortion-social-967",
-      "label": "Social distortion tickets x3",
-      "direction": "hot",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-17T23:04:21+00:00",
-      "sources": [
-        {
-          "title": "Social distortion tickets x3",
-          "url": "https://www.reddit.com/r/burlington/comments/1uzakyr/social_distortion_tickets_x3/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T23:04:21+00:00",
-          "comments": null
-        },
-        {
-          "title": "Social Distortion Ticket",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz5xek/social_distortion_ticket/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T20:04:01+00:00",
           "comments": null
         }
       ]
@@ -84,54 +60,6 @@
       ]
     },
     {
-      "id": "beach-north-farm",
-      "label": "North of Star Farm Beach",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-17T23:04:21+00:00",
-      "sources": [
-        {
-          "title": "North of Star Farm Beach",
-          "url": "https://www.reddit.com/r/burlington/comments/1uzc2ql/north_of_star_farm_beach/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T23:04:21+00:00",
-          "comments": null
-        },
-        {
-          "title": "Massive Upgrade at Oakledge - Goodbye North Beach",
-          "url": "https://www.reddit.com/r/burlington/comments/1uyff7y/massive_upgrade_at_oakledge_goodbye_north_beach/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T23:03:44+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "ice-joan-lorenzo",
-      "label": "Yesterday’s march for Lorenzo & Joan",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-17T20:04:01+00:00",
-      "sources": [
-        {
-          "title": "Yesterday’s march for Lorenzo & Joan",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz6f8h/yesterdays_march_for_lorenzo_joan/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T20:04:01+00:00",
-          "comments": null
-        },
-        {
-          "title": "Yesterday’s march for Lorenzo & Joan",
-          "url": "https://www.reddit.com/r/vermont/comments/1uz6geq/yesterdays_march_for_lorenzo_joan/",
-          "sub": "r/vermont",
-          "when": "2026-07-17T19:04:39+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "100-women-3839",
       "label": "100 Women Who Care - Lamoille County impact",
       "direction": "rising",
@@ -144,6 +72,23 @@
           "url": "https://www.reddit.com/r/vermont/comments/1uzvzv3/100_women_who_care_lamoille_county_impact/",
           "sub": "r/vermont",
           "when": "2026-07-18T19:03:59+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "guy-deal-weird",
+      "label": "All About the Republican Congressional Primary",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-18T22:04:39+00:00",
+      "sources": [
+        {
+          "title": "All About the Republican Congressional Primary",
+          "url": "https://www.reddit.com/r/vermont/comments/1v04mu5/all_about_the_republican_congressional_primary/",
+          "sub": "r/vermont",
+          "when": "2026-07-18T22:04:39+00:00",
           "comments": null
         }
       ]
@@ -166,18 +111,52 @@
       ]
     },
     {
-      "id": "only-bbq-bluebird",
-      "label": "Best BBQ takeout",
+      "id": "burger-welcome-afternoon",
+      "label": "Burgers - between Burlington and Middlebury?",
       "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-17T20:04:01+00:00",
+      "last_activity": "2026-07-18T22:04:39+00:00",
       "sources": [
         {
-          "title": "Best BBQ takeout",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz5phv/best_bbq_takeout/",
+          "title": "Burgers - between Burlington and Middlebury?",
+          "url": "https://www.reddit.com/r/vermont/comments/1v07h9k/burgers_between_burlington_and_middlebury/",
+          "sub": "r/vermont",
+          "when": "2026-07-18T22:04:39+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "back-bank-businesses",
+      "label": "Burlington businesses push back as needle exchange moves to…",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-18T02:03:21+00:00",
+      "sources": [
+        {
+          "title": "Burlington businesses push back as needle exchange moves to Bank Street",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzfgjm/burlington_businesses_push_back_as_needle/",
           "sub": "r/burlington",
-          "when": "2026-07-17T20:04:01+00:00",
+          "when": "2026-07-18T02:03:21+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "back-apprenticeship-becomming",
+      "label": "Careers in Vermont",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-18T19:03:59+00:00",
+      "sources": [
+        {
+          "title": "Careers in Vermont",
+          "url": "https://www.reddit.com/r/vermont/comments/1uzy6id/careers_in_vermont/",
+          "sub": "r/vermont",
+          "when": "2026-07-18T19:03:59+00:00",
           "comments": null
         }
       ]
@@ -209,11 +188,11 @@
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
-      "title": "Where does Vermont spend all its extra money on students?",
-      "url": "https://www.reddit.com/r/vermont/comments/1uzz6ww/where_does_vermont_spend_all_its_extra_money_on/",
+      "title": "All About the Republican Congressional Primary",
+      "url": "https://www.reddit.com/r/vermont/comments/1v04mu5/all_about_the_republican_congressional_primary/",
       "sub": "r/vermont",
-      "when": "2026-07-18T19:03:59+00:00",
-      "blurb": "Edit: None of this is healthcare spending. Federal data publishes payroll as gross wages (no benefits). This looks at superintendent…",
+      "when": "2026-07-18T22:04:39+00:00",
+      "blurb": "I used to drive around and see those weird Deploy Malloy signs with the scary fallopian tube eagle and wonder what that guy’s deal was…",
       "comments": null,
       "unverified": false
     },
@@ -231,11 +210,11 @@
     {
       "slot": "recommendation",
       "slot_label": "Something people keep recommending",
-      "title": "What’s the best new station to watch around here?",
-      "url": "https://www.reddit.com/r/burlington/comments/1uxhiv0/whats_the_best_new_station_to_watch_around_here/",
-      "sub": "r/burlington",
-      "when": "2026-07-15T23:02:14+00:00",
-      "blurb": "Which news station in the area is producing relevant content that applies to Vermont?",
+      "title": "Burgers - between Burlington and Middlebury?",
+      "url": "https://www.reddit.com/r/vermont/comments/1v07h9k/burgers_between_burlington_and_middlebury/",
+      "sub": "r/vermont",
+      "when": "2026-07-18T22:04:39+00:00",
+      "blurb": "Hi all! Been having a lot of trouble finding a reliably good burger in this area. What are your recommendations? Please include the type…",
       "comments": null,
       "unverified": false
     },
@@ -258,20 +237,13 @@
       "sub": "r/vermont",
       "when": "2026-07-17T01:04:29+00:00",
       "comments": null
-    },
-    {
-      "title": "No exit: The inside story of a botched ICE raid in Vermont",
-      "url": "https://www.reddit.com/r/burlington/comments/1uxdpbl/no_exit_the_inside_story_of_a_botched_ice_raid_in/",
-      "sub": "r/burlington",
-      "when": "2026-07-15T20:02:50+00:00",
-      "comments": null
     }
   ],
   "stats": {
-    "posts_scanned": 105,
+    "posts_scanned": 100,
     "per_source": {
-      "r/burlington": 52,
-      "r/vermont": 53
+      "r/burlington": 46,
+      "r/vermont": 54
     }
   }
 }
