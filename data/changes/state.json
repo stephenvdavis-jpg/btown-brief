@@ -13,7 +13,7 @@
   ],
   "forecast_flag": {
    "day": "2026-07-18",
-   "text": "Saturday: Rain showers likely before 1pm, then rain showers likely and patchy smoke between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely between 2pm and 4pm, then areas of smoke and a chance of showers and thunderstorms between 4pm and 5pm, then patchy smoke and showers and thunderstorms likely"
+   "text": "Today: Rain showers likely before 1pm, then rain showers likely and patchy smoke between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely between 2pm and 4pm, then areas of smoke and a chance of showers and thunderstorms between 4pm and 5pm, then patchy smoke and showers and thunderstorms likely"
   }
  },
  "beach-status": {
@@ -898,18 +898,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -1312,6 +1312,27 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73175276",
+      "title": "Trump cites national security to stop offshore wind projects. Here's what to know",
+      "link": "https://www.mynbc5.com/article/trump-cites-national-security-stop-offshore-wind-development/73175276",
+      "ts": "2026-07-18T10:27:00+00:00",
+      "summary": "The Trump administration has halted work on offshore wind projects, citing national security concerns."
+     },
+     {
+      "id": "73175211",
+      "title": "US and Iran exchange strikes as they struggle over Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
+      "ts": "2026-07-18T09:53:00+00:00",
+      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
+     },
+     {
+      "id": "73173316",
+      "title": "Burlington celebrates completion of Main Street project with downtown block party",
+      "link": "https://www.mynbc5.com/article/burlington-celebrates-completion-of-main-street-project-with-downtown-block-party/73173316",
+      "ts": "2026-07-18T09:10:00+00:00",
+      "summary": "The festivities are happening until 7:30 Friday night and pick up again Saturday from 11 a.m. to 7:30 p.m."
+     },
+     {
       "id": "72965362",
       "title": "Outrage after ICE agents tackle man at Las Vegas airport",
       "link": "https://www.mynbc5.com/article/ice-agents-tackle-man-las-vegas-airport/72965362",
@@ -1429,27 +1450,6 @@
       "link": "https://www.mynbc5.com/article/nationwide-recalls-fda-roundup/71942620",
       "ts": "2026-07-17T21:31:00+00:00",
       "summary": "Dozens of everyday products sold across the United States have been recalled over the past two weeks, affecting everything from food and pet products to household items and outdoor equipment."
-     },
-     {
-      "id": "72767343",
-      "title": "Pillsbury bread rolls recalled over possible glass",
-      "link": "https://www.mynbc5.com/article/pillsbury-roll-recall-may-contain-glass/72767343",
-      "ts": "2026-07-17T21:30:00+00:00",
-      "summary": "General Mills has recalled nearly 736,000 Pillsbury bread rolls over possible glass contamination."
-     },
-     {
-      "id": "73173441",
-      "title": "Trump says he’s holding Canada responsible for wildfire smoke and threatens higher tariffs",
-      "link": "https://www.mynbc5.com/article/trump-canada-tariffs-wildfire-smoke/73173441",
-      "ts": "2026-07-17T21:25:00+00:00",
-      "summary": "President Donald Trump said Friday he’s holding Canada responsible for wildfire smoke hovering over much of the Midwestern and eastern United States and vowed to call Prime Minister Mark Carney, suggesting that the “cost of this pollution” could be added to tariffs Canada is already paying."
-     },
-     {
-      "id": "73173316",
-      "title": "Burlington celebrates completion of Main Street project with downtown block party",
-      "link": "https://www.mynbc5.com/article/burlington-celebrates-completion-of-main-street-project-with-downtown-block-party/73173316",
-      "ts": "2026-07-17T21:23:00+00:00",
-      "summary": "The festivities are happening until 7:30 Friday night and pick up again Saturday from 11 a.m. to 7:30 p.m."
      }
     ]
    },

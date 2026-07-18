@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T09:05:45+00:00",
+ "generated": "2026-07-18T10:44:23+00:00",
  "events": [
   {
    "ts": "2026-07-11T11:01:03+00:00",
@@ -3624,6 +3624,17 @@
    "ts": "2026-07-18T09:05:46+00:00",
    "category": "weather",
    "headline": "Saturday: Rain showers likely before 1pm, then rain showers likely and patchy smoke between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely between 2pm and 4pm, then areas of smoke and a chance of showers and thunderstorms between 4pm and 5pm, then patchy smoke and showers and thunderstorms likely",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-18T10:44:24+00:00",
+   "category": "weather",
+   "headline": "Today: Rain showers likely before 1pm, then rain showers likely and patchy smoke between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely between 2pm and 4pm, then areas of smoke and a chance of showers and thunderstorms between 4pm and 5pm, then patchy smoke and showers and thunderstorms likely",
    "detail": "",
    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
    "source": "nws-weather",
