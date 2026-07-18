@@ -1,24 +1,24 @@
 {
- "updated": "2026-07-18T10:04:24+00:00",
+ "updated": "2026-07-18T10:48:26+00:00",
  "sections_updated": {
-  "now": "2026-07-18T10:04:24+00:00",
-  "forecast": "2026-07-18T10:04:24+00:00",
-  "hourly": "2026-07-18T10:04:24+00:00",
-  "alerts": "2026-07-18T10:04:24+00:00",
-  "afd": "2026-07-18T10:04:24+00:00",
-  "lake_forecast": "2026-07-18T10:04:24+00:00",
-  "lake_gage": "2026-07-18T10:04:24+00:00",
-  "air": "2026-07-18T10:04:24+00:00",
-  "sun": "2026-07-18T10:04:24+00:00",
-  "models": "2026-07-18T10:04:24+00:00"
+  "now": "2026-07-18T10:48:26+00:00",
+  "forecast": "2026-07-18T10:48:26+00:00",
+  "hourly": "2026-07-18T10:48:26+00:00",
+  "alerts": "2026-07-18T10:48:26+00:00",
+  "afd": "2026-07-18T10:48:26+00:00",
+  "lake_forecast": "2026-07-18T10:48:26+00:00",
+  "lake_gage": "2026-07-18T10:48:26+00:00",
+  "air": "2026-07-18T10:48:26+00:00",
+  "sun": "2026-07-18T10:48:26+00:00",
+  "models": "2026-07-18T10:48:26+00:00"
  },
  "now": {
-  "observed_at": "2026-07-18T09:35:00+00:00",
+  "observed_at": "2026-07-18T10:35:00+00:00",
   "station": "KBTV",
   "description": "Cloudy",
-  "temp_f": 63,
-  "feels_like_f": 63,
-  "humidity": 68,
+  "temp_f": 64,
+  "feels_like_f": 64,
+  "humidity": 64,
   "dewpoint_f": 52,
   "wind_mph": 6,
   "wind_gust_mph": null,
@@ -767,9 +767,9 @@
  },
  "lake_gage": {
   "water_temp_f": 72,
-  "water_temp_at": "2026-07-18T05:00:00.000-04:00",
+  "water_temp_at": "2026-07-18T06:00:00.000-04:00",
   "level_ft": 96.11,
-  "level_at": "2026-07-18T05:00:00.000-04:00",
+  "level_at": "2026-07-18T06:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
@@ -777,7 +777,7 @@
   "aqi": 32,
   "category": "Good",
   "pollutant": "OZONE",
-  "observed": "07/18/26 5:00",
+  "observed": "07/18/26 6:00",
   "discussion": "On Saturday, July 18th, a health alert has been issued statewide across Vermont for Unhealthy for Sensitive Groups (USG) concentrations of fine particulate matter (PM25). Please note that PM25 concentrations may occur in the unhealthy range on an hourly basis for many locations in the state, especially in the late morning through afternoon hours.  Smoke from wildfires is expected to return to the New England region from the smoke plume currently stretching from the Ohio Valley to the mid atlantic region."
  },
  "sun": {
@@ -792,21 +792,21 @@
    {
     "date": "2026-07-18",
     "high_f": {
-     "GFS": 77,
+     "GFS": 76,
      "Euro": 82,
      "ICON": 82
     },
     "pop_max": {
      "GFS": 48,
-     "Euro": 98,
+     "Euro": 100,
      "ICON": 90
     },
     "precip_in": {
-     "GFS": 0.19,
+     "GFS": 0.2,
      "Euro": 0.24,
      "ICON": 0.33
     },
-    "high_spread_f": 5
+    "high_spread_f": 6
    },
    {
     "date": "2026-07-19",
@@ -817,7 +817,7 @@
     },
     "pop_max": {
      "GFS": 28,
-     "Euro": 62,
+     "Euro": 52,
      "ICON": 10
     },
     "precip_in": {
@@ -836,7 +836,7 @@
     },
     "pop_max": {
      "GFS": 1,
-     "Euro": 4,
+     "Euro": 2,
      "ICON": 0
     },
     "precip_in": {
