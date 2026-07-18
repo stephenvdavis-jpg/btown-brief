@@ -1,47 +1,9 @@
 {
-  "updated": "2026-07-18T11:31:39+00:00",
+  "updated": "2026-07-18T15:32:26+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
-    {
-      "id": "ben-jerry-foundation",
-      "label": "Boycott Ben & Jerry's!",
-      "direction": "hot",
-      "posts": 4,
-      "comments": null,
-      "last_activity": "2026-07-17T14:04:02+00:00",
-      "sources": [
-        {
-          "title": "Boycott Ben & Jerry's!",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz0bxv/boycott_ben_jerrys/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T14:04:02+00:00",
-          "comments": null
-        },
-        {
-          "title": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
-          "url": "https://www.reddit.com/r/burlington/comments/1uymbcb/ben_jerrys_foundation_plans_to_shut_down_by_end/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T02:04:15+00:00",
-          "comments": null
-        },
-        {
-          "title": "Ben & Jerry's Foundation warns of shutdown in 2026",
-          "url": "https://www.reddit.com/r/vermont/comments/1uxel96/ben_jerrys_foundation_warns_of_shutdown_in_2026/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T19:03:13+00:00",
-          "comments": null
-        },
-        {
-          "title": "Today, Magnum ordered the Ben & Jerry's Foundation out of its own corporate office.",
-          "url": "https://www.reddit.com/r/vermont/comments/1uxd2wx/today_magnum_ordered_the_ben_jerrys_foundation/",
-          "sub": "r/vermont",
-          "when": "2026-07-15T19:03:13+00:00",
-          "comments": null
-        }
-      ]
-    },
     {
       "id": "smoke-friday-saturday",
       "label": "Question for former staff about Mirabelle's from Main Street Era",
@@ -177,30 +139,6 @@
       ]
     },
     {
-      "id": "removal-tattoo-get",
-      "label": "Tattoo Removal Recommendations",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-18T05:04:20+00:00",
-      "sources": [
-        {
-          "title": "Tattoo Removal Recommendations",
-          "url": "https://www.reddit.com/r/burlington/comments/1uzj0d8/tattoo_removal_recommendations/",
-          "sub": "r/burlington",
-          "when": "2026-07-18T05:04:20+00:00",
-          "comments": null
-        },
-        {
-          "title": "Tattoo Removal",
-          "url": "https://www.reddit.com/r/burlington/comments/1ux493k/tattoo_removal/",
-          "sub": "r/burlington",
-          "when": "2026-07-15T14:02:28+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "302-hotdog-remember",
       "label": "302 hotdog restaurant",
       "direction": "rising",
@@ -213,6 +151,40 @@
           "url": "https://www.reddit.com/r/vermont/comments/1uz45jg/302_hotdog_restaurant/",
           "sub": "r/vermont",
           "when": "2026-07-17T19:04:39+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "only-bbq-bluebird",
+      "label": "Best BBQ takeout",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-17T20:04:01+00:00",
+      "sources": [
+        {
+          "title": "Best BBQ takeout",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz5phv/best_bbq_takeout/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T20:04:01+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "newer-vegetarian-burger",
+      "label": "Best Newer Vegetarian Friendly Restaurant",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-17T20:04:01+00:00",
+      "sources": [
+        {
+          "title": "Best Newer Vegetarian Friendly Restaurant",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz7i95/best_newer_vegetarian_friendly_restaurant/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T20:04:01+00:00",
           "comments": null
         }
       ]
@@ -310,10 +282,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 121,
+    "posts_scanned": 111,
     "per_source": {
-      "r/burlington": 64,
-      "r/vermont": 57
+      "r/burlington": 60,
+      "r/vermont": 51
     }
   }
 }
