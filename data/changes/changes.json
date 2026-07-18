@@ -1,17 +1,6 @@
 {
- "generated": "2026-07-18T10:44:23+00:00",
+ "generated": "2026-07-18T12:09:15+00:00",
  "events": [
-  {
-   "ts": "2026-07-11T11:01:03+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Perfect sunny weekend ahead (81s, low humidity, heat wave holds off till Monday). Vermont Green FC women host a National Semifinal, the Lake Monsters go full maple, a drag cabaret returns after 10 years, roller derby hits the Expo, and regulators just said no to Amazon in Essex",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1utep1m/perfect_sunny_weekend_ahead_81s_low_humidity_heat/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-11T14:00:02+00:00",
    "category": "chatter",
@@ -3641,6 +3630,28 @@
    "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-18T10:48:11+00:00",
+   "category": "events",
+   "headline": "New event: Library Outreach Specialist Office Hours",
+   "detail": "today 10 AM · Fletcher Free Library",
+   "url": "https://fletcherfree.libcal.com/event/16213951",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-18T10:48:11+00:00",
+   "category": "events",
+   "headline": "New event: The Ultimate Chocolate Tasting",
+   "detail": "today 2 PM · Lake Champlain Chocolates",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78391346/20260718140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }
