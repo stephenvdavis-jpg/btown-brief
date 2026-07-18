@@ -1,16 +1,6 @@
 {
  "nws-weather": {
-  "alerts": [
-   {
-    "id": "urn:oid:2.49.0.1.840.0.1b373a936f5f38f25764d72287fd560ea09d8584.002.1",
-    "event": "Air Quality Alert",
-    "headline": "Air Quality Alert issued July 17 at 3:27PM EDT by NWS Burlington VT",
-    "severity": "Unknown",
-    "onset": "2026-07-17T15:27:00-04:00",
-    "ends": "2026-07-18T15:30:00-04:00",
-    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
-   }
-  ],
+  "alerts": [],
   "forecast_flag": {
    "day": "2026-07-18",
    "text": "Tonight: Rain showers likely before 8pm, then a chance of showers and thunderstorms between 8pm and 1am"
@@ -1312,6 +1302,27 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73176621",
+      "title": "Iceberg lettuce recalled in 27 states due to potential Cyclospora contamination",
+      "link": "https://www.mynbc5.com/article/iceberg-lettuce-recalled-in-27-states-due-to-potential-cyclospora-contamination-health-consumer-news/73176621",
+      "ts": "2026-07-18T19:23:00+00:00",
+      "summary": "Produce supplier Taylor Farms is recalling iceberg lettuce shipped to 27 U.S. states because of potential contamination with Cyclospora, the parasite causing thousands of cases of diarrhea across the country."
+     },
+     {
+      "id": "73176388",
+      "title": "Cut the number of choices you make each day. Your brain will thank you",
+      "link": "https://www.mynbc5.com/article/cut-the-number-of-choices-you-make-each-day-your-brain-will-thank-you-health-relaxation/73176388",
+      "ts": "2026-07-18T18:40:00+00:00",
+      "summary": "The more choices you have, the better, right? Actually, behavioral scientists say too many options can make people anxious, indecisive and less happy with what they pick."
+     },
+     {
+      "id": "73175211",
+      "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
+      "ts": "2026-07-18T18:29:00+00:00",
+      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
+     },
+     {
       "id": "73176309",
       "title": "Lost dog found in Port Orange reunited with family after 7 years",
       "link": "https://www.mynbc5.com/article/port-orange-lost-dog-reunited-after-7-years/73176309",
@@ -1324,13 +1335,6 @@
       "link": "https://www.mynbc5.com/article/ralph-norman-enter-race-succeed-lindsey-graham-senate/73176046",
       "ts": "2026-07-18T15:58:00+00:00",
       "summary": "Rep. Ralph Norman of South Carolina announced Saturday that he will run to replace Lindsey Graham in the Senate."
-     },
-     {
-      "id": "73175211",
-      "title": "Iran says it is suspending commitments to interim deal with US amid exchange of attacks",
-      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
-      "ts": "2026-07-18T14:54:00+00:00",
-      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
      },
      {
       "id": "73175739",
@@ -1436,20 +1440,6 @@
       "link": "https://www.mynbc5.com/article/taylor-farms-pulls-iceberg-lettuce-cyclospora-outbreak/73172599",
       "ts": "2026-07-18T00:40:00+00:00",
       "summary": "Taylor Fresh Foods is pulling all iceberg lettuce from central Mexico after shredded lettuce sold at some Taco Bell restaurants was linked to a cyclosporiasis outbreak in five states."
-     },
-     {
-      "id": "73173861",
-      "title": "Defending champion Matthew Marquardt returns to Lake Placid for IRONMAN triathlon",
-      "link": "https://www.mynbc5.com/article/defending-champion-matthew-marquardt-returns-to-lake-placid-for-ironman-triathlon/73173861",
-      "ts": "2026-07-18T00:27:00+00:00",
-      "summary": "Marquardt says he's ready to defend his title against a strong group of competitors"
-     },
-     {
-      "id": "73173162",
-      "title": "Trump administration demands oversight of states' voter rolls",
-      "link": "https://www.mynbc5.com/article/trump-administration-demands-oversight-of-states-voter-rolls/73173162",
-      "ts": "2026-07-17T23:36:00+00:00",
-      "summary": "Following President Donald Trump's speech on election security Thursday, the administration is now demanding states review voter rolls, while state officials continue to assert elections remain secure."
      }
     ]
    },
