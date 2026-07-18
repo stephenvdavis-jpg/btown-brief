@@ -948,6 +948,27 @@
    "wcax": {
     "items": [
      {
+      "id": "V5X5V6PISBHMVNTSDY5OPTQWAI",
+      "title": "Burlington bars buzzing with watch party energy",
+      "link": "https://www.wcax.com/2026/07/18/burlington-bars-buzzing-with-watch-party-energy/",
+      "ts": "2026-07-18T23:09:30+00:00",
+      "summary": "Bars across Vermont are hosting watch parties as the team makes history in its first full season"
+     },
+     {
+      "id": "AUJB3DI4YRA5VLIYKJIATGFZGM",
+      "title": "Fair Haven celebrates Matthew Lyon Day",
+      "link": "https://www.wcax.com/2026/07/18/fair-haven-celebrates-matthew-lyon-day/",
+      "ts": "2026-07-18T23:07:07+00:00",
+      "summary": "Town honors founder and one of the most controversial figures in U.S. legislative history"
+     },
+     {
+      "id": "D7PLRDGD6FH7RERX3EUUEUL42Q",
+      "title": "HomeShare Vermont sees more cases as housing demand grows",
+      "link": "https://www.wcax.com/2026/07/18/homeshare-vermont-sees-more-cases-housing-demand-grows/",
+      "ts": "2026-07-18T23:06:48+00:00",
+      "summary": "Statewide matching program connects Vermonters with extra rooms to those seeking below-market rent"
+     },
+     {
       "id": "JCCB5RXVUZCNPFSG73XNXOALPY",
       "title": "Reward announced for information on poached bear",
       "link": "https://www.wcax.com/2026/07/18/reward-announced-information-poached-bear/",
@@ -1275,37 +1296,30 @@
       "link": "https://www.wcax.com/2026/07/16/crews-still-cleaning-up-microburst-damage-shrewsbury/",
       "ts": "2026-07-16T18:41:48+00:00",
       "summary": "Crews are continuing to clean up debris and downed trees after severe wind struck southern Vermont Tuesday night."
-     },
-     {
-      "id": "THP7YBCMGZCCHPLYRLT2D3AIIA",
-      "title": "Democratic candidates debate Vermont housing crisis at public forum",
-      "link": "https://www.wcax.com/2026/07/16/democratic-candidates-debate-vermont-housing-crisis-public-forum/",
-      "ts": "2026-07-16T16:10:47+00:00",
-      "summary": "Vermont governor, lieutenant governor candidates outline housing plans at South Burlington forum"
-     },
-     {
-      "id": "Z3RPCRASGBGODB3AC3JH2UEBXE",
-      "title": "Judge: Man accused of shooting Palestinian students can’t get a new lawyer",
-      "link": "https://www.wcax.com/2026/07/16/vt-man-accused-shooting-3-palestinian-students-still-cant-get-new-lawyer/",
-      "ts": "2026-07-16T16:05:22+00:00",
-      "summary": "A judge has once again denied new counsel for a Burlington man accused of shooting three Palestinian-American students in 2023"
-     },
-     {
-      "id": "JLUDKCFUL5E65ML52Z33JUYK64",
-      "title": "Woman allegedly pulled a gun on fellow Interstate 89 driver",
-      "link": "https://www.wcax.com/2026/07/16/woman-allegedly-pulled-gun-fellow-interstate-89-driver/",
-      "ts": "2026-07-16T16:04:16+00:00",
-      "summary": "A Mississippi woman was arrested for allegedly pointing a gun at a Vermont driver in an apparent road rage incident Wednesday on Interstate 89, according to Vermont State Police"
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "73175211",
+      "title": "US military launches new airstrikes to punish Iran for deaths of US troops",
+      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
+      "ts": "2026-07-18T22:35:00+00:00",
+      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
+     },
+     {
+      "id": "73176757",
+      "title": "Antique Boat Enthusiasts Gather in Burlington for Annual Lake Champlain Show",
+      "link": "https://www.mynbc5.com/article/antique-boat-show-returns/73176757",
+      "ts": "2026-07-18T22:27:00+00:00",
+      "summary": "Despite rainy weather in Burlington, boaters and visitors still gathered along the waterfront Saturday for the 39th Annual Lake Champlain Antique and Classic Boat Show."
+     },
+     {
       "id": "73177107",
       "title": "Drier Sunday, with less smoke and increasing sunshine",
       "link": "https://www.mynbc5.com/article/drier-sunday-with-less-smoke-and-increasing-sunshine-7-18-26/73177107",
-      "ts": "2026-07-18T21:43:35+00:00",
+      "ts": "2026-07-18T22:24:00+00:00",
       "summary": "Gorgeous Monday before showers return by Tuesday"
      },
      {
@@ -1321,13 +1335,6 @@
       "link": "https://www.mynbc5.com/article/cut-the-number-of-choices-you-make-each-day-your-brain-will-thank-you-health-relaxation/73176388",
       "ts": "2026-07-18T18:40:00+00:00",
       "summary": "The more choices you have, the better, right? Actually, behavioral scientists say too many options can make people anxious, indecisive and less happy with what they pick."
-     },
-     {
-      "id": "73175211",
-      "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
-      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
-      "ts": "2026-07-18T18:29:00+00:00",
-      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
      },
      {
       "id": "73176309",
@@ -1433,13 +1440,6 @@
       "link": "https://www.mynbc5.com/article/new-details-ice-killing-houston-father/73174402",
       "ts": "2026-07-18T01:35:00+00:00",
       "summary": "A federal prosecutor in Texas has shared new details about the shooting of Mexican national Lorenzo Salgado Araujo by an ICE officer in early July."
-     },
-     {
-      "id": "72238593",
-      "title": "Elon Musk's xAI sues user over allegedly creating child sexual abuse materials with Grok",
-      "link": "https://www.mynbc5.com/article/elon-musk-xai-sues-user-child-sexual-abuse-materials-grok/72238593",
-      "ts": "2026-07-18T01:18:00+00:00",
-      "summary": "Elon Musk's xAI sues user over allegedly creating child sexual abuse materials with Grok"
      }
     ]
    },
