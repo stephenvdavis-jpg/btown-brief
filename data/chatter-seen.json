@@ -1,53 +1,5 @@
 {
   "posts": {
-    "1utk0pl": {
-      "first_seen": "2026-07-11T15:33:23+00:00",
-      "sub": "r/burlington",
-      "last_score": null,
-      "last_comments": null
-    },
-    "1uthask": {
-      "first_seen": "2026-07-11T15:33:23+00:00",
-      "sub": "r/burlington",
-      "last_score": null,
-      "last_comments": null
-    },
-    "1utkqmm": {
-      "first_seen": "2026-07-11T15:33:23+00:00",
-      "sub": "r/vermont",
-      "last_score": null,
-      "last_comments": null
-    },
-    "1utk1dt": {
-      "first_seen": "2026-07-11T15:33:23+00:00",
-      "sub": "r/vermont",
-      "last_score": null,
-      "last_comments": null
-    },
-    "1utjssd": {
-      "first_seen": "2026-07-11T15:33:23+00:00",
-      "sub": "r/vermont",
-      "last_score": null,
-      "last_comments": null
-    },
-    "1utj96x": {
-      "first_seen": "2026-07-11T15:33:23+00:00",
-      "sub": "r/vermont",
-      "last_score": null,
-      "last_comments": null
-    },
-    "1utiiw9": {
-      "first_seen": "2026-07-11T15:33:23+00:00",
-      "sub": "r/vermont",
-      "last_score": null,
-      "last_comments": null
-    },
-    "1uth1yh": {
-      "first_seen": "2026-07-11T15:33:23+00:00",
-      "sub": "r/vermont",
-      "last_score": null,
-      "last_comments": null
-    },
     "1utp0oe": {
       "first_seen": "2026-07-11T23:33:09+00:00",
       "sub": "r/burlington",
@@ -1445,75 +1397,69 @@
       "sub": "r/vermont",
       "last_score": null,
       "last_comments": null
+    },
+    "1v03une": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1v01fz0": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1uzzd02": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1uzz6ww": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1uzy9ak": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1uzy6id": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1uzvzv3": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1uzvtdz": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1uztxrr": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
+    },
+    "1uztosn": {
+      "first_seen": "2026-07-18T19:46:41+00:00",
+      "sub": "r/vermont",
+      "last_score": null,
+      "last_comments": null
     }
   },
   "snapshots": [
-    {
-      "ts": "2026-07-11T15:33:23+00:00",
-      "topics": {
-        "flowers-photographed": 3.0,
-        "100-closures-long": 3.0,
-        "empty-houses-neighborhood": 3.0,
-        "cost-living-component": 3.0,
-        "tattoos-2026-albans": 3.0,
-        "school-district-having": 3.0,
-        "roadside-attraction-quirky": 3.0,
-        "market-vintage-3pm": 3.0,
-        "saturday-after-full": 3.0,
-        "ability-also-closer": 3.0,
-        "tickets-each-200": 3.0,
-        "ban-first-paraquat": 2.0,
-        "few-photos-favorite": 6.0,
-        "college-become-campus": 2.0,
-        "here-snapshots-visited": 4.0,
-        "illegally-after-bennington": 4.0,
-        "eat-lake-other": 2.0,
-        "2026-punk-friday": 3.0,
-        "here-2026-asphyxia": 2.0,
-        "chance-comments-every": 2.0,
-        "love-gardens-god": 2.0,
-        "baker88300-comments-here": 2.0,
-        "back-campaign-candidates": 2.0,
-        "attorney-comments-content": 2.0,
-        "home-them-band": 2.0,
-        "cost-discussion-domestic": 2.0,
-        "public-beaches-swim": 2.0,
-        "ball-doing-porch": 2.0,
-        "year-time-10th": 2.0,
-        "dog-attack-essex": 2.0,
-        "walden-3rd-friday": 2.0,
-        "tips-baristas-card": 2.0,
-        "dog-found-memorial": 2.0,
-        "korean-bbq-getdown": 2.0,
-        "day-fact-life": 2.0,
-        "going-ratsmission-another": 2.0,
-        "calzone-winooski-really": 2.0,
-        "baseball-bhs-doing": 2.0,
-        "colada-don-pina": 2.0,
-        "anywhere-boogerton-buy": 2.0,
-        "mail-paper-png": 2.0,
-        "chicken-believe-ended": 2.0,
-        "dunkin-happened-macrae": 1.0,
-        "illustrator-time-apparel": 1.0,
-        "bike-intervail-ride": 1.0,
-        "chicken-there-after": 1.0,
-        "comments-downtown-friends": 1.0,
-        "mango-smoothie-hall": 1.0,
-        "connection-drop-huge": 1.0,
-        "guys-raining-there": 1.0,
-        "library-other-things": 1.0,
-        "aiko-cream-fruit": 1.0,
-        "uvmmc-anybody-clue": 1.0,
-        "get-magazines-center": 1.0,
-        "contractor-engineer-structural": 1.0,
-        "free-main-4quarters": 1.0,
-        "2241-available-comments": 1.0,
-        "primary-2026-attorney": 1.0,
-        "189-take-way": 1.0,
-        "graffiti-already-champlain": 1.0,
-        "friends-benefits-car": 1.0
-      }
-    },
     {
       "ts": "2026-07-11T23:33:09+00:00",
       "topics": {
@@ -4134,6 +4080,97 @@
         "comments-link-soundscapes": 0.5,
         "comments-doom-feeling": 0.5,
         "tween-going-montpelier": 0.5
+      }
+    },
+    {
+      "ts": "2026-07-18T19:46:41+00:00",
+      "topics": {
+        "another-cancer-careful": 3.0,
+        "9614-9am-club": 3.0,
+        "middlebury-1843-convention": 3.0,
+        "healthcare-facilities-make": 3.0,
+        "watch-bars-parties": 3.0,
+        "back-apprenticeship-becomming": 3.0,
+        "100-women-3839": 3.0,
+        "futures-project-disclaimer": 3.0,
+        "snake-because-clue": 3.0,
+        "bell-taco-berlin": 3.0,
+        "him-saw-70mph": 2.0,
+        "bad2187-comments-forsaken": 2.0,
+        "smoke-band-block": 4.0,
+        "reddit-removal-tattoo": 2.0,
+        "maple-yogurt-breakfast": 2.0,
+        "234-bid-comments": 2.0,
+        "back-bank-businesses": 2.0,
+        "buying-bigger-boomers": 2.0,
+        "years-30s-ago": 2.0,
+        "northwestern-tractor-tried": 2.0,
+        "beach-north-farm": 3.0,
+        "pedal-riding-6000w": 2.0,
+        "court-tina-because": 2.0,
+        "distortion-social-967": 4.0,
+        "tires-store-winter": 2.0,
+        "newer-vegetarian-burger": 2.0,
+        "ice-joan-lorenzo": 3.0,
+        "only-bbq-bluebird": 2.0,
+        "302-hotdog-remember": 1.0,
+        "dog-dogs-leash": 2.0,
+        "esa-against-limit": 1.0,
+        "carpet-6ft-9ft": 1.0,
+        "aschylus-campaign-chittenden": 1.0,
+        "molly-lying-100": 1.0,
+        "cgr-comments-gur2252": 1.0,
+        "next-air-attached": 1.0,
+        "cedar-posts-southern": 1.0,
+        "artificial-backs-board": 1.0,
+        "luck-people-turn": 1.0,
+        "2025-spending-2019": 1.0,
+        "both-offices-senators": 1.0,
+        "ben-jerry-stop": 2.0,
+        "someone-com-gmail": 1.0,
+        "children-act-calling": 1.0,
+        "odyssey-honda-come": 1.0,
+        "rep-always-balint": 1.0,
+        "see-september-absolutely": 1.0,
+        "enjoy-hazards-pause": 1.0,
+        "comments-incident-intensifies": 1.0,
+        "air-clean-fee": 1.0,
+        "blintzotic-bloom-comments": 1.0,
+        "pet-animal-care": 1.0,
+        "gov-2016-her": 1.0,
+        "campaign-brickner-broad": 1.0,
+        "birth-brattleboro-bye4now28": 1.0,
+        "college-colleges-accreditation": 1.0,
+        "here-carpenter-moving": 1.0,
+        "accused-arrested-comments": 1.0,
+        "fire-new-chiefs": 1.0,
+        "everyone-faces-forbins": 1.0,
+        "marriage-rates-divorce": 1.0,
+        "big-bondville-winhall": 1.0,
+        "number-000-100": 1.0,
+        "bike-car-crashed": 2.0,
+        "there-adults-almost": 1.0,
+        "2467-comments-current": 1.0,
+        "affogato-creemee-make": 1.0,
+        "cheap-food-engagement": 0.5,
+        "tint-aesthetics-lash": 0.5,
+        "there-acquire-cheap": 0.5,
+        "aaas-aas-bag": 0.5,
+        "hotel-champlain-front": 0.5,
+        "phones-there-amazing": 0.5,
+        "2026-beautiful-day": 0.5,
+        "1441-comments-deal": 0.5,
+        "gamelin-sheriff-democratic": 0.5,
+        "gondola-ride-also": 0.5,
+        "governor-candidates-comments": 0.5,
+        "breathe-map-smoke": 0.5,
+        "country-cross-moving": 0.5,
+        "station-applies-content": 0.5,
+        "here-like-almost": 0.5,
+        "washington-ave-beltine": 0.5,
+        "6pm-anti-comments": 0.5,
+        "botched-ice-raid": 0.5,
+        "car-comments-internalmedicina": 0.5
       }
     }
   ]

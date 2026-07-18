@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-18T15:32:26+00:00",
+  "updated": "2026-07-18T19:46:41+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "topics": [
     {
-      "id": "smoke-friday-saturday",
+      "id": "smoke-band-block",
       "label": "Question for former staff about Mirabelle's from Main Street Era",
       "direction": "hot",
-      "posts": 4,
+      "posts": 3,
       "comments": null,
       "last_activity": "2026-07-18T05:04:20+00:00",
       "sources": [
@@ -31,37 +31,6 @@
           "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
           "sub": "r/burlington",
           "when": "2026-07-16T20:02:13+00:00",
-          "comments": null
-        },
-        {
-          "title": "Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
-          "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
-          "sub": "r/burlington",
-          "when": "2026-07-15T17:02:19+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "dog-dogs-leash",
-      "label": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs…",
-      "direction": "hot",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-17T17:04:49+00:00",
-      "sources": [
-        {
-          "title": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs in Leashed Areas",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz3wxt/photograph_share_shame_dog_owners_who_dont_leash/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T17:04:49+00:00",
-          "comments": null
-        },
-        {
-          "title": "Fellow Dog Owners….",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz1bze/fellow_dog_owners/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T17:04:49+00:00",
           "comments": null
         }
       ]
@@ -91,25 +60,25 @@
       ]
     },
     {
-      "id": "ice-joan-lorenzo",
-      "label": "Yesterday’s march for Lorenzo & Joan",
-      "direction": "hot",
+      "id": "ben-jerry-stop",
+      "label": "Boycott Ben & Jerry's!",
+      "direction": "rising",
       "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-17T20:04:01+00:00",
+      "last_activity": "2026-07-17T14:04:02+00:00",
       "sources": [
         {
-          "title": "Yesterday’s march for Lorenzo & Joan",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz6f8h/yesterdays_march_for_lorenzo_joan/",
+          "title": "Boycott Ben & Jerry's!",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz0bxv/boycott_ben_jerrys/",
           "sub": "r/burlington",
-          "when": "2026-07-17T20:04:01+00:00",
+          "when": "2026-07-17T14:04:02+00:00",
           "comments": null
         },
         {
-          "title": "Yesterday’s march for Lorenzo & Joan",
-          "url": "https://www.reddit.com/r/vermont/comments/1uz6geq/yesterdays_march_for_lorenzo_joan/",
-          "sub": "r/vermont",
-          "when": "2026-07-17T19:04:39+00:00",
+          "title": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
+          "url": "https://www.reddit.com/r/burlington/comments/1uymbcb/ben_jerrys_foundation_plans_to_shut_down_by_end/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T02:04:15+00:00",
           "comments": null
         }
       ]
@@ -139,18 +108,59 @@
       ]
     },
     {
-      "id": "302-hotdog-remember",
-      "label": "302 hotdog restaurant",
+      "id": "ice-joan-lorenzo",
+      "label": "Yesterday’s march for Lorenzo & Joan",
+      "direction": "rising",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-17T20:04:01+00:00",
+      "sources": [
+        {
+          "title": "Yesterday’s march for Lorenzo & Joan",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz6f8h/yesterdays_march_for_lorenzo_joan/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T20:04:01+00:00",
+          "comments": null
+        },
+        {
+          "title": "Yesterday’s march for Lorenzo & Joan",
+          "url": "https://www.reddit.com/r/vermont/comments/1uz6geq/yesterdays_march_for_lorenzo_joan/",
+          "sub": "r/vermont",
+          "when": "2026-07-17T19:04:39+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "100-women-3839",
+      "label": "100 Women Who Care - Lamoille County impact",
       "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-17T19:04:39+00:00",
+      "last_activity": "2026-07-18T19:03:59+00:00",
       "sources": [
         {
-          "title": "302 hotdog restaurant",
-          "url": "https://www.reddit.com/r/vermont/comments/1uz45jg/302_hotdog_restaurant/",
+          "title": "100 Women Who Care - Lamoille County impact",
+          "url": "https://www.reddit.com/r/vermont/comments/1uzvzv3/100_women_who_care_lamoille_county_impact/",
           "sub": "r/vermont",
-          "when": "2026-07-17T19:04:39+00:00",
+          "when": "2026-07-18T19:03:59+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "another-cancer-careful",
+      "label": "Another great piece on how Manchester is flocked.",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-18T19:03:59+00:00",
+      "sources": [
+        {
+          "title": "Another great piece on how Manchester is flocked.",
+          "url": "https://www.reddit.com/r/vermont/comments/1v03une/another_great_piece_on_how_manchester_is_flocked/",
+          "sub": "r/vermont",
+          "when": "2026-07-18T19:03:59+00:00",
           "comments": null
         }
       ]
@@ -166,23 +176,6 @@
         {
           "title": "Best BBQ takeout",
           "url": "https://www.reddit.com/r/burlington/comments/1uz5phv/best_bbq_takeout/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T20:04:01+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "newer-vegetarian-burger",
-      "label": "Best Newer Vegetarian Friendly Restaurant",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-17T20:04:01+00:00",
-      "sources": [
-        {
-          "title": "Best Newer Vegetarian Friendly Restaurant",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz7i95/best_newer_vegetarian_friendly_restaurant/",
           "sub": "r/burlington",
           "when": "2026-07-17T20:04:01+00:00",
           "comments": null
@@ -216,22 +209,22 @@
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
-      "title": "NLRB dismisses Healthy Living’s bid to overturn union election",
-      "url": "https://www.reddit.com/r/burlington/comments/1uzizyz/nlrb_dismisses_healthy_livings_bid_to_overturn/",
-      "sub": "r/burlington",
-      "when": "2026-07-18T02:03:21+00:00",
-      "blurb": "submitted by /u/Evening-Elevator-234 [link] [comments]",
+      "title": "Where does Vermont spend all its extra money on students?",
+      "url": "https://www.reddit.com/r/vermont/comments/1uzz6ww/where_does_vermont_spend_all_its_extra_money_on/",
+      "sub": "r/vermont",
+      "when": "2026-07-18T19:03:59+00:00",
+      "blurb": "Edit: None of this is healthcare spending. Federal data publishes payroll as gross wages (no benefits). This looks at superintendent…",
       "comments": null,
       "unverified": false
     },
     {
       "slot": "needs_help",
       "slot_label": "Someone needs help",
-      "title": "Iso roomate",
-      "url": "https://www.reddit.com/r/vermont/comments/1uzfmiy/iso_roomate/",
+      "title": "100 Women Who Care - Lamoille County impact",
+      "url": "https://www.reddit.com/r/vermont/comments/1uzvzv3/100_women_who_care_lamoille_county_impact/",
       "sub": "r/vermont",
-      "when": "2026-07-18T01:04:41+00:00",
-      "blurb": "Hello, I have an oppprtunity in Stowe for a job as Maintenance Superviser. Im currently in Montana. Lived previously in Asheville NC for…",
+      "when": "2026-07-18T19:03:59+00:00",
+      "blurb": "120 women each donate $100 per quarter. First quarter donations: $7678 to the winner, Salvation Farms $3839 to runner-up, The Current…",
       "comments": null,
       "unverified": false
     },
@@ -272,20 +265,13 @@
       "sub": "r/burlington",
       "when": "2026-07-15T20:02:50+00:00",
       "comments": null
-    },
-    {
-      "title": "No exit: The inside story of a botched ICE raid in Vermont",
-      "url": "https://www.reddit.com/r/vermont/comments/1uxd8sk/no_exit_the_inside_story_of_a_botched_ice_raid_in/",
-      "sub": "r/vermont",
-      "when": "2026-07-15T19:03:13+00:00",
-      "comments": null
     }
   ],
   "stats": {
-    "posts_scanned": 111,
+    "posts_scanned": 105,
     "per_source": {
-      "r/burlington": 60,
-      "r/vermont": 51
+      "r/burlington": 52,
+      "r/vermont": 53
     }
   }
 }
