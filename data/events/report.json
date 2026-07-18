@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-18T06:48:11-04:00",
+ "generated": "2026-07-18T17:32:30-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
    "count": 31,
-   "seconds": 5.9
+   "seconds": 5.6
   },
   "breweries": {
    "label": "Breweries & Taprooms",
-   "count": 46,
-   "seconds": 3.9
+   "count": 45,
+   "seconds": 4.5
   },
   "brownell": {
    "label": "Brownell Library",
    "count": 62,
-   "seconds": 2.9
+   "seconds": 2.8
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
    "count": 146,
-   "seconds": 2.7
+   "seconds": 3.2
   },
   "churchst": {
    "label": "Church Street Marketplace",
    "count": 92,
-   "seconds": 1.7
+   "seconds": 2.0
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -44,17 +44,17 @@
   "farmersmarket": {
    "label": "Burlington Farmers Market",
    "count": 9,
-   "seconds": 0.3
+   "seconds": 0.2
   },
   "fletcherfree": {
    "label": "Fletcher Free Library",
-   "count": 222,
-   "seconds": 71.5
+   "count": 221,
+   "seconds": 66.4
   },
   "flynn": {
    "label": "The Flynn",
    "count": 15,
-   "seconds": 89.1
+   "seconds": 2.1
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -64,12 +64,12 @@
   "helloburlington": {
    "label": "Hello Burlington",
    "count": 750,
-   "seconds": 37.4
+   "seconds": 35.8
   },
   "higherground": {
    "label": "Higher Ground",
    "count": 60,
-   "seconds": 91.1
+   "seconds": 88.4
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -79,27 +79,27 @@
   "loveburlington": {
    "label": "Love Burlington",
    "count": 598,
-   "seconds": 76.3
+   "seconds": 74.4
   },
   "meetup": {
    "label": "Meetup",
    "count": 63,
-   "seconds": 131.3
+   "seconds": 132.4
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 19,
-   "seconds": 14.3
+   "seconds": 14.6
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
-   "count": 71,
-   "seconds": 7.6
+   "count": 73,
+   "seconds": 3.1
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
    "count": 45,
-   "seconds": 26.8
+   "seconds": 25.7
   },
   "sevendays": {
    "label": "Seven Days",
@@ -114,7 +114,7 @@
   "uvm": {
    "label": "UVM & Colleges",
    "count": 163,
-   "seconds": 11.7
+   "seconds": 6.5
   },
   "uvmbored": {
    "label": "UVM Bored",
@@ -124,18 +124,18 @@
   "vcc": {
    "label": "Vermont Comedy Club",
    "count": 51,
-   "seconds": 68.7
+   "seconds": 65.5
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
-   "count": 29,
+   "count": 33,
    "seconds": 0.2
   }
  },
- "gathered": 2757,
- "afterDedup": 1358,
+ "gathered": 2761,
+ "afterDedup": 1362,
  "duplicatesMerged": 1399,
- "final": 2497,
+ "final": 2503,
  "mergeLog": [
   {
    "kept": {
@@ -2411,12 +2411,40 @@
  ],
  "changes": [
   {
-   "id": "774edc5c0b40",
-   "title": "Industry Day",
-   "date": "2026-09-14",
+   "id": "5945d359dfe7",
+   "title": "\"Weird Al\" Yankovic",
+   "date": "2026-07-24",
    "change": "time",
-   "was": "2026-09-14",
-   "now": "2026-09-14T11:30:00-04:00"
+   "was": "2026-07-24T18:00:00-04:00",
+   "now": "2026-07-24T19:30:00-04:00"
+  },
+  {
+   "id": "f80186071531",
+   "title": "BTown Coffee Club",
+   "date": "2026-07-18",
+   "change": "missing",
+   "lastSeen": "2026-07-18T06:48:11-04:00"
+  },
+  {
+   "id": "9ac04d570b1b",
+   "title": "Whine & Bark",
+   "date": "2026-07-18",
+   "change": "missing",
+   "lastSeen": "2026-07-18T06:48:11-04:00"
+  },
+  {
+   "id": "e0f570f6959b",
+   "title": "Paddle or Kayak @ Shelburne Bay",
+   "date": "2026-07-18",
+   "change": "missing",
+   "lastSeen": "2026-07-18T06:48:11-04:00"
+  },
+  {
+   "id": "b4fb94df339a",
+   "title": "Burlington Watches Together: World Cup 3rd Place Playoff",
+   "date": "2026-07-18",
+   "change": "missing",
+   "lastSeen": "2026-07-18T06:48:11-04:00"
   },
   {
    "id": "b8e8a5ebcd33",
