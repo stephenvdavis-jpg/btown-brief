@@ -883,18 +883,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -1297,18 +1297,25 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73178544",
+      "title": "Russia unleashes one of the biggest ballistic missile attacks of the Ukraine war, Kyiv says",
+      "link": "https://www.mynbc5.com/article/russia-missile-attacks-ukraine-kyiv/73178544",
+      "ts": "2026-07-19T09:03:00+00:00",
+      "summary": "Russia launched one of the largest ballistic missile attacks of the more than four-year-old war against Ukraine overnight into Sunday, according to authorities."
+     },
+     {
+      "id": "73178014",
+      "title": "Vermont Green FC Women's Soccer loses in USLW Championship Match",
+      "link": "https://www.mynbc5.com/article/vermont-green-fc-womens-soccer-loses-in-usl2-championship-match/73178014",
+      "ts": "2026-07-19T07:10:00+00:00",
+      "summary": "Green force overtime late, but fall in penalty shootout against Salmon Bay FC"
+     },
+     {
       "id": "73176376",
       "title": "The World Cup final awaits, with Argentina set to face Spain",
       "link": "https://www.mynbc5.com/article/world-cup-final-argentina-spain/73176376",
       "ts": "2026-07-19T04:43:00+00:00",
       "summary": "It's a chance to write the perfect ending at the 2026 World Cup"
-     },
-     {
-      "id": "73178014",
-      "title": "Vermont Green FC Women's Soccer loses in USL2 Championship Match",
-      "link": "https://www.mynbc5.com/article/vermont-green-fc-womens-soccer-loses-in-usl2-championship-match/73178014",
-      "ts": "2026-07-19T04:14:00+00:00",
-      "summary": "Green force overtime late, but fall in penalty shootout against Salmon Bay FC"
      },
      {
       "id": "73175211",
@@ -1428,13 +1435,6 @@
       "link": "https://www.mynbc5.com/article/ukrainian-drone-attack-russia-kill-wound-war/73175739",
       "ts": "2026-07-18T14:48:00+00:00",
       "summary": "Nine people were killed and more than 60 others were wounded in Russia by overnight Ukrainian drone attacks, Russian officials said Saturday."
-     },
-     {
-      "id": "73175903",
-      "title": "Death toll from Venezuela earthquakes surpasses 5,000",
-      "link": "https://www.mynbc5.com/article/venezuela-earthquake-death-toll-surpasses-5000/73175903",
-      "ts": "2026-07-18T14:43:00+00:00",
-      "summary": "The death toll from the two quakes that shook Venezuela last month rose to 5,069 late Friday, local authorities said."
      }
     ]
    },
