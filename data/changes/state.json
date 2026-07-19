@@ -1,6 +1,16 @@
 {
  "nws-weather": {
-  "alerts": [],
+  "alerts": [
+   {
+    "id": "urn:oid:2.49.0.1.840.0.7914ef9a1c7b824e8db474897cd09a06d9629db4.002.1",
+    "event": "Air Quality Alert",
+    "headline": "Air Quality Alert issued July 18 at 8:03PM EDT by NWS Burlington VT",
+    "severity": "Unknown",
+    "onset": "2026-07-18T20:03:00-04:00",
+    "ends": "2026-07-19T00:00:00-04:00",
+    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
+   }
+  ],
   "forecast_flag": {
    "day": "2026-07-18",
    "text": "Tonight: Rain showers likely before 8pm, then a chance of showers and thunderstorms between 8pm and 1am"
@@ -445,25 +455,6 @@
  },
  "civicclerk": {
   "meetings": {
-   "10081": {
-    "name": "City Council - Ordinance Committee Meeting",
-    "start": "2026-07-16T16:30:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Ordinance Committee Meeting Agenda",
-     "Ordinance Committee Meeting Agenda Packet"
-    ]
-   },
-   "10076": {
-    "name": "Conservation Board",
-    "start": "2026-07-16T17:30:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Agenda V1",
-     "Packet V1",
-     "Draft July 16 meeting minutes"
-    ]
-   },
    "8682": {
     "name": "Retirement Board Meeting",
     "start": "2026-07-20T09:30:00+00:00",
@@ -562,6 +553,20 @@
    "8641": {
     "name": "City Council Meeting",
     "start": "2026-08-03T18:00:00+00:00",
+    "hasAgenda": false,
+    "files": []
+   },
+   "10074": {
+    "name": "Development Review Board",
+    "start": "2026-08-04T17:00:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Agenda V2"
+    ]
+   },
+   "9961": {
+    "name": "Planning Commission Meeting - Collaborative Working Group on Inclusionary Zoning",
+    "start": "2026-08-11T18:30:00+00:00",
     "hasAgenda": false,
     "files": []
    }
@@ -888,18 +893,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -1302,6 +1307,34 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73177596",
+      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami",
+      "link": "https://www.mynbc5.com/article/andrew-tristian-tate-arrested-in-miami/73177596",
+      "ts": "2026-07-19T00:04:00+00:00",
+      "summary": "Influencer brothers Andrew and Tristan Tate have been arrested by federal authorities Saturday in Miami"
+     },
+     {
+      "id": "73177624",
+      "title": "England beats Mbappé and France in wild World Cup third-place game",
+      "link": "https://www.mynbc5.com/article/england-mbappe-france-world-cup-third-place/73177624",
+      "ts": "2026-07-18T23:44:00+00:00",
+      "summary": "Bukayo Saka scored three goals to lead England to a win over France for third place in the World Cup"
+     },
+     {
+      "id": "73177523",
+      "title": "A 12-year-old baseball standout trains through tears after Venezuela quakes leave him homeless",
+      "link": "https://www.mynbc5.com/article/12-year-old-baseball-venezuela-homeless/73177523",
+      "ts": "2026-07-18T23:23:00+00:00",
+      "summary": "At what was once his baseball field, 12-year-old Yeferson Seijas now lives with his family in a makeshift tent after twin earthquakes devastated Venezuela"
+     },
+     {
+      "id": "73176912",
+      "title": "Burlington Revolution basketball makes move to ABA, holds basketball tryouts for open spots",
+      "link": "https://www.mynbc5.com/article/burlington-revolution-basketball-makes-move-to-aba-holds-basketball-tryouts-for-open-spots/73176912",
+      "ts": "2026-07-18T23:20:00+00:00",
+      "summary": "The organization says they are trying to build a culture that impacts the community"
+     },
+     {
       "id": "73175211",
       "title": "US military launches new airstrikes to punish Iran for deaths of US troops",
       "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
@@ -1412,34 +1445,6 @@
       "link": "https://www.mynbc5.com/article/ice-agents-tackle-man-las-vegas-airport/72965362",
       "ts": "2026-07-18T03:19:00+00:00",
       "summary": "Video footage of ICE agents tackling a man at Las Vegas Airport has sparked public outrage and criticism from officials"
-     },
-     {
-      "id": "73174492",
-      "title": "Hear from local brewery owners how VT Brew Fest helps business",
-      "link": "https://www.mynbc5.com/article/vermont-brewers-festival-burlington-waterfront/73174492",
-      "ts": "2026-07-18T02:30:00+00:00",
-      "summary": "\"We're a craft beer state\": The 33rd Vermont Brewers Festival is happening this weekend at the Burlington Waterfront. Check out the 40+ breweries and non-alcoholic options."
-     },
-     {
-      "id": "73174655",
-      "title": "Fact-checking the Trump administration’s count of 250,000 noncitizens on the voter rolls",
-      "link": "https://www.mynbc5.com/article/fact-check-trump-noncitizens-voter-rolls/73174655",
-      "ts": "2026-07-18T02:16:00+00:00",
-      "summary": "Fact-checking the Trump administration’s count of 250,000 noncitizens on the voter rolls"
-     },
-     {
-      "id": "73174157",
-      "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts",
-      "link": "https://www.mynbc5.com/article/federal-judge-trump-admin-from-clause-funding-cuts/73174157",
-      "ts": "2026-07-18T02:04:00+00:00",
-      "summary": "A federal judge in Boston has ruled the Trump administration can't use an obscure clause relating to agency priorities to make funding cuts"
-     },
-     {
-      "id": "73174402",
-      "title": "Texas prosecutor reveals new details in fatal ICE shooting of Houston father",
-      "link": "https://www.mynbc5.com/article/new-details-ice-killing-houston-father/73174402",
-      "ts": "2026-07-18T01:35:00+00:00",
-      "summary": "A federal prosecutor in Texas has shared new details about the shooting of Mexican national Lorenzo Salgado Araujo by an ICE officer in early July."
      }
     ]
    },
