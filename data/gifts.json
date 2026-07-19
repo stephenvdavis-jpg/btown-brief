@@ -1,0 +1,491 @@
+{
+  "generated": "2026-07-17",
+  "categories": [
+    {
+      "id": "new-to-burlington",
+      "title": "For the person who just moved to Burlington",
+      "intro": "A few ways to make a new address feel like home.",
+      "gifts": [
+        {
+          "name": "Common Deer",
+          "item": "Burlington Topo Map giclée print",
+          "price": "$32",
+          "price_approx": false,
+          "where": "210 College St, Ste 101",
+          "neighborhood": "Downtown",
+          "why": "A giclée print of the actual topography around the lake and the Intervale — the kind of thing that goes up in a first apartment before the furniture arrives.",
+          "url": "https://commondeer.com/"
+        },
+        {
+          "name": "Homeport",
+          "item": "Pour-over coffee maker with permanent filter",
+          "price": "$29.99",
+          "price_approx": false,
+          "where": "52 Church St",
+          "neighborhood": "Church Street Marketplace",
+          "why": "Homeport has stocked Burlington kitchens for 40 years across four floors on Church Street, and a pour-over rig is the first thing most new arrivals realize they forgot to pack.",
+          "url": "https://homeportonline.com/"
+        },
+        {
+          "name": "Danforth Pewter",
+          "item": "Vermont pewter ornament or keepsake",
+          "price": "$39.95",
+          "price_approx": false,
+          "where": "111 Church St",
+          "neighborhood": "Church Street Marketplace",
+          "why": "Cast, spun, and polished at Danforth's workshop in Middlebury — a small, permanent object that says the move is official.",
+          "url": "https://www.danforthpewter.com/vermont-pewter-ornament"
+        },
+        {
+          "name": "Crow Bookshop",
+          "item": "Gift card and a Vermont field guide",
+          "price": "$25 gift card, plus $18–$24 for most Vermont guidebooks",
+          "price_approx": true,
+          "where": "14 Church St",
+          "neighborhood": "Church Street Marketplace",
+          "why": "Since 1995, Crow has stocked a full shelf of Vermont-specific nonfiction, from hiking guides to local history, next to its used and new fiction stacks.",
+          "url": "https://www.crowbooks.com/"
+        },
+        {
+          "name": "Thirty-odd",
+          "item": "Vermont-shaped or Queen City-themed housewares",
+          "price": "$11 for a sticker four-pack; $15–$40 for maker goods",
+          "price_approx": false,
+          "where": "270 Pine St, the Soda Plant",
+          "neighborhood": "South End Arts District",
+          "why": "About 30 resident makers stock this Pine Street co-op themselves, so what's on the shelf changes with the season — good for someone who wants their new kitchen to look like it belongs here.",
+          "url": "https://www.thirtyodd.com/buy"
+        }
+      ]
+    },
+    {
+      "id": "edible-vermont",
+      "title": "Food that ships and edible Vermont",
+      "intro": "Burlington-area flavors that travel well — or disappear quickly at home.",
+      "gifts": [
+        {
+          "name": "Lake Champlain Chocolates",
+          "item": "Five Star Bar Collection, six-piece box",
+          "price": "$32 for six; $5.50 for one bar",
+          "price_approx": false,
+          "where": "750 Pine St or 65 Church St; ships nationwide",
+          "neighborhood": "South End or Downtown",
+          "why": "The dark-chocolate-and-caramel Five Star bar has been the chocolatier's signature item since the 1980s, and the flagship Pine Street store still runs factory tours behind the retail counter.",
+          "url": "https://www.lakechamplainchocolates.com/5-star-chocolate-bars/"
+        },
+        {
+          "name": "Runamok",
+          "item": "Best Sellers Maple Syrup Gift Box, three 250ml bottles",
+          "price": "$69.95 large; $31.95 small",
+          "price_approx": false,
+          "where": "Online and at Burlington specialty grocers",
+          "neighborhood": "Made in Cabot, Vermont",
+          "why": "Runamok barrel-ages and infuses its syrup with things like cinnamon and elderberry — a step up from the jug of syrup most people already have.",
+          "url": "https://runamokmaple.com/collections/gift-boxes"
+        },
+        {
+          "name": "Shelburne Farms Store",
+          "item": "Cheddar Extravaganza gift set",
+          "price": "$15–$97 depending on set size",
+          "price_approx": true,
+          "where": "1611 Harbor Rd or online",
+          "neighborhood": "Shelburne",
+          "why": "The cheddar is made from raw milk from the farm's own Brown Swiss herd on the shore of Lake Champlain, aged in multiple stages so the gift set doubles as a tasting flight.",
+          "url": "https://store.shelburnefarms.org/product/cheddar-extravaganza/34"
+        },
+        {
+          "name": "Ben & Jerry's",
+          "item": "Original scoop shop pint gift card or merch",
+          "price": "$10+ for gift cards; $6–$7 for pints",
+          "price_approx": true,
+          "where": "36 Church St",
+          "neighborhood": "Church Street Marketplace",
+          "why": "This is the gas-station-turned-scoop-shop where Ben and Jerry opened their first store in 1978 — more of a Burlington landmark than the Waterbury factory most tourists default to.",
+          "url": "https://www.benjerry.com/burlington"
+        },
+        {
+          "name": "Onyx Tonics",
+          "item": "Single-origin coffee bag, roasted weekly",
+          "price": "$16–$22 for 12 ounces",
+          "price_approx": true,
+          "where": "126 College St, Unit 120",
+          "neighborhood": "Downtown",
+          "why": "Onyx runs its menu like a tasting room, rotating six-plus single-origin coffees from small U.S. roasters each week — Food & Wine named it one of the country's top 100 coffee shops.",
+          "url": "https://www.onyxtonics.com/"
+        },
+        {
+          "name": "Speeder & Earl's",
+          "item": "House-roasted whole-bean coffee blend",
+          "price": "$14–$18 a bag",
+          "price_approx": true,
+          "where": "412 Pine St",
+          "neighborhood": "South End",
+          "why": "Speeder's has roasted its own beans on Pine Street since 1993, well before the current wave of South End coffee shops opened around it.",
+          "url": "https://www.speederandearls.com/"
+        }
+      ]
+    },
+    {
+      "id": "for-kids",
+      "title": "For kids",
+      "intro": "Things to keep, wear, and do around the lake.",
+      "gifts": [
+        {
+          "name": "Vermont Teddy Bear",
+          "item": "15-inch Classic Bear",
+          "price": "$70; up to $120 with outfits and accessories",
+          "price_approx": false,
+          "where": "6655 Shelburne Rd",
+          "neighborhood": "Shelburne",
+          "why": "Made at the Shelburne factory since 1981, with a bear hospital on-site for repairs, so this isn't a bear that gets replaced when an ear comes loose — it gets fixed.",
+          "url": "https://vermontteddybear.com/pages/vermont-teddy-bear-prices"
+        },
+        {
+          "name": "ECHO, Leahy Center for Lake Champlain",
+          "item": "General admission or membership",
+          "price": "$23 adult or $20 child admission",
+          "price_approx": true,
+          "where": "1 College St",
+          "neighborhood": "Waterfront",
+          "why": "The touch tanks and Lake Champlain exhibits sit right on the waterfront, so a membership works as a standing invitation rather than a one-time outing.",
+          "url": "https://www.echovermont.org/"
+        },
+        {
+          "name": "Skida",
+          "item": "Kids Alpine fleece-lined hat",
+          "price": "$36+",
+          "price_approx": false,
+          "where": "Online and at Skirack or Common Deer",
+          "neighborhood": "Sewn in Burlington",
+          "why": "Skida's headwear is still sewn in Burlington, the same city where 16-year-old Corinne Prevot started the company in 2008 — a kid-sized hat literally made a few blocks from where a Burlington kid might wear it.",
+          "url": "https://skida.com/collections/made-in-vermont-headwear"
+        },
+        {
+          "name": "Homeport",
+          "item": "Third-floor science toys, games, or plush",
+          "price": "$8–$35 depending on item",
+          "price_approx": true,
+          "where": "52 Church St",
+          "neighborhood": "Church Street Marketplace",
+          "why": "The third floor of this four-story Church Street store is dedicated to toys, a detail regulars know and out-of-towners usually miss.",
+          "url": "https://www.helloburlingtonvt.com/listing/homeport/"
+        },
+        {
+          "name": "Vermont Lake Monsters",
+          "item": "Single-game or mini-plan tickets",
+          "price": "$27+ for a single game",
+          "price_approx": false,
+          "where": "Centennial Field",
+          "neighborhood": "University District",
+          "why": "Wooden-bat collegiate baseball at Centennial Field, close enough to walk to from most of the Old North End, running from late May through early August.",
+          "url": "https://vermontlakemonsters.com/tickets/"
+        }
+      ]
+    },
+    {
+      "id": "under-25",
+      "title": "Under $25 and stocking stuffers",
+      "intro": "Small local things that still feel chosen on purpose.",
+      "gifts": [
+        {
+          "name": "Thirty-odd",
+          "item": "Sticker four-pack",
+          "price": "$11",
+          "price_approx": false,
+          "where": "270 Pine St, the Soda Plant",
+          "neighborhood": "South End Arts District",
+          "why": "Made by whichever of the shop's roughly 30 resident artists has stock that week — no two visits turn up the same sticker set.",
+          "url": "https://www.thirtyodd.com/buy"
+        },
+        {
+          "name": "Lake Champlain Chocolates",
+          "item": "Single Five Star chocolate bar",
+          "price": "$5.50",
+          "price_approx": false,
+          "where": "750 Pine St or 65 Church St",
+          "neighborhood": "South End or Downtown",
+          "why": "One bar, no box required — the almond, hazelnut, or fruit-and-nut varieties all ring in under the price of a movie ticket.",
+          "url": "https://www.lakechamplainchocolates.com/5-star-chocolate-bars/"
+        },
+        {
+          "name": "Pure Pop Records",
+          "item": "New or used vinyl record",
+          "price": "$5–$20 used; $20–$35 new",
+          "price_approx": true,
+          "where": "115 S Winooski Ave",
+          "neighborhood": "Downtown",
+          "why": "Burlington's one remaining independent record shop stocks new and used vinyl side by side, so a $10 stocking stuffer and a $30 reissue sit in the same bin.",
+          "url": "https://loveburlington.org/pure-pop-records"
+        },
+        {
+          "name": "Darn Tough Vermont",
+          "item": "Merino wool socks, one pair",
+          "price": "$20–$26 depending on style",
+          "price_approx": true,
+          "where": "Outdoor Gear Exchange, Skirack, or Common Deer",
+          "neighborhood": "Made in Northfield, Vermont",
+          "why": "Every pair carries the company's unconditional lifetime guarantee — wear a hole in them and Northfield replaces them, no receipt required.",
+          "url": "https://darntough.com/"
+        },
+        {
+          "name": "Skida",
+          "item": "Nordic lightweight running headband",
+          "price": "$24",
+          "price_approx": false,
+          "where": "Online and at local retailers",
+          "neighborhood": "Sewn in Burlington",
+          "why": "Thin enough for a spring run around the waterfront but still carries Skida's original Burlington-sewn construction.",
+          "url": "https://skida.com/collections/made-in-vermont-headwear"
+        },
+        {
+          "name": "Thirty-odd",
+          "item": "Gift card",
+          "price": "$25+",
+          "price_approx": false,
+          "where": "270 Pine St, the Soda Plant",
+          "neighborhood": "South End Arts District",
+          "why": "Lets the recipient pick their own maker from the roughly 30 artists who stock the shop, rather than guessing at someone else's taste.",
+          "url": "https://www.thirtyodd.com/buy"
+        }
+      ]
+    },
+    {
+      "id": "splurge",
+      "title": "The splurge",
+      "intro": "Burlington-made pieces and memberships with some staying power.",
+      "gifts": [
+        {
+          "name": "Queen City Footwear, via Common Deer",
+          "item": "Queen City Dry Goods Carry All Bag in navy",
+          "price": "$295",
+          "price_approx": false,
+          "where": "Common Deer, 210 College St",
+          "neighborhood": "Made in Burlington",
+          "why": "Started as a made-to-measure shoe shop on Church Street in the late 1990s and grew into a full leather-goods line still cut and sewn in Burlington — the company rebranded in 2023, but the bags are the same shop's work.",
+          "url": "https://commondeer.com/collections/queen-city-dry-goods"
+        },
+        {
+          "name": "AO Glass",
+          "item": "Custom hand-blown glass piece or private studio session",
+          "price": "several hundred dollars",
+          "price_approx": true,
+          "where": "416 Pine St",
+          "neighborhood": "South End Arts District",
+          "why": "Founded in 2007 by Rich Arentzen and Tove Ohlander, AO Glass launched an Immersive Glass Experience in 2026 where a recipient can watch — or make — a piece at 2,100°F in the working studio.",
+          "url": "https://vermontbiz.com/news/2026/may/10/ao-glass-burlington-launches-their-immersive-glass-experience"
+        },
+        {
+          "name": "Conant Metal & Light",
+          "item": "Custom or restored decorative lighting fixture",
+          "price": "$200+",
+          "price_approx": true,
+          "where": "270 Pine St, by appointment",
+          "neighborhood": "South End",
+          "why": "Steve Conant's team has built and restored metal lighting in Burlington for 40 years, tracing back to Conant Custom Brass before the 2008 relaunch — a fixture from here outlasts the house it hangs in.",
+          "url": "https://www.conantmetalandlight.com/"
+        },
+        {
+          "name": "Common Deer",
+          "item": "VERMONT boxy adult sweater",
+          "price": "$109",
+          "price_approx": false,
+          "where": "210 College St",
+          "neighborhood": "Downtown",
+          "why": "A full Vermont-branded sweater, not a T-shirt souvenir — the kind of thing someone wears on purpose after they've lived here a few winters.",
+          "url": "https://commondeer.com/"
+        },
+        {
+          "name": "Shelburne Museum",
+          "item": "Sustaining or Patron membership",
+          "price": "$60 individual; $85 dual; $125 family; $250 sustaining; $500 patron",
+          "price_approx": false,
+          "where": "6000 Shelburne Rd",
+          "neighborhood": "Shelburne",
+          "why": "A family membership covers the full 45-acre campus of historic buildings, folk art, and the steamboat Ticonderoga for a full year, plus reciprocal access to over 1,100 other museums nationwide.",
+          "url": "https://shelburnemuseum.org/give/member/"
+        }
+      ]
+    },
+    {
+      "id": "outdoorsy",
+      "title": "For the outdoorsy one",
+      "intro": "Gear, upkeep, and Vermont-made layers for getting outside.",
+      "gifts": [
+        {
+          "name": "Outdoor Gear Exchange",
+          "item": "Gift card for new or used gear",
+          "price": "any amount",
+          "price_approx": false,
+          "where": "37 Church St",
+          "neighborhood": "Church Street Marketplace",
+          "why": "OGE sells new gear on the main floor and consignment gear in the basement, so a gift card here can go toward a $600 kayak or a $40 pair of crampons depending on what the recipient actually needs.",
+          "url": "https://www.gearx.com/pages/hours-location"
+        },
+        {
+          "name": "Skida",
+          "item": "Adult Alpine fleece-lined hat",
+          "price": "$40",
+          "price_approx": false,
+          "where": "Online, Skirack, or Outdoor Gear Exchange",
+          "neighborhood": "Sewn in Burlington",
+          "why": "Skida built its name in Nordic ski circles before expanding into everyday headwear, and the fleece-lined construction is still cut and sewn in the company's Burlington workshop.",
+          "url": "https://skida.com/collections/made-in-vermont-headwear"
+        },
+        {
+          "name": "Darn Tough Vermont",
+          "item": "Hiking or ski sock, one pair",
+          "price": "$20–$26",
+          "price_approx": true,
+          "where": "Skirack or Outdoor Gear Exchange",
+          "neighborhood": "Made in Northfield, Vermont",
+          "why": "The lifetime guarantee matters more here than anywhere else on this list — someone who hikes or skis hard enough to wear through wool socks is exactly who that policy was written for.",
+          "url": "https://darntough.com/"
+        },
+        {
+          "name": "Skirack",
+          "item": "Bike tune-up gift certificate or apparel",
+          "price": "any amount for a certificate",
+          "price_approx": true,
+          "where": "85 Main St",
+          "neighborhood": "Downtown",
+          "why": "Skirack has fitted ski boots and tuned bikes on Main Street since 1969, and a service certificate is a useful gift for someone who already owns the gear and just needs it maintained.",
+          "url": "https://www.skirack.com/pages/about-us"
+        },
+        {
+          "name": "Turtle Fur",
+          "item": "Original fleece watch cap",
+          "price": "$25–$30",
+          "price_approx": true,
+          "where": "Outdoor Gear Exchange or Skirack",
+          "neighborhood": "Made in Morrisville, Vermont",
+          "why": "Family-owned since 1982 and still headquartered in Vermont, this is the original slouchy fleece hat the brand built its name on before it started making anything else.",
+          "url": "https://turtlefur.com/"
+        }
+      ]
+    },
+    {
+      "id": "local-studios",
+      "title": "Made in the Old North End and South End studios",
+      "intro": "Work from local studios, galleries, and shops run by makers.",
+      "gifts": [
+        {
+          "name": "Thirty-odd",
+          "item": "Handmade goods from about 30 resident makers",
+          "price": "$11–$100+ depending on maker",
+          "price_approx": false,
+          "where": "270 Pine St, the Soda Plant",
+          "neighborhood": "South End Arts District",
+          "why": "Founder Moe O'Hara, known for recycled and upcycled work, opened the shop inside the Soda Plant in 2018, and the makers who rent space here keep 100% of their own sales.",
+          "url": "https://www.sevendaysvt.com/vermont/thirty-odd/Location?oid=17439618"
+        },
+        {
+          "name": "AO Glass",
+          "item": "Hand-blown ornament, tumbler, or sun-catcher made on-site",
+          "price": "$30–$80 for small pieces",
+          "price_approx": true,
+          "where": "416 Pine St",
+          "neighborhood": "South End Arts District",
+          "why": "The retail counter sits directly in front of the working furnace, so the piece someone buys was likely pulled from the fire earlier that same day.",
+          "url": "https://aoglass.com/visit-us"
+        },
+        {
+          "name": "Soapbox Arts",
+          "item": "Contemporary art or a print by a featured artist",
+          "price": "varies by artist",
+          "price_approx": false,
+          "where": "266 Pine St, Suite 119",
+          "neighborhood": "South End Arts District",
+          "why": "The gallery rotates shows of local and nationally recognized emerging artists inside a converted bottling plant, alongside Brio Coffeeworks and Thirty-odd in the same complex.",
+          "url": "https://www.soapboxarts.com/"
+        },
+        {
+          "name": "Frog Hollow Craft Gallery",
+          "item": "Pottery, woodwork, textiles, or jewelry by Vermont artisans",
+          "price": "$20–$200+ depending on piece",
+          "price_approx": true,
+          "where": "85 Church St",
+          "neighborhood": "Church Street Marketplace",
+          "why": "Frog Hollow has represented more than 100 Vermont artisans out of this Church Street space since 1971, and still runs a monthly Craft Night open to the public.",
+          "url": "https://www.froghollow.org/"
+        },
+        {
+          "name": "Golden Hour Gift Co",
+          "item": "Jewelry, clothing, or home goods from indie designers",
+          "price": "$15–$80",
+          "price_approx": true,
+          "where": "17 E Allen St",
+          "neighborhood": "Winooski",
+          "why": "The shop rebranded from Birdfolk Collective to Golden Hour Gift Co but kept its Winooski storefront and its focus on small, independent makers rather than wholesale brands.",
+          "url": "https://goldenhourgiftco.com/pages/winooski"
+        }
+      ]
+    },
+    {
+      "id": "experiences",
+      "title": "Experiences and gift cards",
+      "intro": "Tickets, memberships, and reasons to make a day of it.",
+      "gifts": [
+        {
+          "name": "The Flynn",
+          "item": "Box office gift certificate or show tickets",
+          "price": "varies by show",
+          "price_approx": false,
+          "where": "153 Main St",
+          "neighborhood": "Downtown",
+          "why": "The 1930s Art Deco theater on Main Street runs the region's main touring calendar of concerts, comedy, dance, and Broadway shows — check the calendar or call the box office for current gift certificate options.",
+          "url": "https://www.flynnvt.org/"
+        },
+        {
+          "name": "ECHO, Leahy Center for Lake Champlain",
+          "item": "General admission or annual membership",
+          "price": "$23 adult or $20 child admission",
+          "price_approx": true,
+          "where": "1 College St",
+          "neighborhood": "Waterfront",
+          "why": "A standing invitation to the lake-science exhibits and touch tanks on the Burlington waterfront, good for repeat rainy-day visits rather than a single afternoon.",
+          "url": "https://www.echovermont.org/"
+        },
+        {
+          "name": "Shelburne Museum",
+          "item": "Individual or family membership",
+          "price": "$60 individual or $125 family",
+          "price_approx": false,
+          "where": "6000 Shelburne Rd",
+          "neighborhood": "Shelburne",
+          "why": "The museum runs a gift-membership discount promotion most Novembers, but the standard family rate already covers unlimited entry to the 45-acre grounds and its collection of relocated historic buildings.",
+          "url": "https://shelburnemuseum.org/give/member/"
+        },
+        {
+          "name": "Vermont Lake Monsters",
+          "item": "Season ticket mini-plan",
+          "price": "$27+ for single games; call for mini-plans",
+          "price_approx": false,
+          "where": "Centennial Field",
+          "neighborhood": "University District",
+          "why": "The 2026 season runs from the May 30 home opener through an August 8 finale, and mini-plans are handled directly through the team's office rather than the online box office.",
+          "url": "https://vermontlakemonsters.com/tickets/"
+        },
+        {
+          "name": "Generator",
+          "item": "Makerspace day pass or class",
+          "price": "varies by class or membership",
+          "price_approx": false,
+          "where": "Burlington",
+          "neighborhood": "South End Arts District",
+          "why": "An 11,380-square-foot shop with a woodshop, metal shop, jewelry studio, and laser cutters under one roof — a useful gift for someone who keeps saying they want to learn to weld.",
+          "url": "https://generatorvt.com/membership/"
+        },
+        {
+          "name": "AO Glass",
+          "item": "Immersive Glass Experience session",
+          "price": "available from the studio",
+          "price_approx": false,
+          "where": "416 Pine St",
+          "neighborhood": "South End Arts District",
+          "why": "The studio's 2026 Immersive Glass Experience lets a visitor stamp a sun-catcher in 2,100°F molten glass themselves rather than just watching from behind the rope.",
+          "url": "https://vermontbiz.com/news/2026/may/10/ao-glass-burlington-launches-their-immersive-glass-experience"
+        }
+      ]
+    }
+  ]
+}
