@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-17T17:30:53-04:00",
+ "generated": "2026-07-19T06:58:43-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
-   "count": 33,
-   "seconds": 7.2
+   "count": 28,
+   "seconds": 5.9
   },
   "breweries": {
    "label": "Breweries & Taprooms",
-   "count": 47,
-   "seconds": 4.2
+   "count": 42,
+   "seconds": 3.8
   },
   "brownell": {
    "label": "Brownell Library",
-   "count": 61,
-   "seconds": 2.9
+   "count": 62,
+   "seconds": 2.8
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
-   "count": 149,
-   "seconds": 2.2
+   "count": 137,
+   "seconds": 2.9
   },
   "churchst": {
    "label": "Church Street Marketplace",
-   "count": 94,
-   "seconds": 1.5
+   "count": 87,
+   "seconds": 1.7
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -34,27 +34,27 @@
   "eventbrite": {
    "label": "Eventbrite",
    "count": 0,
-   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-17&end_date=2026-09-15&page=1 (HTTP Error 405: Not Allowed)"
+   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-19&end_date=2026-09-17&page=1 (HTTP Error 405: Not Allowed)"
   },
   "facebook": {
    "label": "Facebook (manual drops)",
-   "count": 173,
+   "count": 138,
    "seconds": 0.1
   },
   "farmersmarket": {
    "label": "Burlington Farmers Market",
-   "count": 9,
-   "seconds": 0.3
+   "count": 8,
+   "seconds": 0.4
   },
   "fletcherfree": {
    "label": "Fletcher Free Library",
-   "count": 225,
-   "seconds": 76.9
+   "count": 221,
+   "seconds": 73.2
   },
   "flynn": {
    "label": "The Flynn",
    "count": 15,
-   "seconds": 2.6
+   "seconds": 2.7
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -64,12 +64,12 @@
   "helloburlington": {
    "label": "Hello Burlington",
    "count": 750,
-   "seconds": 43.1
+   "seconds": 38.2
   },
   "higherground": {
    "label": "Higher Ground",
-   "count": 59,
-   "seconds": 96.1
+   "count": 61,
+   "seconds": 92.6
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -78,28 +78,28 @@
   },
   "loveburlington": {
    "label": "Love Burlington",
-   "count": 603,
-   "seconds": 67.5
+   "count": 584,
+   "seconds": 76.5
   },
   "meetup": {
    "label": "Meetup",
    "count": 63,
-   "seconds": 127.8
+   "seconds": 133.6
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
-   "count": 18,
-   "seconds": 16.4
+   "count": 21,
+   "seconds": 14.7
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
-   "count": 73,
-   "seconds": 4.7
+   "count": 71,
+   "seconds": 4.9
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
-   "count": 45,
-   "seconds": 27.3
+   "count": 43,
+   "seconds": 27.1
   },
   "sevendays": {
    "label": "Seven Days",
@@ -113,226 +113,30 @@
   },
   "uvm": {
    "label": "UVM & Colleges",
-   "count": 163,
-   "seconds": 8.6
+   "count": 159,
+   "seconds": 10.0
   },
   "uvmbored": {
    "label": "UVM Bored",
-   "count": 132,
+   "count": 125,
    "seconds": 0.1
   },
   "vcc": {
    "label": "Vermont Comedy Club",
-   "count": 52,
-   "seconds": 69.6
+   "count": 50,
+   "seconds": 66.4
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
-   "count": 29,
-   "seconds": 0.2
+   "count": 32,
+   "seconds": 0.4
   }
  },
- "gathered": 2793,
- "afterDedup": 1372,
- "duplicatesMerged": 1421,
- "final": 2546,
+ "gathered": 2697,
+ "afterDedup": 1337,
+ "duplicatesMerged": 1360,
+ "final": 2433,
  "mergeLog": [
-  {
-   "kept": {
-    "title": "Live DJ at Ri Ra!",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-14"
-  },
-  {
-   "kept": {
-    "title": "Food Truck Fridays",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-14"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-14"
-  },
-  {
-   "kept": {
-    "title": "Pub Hour",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-14"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-14"
-  },
-  {
-   "kept": {
-    "title": "Splash Dance: Skipipop",
-    "source": "bca"
-   },
-   "merged_sources": [
-    "bca",
-    "churchst",
-    "helloburlington",
-    "loveburlington",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-15"
-  },
-  {
-   "kept": {
-    "title": "Sing Along with Linda at the NNE Branch",
-    "source": "fletcherfree"
-   },
-   "merged_sources": [
-    "fletcherfree",
-    "loveburlington"
-   ],
-   "date": "2026-08-15"
-  },
-  {
-   "kept": {
-    "title": "Nora Brown & Stephanie Coleman",
-    "source": "higherground"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "higherground"
-   ],
-   "date": "2026-08-15"
-  },
-  {
-   "kept": {
-    "title": "Slow Magic",
-    "source": "higherground"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "helloburlington",
-    "higherground"
-   ],
-   "date": "2026-08-15"
-  },
-  {
-   "kept": {
-    "title": "Live DJ at Ri Ra!",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-15"
-  },
-  {
-   "kept": {
-    "title": "Burlington Farmers Market",
-    "source": "farmersmarket"
-   },
-   "merged_sources": [
-    "farmersmarket",
-    "loveburlington"
-   ],
-   "date": "2026-08-15"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-15"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-15"
-  },
-  {
-   "kept": {
-    "title": "Sunday Classical: Equinox Wind Quintet",
-    "source": "bca"
-   },
-   "merged_sources": [
-    "bca",
-    "churchst",
-    "helloburlington",
-    "loveburlington",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-16"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-16"
-  },
-  {
-   "kept": {
-    "title": "Soda Plant Sundays",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-16"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-16"
-  },
   {
    "kept": {
     "title": "Lost Mural Project’s Musical Memories Concert – Daniel Kahn",
@@ -2357,6 +2161,17 @@
   },
   {
    "kept": {
+    "title": "Sicard Hollow",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "higherground"
+   ],
+   "date": "2026-09-13"
+  },
+  {
+   "kept": {
     "title": "Jim Norton",
     "source": "higherground"
    },
@@ -2364,6 +2179,17 @@
     "helloburlington",
     "higherground",
     "uvm"
+   ],
+   "date": "2026-09-13"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
    ],
    "date": "2026-09-13"
   },
@@ -2380,12 +2206,37 @@
   },
   {
    "kept": {
+    "title": "Industry Day",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-14"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-14"
+  },
+  {
+   "kept": {
     "title": "Marcus King Band",
     "source": "flynn"
    },
    "merged_sources": [
     "flynn",
-    "higherground"
+    "helloburlington",
+    "higherground",
+    "uvm",
+    "uvmbored"
    ],
    "date": "2026-09-15"
   },
@@ -2402,6 +2253,39 @@
   },
   {
    "kept": {
+    "title": "Farms to Plates: Vermont's Local Food System",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-15"
+  },
+  {
+   "kept": {
+    "title": "Community Service Fair",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-15"
+  },
+  {
+   "kept": {
+    "title": "Empowerment Self-Defense (Student Session)",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-15"
+  },
+  {
+   "kept": {
     "title": "Elephant Stone",
     "source": "breweries"
    },
@@ -2410,47 +2294,135 @@
     "champlainvalley"
    ],
    "date": "2026-09-15"
+  },
+  {
+   "kept": {
+    "title": "802sDay",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-15"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-15"
+  },
+  {
+   "kept": {
+    "title": "Alela Diane",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "helloburlington",
+    "higherground"
+   ],
+   "date": "2026-09-16"
+  },
+  {
+   "kept": {
+    "title": "John Craigie",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "higherground"
+   ],
+   "date": "2026-09-16"
+  },
+  {
+   "kept": {
+    "title": "TRIVIA NIGHT",
+    "source": "churchst"
+   },
+   "merged_sources": [
+    "churchst",
+    "loveburlington"
+   ],
+   "date": "2026-09-16"
+  },
+  {
+   "kept": {
+    "title": "Fall 2026 Kickoff Party",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-16"
+  },
+  {
+   "kept": {
+    "title": "Pub Hour",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-16"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-16"
+  },
+  {
+   "kept": {
+    "title": "Italian Conversation Group",
+    "source": "fletcherfree"
+   },
+   "merged_sources": [
+    "fletcherfree",
+    "loveburlington"
+   ],
+   "date": "2026-09-17"
+  },
+  {
+   "kept": {
+    "title": "Thirsty Thursday",
+    "source": "churchst"
+   },
+   "merged_sources": [
+    "churchst",
+    "loveburlington"
+   ],
+   "date": "2026-09-17"
   }
  ],
  "changes": [
   {
-   "id": "62b594f0d59d",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-07-17",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
+   "id": "b9916ad0dce4",
+   "title": "802sDay",
+   "date": "2026-09-15",
+   "change": "time",
+   "was": "2026-09-15",
+   "now": "2026-09-15T11:30:00-04:00"
   },
   {
-   "id": "642793d275be",
-   "title": "Lunch with the Poets",
-   "date": "2026-07-17",
-   "change": "missing",
-   "lastSeen": "2026-07-17T07:08:33-04:00"
-  },
-  {
-   "id": "9927f635e6bb",
-   "title": "DD Island & The Wormdogs",
-   "date": "2026-07-17",
-   "change": "dropped"
-  },
-  {
-   "id": "86384a89f636",
-   "title": "Dream / Mộng : Veronica Pham",
-   "date": "2026-07-17",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "5b64cd247290",
-   "title": "Nepenthes 101 - Tropical Pitcher Plant Workshop",
-   "date": "2026-07-18",
-   "change": "dropped"
-  },
-  {
-   "id": "0857721012f7",
-   "title": "Old vs New Tech",
-   "date": "2026-07-19",
-   "change": "dropped"
+   "id": "5945d359dfe7",
+   "title": "\"Weird Al\" Yankovic",
+   "date": "2026-07-24",
+   "change": "time",
+   "was": "2026-07-24T19:30:00-04:00",
+   "now": "2026-07-24T18:00:00-04:00"
   },
   {
    "id": "a375333818cf",
@@ -2458,6 +2430,13 @@
    "date": "2026-07-19",
    "change": "missing",
    "lastSeen": "2026-07-16T07:20:49-04:00"
+  },
+  {
+   "id": "31203ef0cd33",
+   "title": "Dream / Mộng : Veronica Pham",
+   "date": "2026-07-19",
+   "change": "missing",
+   "lastSeen": "2026-07-18T17:32:30-04:00"
   },
   {
    "id": "b9c0187b6ce9-1300",
@@ -2498,13 +2477,6 @@
    "id": "c0d3bee74895",
    "title": "Networking Lunch at Hula with the Network of Women--July Lunch",
    "date": "2026-07-23",
-   "change": "missing",
-   "lastSeen": "2026-07-15T17:37:29-04:00"
-  },
-  {
-   "id": "6c8617e97379",
-   "title": "Summer Concert Series",
-   "date": "2026-07-23",
    "change": "dropped"
   },
   {
@@ -2513,24 +2485,6 @@
    "date": "2026-07-24",
    "change": "missing",
    "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "4573d10a06a8",
-   "title": "Jeffrey Foucault",
-   "date": "2026-07-24",
-   "change": "dropped"
-  },
-  {
-   "id": "6d6dad97fa27",
-   "title": "Downtown Boys",
-   "date": "2026-07-25",
-   "change": "dropped"
-  },
-  {
-   "id": "adc77f31c5a5",
-   "title": "Best Pooch in the Noosk",
-   "date": "2026-07-26",
-   "change": "dropped"
   },
   {
    "id": "75166e78a793",
@@ -2589,12 +2543,6 @@
    "lastSeen": "2026-07-16T07:20:49-04:00"
   },
   {
-   "id": "4863e13fe712",
-   "title": "Putts for Paws Charity Golf Tournament",
-   "date": "2026-08-03",
-   "change": "dropped"
-  },
-  {
    "id": "f01da97388a1",
    "title": "Burlington Electric Department Office Hours",
    "date": "2026-08-03",
@@ -2623,17 +2571,18 @@
    "lastSeen": "2026-07-16T07:20:49-04:00"
   },
   {
-   "id": "74daa45ec2e6",
-   "title": "Compa & Friends Summer Residency! - Rob Compa, Cotter Ellis, & Chuck Jones",
-   "date": "2026-08-06",
-   "change": "dropped"
-  },
-  {
    "id": "b213cf5be974",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-08-07",
    "change": "missing",
    "lastSeen": "2026-07-16T17:44:24-04:00"
+  },
+  {
+   "id": "f93f139003d4",
+   "title": "Lake Monsters Baseball & Fireworks",
+   "date": "2026-08-08",
+   "change": "missing",
+   "lastSeen": "2026-07-18T17:32:30-04:00"
   },
   {
    "id": "12817856e815",
@@ -2783,18 +2732,6 @@
    "lastSeen": "2026-07-16T17:44:24-04:00"
   },
   {
-   "id": "5766b8ee536f",
-   "title": "Warren Zeiders",
-   "date": "2026-08-28",
-   "change": "dropped"
-  },
-  {
-   "id": "4a0f9b1b225c",
-   "title": "Jordan Davis",
-   "date": "2026-08-29",
-   "change": "dropped"
-  },
-  {
    "id": "7517d91c9f99",
    "title": "Venetian Karaoke",
    "date": "2026-08-30",
@@ -2842,18 +2779,6 @@
    "date": "2026-09-04",
    "change": "missing",
    "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "5454ce0c3d94",
-   "title": "Soulja Boy & Bow Wow & Fat Joe",
-   "date": "2026-09-05",
-   "change": "dropped"
-  },
-  {
-   "id": "0923004e5880",
-   "title": "Bret Michaels",
-   "date": "2026-09-06",
-   "change": "dropped"
   },
   {
    "id": "37405bc69bd5",
