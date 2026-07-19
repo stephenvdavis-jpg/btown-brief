@@ -1,8 +1,16 @@
 name: Refresh community data
 
 # Pulls fresh data for the site on a schedule:
-#  - latest r/GoodBurlington posts  -> data/reddit.json
+#  - latest r/GoodBurlington posts  -> data/reddit.json (scripts/refresh_goodburlington.py)
 #  - latest Burlington Brief issue  -> data/newsletter.json
+#
+# r/GoodBurlington fetch was direct-Reddit-only and had been silently broken
+# since Reddit started 403ing GitHub runners (data/reddit.json sat at
+# {"updated": null, "posts": []} indefinitely). scripts/refresh_goodburlington.py
+# fixes this the same way scripts/refresh_chatter.py already does for
+# r/burlington/r/vermont: try direct Reddit JSON first, fall back to Steve's
+# public Inoreader stream (no auth). On any failure it keeps the last good
+# data/reddit.json rather than writing an empty file.
 # The site stays 100% static — this just commits updated JSON.
 # Enable under: repo Settings -> Actions -> Allow all actions,
 # and Settings -> Actions -> Workflow permissions -> Read and write.
@@ -21,7 +29,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Reddit + newsletter data
+      - name: Refresh r/GoodBurlington data
+        run: python3 scripts/refresh_goodburlington.py
+
+      - name: Fetch newsletter data
         run: |
           python3 - <<'EOF'
           import json, sys, urllib.request, xml.etree.ElementTree as ET
@@ -33,46 +44,6 @@ jobs:
               req = urllib.request.Request(url, headers=headers or {})
               with urllib.request.urlopen(req, timeout=30) as res:
                   return res.read()
-
-          # --- Reddit: r/GoodBurlington ---
-          # Reddit sometimes 403s datacenter IPs; try a few hosts.
-          # Fail gracefully: on any error, keep the last good file.
-          try:
-              raw = None
-              last_err = None
-              for host in ('www.reddit.com', 'old.reddit.com', 'api.reddit.com'):
-                  try:
-                      raw = fetch(
-                          f'https://{host}/r/GoodBurlington/hot.json?limit=15',
-                          headers={'User-Agent': 'btown-brief-site/1.0 (github actions data refresh)'}
-                      )
-                      break
-                  except Exception as e:
-                      last_err = e
-              if raw is None:
-                  raise last_err
-              children = json.loads(raw)['data']['children']
-              posts = []
-              for c in children:
-                  d = c.get('data', {})
-                  if d.get('stickied'):
-                      continue
-                  posts.append({
-                      'title': d.get('title', ''),
-                      'score': d.get('score', 0),
-                      'url': 'https://www.reddit.com' + d.get('permalink', ''),
-                      'created_utc': d.get('created_utc'),
-                  })
-                  if len(posts) >= 6:
-                      break
-              if posts:
-                  with open('data/reddit.json', 'w') as f:
-                      json.dump({'updated': now, 'posts': posts}, f, indent=2)
-                  print(f'reddit.json: wrote {len(posts)} posts')
-              else:
-                  print('reddit: no posts returned, keeping last good file')
-          except Exception as e:
-              print(f'reddit fetch failed, keeping last good file: {e}', file=sys.stderr)
 
           # --- Newsletter: weather preview + curated "Events This Week" ---
           # The issue's "Weather & Rundown" section holds the weather forecast
