@@ -70,37 +70,51 @@
     <div class="page-hero">
       <span class="page-hero-kicker">Volunteer</span>
       <h1>Help Burlington This Week</h1>
-      <p class="page-hero-sub">You don't need a free calendar — you need two hours and a place to point them. Filter by what you've actually got, click through, and sign up directly with the organization.</p>
-    </div>
-
-    <div class="big-link-row">
-      <a class="big-link" href="https://unitedwaynwvt.galaxydigital.com/need/index?distance=10&amp;zip=05401&amp;s=1&amp;dir=DESC&amp;orderby=need_id" target="_blank" rel="noopener">
-        <span class="big-link-main">Find a shift this week → United Way NWVT</span>
-        <span class="big-link-note">Every open volunteer need within 10 miles of Burlington, by date</span>
-      </a>
-      <a class="big-link" href="https://www.idealist.org/en/volunteer?locationType=ONSITE&amp;recency=PAST_MONTH" target="_blank" rel="noopener">
-        <span class="big-link-main">Browse Idealist →</span>
-        <span class="big-link-note">Fresh on-site listings from the past month (formerly VolunteerMatch)</span>
-      </a>
+      <p class="page-hero-sub">You don't need a free calendar — you need two hours and a place to point them. Below: specific shifts I've personally checked recently, plus a standing directory of local orgs that welcome volunteers. Click through and sign up directly with the organization.</p>
     </div>
 
     <div class="chip-row" id="vol-filters" role="group" aria-label="Quick filters">
-      <label class="quick-chip"><input type="checkbox" value="quick"><span>⏱ I've got 2 hours</span></label>
+      <label class="quick-chip"><input type="checkbox" value="quick"><span>⏱ ~2 hours</span></label>
       <label class="quick-chip"><input type="checkbox" value="outdoor"><span>🌲 Outdoors</span></label>
       <label class="quick-chip"><input type="checkbox" value="onetime"><span>📅 One-time</span></label>
       <label class="quick-chip"><input type="checkbox" value="recurring"><span>🔁 Recurring</span></label>
       <label class="quick-chip"><input type="checkbox" value="friends"><span>👥 Good with friends</span></label>
     </div>
+    <p class="vol-filter-note">Filters only match what's been confirmed directly — plenty of good opportunities below just haven't had this info verified yet, so an unchecked filter still shows everything.</p>
 
+    <h2 class="section-label">Fresh Volunteer Opportunities</h2>
+    <p class="vol-section-sub" id="vol-fresh-sub">Specific shifts, verified on the organization's own page within the last two weeks. Each one shows when it was last checked and expires from this list after 14 days unless I reverify it.</p>
+    <div id="vol-fresh-list">
+      <p class="page-empty">Loading fresh opportunities…</p>
+    </div>
+
+    <h2 class="section-label">Organizations That Welcome Volunteers</h2>
+    <p class="vol-section-sub">A standing directory of Chittenden County nonprofits that recruit volunteers on their own site. These aren't dated shifts — click through to each org's volunteer page for what's currently open.</p>
     <p class="result-count" id="vol-count" aria-live="polite"></p>
-
     <div id="vol-list">
-      <p class="page-empty">Loading opportunities…</p>
+      <p class="page-empty">Loading organizations…</p>
+    </div>
+
+    <h2 class="section-label">More Places To Browse</h2>
+    <p class="vol-section-sub">Bigger, national-scale listing sites. Neither is guaranteed current or complete — always confirm the date, time, and availability directly with the organization before you show up.</p>
+    <div class="big-link-row">
+      <a class="big-link" href="https://unitedwaynwvt.galaxydigital.com/need/index?distance=10&amp;zip=05401&amp;s=1&amp;dir=DESC&amp;orderby=need_id" target="_blank" rel="noopener">
+        <span class="big-link-main">United Way NWVT Volunteer Connection →</span>
+        <span class="big-link-note">The biggest local database of open shifts — but postings can sit stale for a while, so treat dates as a starting point, not a guarantee</span>
+      </a>
+      <a class="big-link" href="https://www.idealist.org/en/volunteer?locationType=ONSITE&amp;recency=PAST_MONTH" target="_blank" rel="noopener">
+        <span class="big-link-main">Browse Idealist →</span>
+        <span class="big-link-note">National on-site listings from the past month (formerly VolunteerMatch) — Burlington coverage varies week to week</span>
+      </a>
+      <a class="big-link" href="https://www.vermontconnector.org/vt-nonprofit-directory" target="_blank" rel="noopener">
+        <span class="big-link-main">Vermont Connector directory →</span>
+        <span class="big-link-note">A statewide nonprofit directory, not a shift listing — useful for finding an org's own volunteer page</span>
+      </a>
     </div>
 
     <div class="note-card">
       <strong>Run a Burlington organization that needs volunteers?</strong>
-      Email <a href="mailto:BtownBrief@gmail.com?subject=Volunteer%20opportunity%20for%20the%20Brief">BtownBrief@gmail.com</a> with what you need, when, and a link — I'll highlight it here and in the newsletter.
+      Email <a href="mailto:BtownBrief@gmail.com?subject=Volunteer%20opportunity%20for%20the%20Brief">BtownBrief@gmail.com</a> with: organization name, the opportunity, date or cadence, location, time commitment, and a public signup link — I'll highlight it here and in the newsletter.
     </div>
   </main>
 
