@@ -1,17 +1,6 @@
 {
- "generated": "2026-07-19T22:13:15+00:00",
+ "generated": "2026-07-19T23:16:04+00:00",
  "events": [
-  {
-   "ts": "2026-07-12T22:30:00+00:00",
-   "category": "news",
-   "headline": "Union rally in Burlington calls for safe staffing at UVM Medical Center",
-   "detail": "",
-   "url": "https://www.mynbc5.com/article/uvmmc-union-safe-staffing-rally/71910702",
-   "source": "mynbc5",
-   "sourceName": "NBC5",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-13T02:00:02+00:00",
    "category": "chatter",

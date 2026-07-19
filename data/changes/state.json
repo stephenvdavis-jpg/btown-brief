@@ -897,18 +897,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -1300,8 +1300,22 @@
       "id": "73176376",
       "title": "Spain wins the World Cup by beating Argentina",
       "link": "https://www.mynbc5.com/article/world-cup-final-argentina-spain/73176376",
-      "ts": "2026-07-19T22:09:00+00:00",
-      "summary": "Spain substitute Ferran Torres scored in the 106th minute to give his team a 1-0 win over defending champion Argentina in the World Cup final."
+      "ts": "2026-07-19T22:57:00+00:00",
+      "summary": "Spain lifts the World Cup trophy after defeating Argentina. Here's a recap of the final."
+     },
+     {
+      "id": "73180813",
+      "title": "JD Vance becomes first sitting vice president in more than 150 years to welcome a newborn",
+      "link": "https://www.mynbc5.com/article/jd-vance-usha-vance-fourth-child-baby-alec-neel/73180813",
+      "ts": "2026-07-19T22:32:00+00:00",
+      "summary": "JD Vance becomes the first sitting vice president in more than 150 years to welcome a newborn. Here's what we know about their baby boy."
+     },
+     {
+      "id": "73180819",
+      "title": "Less wind, continued sunny skies Monday",
+      "link": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-19-26/73180819",
+      "ts": "2026-07-19T22:25:20+00:00",
+      "summary": "Showers and storms possible both Tuesday and Wednesday"
      },
      {
       "id": "73180527",
@@ -1421,20 +1435,6 @@
       "link": "https://www.mynbc5.com/article/woman-fatally-attacked-13-foot-alligator/73177990",
       "ts": "2026-07-19T02:34:00+00:00",
       "summary": "Brittany Clark, 31, was in 3 feet of water when the gator bit her. She had been hiking with her boyfriend and friends when they stopped to swim with their dogs."
-     },
-     {
-      "id": "73177624",
-      "title": "England beats Mbappé and France in wild World Cup third-place game",
-      "link": "https://www.mynbc5.com/article/england-mbappe-france-world-cup-third-place/73177624",
-      "ts": "2026-07-19T01:38:00+00:00",
-      "summary": "Bukayo Saka scored three goals to lead England to a win over France for third place in the World Cup"
-     },
-     {
-      "id": "73177911",
-      "title": "Racing legacy: Dale Earnhardt's grandson races sprint car",
-      "link": "https://www.mynbc5.com/article/dale-earnhardt-grandson-races/73177911",
-      "ts": "2026-07-19T01:36:00+00:00",
-      "summary": "Wyatt Miller is in his first full season racing sprint cars. He is the nephew of Dale Earnhardt Jr. and the grandson of Dale Earnhardt."
      }
     ]
    },
