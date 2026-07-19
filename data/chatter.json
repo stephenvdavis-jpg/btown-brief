@@ -1,9 +1,57 @@
 {
-  "updated": "2026-07-19T19:47:07+00:00",
+  "updated": "2026-07-19T23:34:04+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "news": [
+    {
+      "title": "JD Vance becomes first sitting vice president in more than 150 years to welcome a newborn",
+      "url": "https://www.mynbc5.com/article/jd-vance-usha-vance-fourth-child-baby-alec-neel/73180813",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-19T22:49:27+00:00",
+      "summary": "JD Vance becomes the first sitting vice president in more than 150 years to welcome a newborn. Here's what we know about their baby boy."
+    },
+    {
+      "title": "Less wind, continued sunny skies Monday",
+      "url": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-19-26/73180819",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-19T22:49:27+00:00",
+      "summary": "Showers and storms possible both Tuesday and Wednesday"
+    },
+    {
+      "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
+      "url": "https://www.mynbc5.com/article/us-military-death-toll-iran-conflict-rises-17/73180527",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-19T22:19:30+00:00",
+      "summary": "The U.S. military reports that another service member has been killed in the conflict with Iran, bringing the total to 17"
+    },
+    {
+      "title": "Madonna, the Muppets Justin Bieber and others take World Cup stage for star-studded halftime show",
+      "url": "https://www.mynbc5.com/article/world-cup-halftime-2026/73180304",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-19T20:49:55+00:00",
+      "summary": "Madonna opened the World Cup halftime show with her 2000 dance-pop hit \"Music,\" joined by star Brazilian soccer players of yesteryear, Ronaldo and Ronaldinho"
+    },
+    {
+      "title": "Stolen mail from Vermont town found in trash bag, VSP asking for public's help",
+      "url": "https://www.mynbc5.com/article/stolen-mail-abandoned-vernon-vermont-state-police/73180110",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-19T19:50:35+00:00",
+      "summary": "Vermont State Police are asking for the public's help after mail stolen from multiple homes was found in a trash bag."
+    },
+    {
+      "title": "Burlington firefighter threatened, man arrested",
+      "url": "https://www.mynbc5.com/article/man-arrested-assault-threatening-burlington-firefighter/73180018",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-19T19:50:35+00:00",
+      "summary": "Burlington Police took a man into custody on Friday after he allegedly assaulted a woman and threatened a firefighter with a knife."
+    },
     {
       "title": "Panasonic toaster ovens sold on Amazon, Costco recalled nationwide",
       "url": "https://www.mynbc5.com/article/panasonic-electric-toaster-oven-recall-amazon-costco/73179645",
@@ -157,12 +205,12 @@
       "summary": "Russia launched one of the largest ballistic missile attacks of the more than four-year-old war against Ukraine overnight into Sunday, according to authorities."
     },
     {
-      "title": "The World Cup final awaits, with Argentina set to face Spain",
+      "title": "Spain wins the World Cup by beating Argentina",
       "url": "https://www.mynbc5.com/article/world-cup-final-argentina-spain/73176376",
       "outlet": "NBC5",
       "domain": "mynbc5.com",
       "published": "2026-07-19T04:52:53+00:00",
-      "summary": "It's a chance to write the perfect ending at the 2026 World Cup"
+      "summary": "Spain lifts the World Cup trophy after defeating Argentina. Here's a recap of the final."
     },
     {
       "title": "Vermont Green FC Women's Soccer loses in USL2 Championship Match",
@@ -807,44 +855,10 @@
   ],
   "topics": [
     {
-      "id": "guy-deal-weird",
-      "label": "All About the Republican Congressional Primary",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-18T22:04:39+00:00",
-      "sources": [
-        {
-          "title": "All About the Republican Congressional Primary",
-          "url": "https://www.reddit.com/r/vermont/comments/1v04mu5/all_about_the_republican_congressional_primary/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T22:04:39+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "burger-welcome-afternoon",
-      "label": "Burgers - between Burlington and Middlebury?",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-18T22:04:39+00:00",
-      "sources": [
-        {
-          "title": "Burgers - between Burlington and Middlebury?",
-          "url": "https://www.reddit.com/r/vermont/comments/1v07h9k/burgers_between_burlington_and_middlebury/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T22:04:39+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "smoke-band-block",
+      "id": "smoke-both-doing",
       "label": "Question for former staff about Mirabelle's from Main Street Era",
-      "direction": "fading",
-      "posts": 3,
+      "direction": "rising",
+      "posts": 2,
       "comments": null,
       "last_activity": "2026-07-18T05:04:20+00:00",
       "sources": [
@@ -861,12 +875,22 @@
           "sub": "r/burlington",
           "when": "2026-07-17T17:04:49+00:00",
           "comments": null
-        },
+        }
+      ]
+    },
+    {
+      "id": "beach-farm-north",
+      "label": "North of Star Farm Beach",
+      "direction": "steady",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-17T23:04:21+00:00",
+      "sources": [
         {
-          "title": "Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
-          "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
+          "title": "North of Star Farm Beach",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzc2ql/north_of_star_farm_beach/",
           "sub": "r/burlington",
-          "when": "2026-07-16T20:02:13+00:00",
+          "when": "2026-07-17T23:04:21+00:00",
           "comments": null
         }
       ]
@@ -896,30 +920,6 @@
       ]
     },
     {
-      "id": "beach-north-farm",
-      "label": "North of Star Farm Beach",
-      "direction": "fading",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-17T23:04:21+00:00",
-      "sources": [
-        {
-          "title": "North of Star Farm Beach",
-          "url": "https://www.reddit.com/r/burlington/comments/1uzc2ql/north_of_star_farm_beach/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T23:04:21+00:00",
-          "comments": null
-        },
-        {
-          "title": "Massive Upgrade at Oakledge - Goodbye North Beach",
-          "url": "https://www.reddit.com/r/burlington/comments/1uyff7y/massive_upgrade_at_oakledge_goodbye_north_beach/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T23:03:44+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "dog-dogs-leash",
       "label": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs…",
       "direction": "fading",
@@ -944,30 +944,6 @@
       ]
     },
     {
-      "id": "bike-car-crashed",
-      "label": "Pine street Vehicle Crash with E-Bike incident report",
-      "direction": "fading",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-16T23:03:44+00:00",
-      "sources": [
-        {
-          "title": "Pine street Vehicle Crash with E-Bike incident report",
-          "url": "https://www.reddit.com/r/burlington/comments/1uydxcp/pine_street_vehicle_crash_with_ebike_incident/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T23:03:44+00:00",
-          "comments": null
-        },
-        {
-          "title": "Car crashed onto sidewalk/bike path on Pine st",
-          "url": "https://www.reddit.com/r/burlington/comments/1uyanxx/car_crashed_onto_sidewalkbike_path_on_pine_st/",
-          "sub": "r/burlington",
-          "when": "2026-07-16T20:02:13+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "distortion-social-967",
       "label": "Social distortion tickets x3",
       "direction": "fading",
@@ -987,6 +963,30 @@
           "url": "https://www.reddit.com/r/burlington/comments/1uz5xek/social_distortion_ticket/",
           "sub": "r/burlington",
           "when": "2026-07-17T20:04:01+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "ice-joan-lorenzo",
+      "label": "Yesterday’s march for Lorenzo & Joan",
+      "direction": "fading",
+      "posts": 2,
+      "comments": null,
+      "last_activity": "2026-07-17T20:04:01+00:00",
+      "sources": [
+        {
+          "title": "Yesterday’s march for Lorenzo & Joan",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz6f8h/yesterdays_march_for_lorenzo_joan/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T20:04:01+00:00",
+          "comments": null
+        },
+        {
+          "title": "Yesterday’s march for Lorenzo & Joan",
+          "url": "https://www.reddit.com/r/vermont/comments/1uz6geq/yesterdays_march_for_lorenzo_joan/",
+          "sub": "r/vermont",
+          "when": "2026-07-17T19:04:39+00:00",
           "comments": null
         }
       ]
@@ -1047,17 +1047,6 @@
       "blurb": "Hi all! Been having a lot of trouble finding a reliably good burger in this area. What are your recommendations? Please include the type…",
       "comments": null,
       "unverified": false
-    },
-    {
-      "slot": "rumor",
-      "slot_label": "Emerging rumor — unverified",
-      "title": "Car crashed onto sidewalk/bike path on Pine st",
-      "url": "https://www.reddit.com/r/burlington/comments/1uyanxx/car_crashed_onto_sidewalkbike_path_on_pine_st/",
-      "sub": "r/burlington",
-      "when": "2026-07-16T20:02:13+00:00",
-      "blurb": "Anyone know what happened? I drove by just before they started towing the car and unfortunately it looks like there is a crashed bike on…",
-      "comments": null,
-      "unverified": true
     }
   ],
   "rough": [
@@ -1070,9 +1059,9 @@
     }
   ],
   "stats": {
-    "posts_scanned": 85,
+    "posts_scanned": 78,
     "per_source": {
-      "r/burlington": 38,
+      "r/burlington": 31,
       "r/vermont": 47
     }
   }
