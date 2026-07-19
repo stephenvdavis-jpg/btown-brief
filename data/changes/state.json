@@ -25,13 +25,13 @@
    },
    "Leddy Beach North": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-17T18:49:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-19T15:25:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "Bk",
-    "resultTime": "2026-07-17T18:39:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-19T15:25:00+00:00"
    },
    "North Beach North": {
     "status": "open",
@@ -45,8 +45,8 @@
    },
    "North Shore Natural Area": {
     "status": "open",
-    "reason": "Bk",
-    "resultTime": "2026-07-17T18:27:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-19T15:13:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
@@ -855,6 +855,13 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-19/vermont-green-women-finish-inaugural-season-as-national-runners-up",
+      "title": "Vermont Green women finish inaugural season as national runners up",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-19/vermont-green-women-finish-inaugural-season-as-national-runners-up",
+      "ts": "2026-07-19T14:16:28+00:00",
+      "summary": "Vermont Green FC's women's team fell to Salmon Bay FC 5-4 on penalty kicks following a 1-1 tie through overtime in the USL W League National Final on Saturday. Waterbury Center's Lousia Thomsen scored the Green's lone goal in the game's 93rd minute to force overtime."
+     },
+     {
       "id": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-19/sow-cool-season-crops-in-hot-july-for-a-continuous-vegetable-harvest-this-fall",
       "title": "Sow cool-season crops in hot July for a continuous vegetable harvest this fall",
       "link": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-19/sow-cool-season-crops-in-hot-july-for-a-continuous-vegetable-harvest-this-fall",
@@ -890,18 +897,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -930,13 +937,6 @@
       "link": "https://www.vermontpublic.org/local-news/2023-07-03/a-vermonters-guide-to-wildfire-smoke-and-air-quality",
       "ts": "2026-07-15T21:48:00+00:00",
       "summary": "Wildfire smoke is becoming more of an issue in Vermont and across the country. Here are some resources to help with smoke exposure when air quality gets dangerous."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-15/summer-swimming-hole-safety",
-      "title": "Summer swimming hole safety",
-      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-15/summer-swimming-hole-safety",
-      "ts": "2026-07-15T20:32:25+00:00",
-      "summary": "Vermont’s search and rescue coordinator shares important information on how to stay safe while in or on the water."
      }
     ]
    },
@@ -1297,6 +1297,27 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73179115",
+      "title": "AIPAC has spent a record amount on Michigan's Senate primary",
+      "link": "https://www.mynbc5.com/article/aipac-michigan-senate-primary-stevens-el-sayed/73179115",
+      "ts": "2026-07-19T15:24:00+00:00",
+      "summary": "AIPAC and its affiliated groups have spent close to $30 million backing Rep. Haley Stevens in the Michigan Senate Democratic primary, their largest investment ever in a single race."
+     },
+     {
+      "id": "73175211",
+      "title": "US military launches new airstrikes to 'swiftly punish' Iran for deaths of US troops",
+      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
+      "ts": "2026-07-19T14:52:00+00:00",
+      "summary": "Step by step, the U.S, and Iran have returned closer to all-out war as last month's interim deal meant to permanently end the fighting has crumbled."
+     },
+     {
+      "id": "73179172",
+      "title": "Paddleboarders thought they were rescuing a drowning dog. They saved a raccoon",
+      "link": "https://www.mynbc5.com/article/paddleboarders-rescue-raccoon/73179172",
+      "ts": "2026-07-19T14:08:00+00:00",
+      "summary": "Paddleboarders thought they were rescuing a drowning dog. They saved a raccoon instead."
+     },
+     {
       "id": "73178777",
       "title": "US launches strikes to 'swiftly punish' Iran for American troop deaths",
       "link": "https://www.mynbc5.com/article/us-strikes-to-punish-iran-american-troop-deaths/73178777",
@@ -1330,13 +1351,6 @@
       "link": "https://www.mynbc5.com/article/iron-man-bionic-arm-alex-pring-ucf/73178635",
       "ts": "2026-07-19T10:44:00+00:00",
       "summary": "More than a decade after capturing national attention as the young boy who received a 3D-printed bionic arm with help from actor Robert Downey Jr., Alex Pring is celebrating a new chapter."
-     },
-     {
-      "id": "73175211",
-      "title": "US military launches new airstrikes to 'swiftly punish' Iran for deaths of US troops",
-      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
-      "ts": "2026-07-19T10:08:00+00:00",
-      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
      },
      {
       "id": "73178544",
@@ -1388,18 +1402,18 @@
       "summary": "Wyatt Miller is in his first full season racing sprint cars. He is the nephew of Dale Earnhardt Jr. and the grandson of Dale Earnhardt."
      },
      {
-      "id": "73177802",
-      "title": "Vermont Clover FC men's soccer punches ticket into UPSL New England Cup Championship",
-      "link": "https://www.mynbc5.com/article/vermont-clover-fc-mens-soccer-punches-ticket-into-upsl-new-england-cup-championship/73177802",
-      "ts": "2026-07-19T00:55:00+00:00",
-      "summary": "Clover win via penalty kicks in back-and-forth battle against the Hartford Athletic"
-     },
-     {
       "id": "73177613",
       "title": "Plattsburgh's Brina Micheels reflects on joining second team in young professional career",
       "link": "https://www.mynbc5.com/article/plattsburghs-brina-micheels-reflects-on-joining-second-team-in-young-professional-career/73177613",
       "ts": "2026-07-19T00:55:00+00:00",
       "summary": "Micheels signed her second pro contract to compete with Puebla Fam in June, a club based in Mexico"
+     },
+     {
+      "id": "73177802",
+      "title": "Vermont Clover FC men's soccer punches ticket into UPSL New England Cup Championship",
+      "link": "https://www.mynbc5.com/article/vermont-clover-fc-mens-soccer-punches-ticket-into-upsl-new-england-cup-championship/73177802",
+      "ts": "2026-07-19T00:55:00+00:00",
+      "summary": "Clover win via penalty kicks in back-and-forth battle against the Hartford Athletic"
      },
      {
       "id": "73177523",
@@ -1421,20 +1435,6 @@
       "link": "https://www.mynbc5.com/article/antique-boat-show-returns/73176757",
       "ts": "2026-07-18T22:27:00+00:00",
       "summary": "Despite rainy weather in Burlington, boaters and visitors still gathered along the waterfront Saturday for the 39th Annual Lake Champlain Antique and Classic Boat Show."
-     },
-     {
-      "id": "73177107",
-      "title": "Drier Sunday, with less smoke and increasing sunshine",
-      "link": "https://www.mynbc5.com/article/drier-sunday-with-less-smoke-and-increasing-sunshine-7-18-26/73177107",
-      "ts": "2026-07-18T22:24:00+00:00",
-      "summary": "Gorgeous Monday before showers return by Tuesday"
-     },
-     {
-      "id": "73176621",
-      "title": "Iceberg lettuce recalled in 27 states due to potential Cyclospora contamination",
-      "link": "https://www.mynbc5.com/article/iceberg-lettuce-recalled-in-27-states-due-to-potential-cyclospora-contamination-health-consumer-news/73176621",
-      "ts": "2026-07-18T19:23:00+00:00",
-      "summary": "Produce supplier Taylor Farms is recalling iceberg lettuce shipped to 27 U.S. states because of potential contamination with Cyclospora, the parasite causing thousands of cases of diarrhea across the country."
      }
     ]
    },
