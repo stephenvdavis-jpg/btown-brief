@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Downtown Burlington Walking Tour — Burlington Brief</title>
+  <meta name="description" content="A 1.7-mile, 14-stop walking tour through downtown Burlington's civic core, remembered neighborhoods, and working waterfront.">
+  <meta property="og:title" content="Downtown Burlington Walking Tour — Burlington Brief">
+  <meta property="og:description" content="Walk a 14-stop loop through downtown Burlington's history, from Church Street to the waterfront and back.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
+  <meta property="og:url" content="https://guide.btownbrief.com/walking-tour.html">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&amp;family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/walking-tour.css">
+  <script>
+    /* Theme before first paint, from the cached sunrise/sunset. js/auto-theme.js
+       refreshes the cache; this only avoids the white flash after dark. */
+    (function () {
+      try {
+        var c = JSON.parse(localStorage.getItem('btown-sun') || 'null');
+        if (!c) return;
+        var today = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York',
+          year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+        if (c.day !== today) return;
+        var n = Date.now();
+        document.documentElement.setAttribute('data-theme',
+          (n >= c.rise && n < c.set) ? 'light' : 'dark');
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body data-standalone>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <button class="dark-toggle" id="dark-toggle" aria-label="Toggle dark mode" title="Toggle light / dark">
+          <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+          <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+        </button>
+        <span class="logo-sep"></span>
+        <span class="logo-title">Burlington Brief</span>
+      </div>
+      <nav class="mode-nav" aria-label="Community pages">
+        <a class="mode-btn" href="things-to-do.html">Things To Do</a>
+        <a class="mode-btn" href="volunteer.html">Volunteer</a>
+        <a class="mode-btn" href="clubs.html">Clubs</a>
+        <a class="mode-btn" href="projects.html">Projects</a>
+      </nav>
+    </div>
+  </header>
+
+  <a class="newsletter-bar" href="https://btownbrief.com" target="_blank" rel="noopener">
+    <div class="newsletter-bar-inner">
+      <div class="newsletter-head">
+        <span class="newsletter-label">The Burlington Brief</span>
+        <span class="newsletter-issue">Free Burlington news &amp; events in your inbox</span>
+      </div>
+      <span class="newsletter-cta">Sign up free →</span>
+    </div>
+  </a>
+
+  <main class="page-wrap tour-page">
+    <div class="page-hero tour-hero">
+      <span class="page-hero-kicker">The Walking Tour</span>
+      <h1>Downtown, one layer at a time.</h1>
+      <p class="page-hero-sub">A 1.7-mile loop through Burlington's civic core, lost and remembered neighborhoods, and working waterfront. Starts and ends at the Unitarian Church at the top of Church Street.</p>
+      <div class="tour-facts" aria-label="Tour details">
+        <span class="tour-fact">14 stops</span>
+        <span class="tour-fact">90–120 minutes</span>
+        <span class="tour-fact">Mostly flat · one uphill climb</span>
+      </div>
+    </div>
+
+    <p class="tour-progress" id="tour-progress" aria-live="polite">Stop 1 of 14</p>
+
+    <ol class="tour-route">
+      <li class="tour-stop" id="stop-1" data-stop="1">
+        <span class="tour-stop-number" aria-hidden="true">1</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Unitarian Church</h2>
+          <div class="tour-stop-meta"><p class="tour-location">152 Pearl Street, at the top of Church Street</p><a class="tour-map-link" href="https://maps.google.com/?q=44.4784,-73.2119" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">Start here, at the brick meetinghouse that's older than the city's incorporation as a city by half a century. Boston architect Peter Banner designed it in 1816 for a congregation that had split off from Burlington's Congregational church six years earlier over a doctrinal dispute about the Trinity — Unitarians rejected it, hence the name. The building's organ was hauled up from Boston by sleigh. It's the oldest surviving house of worship built by European settlers in Burlington, and it still marks the natural starting line of Church Street, the spine the rest of downtown grew around.</p>
+          <p class="tour-directions"><span class="tour-directions-label">3 min to stop 2</span>Face south and start walking down Church Street Marketplace.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-2" data-stop="2">
+        <span class="tour-stop-number" aria-hidden="true">2</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Church Street Marketplace (mid-block)</h2>
+          <div class="tour-stop-meta"><p class="tour-location">Church Street, between Bank and Cherry</p><a class="tour-map-link" href="https://maps.google.com/?q=44.4772,-73.2122" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">You're standing on ground that was a car-choked commercial street until 1980. A Burlington planner named Bill Truex had seen Copenhagen's pedestrian Strøget as an architecture student in 1962 and spent years pushing the idea locally; a one-day 1971 street fair that drew roughly 15,000 people proved the concept could work. The two center blocks closed to traffic for good on July 7, 1980, and the redesigned Marketplace opened September 15, 1981 — the same year Burlington elected a democratic-socialist mayor who'd go on to reshape the rest of downtown. It remains one of the country's longer-running successful pedestrian malls.</p>
+          <p class="tour-directions"><span class="tour-directions-label">3 min to stop 3</span>Continue south to the bottom of Church Street, where City Hall faces the park.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-3" data-stop="3">
+        <span class="tour-stop-number" aria-hidden="true">3</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">City Hall &amp; City Hall Park</h2>
+          <div class="tour-stop-meta"><p class="tour-location">149 Church Street</p><a class="tour-map-link" href="https://maps.google.com/?q=44.4760,-73.2126" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">City Hall's predecessor cracked apart after a 1925 earthquake, so Burlington held a design competition among 26 architecture firms and hired the New York firm McKim, Mead &amp; White — the same practice behind Manhattan's original Penn Station. Architect William Kendall's Neoclassical building, finished in 1928 for $475,000, is built almost entirely from Vermont brick, marble, and granite, a point of local pride at the time. The park in front predates the building by a century and has functioned as Burlington's default gathering space for everything from farmers' markets to protests. Look for the fountain and surrounding trees — the park carries its own National Register historic district designation.</p>
+          <p class="tour-directions"><span class="tour-directions-label">3 min to stop 4</span>Head west one block on College Street to the library.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-4" data-stop="4">
+        <span class="tour-stop-number" aria-hidden="true">4</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Fletcher Free Library</h2>
+          <div class="tour-stop-meta"><p class="tour-location">235 College Street</p><a class="tour-map-link" href="https://maps.google.com/?q=44.4757,-73.2117" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">Mary Martha Fletcher endowed Burlington's public library in 1873, but the current building exists because of a much more famous name: in 1901–04, Andrew Carnegie put up $50,000 to replace the outgrown original, making this the first of Vermont's four Carnegie libraries. The Beaux-Arts building nearly didn't survive the 20th century — it turned out to have been built over a filled-in ravine, and by 1973 it was settling badly enough that demolition was seriously discussed. A citizens' campaign saved it instead, won it a spot on the National Register of Historic Places, and funded the repairs and 1981 addition you can still see today.</p>
+          <p class="tour-directions"><span class="tour-directions-label">9 min to stop 5</span>Backtrack toward Church Street and head north on Cherry Street toward Battery Park. The route goes slightly uphill, then down toward the bluff.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-5" data-stop="5">
+        <span class="tour-stop-number" aria-hidden="true">5</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Little Italy / Urban Renewal Marker</h2>
+          <div class="tour-stop-meta"><p class="tour-location">Foot of Cherry Street, Battery Park Extension</p><a class="tour-map-link" href="https://maps.google.com/?q=Foot+of+Cherry+Street,+Battery+Park+Extension,+Burlington,+VT" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">This spot marks one of Burlington's harder stories. From the late 1800s, the blocks bordered roughly by Pearl, Main, St. Paul, and Battery streets held a tight-knit Italian-American neighborhood — more than 140 homes, gardens, a Catholic church, two schools. In the mid-1960s the city condemned the whole district under a federally funded urban renewal project; demolition began in 1966 and the last house came down in 1968. A total of 167 families and 67 individuals were displaced, many to the city's outer edges, to make room for what became office buildings and an enclosed mall. A state historic marker acknowledging the neighborhood wasn't dedicated here until October 8, 2011 — more than four decades later.</p>
+          <p class="tour-directions"><span class="tour-directions-label">2 min to stop 6</span>Continue north into Battery Park.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-6" data-stop="6">
+        <span class="tour-stop-number" aria-hidden="true">6</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Battery Park</h2>
+          <div class="tour-stop-meta"><p class="tour-location">North Avenue at Battery Street</p><a class="tour-map-link" href="https://maps.google.com/?q=44.4818,-73.2170" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">This bluff-top green space is named for the American artillery battery stationed here during the War of 1812, when Burlington — swollen with as many as 5,000 federal troops, more than its own civilian population — was a genuine military target on the Canadian frontier. In August 1813, gunners posted here helped repel a British squadron on the lake; accounts differ on the exact date and details, so treat any specific “cannon duel” story you hear as approximate. The land itself wasn't formally deeded to the city until 1870. Look north from the bluff toward the Old North End, where French-Canadian, Irish, and later Jewish immigrant communities settled — including the neighborhood once known as Little Jerusalem.</p>
+          <p class="tour-directions"><span class="tour-directions-label">7 min to stop 7</span>Walk south along Battery Street, back the way you came, taking in the historic houses.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-7" data-stop="7">
+        <span class="tour-stop-number" aria-hidden="true">7</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Battery Street Historic District</h2>
+          <div class="tour-stop-meta"><p class="tour-location">Battery Street, between Pearl and King</p><a class="tour-map-link" href="https://maps.google.com/?q=Battery+Street+between+Pearl+and+King,+Burlington,+VT" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">Battery Street runs along what used to be the actual shoreline — it was called Water Street before the waterfront was built out below it. This stretch preserves an unusually intact mix of buildings dating back to the 1790s: modest early houses standing near grander 19th-century homes, a record of the street's slow climb from frontier edge to established neighborhood. The lumber barons and railroad money that built Burlington's fortune mostly built their mansions farther up the hill, on streets like South Union and Main, deliberately upwind and out of earshot of their own mills. What's here is closer to the working city: merchants, sea captains, and the households that ran the port below.</p>
+          <p class="tour-directions"><span class="tour-directions-label">9 min to stop 8</span>Continue south and then down the hill toward the waterfront — via Pine Street or the Battery Street stairs/path — to Union Station.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-8" data-stop="8">
+        <span class="tour-stop-number" aria-hidden="true">8</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Union Station &amp; the Waterfront</h2>
+          <div class="tour-stop-meta"><p class="tour-location">1 Main Street</p><a class="tour-map-link" href="https://maps.google.com/?q=44.4737,-73.2186" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">This isn't Burlington's original station — that one, built in 1867 at the foot of College Street, was outgrown by 1906. Two railroads and the city pooled resources to build this one instead, opening it in 1916 as a “union” station shared by the Central Vermont Railway and the Rutland Railroad. It sits at what was once the loudest, busiest stretch of Burlington: after the Champlain and Erie canals opened in the 1820s, this waterfront grew into one of the country's major lumber ports, and by the 1870s Burlington ranked among the top three lumber markets in the nation, or possibly the world — sources disagree on which superlative applies. Amtrak's Ethan Allen Express stops here, on a platform rebuilt in 2022.</p>
+          <p class="tour-directions"><span class="tour-directions-label">5 min to stop 9</span>Walk north along the waterfront bike path toward the old power plant.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-9" data-stop="9">
+        <span class="tour-stop-number" aria-hidden="true">9</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">The Moran Plant (The FRAME)</h2>
+          <div class="tour-stop-meta"><p class="tour-location">475 Lake Street</p><a class="tour-map-link" href="https://maps.google.com/?q=475+Lake+Street,+Burlington,+VT" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">Burlington voters approved this coal-fired municipal power plant in 1952; it opened in 1954, switched to wood chips during the 1970s energy crisis, and was decommissioned in 1986 once a newer plant took over. For more than thirty years afterward, it sat mostly empty — a hulking brick shell on prime waterfront land that nobody could agree what to do with. The city finally broke ground in 2020 on an unusual fix: strip the building down to its steel skeleton, stabilize it, paint it, and leave it open to the sky as a public pavilion rather than tear it down or fully rebuild it. It reopened as the FRAME in October 2022 — an industrial ruin turned into a deliberately unfinished landmark.</p>
+          <p class="tour-directions"><span class="tour-directions-label">8 min to stop 10</span>Walk back south along the waterfront path, past Union Station, toward ECHO.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-10" data-stop="10">
+        <span class="tour-stop-number" aria-hidden="true">10</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">ECHO, Leahy Center for Lake Champlain</h2>
+          <div class="tour-stop-meta"><p class="tour-location">1 College Street</p><a class="tour-map-link" href="https://maps.google.com/?q=44.4728,-73.2196" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">ECHO anchors the south end of Waterfront Park with aquarium tanks, hands-on science exhibits, and views straight out over the water toward the Adirondacks. It's a good place to pause and picture what this shoreline looked like at its industrial peak — rail yards, coal piles, and roughly ninety oil storage tanks were still here as recently as the late 1970s, before the city's push to reclaim the waterfront as public land in the 1980s. That reclamation was a genuine political fight, contested up to the Vermont Supreme Court before it was settled in the city's favor around 1989.</p>
+          <p class="tour-directions"><span class="tour-directions-label">3 min to stop 11</span>Walk out onto the bike path or the fishing pier just south of ECHO for the breakwater view.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-11" data-stop="11">
+        <span class="tour-stop-number" aria-hidden="true">11</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">The Breakwater</h2>
+          <div class="tour-stop-meta"><p class="tour-location">Waterfront Park, south of ECHO</p><a class="tour-map-link" href="https://maps.google.com/?q=Waterfront+Park+south+of+ECHO,+Burlington,+VT" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">The long stone line visible offshore is the Burlington Breakwater, built in stages between 1836 and 1890 to give the harbor shelter once canal traffic made this one of the busiest ports on the lake. It started as timber cribs filled with stone; by 1890 the whole structure was being rebuilt in solid stone masonry, a slow federal engineering project spread across more than fifty years. It's still doing its original job, breaking the chop before it reaches the harbor, and it's one of the few 19th-century timber-cribbed breakwaters of its kind still recognized on the National Register of Historic Places.</p>
+          <p class="tour-directions"><span class="tour-directions-label">9 min to stop 12</span>Head back up College Street toward downtown, retracing part of your earlier route. This stretch is uphill.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-12" data-stop="12">
+        <span class="tour-stop-number" aria-hidden="true">12</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Memorial Auditorium</h2>
+          <div class="tour-stop-meta"><p class="tour-location">250 Main Street</p><a class="tour-map-link" href="https://maps.google.com/?q=250+Main+Street,+Burlington,+VT" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">Financed by a $750,000 bond and finished in 1928, Memorial Auditorium was built to honor Burlington's war dead going back to the Revolution while doubling as the city's convention hall and community gathering space. Amelia Earhart spoke to 4,000 Burlington schoolchildren here in the 1930s; Duke Ellington, Nina Simone, and Simon &amp; Garfunkel all played the room in the 1960s. Decades of deferred maintenance forced the city to close it in 2016 over structural safety concerns, and its future has been debated ever since — a large, handsome building waiting on the same kind of reinvention the Moran Plant already got.</p>
+          <p class="tour-directions"><span class="tour-directions-label">1 min to stop 13</span>Walk half a block to Nectar's.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-13" data-stop="13">
+        <span class="tour-stop-number" aria-hidden="true">13</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Nectar's</h2>
+          <div class="tour-stop-meta"><p class="tour-location">188 Main Street</p><a class="tour-map-link" href="https://maps.google.com/?q=188+Main+Street,+Burlington,+VT" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">Nectar Rorris opened this restaurant and bar in 1975, and by late 1984 it had become the regular haunt of a scrappy band called Phish, who'd formed in Burlington the year before. Rorris gave the band a stage to experiment on while they were still finding their sound, and they repaid him with the title of their 1992 album, <em>A Picture of Nectar</em>, whose cover superimposes his face onto an orange. The club closed for good in July 2025 after fifty years, done in by a Main Street construction project and a lease dispute — but the storefront is still here, and so is the story of how a Burlington bar helped launch one of the country's most durable touring bands.</p>
+          <p class="tour-directions"><span class="tour-directions-label">7 min to stop 14</span>Walk northwest back up to Church Street and climb to the top.</p>
+        </article>
+      </li>
+      <li class="tour-stop" id="stop-14" data-stop="14">
+        <span class="tour-stop-number" aria-hidden="true">14</span>
+        <article class="tour-stop-card">
+          <h2 class="tour-stop-title">Back to the Unitarian Church</h2>
+          <div class="tour-stop-meta"><p class="tour-location">152 Pearl Street</p><a class="tour-map-link" href="https://maps.google.com/?q=44.4784,-73.2119" target="_blank" rel="noopener">Map ↗</a></div>
+          <p class="tour-history">You're closing the loop where you started, at the top of Church Street. From here you can look back down the length of the Marketplace toward City Hall — roughly the same sightline Burlington's planners were imagining in 1971 when they closed the street to cars for one afternoon and found out 15,000 people would show up for it. It's a fitting place to end: a nearly 210-year-old church looking down a 45-year-old pedestrian street, with a lake port's industrial bones, an immigrant city's surviving and erased neighborhoods, and a small city's stubborn habit of reinventing its own waterfront, all packed into the walk behind you.</p>
+          <p class="tour-directions"><span class="tour-directions-label">Loop complete</span>You've arrived back where you started.</p>
+        </article>
+      </li>
+    </ol>
+
+    <details class="tour-sources">
+      <summary>Where this history comes from</summary>
+      <ol class="tour-sources-list">
+        <li><a href="https://www.mychamplainvalley.com/at-this-place-in-history/this-place-in-history-burlington-waterfront-lumber/" target="_blank" rel="noopener">mychamplainvalley.com, “Burlington Waterfront &amp; Lumber”</a></li>
+        <li><a href="https://vermonthistory.org/burlington-vermont-waterfront-lumber-industry-history" target="_blank" rel="noopener">Vermont Historical Society, “Burlington's booming lumber industry”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Burlington,_Vermont" target="_blank" rel="noopener">Wikipedia, “Burlington, Vermont”</a></li>
+        <li><a href="https://www.uvm.edu/place/burlingtongeographic/stories/wf-2.php" target="_blank" rel="noopener">UVM, “Evolution of Burlington on the Waterfront”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Union_Station_(Burlington,_Vermont)" target="_blank" rel="noopener">Wikipedia, “Union Station (Burlington, Vermont)”</a></li>
+        <li><a href="https://vermonthistory.org/burlington-union-station-railroad-vermont-history" target="_blank" rel="noopener">Vermont Historical Society, “Burlington's Union Station”</a></li>
+        <li>City of Burlington, <a href="https://www.burlingtonvt.gov/198/About-the-Moran-Frame" target="_blank" rel="noopener">“About the Moran Frame”</a>; <a href="https://www.theframebtv.org/about" target="_blank" rel="noopener">The FRAME, “About”</a>; <a href="https://en.wikipedia.org/wiki/Moran_Municipal_Generation_Station" target="_blank" rel="noopener">Wikipedia, “Moran Municipal Generation Station”</a></li>
+        <li><a href="https://vermonthistory.org/little-italy" target="_blank" rel="noopener">Vermont Historical Society, “Little Italy”</a></li>
+        <li><a href="https://www.sevendaysvt.com/arts-culture/lost-and-found-signs-reclaim-burlingtons-historic-little-italy-neighborhood-2266567" target="_blank" rel="noopener">Seven Days, “Signs Reclaim Burlington's Historic ‘Little Italy’ Neighborhood”</a></li>
+        <li><a href="https://www.wcax.com/2026/05/17/this-day-history-remaking-downtown-burlington-1960s/" target="_blank" rel="noopener">WCAX, “Remaking downtown Burlington in the 1960s”</a></li>
+        <li><a href="https://vermonthistory.org/little-jerusalem" target="_blank" rel="noopener">Vermont Historical Society, “Little Jerusalem”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Little_Jerusalem_(Burlington,_Vermont)" target="_blank" rel="noopener">Wikipedia, “Little Jerusalem (Burlington, Vermont)”</a></li>
+        <li><a href="https://www.sevendaysvt.com/news/new-marker-provides-a-window-into-the-history-of-burlingtons-battery-park-40850825/" target="_blank" rel="noopener">Seven Days, “New Marker Provides a Window Into the History of Burlington's Battery Park”</a></li>
+        <li><a href="https://vermonthistory.org/burlingtons-battery-park" target="_blank" rel="noopener">Vermont Historical Society, “Burlington's Battery Park”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Battery_Street_Historic_District" target="_blank" rel="noopener">Wikipedia, “Battery Street Historic District”</a></li>
+        <li><a href="https://sah-archipedia.org/buildings/VT-01-CH30" target="_blank" rel="noopener">SAH Archipedia, “Burlington City Hall”</a></li>
+        <li><a href="https://buildingsofnewengland.com/2021/02/03/burlington-city-hall-1928/" target="_blank" rel="noopener">Buildings of New England, “Burlington City Hall // 1928”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/City_Hall_Park_Historic_District" target="_blank" rel="noopener">Wikipedia, “City Hall Park Historic District”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Fletcher_Free_Library" target="_blank" rel="noopener">Wikipedia, “Fletcher Free Library”</a></li>
+        <li><a href="https://www.necarnegies.com/vtburlington.htm" target="_blank" rel="noopener">New England Carnegies, “Fletcher Free Library”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Battery_Park_(Burlington,_Vermont)" target="_blank" rel="noopener">Wikipedia, “Battery Park (Burlington, Vermont)”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Unitarian_Church_(Burlington,_Vermont)" target="_blank" rel="noopener">Wikipedia, “Unitarian Church (Burlington, Vermont)”</a></li>
+        <li><a href="https://vermonthistory.org/first-unitarian-universalist-church" target="_blank" rel="noopener">Vermont Historical Society, “First Unitarian Universalist Church”</a></li>
+        <li><a href="https://churchstmarketplace.com/history" target="_blank" rel="noopener">Church Street Marketplace, “History”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Church_Street_Marketplace" target="_blank" rel="noopener">Wikipedia, “Church Street Marketplace”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Burlington_Breakwater" target="_blank" rel="noopener">Wikipedia, “Burlington Breakwater”</a></li>
+        <li><a href="https://www.uvm.edu/~tvisser/memorialauditorium/" target="_blank" rel="noopener">UVM, “Memorial Auditorium's Place in Burlington's Civic Story”</a></li>
+        <li><a href="https://www.burlingtonvt.gov/874/History-of-Memorial-Auditorium" target="_blank" rel="noopener">City of Burlington, “History of Memorial Auditorium”</a></li>
+        <li><a href="https://www.sevendaysvt.com/arts-culture/the-history-and-uncertain-future-of-burlingtons-memorial-auditorium-34366667/" target="_blank" rel="noopener">Seven Days, “The History and Uncertain Future of Burlington's Memorial Auditorium”</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Phish" target="_blank" rel="noopener">Wikipedia, “Phish”</a>; <a href="https://liveatnectars.com/history-mission/" target="_blank" rel="noopener">Nectar's, “History &amp; Mission”</a></li>
+        <li><a href="https://www.vermontpublic.org/local-news/2025-10-06/nectars-the-burlington-venue-that-launched-phish-closes-on-a-quiet-note-after-50-years" target="_blank" rel="noopener">Vermont Public, “Nectar's … closes on a quiet note after 50 years”</a></li>
+        <li><a href="https://vtdigger.org/2025/07/31/burlington-music-venue-nectars-closes-after-50-year-run/" target="_blank" rel="noopener">VTDigger, “Burlington music venue Nectar's closes after 50-year run”</a></li>
+        <li><a href="https://www.wcax.com/2025/07/30/iconic-burlington-bar-nectars-closed-good/" target="_blank" rel="noopener">WCAX, “Iconic Burlington bar Nectar's closed for good”</a></li>
+      </ol>
+    </details>
+
+    <aside class="tour-more">
+      <h2>Keep going through Burlington's past</h2>
+      <p>Choose the short version or settle in for the full history.</p>
+      <div class="tour-more-links">
+        <a href="history.html"><span>The five-minute history</span><span aria-hidden="true">→</span></a>
+        <a href="history-full.html"><span>The whole story</span><span aria-hidden="true">→</span></a>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>A <a href="https://www.btownbrief.com" target="_blank" rel="noopener">Burlington Brief</a> project</span>
+      <span class="footer-sep">·</span>
+      <span>Burlington, Vermont</span>
+    </div>
+  </footer>
+
+  <script src="js/community.js"></script>
+  <script>
+    (function () {
+      'use strict';
+      if (!('IntersectionObserver' in window)) return;
+
+      var progress = document.getElementById('tour-progress');
+      var stops = document.querySelectorAll('.tour-stop');
+      var observer = new IntersectionObserver(function (entries) {
+        var visible = [];
+        var i;
+        for (i = 0; i < entries.length; i += 1) {
+          if (entries[i].isIntersecting) visible.push(entries[i]);
+        }
+        if (!visible.length) return;
+        visible.sort(function (a, b) {
+          return Math.abs(a.boundingClientRect.top) - Math.abs(b.boundingClientRect.top);
+        });
+        progress.textContent = 'Stop ' + visible[0].target.getAttribute('data-stop') + ' of ' + stops.length;
+      }, { rootMargin: '-20% 0px -60% 0px', threshold: 0 });
+
+      var i;
+      for (i = 0; i < stops.length; i += 1) observer.observe(stops[i]);
+    })();
+  </script>
+  <script src="js/auto-theme.js"></script>
+  <script src="https://play.btownbrief.com/nav.js" defer></script>
+</body>
+</html>

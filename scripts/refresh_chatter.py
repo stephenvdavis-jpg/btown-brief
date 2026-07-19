@@ -26,6 +26,23 @@ INOREADER = {
     "r/burlington": "https://www.inoreader.com/stream/user/1003590800/tag/Reddit%20%28r%2Fburlington%29?n=100",
     "r/vermont": "https://www.inoreader.com/stream/user/1003590800/tag/Reddit%20%28r%2FVermont%29?n=100",
 }
+NEWS_INOREADER = "https://www.inoreader.com/stream/user/1003590800/tag/Broader%20Local%20News%20%26%20Podcasts?n=100"
+NEWS_OUTLETS = {
+    "vtdigger.org": "VTDigger",
+    "vermontbiz.com": "Vermont Biz",
+    "sevendaysvt.com": "Seven Days",
+    "wcax.com": "WCAX",
+    "mynbc5.com": "NBC5",
+    "wptz.com": "NBC5",
+    "vermontpublic.org": "Vermont Public",
+    "burlingtonfreepress.com": "Free Press",
+    "mychamplainvalley.com": "Local 22/44",
+    "wvny.com": "Local 22/44",
+    "wfff.com": "Local 22/44",
+    "vermontdailychronicle.com": "Vermont Daily Chronicle",
+    "vtcommunitynews.org": "VT Community News",
+    "wvmtradio.com": "WVMT",
+}
 STOP = set(("the a an and or but if then than to of in on at for from with by is are was were be been being "
             "it its this that these those i me my we our you your they their he she as do does did have has had "
             "can could would should will just not no so some any all about into out up down over more most who what "
@@ -164,6 +181,44 @@ def parse_inoreader(raw, sub):
                       "score": None, "comments": None, "created": parse_time(item.findtext("pubDate")),
                       "url": link, "sub": sub, "from_reddit": False, "from_inoreader": True})
     return posts
+
+
+def parse_news_inoreader(raw):
+    stories = []
+    for item in ET.fromstring(raw).findall(".//item")[:100]:
+        url = clean_space(item.findtext("link"))
+        parts = urllib.parse.urlsplit(url)
+        if parts.scheme not in ("http", "https") or not parts.hostname:
+            continue
+        try:
+            published = parse_time(item.findtext("pubDate"))
+        except (TypeError, ValueError, OverflowError):
+            published = None
+        if not published:
+            continue
+        domain = parts.hostname.lower()
+        if domain.startswith("www."):
+            domain = domain[4:]
+        stories.append({"title": clean_space(item.findtext("title")), "url": url,
+                        "outlet": NEWS_OUTLETS.get(domain, domain), "domain": domain,
+                        "published": iso(published),
+                        "summary": trim(strip_html(item.findtext("description")), 200)})
+    return stories
+
+
+def load_news(existing, fixtures=None):
+    try:
+        if fixtures:
+            with open(os.path.join(fixtures, "inoreader-news.xml"), "rb") as src:
+                fresh = parse_news_inoreader(src.read())
+        else:
+            fresh = parse_news_inoreader(fetch_bytes(NEWS_INOREADER, "application/rss+xml, application/xml"))
+    except Exception as exc:
+        print(f"inoreader local news failed: {exc}", file=sys.stderr)
+        fresh = []
+    merged = {item.get("url"): item for item in existing if item.get("url")}
+    merged.update((item["url"], item) for item in fresh)
+    return sorted(merged.values(), key=lambda item: item.get("published", ""), reverse=True)[:150]
 
 
 def parse_reddit(data, sub):
@@ -591,8 +646,9 @@ def run(fixtures=None, dry_run=False):
              if p["id"] in rough_ids][:10]
     highlights = [highlight(slot, picks[slot]) for slot in SLOT_LABELS if slot in picks]
     counts = Counter(post["sub"] for post in posts)
+    news = load_news(load_json(OUT, {}).get("news", []), fixtures)
     output = {"updated": iso(now), "window_hours": 72, "mode": mode, "llm": MODEL if llm_result else None,
-              "topics": topics[:8], "highlights": highlights, "rough": rough,
+              "news": news, "topics": topics[:8], "highlights": highlights, "rough": rough,
               "stats": {"posts_scanned": len(posts), "per_source": {"r/burlington": counts["r/burlington"],
                                                                        "r/vermont": counts["r/vermont"]}}}
 
@@ -633,7 +689,8 @@ def run(fixtures=None, dry_run=False):
             if why:
                 leads.append((post["url"], post, why))
         append_tips(leads)
-    print(f"wrote chatter.json: {len(output['topics'])} topics, {len(highlights)} highlights, {len(rough)} rough")
+    print(f"wrote chatter.json: {len(output['topics'])} topics, {len(highlights)} highlights, "
+          f"{len(rough)} rough, {len(news)} news")
     return 0
 
 
@@ -663,6 +720,12 @@ def selftest():
     assert not safety_flag(post("fff", "Scam near Main Street", "Watch out"))
     assert not safety_flag(post("ee2", "Thanks to Sarah Chen for the plant sale", ""))
     assert not safety_flag(post("ff2", "Police presence on Church Street today", ""))
+    news_xml = b'''<rss><channel><item><title>Local &amp; useful</title>
+      <link>https://www.vermontbiz.com/story</link><pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+      <description><![CDATA[<p>A <strong>plain</strong> summary.</p>]]></description></item></channel></rss>'''
+    parsed_news = parse_news_inoreader(news_xml)
+    assert parsed_news[0]["outlet"] == "Vermont Biz"
+    assert parsed_news[0]["summary"] == "A plain summary."
     with tempfile.TemporaryDirectory() as directory:
         path = os.path.join(directory, "tips.md")
         item = post("ggg", "A lead")

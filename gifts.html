@@ -3,19 +3,20 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Burlington Jobs Added This Week — Burlington Brief</title>
-  <meta name="description" content="The newest Burlington, VT job postings across the major local boards — city, state, UVM, the hospital, and Seven Days — refreshed automatically, every link direct to the real posting.">
+  <title>The Burlington Gift Guide — Burlington Brief</title>
+  <meta name="description" content="A Burlington gift guide filled with specific things from local shops and makers, from small stocking stuffers to Vermont-made splurges.">
+
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Btown Brief">
-  <meta property="og:title" content="Burlington Jobs Added This Week">
-  <meta property="og:description" content="The newest Burlington, VT job postings across the major local boards — city, state, UVM, the hospital, and Seven Days — refreshed automatically, every link direct to the real posting.">
-  <meta property="og:url" content="https://guide.btownbrief.com/jobs.html">
+  <meta property="og:site_name" content="Burlington Brief">
+  <meta property="og:title" content="The Burlington Gift Guide">
+  <meta property="og:description" content="Specific gifts from Burlington-area shops and makers, organized by who you're shopping for.">
+  <meta property="og:url" content="https://guide.btownbrief.com/gifts.html">
   <meta property="og:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Burlington Jobs Added This Week">
-  <meta name="twitter:description" content="The newest Burlington, VT job postings across the major local boards — city, state, UVM, the hospital, and Seven Days — refreshed automatically, every link direct to the real posting.">
+  <meta name="twitter:title" content="The Burlington Gift Guide">
+  <meta name="twitter:description" content="Specific gifts from Burlington-area shops and makers, organized by who you're shopping for.">
   <meta name="twitter:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -59,10 +60,11 @@
         <span class="logo-sep"></span>
         <span class="logo-title">Burlington Brief</span>
       </div>
-      <nav class="mode-nav" aria-label="Site pages">
-        <a class="mode-btn mode-btn-link" href="things-to-do.html">Things To Do</a>
-        <a class="mode-btn mode-btn-link" href="housing.html">Housing</a>
-        <span class="mode-btn mode-btn-active" aria-current="page">Jobs</span>
+      <nav class="mode-nav" aria-label="Community pages">
+        <a class="mode-btn" href="things-to-do.html">Things To Do</a>
+        <a class="mode-btn" href="clubs.html">Clubs</a>
+        <a class="mode-btn" href="volunteer.html">Volunteer</a>
+        <a class="mode-btn" href="projects.html">Projects</a>
       </nav>
     </div>
   </header>
@@ -79,35 +81,22 @@
 
   <main class="page-wrap">
     <div class="page-hero">
-      <span class="page-hero-kicker">Jobs</span>
-      <h1>Added This Week in Burlington</h1>
-      <p class="page-hero-sub">Dream jobs get filled by whoever saw them first. This is the newest posting from every major local board — city, state, UVM, the hospital, Seven Days — in one place, every link straight to the real application.</p>
-      <p class="jobs-updated" id="jobs-updated" aria-live="polite"></p>
+      <span class="page-hero-kicker">The Gift Guide</span>
+      <h1>Give something actually from here</h1>
+      <p class="page-hero-sub">Every gift comes from a Burlington-area shop or maker.</p>
     </div>
 
-    <div class="chip-row" id="job-filters" role="group" aria-label="Job filters">
-      <label class="quick-chip"><input type="checkbox" value="city"><span>🏛 City &amp; state</span></label>
-      <label class="quick-chip"><input type="checkbox" value="no-degree"><span>🛠 No degree needed</span></label>
-      <label class="quick-chip"><input type="checkbox" value="pay25"><span>💵 $25+/hr</span></label>
-      <label class="quick-chip"><input type="checkbox" value="weekend"><span>📆 Weekend</span></label>
-      <label class="quick-chip"><input type="checkbox" value="seasonal"><span>☀️ Seasonal</span></label>
+    <nav class="chip-row" id="gift-jump" aria-label="Jump to a gift category">
+      <span class="page-empty">Loading categories…</span>
+    </nav>
+
+    <div id="gifts-list">
+      <p class="page-empty">Loading gifts…</p>
     </div>
 
-    <p class="result-count" id="jobs-count" aria-live="polite"></p>
-
-    <div id="jobs-list">
-      <p class="page-empty">Loading this week's postings…</p>
-    </div>
-
-    <h2 class="section-label">Go Straight To The Big Employers</h2>
-    <p class="housing-sources-intro">The five biggest hirers around Burlington post constantly — worth a direct check even in a slow week.</p>
-    <div class="employer-row" id="employer-row"></div>
-
-    <div class="note-card" id="post-a-job">
-      <strong>Hiring? Send me your listing — it's free.</strong>
-      Email <a href="mailto:BtownBrief@gmail.com?subject=Job%20listing%20for%20the%20board&body=Role%3A%20%0APay%20or%20range%3A%20%0AWhere%20to%20apply%20(link)%3A%20%0AAnything%20else%3A%20">BtownBrief@gmail.com</a>
-      with the role, the pay if you can share it, and a link to apply.
-      Free while the board grows — I'll run it here and flag the good ones in the newsletter.
+    <div class="note-card">
+      <strong>Local maker with a giftable thing?</strong>
+      Email <a href="mailto:BtownBrief@gmail.com?subject=Local%20gift%20for%20the%20Burlington%20Gift%20Guide">BtownBrief@gmail.com</a> with the item, price, where to find it, and a link.
     </div>
   </main>
 
@@ -120,7 +109,7 @@
   </footer>
 
   <script src="js/community.js"></script>
-  <script src="js/jobs.js"></script>
+  <script src="js/gifts.js"></script>
   <script src="js/auto-theme.js"></script>
   <script src="https://play.btownbrief.com/nav.js" defer></script>
 </body>
