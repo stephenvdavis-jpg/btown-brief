@@ -1576,6 +1576,21 @@
       "lastChecked": "2026-07-10"
     },
     {
+      "id": "ino-reddit-goodburlington",
+      "name": "Inoreader output — r/GoodBurlington",
+      "category": "meta",
+      "url": "https://www.inoreader.com/",
+      "method": "rss",
+      "feedUrl": "https://www.inoreader.com/stream/user/1003590800/tag/Reddit%20%28r%2FGoodBurlington%29",
+      "altFeeds": [],
+      "updateFrequency": "several/week",
+      "fragility": "low-medium — same Inoreader dependency as the other two Reddit streams",
+      "notes": "Fixes the previously-broken data/reddit.json pipeline (scripts/refresh_goodburlington.py). Validated live 2026-07-19: HTTP 200, 7 items, no auth required.",
+      "validated": true,
+      "confidence": "high",
+      "lastChecked": "2026-07-19"
+    },
+    {
       "id": "ino-vt-news-focused",
       "name": "Inoreader output — VT News (Focused)",
       "category": "meta",

@@ -1,0 +1,4958 @@
+{
+  "generated": "2026-07-17",
+  "note": "Tier 1: a categorized directory of recurring “best X” questions r/burlington has already asked, merged from the 2023 and 2025 community list threads. Each entry links straight to its Reddit thread(s) — the actual crowd answer lives in that thread's comments, one click away. No named-winner extraction here by design; see SUMMARY-best-of-reddit.md.",
+  "sources": {
+    "2025_edition": {
+      "title": "Best of r/burlington List - 2025 Edition",
+      "author": "bluepied",
+      "url": "https://www.reddit.com/r/burlington/comments/1kuadqb/best_of_rburlington_list_2025_edition/",
+      "wayback_snapshot": "20250629194635",
+      "category_count": 18,
+      "link_count": 214
+    },
+    "2023_edition": {
+      "title": "Looking for the Best ___ in Burlington? Start here!",
+      "url": "https://www.reddit.com/r/burlington/comments/12r1lpn/looking_for_the_best_in_burlington_start_here/",
+      "wayback_snapshot": "20230418193950",
+      "category_count": 8,
+      "link_count": 103
+    }
+  },
+  "counts": {
+    "raw_links_2025": 214,
+    "raw_links_2023": 103,
+    "raw_links_total": 317,
+    "merged_unique_entries": 309,
+    "active": 213,
+    "2023_only": 96,
+    "present_in_both_editions": 7,
+    "comment_suggestions": 1,
+    "total_entries_in_file": 310
+  },
+  "categories": [
+    {
+      "id": "food-restaurants",
+      "title": "Food & Restaurants",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 94,
+        "2023_only": 49,
+        "total": 143
+      },
+      "entries": [
+        {
+          "id": "food-restaurants--best-all-you-can-eat",
+          "question": "Best All-You-Can-Eat",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fdjue9/all_you_can_eat/",
+              "label": "Best All-You-Can-Eat"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-avocados",
+          "question": "Best Avocados",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1go2qln/best_avocados/",
+              "label": "Best Avocados"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bacon",
+          "question": "Best Bacon",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1emfmuw/best_bacon/",
+              "label": "Best Bacon"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bahn-mi",
+          "question": "Best Bahn Mi",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fjclbk/best_bahn_mi/",
+              "label": "Best Bahn Mi"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bakery",
+          "question": "Best Bakery",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1h0hacp/best_local_bakery_for_a_birthday_cake/",
+              "label": "Best Bakery"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-baklava",
+          "question": "Best Baklava",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k5rbk3/where_is_the_best_baklava_in_burlington/",
+              "label": "Best Baklava"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-breakfast",
+          "question": "Best Breakfast",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iyu3l3/best_breakfast_in_burlingtonwilliston_area/",
+              "label": "Best Breakfast"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-breakfast-2",
+          "question": "Best Breakfast",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gd2gfu/best_breakfast_that_isnt_overrated_ikyk/",
+              "label": "Best Breakfast"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bulk-beans",
+          "question": "Best Bulk Beans",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1in052m/best_selection_cheapest_bulk_beans/",
+              "label": "Best Bulk Beans"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burger",
+          "question": "Best Burger",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jhgowx/best_burger_within_city_limits/",
+              "label": "Best Burger 1"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burger-2",
+          "question": "Best Burger",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1izhd6w/best_burgers_in_town/",
+              "label": "Best Burger 2"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burger-3",
+          "question": "Best Burger",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iekvu4/best_burger_in_burlington/",
+              "label": "Best Burger 3"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burger-4",
+          "question": "Best Burger 4",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fahtco/best_burger_in_town_and_dont_say_shopping_bag/",
+              "label": "Best Burger 4"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burger-5",
+          "question": "Best Burger 5",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1eh304e/best_burgers_in_town/",
+              "label": "Best Burger 5"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burger-6",
+          "question": "Best Burger 6",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/15eq1oy/looking_for_the_best_burger/",
+              "label": "Best Burger 6"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burrito",
+          "question": "Best Burrito",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/17mhddf/best_burrito_in_burlington/",
+              "label": "Best Burrito"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burrito-2",
+          "question": "Best Burrito",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dyycev/best_breakfast_burrito_in_burlington/",
+              "label": "Best Burrito"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cafe",
+          "question": "Best Cafe",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/17vk1l4/best_cafesspots_to_do_work/",
+              "label": "Best Cafe"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cake",
+          "question": "Best Cake",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1g3cug4/best_place_to_get_single_slice_of_cake/",
+              "label": "Best Cake"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cake-2",
+          "question": "Best Cake",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ih93js/birthday_cake/",
+              "label": "Best Cake"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-challah",
+          "question": "Best Challah",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hfm0jj/best_challah_in_burlington/",
+              "label": "Best Challah"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cheesecake",
+          "question": "Best Cheesecake",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dejs80/best_cheesecake_in_greater_btv_area/",
+              "label": "Best Cheesecake"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cheesesteak",
+          "question": "Best Cheesesteak",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/15vu14g/best_cheesesteaks_in_the_area/",
+              "label": "Best Cheesesteak"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-chicken-sandwich",
+          "question": "Best Chicken Sandwich",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ki02k6/best_fried_chicken_sandwiches_in_burlington/",
+              "label": "Best Chicken Sandwich"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-chinese-restaurant",
+          "question": "Best Chinese Restaurant",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/170ul99/best_chinese_joint/",
+              "label": "Best Chinese Restaurant"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-chinese-restaurant-2",
+          "question": "Best Chinese Restaurant",
+          "status": "active",
+          "notes": "Same source thread linked by both editions under different labels: Best Chinese Food / Best Chinese Restaurant 2.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/ztz2ry/best_chinese_food_option_for_tomorrow_night/",
+              "label": "Best Chinese Restaurant 2"
+            },
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/ztz2ry/best_chinese_food_option_for_tomorrow_night/",
+              "label": "Best Chinese Food"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cider-donuts",
+          "question": "Best Cider Donuts",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/16womir/best_cider_donuts/",
+              "label": "Best Cider Donuts"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-corned-beef-hash",
+          "question": "Best Corned Beef Hash",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gbpt84/best_corned_beef_hash/",
+              "label": "Best Corned Beef Hash"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-creemee",
+          "question": "Best Creemee",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/14m7o1q/the_vermont_creemee_database_vote_for_your/",
+              "label": "Best Creemee 1"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-creemee-2",
+          "question": "Best Creemee",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/12f7nq2/pine_street_south_end_creamees/",
+              "label": "Best Creemee"
+            },
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/12f7nq2/pine_street_south_end_creamees/",
+              "label": "Best Creemee"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-deli-sub-shop",
+          "question": "Best Deli/Sub Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1blu31m/best_delisub_shop/",
+              "label": "Best Deli/Sub Shop"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-dessert",
+          "question": "Best Dessert",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jj49fg/dessert/",
+              "label": "Best Dessert"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-dessert-2",
+          "question": "Best Dessert",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gywnbe/local_dessert_rec/",
+              "label": "Best Dessert"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-donuts",
+          "question": "Best Donuts",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1c46r9b/best_donut_spot/",
+              "label": "Best Donuts 1"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-donuts-2",
+          "question": "Best Donuts",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gjxv3i/where_can_i_find_good_donuts_in_the_burlington/",
+              "label": "Best Donuts 2"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-donuts-3",
+          "question": "Best Donuts",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kil4p5/anywhere_to_get_good_fresh_gluten_free_donuts_in/",
+              "label": "Best Donuts 3"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-food-delivery",
+          "question": "Best Food Delivery",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jjy133/best_food_delivery/",
+              "label": "Best Food Delivery"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-frozen-pizza",
+          "question": "Best Frozen Pizza",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1j7xago/best_frozen_pizza/",
+              "label": "Best Frozen Pizza"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-fudge",
+          "question": "Best Fudge",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1eex1u8/best_locally_made_fudge/",
+              "label": "Best Fudge"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-gyro",
+          "question": "Best Gyro",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/192lwsk/favorite_place_to_get_a_gyro_in_the_greater/",
+              "label": "Best Gyro"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-ice-cream",
+          "question": "Best Ice Cream",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1d1wlsw/best_pistachio_lce_cream_in_the_area/",
+              "label": "Best Ice Cream"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-ice-cream-2",
+          "question": "Best Ice Cream",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/197tgnt/ice_cream/",
+              "label": "Best Ice Cream"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-ice-cream-3",
+          "question": "Best Ice Cream",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iapnlv/little_gordo_ice_cream/",
+              "label": "Best Ice Cream"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-ice-cream-4",
+          "question": "Best Ice Cream",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1eiptti/island_ice_cream/",
+              "label": "Best Ice Cream"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-indian-food",
+          "question": "Best Indian Food",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ilik8h/best_indian_foodbutter_chicken_in_burlington/",
+              "label": "Best Indian Food"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-indian-food-2",
+          "question": "Best Indian Food",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/16zwdpw/best_indian_food/",
+              "label": "Best Indian Food"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-italian-food",
+          "question": "Best Italian Food",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fc6bbp/best_classic_italian_restaurant_in_burlington_area/",
+              "label": "Best Italian Food"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-italian-sausage",
+          "question": "Best Italian Sausage",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k9tcsj/best_italian_sausage/",
+              "label": "Best Italian Sausage"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-lunch-sandwich",
+          "question": "Best Lunch Sandwich",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1d72yvf/best_overall_lunch_sandwich_for_the_value_in/",
+              "label": "Best Lunch Sandwich"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-lunch-spot",
+          "question": "Best Lunch Spot",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gq3kxj/what_are_your_favorite_lunch_spots/",
+              "label": "Best Lunch Spot"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-mac-and-cheese",
+          "question": "Best Mac and Cheese",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1bh2dh8/best_mac_and_cheese_near_burlington/",
+              "label": "Best Mac and Cheese"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-maple-candies",
+          "question": "Best Maple Candies",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/t9sq18/best_place_for_maple_candies/",
+              "label": "Best Maple Candies"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-momos",
+          "question": "Best Momos",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/15ev8jn/since_we_are_asking_for_the_best_of_where_are/",
+              "label": "Best Momos"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-mushroom-philly",
+          "question": "Best Mushroom Philly",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hgfke9/best_mushroom_philly_around/",
+              "label": "Best Mushroom Philly"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-naan-pita",
+          "question": "Best Naan/Pita",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jmy9mr/best_naanpita/",
+              "label": "Best Naan/Pita"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-pad-thai",
+          "question": "Best Pad Thai",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/15a8zls/who_has_the_best_pad_thai_in_the_area/",
+              "label": "Best Pad Thai"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-pho",
+          "question": "Best Pho",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/164s4c2/pho_dang_vs_pho_hong_vs_pho_son/",
+              "label": "Best Pho"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-pizza",
+          "question": "Best Pizza",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1js74az/whats_the_best_pizza_in_town/",
+              "label": "Best Pizza 1"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-pizza-2",
+          "question": "Best Pizza",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ih7h3w/whats_the_best_pizza_in_town/",
+              "label": "Best Pizza 2"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-pizza-3",
+          "question": "Best Pizza",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hpc64i/actual_best_pizza_on_the_avenue/",
+              "label": "Best Pizza 3"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-potato-wedges",
+          "question": "Best Potato Wedges",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jkmnmd/where_can_i_find_the_best_potato_wedges/",
+              "label": "Best Potato Wedges"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurant",
+          "question": "Best Restaurant",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k3yukh/best_meal_or_restaurant_around/",
+              "label": "Best Restaurant 1"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurant-2",
+          "question": "Best Restaurant",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fj6a46/favourite_restaurants_downtown_burlington/",
+              "label": "Best Restaurant 2"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurant-3",
+          "question": "Best Restaurant",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dt4wnn/im_in_town_for_work_whatre_the_best_restaurants/",
+              "label": "Best Restaurant 3"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurant-4",
+          "question": "Best Restaurant",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1cv8ghm/best_lunch_around_summer_vibes/",
+              "label": "Best Restaurant"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurant-5",
+          "question": "Best Restaurant",
+          "status": "active",
+          "notes": "Same source thread linked by both editions under different labels: Best Restaurant / Best Under-Appreciated Restaurants.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/115uzal/lets_hear_your_favorite_underappreciated/",
+              "label": "Best Restaurant"
+            },
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/115uzal/lets_hear_your_favorite_underappreciated/",
+              "label": "Best Under-Appreciated Restaurants"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurant-6",
+          "question": "Best Restaurant",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ec4eug/can_you_decide_where_i_eat_for_my_one_meal_in/",
+              "label": "Best Restaurant"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurant-4-2",
+          "question": "Best Restaurant 4",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jjyxgl/best_place_for_birthday_meal/",
+              "label": "Best Restaurant 4"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurant-to-dine-solo",
+          "question": "Best Restaurant to Dine Solo",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k3zubn/places_to_dine_alone/",
+              "label": "Best Restaurant to Dine Solo"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-salad",
+          "question": "Best Salad",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1d9l9c2/best_overall_lunch_salad/",
+              "label": "Best Salad"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-salad-2",
+          "question": "Best Salad",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/134qwxv/what_is_the_best_caesar_salad_in/",
+              "label": "Best Salad"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-salad-3",
+          "question": "Best Salad",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1f9ophh/best_caeser_saladwrap_in_town/",
+              "label": "Best Salad"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sandwich-shop",
+          "question": "Best Sandwich Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fhsfuu/best_burlington_area_sandwich_shop/",
+              "label": "Best Sandwich Shop"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sandwich-shop-2",
+          "question": "Best Sandwich Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/18gocgw/important_question_where_can_i_get_the_best/",
+              "label": "Best Sandwich Shop"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-single-menu-item",
+          "question": "Best Single Menu Item",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k8qkmg/whats_your_single_favorite_menu_item_in_burlington/",
+              "label": "Best Single Menu Item"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-smash-burger",
+          "question": "Best Smash Burger",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/17hcj4z/favorite_smash_burger/",
+              "label": "Best Smash Burger"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-soup",
+          "question": "Best Soup",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ibelmr/best_takeout_soup_in_burlington_when_youre_sick/",
+              "label": "Best Soup"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-steak",
+          "question": "Best Steak",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jyp90c/best_place_to_get_a_steak_in_the_area/",
+              "label": "Best Steak"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sushi",
+          "question": "Best Sushi",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jibcig/sushi_in_or_near_burlington/",
+              "label": "Best Sushi 1"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sushi-2",
+          "question": "Best Sushi",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1bj7qu3/best_sushi_in_town/",
+              "label": "Best Sushi 2"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sushi-3",
+          "question": "Best Sushi",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1i0oqai/any_places_have_good_vegetarian_sushi/",
+              "label": "Best Sushi"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sushi-4",
+          "question": "Best Sushi",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1j4auqw/celiac_safe_sushi/",
+              "label": "Best Sushi"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-syrup",
+          "question": "Best Syrup",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1he64bb/where_to_get_real_maple_syrup/",
+              "label": "Best Syrup"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-syrup-2",
+          "question": "Best Syrup",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fu3bh5/where_to_find_bougie_syrups/",
+              "label": "Best Syrup"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-takeout",
+          "question": "Best Takeout",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ewe3oz/best_takeout_on_mondays/",
+              "label": "Best Takeout"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-takeout-pizza",
+          "question": "Best Takeout Pizza",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1bfdhf0/best_take_out_pizza/",
+              "label": "Best Takeout Pizza"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-thai-food",
+          "question": "Best Thai Food",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ddboee/best_thai_food_in_the_area/",
+              "label": "Best Thai Food"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-vegan",
+          "question": "Best Vegan",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gexcdz/vegans_i_need_suggestions/",
+              "label": "Best Vegan"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-vegan-2",
+          "question": "Best Vegan",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fk7c5j/vegan_takeout_gems/",
+              "label": "Best Vegan"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-vermonter-sandwich",
+          "question": "Best Vermonter Sandwich",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kto4j7/any_place_that_serves_the_vermonter_sandwich/",
+              "label": "Best Vermonter Sandwich"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-wings",
+          "question": "Best Wings",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fvy9ri/best_wings/",
+              "label": "Best Wings"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-wings-2",
+          "question": "Best Wings",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1i9yi4x/best_western_new_york_style_buffalo_wings_in_the/",
+              "label": "Best Wings"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-wings-3",
+          "question": "Best Wings",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fz83my/best_spicy_chicken_wings/",
+              "label": "Best Wings"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-worst-restaurants",
+          "question": "Best/Worst Restaurants",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1d4l8v8/burlington_food_takes/",
+              "label": "Best/Worst Restaurants"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bagel",
+          "question": "Best Bagel",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/12eldyy/best_bagel/",
+              "label": "Best Bagel"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bagels",
+          "question": "Best Bagels",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wvzicd/best_bagels/",
+              "label": "Best Bagels"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bars-clubs",
+          "question": "Best Bars & Clubs",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/116j5pg/best_bars_and_clubs_in_burlington/",
+              "label": "Best Bars & Clubs"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bars-for-college-football",
+          "question": "Best Bars for College Football",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/x2pvjt/best_bars_for_college_football/",
+              "label": "Best Bars for College Football"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-bars-to-work-at",
+          "question": "Best Bars to Work At",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/120wy1s/best_bars_to_do_work_at/",
+              "label": "Best Bars to Work At"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burger-7",
+          "question": "Best Burger",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/ted4a4/its_my_birthday_tomorrow_where_is_the_best_burger/",
+              "label": "Best Burger"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-burger-veggie-for-grilling",
+          "question": "Best Burger (Veggie) for Grilling",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/vpzfji/where_can_i_get_best_veggie_burgers_for_grilling/",
+              "label": "Best Burger (Veggie) for Grilling"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cake-3",
+          "question": "Best Cake",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11u4wt4/where_is_your_favorite_place_to_get_a_last_minute/",
+              "label": "Best Cake"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cannoli",
+          "question": "Best Cannoli",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zalymr/where_can_i_get_the_best_cannoli_in_town/",
+              "label": "Best Cannoli"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-caterer",
+          "question": "Best Caterer",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/107i2rd/looking_for_a_good_local_caterer/",
+              "label": "Best Caterer"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cheap-places-for-food",
+          "question": "Best Cheap Places for Food",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/ug76gb/best_cheap_places_for_food/",
+              "label": "Best Cheap Places for Food"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-chicken-alfredo",
+          "question": "Best Chicken Alfredo",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/vgxkhb/best_chicken_alfredo_in_the_area/",
+              "label": "Best Chicken Alfredo"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-chicken-parmesan",
+          "question": "Best Chicken Parmesan",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/x45s4w/best_chicken_parm/",
+              "label": "Best Chicken Parmesan"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-chicken-tenders",
+          "question": "Best Chicken Tenders",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/yed78q/best_chicken_tender/",
+              "label": "Best Chicken Tenders"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-chicken-wings-fried",
+          "question": "Best Chicken Wings (Fried)",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/s48r2l/pizza_with_the_best_wings_in_burlington/",
+              "label": "Best Chicken Wings (Fried)"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-chicken-wrap",
+          "question": "Best Chicken Wrap",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/rqri2j/looking_for_the_best_chicken_wrap_in_the_area/",
+              "label": "Best Chicken Wrap"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-cocktail-ingredients-garnishes",
+          "question": "Best Cocktail Ingredients/Garnishes",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1251l49/best_place_to_find_specialty_cocktail/",
+              "label": "Best Cocktail Ingredients/Garnishes"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-coffee-shop-with-outdoor-seating",
+          "question": "Best Coffee Shop with Outdoor Seating",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/v1qb6y/best_coffee_shops_with_outdoor_seating/",
+              "label": "Best Coffee Shop with Outdoor Seating"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-creemee-3",
+          "question": "Best Creemee",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/vjgj6y/where_to_get_a_creemee_in_burlington/",
+              "label": "Best Creemee"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-doughnuts",
+          "question": "Best Doughnuts",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11ryw5m/best_doughnuts/",
+              "label": "Best Doughnuts"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-espresso-martini",
+          "question": "Best Espresso Martini",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11hh1si/where_might_one_find_the_best_espresso_martini/",
+              "label": "Best Espresso Martini"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-fish-chips",
+          "question": "Best Fish & Chips",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/r7cpsx/best_fish_and_chips/",
+              "label": "Best Fish & Chips"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-four-corners-of-the-earth-sandwich",
+          "question": "Best Four Corners of the Earth Sandwich",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zqq0vz/best_4_corners_of_the_earth_sandwich/",
+              "label": "Best Four Corners of the Earth Sandwich"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-fried-rice",
+          "question": "Best Fried Rice",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/129uxgc/best_fried_rice_around_burlington_area/",
+              "label": "Best Fried Rice"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-grocery-store",
+          "question": "Best Grocery Store",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10df7bq/grocery_store/",
+              "label": "Best Grocery Store"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-happy-hour-cheap-beer-spots",
+          "question": "Best Happy Hour & Cheap Beer Spots",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/z68z6e/best_happy_hours_and_cheap_beer_spots/",
+              "label": "Best Happy Hour & Cheap Beer Spots"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-hot-dog-aka-glizzy",
+          "question": "Best Hot Dog (aka glizzy)",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zavjgw/best_glizzy_in_burlington_shoutout_glizzy_master/",
+              "label": "Best Hot Dog (aka glizzy)"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-hot-pot",
+          "question": "Best Hot Pot",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11tuipn/buffet_or_hot_pot/",
+              "label": "Best Hot Pot"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-iced-coffee",
+          "question": "Best Iced Coffee",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/x6o3lw/best_iced_coffee/",
+              "label": "Best Iced Coffee"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-indian-grocery-store",
+          "question": "Best Indian Grocery Store",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/uyybt0/best_indian_grocery/",
+              "label": "Best Indian Grocery Store"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-indian-restaurants",
+          "question": "Best Indian Restaurants",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/xpucjo/is_it_just_me_or_are_there_a_lot_of_new_indian/",
+              "label": "Best Indian Restaurants"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-jalape-o-poppers",
+          "question": "Best Jalapeño Poppers",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/114qdkc/jalape%C3%B1o_poppers/",
+              "label": "Best Jalapeño Poppers"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-mozzarella-sticks",
+          "question": "Best Mozzarella Sticks",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11a1qlw/best_mozzarella_sticks/",
+              "label": "Best Mozzarella Sticks"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-pho-2",
+          "question": "Best Pho",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11u7lyd/pho_hong_is_so_darn_delicious/",
+              "label": "Best Pho"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-pizza-4",
+          "question": "Best Pizza",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/z5obzu/best_pizza_place_in_burly/",
+              "label": "Best Pizza"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-pizza-dine-in",
+          "question": "Best Pizza (Dine-in)",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/yjvgkh/best_place_for_family_dine_in_pizza_cudos_if/",
+              "label": "Best Pizza (Dine-in)"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-place-to-purchase-bulk-dried-beans",
+          "question": "Best Place to Purchase Bulk Dried Beans",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wifn1o/best_place_to_buy_bulk_dried_beans_around/",
+              "label": "Best Place to Purchase Bulk Dried Beans"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-place-to-purchase-duck",
+          "question": "Best Place to Purchase Duck",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10fo5mz/best_place_to_buy_duck/",
+              "label": "Best Place to Purchase Duck"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-place-to-purchase-sushi-grade-seafood",
+          "question": "Best Place to Purchase Sushi Grade Seafood",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zjbmra/sushi_grade_seafood/",
+              "label": "Best Place to Purchase Sushi Grade Seafood"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-poutine",
+          "question": "Best Poutine",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/x013jv/best_poutine_in_town/",
+              "label": "Best Poutine"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurants-for-different-meals",
+          "question": "Best Restaurants for Different Meals",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/rttjmz/what_are_your_favorite_restaurants_for_different/",
+              "label": "Best Restaurants for Different Meals"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-restaurants-in-btv",
+          "question": "Best Restaurants in BTV",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/qtwice/best_restaurants_near_burlington_area/",
+              "label": "Best Restaurants in BTV"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-rotisserie-chicken",
+          "question": "Best Rotisserie Chicken",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wtdksl/best_rotisserie_chicken/",
+              "label": "Best Rotisserie Chicken"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-shepherds-pie",
+          "question": "Best Shepherd's Pie",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/y6g0kd/where_is_the_best_place_in_the_burlington_area/",
+              "label": "Best Shepherd's Pie"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-slightly-fancy-dinner-date",
+          "question": "Best Slightly Fancy Dinner Date",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10slv74/slightly_fancy_dinner_date/",
+              "label": "Best Slightly Fancy Dinner Date"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-smoked-sausages",
+          "question": "Best Smoked Sausages",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/115f0zi/best_local_smoked_sausage/",
+              "label": "Best Smoked Sausages"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sub-shop",
+          "question": "Best Sub Shop",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wadlfa/best_sub_shop_not_owned_by_racists_in_btv/",
+              "label": "Best Sub Shop"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sushi-5",
+          "question": "Best Sushi",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11obxsb/best_sushi_in_greater_burlington/",
+              "label": "Best Sushi"
+            }
+          ]
+        },
+        {
+          "id": "food-restaurants--best-sushi-6",
+          "question": "Best Sushi",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10kyq2x/best_sushi_in_town/",
+              "label": "Best Sushi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "title": "Coffee",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 8,
+        "2023_only": 0,
+        "total": 8
+      },
+      "entries": [
+        {
+          "id": "coffee--best-coffee",
+          "question": "Best Coffee",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fe1kyi/best_coffee_in_burlington/",
+              "label": "Best Coffee 1"
+            }
+          ]
+        },
+        {
+          "id": "coffee--best-coffee-2",
+          "question": "Best Coffee",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1e9tsja/favorite_coffee/",
+              "label": "Best Coffee 2"
+            }
+          ]
+        },
+        {
+          "id": "coffee--best-coffee-beans",
+          "question": "Best Coffee Beans",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hf001v/best_whole_coffee_beans/",
+              "label": "Best Coffee Beans"
+            }
+          ]
+        },
+        {
+          "id": "coffee--best-coffee-shop",
+          "question": "Best Coffee Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1i9bagk/whats_the_best_coffee_shop_to_sit_and_work_for_a/",
+              "label": "Best Coffee Shop 1"
+            }
+          ]
+        },
+        {
+          "id": "coffee--best-coffee-shop-2",
+          "question": "Best Coffee Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1daysun/best_coffeeshop_to_sit_and_work/",
+              "label": "Best Coffee Shop 2"
+            }
+          ]
+        },
+        {
+          "id": "coffee--best-coffee-shop-3",
+          "question": "Best Coffee Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gbkgsx/best_coffee_shops_in_burlington_area/",
+              "label": "Best Coffee Shop 3"
+            }
+          ]
+        },
+        {
+          "id": "coffee--best-latte",
+          "question": "Best Latte",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1amwz9h/best_latte_in_burlington/",
+              "label": "Best Latte"
+            }
+          ]
+        },
+        {
+          "id": "coffee--best-walk-up-windows",
+          "question": "Best Walk-up Windows",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jholpa/walkup_windows/",
+              "label": "Best Walk-up Windows"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bars-breweries",
+      "title": "Bars & Breweries",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 13,
+        "2023_only": 0,
+        "total": 13
+      },
+      "entries": [
+        {
+          "id": "bars-breweries--best-bars",
+          "question": "Best Bars",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jxubog/best_bar_in_town/",
+              "label": "Best Bars 1"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-bars-2",
+          "question": "Best Bars",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1czy9hj/best_bars_in_burlington/",
+              "label": "Best Bars 2"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-bars-3",
+          "question": "Best Bars",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1bkakjn/best_place_for_casual_drinksdate/",
+              "label": "Best Bars"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-bars-4",
+          "question": "Best Bars",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1cacwpu/any_good_singles_bar_recommendations/",
+              "label": "Best Bars"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-beer-store",
+          "question": "Best Beer Store",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/16g8c86/best_places_to_buy_a_variety_of_local_beer/",
+              "label": "Best Beer Store"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-beer-food-combo",
+          "question": "Best Beer/Food Combo",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1goduxb/best_beerfood_combo_menu_or_best_food_at_a_brewery/",
+              "label": "Best Beer/Food Combo"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-breweries",
+          "question": "Best Breweries",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1euo9n8/best_breweries_in_burlington/",
+              "label": "Best Breweries 1"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-breweries-2",
+          "question": "Best Breweries",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gb7nri/favorite_brewery_and_why/",
+              "label": "Best Breweries 2"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-cocktail-bars",
+          "question": "Best Cocktail Bars",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ez1iti/best_cocktail_bar/",
+              "label": "Best Cocktail Bars"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-espresso-martini",
+          "question": "Best Espresso Martini",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ggh0ly/best_espresso_martini_around/",
+              "label": "Best Espresso Martini"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-sport-bar",
+          "question": "Best Sport Bar",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1aq66n9/best_sports_bar_in_bvt_area/",
+              "label": "Best Sport Bar"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--best-stout-porter",
+          "question": "Best Stout/Porter",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1cda5c6/best_stoutporter_in_town/",
+              "label": "Best Stout/Porter"
+            }
+          ]
+        },
+        {
+          "id": "bars-breweries--dive-bar",
+          "question": "Dive Bar",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fp4ecq/favorite_dive_bar/",
+              "label": "Dive Bar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cannabis",
+      "title": "Cannabis",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 2,
+        "2023_only": 1,
+        "total": 3
+      },
+      "entries": [
+        {
+          "id": "cannabis--best-dispensary",
+          "question": "Best Dispensary",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1cfvrga/best_dispensariescannabis_products/",
+              "label": "Best Dispensary"
+            }
+          ]
+        },
+        {
+          "id": "cannabis--best-dispensary-2",
+          "question": "Best Dispensary",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jpax1m/best_dispensary_for_pre_rolls/",
+              "label": "Best Dispensary"
+            }
+          ]
+        },
+        {
+          "id": "cannabis--best-dispensary-3",
+          "question": "Best Dispensary",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11zuxq8/best_dispensary/",
+              "label": "Best Dispensary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grocery-retail-shopping",
+      "title": "Grocery & Retail Shopping",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 13,
+        "2023_only": 6,
+        "total": 19
+      },
+      "entries": [
+        {
+          "id": "grocery-retail-shopping--best-butcher",
+          "question": "Best Butcher",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/khlmbb/best_butcher_in_the_greater_burlington_area/",
+              "label": "Best Butcher"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-butcher-2",
+          "question": "Best Butcher",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1feh9a5/in_your_experience_what_grocery_or_butcher_has/",
+              "label": "Best Butcher"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-grocery-store",
+          "question": "Best Grocery Store",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gtrp7j/best_btv_grocery_store/",
+              "label": "Best Grocery Store"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-grocery-store-2",
+          "question": "Best Grocery Store",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/155am2n/best_grocery_store_for_fresh_fruit/",
+              "label": "Best Grocery Store"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-grocery-store-florist",
+          "question": "Best Grocery Store Florist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ifa4i2/im_trying_to_switch_my_focus_to_something_good/",
+              "label": "Best Grocery Store Florist"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-shopping",
+          "question": "Best Shopping",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fw020w/shopping/",
+              "label": "Best Shopping"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-shopping-2",
+          "question": "Best Shopping",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1f0wm3t/womens_shopping_recommendations/",
+              "label": "Best Shopping"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-shopping-mall",
+          "question": "Best Shopping Mall",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wxexzf/whats_a_decent_shopping_mall_in_burlington/",
+              "label": "Best Shopping Mall"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-store",
+          "question": "Best Store",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dc92q6/best_store_for_hot_sauce/",
+              "label": "Best Store"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-thrift-store",
+          "question": "Best Thrift Store",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hs05fu/best_thrift_stores_for_weird_and_cheap_clothes/",
+              "label": "Best Thrift Store"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-thrift-store-2",
+          "question": "Best Thrift Store",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/18taxl9/best_thrift_stores_to_visit_in_burlington/",
+              "label": "Best Thrift Store"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-thrift-store-3",
+          "question": "Best Thrift Store",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1cdk4ju/thrift_stores_good_deals_in_the_burlington_area/",
+              "label": "Best Thrift Store"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-thrifting",
+          "question": "Best Thrifting",
+          "status": "active",
+          "notes": "Same source thread linked by both editions under different labels: Best Thrift Shop / Best Thrifting.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/117sqm2/best_thrifting/",
+              "label": "Best Thrifting"
+            },
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/117sqm2/best_thrifting/",
+              "label": "Best Thrift Shop"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-florist",
+          "question": "Best Florist",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10r1d2r/where_do_you_get_a_nice_bouquet_of_flowers_around/",
+              "label": "Best Florist"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-photography-store",
+          "question": "Best Photography Store",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wrxq6k/anyone_know_the_best_place_to_buy_a_camera_in/",
+              "label": "Best Photography Store"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-place-for-mens-dress-shoes",
+          "question": "Best Place for Men's Dress Shoes",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11b2xjw/best_place_for_mens_dress_shoes/",
+              "label": "Best Place for Men's Dress Shoes"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-place-to-donate-clothes",
+          "question": "Best Place to Donate Clothes",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/z7iuz6/where_is_the_best_place_to_take_gently_used/",
+              "label": "Best Place to Donate Clothes"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-places-to-get-pants-hemmed",
+          "question": "Best Places to Get Pants Hemmed",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11n63wt/best_places_to_get_pants_hemmed/",
+              "label": "Best Places to Get Pants Hemmed"
+            }
+          ]
+        },
+        {
+          "id": "grocery-retail-shopping--best-vermont-merchandise",
+          "question": "Best Vermont Merchandise",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11uyb0d/vermont_merch_in_youth_sizes_wheres_the_best/",
+              "label": "Best Vermont Merchandise"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grooming-beauty",
+      "title": "Grooming & Beauty",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 16,
+        "2023_only": 3,
+        "total": 19
+      },
+      "entries": [
+        {
+          "id": "grooming-beauty--best-barbershop-comment-suggestion-rasputins",
+          "question": "Best Barbershop (comment suggestion: Rasputins)",
+          "status": "comment-suggestion",
+          "notes": "Mentioned in a reply to the 2025 thread (\"I personally do all of my Grooming at Rasputins...\") rather than in its own linked question thread. Not folded into bluepied's list. Needs a real source thread or independent confirmation before promoting to a normal entry.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kuadqb/best_of_rburlington_list_2025_edition/",
+              "label": "Comment by u/Inevitable_Plate3053"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-bikini-wax",
+          "question": "Best Bikini Wax",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iyd15q/best_bikini_wax/",
+              "label": "Best Bikini Wax"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-eyebrow-place",
+          "question": "Best Eyebrow Place",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1asi4he/best_place_to_get_brows_done/",
+              "label": "Best Eyebrow Place"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-eyebrow-threading",
+          "question": "Best Eyebrow Threading",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1krwpwo/eyebrow_threading/",
+              "label": "Best Eyebrow Threading"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-hair-stylist",
+          "question": "Best Hair Stylist",
+          "status": "active",
+          "notes": "Same source thread linked by both editions under different labels: Best Hair Stylist / Best Stylist for Women's Hair.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/x85i6r/best_stylist_for_womens_hair/",
+              "label": "Best Hair Stylist"
+            },
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/x85i6r/best_stylist_for_womens_hair/",
+              "label": "Best Stylist for Women's Hair"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-hair-stylist-2",
+          "question": "Best Hair Stylist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dzaup5/best_blonde_hair_stylist/",
+              "label": "Best Hair Stylist"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-hair-stylist-3",
+          "question": "Best Hair Stylist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1f7drqc/short_hair_stylist_for_women/",
+              "label": "Best Hair Stylist"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-haircut",
+          "question": "Best Haircut",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iyll0i/best_place_for_a_toddlers_haircut/",
+              "label": "Best Haircut"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-haircut-2",
+          "question": "Best Haircut",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/18dpwvf/good_place_for_a_mens_haircut/",
+              "label": "Best Haircut"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-haircut-3",
+          "question": "Best Haircut",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1airs73/solid_place_for_a_mens_haircut_that_wont_break/",
+              "label": "Best Haircut"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-manicure-place",
+          "question": "Best Manicure Place",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kdt96p/best_nail_salons_in_or_around_burlington/",
+              "label": "Best Manicure Place"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-pedicure-place",
+          "question": "Best Pedicure Place",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kd8m3g/best_place_for_a_pedicure_around_these_parts/",
+              "label": "Best Pedicure Place 1"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-pedicure-place-2",
+          "question": "Best Pedicure Place",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iclktc/best_pedicure/",
+              "label": "Best Pedicure Place 2"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-piercing-place",
+          "question": "Best Piercing Place",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kh3jmi/best_piercing_place/",
+              "label": "Best Piercing Place"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-piercing-place-2",
+          "question": "Best Piercing Place",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/196j24y/best_place_to_get_piercings/",
+              "label": "Best Piercing Place 2"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-spa",
+          "question": "Best Spa",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gw7yjz/tis_the_season_best_spas_to_purchase_a_gift_card/",
+              "label": "Best Spa"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-hairstylist",
+          "question": "Best Hairstylist",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wyjj4k/i_just_moved_to_the_area_and_am_desperately_in/",
+              "label": "Best Hairstylist"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-place-for-mens-hair-cut",
+          "question": "Best Place for Men's Hair Cut",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/ydxiia/whats_the_best_place_inaround_burlington_to_get_a/",
+              "label": "Best Place for Men's Hair Cut"
+            }
+          ]
+        },
+        {
+          "id": "grooming-beauty--best-spa-treatment",
+          "question": "Best Spa Treatment",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/u5zauw/best_spa_in_burlington_area/",
+              "label": "Best Spa Treatment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "health-wellness",
+      "title": "Health & Wellness",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 2,
+        "2023_only": 1,
+        "total": 3
+      },
+      "entries": [
+        {
+          "id": "health-wellness--best-place-for-glasses",
+          "question": "Best (place for) Glasses",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1bjit0c/best_place_for_glasses/",
+              "label": "Best (place for) Glasses"
+            }
+          ]
+        },
+        {
+          "id": "health-wellness--best-eye-doctor",
+          "question": "Best Eye Doctor",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/192lnwg/best_eye_doctor_if_it_makes_a_difference/",
+              "label": "Best Eye Doctor"
+            }
+          ]
+        },
+        {
+          "id": "health-wellness--best-lab-for-blood-work",
+          "question": "Best Lab for Blood Work",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/vb18f5/best_lab_to_go_for_a_blood_draw/",
+              "label": "Best Lab for Blood Work"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pets",
+      "title": "Pets",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 7,
+        "2023_only": 1,
+        "total": 8
+      },
+      "entries": [
+        {
+          "id": "pets--best-dog-training",
+          "question": "Best Dog Training",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kl4cg8/best_place_for_dog_training/",
+              "label": "Best Dog Training"
+            }
+          ]
+        },
+        {
+          "id": "pets--best-pet-store",
+          "question": "Best Pet Store",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ep2o1b/good_pet_stores/",
+              "label": "Best Pet Store"
+            }
+          ]
+        },
+        {
+          "id": "pets--best-vet",
+          "question": "Best Vet",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kalyew/best_vet_in_town/",
+              "label": "Best Vet 1"
+            }
+          ]
+        },
+        {
+          "id": "pets--best-vet-2",
+          "question": "Best Vet",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/18y1gnd/best_vet/",
+              "label": "Best Vet 2"
+            }
+          ]
+        },
+        {
+          "id": "pets--best-vet-3",
+          "question": "Best Vet",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/19bi60x/vet_recommendations/",
+              "label": "Best Vet"
+            }
+          ]
+        },
+        {
+          "id": "pets--best-vet-4",
+          "question": "Best Vet",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fily5z/burlington_emergency_vet_and_specialists_reviews/",
+              "label": "Best Vet"
+            }
+          ]
+        },
+        {
+          "id": "pets--best-vet-5",
+          "question": "Best Vet",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jliqkp/any_smallexotic_pet_vets/",
+              "label": "Best Vet"
+            }
+          ]
+        },
+        {
+          "id": "pets--best-cat-vet",
+          "question": "Best Cat Vet",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11eifkr/best_vets_for_cats/",
+              "label": "Best Cat Vet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "housing-rentals",
+      "title": "Housing & Rentals",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 5,
+        "2023_only": 0,
+        "total": 5
+      },
+      "entries": [
+        {
+          "id": "housing-rentals--best-and-least-best-to-rent-from",
+          "question": "Best (and least best) to Rent From",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1info9m/best_and_least_best_to_rent_from/",
+              "label": "Best (and least best) to Rent From"
+            }
+          ]
+        },
+        {
+          "id": "housing-rentals--best-apartment-condo-housing",
+          "question": "Best Apartment/Condo/Housing",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1atxyph/best_apartmentcondohousing/",
+              "label": "Best Apartment/Condo/Housing"
+            }
+          ]
+        },
+        {
+          "id": "housing-rentals--best-housing",
+          "question": "Best Housing",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ke4khs/best_places_for_housing/",
+              "label": "Best Housing"
+            }
+          ]
+        },
+        {
+          "id": "housing-rentals--best-landlords",
+          "question": "Best Landlords",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kaw105/best_landlords/",
+              "label": "Best Landlords"
+            }
+          ]
+        },
+        {
+          "id": "housing-rentals--best-place-to-find-rental",
+          "question": "Best Place to Find Rental",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1e0wxka/what_is_the_best_way_to_find_a_rental_in/",
+              "label": "Best Place to Find Rental"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "automotive",
+      "title": "Automotive",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 5,
+        "2023_only": 7,
+        "total": 12
+      },
+      "entries": [
+        {
+          "id": "automotive--best-auto-body-shop",
+          "question": "Best Auto Body Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/196hbix/best_auto_body_shop/",
+              "label": "Best Auto Body Shop"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-auto-mechanic",
+          "question": "Best Auto Mechanic",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k0yz0u/best_mechanic_anywhere/",
+              "label": "Best Auto Mechanic"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-auto-mechanic-2",
+          "question": "Best Auto Mechanic",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1grgn6c/mechanics_that_work_on_older_cars/",
+              "label": "Best Auto Mechanic"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-honest-auto-mechanic",
+          "question": "Best Honest Auto Mechanic",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ih5iq5/honest_auto_mechanic_recs/",
+              "label": "Best Honest Auto Mechanic"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-shop-for-oil-change",
+          "question": "Best Shop for Oil Change",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dszq5t/best_place_to_get_an_oil_change_in_btv/",
+              "label": "Best Shop for Oil Change"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-body-shop",
+          "question": "Best Body Shop",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zhibqr/body_shop_recommendations/",
+              "label": "Best Body Shop"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-car-wash",
+          "question": "Best Car Wash",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11haera/car_wash/",
+              "label": "Best Car Wash"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-mechanic-for-used-vehicle-inspection",
+          "question": "Best Mechanic for Used Vehicle Inspection",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10l7rcv/best_mechanicgarage_to_have_a_used_car_assessed/",
+              "label": "Best Mechanic for Used Vehicle Inspection"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-place-for-vt-state-car-inspection",
+          "question": "Best Place for VT State Car Inspection",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11qi9e9/car_inspection/",
+              "label": "Best Place for VT State Car Inspection"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-place-to-vacuum-car",
+          "question": "Best Place to Vacuum Car",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zpy5j7/best_place_to_vacuum_car/",
+              "label": "Best Place to Vacuum Car"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-unlimited-car-wash-programs",
+          "question": "Best Unlimited Car Wash Programs",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10clje9/best_unlimited_car_wash_programs_in_burlington/",
+              "label": "Best Unlimited Car Wash Programs"
+            }
+          ]
+        },
+        {
+          "id": "automotive--best-winter-tire-changeover",
+          "question": "Best Winter Tire Changeover",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/128mamk/winter_tire_changeover_best_priceshop/",
+              "label": "Best Winter Tire Changeover"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home-practical-services",
+      "title": "Home & Practical Services",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 13,
+        "2023_only": 4,
+        "total": 17
+      },
+      "entries": [
+        {
+          "id": "home-practical-services--best-cell-phone-service",
+          "question": "Best Cell Phone Service",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k1caxi/best_cell_phone_service/",
+              "label": "Best Cell Phone Service"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-christmas-tree-farm",
+          "question": "Best Christmas Tree Farm",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1gz1uo3/best_christmas_tree_cutting_experience_for_an_out/",
+              "label": "Best Christmas Tree Farm"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-credit-union",
+          "question": "Best Credit Union",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dxkp6b/best_credit_union_these_days/",
+              "label": "Best Credit Union"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-fence-company",
+          "question": "Best Fence Company",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jpqqd1/best_fence_company/",
+              "label": "Best Fence Company"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-grass-seed",
+          "question": "Best Grass Seed",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kc64p1/best_grass_seed_and_where_to_buy/",
+              "label": "Best Grass Seed"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-internet-provider",
+          "question": "Best Internet Provider",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wp0yhd/best_internet_provider_in_burlington/",
+              "label": "Best Internet Provider"
+            },
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wp0yhd/best_internet_provider_in_burlington/",
+              "label": "Best Internet Provider"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-place-to-dispose-of-a-mattress",
+          "question": "Best Place to Dispose of a Mattress",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kqbn6t/best_placeway_to_dispose_of_a_mattress/",
+              "label": "Best Place to Dispose of a Mattress"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-place-to-donate-coats-and-blankets",
+          "question": "Best Place to Donate Coats and Blankets",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hcyggi/best_place_to_donate_coats_and_blankets/",
+              "label": "Best Place to Donate Coats and Blankets"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-place-to-sell-electronics",
+          "question": "Best Place to Sell Electronics",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dpavbe/best_place_to_sell_electronics/",
+              "label": "Best Place to Sell Electronics"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-plant-shop",
+          "question": "Best Plant Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1evldiw/best_plant_shop_in_burlington_vt/",
+              "label": "Best Plant Shop"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-public-restroom",
+          "question": "Best Public Restroom",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ejywf9/wheres_the_best_place_to_actually_be_able_to_take/",
+              "label": "Best Public Restroom"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-storage-unit",
+          "question": "Best Storage Unit",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1fjbly9/best_place_to_get_a_storage_unit/",
+              "label": "Best Storage Unit"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-trash-recycling-company",
+          "question": "Best Trash/Recycling Company",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10ij6eb/whos_the_best_recyclingtrash_pickup_company_in/",
+              "label": "Best Trash/Recycling Company"
+            },
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10ij6eb/whos_the_best_recyclingtrash_pickup_company_in/",
+              "label": "Best Trash/Recycling Company"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-cell-mobile-phone-carrier",
+          "question": "Best Cell (Mobile) Phone Carrier",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zvmb7c/what_cell_phone_carrier_is_best_for_burlington/",
+              "label": "Best Cell (Mobile) Phone Carrier"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-credit-union-2",
+          "question": "Best Credit Union",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/xrhb97/best_credit_union/",
+              "label": "Best Credit Union"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-laundromats",
+          "question": "Best Laundromats",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/vpxw05/best_laundromats/",
+              "label": "Best Laundromats"
+            }
+          ]
+        },
+        {
+          "id": "home-practical-services--best-public-restroom-2",
+          "question": "Best Public Restroom",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/xklmkq/best_public_restrooms_in_burlington/",
+              "label": "Best Public Restroom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sports-outdoors-recreation",
+      "title": "Sports, Outdoors & Recreation",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 9,
+        "2023_only": 8,
+        "total": 17
+      },
+      "entries": [
+        {
+          "id": "sports-outdoors-recreation--best-bike-shop",
+          "question": "Best Bike Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k404a6/best_local_bike_shop_in_town/",
+              "label": "Best Bike Shop"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-golf-course",
+          "question": "Best Golf Course",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dae9qk/im_looking_for_the_best_public_golf_course/",
+              "label": "Best Golf Course"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-gym",
+          "question": "Best Gym",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1h6n11m/best_gym_in_the_area/",
+              "label": "Best Gym"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-lake-spots",
+          "question": "Best Lake Spots",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1bmu59k/best_lake_spots_for_each_season/",
+              "label": "Best Lake Spots"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-location-to-play-basketball-volleyball",
+          "question": "Best Location to Play Basketball/Volleyball",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jov18j/best_outlets_for_volleyballbasketball_in_the_area/",
+              "label": "Best Location to Play Basketball/Volleyball"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-place-for-snowboard-gear",
+          "question": "Best Place for Snowboard Gear",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/199eny5/best_place_for_snowboard_gear/",
+              "label": "Best Place for Snowboard Gear"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-sledding-spot",
+          "question": "Best Sledding Spot",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hkvyt3/best_sledding_spots_for_kiddos/",
+              "label": "Best Sledding Spot"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-sunrise-spot",
+          "question": "Best Sunrise Spot",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1h6njn1/best_spot_innear_burlington_for_sunrise/",
+              "label": "Best Sunrise Spot"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-sunset-spot",
+          "question": "Best Sunset Spot",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/12t9r5k/best_sunset_spots_in_burlington/",
+              "label": "Best Sunset Spot"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-gym-2",
+          "question": "Best Gym",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/w80zpc/best_gym/",
+              "label": "Best Gym"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-hiking-spots",
+          "question": "Best Hiking Spots",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/xwuheh/best_hike_nearby/",
+              "label": "Best Hiking Spots"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-overlook-spots",
+          "question": "Best Overlook Spots",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/121saaj/good_overlook_spots/",
+              "label": "Best Overlook Spots"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-place-to-get-skis-waxed-sharpened",
+          "question": "Best Place to Get Skis Waxed/Sharpened",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zpf088/hey_all_whats_the_best_place_in_town_for_getting/",
+              "label": "Best Place to Get Skis Waxed/Sharpened"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-public-ice-rink",
+          "question": "Best Public Ice Rink",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zl2il2/best_public_ice_rinks_in_the_area/",
+              "label": "Best Public Ice Rink"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-spot-for-stargazing",
+          "question": "Best Spot for Stargazing",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/wely7m/recommendations_for_the_best_local_spots_to/",
+              "label": "Best Spot for Stargazing"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-spot-to-view-btv-fireworks",
+          "question": "Best Spot to View BTV Fireworks",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/vp226a/wheres_the_best_place_to_watch_the_fireworks_from/",
+              "label": "Best Spot to View BTV Fireworks"
+            }
+          ]
+        },
+        {
+          "id": "sports-outdoors-recreation--best-team-sports",
+          "question": "Best Team Sports",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11dtvku/recommendations_for_team_sports/",
+              "label": "Best Team Sports"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arts-culture-entertainment",
+      "title": "Arts, Culture & Entertainment",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 4,
+        "2023_only": 4,
+        "total": 8
+      },
+      "entries": [
+        {
+          "id": "arts-culture-entertainment--best-dance-studio",
+          "question": "Best Dance Studio",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jixwnb/best_dance_studio_for_young_kids/",
+              "label": "Best Dance Studio"
+            }
+          ]
+        },
+        {
+          "id": "arts-culture-entertainment--best-movie-theater",
+          "question": "Best Movie Theater",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jz5w35/best_movie_theater_to_watch_minecraft_movie/",
+              "label": "Best Movie Theater"
+            }
+          ]
+        },
+        {
+          "id": "arts-culture-entertainment--best-music-venue",
+          "question": "Best Music Venue",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kqj671/new_to_the_surrounding_area_whats_the_best_music/",
+              "label": "Best Music Venue"
+            }
+          ]
+        },
+        {
+          "id": "arts-culture-entertainment--best-radio-station",
+          "question": "Best Radio Station",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1jl6jmd/favorite_radio_stations_here/",
+              "label": "Best Radio Station"
+            }
+          ]
+        },
+        {
+          "id": "arts-culture-entertainment--best-guitar-luthier",
+          "question": "Best Guitar Luthier",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/101rbf1/luthier_recommendation/",
+              "label": "Best Guitar Luthier"
+            }
+          ]
+        },
+        {
+          "id": "arts-culture-entertainment--best-haunted-houses",
+          "question": "Best Haunted Houses",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/xz5jyq/best_haunted_houses_in_the_area/",
+              "label": "Best Haunted Houses"
+            }
+          ]
+        },
+        {
+          "id": "arts-culture-entertainment--best-place-to-get-bass-guitar-set-up",
+          "question": "Best Place to Get Bass (Guitar) Set Up",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10g33es/best_place_to_get_my_bass_set_up/",
+              "label": "Best Place to Get Bass (Guitar) Set Up"
+            }
+          ]
+        },
+        {
+          "id": "arts-culture-entertainment--best-trivia-night",
+          "question": "Best Trivia Night",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10b9qsi/trivia_nights/",
+              "label": "Best Trivia Night"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tattoos-piercing",
+      "title": "Tattoos & Piercing",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 9,
+        "2023_only": 3,
+        "total": 12
+      },
+      "entries": [
+        {
+          "id": "tattoos-piercing--best-tattoo-artist",
+          "question": "Best Tattoo Artist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1cwecbn/best_female_tattoo_artist/",
+              "label": "Best Tattoo Artist"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-2",
+          "question": "Best Tattoo Artist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iy4vcp/local_tattoo_options/",
+              "label": "Best Tattoo Artist"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-3",
+          "question": "Best Tattoo Artist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1ke2xjx/hand_tattoo_reccs/",
+              "label": "Best Tattoo Artist"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-4",
+          "question": "Best Tattoo Artist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1kmq0xw/lost_on_where_to_go_for_tattoos/",
+              "label": "Best Tattoo Artist"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-5",
+          "question": "Best Tattoo Artist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hp6a8g/tattoo_artist_recommendation/",
+              "label": "Best Tattoo Artist"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-6",
+          "question": "Best Tattoo Artist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iroygm/any_recommendations_for_a_female_tattoo_artist_in/",
+              "label": "Best Tattoo Artist"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-7",
+          "question": "Best Tattoo Artist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/16suz5l/recommendations_for_a_tattoo_artist_who_isnt_a/",
+              "label": "Best Tattoo Artist"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-8",
+          "question": "Best Tattoo Artist",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1idsqui/tattoo_artist_recommendations/",
+              "label": "Best Tattoo Artist"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-shop",
+          "question": "Best Tattoo Shop",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1f0ar16/best_tattoo_shop/",
+              "label": "Best Tattoo Shop"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-piercing-shop",
+          "question": "Best Piercing Shop",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zs8e74/best_piercing_shop/",
+              "label": "Best Piercing Shop"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-shop",
+          "question": "Best Tattoo Artist/Shop",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/110qoh8/hi_looking_for_tattoo_shopartist_recommendations/",
+              "label": "Best Tattoo Artist/Shop"
+            }
+          ]
+        },
+        {
+          "id": "tattoos-piercing--best-tattoo-artist-shop-2",
+          "question": "Best Tattoo Artist/Shop",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/ylco08/recommendations_for_tattoo_artists_in_the_area/",
+              "label": "Best Tattoo Artist/Shop"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "travel-transit",
+      "title": "Travel & Transit",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 0,
+        "2023_only": 3,
+        "total": 3
+      },
+      "entries": [
+        {
+          "id": "travel-transit--best-parking-lot-to-teach-your-kid-how-to-drive",
+          "question": "Best Parking Lot to Teach Your Kid How to Drive",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/116kn5d/best_parking_lots_places_to_teach_my_son_with_a/",
+              "label": "Best Parking Lot to Teach Your Kid How to Drive"
+            }
+          ]
+        },
+        {
+          "id": "travel-transit--best-way-to-get-to-montreal",
+          "question": "Best Way to Get to Montreal",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11jmylf/best_way_to_get_to_montreal/",
+              "label": "Best Way to Get to Montreal"
+            }
+          ]
+        },
+        {
+          "id": "travel-transit--best-way-to-get-to-the-airport-early-am",
+          "question": "Best Way to Get to the Airport (Early AM)",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/tteey0/best_way_to_get_to_the_airport_at_5am/",
+              "label": "Best Way to Get to the Airport (Early AM)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jobs-work",
+      "title": "Jobs & Work",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 0,
+        "2023_only": 3,
+        "total": 3
+      },
+      "entries": [
+        {
+          "id": "jobs-work--best-places-for-summer-internships",
+          "question": "Best Places for Summer Internships",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11c61w2/best_places_for_a_summer_internships/",
+              "label": "Best Places for Summer Internships"
+            }
+          ]
+        },
+        {
+          "id": "jobs-work--best-restaurants-spots-to-work",
+          "question": "Best Restaurants / Spots to Work",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/zf3q6m/restaurants_hiring_just_moved_to_town_wheres_the/",
+              "label": "Best Restaurants / Spots to Work"
+            }
+          ]
+        },
+        {
+          "id": "jobs-work--best-summer-jobs",
+          "question": "Best Summer Jobs",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/11nc3r7/best_summer_jobs/",
+              "label": "Best Summer Jobs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hotels-lodging",
+      "title": "Hotels & Lodging",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 1,
+        "2023_only": 0,
+        "total": 1
+      },
+      "entries": [
+        {
+          "id": "hotels-lodging--best-hotel",
+          "question": "Best Hotel",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1iq1orf/hotel_recommendations/",
+              "label": "Best Hotel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "visiting-dating-misc",
+      "title": "Visiting, Dating & Misc",
+      "sevendays_url": null,
+      "sevendays_note": null,
+      "counts": {
+        "active": 13,
+        "2023_only": 3,
+        "total": 16
+      },
+      "entries": [
+        {
+          "id": "visiting-dating-misc--best-activities-for-visitors",
+          "question": "Best Activities for Visitors",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1da9i5e/activities_with_teen_girl/",
+              "label": "Best Activities for Visitors"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-burlington-lore",
+          "question": "Best Burlington Lore",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1c8fveo/what_is_the_best_burlington_lore/",
+              "label": "Best Burlington Lore"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-panhandler-pitch",
+          "question": "Best Panhandler Pitch",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1csjopk/which_downtown_panhandler_do_you_think_has_the/",
+              "label": "Best Panhandler Pitch"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-place-for-a-date",
+          "question": "Best Place for a Date",
+          "status": "active",
+          "notes": "The 2025 edition linked this same thread twice under separate numbered labels (Best Place for a Date 1 / Best Place for a Date 2); collapsed to one entry.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1heasm5/best_date_locations/",
+              "label": "Best Place for a Date 1"
+            },
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1heasm5/best_date_locations/",
+              "label": "Best Place for a Date 2"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-place-for-first-date",
+          "question": "Best Place for First Date",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1bvppc9/best_places_for_a_first_date_in_burlington/",
+              "label": "Best Place for First Date"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-place-to-find-a-wife",
+          "question": "Best Place to Find a Wife",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1hehj9u/best_place_to_find_a_wife/",
+              "label": "Best Place to Find a Wife"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-place-to-meet-20-somethings",
+          "question": "Best Place to Meet 20-something's",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1br23nn/best_spots_to_meet_20somethings/",
+              "label": "Best Place to Meet 20-something's"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-place-to-read-book",
+          "question": "Best Place to Read Book",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/17k17fw/best_place_to_read_a_book/",
+              "label": "Best Place to Read Book"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-place-to-shoot-a-video-podcast",
+          "question": "Best Place to Shoot a Video Podcast",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1egzkxd/best_place_to_shoot_a_video_podcast_in_burlington/",
+              "label": "Best Place to Shoot a Video Podcast"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-things-not-to-miss-when-visiting-burlington",
+          "question": "Best Things Not To Miss When Visiting Burlington",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/16mama4/my_husband_will_be_in_the_burlington_region_for_6/",
+              "label": "Best Things Not To Miss When Visiting Burlington"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-things-to-do-around-burlington",
+          "question": "Best Things to Do Around Burlington",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1j9n9pi/2_weeks_around_burlington_best_things_to_do_with/",
+              "label": "Best Things to Do Around Burlington"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-things-to-do-during-day-w-mil-in-town",
+          "question": "Best Things to Do During Day w/MIL in town",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1dj7szi/what_are_some_inside_things_to_do_during_the_day/",
+              "label": "Best Things to Do During Day w/MIL in town"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-things-to-explore",
+          "question": "Best Things to Explore",
+          "status": "active",
+          "notes": null,
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2025,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/1k8i2xc/things_to_explore/",
+              "label": "Best Things to Explore"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-hang-out-spots",
+          "question": "Best Hang Out Spots",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/123nc01/hang_out_spots_in_burlington/",
+              "label": "Best Hang Out Spots"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-place-for-wedding-reception",
+          "question": "Best Place for Wedding Reception",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/103hwml/wedding_reception/",
+              "label": "Best Place for Wedding Reception"
+            }
+          ]
+        },
+        {
+          "id": "visiting-dating-misc--best-place-to-rent-for-childs-birthday-party",
+          "question": "Best Place to Rent for Child's Birthday Party",
+          "status": "2023-only",
+          "notes": "Listed in the 2023 edition only — not reconfirmed in the 2025 edition; verify still current before publishing as a confirmed answer.",
+          "sevendays_url": null,
+          "sevendays_note": null,
+          "sources": [
+            {
+              "year": 2023,
+              "thread_url": "https://www.reddit.com/r/burlington/comments/10p40io/anywhere_to_rent_a_space_for_a_child_birthday/",
+              "label": "Best Place to Rent for Child's Birthday Party"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

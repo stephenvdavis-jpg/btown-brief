@@ -4230,6 +4230,222 @@ a.events-all-link:focus-visible { background: var(--bg-subtle); outline: none; }
 }
 
 /* ============================================================
+   Best of r/burlington (best-of-reddit.html)
+   Category directory built on the same details/summary pattern as
+   .pulse-topic / .pulse-rough (Burlington Pulse), with its own badge set
+   for year provenance, 2023-only staleness, and comment-mined tips.
+============================================================ */
+
+.bor-toolbar {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-bottom: var(--space-3);
+  flex-wrap: wrap;
+}
+.bor-toolbar .search-wrap { flex: 1 1 240px; }
+.bor-toggle-all-btn {
+  flex: 0 0 auto;
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--teal);
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-full);
+  padding: var(--space-2) var(--space-4);
+  white-space: nowrap;
+}
+.bor-toggle-all-btn:hover { background: var(--bg-subtle); }
+
+.bor-jump-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin: var(--space-3) 0 var(--space-6);
+}
+.bor-jump-chip {
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--ink-2);
+  background: var(--bg-raised);
+  border: 1px solid var(--line-soft);
+  border-radius: var(--radius-full);
+  padding: 3px var(--space-3);
+  white-space: nowrap;
+}
+.bor-jump-chip:hover { border-color: var(--teal); color: var(--teal); text-decoration: none; }
+.bor-jump-count { color: var(--ink-4); }
+
+.bor-result-count { font-size: var(--text-sm); color: var(--ink-3); margin: 0 0 var(--space-3); }
+
+/* --- Category card (collapsible, mirrors .pulse-rough) --- */
+.bor-category {
+  background: var(--bg-raised);
+  border: 1px solid var(--line-soft);
+  border-left: 3px solid var(--teal);
+  border-radius: var(--radius-lg);
+  margin-bottom: var(--space-3);
+  box-shadow: var(--shadow-sm);
+  scroll-margin-top: var(--space-6);
+}
+.bor-category > summary {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+  padding: var(--space-4) var(--space-5);
+  cursor: pointer;
+  list-style: none;
+}
+.bor-category > summary::-webkit-details-marker { display: none; }
+.bor-category-title {
+  flex: 1;
+  min-width: 0;
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--ink);
+}
+.bor-category-title::after {
+  content: ' ▸';
+  color: var(--ink-4);
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+}
+.bor-category[open] .bor-category-title::after { content: ' ▾'; }
+.bor-category-count {
+  flex: 0 0 auto;
+  font-size: var(--text-xs);
+  color: var(--ink-3);
+  white-space: nowrap;
+}
+.bor-category-sevendays {
+  flex: 0 0 auto;
+  font-size: var(--text-xs);
+  font-weight: 700;
+  color: var(--group-events);
+  white-space: nowrap;
+}
+.bor-category-body {
+  border-top: 1px solid var(--line-soft);
+  padding: var(--space-2) var(--space-5) var(--space-4);
+}
+
+/* --- Entry rows --- */
+.bor-entries { display: flex; flex-direction: column; }
+.bor-entry {
+  padding: var(--space-3) 0;
+  border-bottom: 1px solid var(--line-soft);
+}
+.bor-entry:last-child { border-bottom: none; }
+.bor-entry-head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+.bor-entry-q {
+  font-family: var(--font-display);
+  font-size: var(--text-base);
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.35;
+}
+.bor-entry-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-top: var(--space-1);
+}
+.bor-source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--teal);
+  background: var(--teal-light);
+  border-radius: var(--radius-full);
+  padding: 2px var(--space-3) 2px var(--space-2);
+  text-decoration: none;
+}
+.bor-source-link:hover { text-decoration: underline; }
+.bor-sevendays-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: var(--text-xs);
+  font-weight: 700;
+  color: var(--group-events);
+  background: color-mix(in srgb, var(--group-events) 12%, transparent);
+  border-radius: var(--radius-full);
+  padding: 2px var(--space-3);
+  text-decoration: none;
+}
+.bor-sevendays-link:hover { text-decoration: underline; }
+.bor-entry-note {
+  font-size: var(--text-xs);
+  color: var(--ink-4);
+  font-style: italic;
+  margin-top: 2px;
+  max-width: 62ch;
+}
+
+.bor-badge {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  border-radius: var(--radius-full);
+  padding: 0 6px;
+}
+.bor-badge-2025 { background: var(--teal); color: #fff; }
+.bor-badge-2023 { background: var(--bg-subtle); color: var(--ink-3); }
+.bor-badge-tip {
+  display: inline-flex;
+  align-items: center;
+  font-size: var(--text-xs);
+  font-weight: 700;
+  color: var(--coral);
+  background: var(--coral-light);
+  border-radius: var(--radius-full);
+  padding: 1px 8px;
+}
+
+/* --- 2023-only nested expander --- */
+.bor-legacy {
+  margin-top: var(--space-3);
+  border-top: 1px dashed var(--line);
+  padding-top: var(--space-2);
+}
+.bor-legacy > summary {
+  cursor: pointer;
+  list-style: none;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--ink-3);
+  padding: var(--space-1) 0;
+}
+.bor-legacy > summary::-webkit-details-marker { display: none; }
+.bor-legacy > summary::after { content: ' ▸'; color: var(--ink-4); }
+.bor-legacy[open] > summary::after { content: ' ▾'; }
+.bor-legacy .bor-entries { margin-top: var(--space-2); }
+.bor-legacy .bor-entry-q { color: var(--ink-2); font-weight: 500; }
+.bor-legacy .bor-source-link { background: var(--bg-subtle); color: var(--ink-3); }
+
+.bor-empty { color: var(--ink-3); font-size: var(--text-sm); padding: var(--space-3) 0; }
+.bor-hidden { display: none !important; }
+
+@media (max-width: 560px) {
+  .bor-category > summary { flex-wrap: wrap; row-gap: 2px; }
+  .bor-entry-head { flex-direction: column; align-items: flex-start; gap: 2px; }
+}
+
+.bor-category > summary:focus-visible,
+.bor-legacy > summary:focus-visible {
+  outline: 2px solid var(--coral);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+/* ============================================================
    EXTRAS — the annual one-offs at the foot of the List
 ============================================================ */
 .extras-section { margin-top: var(--space-8); }
