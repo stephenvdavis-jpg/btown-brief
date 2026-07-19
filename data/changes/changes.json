@@ -1,83 +1,6 @@
 {
- "generated": "2026-07-19T10:51:56+00:00",
+ "generated": "2026-07-19T12:10:09+00:00",
  "events": [
-  {
-   "ts": "2026-07-12T10:59:21+00:00",
-   "category": "events",
-   "headline": "New event: Marshmallow Roast and Campfire Songs",
-   "detail": "tomorrow 5 PM",
-   "url": "https://brownelllibrary.org/event/marshmallow-roast-and-campfire-songs/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-12T10:59:21+00:00",
-   "category": "events",
-   "headline": "New event: Outdoor Play Time",
-   "detail": "Wednesday 10 AM",
-   "url": "https://brownelllibrary.org/event/outdoor-play-time/2026-07-15/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-12T10:59:21+00:00",
-   "category": "events",
-   "headline": "New event: Escape from Isla Nublar!",
-   "detail": "Wednesday 2 PM",
-   "url": "https://brownelllibrary.org/event/escape-from-isla-nublar/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-12T10:59:21+00:00",
-   "category": "events",
-   "headline": "New event: 100th Anniversary- Community BBQ and Lawn Party",
-   "detail": "Friday 4 PM · Brownell Library",
-   "url": "https://brownelllibrary.org/event/100th-anniversary-community-bbq-and-lawn-party/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-12T10:59:21+00:00",
-   "category": "events",
-   "headline": "New event: Reduce, Reuse, Recyclosaurus!",
-   "detail": "Jul 20 5 PM",
-   "url": "https://brownelllibrary.org/event/reduce-reuse-recyclosaurus/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-12T10:59:21+00:00",
-   "category": "events",
-   "headline": "New event: Hieroglyphs: Create a Cartouche!",
-   "detail": "Jul 21 3 PM",
-   "url": "https://brownelllibrary.org/event/hieroglyphs-create-a-cartouche/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-12T10:59:21+00:00",
-   "category": "events",
-   "headline": "New event: Outdoor Play Time",
-   "detail": "Jul 22 10 AM",
-   "url": "https://brownelllibrary.org/event/outdoor-play-time/2026-07-22/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-12T20:45:33+00:00",
    "category": "news",
@@ -3573,6 +3496,94 @@
    "url": "https://burlingtonvt.portal.civicclerk.com/event/9961/overview",
    "source": "civicclerk",
    "sourceName": "City meeting portal",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-19T10:58:43+00:00",
+   "category": "events",
+   "headline": "New event: Trolley tours",
+   "detail": "today 9 AM · Perkins Pier",
+   "url": "https://www.helloburlingtonvt.com/event/trolley-tours/4244/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-19T10:58:43+00:00",
+   "category": "events",
+   "headline": "New event: Dinosaur Safari Exhibit",
+   "detail": "today 10 AM · ECHO, Leahy Center for Lake Champlain",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-19T10:58:43+00:00",
+   "category": "events",
+   "headline": "New event: Cruise aboard the Spirit of Ethan Allen III",
+   "detail": "today 12 PM · Spirit of Ethan Allen",
+   "url": "https://www.helloburlingtonvt.com/event/cruise-aboard-the-spirit-of-ethan-allen-iii/6292/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-19T10:58:43+00:00",
+   "category": "events",
+   "headline": "New event: The Ultimate Chocolate Tasting",
+   "detail": "today 2 PM · Lake Champlain Chocolates",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78391346/20260719140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-19T10:58:43+00:00",
+   "category": "events",
+   "headline": "New event: Half Priced Oysters at La Reprise",
+   "detail": "today 4 PM · La Reprise",
+   "url": "https://www.helloburlingtonvt.com/event/half-priced-oysters-at-la-reprise/7709/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-19T10:58:43+00:00",
+   "category": "events",
+   "headline": "New event: Skiff Oyster Hour",
+   "detail": "today 4 PM · Hilton Burlington Lake Champlain",
+   "url": "https://www.helloburlingtonvt.com/event/skiff-oyster-hour/5005/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-19T10:58:43+00:00",
+   "category": "events",
+   "headline": "New event: Green Mountain Swing Benefit for Youth Music Scholarships!",
+   "detail": "today 6 PM · ArtsRiot",
+   "url": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-19T18",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-19T10:58:43+00:00",
+   "category": "events",
+   "headline": "New event: Glass Factory and Storefront Open !!",
+   "detail": "tomorrow 10 AM · AO Glass",
+   "url": "https://www.helloburlingtonvt.com/event/glass-factory-and-storefront-open-!!/5584/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
    "priority": 1,
    "kind": "added"
   }
