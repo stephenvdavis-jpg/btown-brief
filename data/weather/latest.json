@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-19T10:15:59+00:00",
+ "updated": "2026-07-19T10:59:24+00:00",
  "sections_updated": {
-  "now": "2026-07-19T10:15:59+00:00",
-  "forecast": "2026-07-19T10:15:59+00:00",
-  "hourly": "2026-07-19T10:15:59+00:00",
-  "alerts": "2026-07-19T10:15:59+00:00",
-  "afd": "2026-07-19T10:15:59+00:00",
-  "lake_forecast": "2026-07-19T10:15:59+00:00",
-  "lake_gage": "2026-07-19T10:15:59+00:00",
-  "air": "2026-07-19T10:15:59+00:00",
-  "sun": "2026-07-19T10:15:59+00:00",
-  "models": "2026-07-19T10:15:59+00:00"
+  "now": "2026-07-19T10:59:24+00:00",
+  "forecast": "2026-07-19T10:59:24+00:00",
+  "hourly": "2026-07-19T10:59:24+00:00",
+  "alerts": "2026-07-19T10:59:24+00:00",
+  "afd": "2026-07-19T10:59:24+00:00",
+  "lake_forecast": "2026-07-19T10:59:24+00:00",
+  "lake_gage": "2026-07-19T10:59:24+00:00",
+  "air": "2026-07-19T10:59:24+00:00",
+  "sun": "2026-07-19T10:59:24+00:00",
+  "models": "2026-07-19T10:59:24+00:00"
  },
  "now": {
-  "observed_at": "2026-07-19T10:00:00+00:00",
+  "observed_at": "2026-07-19T10:35:00+00:00",
   "station": "KBTV",
-  "description": "Cloudy",
+  "description": "Mostly Cloudy",
   "temp_f": 63,
   "feels_like_f": 63,
   "humidity": 68,
   "dewpoint_f": 52,
-  "wind_mph": 9,
+  "wind_mph": 8,
   "wind_gust_mph": null,
-  "wind_dir": "NW"
+  "wind_dir": "WNW"
  },
  "forecast": {
   "updated": "2026-07-19T06:18:36+00:00",
@@ -766,8 +766,8 @@
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 48,
-  "category": "Good",
+  "aqi": 52,
+  "category": "Moderate",
   "pollutant": "PM2.5",
   "observed": "07/19/26 6:00",
   "discussion": "On Sunday, July 19th, expect moderate air quality across Vermont as some remnant wildfire smoke remains in the area.  Levels will tend to drop over the course of the day."
@@ -790,7 +790,7 @@
     },
     "pop_max": {
      "GFS": 34,
-     "Euro": 82,
+     "Euro": 72,
      "ICON": 70
     },
     "precip_in": {
@@ -808,8 +808,8 @@
      "ICON": 78
     },
     "pop_max": {
-     "GFS": 2,
-     "Euro": 2,
+     "GFS": 1,
+     "Euro": 8,
      "ICON": 0
     },
     "precip_in": {
@@ -828,7 +828,7 @@
     },
     "pop_max": {
      "GFS": 61,
-     "Euro": 71,
+     "Euro": 80,
      "ICON": 38
     },
     "precip_in": {
