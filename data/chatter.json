@@ -1,9 +1,33 @@
 {
-  "updated": "2026-07-19T16:10:38+00:00",
+  "updated": "2026-07-19T19:47:07+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "news": [
+    {
+      "title": "Panasonic toaster ovens sold on Amazon, Costco recalled nationwide",
+      "url": "https://www.mynbc5.com/article/panasonic-electric-toaster-oven-recall-amazon-costco/73179645",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-19T17:18:27+00:00",
+      "summary": "If you bought a Panasonic electric toaster oven online for about $170, check the model number — 11,480 are being recalled for a shock or fire risk."
+    },
+    {
+      "title": "Firefighter, motorist restrain knife-wielding transient",
+      "url": "https://vermontdailychronicle.com/firefighter-motorist-restrain-knife-wielding-transient/?utm_source=rss&utm_medium=rss&utm_campaign=firefighter-motorist-restrain-knife-wielding-transient",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-19T16:53:57+00:00",
+      "summary": "Suspect attacking woman in presence of her children, police say Butchino Burlington police say a homeless man is being held without bail after allegedly assaulting a woman, threatening a firefighter…"
+    },
+    {
+      "title": "Man arrested for allegedly threatening firefighter with knife after they intervened in violent assault",
+      "url": "https://www.wcax.com/2026/07/19/man-arrested-allegedly-threatening-firefighter-with-knife-after-they-intervened-violent-assault/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-19T16:20:03+00:00",
+      "summary": "Police say a man violently assaulted a woman in front of young children, then turned on the firefighter who intervened."
+    },
     {
       "title": "AIPAC has spent a record amount on Michigan's Senate primary",
       "url": "https://www.mynbc5.com/article/aipac-michigan-senate-primary-stevens-el-sayed/73179115",
@@ -783,9 +807,43 @@
   ],
   "topics": [
     {
+      "id": "guy-deal-weird",
+      "label": "All About the Republican Congressional Primary",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-18T22:04:39+00:00",
+      "sources": [
+        {
+          "title": "All About the Republican Congressional Primary",
+          "url": "https://www.reddit.com/r/vermont/comments/1v04mu5/all_about_the_republican_congressional_primary/",
+          "sub": "r/vermont",
+          "when": "2026-07-18T22:04:39+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "burger-welcome-afternoon",
+      "label": "Burgers - between Burlington and Middlebury?",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-18T22:04:39+00:00",
+      "sources": [
+        {
+          "title": "Burgers - between Burlington and Middlebury?",
+          "url": "https://www.reddit.com/r/vermont/comments/1v07h9k/burgers_between_burlington_and_middlebury/",
+          "sub": "r/vermont",
+          "when": "2026-07-18T22:04:39+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
       "id": "smoke-band-block",
       "label": "Question for former staff about Mirabelle's from Main Street Era",
-      "direction": "rising",
+      "direction": "fading",
       "posts": 3,
       "comments": null,
       "last_activity": "2026-07-18T05:04:20+00:00",
@@ -814,120 +872,121 @@
       ]
     },
     {
-      "id": "100-women-3839",
-      "label": "100 Women Who Care - Lamoille County impact",
-      "direction": "rising",
-      "posts": 1,
+      "id": "ben-jerry-stop",
+      "label": "Boycott Ben & Jerry's!",
+      "direction": "fading",
+      "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-18T19:03:59+00:00",
+      "last_activity": "2026-07-17T14:04:02+00:00",
       "sources": [
         {
-          "title": "100 Women Who Care - Lamoille County impact",
-          "url": "https://www.reddit.com/r/vermont/comments/1uzvzv3/100_women_who_care_lamoille_county_impact/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T19:03:59+00:00",
+          "title": "Boycott Ben & Jerry's!",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz0bxv/boycott_ben_jerrys/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T14:04:02+00:00",
+          "comments": null
+        },
+        {
+          "title": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
+          "url": "https://www.reddit.com/r/burlington/comments/1uymbcb/ben_jerrys_foundation_plans_to_shut_down_by_end/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T02:04:15+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "guy-deal-weird",
-      "label": "All About the Republican Congressional Primary",
-      "direction": "rising",
-      "posts": 1,
+      "id": "beach-north-farm",
+      "label": "North of Star Farm Beach",
+      "direction": "fading",
+      "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-18T22:04:39+00:00",
+      "last_activity": "2026-07-17T23:04:21+00:00",
       "sources": [
         {
-          "title": "All About the Republican Congressional Primary",
-          "url": "https://www.reddit.com/r/vermont/comments/1v04mu5/all_about_the_republican_congressional_primary/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T22:04:39+00:00",
+          "title": "North of Star Farm Beach",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzc2ql/north_of_star_farm_beach/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T23:04:21+00:00",
+          "comments": null
+        },
+        {
+          "title": "Massive Upgrade at Oakledge - Goodbye North Beach",
+          "url": "https://www.reddit.com/r/burlington/comments/1uyff7y/massive_upgrade_at_oakledge_goodbye_north_beach/",
+          "sub": "r/burlington",
+          "when": "2026-07-16T23:03:44+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "another-cancer-careful",
-      "label": "Another great piece on how Manchester is flocked.",
-      "direction": "rising",
-      "posts": 1,
+      "id": "dog-dogs-leash",
+      "label": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs…",
+      "direction": "fading",
+      "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-18T19:03:59+00:00",
+      "last_activity": "2026-07-17T17:04:49+00:00",
       "sources": [
         {
-          "title": "Another great piece on how Manchester is flocked.",
-          "url": "https://www.reddit.com/r/vermont/comments/1v03une/another_great_piece_on_how_manchester_is_flocked/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T19:03:59+00:00",
+          "title": "Photograph, Share, Shame Dog Owners Who Don't Leash Their Dogs in Leashed Areas",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz3wxt/photograph_share_shame_dog_owners_who_dont_leash/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T17:04:49+00:00",
+          "comments": null
+        },
+        {
+          "title": "Fellow Dog Owners….",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz1bze/fellow_dog_owners/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T17:04:49+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "burger-welcome-afternoon",
-      "label": "Burgers - between Burlington and Middlebury?",
-      "direction": "rising",
-      "posts": 1,
+      "id": "bike-car-crashed",
+      "label": "Pine street Vehicle Crash with E-Bike incident report",
+      "direction": "fading",
+      "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-18T22:04:39+00:00",
+      "last_activity": "2026-07-16T23:03:44+00:00",
       "sources": [
         {
-          "title": "Burgers - between Burlington and Middlebury?",
-          "url": "https://www.reddit.com/r/vermont/comments/1v07h9k/burgers_between_burlington_and_middlebury/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T22:04:39+00:00",
+          "title": "Pine street Vehicle Crash with E-Bike incident report",
+          "url": "https://www.reddit.com/r/burlington/comments/1uydxcp/pine_street_vehicle_crash_with_ebike_incident/",
+          "sub": "r/burlington",
+          "when": "2026-07-16T23:03:44+00:00",
+          "comments": null
+        },
+        {
+          "title": "Car crashed onto sidewalk/bike path on Pine st",
+          "url": "https://www.reddit.com/r/burlington/comments/1uyanxx/car_crashed_onto_sidewalkbike_path_on_pine_st/",
+          "sub": "r/burlington",
+          "when": "2026-07-16T20:02:13+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "back-apprenticeship-becomming",
-      "label": "Careers in Vermont",
-      "direction": "rising",
-      "posts": 1,
+      "id": "distortion-social-967",
+      "label": "Social distortion tickets x3",
+      "direction": "fading",
+      "posts": 2,
       "comments": null,
-      "last_activity": "2026-07-18T19:03:59+00:00",
+      "last_activity": "2026-07-17T23:04:21+00:00",
       "sources": [
         {
-          "title": "Careers in Vermont",
-          "url": "https://www.reddit.com/r/vermont/comments/1uzy6id/careers_in_vermont/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T19:03:59+00:00",
+          "title": "Social distortion tickets x3",
+          "url": "https://www.reddit.com/r/burlington/comments/1uzakyr/social_distortion_tickets_x3/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T23:04:21+00:00",
           "comments": null
-        }
-      ]
-    },
-    {
-      "id": "watch-bars-parties",
-      "label": "FIFA Watch Parties, not in bars?",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-18T19:03:59+00:00",
-      "sources": [
+        },
         {
-          "title": "FIFA Watch Parties, not in bars?",
-          "url": "https://www.reddit.com/r/vermont/comments/1uzy9ak/fifa_watch_parties_not_in_bars/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T19:03:59+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "snake-because-clue",
-      "label": "Found escaped pet snake",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-18T19:03:59+00:00",
-      "sources": [
-        {
-          "title": "Found escaped pet snake",
-          "url": "https://www.reddit.com/r/vermont/comments/1uztxrr/found_escaped_pet_snake/",
-          "sub": "r/vermont",
-          "when": "2026-07-18T19:03:59+00:00",
+          "title": "Social Distortion Ticket",
+          "url": "https://www.reddit.com/r/burlington/comments/1uz5xek/social_distortion_ticket/",
+          "sub": "r/burlington",
+          "when": "2026-07-17T20:04:01+00:00",
           "comments": null
         }
       ]
@@ -1011,9 +1070,9 @@
     }
   ],
   "stats": {
-    "posts_scanned": 87,
+    "posts_scanned": 85,
     "per_source": {
-      "r/burlington": 40,
+      "r/burlington": 38,
       "r/vermont": 47
     }
   }
