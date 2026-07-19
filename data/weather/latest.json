@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-18T23:37:10+00:00",
+ "updated": "2026-07-19T01:11:08+00:00",
  "sections_updated": {
-  "now": "2026-07-18T23:37:10+00:00",
-  "forecast": "2026-07-18T23:37:10+00:00",
-  "hourly": "2026-07-18T23:37:10+00:00",
-  "alerts": "2026-07-18T23:37:10+00:00",
-  "afd": "2026-07-18T23:37:10+00:00",
-  "lake_forecast": "2026-07-18T23:37:10+00:00",
-  "lake_gage": "2026-07-18T23:37:10+00:00",
-  "air": "2026-07-18T23:37:10+00:00",
-  "sun": "2026-07-18T23:37:10+00:00",
-  "models": "2026-07-18T23:37:10+00:00"
+  "now": "2026-07-19T01:11:08+00:00",
+  "forecast": "2026-07-19T01:11:08+00:00",
+  "hourly": "2026-07-19T01:11:08+00:00",
+  "alerts": "2026-07-19T01:11:08+00:00",
+  "afd": "2026-07-19T01:11:08+00:00",
+  "lake_forecast": "2026-07-19T01:11:08+00:00",
+  "lake_gage": "2026-07-19T01:11:08+00:00",
+  "air": "2026-07-19T01:11:08+00:00",
+  "sun": "2026-07-19T01:11:08+00:00",
+  "models": "2026-07-19T01:11:08+00:00"
  },
  "now": {
-  "observed_at": "2026-07-18T23:20:00+00:00",
+  "observed_at": "2026-07-19T00:50:00+00:00",
   "station": "KBTV",
-  "description": "Haze",
+  "description": "Fog/Mist",
   "temp_f": 72,
-  "feels_like_f": 72,
-  "humidity": 83,
-  "dewpoint_f": 66,
-  "wind_mph": 11,
+  "feels_like_f": 73,
+  "humidity": 88,
+  "dewpoint_f": 68,
+  "wind_mph": 10,
   "wind_gust_mph": null,
   "wind_dir": "S"
  },
@@ -31,10 +31,10 @@
     "name": "Tonight",
     "is_day": false,
     "temp_f": 60,
-    "pop": 63,
+    "pop": 53,
     "wind": "W 9 to 14 mph",
     "short": "Smoke then Chance Rain Showers",
-    "detailed": "Smoke and rain showers likely before 11pm, then a chance of rain showers and patchy smoke between 11pm and 1am. Mostly cloudy, with a low around 60. West wind 9 to 14 mph, with gusts as high as 30 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+    "detailed": "Smoke and a chance of rain showers before 11pm, then a chance of rain showers and patchy smoke between 11pm and 1am. Mostly cloudy, with a low around 60. West wind 9 to 14 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
    },
    {
     "name": "Sunday",
@@ -86,28 +86,6 @@
  "hourly": {
   "updated": "2026-07-18T18:20:37+00:00",
   "hours": [
-   {
-    "t": "2026-07-18T19:00:00-04:00",
-    "temp_f": 74,
-    "feels_f": 74,
-    "pop": 63,
-    "humidity": 84,
-    "wind_mph": 14,
-    "wind_dir": "S",
-    "sky": 89,
-    "short": "Smoke"
-   },
-   {
-    "t": "2026-07-18T20:00:00-04:00",
-    "temp_f": 71,
-    "feels_f": 71,
-    "pop": 49,
-    "humidity": 93,
-    "wind_mph": 13,
-    "wind_dir": "S",
-    "sky": 78,
-    "short": "Smoke"
-   },
    {
     "t": "2026-07-18T21:00:00-04:00",
     "temp_f": 67,
@@ -481,20 +459,49 @@
     "wind_dir": "S",
     "sky": 3,
     "short": "Sunny"
+   },
+   {
+    "t": "2026-07-20T07:00:00-04:00",
+    "temp_f": 60,
+    "feels_f": 60,
+    "pop": 0,
+    "humidity": 78,
+    "wind_mph": 5,
+    "wind_dir": "S",
+    "sky": 1,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-20T08:00:00-04:00",
+    "temp_f": 63,
+    "feels_f": 63,
+    "pop": 0,
+    "humidity": 72,
+    "wind_mph": 5,
+    "wind_dir": "S",
+    "sky": 13,
+    "short": "Sunny"
    }
   ]
  },
  "alerts": {
-  "active": []
+  "active": [
+   {
+    "event": "Air Quality Alert",
+    "headline": "Air Quality Alert issued July 18 at 8:03PM EDT by NWS Burlington VT",
+    "severity": "Unknown",
+    "expires": "2026-07-19T00:00:00-04:00"
+   }
+  ]
  },
  "afd": {
-  "issued": "2026-07-18T18:40:00+00:00",
+  "issued": "2026-07-19T00:33:00+00:00",
   "key_messages": [
    "While the threat of damaging winds in our area has decreased, rounds of showers with a few thunderstorms will continue into this evening. Meanwhile, near surface smoke has returned to much of our region but will be replaced by cleaner air and low humidity for Sunday and Monday.",
    "Chances of showers and a few thunderstorms return for later Tuesday into Wednesday, otherwise mainly fair and seasonable weather is expected to end the work week."
   ],
   "what_changed": "As of 240 PM EDT Saturday... Risk of strong to severe thunderstorms has decreased for the rest of today, with lower thunderstorm chances as well.",
-  "raw": "\n000\nFXUS61 KBTV 181840\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n240 PM EDT Sat Jul 18 2026\n\n.WHAT HAS CHANGED...\nAs of 240 PM EDT Saturday...\n\nRisk of strong to severe thunderstorms has decreased for the \nrest of today, with lower thunderstorm chances as well.\n\n&&\n\n.KEY MESSAGES...\nAs of 240 PM EDT Saturday...\n\n1. While the threat of damaging winds in our area has \ndecreased, rounds of showers with a few thunderstorms will continue \ninto this evening. Meanwhile, near surface smoke has returned \nto much of our region but will be replaced by cleaner air and \nlow humidity for Sunday and Monday.\n\n2. Chances of showers and a few thunderstorms return for later \nTuesday into Wednesday, otherwise mainly fair and seasonable weather \nis expected to end the work week.\n\n&&\n\n.DISCUSSION...\nAs of 240 PM EDT Saturday...\n\nKEY MESSAGE 1: \n\nA vigorous shortwave trough diving southeastward over eastern \nOntario alongside a moderately deep low pressure system is \npromoting widespread precipitation and areas of deep convection \nacross the Northeastern US. The system's warm front is having a \nhard time pushing east/northeastward, such that isentropic lift \nhas been generating steady rain with embedded downpours across \nnorthern New York and Vermont. As a result, the possibility of \nour region becoming destabilized via surface heating has greatly\ndiminished today's potential severe weather event. The limited \nthreat area is trending towards the St. Lawrence Valley where \nMLCAPE is progged to surge to near 1000 J/kg by 7 PM amidst \npartial clearing, which could be sufficient for localized \ndamaging wind if there is some storm organization/linear \nconvection in the late afternoon/early evening. This area is the\nmost likely to see any thunderstorm activity as well, although \nsome thunder can't quite be ruled out farther east into the \nAdirondacks and perhaps northern portions of Vermont given \nOtherwise, the rest of the day is shaping up to be merely \nshowery and breezy, with rain-cooled air and thick clouds making\nfor the coolest day we have seen since June. \n\nAs the system's cold front presses eastward through our region \nbetween about 9 PM and 1 AM, winds will shift westerly and trend \nnorthwesterly, ushering in a return to dry air. Relatedly, most of \nthe wildfire smoke that has pushed northward into northern New \nYork and Vermont, especially higher elevations, this afternoon \nwill be steered out of the region. Unfortunately, a different \nplume of smoke from the northwest will likely push into northern\nNew York overnight, which could once again degrade air quality.\nAt this time, the concentrations look less significant than what\nwe are seeing currently For now, Air Quality Alerts remain in \neffect today; the New York State Department of Environmental \nConservation at https://on.ny.gov/nyaqi and Vermont Agency of \nNatural Resources web site at https://dec.vermont.gov/air- \nquality/local-air-quality-forecasts will have more information.\nAside from any lingering smoke concerns, another extended \nstretch of high pressure and pleasant temperatures are \nanticipated Sunday through Tuesday morning.\n\nKEY MESSAGE 2: Overall, deterministic solutions and their accompanying \nensemble blends support a persistence forecast into the middle and \nlatter portions of next week so I'll continue with this idea. The \nmain weather feature of note will be the approach/passage of a \nfrontal system later Tue/Wed. At this time, the best forcing looks \nto arrive in the overnight hours thus limiting the threat of severe \nweather. However, PWAT values do climb AOA 1.5 inches, so locally \nheavy downpours will be possible with any deeper convective cores. \nBehind the front, surface high pressure and a much drier airmass \narrive for late week (Thu/Fri) with fair/dry wx returning. Model-\naveraged 925 hPa thermal profiles through the period support \npleasantly seasonable mid-summer temperatures with daily highs in \nthe mid 70s to lower 80s and overnight lows in the mid 50s to lower \n60s.\n\n&&\n\n.AVIATION /18Z SATURDAY THROUGH THURSDAY/...\nThrough 18Z Sunday...Mainly VFR this afternoon with scattered\nthunderstorms as a warm front approaches. Some TSRA will\ncontinue to develop through the evening hours, mainly in the\nsouth and west portions of our CWA, as indicated by the PROB30s\nfor RUT and SLK. Other terminals could see some locally heave \ndownpours that bring down visibilities for a short period of \ntime. Outside of the showers, we will see primarily southerly \nwinds with gusts into the mid 20 knots. Showers will clear \nafter 00z.\n\nOutlook...\n\nSunday Night: VFR. NO SIG WX.\nMonday: VFR. NO SIG WX.\nMonday Night: VFR. NO SIG WX.\nTuesday: VFR. Likely SHRA, Chance TSRA.\nTuesday Night: Mainly VFR, with local IFR possible. Definite\nSHRA, Slight chance TSRA.\nWednesday: Mainly MVFR, with areas IFR possible. Likely SHRA,\nChance TSRA.\nWednesday Night: Mainly VFR, with local MVFR possible. Slight\nchance SHRA, Slight chance TSRA.\nThursday: VFR. Slight chance SHRA, Slight chance TSRA.\n\n&&\n\n.MARINE...\nSeasonably strong south-southeast winds have been mixing on Lake\nChamplain during the day today, resulting in observed winds at\nColchester Reef as high as 27 knots sustained early this \nafternoon and likely large waves on both the broad lake and\nnorthern waters in the 2 to 4 foot range. Peak winds will \npersist in a 20-30 knot range on the broad lake through early \nevening before diminishing and then picking up tonight out of \nthe northwest behind a cold front. These winds overnight will \nalso potentially reach 25 knots and produce rough waves with a \nstrong westerly component and deeper mixing will help produce \ngusty conditions. Gradually winds and waves will subside during\nthe Sunday morning timeframe.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...Air Quality Alert until 11 PM EDT this evening for VTZ001>011-\n     016>021.\nNY...Air Quality Alert until midnight EDT tonight for NYZ026>031-\n     034-035-087.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Kutikoff\nDISCUSSION...JMG/Kutikoff\nAVIATION...Langbauer\nMARINE...Kutikoff\n"
+  "raw": "\n000\nFXUS61 KBTV 190033\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n833 PM EDT Sat Jul 18 2026\n\n.WHAT HAS CHANGED...\nAs of 240 PM EDT Saturday...\n\nRisk of strong to severe thunderstorms has decreased for the \nrest of today, with lower thunderstorm chances as well.\n\n&&\n\n.KEY MESSAGES...\nAs of 240 PM EDT Saturday...\n\n1. While the threat of damaging winds in our area has \ndecreased, rounds of showers with a few thunderstorms will continue \ninto this evening. Meanwhile, near surface smoke has returned \nto much of our region but will be replaced by cleaner air and \nlow humidity for Sunday and Monday.\n\n2. Chances of showers and a few thunderstorms return for later \nTuesday into Wednesday, otherwise mainly fair and seasonable weather \nis expected to end the work week.\n\n&&\n\n.DISCUSSION...\nAs of 240 PM EDT Saturday...\n\nKEY MESSAGE 1: \n\nA vigorous shortwave trough diving southeastward over eastern \nOntario alongside a moderately deep low pressure system is \npromoting widespread precipitation and areas of deep convection \nacross the Northeastern US. The system's warm front is having a \nhard time pushing east/northeastward, such that isentropic lift \nhas been generating steady rain with embedded downpours across \nnorthern New York and Vermont. As a result, the possibility of \nour region becoming destabilized via surface heating has greatly\ndiminished today's potential severe weather event. The limited \nthreat area is trending towards the St. Lawrence Valley where \nMLCAPE is progged to surge to near 1000 J/kg by 7 PM amidst \npartial clearing, which could be sufficient for localized \ndamaging wind if there is some storm organization/linear \nconvection in the late afternoon/early evening. This area is the\nmost likely to see any thunderstorm activity as well, although \nsome thunder can't quite be ruled out farther east into the \nAdirondacks and perhaps northern portions of Vermont given \nOtherwise, the rest of the day is shaping up to be merely \nshowery and breezy, with rain-cooled air and thick clouds making\nfor the coolest day we have seen since June. \n\nAs the system's cold front presses eastward through our region \nbetween about 9 PM and 1 AM, winds will shift westerly and trend \nnorthwesterly, ushering in a return to dry air. Relatedly, most of \nthe wildfire smoke that has pushed northward into northern New \nYork and Vermont, especially higher elevations, this afternoon \nwill be steered out of the region. Unfortunately, a different \nplume of smoke from the northwest will likely push into northern\nNew York overnight, which could once again degrade air quality.\nAt this time, the concentrations look less significant than what\nwe are seeing currently For now, Air Quality Alerts remain in \neffect today; the New York State Department of Environmental \nConservation at https://on.ny.gov/nyaqi and Vermont Agency of \nNatural Resources web site at https://dec.vermont.gov/air- \nquality/local-air-quality-forecasts will have more information.\nAside from any lingering smoke concerns, another extended \nstretch of high pressure and pleasant temperatures are \nanticipated Sunday through Tuesday morning.\n\nKEY MESSAGE 2: Overall, deterministic solutions and their accompanying \nensemble blends support a persistence forecast into the middle and \nlatter portions of next week so I'll continue with this idea. The \nmain weather feature of note will be the approach/passage of a \nfrontal system later Tue/Wed. At this time, the best forcing looks \nto arrive in the overnight hours thus limiting the threat of severe \nweather. However, PWAT values do climb AOA 1.5 inches, so locally \nheavy downpours will be possible with any deeper convective cores. \nBehind the front, surface high pressure and a much drier airmass \narrive for late week (Thu/Fri) with fair/dry wx returning. Model-\naveraged 925 hPa thermal profiles through the period support \npleasantly seasonable mid-summer temperatures with daily highs in \nthe mid 70s to lower 80s and overnight lows in the mid 50s to lower \n60s.\n\n&&\n\n.AVIATION /00Z SUNDAY THROUGH THURSDAY/...\nThrough 00Z Monday...Cold front translating from NW-SE across\nnrn NY and VT will bring final round of showers through 03-04Z\nthis evening at most TAF locations. Will see occasional MVFR \nconditions, a combination of the wildfire smoke producing 3-5SM \nvsby and occasional drops in vsby associated with moderate \nrainfall lasting 20-40 minutes or so. An isold thunderstorm \ncan't be ruled out thru 03Z. Surface winds shift NW overnight \nat 10-15kt with some gusts 20-25kt, likely highest at BTV. \nShallow frontal inversion may lead to some trapped smoke 09-13Z \nbefore better daytime mixing on Sunday allows any associated \nvsby restrictions to end. Can't rule out some ceilings 1-2kft\naround sunrise, especially at KSLK. Drying north winds will\nallow these low clouds to dissipate by 12-13Z with VFR for the\nbalance of the TAF period on Sunday. \n\nOutlook...\n\nSunday Night: VFR. NO SIG WX.\nMonday: VFR. NO SIG WX.\nMonday Night: VFR. NO SIG WX.\nTuesday: VFR. Likely SHRA, Chance TSRA.\nTuesday Night: Mainly VFR, with local MVFR possible. Definite\nSHRA, Chance TSRA.\nWednesday: Mainly MVFR, with areas IFR possible. Definite SHRA,\nChance TSRA.\nWednesday Night: Mainly VFR, with areas MVFR possible. Slight\nchance SHRA.\nThursday: VFR. Slight chance SHRA, Slight chance TSRA.\n\n&&\n\n.MARINE...\nSeasonably strong south-southeast winds have been mixing on Lake\nChamplain during the day today, resulting in observed winds at\nColchester Reef as high as 27 knots sustained early this \nafternoon and likely large waves on both the broad lake and\nnorthern waters in the 2 to 4 foot range. Peak winds will \npersist in a 20-30 knot range on the broad lake through early \nevening before diminishing and then picking up tonight out of \nthe northwest behind a cold front. These winds overnight will \nalso potentially reach 25 knots and produce rough waves with a \nstrong westerly component and deeper mixing will help produce \ngusty conditions. Gradually winds and waves will subside during\nthe Sunday morning timeframe.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...Air Quality Alert until 11 PM EDT this evening for VTZ001>011-\n     016>021.\nNY...Air Quality Alert until midnight EDT tonight for NYZ026>031-\n     034-035-087.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Kutikoff\nDISCUSSION...Kutikoff/JMG\nAVIATION...Banacos\nMARINE...\n"
  },
  "lake_forecast": {
   "issued": "2026-07-18T19:13:00+00:00",
@@ -778,17 +785,17 @@
  },
  "lake_gage": {
   "water_temp_f": 72,
-  "water_temp_at": "2026-07-18T19:00:00.000-04:00",
-  "level_ft": 96.0,
-  "level_at": "2026-07-18T19:00:00.000-04:00",
+  "water_temp_at": "2026-07-18T21:00:00.000-04:00",
+  "level_ft": 96.07,
+  "level_at": "2026-07-18T21:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 139,
+  "aqi": 128,
   "category": "Unhealthy for Sensitive Groups",
   "pollutant": "PM2.5",
-  "observed": "07/18/26 19:00",
+  "observed": "07/18/26 20:00",
   "discussion": "On Sunday, July 19th, expect moderate air quality across Vermont as some remnant wildfire smoke remains in the area.  Levels will tend to drop over the course of the day."
  },
  "sun": {
@@ -804,7 +811,7 @@
     "date": "2026-07-18",
     "high_f": {
      "GFS": 72,
-     "Euro": 73,
+     "Euro": 71,
      "ICON": 76
     },
     "pop_max": {
@@ -813,36 +820,36 @@
      "ICON": 85
     },
     "precip_in": {
-     "GFS": 0.03,
-     "Euro": 0.53,
+     "GFS": 0.67,
+     "Euro": 0.44,
      "ICON": 0.31
     },
-    "high_spread_f": 4
+    "high_spread_f": 5
    },
    {
     "date": "2026-07-19",
     "high_f": {
      "GFS": 75,
-     "Euro": 74,
+     "Euro": 73,
      "ICON": 74
     },
     "pop_max": {
-     "GFS": 20,
+     "GFS": 21,
      "Euro": 57,
      "ICON": 13
     },
     "precip_in": {
      "GFS": 0.0,
-     "Euro": 0.17,
+     "Euro": 0.12,
      "ICON": 0.01
     },
-    "high_spread_f": 1
+    "high_spread_f": 2
    },
    {
     "date": "2026-07-20",
     "high_f": {
      "GFS": 80,
-     "Euro": 76,
+     "Euro": 78,
      "ICON": 79
     },
     "pop_max": {
@@ -852,10 +859,10 @@
     },
     "precip_in": {
      "GFS": 0.0,
-     "Euro": 0.0,
+     "Euro": 0.01,
      "ICON": 0.0
     },
-    "high_spread_f": 4
+    "high_spread_f": 2
    }
   ]
  }
