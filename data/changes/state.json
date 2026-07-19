@@ -1,16 +1,6 @@
 {
  "nws-weather": {
-  "alerts": [
-   {
-    "id": "urn:oid:2.49.0.1.840.0.7914ef9a1c7b824e8db474897cd09a06d9629db4.002.1",
-    "event": "Air Quality Alert",
-    "headline": "Air Quality Alert issued July 18 at 8:03PM EDT by NWS Burlington VT",
-    "severity": "Unknown",
-    "onset": "2026-07-18T20:03:00-04:00",
-    "ends": "2026-07-19T00:00:00-04:00",
-    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121"
-   }
-  ],
+  "alerts": [],
   "forecast_flag": {
    "day": "2026-07-18",
    "text": "Tonight: Rain showers likely before 8pm, then a chance of showers and thunderstorms between 8pm and 1am"
@@ -893,18 +883,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -952,6 +942,20 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "EGPF67G2V5GKFIRTKRH72KUF5Q",
+      "title": "South Hero kids triathlon draws record turnout",
+      "link": "https://www.wcax.com/2026/07/19/south-hero-kids-triathlon-draws-record-turnout/",
+      "ts": "2026-07-19T03:54:04+00:00",
+      "summary": "Annual event gives children ages 4–13 a first shot at racing"
+     },
+     {
+      "id": "QJRVV6GCLJDO3EQHBO7HJBQWGY",
+      "title": "64th annual Lamoille County Field Days draws community to Johnson fair",
+      "link": "https://www.wcax.com/2026/07/19/64th-annual-lamoille-county-field-days-draws-community-johnson-fair/",
+      "ts": "2026-07-19T03:48:23+00:00",
+      "summary": "Nonprofit, volunteer-run event features rides, animals, live music and wood cutting competitions"
+     },
      {
       "id": "V5X5V6PISBHMVNTSDY5OPTQWAI",
       "title": "Burlington bars buzzing with watch party energy",
@@ -1010,7 +1014,7 @@
      },
      {
       "id": "G25BMP3HPZEUVFQOG4A476JAEA",
-      "title": "Air quality is currently unhealthy, but will improve quickly through the evening.",
+      "title": "Air quality is currently unhealthy, but will continue to improve this evening.",
       "link": "https://www.wcax.com/2026/07/17/air-quality-alert-saturday-smoke-returns-strong-storms-possible/",
       "ts": "2026-07-17T23:25:54+00:00",
       "summary": "The air quality is currently unhealthy for most of our region, but will improve fairly quickly through the evening as a cold front scours out most of the smoke."
@@ -1287,38 +1291,66 @@
       "link": "https://www.wcax.com/2026/07/16/middlebury-man-held-without-bail-after-allegedly-stabbing-family-member-sparking-standoff/",
       "ts": "2026-07-16T19:22:43+00:00",
       "summary": "A Middlebury man is being held without bail after assaulting a family member and prompting a police standoff Wednesday night."
-     },
-     {
-      "id": "WLS5OJMJJNBQHMIYBHV5GTNJRU",
-      "title": "Do Good Fest raises $200K for youth mental health nonprofits",
-      "link": "https://www.wcax.com/2026/07/16/do-good-fest-raises-200k-youth-mental-health-nonprofits/",
-      "ts": "2026-07-16T18:57:35+00:00",
-      "summary": "Last weekend’s Do Good Fest charity concert raised $200,000 to support youth mental health."
-     },
-     {
-      "id": "4ONWFMB3BRB4RICMC2IAKFORDE",
-      "title": "Crews still cleaning up microburst damage in Shrewsbury",
-      "link": "https://www.wcax.com/2026/07/16/crews-still-cleaning-up-microburst-damage-shrewsbury/",
-      "ts": "2026-07-16T18:41:48+00:00",
-      "summary": "Crews are continuing to clean up debris and downed trees after severe wind struck southern Vermont Tuesday night."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "73175211",
+      "title": "US military launches new airstrikes to 'swiftly punish' Iran for deaths of US troops",
+      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
+      "ts": "2026-07-19T03:57:00+00:00",
+      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
+     },
+     {
+      "id": "73178076",
+      "title": "3 Florida firefighters terminated, 2 suspended after report details rookie hazing",
+      "link": "https://www.mynbc5.com/article/firefighters-terminated-suspended-rookie-hazing/73178076",
+      "ts": "2026-07-19T03:38:00+00:00",
+      "summary": "Three Florida firefighters were terminated and two others suspended after an independent investigation determined senior firefighters were involved in hazing."
+     },
+     {
+      "id": "73177990",
+      "title": "Lab results connect DNA of woman fatally attacked to 13-foot alligator",
+      "link": "https://www.mynbc5.com/article/woman-fatally-attacked-13-foot-alligator/73177990",
+      "ts": "2026-07-19T02:34:00+00:00",
+      "summary": "Brittany Clark, 31, was in 3 feet of water when the gator bit her. She had been hiking with her boyfriend and friends when they stopped to swim with their dogs."
+     },
+     {
       "id": "73177596",
       "title": "Social media influencers Andrew and Tristan Tate arrested in Miami",
       "link": "https://www.mynbc5.com/article/andrew-tristian-tate-arrested-in-miami/73177596",
-      "ts": "2026-07-19T00:04:00+00:00",
+      "ts": "2026-07-19T01:42:00+00:00",
       "summary": "Influencer brothers Andrew and Tristan Tate have been arrested by federal authorities Saturday in Miami"
      },
      {
       "id": "73177624",
       "title": "England beats Mbappé and France in wild World Cup third-place game",
       "link": "https://www.mynbc5.com/article/england-mbappe-france-world-cup-third-place/73177624",
-      "ts": "2026-07-18T23:44:00+00:00",
+      "ts": "2026-07-19T01:38:00+00:00",
       "summary": "Bukayo Saka scored three goals to lead England to a win over France for third place in the World Cup"
+     },
+     {
+      "id": "73177911",
+      "title": "Racing legacy: Dale Earnhardt's grandson races sprint car",
+      "link": "https://www.mynbc5.com/article/dale-earnhardt-grandson-races/73177911",
+      "ts": "2026-07-19T01:36:00+00:00",
+      "summary": "Wyatt Miller is in his first full season racing sprint cars. He is the nephew of Dale Earnhardt Jr. and the grandson of Dale Earnhardt."
+     },
+     {
+      "id": "73177802",
+      "title": "Vermont Clover FC men's soccer punches ticket into UPSL New England Cup Championship",
+      "link": "https://www.mynbc5.com/article/vermont-clover-fc-mens-soccer-punches-ticket-into-upsl-new-england-cup-championship/73177802",
+      "ts": "2026-07-19T00:55:00+00:00",
+      "summary": "Clover win via penalty kicks in back-and-forth battle against the Hartford Athletic"
+     },
+     {
+      "id": "73177613",
+      "title": "Plattsburgh's Brina Micheels reflects on joining second team in young professional career",
+      "link": "https://www.mynbc5.com/article/plattsburghs-brina-micheels-reflects-on-joining-second-team-in-young-professional-career/73177613",
+      "ts": "2026-07-19T00:55:00+00:00",
+      "summary": "Micheels signed her second pro contract to compete with Puebla Fam in June, a club based in Mexico"
      },
      {
       "id": "73177523",
@@ -1333,13 +1365,6 @@
       "link": "https://www.mynbc5.com/article/burlington-revolution-basketball-makes-move-to-aba-holds-basketball-tryouts-for-open-spots/73176912",
       "ts": "2026-07-18T23:20:00+00:00",
       "summary": "The organization says they are trying to build a culture that impacts the community"
-     },
-     {
-      "id": "73175211",
-      "title": "US military launches new airstrikes to punish Iran for deaths of US troops",
-      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
-      "ts": "2026-07-18T22:35:00+00:00",
-      "summary": "The U.S. and Iran exchanged strikes aimed at infrastructure and military targets Saturday as their battle over the Strait of Hormuz intensified."
      },
      {
       "id": "73176757",
@@ -1410,41 +1435,6 @@
       "link": "https://www.mynbc5.com/article/trump-threatens-tariffs-canada-wildfire-smoke/73175566",
       "ts": "2026-07-18T12:57:00+00:00",
       "summary": "One Canadian leader said American lawmakers should send help, rather than complain."
-     },
-     {
-      "id": "73175612",
-      "title": "Turning more humid and smoky, with showers and storms Saturday",
-      "link": "https://www.mynbc5.com/article/turning-more-humid-and-smoky-with-showers-and-storms-saturday-07-18-26/73175612",
-      "ts": "2026-07-18T11:59:00+00:00",
-      "summary": "Afternoon severe storms possible, especially south and west; beautiful Sunday into Monday"
-     },
-     {
-      "id": "73175528",
-      "title": "US cancels automatic protections for imperiled animals; Critics warn of extinctions",
-      "link": "https://www.mynbc5.com/article/us-cancels-automatic-protections-imperiled-animals-extinctions/73175528",
-      "ts": "2026-07-18T11:38:00+00:00",
-      "summary": "The U.S. canceled a rule meant to protect plants and animals that are determined to be threatened with extinction."
-     },
-     {
-      "id": "73175276",
-      "title": "Trump cites national security to stop offshore wind projects. Here's what to know",
-      "link": "https://www.mynbc5.com/article/trump-cites-national-security-stop-offshore-wind-development/73175276",
-      "ts": "2026-07-18T10:27:00+00:00",
-      "summary": "The Trump administration has halted work on offshore wind projects, citing national security concerns."
-     },
-     {
-      "id": "73173316",
-      "title": "Burlington celebrates completion of Main Street project with downtown block party",
-      "link": "https://www.mynbc5.com/article/burlington-celebrates-completion-of-main-street-project-with-downtown-block-party/73173316",
-      "ts": "2026-07-18T09:10:00+00:00",
-      "summary": "The festivities are happening until 7:30 Friday night and pick up again Saturday from 11 a.m. to 7:30 p.m."
-     },
-     {
-      "id": "72965362",
-      "title": "Outrage after ICE agents tackle man at Las Vegas airport",
-      "link": "https://www.mynbc5.com/article/ice-agents-tackle-man-las-vegas-airport/72965362",
-      "ts": "2026-07-18T03:19:00+00:00",
-      "summary": "Video footage of ICE agents tackling a man at Las Vegas Airport has sparked public outrage and criticism from officials"
      }
     ]
    },
