@@ -641,6 +641,20 @@
    "vtdigger": {
     "items": [
      {
+      "id": "https://vtdigger.org/?p=651554",
+      "title": "‘If we don’t write it down, it disappears’: Independent historian gathers Vermont veterans’ stories before they are lost to history",
+      "link": "https://vtdigger.org/2026/07/19/if-we-dont-write-it-down-it-disappears-independent-historian-gathers-vermont-veterans-stories-before-they-are-lost-to-history/",
+      "ts": "2026-07-19T12:51:00+00:00",
+      "summary": "What he’s trying to save isn’t just military history. It’s a way of understanding the past through another's lived experience. Read the story on VTDigger here: If we don’t write it down, it disappears’: Independent historian gathers Vermont veterans’ stories before they are lost to history ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651524",
+      "title": "Vermont’s new education law pays districts to merge. It doesn’t make them save.",
+      "link": "https://vtdigger.org/2026/07/19/opinion-vermonts-new-education-law-pays-districts-to-merge-it-doesnt-make-them-save/",
+      "ts": "2026-07-19T12:18:00+00:00",
+      "summary": "Act 170 sets deadlines and creates regional service areas but leaves out efficiency targets, oversight and any requirement that savings actually materialize before construction aid flows. Read the story on VTDigger here: Vermont’s new education law pays districts to merge. It doesn’t make them save. ."
+     },
+     {
       "id": "https://vtdigger.org/?p=651478",
       "title": "At Vermont’s Estey Organ Museum, many donations total $10. Then came one so big, it paid off the mortgage.",
       "link": "https://vtdigger.org/2026/07/19/at-vermonts-estey-organ-museum-many-donations-total-10-then-came-one-so-big-it-paid-off-the-mortgage/",
@@ -835,20 +849,6 @@
       "link": "https://vtdigger.org/2026/07/13/teen-killer-of-dartmouth-professors-in-2001-resentenced-eligible-for-parole-in-20-years/",
       "ts": "2026-07-13T22:28:29+00:00",
       "summary": "Robert Tulloch had previously received a sentence of life without parole. Read the story on VTDigger here: Teen killer of Dartmouth professors in 2001 resentenced, eligible for parole in 20 years ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651259",
-      "title": "Alexander Read Cronin",
-      "link": "https://vtdigger.org/2026/07/13/obituary-alexander-read-cronin/",
-      "ts": "2026-07-13T22:09:19+00:00",
-      "summary": "Read was warm, funny and deeply feeling — a devoted father, son, brother, uncle and friend and deeply loved by those fortunate enough to know him. Read the story on VTDigger here: Alexander Read Cronin ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651243",
-      "title": "Robin Jones",
-      "link": "https://vtdigger.org/2026/07/13/obituary-robin-jones/",
-      "ts": "2026-07-13T21:50:10+00:00",
-      "summary": "She was a fantastic mother and just a really good human being. She was truly a free spirit. Read the story on VTDigger here: Robin Jones ."
      }
     ]
    },
@@ -890,18 +890,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -942,6 +942,20 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "YGTIEGVZSJEADMUUC6OOSIO5OA",
+      "title": "Police searching for mail thief after bag full of mail found in Vernon",
+      "link": "https://www.wcax.com/2026/07/19/police-searching-mail-thief-after-bag-full-mail-found-vernon/",
+      "ts": "2026-07-19T13:46:33+00:00",
+      "summary": "Vermont State Police investigators are searching for the person or persons responsible for stealing mail in Vernon."
+     },
+     {
+      "id": "HU4YX7WFKBAZXJ6EBLUKUKU77E",
+      "title": "What to Do: Sunday, July 19",
+      "link": "https://www.wcax.com/2026/07/19/what-do-sunday-july-19/",
+      "ts": "2026-07-19T12:20:31+00:00",
+      "summary": "It’s a beautiful summer day, here’s some ideas on what you can do today."
+     },
      {
       "id": "EGPF67G2V5GKFIRTKRH72KUF5Q",
       "title": "South Hero kids triathlon draws record turnout",
@@ -1277,25 +1291,25 @@
       "link": "https://www.wcax.com/2026/07/16/rutlands-parker-house-sold-new-owners-44-million/",
       "ts": "2026-07-16T20:21:38+00:00",
       "summary": "The Parker House, a Section 8 apartment building for the elderly in downtown Rutland, has changed hands after more than four decades under the same ownership."
-     },
-     {
-      "id": "6ZXMGCAAS5BRRL4VYOMQ2KZK4M",
-      "title": "Ben & Jerry’s launches new flavor to mobilize voters ahead of November midterms",
-      "link": "https://www.wcax.com/2026/07/16/ben-jerrys-launches-new-flavor-mobilize-voters-ahead-november-midterms/",
-      "ts": "2026-07-16T20:01:52+00:00",
-      "summary": "The Vermont ice brand has introduced a new flavor called Razz Up aimed at mobilizing voters to “stand against authoritarianism.”"
-     },
-     {
-      "id": "PHFOZC56ORB35AAMLUV4G45VH4",
-      "title": "Middlebury man held without bail after allegedly stabbing family member, sparking standoff",
-      "link": "https://www.wcax.com/2026/07/16/middlebury-man-held-without-bail-after-allegedly-stabbing-family-member-sparking-standoff/",
-      "ts": "2026-07-16T19:22:43+00:00",
-      "summary": "A Middlebury man is being held without bail after assaulting a family member and prompting a police standoff Wednesday night."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73178777",
+      "title": "US launches strikes to 'swiftly punish' Iran for American troop deaths",
+      "link": "https://www.mynbc5.com/article/us-strikes-to-punish-iran-american-troop-deaths/73178777",
+      "ts": "2026-07-19T13:00:00+00:00",
+      "summary": "Two U.S. service members in Jordan were killed in action as U.S. Central Command and partner forces defended against Iranian ballistic missile and drone attacks, according to the Pentagon."
+     },
+     {
+      "id": "73178633",
+      "title": "If history is any indication, expect some goals in the World Cup final between Argentina and Spain",
+      "link": "https://www.mynbc5.com/article/world-cup-argentina-spain-final-look-ahead/73178633",
+      "ts": "2026-07-19T12:49:00+00:00",
+      "summary": "History suggests we can expect goals in the World Cup final between Argentina and Spain. Here's how many are scored in the final on average."
+     },
      {
       "id": "73178945",
       "title": "Bright and breezy Sunday, with less humidity and smoke",
@@ -1421,20 +1435,6 @@
       "link": "https://www.mynbc5.com/article/iceberg-lettuce-recalled-in-27-states-due-to-potential-cyclospora-contamination-health-consumer-news/73176621",
       "ts": "2026-07-18T19:23:00+00:00",
       "summary": "Produce supplier Taylor Farms is recalling iceberg lettuce shipped to 27 U.S. states because of potential contamination with Cyclospora, the parasite causing thousands of cases of diarrhea across the country."
-     },
-     {
-      "id": "73176388",
-      "title": "Cut the number of choices you make each day. Your brain will thank you",
-      "link": "https://www.mynbc5.com/article/cut-the-number-of-choices-you-make-each-day-your-brain-will-thank-you-health-relaxation/73176388",
-      "ts": "2026-07-18T18:40:00+00:00",
-      "summary": "The more choices you have, the better, right? Actually, behavioral scientists say too many options can make people anxious, indecisive and less happy with what they pick."
-     },
-     {
-      "id": "73176309",
-      "title": "Lost dog found in Port Orange reunited with family after 7 years",
-      "link": "https://www.mynbc5.com/article/port-orange-lost-dog-reunited-after-7-years/73176309",
-      "ts": "2026-07-18T17:04:00+00:00",
-      "summary": "\"We drove around every day for about a week looking for her,\" the family said. \"As time went along, we just kind of gave up hope.\" What they didn't know was that Copper was still alive, hundreds of miles away."
      }
     ]
    },
