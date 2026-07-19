@@ -10,18 +10,18 @@
   "beaches": {
    "Blanchard Beach North": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-17T19:09:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-19T16:28:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-17T19:10:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-19T16:28:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-17T19:03:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-19T16:22:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
@@ -35,13 +35,13 @@
    },
    "North Beach North": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-17T18:46:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-19T15:39:00+00:00"
    },
    "North Beach South": {
     "status": "open",
-    "reason": "Crystal clear",
-    "resultTime": "2026-07-17T18:01:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-19T15:39:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -50,13 +50,13 @@
    },
    "Oakledge Cove": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-17T19:13:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-19T16:39:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
-    "reason": "Clear and wavy",
-    "resultTime": "2026-07-17T18:03:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-19T15:39:00+00:00"
    }
   }
  },
@@ -943,6 +943,13 @@
    "wcax": {
     "items": [
      {
+      "id": "A4LC3MKGXNDZPP653NCN7QHOAQ",
+      "title": "Man arrested for allegedly threatening firefighter with knife after they intervened in violent assault",
+      "link": "https://www.wcax.com/2026/07/19/man-arrested-allegedly-threatening-firefighter-with-knife-after-they-intervened-violent-assault/",
+      "ts": "2026-07-19T15:53:58+00:00",
+      "summary": "Police say a man violently assaulted a woman in front of young children, then turned on the firefighter who intervened."
+     },
+     {
       "id": "YGTIEGVZSJEADMUUC6OOSIO5OA",
       "title": "Police searching for mail thief after bag full of mail found in Vernon",
       "link": "https://www.wcax.com/2026/07/19/police-searching-mail-thief-after-bag-full-mail-found-vernon/",
@@ -1284,18 +1291,18 @@
       "link": "https://www.wcax.com/2026/07/16/crews-clean-graffiti-off-rocks-along-newly-opened-champlain-parkway/",
       "ts": "2026-07-16T20:32:58+00:00",
       "summary": "Crews closed the shoulder of the parkway Thursday morning to spray down a rocky ledge on the inbound side, cleaning off graffiti on the rocks."
-     },
-     {
-      "id": "FB7MAKNI6JBLBGLDJEMYIZWDK4",
-      "title": "Rutland’s Parker House sold to new owners for $4.4 million",
-      "link": "https://www.wcax.com/2026/07/16/rutlands-parker-house-sold-new-owners-44-million/",
-      "ts": "2026-07-16T20:21:38+00:00",
-      "summary": "The Parker House, a Section 8 apartment building for the elderly in downtown Rutland, has changed hands after more than four decades under the same ownership."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73179645",
+      "title": "Panasonic toaster ovens sold on Amazon, Costco recalled nationwide",
+      "link": "https://www.mynbc5.com/article/panasonic-electric-toaster-oven-recall-amazon-costco/73179645",
+      "ts": "2026-07-19T17:04:00+00:00",
+      "summary": "If you bought a Panasonic electric toaster oven online for about $170, check the model number — 11,480 are being recalled for a shock or fire risk."
+     },
      {
       "id": "73179115",
       "title": "AIPAC has spent a record amount on Michigan's Senate primary",
@@ -1428,13 +1435,6 @@
       "link": "https://www.mynbc5.com/article/burlington-revolution-basketball-makes-move-to-aba-holds-basketball-tryouts-for-open-spots/73176912",
       "ts": "2026-07-18T23:20:00+00:00",
       "summary": "The organization says they are trying to build a culture that impacts the community"
-     },
-     {
-      "id": "73176757",
-      "title": "Antique Boat Enthusiasts Gather in Burlington for Annual Lake Champlain Show",
-      "link": "https://www.mynbc5.com/article/antique-boat-show-returns/73176757",
-      "ts": "2026-07-18T22:27:00+00:00",
-      "summary": "Despite rainy weather in Burlington, boaters and visitors still gathered along the waterfront Saturday for the 39th Annual Lake Champlain Antique and Classic Boat Show."
      }
     ]
    },
