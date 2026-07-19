@@ -883,18 +883,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -1297,6 +1297,20 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73176376",
+      "title": "The World Cup final awaits, with Argentina set to face Spain",
+      "link": "https://www.mynbc5.com/article/world-cup-final-argentina-spain/73176376",
+      "ts": "2026-07-19T04:43:00+00:00",
+      "summary": "It's a chance to write the perfect ending at the 2026 World Cup"
+     },
+     {
+      "id": "73178014",
+      "title": "Vermont Green FC Women's Soccer loses in USL2 Championship Match",
+      "link": "https://www.mynbc5.com/article/vermont-green-fc-womens-soccer-loses-in-usl2-championship-match/73178014",
+      "ts": "2026-07-19T04:14:00+00:00",
+      "summary": "Green force overtime late, but fall in penalty shootout against Salmon Bay FC"
+     },
+     {
       "id": "73175211",
       "title": "US military launches new airstrikes to 'swiftly punish' Iran for deaths of US troops",
       "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
@@ -1339,18 +1353,18 @@
       "summary": "Wyatt Miller is in his first full season racing sprint cars. He is the nephew of Dale Earnhardt Jr. and the grandson of Dale Earnhardt."
      },
      {
-      "id": "73177802",
-      "title": "Vermont Clover FC men's soccer punches ticket into UPSL New England Cup Championship",
-      "link": "https://www.mynbc5.com/article/vermont-clover-fc-mens-soccer-punches-ticket-into-upsl-new-england-cup-championship/73177802",
-      "ts": "2026-07-19T00:55:00+00:00",
-      "summary": "Clover win via penalty kicks in back-and-forth battle against the Hartford Athletic"
-     },
-     {
       "id": "73177613",
       "title": "Plattsburgh's Brina Micheels reflects on joining second team in young professional career",
       "link": "https://www.mynbc5.com/article/plattsburghs-brina-micheels-reflects-on-joining-second-team-in-young-professional-career/73177613",
       "ts": "2026-07-19T00:55:00+00:00",
       "summary": "Micheels signed her second pro contract to compete with Puebla Fam in June, a club based in Mexico"
+     },
+     {
+      "id": "73177802",
+      "title": "Vermont Clover FC men's soccer punches ticket into UPSL New England Cup Championship",
+      "link": "https://www.mynbc5.com/article/vermont-clover-fc-mens-soccer-punches-ticket-into-upsl-new-england-cup-championship/73177802",
+      "ts": "2026-07-19T00:55:00+00:00",
+      "summary": "Clover win via penalty kicks in back-and-forth battle against the Hartford Athletic"
      },
      {
       "id": "73177523",
@@ -1421,20 +1435,6 @@
       "link": "https://www.mynbc5.com/article/venezuela-earthquake-death-toll-surpasses-5000/73175903",
       "ts": "2026-07-18T14:43:00+00:00",
       "summary": "The death toll from the two quakes that shook Venezuela last month rose to 5,069 late Friday, local authorities said."
-     },
-     {
-      "id": "73174797",
-      "title": "Vermont Green FC Men's Soccer cruises to USL2 Playoff Victory",
-      "link": "https://www.mynbc5.com/article/vermont-green-fc-mens-soccer-cruises-to-usl2-playoff-victory/73174797",
-      "ts": "2026-07-18T14:17:00+00:00",
-      "summary": "Green score three first half goals to blank Ironbound SC 4-0 in Round of 16 match"
-     },
-     {
-      "id": "73175566",
-      "title": "Trump threatens tariffs on Canada as US is 'unnecessarily invaded' by wildfire smoke",
-      "link": "https://www.mynbc5.com/article/trump-threatens-tariffs-canada-wildfire-smoke/73175566",
-      "ts": "2026-07-18T12:57:00+00:00",
-      "summary": "One Canadian leader said American lawmakers should send help, rather than complain."
      }
     ]
    },
