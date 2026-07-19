@@ -49,8 +49,8 @@
       </div>
       <nav class="mode-nav" aria-label="Community pages">
         <a class="mode-btn" href="things-to-do.html">Things To Do</a>
+        <a class="mode-btn" href="chatter.html">Burlington Pulse</a>
         <a class="mode-btn" href="volunteer.html">Volunteer</a>
-        <a class="mode-btn" href="projects.html">Projects</a>
         <a class="mode-btn" href="playlist.html">Playlist</a>
       </nav>
     </div>
@@ -70,19 +70,40 @@
     <div class="page-hero">
       <span class="page-hero-kicker">Best of r/burlington</span>
       <h1>What the subreddit actually recommends</h1>
-      <p class="page-hero-sub">Burlington's subreddit has voted on its favorites twice — 2023 and 2025 — and keeps re-litigating them daily. This page merges those lists with the questions everyone asks and the good news from r/GoodBurlington.</p>
+      <p class="page-hero-sub">Burlington's subreddit has voted on its favorites twice — 2023 and 2025 — and keeps re-litigating them daily. This page merges both lists into one categorized directory of 310 recurring "best X" questions, each linking straight to its Reddit thread. The crowd's actual answer lives in that thread's comments, one click away — this page doesn't try to pick a winner for you.</p>
     </div>
 
     <div class="note-card">
-      <strong>Being assembled.</strong> What you see below is the page's skeleton with
-      sample placeholders — the real merged 2023 + 2025 lists and the ongoing
-      collection land here once the research brief and dataset arrive. Reddit
-      content flows in via Inoreader streams, never direct scraping.
+      <strong>How to read this.</strong> Each question links out to the Reddit thread(s) where it's been asked — 2025's list, 2023's, or both. Entries only carried over from 2023 (not reconfirmed in 2025) are tucked into a "From the 2023 edition" expander inside each category, since they're more likely to be stale. Reddit content flows in via Inoreader streams here too, never direct scraping.
     </div>
 
-        <div id="bor-list">
+    <div class="bor-toolbar">
+      <div class="search-wrap">
+        <svg class="search-icon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="search" id="bor-search" class="search-input" placeholder="Search “best…” questions" autocomplete="off" spellcheck="false">
+        <button class="search-clear" id="bor-search-clear" aria-label="Clear search" hidden>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
+      </div>
+      <button class="bor-toggle-all-btn" id="bor-toggle-all" type="button">Expand all</button>
+    </div>
+
+    <p class="bor-result-count" id="bor-result-count" aria-live="polite"></p>
+    <div class="bor-jump-row" id="bor-jump-row"></div>
+
+    <div id="bor-list">
       <p class="page-empty">Loading…</p>
     </div>
+
+    <h2 class="section-label" id="bor-goodburlington-label">Recently on r/GoodBurlington</h2>
+    <div class="community-block" id="bor-goodburlington-block" hidden>
+      <div class="reddit-list" id="bor-goodburlington-list"></div>
+    </div>
+    <p class="community-empty-note" id="bor-goodburlington-empty">Nothing fresh from r/GoodBurlington right now — check back soon.</p>
 
     <div class="note-card">
       <strong>Think something belongs here?</strong>
