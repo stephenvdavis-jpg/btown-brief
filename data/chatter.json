@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T11:38:25+00:00",
+  "updated": "2026-07-19T15:33:34+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -31,30 +31,6 @@
           "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
           "sub": "r/burlington",
           "when": "2026-07-16T20:02:13+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
-      "id": "ben-jerry-stop",
-      "label": "Boycott Ben & Jerry's!",
-      "direction": "rising",
-      "posts": 2,
-      "comments": null,
-      "last_activity": "2026-07-17T14:04:02+00:00",
-      "sources": [
-        {
-          "title": "Boycott Ben & Jerry's!",
-          "url": "https://www.reddit.com/r/burlington/comments/1uz0bxv/boycott_ben_jerrys/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T14:04:02+00:00",
-          "comments": null
-        },
-        {
-          "title": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
-          "url": "https://www.reddit.com/r/burlington/comments/1uymbcb/ben_jerrys_foundation_plans_to_shut_down_by_end/",
-          "sub": "r/burlington",
-          "when": "2026-07-17T02:04:15+00:00",
           "comments": null
         }
       ]
@@ -160,6 +136,23 @@
           "comments": null
         }
       ]
+    },
+    {
+      "id": "snake-because-clue",
+      "label": "Found escaped pet snake",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-18T19:03:59+00:00",
+      "sources": [
+        {
+          "title": "Found escaped pet snake",
+          "url": "https://www.reddit.com/r/vermont/comments/1uztxrr/found_escaped_pet_snake/",
+          "sub": "r/vermont",
+          "when": "2026-07-18T19:03:59+00:00",
+          "comments": null
+        }
+      ]
     }
   ],
   "highlights": [
@@ -240,10 +233,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 92,
+    "posts_scanned": 87,
     "per_source": {
-      "r/burlington": 44,
-      "r/vermont": 48
+      "r/burlington": 40,
+      "r/vermont": 47
     }
   }
 }
