@@ -1,27 +1,27 @@
 {
- "updated": "2026-07-19T11:43:42+00:00",
+ "updated": "2026-07-19T12:40:13+00:00",
  "sections_updated": {
-  "now": "2026-07-19T11:43:42+00:00",
-  "forecast": "2026-07-19T11:43:42+00:00",
-  "hourly": "2026-07-19T11:43:42+00:00",
-  "alerts": "2026-07-19T11:43:42+00:00",
-  "afd": "2026-07-19T11:43:42+00:00",
-  "lake_forecast": "2026-07-19T11:43:42+00:00",
-  "lake_gage": "2026-07-19T11:43:42+00:00",
-  "air": "2026-07-19T11:43:42+00:00",
-  "sun": "2026-07-19T11:43:42+00:00",
-  "models": "2026-07-19T11:43:42+00:00"
+  "now": "2026-07-19T12:40:13+00:00",
+  "forecast": "2026-07-19T12:40:13+00:00",
+  "hourly": "2026-07-19T12:40:13+00:00",
+  "alerts": "2026-07-19T12:40:13+00:00",
+  "afd": "2026-07-19T12:40:13+00:00",
+  "lake_forecast": "2026-07-19T12:40:13+00:00",
+  "lake_gage": "2026-07-19T12:40:13+00:00",
+  "air": "2026-07-19T12:40:13+00:00",
+  "sun": "2026-07-19T12:40:13+00:00",
+  "models": "2026-07-19T12:40:13+00:00"
  },
  "now": {
-  "observed_at": "2026-07-19T11:25:00+00:00",
+  "observed_at": "2026-07-19T12:25:00+00:00",
   "station": "KBTV",
-  "description": "Mostly Clear",
-  "temp_f": 63,
-  "feels_like_f": 63,
-  "humidity": 68,
+  "description": "Cloudy",
+  "temp_f": 64,
+  "feels_like_f": 64,
+  "humidity": 64,
   "dewpoint_f": 52,
   "wind_mph": null,
-  "wind_gust_mph": null,
+  "wind_gust_mph": 25,
   "wind_dir": null
  },
  "forecast": {
@@ -86,28 +86,6 @@
  "hourly": {
   "updated": "2026-07-19T06:18:36+00:00",
   "hours": [
-   {
-    "t": "2026-07-19T06:00:00-04:00",
-    "temp_f": 60,
-    "feels_f": 60,
-    "pop": 0,
-    "humidity": 87,
-    "wind_mph": 14,
-    "wind_dir": "NW",
-    "sky": 44,
-    "short": "Patchy Smoke"
-   },
-   {
-    "t": "2026-07-19T07:00:00-04:00",
-    "temp_f": 61,
-    "feels_f": 61,
-    "pop": 0,
-    "humidity": 84,
-    "wind_mph": 14,
-    "wind_dir": "NW",
-    "sky": 39,
-    "short": "Patchy Smoke"
-   },
    {
     "t": "2026-07-19T08:00:00-04:00",
     "temp_f": 62,
@@ -481,6 +459,28 @@
     "wind_dir": "S",
     "sky": 60,
     "short": "Partly Sunny"
+   },
+   {
+    "t": "2026-07-20T18:00:00-04:00",
+    "temp_f": 82,
+    "feels_f": 81,
+    "pop": 0,
+    "humidity": 40,
+    "wind_mph": 5,
+    "wind_dir": "S",
+    "sky": 38,
+    "short": "Partly Cloudy"
+   },
+   {
+    "t": "2026-07-20T19:00:00-04:00",
+    "temp_f": 80,
+    "feels_f": 80,
+    "pop": 0,
+    "humidity": 44,
+    "wind_mph": 3,
+    "wind_dir": "S",
+    "sky": 40,
+    "short": "Partly Cloudy"
    }
   ]
  },
@@ -758,18 +758,18 @@
   }
  },
  "lake_gage": {
-  "water_temp_f": 71,
-  "water_temp_at": "2026-07-19T07:00:00.000-04:00",
-  "level_ft": 96.04,
-  "level_at": "2026-07-19T07:00:00.000-04:00",
+  "water_temp_f": 70,
+  "water_temp_at": "2026-07-19T08:00:00.000-04:00",
+  "level_ft": 96.02,
+  "level_at": "2026-07-19T08:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 56,
+  "aqi": 57,
   "category": "Moderate",
   "pollutant": "PM2.5",
-  "observed": "07/19/26 7:00",
+  "observed": "07/19/26 8:00",
   "discussion": "On Sunday, July 19th, expect moderate air quality across Vermont as some remnant wildfire smoke remains in the area.  Levels will tend to drop over the course of the day."
  },
  "sun": {
