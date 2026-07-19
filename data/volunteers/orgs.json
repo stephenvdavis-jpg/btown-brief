@@ -1,0 +1,177 @@
+{
+  "_comment": "Evergreen 'organizations that welcome volunteers' directory. Sourced from /Users/stephendavis/Desktop/newsletter/reference/research/06-volunteer-starter-data.json (19 Chittenden County orgs, each individually verified live 2026-07-17). blurb text is original wording written for this dataset, not copied from any org's site. tags use the same quick/outdoor/onetime/recurring/friends vocabulary as data/volunteers/fresh.json, but are left empty unless the org's own blurb explicitly says so (e.g. 'ongoing', 'nightly', 'group volunteer days') — never guessed from category or vibes. To add an org: copy any entry, append, done.",
+  "review_cadence": "Monthly spot-check: confirm each url still resolves and the org is still recruiting volunteers (the way this dataset caught Shelburne Farms no longer accepting volunteers during the original research pass). Not a freshness field on individual records — update last_checked when an entry is actually reverified.",
+  "organizations": [
+    {
+      "org": "Intervale Center",
+      "url": "https://www.intervale.org/volunteer",
+      "categories": ["Environment & Farming", "Food Security"],
+      "town": "Burlington, VT",
+      "blurb": "Hands-on farm and land-stewardship volunteering at Burlington's working agricultural hub.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Feeding Champlain Valley (formerly Feeding Chittenden)",
+      "url": "https://www.feedingchamplainvalley.org/volunteer/",
+      "categories": ["Food Security"],
+      "town": "Burlington, VT",
+      "blurb": "Sorting, packing, and distributing food to fight hunger across Chittenden and neighboring counties.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "COTS (Committee on Temporary Shelter)",
+      "url": "https://cotsonline.org/volunteer",
+      "categories": ["Housing & Homelessness"],
+      "town": "Burlington, VT",
+      "blurb": "Shelter-based volunteer roles supporting Burlington's main emergency housing and family shelter provider.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Humane Society of Chittenden County",
+      "url": "https://www.hsccvt.org/Volunteer",
+      "categories": ["Animals"],
+      "town": "South Burlington, VT",
+      "blurb": "Ongoing volunteer roles caring for shelter animals, with a minimum 6-month commitment requested.",
+      "tags": ["recurring"],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "ANEW Place",
+      "url": "https://www.anewplacevt.org/",
+      "categories": ["Housing & Homelessness", "Food Security"],
+      "town": "Burlington, VT",
+      "blurb": "Nightly meal volunteers and project help for adults experiencing homelessness in Burlington.",
+      "tags": ["recurring"],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Steps to End Domestic Violence",
+      "url": "https://www.stepsvt.org/volunteer",
+      "categories": ["Domestic Violence & Safety"],
+      "town": "Burlington, VT",
+      "blurb": "Trained hotline and advocacy volunteers supporting survivors of domestic violence in Chittenden County.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "King Street Center",
+      "url": "https://www.kingstreetcenter.org/volunteer",
+      "categories": ["Youth & Education"],
+      "town": "Burlington, VT",
+      "blurb": "Youth mentoring, tutoring, and group volunteer days at a South End Burlington youth and family center.",
+      "tags": ["friends"],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Local Motion",
+      "url": "https://www.localmotion.org/volunteer",
+      "categories": ["Transportation & Active Living", "Environment & Farming"],
+      "town": "Burlington, VT",
+      "blurb": "Volunteer support for Vermont's statewide biking, walking, and safe-streets advocacy nonprofit.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Birds of Vermont Museum",
+      "url": "https://birdsofvermont.org/connect/volunteer/",
+      "categories": ["Environment & Farming", "Arts & Culture"],
+      "town": "Huntington, VT",
+      "blurb": "Trail maintenance, visitor help, and wood-carving support at a small natural-history museum in Huntington.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Age Well",
+      "url": "https://www.agewellvt.org/services/food-meal-delivery/meals-on-wheels-volunteers/",
+      "categories": ["Seniors", "Food Security"],
+      "town": "Essex Junction, VT",
+      "blurb": "Meals on Wheels delivery drivers bringing food to older Vermonters around greater Burlington.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Boys & Girls Club of Burlington",
+      "url": "https://www.bandgclub.org/get-involved",
+      "categories": ["Youth & Education"],
+      "town": "Burlington, VT",
+      "blurb": "Mentoring and program support helping shape young lives at Burlington's Boys & Girls Club.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Spectrum Youth & Family Services",
+      "url": "https://www.spectrumvt.org/volunteer/",
+      "categories": ["Youth & Education", "Housing & Homelessness"],
+      "town": "Burlington, VT",
+      "blurb": "Volunteer support for shelter, meals, counseling, and mentoring programs serving youth ages 12-30.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Rebuilding Together Greater Burlington",
+      "url": "https://www.rebuildingtogetherburlington.org/",
+      "categories": ["Housing & Homelessness", "Skilled Trades"],
+      "town": "Burlington, VT",
+      "blurb": "Volunteer home-repair teams (including skilled-trade roles) revitalizing homes for low-income Chittenden County residents.",
+      "tags": ["friends"],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Community Sailing Center",
+      "url": "https://communitysailingcenter.org/volunteer/",
+      "categories": ["Recreation & Outdoors", "Youth & Education"],
+      "town": "Burlington, VT",
+      "blurb": "Facility, event, and program volunteers at Burlington's waterfront sailing and lake-access nonprofit.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Green Mountain Habitat for Humanity",
+      "url": "https://vermonthabitat.org/volunteer/",
+      "categories": ["Housing & Homelessness", "Skilled Trades"],
+      "town": "Williston, VT",
+      "blurb": "Build-site and ReStore volunteers supporting affordable homeownership projects in the Burlington area.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "ECHO, Leahy Center for Lake Champlain",
+      "url": "https://www.echovermont.org/join-support/volunteer/",
+      "categories": ["Environment & Farming", "Youth & Education", "Animals"],
+      "town": "Burlington, VT",
+      "blurb": "Visitor engagement and animal-care volunteers at Burlington's lakefront science and nature museum.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Fletcher Free Library",
+      "url": "https://fletcherfree.org/Volunteer",
+      "categories": ["Libraries & Literacy"],
+      "town": "Burlington, VT",
+      "blurb": "Shelving, holds, and project volunteers (age 14+) at Burlington's public library system.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "UVM Medical Center Volunteer Services",
+      "url": "https://www.uvmhealth.org/give-back/volunteer",
+      "categories": ["Health & Wellness"],
+      "town": "Burlington, VT",
+      "blurb": "Hospital-based volunteer roles (age 17+) supporting patients and staff at UVM Medical Center and Golisano Children's Hospital.",
+      "tags": [],
+      "last_checked": "2026-07-17"
+    },
+    {
+      "org": "Winooski Food Shelf",
+      "url": "https://www.winooskifoodshelf.org/how-to-volunteer-donate",
+      "categories": ["Food Security"],
+      "town": "Winooski, VT",
+      "blurb": "An all-volunteer-run food shelf that always needs help unloading, sorting, and shelving donations.",
+      "tags": ["recurring"],
+      "last_checked": "2026-07-17"
+    }
+  ]
+}
