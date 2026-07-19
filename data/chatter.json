@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T23:32:03+00:00",
+  "updated": "2026-07-19T11:38:25+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
@@ -128,23 +128,6 @@
       ]
     },
     {
-      "id": "back-bank-businesses",
-      "label": "Burlington businesses push back as needle exchange moves to…",
-      "direction": "rising",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-18T02:03:21+00:00",
-      "sources": [
-        {
-          "title": "Burlington businesses push back as needle exchange moves to Bank Street",
-          "url": "https://www.reddit.com/r/burlington/comments/1uzfgjm/burlington_businesses_push_back_as_needle/",
-          "sub": "r/burlington",
-          "when": "2026-07-18T02:03:21+00:00",
-          "comments": null
-        }
-      ]
-    },
-    {
       "id": "back-apprenticeship-becomming",
       "label": "Careers in Vermont",
       "direction": "rising",
@@ -155,6 +138,23 @@
         {
           "title": "Careers in Vermont",
           "url": "https://www.reddit.com/r/vermont/comments/1uzy6id/careers_in_vermont/",
+          "sub": "r/vermont",
+          "when": "2026-07-18T19:03:59+00:00",
+          "comments": null
+        }
+      ]
+    },
+    {
+      "id": "watch-bars-parties",
+      "label": "FIFA Watch Parties, not in bars?",
+      "direction": "rising",
+      "posts": 1,
+      "comments": null,
+      "last_activity": "2026-07-18T19:03:59+00:00",
+      "sources": [
+        {
+          "title": "FIFA Watch Parties, not in bars?",
+          "url": "https://www.reddit.com/r/vermont/comments/1uzy9ak/fifa_watch_parties_not_in_bars/",
           "sub": "r/vermont",
           "when": "2026-07-18T19:03:59+00:00",
           "comments": null
@@ -240,10 +240,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 100,
+    "posts_scanned": 92,
     "per_source": {
-      "r/burlington": 46,
-      "r/vermont": 54
+      "r/burlington": 44,
+      "r/vermont": 48
     }
   }
 }
