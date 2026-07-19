@@ -8,17 +8,17 @@
 
   <!-- Social unfurls -->
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Burlington Brief">
-  <meta property="og:title" content="Tonight's Sunset Score — Lake Champlain">
-  <meta property="og:description" content="A live 0–10 forecast for Burlington's nightly show: cloud layers, smoke, post-frontal air, and when to leave downtown to make it to the water.">
-  <meta property="og:url" content="https://play.btownbrief.com/sunset.html">
-  <meta property="og:image" content="https://play.btownbrief.com/assets/img/sunset/og-sunset.jpg">
+  <meta property="og:site_name" content="Btown Brief">
+  <meta property="og:title" content="Tonight's Sunset Score — Lake Champlain, Burlington VT">
+  <meta property="og:description" content="Will tonight's Lake Champlain sunset be worth the walk? A live 0–10 score from cloud layers, humidity, smoke, and post-frontal air — plus the countdown, the best viewing spots, and last night's photos.">
+  <meta property="og:url" content="https://guide.btownbrief.com/sunset.html">
+  <meta property="og:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Tonight's Sunset Score — Lake Champlain">
-  <meta name="twitter:description" content="Will tonight be worth the walk? A live 0–10 sunset forecast for Burlington, Vermont.">
-  <meta name="twitter:image" content="https://play.btownbrief.com/assets/img/sunset/og-sunset.jpg">
+  <meta name="twitter:title" content="Tonight's Sunset Score — Lake Champlain, Burlington VT">
+  <meta name="twitter:description" content="Will tonight's Lake Champlain sunset be worth the walk? A live 0–10 score from cloud layers, humidity, smoke, and post-frontal air — plus the countdown, the best viewing spots, and last night's photos.">
+  <meta name="twitter:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -41,6 +41,23 @@
       } catch (e) {}
     })();
   </script>
+<!-- Meta Pixel -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2471867016612559');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2471867016612559&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel -->
 </head>
 <body>
 
@@ -217,7 +234,7 @@
       <span class="connect-btn-main">Donate ❤️</span>
       <span class="connect-btn-note">Keep this running</span>
     </a>
-    <a class="connect-btn connect-news" href="https://btownbrief.com" target="_blank" rel="noopener">
+    <a class="connect-btn connect-news" href="https://btownbrief.com?utm_source=guide&utm_medium=referral&utm_campaign=site_capture" target="_blank" rel="noopener">
       <span class="connect-btn-main">The Newsletter</span>
       <span class="connect-btn-note">Mondays &amp; Fridays</span>
     </a>

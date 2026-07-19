@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>r/GoodBurlington — the good-news corner of Burlington Reddit</title>
+  <meta name="description" content="r/GoodBurlington is the subreddit for the good stuff: wins, kindness, new openings, comebacks, sunsets, and dogs of Burlington, Vermont. Come post something good.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Btown Brief">
+  <meta property="og:title" content="r/GoodBurlington">
+  <meta property="og:description" content="The good-news corner of Burlington Reddit: wins, kindness, openings, sunsets, dogs. Come post something good.">
+  <meta property="og:url" content="https://guide.btownbrief.com/goodburlington.html">
+  <meta property="og:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/telegram.css">
+  <script>
+    /* Theme before first paint, from the cached sunrise/sunset. js/auto-theme.js
+       refreshes the cache; this only avoids the white flash after dark. */
+    (function () {
+      try {
+        var c = JSON.parse(localStorage.getItem('btown-sun') || 'null');
+        if (!c) return;
+        var today = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York',
+          year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+        if (c.day !== today) return;
+        var n = Date.now();
+        document.documentElement.setAttribute('data-theme',
+          (n >= c.rise && n < c.set) ? 'light' : 'dark');
+      } catch (e) {}
+    })();
+  </script>
+<!-- Meta Pixel -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2471867016612559');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2471867016612559&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel -->
+</head>
+<body data-standalone>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo">
+        <button class="dark-toggle" id="dark-toggle" aria-label="Toggle dark mode" title="Toggle light / dark">
+          <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="5"/>
+            <line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+            <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+          </svg>
+          <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+          </svg>
+        </button>
+        <span class="logo-sep"></span>
+        <span class="logo-title">Burlington Brief</span>
+      </div>
+      <nav class="mode-nav" aria-label="Community pages">
+        <a class="mode-btn" href="things-to-do.html">Things To Do</a>
+        <a class="mode-btn" href="chatter.html">Burlington Pulse</a>
+        <a class="mode-btn" href="photos.html">Photos</a>
+        <a class="mode-btn" href="telegram.html">Group Chat</a>
+      </nav>
+    </div>
+  </header>
+
+  <a class="newsletter-bar" href="https://btownbrief.com?utm_source=guide&utm_medium=referral&utm_campaign=site_capture" target="_blank" rel="noopener">
+    <div class="newsletter-bar-inner">
+      <div class="newsletter-head">
+        <span class="newsletter-label">The Burlington Brief</span>
+        <span class="newsletter-issue">Free Burlington news &amp; events in your inbox</span>
+      </div>
+      <span class="newsletter-cta">Sign up free →</span>
+    </div>
+  </a>
+
+  <main class="page-wrap tg">
+    <div class="page-hero">
+      <span class="page-hero-kicker">r/GoodBurlington</span>
+      <h1>The good-news corner of Burlington Reddit.</h1>
+      <p class="page-hero-sub">Reddit already has a place to argue about parking. This is the other place: a subreddit for the things that make you glad you live here. Somebody returned a lost wallet. A new bakery opened. The lake did that thing at sunset. Post it.</p>
+    </div>
+
+    <section class="tg-main">
+      <span class="tg-card-emoji" aria-hidden="true">🌞</span>
+      <h2>What lands here</h2>
+      <p>Wins and kindnesses. Openings and comebacks. Free stuff worth grabbing. Sunset photos, snow-day photos, dog photos. Shout-outs to people who did something decent. Questions that start with "what's good" instead of "what's wrong."</p>
+      <a class="tg-btn tg-btn-big" href="https://www.reddit.com/r/GoodBurlington/" target="_blank" rel="noopener" data-gb-join="reddit">Join r/GoodBurlington →</a>
+      <p class="tg-main-note">No account needed to read — <a href="https://www.reddit.com/r/GoodBurlington/" target="_blank" rel="noopener">browse it first</a> if you like.</p>
+    </section>
+
+    <div class="tg-notes">
+      <p><strong>The one rule:</strong> if it would make Burlington feel heavier, it goes somewhere else. Everything else is fair game.</p>
+      <p><strong>Crossposting encouraged:</strong> see something good buried in r/burlington or a Facebook group? Bring it over so it doesn't scroll away.</p>
+      <p><strong>The best of it gets amplified:</strong> good posts get picked up by the <a href="https://www.btownbrief.com" target="_blank" rel="noopener">Burlington Brief</a> newsletter and the <a href="chatter.html">Burlington Pulse</a> page.</p>
+    </div>
+
+    <section class="tg-email">
+      <h2>Not a Reddit person?</h2>
+      <p>Same spirit, other doors: send a photo to the <a href="photos.html">photo wall</a>, hop in the <a href="telegram.html">group chat</a>, or get the good news by email twice a week.</p>
+      <a class="tg-btn tg-btn-email" href="https://www.btownbrief.com/subscribe?utm_source=guide&utm_medium=referral&utm_campaign=site_capture" target="_blank" rel="noopener">Get the newsletter instead →</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span>A <a href="https://www.btownbrief.com" target="_blank" rel="noopener">Burlington Brief</a> project</span>
+      <span class="footer-sep">·</span>
+      <span>Burlington, Vermont</span>
+    </div>
+  </footer>
+
+  <script src="js/community.js"></script>
+  <script>
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest('[data-gb-join]');
+      if (a && window.BTBC) window.BTBC.track('goodburlington-join-' + a.getAttribute('data-gb-join'));
+    });
+  </script>
+  <script src="js/auto-theme.js"></script>
+  <script src="https://play.btownbrief.com/nav.js" defer></script>
+</body>
+</html>

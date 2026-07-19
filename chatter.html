@@ -4,7 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Burlington Pulse — Burlington Brief</title>
-  <meta name="description" content="What Burlington is talking about right now — trending neighborhood topics from r/burlington and r/vermont with rise-and-fall arrows, the week's best neighbor questions, and the occasional clearly-labeled rumor.">
+  <meta name="description" content="What Burlington is talking about right now — local headlines alongside trending neighborhood topics from r/burlington and r/vermont.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Btown Brief">
+  <meta property="og:title" content="Burlington Pulse">
+  <meta property="og:description" content="What Burlington is talking about right now — local headlines alongside trending neighborhood topics from r/burlington and r/vermont.">
+  <meta property="og:url" content="https://guide.btownbrief.com/chatter.html">
+  <meta property="og:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Burlington Pulse">
+  <meta name="twitter:description" content="What Burlington is talking about right now — local headlines alongside trending neighborhood topics from r/burlington and r/vermont.">
+  <meta name="twitter:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
+
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -26,6 +39,23 @@
       } catch (e) {}
     })();
   </script>
+<!-- Meta Pixel -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2471867016612559');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2471867016612559&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel -->
 </head>
 <body data-standalone>
 
@@ -56,7 +86,7 @@
     </div>
   </header>
 
-  <a class="newsletter-bar" href="https://btownbrief.com" target="_blank" rel="noopener">
+  <a class="newsletter-bar" href="https://btownbrief.com?utm_source=guide&utm_medium=referral&utm_campaign=site_capture" target="_blank" rel="noopener">
     <div class="newsletter-bar-inner">
       <div class="newsletter-head">
         <span class="newsletter-label">The Burlington Brief</span>
@@ -70,7 +100,7 @@
     <div class="page-hero">
       <span class="page-hero-kicker">Burlington Pulse</span>
       <h1>What Burlington Is Talking About</h1>
-      <p class="page-hero-sub">The neighborhood chatter, gathered a few times a day — what's bubbling up, what's fading out, and the questions neighbors are actually asking. This is the community talking, not the news: every item links back to the original thread, and anything unconfirmed is labeled that way.</p>
+      <p class="page-hero-sub">Local headlines and neighborhood chatter, gathered a few times a day — what's happening, what's bubbling up, and the questions neighbors are actually asking. Every item links back to its original source, and anything unconfirmed is labeled that way.</p>
     </div>
 
     <h2 class="section-label" id="pulse-today-label">Today</h2>
@@ -84,6 +114,18 @@
       <h2 class="section-label">The good stuff</h2>
       <div class="pulse-highlights" id="pulse-highlights"></div>
     </div>
+
+    <section id="pulse-wire-wrap" hidden aria-labelledby="pulse-wire-label">
+      <div class="pulse-wire-head">
+        <div>
+          <h2 class="section-label" id="pulse-wire-label">The Wire</h2>
+          <p class="pulse-wire-note">Fresh reporting from local outlets, newest first.</p>
+        </div>
+        <button class="pulse-wire-filter" id="pulse-wire-filter" type="button" aria-pressed="false">Hide Vermont Biz</button>
+      </div>
+      <div class="pulse-wire" id="pulse-wire"></div>
+      <button class="pulse-wire-more" id="pulse-wire-more" type="button" hidden>Show more</button>
+    </section>
 
     <h2 class="section-label">Around the groups</h2>
     <p class="pulse-groups-note">Plenty of Burlington chatter lives inside Facebook groups and Craigslist — those stay on their own turf, so these link straight out.</p>
@@ -150,7 +192,7 @@
 
     <div class="note-card">
       <strong>Like this in your inbox?</strong>
-      The Wednesday Brief runs <em>Burlington City Pulse</em> — the weekly, human-curated roundup of the best of these threads. <a href="https://btownbrief.com" target="_blank" rel="noopener">Sign up free</a>. And if you see something brewing that deserves real reporting, email <a href="mailto:BtownBrief@gmail.com?subject=Tip%20for%20the%20Brief">BtownBrief@gmail.com</a>.
+      The Wednesday Brief runs <em>Burlington City Pulse</em> — the weekly, human-curated roundup of the best of these threads. <a href="https://btownbrief.com?utm_source=guide&utm_medium=referral&utm_campaign=site_capture" target="_blank" rel="noopener">Sign up free</a>. And if you see something brewing that deserves real reporting, email <a href="mailto:BtownBrief@gmail.com?subject=Tip%20for%20the%20Brief">BtownBrief@gmail.com</a>.
     </div>
   </main>
 

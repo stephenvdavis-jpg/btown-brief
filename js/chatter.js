@@ -1,8 +1,8 @@
 /* Burlington Pulse — renders data/chatter.json (written by
-   scripts/refresh_chatter.py a few times a day). Three blocks:
+   scripts/refresh_chatter.py a few times a day). Four blocks:
    trending topics with direction arrows, highlight slots, and the
-   collapsed "rougher stuff" list. Everything links back to the
-   original thread; rumors are always badged unverified. */
+   local-news wire, and collapsed "rougher stuff" list. Everything
+   links back to the original source; rumors are always badged unverified. */
 (function () {
   'use strict';
 
@@ -12,6 +12,10 @@
      permalinks belong in these hrefs, so anything else becomes '#'. */
   function safeUrl(url) {
     return (typeof url === 'string' && url.indexOf('https://www.reddit.com/') === 0) ? url : '#';
+  }
+
+  function safeNewsUrl(url) {
+    return (typeof url === 'string' && /^https?:\/\//i.test(url)) ? url : '#';
   }
 
   var DIRECTIONS = {
@@ -43,6 +47,16 @@
       bits.push(item.comments + (item.comments === 1 ? ' comment' : ' comments'));
     }
     return bits.join(' · ');
+  }
+
+  function fmtWireAgo(iso) {
+    if (!iso) return '';
+    var mins = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+    if (!isFinite(mins) || mins < 0) return '';
+    if (mins < 60) return Math.max(1, mins) + 'm ago';
+    var hours = Math.round(mins / 60);
+    if (hours < 24) return hours + 'h ago';
+    return Math.round(hours / 24) + 'd ago';
   }
 
   function sourceRowHTML(s) {
@@ -95,10 +109,61 @@
     );
   }
 
+  function newsHTML(item) {
+    var quiet = item.domain === 'vermontbiz.com' ? ' pulse-wire-item-quiet' : '';
+    var ago = fmtWireAgo(item.published);
+    return (
+      '<a class="pulse-wire-item' + quiet + '" href="' + esc(safeNewsUrl(item.url)) + '" target="_blank" rel="noopener">' +
+        '<span class="pulse-wire-title">' + esc(item.title) + '</span>' +
+        '<span class="pulse-wire-meta">' + esc(item.outlet) + (ago ? ' · ' + esc(ago) : '') + ' ↗</span>' +
+      '</a>'
+    );
+  }
+
+  function wire(news) {
+    var wrap = document.getElementById('pulse-wire-wrap');
+    var list = document.getElementById('pulse-wire');
+    var filter = document.getElementById('pulse-wire-filter');
+    var more = document.getElementById('pulse-wire-more');
+    var hideVermontBiz = false;
+    var showAll = false;
+
+    try {
+      hideVermontBiz = localStorage.getItem('btown-pulse-hide-vermont-biz') === '1';
+    } catch (e) {}
+
+    function render() {
+      var visible = news.filter(function (item) {
+        return !hideVermontBiz || item.domain !== 'vermontbiz.com';
+      });
+      var shown = showAll ? visible : visible.slice(0, 60);
+      list.innerHTML = shown.map(newsHTML).join('');
+      filter.setAttribute('aria-pressed', hideVermontBiz ? 'true' : 'false');
+      filter.textContent = hideVermontBiz ? 'Show Vermont Biz' : 'Hide Vermont Biz';
+      more.hidden = visible.length <= 60 || showAll;
+      if (!more.hidden) more.textContent = 'Show ' + (visible.length - 60) + ' more';
+    }
+
+    filter.addEventListener('click', function () {
+      hideVermontBiz = !hideVermontBiz;
+      try {
+        localStorage.setItem('btown-pulse-hide-vermont-biz', hideVermontBiz ? '1' : '0');
+      } catch (e) {}
+      render();
+    });
+    more.addEventListener('click', function () {
+      showAll = true;
+      render();
+    });
+    wrap.hidden = false;
+    render();
+  }
+
   window.BTBC.fetchJSON('data/chatter.json').then(function (data) {
     var topics = data.topics || [];
     var highlights = data.highlights || [];
     var rough = data.rough || [];
+    var news = data.news || [];
 
     var updated = document.getElementById('pulse-updated');
     var ago = fmtAgo(data.updated);
@@ -119,6 +184,8 @@
       document.getElementById('pulse-rough').innerHTML = rough.map(roughHTML).join('');
       document.getElementById('pulse-rough-wrap').hidden = false;
     }
+
+    if (news.length) wire(news);
   }).catch(function () {
     document.getElementById('pulse-topics').innerHTML =
       '<p class="page-empty">Could not load the chatter. Run a local server (<code>python3 -m http.server 8000</code>) if you’re previewing from disk.</p>';

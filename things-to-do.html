@@ -5,6 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Things To Do in Burlington, VT — Burlington Brief</title>
   <meta name="description" content="A local's guide to everything worth doing in and around Burlington, Vermont — breweries, beaches, trails, museums, live music, and more.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Btown Brief">
+  <meta property="og:title" content="Things To Do in Burlington, VT">
+  <meta property="og:description" content="A local's guide to everything worth doing in and around Burlington, Vermont — breweries, beaches, trails, museums, live music, and more.">
+  <meta property="og:url" content="https://guide.btownbrief.com/things-to-do.html">
+  <meta property="og:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Things To Do in Burlington, VT">
+  <meta name="twitter:description" content="A local's guide to everything worth doing in and around Burlington, Vermont — breweries, beaches, trails, museums, live music, and more.">
+  <meta name="twitter:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,6 +39,23 @@
       } catch (e) {}
     })();
   </script>
+<!-- Meta Pixel -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2471867016612559');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2471867016612559&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel -->
 </head>
 <body>
 
@@ -84,8 +113,10 @@
       </div>
     </a>
 
-    <!-- Daylight arc: sunrise → sunset with live countdown -->
-    <div class="sun-arc" id="sun-arc" hidden aria-label="Daylight remaining today"></div>
+    <!-- Daylight widget: engraved sun/moon medallion + live countdown.
+         The whole strip links through to the sunset tracker. -->
+    <a class="sun-arc" id="sun-arc" href="sunset.html" hidden
+       aria-label="Daylight remaining today — see the full sunset tracker"></a>
 
     <!-- Burlington Right Now teaser -->
     <a class="rn-teaser" href="weather.html">
@@ -266,6 +297,16 @@
           <p>Loading…</p>
         </div>
 
+        <!-- Extras: the big annual one-offs, kept out of the evergreen list
+             above so the List never goes stale. -->
+        <section class="extras-section" id="extras-section" hidden aria-labelledby="extras-heading">
+          <h2 class="section-label" id="extras-heading">Extras — happening soon</h2>
+          <p class="extras-sub">The big annual one-offs — festivals, fairs, and parades that take over
+             town for a weekend and then vanish for a year. Dates live on the
+             <a href="events.html">events calendar</a>.</p>
+          <div class="cards-grid" id="extras-grid" role="list"></div>
+        </section>
+
       </main>
     </div>
 
@@ -324,7 +365,7 @@
       <div class="community-block" id="reddit-block" hidden>
         <div class="community-block-header">
           <h2>From the community</h2>
-          <a class="community-block-link" href="https://www.reddit.com/r/GoodBurlington/" target="_blank" rel="noopener">r/GoodBurlington →</a>
+          <a class="community-block-link" href="goodburlington.html">r/GoodBurlington →</a>
         </div>
         <div class="reddit-list" id="reddit-list"></div>
       </div>
@@ -334,6 +375,15 @@
           <h2>Top questions, answered</h2>
         </div>
         <div class="faq-list" id="faq-list"></div>
+      </div>
+
+      <div class="community-block" id="subscribe-block">
+        <div class="subscribe-embed">
+          <h2>Get the Brief</h2>
+          <p class="subscribe-line">Everything happening in Burlington, in your inbox twice a week. Free.</p>
+          <iframe src="https://embeds.beehiiv.com/a1c106df-f519-4dfc-a892-61261d0f8389?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" title="Subscribe to the Burlington Brief"></iframe>
+          <p class="subscribe-proof">Join 3,000+ neighbors. 7 in 10 open every single issue.</p>
+        </div>
       </div>
 
       <div class="sponsor-footer" id="sponsor-footer" hidden></div>

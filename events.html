@@ -5,6 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Events in Burlington, VT — Burlington Brief</title>
   <meta name="description" content="Every event in and around Burlington, Vermont — tonight, this weekend, and beyond. Live music, free stuff, markets, comedy, and more, gathered from every local calendar.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Btown Brief">
+  <meta property="og:title" content="Events in Burlington, VT">
+  <meta property="og:description" content="Every event in and around Burlington, Vermont — tonight, this weekend, and beyond. Live music, free stuff, markets, comedy, and more, gathered from every local calendar.">
+  <meta property="og:url" content="https://guide.btownbrief.com/events.html">
+  <meta property="og:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Events in Burlington, VT">
+  <meta name="twitter:description" content="Every event in and around Burlington, Vermont — tonight, this weekend, and beyond. Live music, free stuff, markets, comedy, and more, gathered from every local calendar.">
+  <meta name="twitter:image" content="https://guide.btownbrief.com/assets/og/og-guide.jpg">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,6 +40,23 @@
       } catch (e) {}
     })();
   </script>
+<!-- Meta Pixel -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2471867016612559');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2471867016612559&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel -->
 </head>
 <body class="events-body">
 
@@ -149,16 +178,24 @@
     <!-- LIST-YOUR-EVENT NOTE -->
     <section class="ev-submit-note">
       <h2>Want your event listed here?</h2>
-      <p>This calendar gathers itself automatically from the places Burlington already posts events.
-         Post yours on <a href="https://www.sevendaysvt.com/vermont/EventSubmission" target="_blank" rel="noopener">Seven Days</a>,
-         <a href="https://www.eventbrite.com" target="_blank" rel="noopener">Eventbrite</a>, or
-         <a href="https://www.meetup.com" target="_blank" rel="noopener">Meetup</a> — or on your venue's own site —
-         and I'll catch it on the next sweep.</p>
+      <p>This calendar sweeps the places Burlington already posts events:
+         <a href="https://www.sevendaysvt.com/vermont/EventSubmission" target="_blank" rel="noopener">Seven Days</a>,
+         the <a href="https://frontporchforum.com" target="_blank" rel="noopener">Front Porch Forum</a> calendar,
+         Facebook events, <a href="https://www.helloburlingtonvt.com" target="_blank" rel="noopener">Hello Burlington</a>,
+         <a href="https://loveburlington.org" target="_blank" rel="noopener">Love Burlington</a>,
+         <a href="https://www.meetup.com" target="_blank" rel="noopener">Meetup</a>,
+         <a href="https://www.eventbrite.com" target="_blank" rel="noopener">Eventbrite</a>,
+         <a href="https://churchstmarketplace.com" target="_blank" rel="noopener">Church St Marketplace</a>,
+         the <a href="https://www.flynnvt.org" target="_blank" rel="noopener">Flynn</a>,
+         <a href="https://highergroundmusic.com" target="_blank" rel="noopener">Higher Ground</a>, and
+         <a href="https://vermontcomedyclub.com" target="_blank" rel="noopener">Vermont Comedy Club</a> —
+         plus the libraries, the colleges, and the venues' own sites.
+         Post your event on any of them and I'll catch it on the next sweep.</p>
     </section>
 
     <!-- SUPPORT STRIP -->
     <section class="ev-support">
-      <a class="ev-support-card" href="https://btownbrief.com" target="_blank" rel="noopener">
+      <a class="ev-support-card" href="https://btownbrief.com?utm_source=guide&utm_medium=referral&utm_campaign=site_capture" target="_blank" rel="noopener">
         <span class="ev-support-emoji">📬</span>
         <span><strong>The Burlington Brief</strong><br>The twice-a-week local newsletter behind this page. Free — sign up.</span>
       </a>
@@ -170,6 +207,16 @@
         <span class="ev-support-emoji">👋</span>
         <span><strong>It's just me making all this</strong><br>Meet Steve.</span>
       </a>
+    </section>
+
+    <!-- SUBSCRIBE EMBED -->
+    <section>
+      <div class="subscribe-embed">
+        <h2>Get the Brief</h2>
+        <p class="subscribe-line">Everything happening in Burlington, in your inbox twice a week. Free.</p>
+        <iframe src="https://embeds.beehiiv.com/a1c106df-f519-4dfc-a892-61261d0f8389?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" title="Subscribe to the Burlington Brief"></iframe>
+        <p class="subscribe-proof">Join 3,000+ neighbors. 7 in 10 open every single issue.</p>
+      </div>
     </section>
   </main>
 

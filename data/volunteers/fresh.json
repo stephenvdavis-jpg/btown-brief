@@ -1,0 +1,91 @@
+{
+  "_comment": "Fresh, specific volunteer opportunities — NOT a evergreen list. Each entry was verified directly on the organization's own volunteer page (never United Way, Idealist, or Front Porch Forum — see /Users/stephendavis/Desktop/newsletter/reference/research/06-volunteer-listings.md for why). blurb text is an original one-line summary, not copied from the org's site. Every entry must keep last_checked current: js/volunteer.js hides any entry whose last_checked is more than 14 days old (MAX_FRESH_AGE_DAYS), so a stale record just disappears instead of showing an out-of-date 'opportunity'.",
+  "review_cadence": "Re-verify each entry against the org's own page before it turns 14 days old, then bump last_checked to the day it was re-confirmed. If a listing is no longer current, remove it rather than leaving a stale date. This is a manual pull, not an automated feed — no United Way Volunteer Connection data here (that partnership request is still pending Megan Bridges' reply).",
+  "updated": "2026-07-19",
+  "opportunities": [
+    {
+      "id": "intervale-gleaning",
+      "org": "Intervale Center",
+      "title": "Gleaning & Food Access",
+      "blurb": "Pack and distribute free produce for the Fair Share CSA pickup — sign up for a specific shift.",
+      "date": "Weekly Wed & Thu through July, then Mondays July–October 2026",
+      "location": "The Intervale, Burlington, VT",
+      "url": "https://www.signupgenius.com/go/508054EADA922A3FE3-field#/",
+      "source": "org-site",
+      "tags": ["recurring", "outdoor"],
+      "last_checked": "2026-07-19"
+    },
+    {
+      "id": "intervale-conservation-nursery",
+      "org": "Intervale Center",
+      "title": "Conservation Nursery",
+      "blurb": "Tend native saplings and trees in the greenhouse and fields while the nursery's field crew is out planting.",
+      "date": "Weekly Tuesday, Wednesday & Friday mornings",
+      "location": "The Intervale, Burlington, VT",
+      "url": "https://www.signupgenius.com/go/508054EADA922A3FE3-63247468-conservation#/",
+      "source": "org-site",
+      "tags": ["recurring", "outdoor"],
+      "last_checked": "2026-07-19"
+    },
+    {
+      "id": "csc-suds-and-sailboats",
+      "org": "Community Sailing Center",
+      "title": "Suds & Sailboats",
+      "blurb": "Clean and prep the CSC's sailboat fleet, then cap the evening with a beer at Foam Brewers — no sailing experience needed.",
+      "date": "Third Thursday of the month through Oct 31, 2026 (next: July 23, 5–7pm)",
+      "location": "Community Sailing Center, Burlington waterfront",
+      "url": "https://communitysailingcenter.org/volunteer/",
+      "source": "org-site",
+      "tags": ["recurring", "outdoor", "quick", "friends"],
+      "last_checked": "2026-07-19"
+    },
+    {
+      "id": "hscc-morning-animal-care",
+      "org": "Humane Society of Chittenden County",
+      "title": "Morning Cat & Small Animal Care",
+      "blurb": "Feed and clean enclosures for cats and small animals who aren't yet up for adoption.",
+      "date": "7 mornings a week, 8–10am",
+      "location": "South Burlington, VT",
+      "url": "https://www.hsccvt.org/Volunteer",
+      "source": "org-site",
+      "tags": ["recurring", "quick"],
+      "last_checked": "2026-07-19"
+    },
+    {
+      "id": "hscc-group-volunteer-day",
+      "org": "Humane Society of Chittenden County",
+      "title": "Group Volunteer Day",
+      "blurb": "Bring a company, school, or community group of up to 15 to volunteer together at the shelter.",
+      "date": "Book a 3–4 hour group day, by application",
+      "location": "South Burlington, VT",
+      "url": "https://www.hsccvt.org/Group-Volunteering",
+      "source": "org-site",
+      "tags": ["onetime", "friends"],
+      "last_checked": "2026-07-19"
+    },
+    {
+      "id": "cots-activity-facilitator",
+      "org": "COTS (Committee on Temporary Shelter)",
+      "title": "Activity Facilitator",
+      "blurb": "Plan and lead a short activity — crafts, games, social-emotional learning — for families living at the shelter.",
+      "date": "Weekdays 4–8pm (flexible) or weekends, up to 2-hour sessions",
+      "location": "COTS Family Shelter, 278 Main St, Burlington, VT",
+      "url": "https://cotsonline.org/volunteer",
+      "source": "org-site",
+      "tags": ["recurring", "quick"],
+      "last_checked": "2026-07-19"
+    },
+    {
+      "id": "cots-respite-provider",
+      "org": "COTS (Committee on Temporary Shelter)",
+      "title": "Respite Provider",
+      "blurb": "Give a shelter family a short break by watching their kids on-site, with COTS staff present. Background check required.",
+      "date": "Weekdays 9am–9pm, flexible, up to 2-hour sessions",
+      "location": "COTS Family Shelter, 278 Main St, Burlington, VT",
+      "url": "https://cotsonline.org/volunteer",
+      "source": "org-site",
+      "tags": ["recurring", "quick"],
+      "last_checked": "2026-07-19"
+    }
+  ]
+}
