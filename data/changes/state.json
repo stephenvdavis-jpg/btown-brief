@@ -897,18 +897,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -1298,16 +1298,23 @@
     "items": [
      {
       "id": "73176376",
-      "title": "The World Cup final awaits, with Argentina set to face Spain",
+      "title": "Spain wins the World Cup by beating Argentina",
       "link": "https://www.mynbc5.com/article/world-cup-final-argentina-spain/73176376",
-      "ts": "2026-07-19T21:03:00+00:00",
-      "summary": "It's a chance to write the perfect ending at the 2026 World Cup"
+      "ts": "2026-07-19T22:09:00+00:00",
+      "summary": "Spain substitute Ferran Torres scored in the 106th minute to give his team a 1-0 win over defending champion Argentina in the World Cup final."
+     },
+     {
+      "id": "73180527",
+      "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
+      "link": "https://www.mynbc5.com/article/us-military-death-toll-iran-conflict-rises-17/73180527",
+      "ts": "2026-07-19T21:57:00+00:00",
+      "summary": "The U.S. military reports that another service member has been killed in the conflict with Iran, bringing the total to 17"
      },
      {
       "id": "73180304",
       "title": "Madonna, the Muppets Justin Bieber and others take World Cup stage for star-studded halftime show",
       "link": "https://www.mynbc5.com/article/world-cup-halftime-2026/73180304",
-      "ts": "2026-07-19T20:35:00+00:00",
+      "ts": "2026-07-19T21:22:00+00:00",
       "summary": "Madonna opened the World Cup halftime show with her 2000 dance-pop hit \"Music,\" joined by star Brazilian soccer players of yesteryear, Ronaldo and Ronaldinho"
      },
      {
@@ -1428,13 +1435,6 @@
       "link": "https://www.mynbc5.com/article/dale-earnhardt-grandson-races/73177911",
       "ts": "2026-07-19T01:36:00+00:00",
       "summary": "Wyatt Miller is in his first full season racing sprint cars. He is the nephew of Dale Earnhardt Jr. and the grandson of Dale Earnhardt."
-     },
-     {
-      "id": "73177613",
-      "title": "Plattsburgh's Brina Micheels reflects on joining second team in young professional career",
-      "link": "https://www.mynbc5.com/article/plattsburghs-brina-micheels-reflects-on-joining-second-team-in-young-professional-career/73177613",
-      "ts": "2026-07-19T00:55:00+00:00",
-      "summary": "Micheels signed her second pro contract to compete with Puebla Fam in June, a club based in Mexico"
      }
     ]
    },
@@ -1689,20 +1689,20 @@
     "venue": "Red Wagon Plants"
    },
    {
-    "id": "f83ecb7767bb",
-    "title": "Grab-&-Go Kit: Boba Tea",
-    "link": "https://southburlingtonlibrary.org/grab-and-go-kit-boba-tea",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-19T09:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "bbcc316717cc",
     "title": "Trolley tours",
     "link": "https://www.helloburlingtonvt.com/event/trolley-tours/4244/",
     "ts": "2026-07-19T06:58:43-04:00",
     "start": "2026-07-19T09:00:00-04:00",
     "venue": "Perkins Pier"
+   },
+   {
+    "id": "f83ecb7767bb",
+    "title": "Grab-&-Go Kit: Boba Tea",
+    "link": "https://southburlingtonlibrary.org/grab-and-go-kit-boba-tea",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-19T09:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "5019f97f7724",
@@ -1913,14 +1913,6 @@
     "venue": "Phoenix Books"
    },
    {
-    "id": "036c9e220bcf",
-    "title": "Kids Jam",
-    "link": "https://shelburnevineyard.com/events-list/kids-jam",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-19T13:00:00-04:00",
-    "venue": "Shelburne Vineyard"
-   },
-   {
     "id": "79d4451745ab",
     "title": "Cluckin' & Pluckin'",
     "link": "https://calendar.time.ly/vfaca7kw/event/78399402/20260719130000",
@@ -1951,6 +1943,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-19T13:00:00-04:00",
     "venue": "Vermont Pub and Brewery"
+   },
+   {
+    "id": "036c9e220bcf",
+    "title": "Kids Jam",
+    "link": "https://www.facebook.com/events/1532364898353465/",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-19T13:00:00-04:00",
+    "venue": "Shelburne Vineyard"
    },
    {
     "id": "c546ff16c35a",
@@ -2177,14 +2177,6 @@
     "venue": "Westford Common"
    },
    {
-    "id": "a375333818cf",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260719190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-19T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "81eab8c2e405",
     "title": "Social Distortion",
     "link": "https://highergroundmusic.com/events/social-distortion/",
@@ -2241,20 +2233,20 @@
     "venue": ""
    },
    {
-    "id": "bb26130d1353",
-    "title": "Art Wall - Vibrant Lives: Discovering Our Roots of Black Vermont",
-    "link": "https://southburlingtonlibrary.org/art-wall-vibrant-lives-discovering-our-roots-of-black-vermont",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-20T09:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "736198c24f69",
     "title": "FREE July Fitness Series: Tai Chi",
     "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQzNDY0OTM=",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-20T09:00:00-04:00",
     "venue": "Wheeler Homestead"
+   },
+   {
+    "id": "bb26130d1353",
+    "title": "Art Wall - Vibrant Lives: Discovering Our Roots of Black Vermont",
+    "link": "https://southburlingtonlibrary.org/art-wall-vibrant-lives-discovering-our-roots-of-black-vermont",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-20T09:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "847227cc908f",
@@ -2399,14 +2391,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-20T15:30:00-04:00",
     "venue": "Virtue Field"
-   },
-   {
-    "id": "c8ede9d02bd9",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260720153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-20T15:30:00-07:00",
-    "venue": ""
    },
    {
     "id": "f30c8b65f5af",
@@ -2769,14 +2753,6 @@
     "venue": "Fletcher Free Library"
    },
    {
-    "id": "fe4bdba09609",
-    "title": "Sing Along with Linda Bassick at FFL",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76866004/20260721110000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-21T11:00:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "9a5f55f7d7f0",
     "title": "'Shark Kingdom 3D'",
     "link": "https://community.sevendaysvt.com/event/shark-kingdom-3d-44971419",
@@ -2825,14 +2801,6 @@
     "venue": "New North End Branch"
    },
    {
-    "id": "897f37e252e0",
-    "title": "Tech Help by Appointment",
-    "link": "https://southburlingtonlibrary.org/technology-help2",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-21T13:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "ec883f545891",
     "title": "Green Mountain Chamber Music Quartet Conversations",
     "link": "https://calendar.time.ly/vfaca7kw/event/78413646/20260721130000",
@@ -2847,6 +2815,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-21T13:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "897f37e252e0",
+    "title": "Tech Help by Appointment",
+    "link": "https://southburlingtonlibrary.org/technology-help2",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-21T13:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "6884d6e22a28",
@@ -2985,14 +2961,6 @@
     "venue": "Fletcher Free Library"
    },
    {
-    "id": "85d66c906835",
-    "title": "SBPL at Rec-on-the-Go!! Chamberlain School",
-    "link": "https://southburlingtonlibrary.org/sbpl-at-rec-on-the-go-july-21",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-21T17:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "16b8e183357d",
     "title": "FREE July Fitness Series: Yoga",
     "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQzNDY0OTY=",
@@ -3015,6 +2983,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-21T17:30:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "85d66c906835",
+    "title": "SBPL at Rec-on-the-Go!! Chamberlain School",
+    "link": "https://southburlingtonlibrary.org/sbpl-at-rec-on-the-go-july-21",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-21T17:30:00-04:00",
+    "venue": ""
    },
    {
     "id": "b1030497573f",
@@ -3265,20 +3241,20 @@
     "venue": "New North End Branch"
    },
    {
-    "id": "3664408930d0",
-    "title": "Italian Conversation Group",
-    "link": "https://southburlingtonlibrary.org/italian-conversation-group",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T10:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "d6b107d1dc66",
     "title": "Outdoor Play Time",
     "link": "https://brownelllibrary.org/event/outdoor-play-time/2026-07-22/",
     "ts": "2026-07-12T06:59:21-04:00",
     "start": "2026-07-22T10:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "3664408930d0",
+    "title": "Italian Conversation Group",
+    "link": "https://southburlingtonlibrary.org/italian-conversation-group",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-22T10:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "5c4ebfc730ab",
@@ -3489,14 +3465,6 @@
     "venue": "Leddy Park"
    },
    {
-    "id": "ca72a3639392",
-    "title": "Switch It Up!",
-    "link": "https://southburlingtonlibrary.org/switch-it-up",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T17:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "d95f4c7dd7d8",
     "title": "Wednesday Wine Down Farmers Market",
     "link": "https://shelburnevineyard.com/events-list/wednesday-wine-down-farmers-market",
@@ -3527,6 +3495,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-22T17:00:00-04:00",
     "venue": "Farmhouse Tap & Grill"
+   },
+   {
+    "id": "ca72a3639392",
+    "title": "Switch It Up!",
+    "link": "https://southburlingtonlibrary.org/switch-it-up",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-22T17:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "15d875888c4a",
@@ -3577,14 +3553,6 @@
     "venue": "Fletcher Free Library"
    },
    {
-    "id": "c0d879fcbe04",
-    "title": "But Why Live: What are fossils?",
-    "link": "https://southburlingtonlibrary.org/but-why-live-what-are-fossils",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T17:30:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "2a2f79edf8ab",
     "title": "Pick-up Basketball",
     "link": "https://www.meetup.com/burlington-social-activites-group/events/315521331/",
@@ -3599,6 +3567,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-22T17:30:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "c0d879fcbe04",
+    "title": "But Why Live: What are fossils?",
+    "link": "https://southburlingtonlibrary.org/but-why-live-what-are-fossils",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-22T17:30:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "8d4496ee5b15",
@@ -3697,14 +3673,6 @@
     "venue": "Citizen Cider"
    },
    {
-    "id": "1204acf77e0d",
-    "title": "ELL Classes: English for Beginners and Intermediate Students",
-    "link": "https://calendar.time.ly/vfaca7kw/event/72210660/20260722183000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T18:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "45a2d2b9b644",
     "title": "Town of Shelburne Concert Series",
     "link": "https://community.sevendaysvt.com/event/town-of-shelburne-concert-series-45247584",
@@ -3767,14 +3735,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-22T19:00:00-04:00",
     "venue": "Higher Ground"
-   },
-   {
-    "id": "0513caf76bb8-1900",
-    "title": "TRIVIA NIGHT",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78077210/20260722190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-22T19:00:00-04:00",
-    "venue": "RiRa Irish Pub"
    },
    {
     "id": "8a31e5b6205e",
@@ -3921,20 +3881,20 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
-    "id": "3ea786697505",
-    "title": "Extend a Storytime- 9:15am Session",
-    "link": "https://southburlingtonlibrary.org/extend-a-storytime-915am-session",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-23T10:30:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "ae9e8f183044",
     "title": "Storytime",
     "link": "https://calendar.time.ly/nt0nyapn/event/69322057/20260723103000",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-23T10:30:00-04:00",
     "venue": "Winooski Memorial Library"
+   },
+   {
+    "id": "3ea786697505",
+    "title": "Extend a Storytime- 9:15am Session",
+    "link": "https://southburlingtonlibrary.org/extend-a-storytime-915am-session",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-23T10:30:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "ccf05270b3fb",
@@ -4713,14 +4673,6 @@
     "venue": "Iyengar Yoga Center of Vermont"
    },
    {
-    "id": "e278511ddab7",
-    "title": "SBPL at the Farmers Market!",
-    "link": "https://southburlingtonlibrary.org/sbpl-at-the-farmers-market-july-24",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-24T17:00:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "247f31c1e7c5",
     "title": "South Burlington Farmers Market",
     "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQxNTI4MTg=",
@@ -4757,6 +4709,14 @@
     "title": "Food Truck Friday with Tom Bisson & Nameless Tacos",
     "link": "https://www.facebook.com/events/1019562877260405/",
     "ts": "2026-07-10T23:07:48-04:00",
+    "start": "2026-07-24T17:00:00-04:00",
+    "venue": ""
+   },
+   {
+    "id": "e278511ddab7",
+    "title": "SBPL at the Farmers Market!",
+    "link": "https://southburlingtonlibrary.org/sbpl-at-the-farmers-market-july-24",
+    "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-24T17:00:00-04:00",
     "venue": ""
    },
@@ -4985,14 +4945,6 @@
     "venue": "Bay Crest Park"
    },
    {
-    "id": "ab967881e474",
-    "title": "Grab-&-Go: Mini Bookshelf",
-    "link": "https://southburlingtonlibrary.org/grab-and-go-mini-bookshelf",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T09:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "868f915116dc",
     "title": "Burlington Farmers Market",
     "link": "https://burlingtonfarmersmarket.org/",
@@ -5007,6 +4959,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-25T09:00:00-04:00",
     "venue": "Old Town Cafe & Comics"
+   },
+   {
+    "id": "ab967881e474",
+    "title": "Grab-&-Go: Mini Bookshelf",
+    "link": "https://southburlingtonlibrary.org/grab-and-go-mini-bookshelf",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-25T09:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "ae74c39ad584",
@@ -5121,14 +5081,6 @@
     "venue": "New North End Branch"
    },
    {
-    "id": "4e336a502066",
-    "title": "Chess Club",
-    "link": "https://southburlingtonlibrary.org/chess-club-digital-lab",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-25T11:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "677324ea9c3f",
     "title": "BTV Market",
     "link": "https://events.uvm.edu/event/btv-market-2581",
@@ -5159,6 +5111,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-25T11:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "4e336a502066",
+    "title": "Chess Club",
+    "link": "https://southburlingtonlibrary.org/chess-club-digital-lab",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-25T11:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "8c60a590dff2",
@@ -5433,14 +5393,6 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
-    "id": "3fed2b6f90b9",
-    "title": "How to Be a Friendly Pirate!",
-    "link": "https://southburlingtonlibrary.org/how-to-be-a-friendly-pirate",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-26T11:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "226b9ca57c83",
     "title": "Centennial Hills Hike and Winooski Circle",
     "link": "https://www.meetup.com/burlington-social-activites-group/events/315226295/",
@@ -5455,6 +5407,14 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-07-26T11:00:00-04:00",
     "venue": "Queen City Lodge Oddfellows Hall"
+   },
+   {
+    "id": "3fed2b6f90b9",
+    "title": "How to Be a Friendly Pirate!",
+    "link": "https://southburlingtonlibrary.org/how-to-be-a-friendly-pirate",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-26T11:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "014881a26a09",
@@ -5495,14 +5455,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-26T12:00:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
-   },
-   {
-    "id": "75166e78a793",
-    "title": "Open Studio",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77731307/20260726123000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-26T12:30:00-04:00",
-    "venue": "Expressive Arts Burlington Studio"
    },
    {
     "id": "b1e878b856dc",
@@ -5697,14 +5649,6 @@
     "venue": "Waterfront, Burlington"
    },
    {
-    "id": "d018d09d4f1f",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260726190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-26T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "7c86e21e8510",
     "title": "Slippers",
     "link": "https://foambrewers.com/events/slippers",
@@ -5729,14 +5673,6 @@
     "venue": "University of Vermont Occupational Health and Safety Office (OHSO)"
    },
    {
-    "id": "1b5083ac44c3",
-    "title": "Art Wall - Vibrant Lives: Discovering Our Roots of Black Vermont",
-    "link": "https://southburlingtonlibrary.org/art-wall-vibrant-lives-discovering-our-roots-of-black-vermont",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-27T09:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "1c57c01bc724",
     "title": "FREE July Fitness Series: Tai Chi",
     "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQzNDY0OTM=",
@@ -5751,6 +5687,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-27T09:00:00-04:00",
     "venue": "The Flynn"
+   },
+   {
+    "id": "1b5083ac44c3",
+    "title": "Art Wall - Vibrant Lives: Discovering Our Roots of Black Vermont",
+    "link": "https://southburlingtonlibrary.org/art-wall-vibrant-lives-discovering-our-roots-of-black-vermont",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-27T09:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "c512ce2e8099",
@@ -5879,14 +5823,6 @@
     "ts": "2026-07-11T17:24:06-04:00",
     "start": "2026-07-27T15:30:00-04:00",
     "venue": "Brownell Library"
-   },
-   {
-    "id": "d1534f66e638",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260727153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-27T15:30:00-07:00",
-    "venue": ""
    },
    {
     "id": "0234fc097c5c",
@@ -6297,20 +6233,20 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
-    "id": "f9760c5ef66f",
-    "title": "Unearth a Story Summer Craftytown! Soil Layer Dirt Cups",
-    "link": "https://southburlingtonlibrary.org/unearth-a-story-summer-craftytown-soil-layer-dirt-cups",
-    "ts": "2026-07-16T17:44:24-04:00",
-    "start": "2026-07-28T13:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "6e10a94bc9df",
     "title": "VINS! Birds are Dinosaurs!",
     "link": "https://brownelllibrary.org/event/vins-birds-are-dinosaurs/",
     "ts": "2026-07-11T17:24:06-04:00",
     "start": "2026-07-28T13:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "f9760c5ef66f",
+    "title": "Unearth a Story Summer Craftytown! Soil Layer Dirt Cups",
+    "link": "https://southburlingtonlibrary.org/unearth-a-story-summer-craftytown-soil-layer-dirt-cups",
+    "ts": "2026-07-16T17:44:24-04:00",
+    "start": "2026-07-28T13:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "6d03264b709d",
@@ -6665,20 +6601,20 @@
     "venue": ""
    },
    {
-    "id": "9ab3135199a5",
-    "title": "Babytime",
-    "link": "https://southburlingtonlibrary.org/babytime-wednesday-mornings",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-29T10:30:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "60d9bf32fe57",
     "title": "Therapy Dog Mick Visit",
     "link": "https://fletcherfree.libcal.com/event/16149321",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-29T10:30:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "9ab3135199a5",
+    "title": "Babytime",
+    "link": "https://southburlingtonlibrary.org/babytime-wednesday-mornings",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-29T10:30:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "13cd5f4e6b4f",
@@ -6801,14 +6737,6 @@
     "venue": ""
    },
    {
-    "id": "973eeeea5bf7",
-    "title": "Switch It Up!",
-    "link": "https://southburlingtonlibrary.org/switch-it-up",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-29T17:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "0aabd21c4b8d",
     "title": "Wednesday Wine Down Farmers Market",
     "link": "https://shelburnevineyard.com/events-list/wednesday-wine-down-farmers-market",
@@ -6839,6 +6767,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-29T17:00:00-04:00",
     "venue": "Leddy Park"
+   },
+   {
+    "id": "973eeeea5bf7",
+    "title": "Switch It Up!",
+    "link": "https://southburlingtonlibrary.org/switch-it-up",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-29T17:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "7aa5db239c06",
@@ -6985,14 +6921,6 @@
     "venue": "Glory Flower Farm"
    },
    {
-    "id": "f842e3ec3aff",
-    "title": "ELL Classes: English for Beginners and Intermediate Students",
-    "link": "https://calendar.time.ly/vfaca7kw/event/72210660/20260729183000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-29T18:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "256d2d44abf2",
     "title": "Town of Shelburne Concert Series",
     "link": "https://community.sevendaysvt.com/event/town-of-shelburne-concert-series-45247584",
@@ -7047,14 +6975,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-29T19:00:00-04:00",
     "venue": "Vermont Comedy Club"
-   },
-   {
-    "id": "54dd172f512d-1900",
-    "title": "TRIVIA NIGHT",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78077210/20260729190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-29T19:00:00-04:00",
-    "venue": "RiRa Irish Pub"
    },
    {
     "id": "e1a984d636a9",
@@ -7169,20 +7089,20 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
-    "id": "024e8b19dab5",
-    "title": "Extend a Storytime- 9:15am Session",
-    "link": "https://southburlingtonlibrary.org/extend-a-storytime-915am-session",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-07-30T10:30:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "fa9ec85bf653",
     "title": "Storytime",
     "link": "https://calendar.time.ly/nt0nyapn/event/69322057/20260730103000",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-30T10:30:00-04:00",
     "venue": "Winooski Memorial Library"
+   },
+   {
+    "id": "024e8b19dab5",
+    "title": "Extend a Storytime- 9:15am Session",
+    "link": "https://southburlingtonlibrary.org/extend-a-storytime-915am-session",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-07-30T10:30:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "f4920185aad0",
@@ -8369,14 +8289,6 @@
     "venue": "Waterfront Park"
    },
    {
-    "id": "e3a287416446",
-    "title": "Author Event: Chris Bohjalian",
-    "link": "https://southburlingtonlibrary.org/author-talk-chris-bohjalian",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-01T19:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "405dd361179d",
     "title": "JAH RED",
     "link": "https://foambrewers.com/events/jah-red-3tj9q",
@@ -8399,6 +8311,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-01T19:00:00-04:00",
     "venue": "Higher Ground"
+   },
+   {
+    "id": "e3a287416446",
+    "title": "Author Event: Chris Bohjalian",
+    "link": "https://southburlingtonlibrary.org/author-talk-chris-bohjalian",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-01T19:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "61fff78a1cf8",
@@ -8729,14 +8649,6 @@
     "venue": "Higher Ground"
    },
    {
-    "id": "5c1436a17307",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260802190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-02T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "07cf5408c228",
     "title": "Reversal of Man // NØ MAN // Blossom // CORRUPT WORLD",
     "link": "https://www.helloburlingtonvt.com/event/reversal-of-man-n%c3%98-man-blossom-corrupt-world/7271/",
@@ -8879,14 +8791,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-03T15:00:00-04:00",
     "venue": "South Burlington Public Library"
-   },
-   {
-    "id": "f01da97388a1",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260803153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-03T15:30:00-07:00",
-    "venue": ""
    },
    {
     "id": "9ee276fc16a6",
@@ -9265,20 +9169,20 @@
     "venue": "First Unitarian Universalist Society of Burlington"
    },
    {
-    "id": "ea5f01ab9bf9",
-    "title": "SBPL at Rec-on-the-Go!! Queen City Park",
-    "link": "https://southburlingtonlibrary.org/sbpl-at-rec-on-the-go-august-4",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-04T17:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "7f10f3185176",
     "title": "Herbal Oil Infusions, Salves and Lotions",
     "link": "https://www.mychamplainvalley.com/calendar/#/details/herbal-oil-infusions-salves-and-lotions/18757503/2026-08-04T17",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-04T17:30:00-04:00",
     "venue": "Shelburne Farms"
+   },
+   {
+    "id": "ea5f01ab9bf9",
+    "title": "SBPL at Rec-on-the-Go!! Queen City Park",
+    "link": "https://southburlingtonlibrary.org/sbpl-at-rec-on-the-go-august-4",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-04T17:30:00-04:00",
+    "venue": ""
    },
    {
     "id": "1e223f4e5ec5",
@@ -9601,14 +9505,6 @@
     "venue": ""
    },
    {
-    "id": "6d563bdf0f21",
-    "title": "Switch It Up!",
-    "link": "https://southburlingtonlibrary.org/switch-it-up",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-05T17:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "d3a078f3231a",
     "title": "Wednesday Wine Down Farmers Market",
     "link": "https://shelburnevineyard.com/events-list/wednesday-wine-down-farmers-market",
@@ -9639,6 +9535,14 @@
     "ts": "2026-07-15T17:37:29-04:00",
     "start": "2026-08-05T17:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "6d563bdf0f21",
+    "title": "Switch It Up!",
+    "link": "https://southburlingtonlibrary.org/switch-it-up",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-05T17:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "28938ae4988d",
@@ -9737,14 +9641,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "c19d2ef3853d",
-    "title": "ELL Classes: English for Beginners and Intermediate Students",
-    "link": "https://calendar.time.ly/vfaca7kw/event/72210660/20260805183000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-05T18:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "36f2f3c88013",
     "title": "Town of Shelburne Concert Series",
     "link": "https://community.sevendaysvt.com/event/town-of-shelburne-concert-series-45247584",
@@ -9815,14 +9711,6 @@
     "ts": "2026-07-10T23:07:48-04:00",
     "start": "2026-08-05T19:00:00-04:00",
     "venue": "Champlain Valley Exposition"
-   },
-   {
-    "id": "f717a0667568-1900",
-    "title": "TRIVIA NIGHT",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78077210/20260805190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-05T19:00:00-04:00",
-    "venue": "RiRa Irish Pub"
    },
    {
     "id": "d7cca1f21d5f",
@@ -9945,20 +9833,20 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
-    "id": "9ffa0b142acb",
-    "title": "Extend a Storytime- 9:15am Session",
-    "link": "https://southburlingtonlibrary.org/extend-a-storytime-915am-session",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-06T10:30:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "bbb3c5de6690",
     "title": "Storytime",
     "link": "https://calendar.time.ly/nt0nyapn/event/69322057/20260806103000",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-06T10:30:00-04:00",
     "venue": "Winooski Memorial Library"
+   },
+   {
+    "id": "9ffa0b142acb",
+    "title": "Extend a Storytime- 9:15am Session",
+    "link": "https://southburlingtonlibrary.org/extend-a-storytime-915am-session",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-06T10:30:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "a0a5418e987e",
@@ -10337,14 +10225,6 @@
     "venue": "Phoenix Books"
    },
    {
-    "id": "f71f68be3fa5",
-    "title": "live laugh lava: a comedy open mic",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77800444/20260806193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-06T19:30:00-04:00",
-    "venue": "Radio Bean"
-   },
-   {
     "id": "1f639ba942a1",
     "title": "Fruition",
     "link": "https://highergroundmusic.com/events/fruition/",
@@ -10417,20 +10297,20 @@
     "venue": "Pingala Café North Avenue"
    },
    {
-    "id": "23d02b5807b4",
-    "title": "Tech Help by Appointment",
-    "link": "https://southburlingtonlibrary.org/tech-help",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-07T10:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "2b25c46815e9",
     "title": "Sidewalk Sale",
     "link": "https://events.uvm.edu/event/sidewalk-sale",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-07T10:00:00-04:00",
     "venue": "Church Street Marketplace"
+   },
+   {
+    "id": "23d02b5807b4",
+    "title": "Tech Help by Appointment",
+    "link": "https://southburlingtonlibrary.org/tech-help",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-07T10:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "b213cf5be974",
@@ -10633,14 +10513,6 @@
     "venue": "Iyengar Yoga Center of Vermont"
    },
    {
-    "id": "0e2ac60d0687",
-    "title": "SBPL at the Farmers Market!",
-    "link": "https://southburlingtonlibrary.org/sbpl-at-the-farmers-market-august-7",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-07T17:00:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "693545d46a6a",
     "title": "South Burlington Farmers Market",
     "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQxNTI5Nzg=",
@@ -10671,6 +10543,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-07T17:00:00-04:00",
     "venue": "South Burlington Parks & Rec"
+   },
+   {
+    "id": "0e2ac60d0687",
+    "title": "SBPL at the Farmers Market!",
+    "link": "https://southburlingtonlibrary.org/sbpl-at-the-farmers-market-august-7",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-07T17:00:00-04:00",
+    "venue": ""
    },
    {
     "id": "e97712a7cff4",
@@ -10851,7 +10731,7 @@
    {
     "id": "b1482b3e2c87",
     "title": "Board Game Brunch",
-    "link": "https://www.meetup.com/friendlytabletopgamers/events/sxhfztyjclblb/",
+    "link": "https://www.meetup.com/friendlytabletopgamers/events/315747354/",
     "ts": "2026-07-16T07:20:49-04:00",
     "start": "2026-08-08T09:00:00-04:00",
     "venue": "Old Town Cafe & Comics"
@@ -10867,7 +10747,7 @@
    {
     "id": "1a3ebc4a3d1d",
     "title": "BTown Coffee Club",
-    "link": "https://www.meetup.com/burlington-social-activites-group/events/csrdwtyjclblb/",
+    "link": "https://www.meetup.com/burlington-social-activites-group/events/315748075/",
     "ts": "2026-07-17T07:08:33-04:00",
     "start": "2026-08-08T10:00:00-04:00",
     "venue": "Zero Gravity Craft Brewery"
@@ -11481,14 +11361,6 @@
     "venue": "Waterfront, Burlington"
    },
    {
-    "id": "12817856e815",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260809190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-09T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "6c1752e36876",
     "title": "Save Ferris",
     "link": "https://highergroundmusic.com/events/save-ferris/",
@@ -11590,14 +11462,6 @@
     "link": "https://fletcherfree.libcal.com/event/17127680",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-10T14:30:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "932d27f94b44",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260810153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-10T15:30:00-07:00",
     "venue": ""
    },
    {
@@ -12441,14 +12305,6 @@
     "venue": "Halvorson's Upstreet Cafe"
    },
    {
-    "id": "2d20ad60a923",
-    "title": "ELL Classes: English for Beginners and Intermediate Students",
-    "link": "https://calendar.time.ly/vfaca7kw/event/72210660/20260812183000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-12T18:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "834a83196ddc",
     "title": "Town of Shelburne Concert Series",
     "link": "https://community.sevendaysvt.com/event/town-of-shelburne-concert-series-45247584",
@@ -12511,14 +12367,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-12T19:00:00-04:00",
     "venue": "Shelburne Museum"
-   },
-   {
-    "id": "6ee3982f2afe-1900",
-    "title": "TRIVIA NIGHT",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78077210/20260812190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-12T19:00:00-04:00",
-    "venue": "RiRa Irish Pub"
    },
    {
     "id": "bbbfb5f63f7d",
@@ -12705,20 +12553,20 @@
     "venue": "Heineberg Senior Center"
    },
    {
-    "id": "4bb1b0726fc6",
-    "title": "Knit for your Neighbors",
-    "link": "https://southburlingtonlibrary.org/knit-for-your-neighbors",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-13T14:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "45131fa0ce56",
     "title": "Food Challenge for Teens",
     "link": "https://calendar.time.ly/nt0nyapn/event/78384298/20260813140000",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-13T14:00:00-04:00",
     "venue": "Winooski Memorial Library"
+   },
+   {
+    "id": "4bb1b0726fc6",
+    "title": "Knit for your Neighbors",
+    "link": "https://southburlingtonlibrary.org/knit-for-your-neighbors",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-13T14:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "81d588b75847",
@@ -13689,14 +13537,6 @@
     "venue": "Hot Yoga Burlington"
    },
    {
-    "id": "5b11ab9e88c9",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260816190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-16T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "5738325bbea1-2000",
     "title": "Bob Wagner Album Release",
     "link": "https://www.flynnvt.org/Events/2026/8/Bob-Wagner",
@@ -13713,20 +13553,20 @@
     "venue": "Einstein Tap House"
    },
    {
-    "id": "7939e5103bbf",
-    "title": "Art Wall - Vibrant Lives: Discovering Our Roots of Black Vermont",
-    "link": "https://southburlingtonlibrary.org/art-wall-vibrant-lives-discovering-our-roots-of-black-vermont",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-17T09:00:00-04:00",
-    "venue": "South Burlington Public Library"
-   },
-   {
     "id": "c034a244408a",
     "title": "The Library is closed in observance of Bennington Battle Day",
     "link": "https://brownelllibrary.org/event/the-library-is-closed-in-observance-of-bennington-battle-day/",
     "ts": "2026-07-11T17:24:06-04:00",
     "start": "2026-08-17T09:00:00-04:00",
     "venue": "Brownell Library"
+   },
+   {
+    "id": "7939e5103bbf",
+    "title": "Art Wall - Vibrant Lives: Discovering Our Roots of Black Vermont",
+    "link": "https://southburlingtonlibrary.org/art-wall-vibrant-lives-discovering-our-roots-of-black-vermont",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-17T09:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "7e7cee99513a",
@@ -13799,14 +13639,6 @@
     "ts": "2026-07-16T17:44:24-04:00",
     "start": "2026-08-17T13:00:00-04:00",
     "venue": "Brownell Library"
-   },
-   {
-    "id": "c5607ba4433f",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260817153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-17T15:30:00-07:00",
-    "venue": ""
    },
    {
     "id": "e03b4f9b24dd",
@@ -14433,14 +14265,6 @@
     "venue": "Citizen Cider"
    },
    {
-    "id": "c915df9917f0",
-    "title": "ELL Classes: English for Beginners and Intermediate Students",
-    "link": "https://calendar.time.ly/vfaca7kw/event/72210660/20260819183000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-19T18:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "8575f5dc2a17",
     "title": "Town of Shelburne Concert Series",
     "link": "https://community.sevendaysvt.com/event/town-of-shelburne-concert-series-45247584",
@@ -14487,14 +14311,6 @@
     "ts": "2026-07-17T17:30:53-04:00",
     "start": "2026-08-19T19:00:00-04:00",
     "venue": "Vermont Comedy Club"
-   },
-   {
-    "id": "cbc595f36c13-1900",
-    "title": "TRIVIA NIGHT",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78077210/20260819190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-19T19:00:00-04:00",
-    "venue": "RiRa Irish Pub"
    },
    {
     "id": "4d802722c67e",
@@ -15625,14 +15441,6 @@
     "venue": "Hot Yoga Burlington"
    },
    {
-    "id": "e93481c5a2ff",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260823190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-23T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "b47eb2150683",
     "title": "Mad Caddies",
     "link": "https://highergroundmusic.com/events/mad-caddies/",
@@ -15735,14 +15543,6 @@
     "ts": "2026-07-16T17:44:24-04:00",
     "start": "2026-08-24T13:00:00-04:00",
     "venue": "Brownell Library"
-   },
-   {
-    "id": "f7e5cca1fde6",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260824153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-24T15:30:00-07:00",
-    "venue": ""
    },
    {
     "id": "737cec66bcb9",
@@ -15935,14 +15735,6 @@
     "ts": "2026-07-15T17:37:29-04:00",
     "start": "2026-08-25T11:00:00-04:00",
     "venue": "UVM Davis Center"
-   },
-   {
-    "id": "d6b1d6f3b15a",
-    "title": "Sing Along with Linda Bassick at FFL",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76866004/20260825110000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-25T11:00:00-04:00",
-    "venue": ""
    },
    {
     "id": "6b97139eddc8",
@@ -16249,14 +16041,6 @@
     "venue": "Howe Library"
    },
    {
-    "id": "f6b9ceb748e2",
-    "title": "Open Studio",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77731307/20260826123000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-26T12:30:00-04:00",
-    "venue": "Expressive Arts Burlington Studio"
-   },
-   {
     "id": "232a8386d563-1300",
     "title": "Tech Help with Clif",
     "link": "https://brownelllibrary.org/event/tech-help-with-clif-7/2026-08-26/",
@@ -16273,20 +16057,20 @@
     "venue": "Merrymac Farm Sanctuary"
    },
    {
-    "id": "df3f319b1a6d",
-    "title": "Kids Garden!",
-    "link": "https://southburlingtonlibrary.org/kids-garden-fall",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-26T15:00:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "e58b00a06bfb",
     "title": "Pub Hour",
     "link": "https://calendar.time.ly/vfaca7kw/event/78304347/20260826150000",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-26T15:00:00-04:00",
     "venue": "Vermont Pub and Brewery"
+   },
+   {
+    "id": "df3f319b1a6d",
+    "title": "Kids Garden!",
+    "link": "https://southburlingtonlibrary.org/kids-garden-fall",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-26T15:00:00-04:00",
+    "venue": ""
    },
    {
     "id": "c118f39040d4",
@@ -16303,14 +16087,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-26T16:00:00-04:00",
     "venue": "Hilton Burlington Lake Champlain"
-   },
-   {
-    "id": "9f14be44c2f8",
-    "title": "Switch It Up!",
-    "link": "https://southburlingtonlibrary.org/switch-it-up",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-26T17:00:00-04:00",
-    "venue": "South Burlington Public Library"
    },
    {
     "id": "68d32f4a206a",
@@ -16335,6 +16111,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-26T17:00:00-04:00",
     "venue": ""
+   },
+   {
+    "id": "9f14be44c2f8",
+    "title": "Switch It Up!",
+    "link": "https://southburlingtonlibrary.org/switch-it-up",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-26T17:00:00-04:00",
+    "venue": "South Burlington Public Library"
    },
    {
     "id": "acb4d5b6bd78",
@@ -16417,14 +16201,6 @@
     "venue": "Halvorson's Upstreet Cafe"
    },
    {
-    "id": "7b89a2bb5148",
-    "title": "ELL Classes: English for Beginners and Intermediate Students",
-    "link": "https://calendar.time.ly/vfaca7kw/event/72210660/20260826183000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-26T18:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "fc4ba17af608",
     "title": "Town of Shelburne Concert Series",
     "link": "https://community.sevendaysvt.com/event/town-of-shelburne-concert-series-45247584",
@@ -16471,14 +16247,6 @@
     "ts": "2026-07-17T17:30:53-04:00",
     "start": "2026-08-26T19:00:00-04:00",
     "venue": "Vermont Comedy Club"
-   },
-   {
-    "id": "b3bdd2dfbbc2-1900",
-    "title": "TRIVIA NIGHT",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78077210/20260826190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-26T19:00:00-04:00",
-    "venue": "RiRa Irish Pub"
    },
    {
     "id": "46c9a725f79f",
@@ -17545,14 +17313,6 @@
     "venue": "Higher Ground"
    },
    {
-    "id": "7517d91c9f99",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260830190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-30T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "964ce7700848",
     "title": "Karaoke Sundays!",
     "link": "https://www.helloburlingtonvt.com/event/karaoke-sundays!/4512/",
@@ -17623,14 +17383,6 @@
     "ts": "2026-07-16T17:44:24-04:00",
     "start": "2026-08-31T13:00:00-04:00",
     "venue": "Brownell Library"
-   },
-   {
-    "id": "13b10e153164",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260831153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-31T15:30:00-07:00",
-    "venue": ""
    },
    {
     "id": "9adcd85128c4",
@@ -18057,14 +17809,6 @@
     "venue": "Fletcher Free Library"
    },
    {
-    "id": "8d52a3f9c7c7",
-    "title": "Kids Garden!",
-    "link": "https://southburlingtonlibrary.org/kids-garden-fall",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-02T15:00:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "937a7dc91697",
     "title": "Pub Hour",
     "link": "https://calendar.time.ly/vfaca7kw/event/78304347/20260902150000",
@@ -18079,6 +17823,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-02T15:00:00-04:00",
     "venue": "UVM Davis Center"
+   },
+   {
+    "id": "8d52a3f9c7c7",
+    "title": "Kids Garden!",
+    "link": "https://southburlingtonlibrary.org/kids-garden-fall",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-09-02T15:00:00-04:00",
+    "venue": ""
    },
    {
     "id": "d42a542673ec",
@@ -18193,14 +17945,6 @@
     "venue": "Brownell Library"
    },
    {
-    "id": "325ec952fcb6",
-    "title": "ELL Classes: English for Beginners and Intermediate Students",
-    "link": "https://calendar.time.ly/vfaca7kw/event/72210660/20260902183000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-02T18:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "4a2f48a7c82e",
     "title": "Bluegrass & Pizza",
     "link": "https://community.sevendaysvt.com/event/bluegrass-and-pizza-44722049",
@@ -18239,14 +17983,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-02T19:00:00-04:00",
     "venue": "Vermont Comedy Club"
-   },
-   {
-    "id": "9799cae39b5e-1900",
-    "title": "TRIVIA NIGHT",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78077210/20260902190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-02T19:00:00-04:00",
-    "venue": "RiRa Irish Pub"
    },
    {
     "id": "b427d302dacb",
@@ -18349,14 +18085,6 @@
     "title": "Part-Time Jobs Fair",
     "link": "https://events.uvm.edu/event/uvm-part-time-jobs-fair-2026",
     "ts": "2026-07-16T17:44:24-04:00",
-    "start": "2026-09-03T11:00:00-04:00",
-    "venue": "UVM Davis Center"
-   },
-   {
-    "id": "b28e450f2cfb",
-    "title": "2026 UVM Part-Time Jobs Fair",
-    "link": "https://events.uvm.edu/event/uvm-part-time-jobs-fair-2026",
-    "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-03T11:00:00-04:00",
     "venue": "UVM Davis Center"
    },
@@ -18575,14 +18303,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-03T19:00:00-04:00",
     "venue": "Vermont Comedy Club"
-   },
-   {
-    "id": "277554821582",
-    "title": "live laugh lava: a comedy open mic",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77800444/20260903193000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-03T19:30:00-04:00",
-    "venue": "Radio Bean"
    },
    {
     "id": "2ae61c191a33",
@@ -19257,14 +18977,6 @@
     "venue": "Higher Ground"
    },
    {
-    "id": "37405bc69bd5",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260906190000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-06T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "8a46ddb79ecd",
     "title": "Sunday Night Mass",
     "link": "https://highergroundmusic.com/events/sunday-night-mass-3/",
@@ -19359,14 +19071,6 @@
     "ts": "2026-07-16T17:44:24-04:00",
     "start": "2026-09-07T13:00:00-04:00",
     "venue": "Brownell Library"
-   },
-   {
-    "id": "375bd86e590d",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260907153000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-07T15:30:00-07:00",
-    "venue": ""
    },
    {
     "id": "b11688c97a8c",
@@ -19841,20 +19545,20 @@
     "venue": "Shelburne Museum"
    },
    {
-    "id": "885613d57809",
-    "title": "Kids Garden!",
-    "link": "https://southburlingtonlibrary.org/kids-garden-fall",
-    "ts": "2026-07-11T06:44:31-04:00",
-    "start": "2026-09-09T15:00:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "73990d2d2c94",
     "title": "Pub Hour",
     "link": "https://calendar.time.ly/vfaca7kw/event/78304347/20260909150000",
     "ts": "2026-07-11T06:44:31-04:00",
     "start": "2026-09-09T15:00:00-04:00",
     "venue": "Vermont Pub and Brewery"
+   },
+   {
+    "id": "885613d57809",
+    "title": "Kids Garden!",
+    "link": "https://southburlingtonlibrary.org/kids-garden-fall",
+    "ts": "2026-07-11T06:44:31-04:00",
+    "start": "2026-09-09T15:00:00-04:00",
+    "venue": ""
    },
    {
     "id": "6ee2135802b5",
@@ -19969,14 +19673,6 @@
     "venue": "Halvorson's Upstreet Cafe"
    },
    {
-    "id": "daf52a979f2a",
-    "title": "ELL Classes: English for Beginners and Intermediate Students",
-    "link": "https://calendar.time.ly/vfaca7kw/event/72210660/20260909183000",
-    "ts": "2026-07-11T06:44:31-04:00",
-    "start": "2026-09-09T18:30:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "beb5cf2e3a8a",
     "title": "Bluegrass & Pizza",
     "link": "https://community.sevendaysvt.com/event/bluegrass-and-pizza-44722049",
@@ -20015,14 +19711,6 @@
     "ts": "2026-07-15T07:13:29-04:00",
     "start": "2026-09-09T19:00:00-04:00",
     "venue": "Higher Ground"
-   },
-   {
-    "id": "b2083969c57a-1900",
-    "title": "TRIVIA NIGHT",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78077210/20260909190000",
-    "ts": "2026-07-11T06:44:31-04:00",
-    "start": "2026-09-09T19:00:00-04:00",
-    "venue": "RiRa Irish Pub"
    },
    {
     "id": "c5b444aa4bab",
@@ -20569,14 +20257,6 @@
     "venue": "Vermont Comedy Club"
    },
    {
-    "id": "440f93adddb3",
-    "title": "Venetian Karaoke",
-    "link": "https://calendar.time.ly/vfaca7kw/event/77087444/20260913190000",
-    "ts": "2026-07-15T07:13:29-04:00",
-    "start": "2026-09-13T19:00:00-07:00",
-    "venue": ""
-   },
-   {
     "id": "1d180c993bbb",
     "title": "Sicard Hollow",
     "link": "https://highergroundmusic.com/events/sicard-hollow/",
@@ -20623,14 +20303,6 @@
     "ts": "2026-07-16T17:44:24-04:00",
     "start": "2026-09-14T13:00:00-04:00",
     "venue": "Brownell Library"
-   },
-   {
-    "id": "3460e17593df",
-    "title": "Burlington Electric Department Office Hours",
-    "link": "https://calendar.time.ly/vfaca7kw/event/76131023/20260914153000",
-    "ts": "2026-07-16T07:20:49-04:00",
-    "start": "2026-09-14T15:30:00-07:00",
-    "venue": ""
    },
    {
     "id": "5cc37ea49776",
@@ -20913,20 +20585,20 @@
     "venue": "Fletcher Free Library"
    },
    {
-    "id": "06b98c726449",
-    "title": "Kids Garden!",
-    "link": "https://southburlingtonlibrary.org/kids-garden-fall",
-    "ts": "2026-07-18T06:48:11-04:00",
-    "start": "2026-09-16T15:00:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "a104fdf9a9a7",
     "title": "Pub Hour",
     "link": "https://calendar.time.ly/vfaca7kw/event/78304347/20260916150000",
     "ts": "2026-07-18T06:48:11-04:00",
     "start": "2026-09-16T15:00:00-04:00",
     "venue": "Vermont Pub and Brewery"
+   },
+   {
+    "id": "06b98c726449",
+    "title": "Kids Garden!",
+    "link": "https://southburlingtonlibrary.org/kids-garden-fall",
+    "ts": "2026-07-18T06:48:11-04:00",
+    "start": "2026-09-16T15:00:00-04:00",
+    "venue": ""
    },
    {
     "id": "3ce516931a52",
