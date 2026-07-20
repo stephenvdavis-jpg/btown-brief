@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-20T08:02:35-04:00",
+ "generated": "2026-07-20T17:47:52-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
    "count": 27,
-   "seconds": 5.7
+   "seconds": 6.1
   },
   "breweries": {
    "label": "Breweries & Taprooms",
    "count": 36,
-   "seconds": 3.7
+   "seconds": 5.3
   },
   "brownell": {
    "label": "Brownell Library",
    "count": 62,
-   "seconds": 2.9
+   "seconds": 3.7
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
-   "count": 135,
-   "seconds": 2.7
+   "count": 143,
+   "seconds": 2.5
   },
   "churchst": {
    "label": "Church Street Marketplace",
    "count": 86,
-   "seconds": 1.8
+   "seconds": 2.5
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -44,17 +44,17 @@
   "farmersmarket": {
    "label": "Burlington Farmers Market",
    "count": 8,
-   "seconds": 0.3
+   "seconds": 0.4
   },
   "fletcherfree": {
    "label": "Fletcher Free Library",
-   "count": 220,
-   "seconds": 70.5
+   "count": 219,
+   "seconds": 73.9
   },
   "flynn": {
    "label": "The Flynn",
    "count": 16,
-   "seconds": 2.4
+   "seconds": 2.9
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -64,12 +64,12 @@
   "helloburlington": {
    "label": "Hello Burlington",
    "count": 750,
-   "seconds": 37.6
+   "seconds": 38.5
   },
   "higherground": {
    "label": "Higher Ground",
-   "count": 61,
-   "seconds": 101.7
+   "count": 62,
+   "seconds": 95.6
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -78,28 +78,28 @@
   },
   "loveburlington": {
    "label": "Love Burlington",
-   "count": 576,
-   "seconds": 74.9
+   "count": 579,
+   "seconds": 79.1
   },
   "meetup": {
    "label": "Meetup",
    "count": 62,
-   "seconds": 124.3
+   "seconds": 129.4
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 21,
-   "seconds": 15.2
+   "seconds": 15.4
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
-   "count": 70,
-   "seconds": 8.4
+   "count": 0,
+   "error": "events listing markup not found (page layout changed?)"
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
-   "count": 44,
-   "seconds": 26.9
+   "count": 45,
+   "seconds": 29.3
   },
   "sevendays": {
    "label": "Seven Days",
@@ -113,18 +113,18 @@
   },
   "uvm": {
    "label": "UVM & Colleges",
-   "count": 160,
-   "seconds": 9.4
+   "count": 178,
+   "seconds": 9.9
   },
   "uvmbored": {
    "label": "UVM Bored",
-   "count": 125,
+   "count": 143,
    "seconds": 0.1
   },
   "vcc": {
    "label": "Vermont Comedy Club",
    "count": 52,
-   "seconds": 70.1
+   "seconds": 71.2
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
@@ -132,229 +132,11 @@
    "seconds": 0.3
   }
  },
- "gathered": 2672,
- "afterDedup": 1325,
- "duplicatesMerged": 1347,
- "final": 2344,
+ "gathered": 2650,
+ "afterDedup": 1279,
+ "duplicatesMerged": 1371,
+ "final": 2367,
  "mergeLog": [
-  {
-   "kept": {
-    "title": "TRIVIA NIGHT",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-19"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-19"
-  },
-  {
-   "kept": {
-    "title": "Pub Hour",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-19"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-19"
-  },
-  {
-   "kept": {
-    "title": "GROW Preschool Yoga",
-    "source": "fletcherfree"
-   },
-   "merged_sources": [
-    "fletcherfree",
-    "loveburlington"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Italian Conversation Group",
-    "source": "fletcherfree"
-   },
-   "merged_sources": [
-    "fletcherfree",
-    "loveburlington"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Charles Wesley Godwin",
-    "source": "higherground"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "higherground",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Miciah Bay Gault | The Nobody Code",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Thirsty Thursday",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Social Pulse: 8/20 Bubble Run 5K - Farrell Park",
-    "source": "sbrec"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "sbrec"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Pub Hour",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Hot Dog & A Can Thursdays",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-20"
-  },
-  {
-   "kept": {
-    "title": "Summer Concert Series: Baby Fearn",
-    "source": "bca"
-   },
-   "merged_sources": [
-    "bca",
-    "churchst",
-    "helloburlington",
-    "loveburlington",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-21"
-  },
-  {
-   "kept": {
-    "title": "Angelique Kidjo",
-    "source": "flynn"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "flynn",
-    "loveburlington"
-   ],
-   "date": "2026-08-21"
-  },
-  {
-   "kept": {
-    "title": "Charles Wesley Godwin",
-    "source": "higherground"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "helloburlington",
-    "higherground"
-   ],
-   "date": "2026-08-21"
-  },
-  {
-   "kept": {
-    "title": "Live DJ at Ri Ra!",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-21"
-  },
-  {
-   "kept": {
-    "title": "Food Truck Fridays",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-21"
-  },
   {
    "kept": {
     "title": "Dinosaur Safari Exhibit",
@@ -496,6 +278,17 @@
     "loveburlington",
     "uvm",
     "uvmbored"
+   ],
+   "date": "2026-08-23"
+  },
+  {
+   "kept": {
+    "title": "HIDDEN BRAIN",
+    "source": "flynn"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "flynn"
    ],
    "date": "2026-08-23"
   },
@@ -1055,7 +848,29 @@
   },
   {
    "kept": {
+    "title": "Coffee on the Commons",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-08-31"
+  },
+  {
+   "kept": {
     "title": "CAT ECare Training",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-08-31"
+  },
+  {
+   "kept": {
+    "title": "Catamount Cinema",
     "source": "uvm"
    },
    "merged_sources": [
@@ -1145,6 +960,39 @@
   },
   {
    "kept": {
+    "title": "Tacos for Transfers",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-01"
+  },
+  {
+   "kept": {
+    "title": "Meet the Fraternities & Sororities",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-01"
+  },
+  {
+   "kept": {
+    "title": "Greta's Game Night",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-01"
+  },
+  {
+   "kept": {
     "title": "Dinosaur Safari Exhibit",
     "source": "loveburlington"
    },
@@ -1200,7 +1048,29 @@
   },
   {
    "kept": {
+    "title": "Letters to Loved Ones",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-02"
+  },
+  {
+   "kept": {
     "title": "Vote Tote Painting Party",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-02"
+  },
+  {
+   "kept": {
+    "title": "Pub Quiz",
     "source": "uvm"
    },
    "merged_sources": [
@@ -1288,7 +1158,40 @@
   },
   {
    "kept": {
+    "title": "Frame Decorating with FirstGen@UVM",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-03"
+  },
+  {
+   "kept": {
     "title": "Part-Time Jobs Fair",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-03"
+  },
+  {
+   "kept": {
+    "title": "Champlain Valley Fair",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-03"
+  },
+  {
+   "kept": {
+    "title": "Art Attack: Junk Journals",
     "source": "uvm"
    },
    "merged_sources": [
@@ -1365,7 +1268,29 @@
   },
   {
    "kept": {
+    "title": "Build-A-Bouquet",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-04"
+  },
+  {
+   "kept": {
     "title": "CAT ECare Training",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-04"
+  },
+  {
+   "kept": {
+    "title": "Friendly Feud",
     "source": "uvm"
    },
    "merged_sources": [
@@ -1466,6 +1391,28 @@
   },
   {
    "kept": {
+    "title": "Walk to the Farmer's Market",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-05"
+  },
+  {
+   "kept": {
+    "title": "Block Party",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-05"
+  },
+  {
+   "kept": {
     "title": "Dinosaur Safari Exhibit",
     "source": "loveburlington"
    },
@@ -1523,6 +1470,28 @@
   {
    "kept": {
     "title": "Week of Welcome",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-06"
+  },
+  {
+   "kept": {
+    "title": "Cats Off-Campus: Shelburne Farms",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-06"
+  },
+  {
+   "kept": {
+    "title": "Sunset Creemee Walk",
     "source": "uvm"
    },
    "merged_sources": [
@@ -1591,6 +1560,17 @@
   {
    "kept": {
     "title": "Week of Welcome",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-07"
+  },
+  {
+   "kept": {
+    "title": "Labor Day Comedy Show",
     "source": "uvm"
    },
    "merged_sources": [
@@ -1765,6 +1745,17 @@
   {
    "kept": {
     "title": "ActivitiesFest 2026",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-09"
+  },
+  {
+   "kept": {
+    "title": "I ❤️ Female Orgasm",
     "source": "uvm"
    },
    "merged_sources": [
@@ -2408,20 +2399,6 @@
  ],
  "changes": [
   {
-   "id": "5945d359dfe7",
-   "title": "\"Weird Al\" Yankovic",
-   "date": "2026-07-24",
-   "change": "time",
-   "was": "2026-07-24T18:00:00-04:00",
-   "now": "2026-07-24T19:30:00-04:00"
-  },
-  {
-   "id": "b9c0187b6ce9-1300",
-   "title": "Tech Help with Clif",
-   "date": "2026-07-20",
-   "change": "dropped"
-  },
-  {
    "id": "8e987930c7c4",
    "title": "The Odyssey at Essex Cinemas!",
    "date": "2026-07-20",
@@ -2436,16 +2413,18 @@
    "lastSeen": "2026-07-19T17:32:51-04:00"
   },
   {
-   "id": "07d1024afec4",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-07-24",
-   "change": "dropped"
+   "id": "9fa226f8d8f7",
+   "title": "DREAM lunch",
+   "date": "2026-07-22",
+   "change": "missing",
+   "lastSeen": "2026-07-20T08:02:35-04:00"
   },
   {
-   "id": "fdef63c3067b-1300",
-   "title": "Tech Help with Clif",
-   "date": "2026-07-27",
-   "change": "dropped"
+   "id": "6dce860e8d2e",
+   "title": "The Caracas X VAAP at the ONE Ramble",
+   "date": "2026-07-25",
+   "change": "missing",
+   "lastSeen": "2026-07-20T08:02:35-04:00"
   },
   {
    "id": "76c98e6a1e9e",
@@ -2455,23 +2434,11 @@
    "lastSeen": "2026-07-19T17:32:51-04:00"
   },
   {
-   "id": "d569c2d58b53",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-07-31",
-   "change": "dropped"
-  },
-  {
    "id": "40c0752502a8",
    "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
    "date": "2026-08-03",
    "change": "missing",
    "lastSeen": "2026-07-19T17:32:51-04:00"
-  },
-  {
-   "id": "b213cf5be974",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-08-07",
-   "change": "dropped"
   },
   {
    "id": "f93f139003d4",
@@ -2486,60 +2453,6 @@
    "date": "2026-08-10",
    "change": "missing",
    "lastSeen": "2026-07-19T17:32:51-04:00"
-  },
-  {
-   "id": "8e1c7050dd4c",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-08-14",
-   "change": "dropped"
-  },
-  {
-   "id": "09d703e11c5a",
-   "title": "Tech Help with Clif",
-   "date": "2026-08-17",
-   "change": "dropped"
-  },
-  {
-   "id": "09d703e11c5a-1300",
-   "title": "Tech Help with Clif",
-   "date": "2026-08-17",
-   "change": "dropped"
-  },
-  {
-   "id": "fcbd1ff99cdd",
-   "title": "ServSafe® Food Protection Manager Class & Exam",
-   "date": "2026-08-19",
-   "change": "dropped"
-  },
-  {
-   "id": "9b6dcf83f3b6",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-08-21",
-   "change": "dropped"
-  },
-  {
-   "id": "1cf751b8c94f",
-   "title": "LCES PRESENTS: Songwriters In The Round - Live Recording!",
-   "date": "2026-08-22",
-   "change": "dropped"
-  },
-  {
-   "id": "8cde61132d54",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-08-28",
-   "change": "dropped"
-  },
-  {
-   "id": "5947c1304056",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-09-04",
-   "change": "dropped"
-  },
-  {
-   "id": "34039a1a868e",
-   "title": "Slow Runners Meet, Greet, & Run",
-   "date": "2026-09-11",
-   "change": "dropped"
   }
  ]
 }
