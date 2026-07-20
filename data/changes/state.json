@@ -25,28 +25,28 @@
    },
    "Leddy Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-19T19:33:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-20T15:01:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-19T19:33:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-20T15:02:00+00:00"
    },
    "North Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-19T19:20:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-20T15:21:00+00:00"
    },
    "North Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-19T19:20:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-20T15:22:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-19T19:46:00+00:00"
+    "resultTime": "2026-07-20T14:50:00+00:00"
    },
    "Oakledge Cove": {
     "status": "open",
@@ -55,8 +55,8 @@
    },
    "Texaco Beach": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-19T19:14:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-20T15:22:00+00:00"
    }
   }
  },
@@ -506,6 +506,15 @@
      "Meeting Information"
     ]
    },
+   "10084": {
+    "name": "Public Safety Committee Meeting",
+    "start": "2026-07-23T17:30:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Public Safety Committee Agenda - 26.07.20",
+     "Public Safety Committee Agenda Packet - 26.07.20"
+    ]
+   },
    "10083": {
     "name": "Design Advisory Board",
     "start": "2026-07-28T15:00:00+00:00",
@@ -553,12 +562,6 @@
     "files": [
      "Agenda V2"
     ]
-   },
-   "9961": {
-    "name": "Planning Commission Meeting - Collaborative Working Group on Inclusionary Zoning",
-    "start": "2026-08-11T18:30:00+00:00",
-    "hasAgenda": false,
-    "files": []
    }
   }
  },
@@ -566,6 +569,34 @@
   "feeds": {
    "sevendays-news": {
     "items": [
+     {
+      "id": "https://www.sevendaysvt.com/?p=212331",
+      "title": "New Graphic Novel ‘Charity & Sylvia’ Comes Under Scrutiny",
+      "link": "https://www.sevendaysvt.com/arts-culture/new-graphic-novel-charity-sylvia-comes-under-scrutiny/",
+      "ts": "2026-07-20T15:05:26+00:00",
+      "summary": "A historian's claim that Vermont cartoonist Tillie Walden borrowed too much from a 2014 biography raises questions about artistic interpretation and appropriation. The post New Graphic Novel Charity & Sylvia’ Comes Under Scrutiny appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212334",
+      "title": "Obituary: Barbara Ann (Jensen) Stearns, 1928-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-barbara-ann-jensen-stearns-1928-2026/",
+      "ts": "2026-07-20T10:00:00+00:00",
+      "summary": "Schoolteacher, school counselor and mental health practitioner loved talking with people The post Obituary: Barbara Ann (Jensen) Stearns, 1928-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212323",
+      "title": "Obituary: Donald Joseph LeBlanc, 1955-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituary-donald-joseph-leblanc-1955-2026/",
+      "ts": "2026-07-20T10:00:00+00:00",
+      "summary": "Hard worker and natural tinkerer loved hunting, snowmobiling, being on the water and spending time with his granddaughters The post Obituary: Donald Joseph LeBlanc, 1955-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212317",
+      "title": "Obituary: Peter D. Chiacchieri",
+      "link": "https://www.sevendaysvt.com/life-lines/obituary-peter-d-chiacchieri/",
+      "ts": "2026-07-20T10:00:00+00:00",
+      "summary": "Peter D. Chiacchieri of Burlington, Vt., passed away at home on Monday, June 15, 2026, of natural causes. Services are being arranged for October 2026. The post Obituary: Peter D. Chiacchieri appeared first on Seven Days . (Image: Courtesy)"
+     },
      {
       "id": "https://www.sevendaysvt.com/?p=212281",
       "title": "Teen Cyclist Killed in Collision With Minivan in Burlington",
@@ -607,34 +638,6 @@
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-suzanne-j-merchant-1936-2026/",
       "ts": "2026-07-17T10:00:00+00:00",
       "summary": "Wife and mother had a quick wit and a sense of humor that brought out the best in others, and she always shared her love of Jesus The post Obituary: Suzanne J. Merchant, 1936-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212199",
-      "title": "Ben & Jerry’s Foundation Plans to Shut Down by End of Year",
-      "link": "https://www.sevendaysvt.com/news/ben-jerrys-foundation-plans-to-shut-down-by-end-of-year/",
-      "ts": "2026-07-16T17:43:11+00:00",
-      "summary": "In addition to its global work, the foundation provided $600,000 worth of annual funding to Vermont-based causes. The post Ben & Jerry’s Foundation Plans to Shut Down by End of Year appeared first on Seven Days . (Image: File: Jeb Wallace-Brodeur)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212193",
-      "title": "Obituary: Douglas W. Smith",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-douglas-w-smith/",
-      "ts": "2026-07-16T10:00:00+00:00",
-      "summary": "Instructor, pilot and founder of the Vermont Flight Academy was also a beloved grandfather who enjoyed preserving family stories The post Obituary: Douglas W. Smith appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212189",
-      "title": "City Of Burlington, In The Year Two Thousand Twenty-Six. A Regulation In Relation To Rules And Regulations Of The Traffic Commission — §9 Fifteen-Minute Parking",
-      "link": "https://www.sevendaysvt.com/legal-notices/ordinancechanges/city-of-burlington-in-the-year-two-thousand-twenty-six-a-regulation-in-relation-to-rules-and-regulations-of-the-traffic-commission-%c2%a79-fifteen-minute-parking-3/",
-      "ts": "2026-07-15T20:00:00+00:00",
-      "summary": "Sponsor(s): Public Works Commission Action: Approval Date: 03/18/2026 Attestation of Adoption: Madeline Suender, EI Public Works Transportation Engineer, Technical Services Published: 07/15/26 Effective: 08/04/26 It is hereby Ordained by the Public Works Commission of the City of Burlington as follows: That Appendix C, Rule and Regulations of the Traffic Commission, §9 Fifteen-minute parking., of "
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212151",
-      "title": "In Accordance With Vt Title 9 Commerce And Trade Chapter 098: Storage Units 3905",
-      "link": "https://www.sevendaysvt.com/legal-notices/storageauctions/in-accordance-with-vt-title-9-commerce-and-trade-chapter-098-storage-units-3905-21/",
-      "ts": "2026-07-15T19:46:00+00:00",
-      "summary": "Enforcement of Lien, Champlain Valley Self Storage,LLC shall host a private auction of the following units on or after August 1, 2026: Contents: household goods Location: 2211 Main St Colchester VT 05446 Jake Nickerson: # 716 Brittany Trayah: #546 Ashleigh tillson: #881 Location: 78 Lincoln St. Essex Jct, VT 05452 Samantha Ducharme: #146 Amy Zdorove: [ ] The post In Accordance With Vt Title 9 Comm"
      }
     ]
    },
@@ -897,18 +900,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -943,39 +946,53 @@
    "wcax": {
     "items": [
      {
+      "id": "XUC776UTWJEV5DXNYSJTO6PECA",
+      "title": "Man arrested for string of Winooski burglaries",
+      "link": "https://www.wcax.com/2026/07/20/man-arrested-string-winooski-burglaries/",
+      "ts": "2026-07-20T15:09:03+00:00",
+      "summary": "Police have arrested a man living at the Colchester Motel 6 for a string of burglaries in Winooski"
+     },
+     {
       "id": "AXOJ4ONFDJFCLOADDOJT47XJXA",
       "title": "Driver nowhere to be found after Brattleboro car crash",
       "link": "https://www.wcax.com/2026/07/20/driver-nowhere-be-found-after-brattleboro-car-crash/",
       "ts": "2026-07-20T11:16:01+00:00",
-      "summary": "Police are searching for a driver who crashed into a utility pole and disappeared"
+      "summary": "Police in Brattleboro are searching for a driver who crashed into a utility pole and disappeared."
      },
      {
       "id": "OD4P7PFCTNAHTB2UFAKTGUHV6U",
-      "title": "Vermont State Police investigating Vernon mail thefts",
+      "title": "Police investigating Vernon mail thefts",
       "link": "https://www.wcax.com/2026/07/20/vermont-state-police-investigating-vernon-mail-thefts/",
       "ts": "2026-07-20T10:33:35+00:00",
       "summary": "Troopers say mail and packages were stolen from multiple residents over several weeks"
+     },
+     {
+      "id": "S2KCSWABCBAB3BYVFD54VRE2MU",
+      "title": "Vermont Green men cruise into national quarterfinal",
+      "link": "https://www.wcax.com/2026/07/20/vermont-green-men-cruise-into-national-quarterfinal/",
+      "ts": "2026-07-20T03:41:21+00:00",
+      "summary": "VGFC downs Ocean City 4-0 on Sunday night"
      },
      {
       "id": "IXIAANDZQZEZ3GKPCTYJO3NILI",
       "title": "Highgate man cited after accidental shooting into neighboring apartment",
       "link": "https://www.wcax.com/2026/07/20/highgate-man-cited-after-accidental-shooting-into-neighboring-apartment/",
       "ts": "2026-07-20T03:18:26+00:00",
-      "summary": "Reckless endangerment charge follows accidental discharge at Highgate Road duplex"
+      "summary": "Police cited a Highgate man Sunday after he said he accidentally fired a handgun into an occupied neighboring apartment."
      },
      {
       "id": "JEUU3PLXJFCFTN7N5MHBJBEBNQ",
-      "title": "Burlington police arrest two in drug trafficking bust",
+      "title": "Burlington police arrest 2 in drug trafficking bust",
       "link": "https://www.wcax.com/2026/07/20/burlington-police-arrest-two-drug-trafficking-bust/",
       "ts": "2026-07-20T03:18:07+00:00",
-      "summary": "Two Connecticut men face fentanyl, cocaine charges after South Burlington search warrant"
+      "summary": "Police say they arrested two men and seized illegal narcotics Sunday morning following a monthlong investigation into a drug trafficking organization operating in downtown Burlington."
      },
      {
       "id": "HR645D5KXBBA3IJCR7K6ZZ5A2Y",
       "title": "Chittenden Solid Waste District adds $1 drop-off fee to fund facility repairs",
       "link": "https://www.wcax.com/2026/07/20/chittenden-solid-waste-district-adds-1-drop-off-fee-fund-facility-repairs/",
       "ts": "2026-07-20T00:01:54+00:00",
-      "summary": "Fee took effect July 1 at six drop-off centers; trash bag rates also apply"
+      "summary": "The Chittenden Solid Waste District has introduced a $1 entry fee at its six drop-off centers, with proceeds going toward facility repairs."
      },
      {
       "id": "3PIR2ZRXBRGTTKOKGW6KPJH5HQ",
@@ -989,21 +1006,28 @@
       "title": "Cornhole Club fundraises to send Vermont pro to California tournament",
       "link": "https://www.wcax.com/2026/07/19/cornhole-club-fundraises-send-vermont-pro-california-tournament/",
       "ts": "2026-07-19T23:52:10+00:00",
-      "summary": "St. Albans man holds world No. 2 ranking in cornhole, eyes biggest tournament of the season"
+      "summary": "The Champlain Valley Cornhole Club is raising money to send a St. Albans man to a major cornhole tournament in California after he climbed to the No. 2 ranking in the world."
+     },
+     {
+      "id": "R5R65IGNTRFYZJTWQWSFI5N5DI",
+      "title": "You Can Quote Me: July 19, 2026",
+      "link": "https://www.wcax.com/2026/07/19/ycqm-july-19-2026/",
+      "ts": "2026-07-19T19:54:14+00:00",
+      "summary": "Guests are new Vermont State University President Sherry Kollman and Lt. Col. Shawn Loan of the Vermont State Police."
      },
      {
       "id": "A4LC3MKGXNDZPP653NCN7QHOAQ",
-      "title": "Homeless man arrested after allegedly threatening Burlington firefighter with knife",
+      "title": "Man arrested after allegedly threatening Burlington firefighter with knife",
       "link": "https://www.wcax.com/2026/07/19/homeless-man-arrested-after-allegedly-threatening-burlington-firefighter-with-knife/",
       "ts": "2026-07-19T15:53:58+00:00",
-      "summary": "Police say a man violently assaulted a woman in front of young children, then turned on the firefighter who intervened."
+      "summary": "Police say a man violently assaulted a woman in front of young children, then turned on a firefighter who intervened."
      },
      {
       "id": "YGTIEGVZSJEADMUUC6OOSIO5OA",
       "title": "Police searching for mail thief after bag full of mail found in Vernon",
       "link": "https://www.wcax.com/2026/07/19/police-searching-mail-thief-after-bag-full-mail-found-vernon/",
       "ts": "2026-07-19T13:46:33+00:00",
-      "summary": "Vermont State Police investigators are searching for the person or persons responsible for stealing mail in Vernon."
+      "summary": "Vermont State Police are searching for the person or persons responsible for stealing mail in Vernon."
      },
      {
       "id": "HU4YX7WFKBAZXJ6EBLUKUKU77E",
@@ -1011,6 +1035,13 @@
       "link": "https://www.wcax.com/2026/07/19/what-do-sunday-july-19/",
       "ts": "2026-07-19T12:20:31+00:00",
       "summary": "It’s a beautiful summer day, here’s some ideas on what you can do today."
+     },
+     {
+      "id": "TNJTGYLVAFDMHE2CB3JZDKQUAU",
+      "title": "In the Garden: Growing your own fennel",
+      "link": "https://www.wcax.com/2026/07/19/garden-growing-your-own-fennel/",
+      "ts": "2026-07-19T12:14:10+00:00",
+      "summary": "It's about that time of the summer when your vegetable garden likely looks full and lush. Here's one veggie you may not have thought about adding to your garden yet!"
      },
      {
       "id": "EGPF67G2V5GKFIRTKRH72KUF5Q",
@@ -1263,45 +1294,129 @@
       "link": "https://www.wcax.com/2026/07/16/newfane-super-senior-has-cooked-monthly-church-meals-close-30-years/",
       "ts": "2026-07-16T22:41:55+00:00",
       "summary": "In picturesque Newfane, folks flock to the Congregational Church once a month, not to worship, but to break bread with neighbors."
-     },
-     {
-      "id": "JTU3RAG4X5G7JKBIPJX4EFGN3Y",
-      "title": "Campaign Countdown: Former coworkers face off in Chittenden County state’s attorney race",
-      "link": "https://www.wcax.com/2026/07/16/campaign-countdown-former-coworkers-face-off-chittenden-county-states-attorney-race/",
-      "ts": "2026-07-16T22:32:00+00:00",
-      "summary": "Chittenden County State’s Attorney Sarah George and her former deputy Bram Kranichfeld are now opposing candidates in the Democratic primary for the county’s top prosecutor seat."
-     },
-     {
-      "id": "KTJLGZSQEBBQHLDQL5V6UEVMH4",
-      "title": "Bristol Police search for person who torched porta potty",
-      "link": "https://www.wcax.com/2026/07/16/bristol-police-search-person-who-torched-porta-potty/",
-      "ts": "2026-07-16T22:10:53+00:00",
-      "summary": "Bristol Police are searching for the person responsible for torching a porta potty early Thursday morning."
-     },
-     {
-      "id": "3SIS5ERQMRGKXGPITTFPCTUDNU",
-      "title": "Without a sale or redevelopment, a former NY state prison is wasting away",
-      "link": "https://www.wcax.com/2026/07/16/without-sale-or-redevelopment-former-ny-state-prison-is-wasting-away/",
-      "ts": "2026-07-16T22:10:05+00:00",
-      "summary": "More than a decade after its closure by the state of New York, the buildings at former state prison Camp Gabriels continue to waste away"
-     },
-     {
-      "id": "BG6ORHF5MJAHDOCLINIXBBHPSE",
-      "title": "Transgender girls who challenged Trump sports order drop lawsuit after Supreme Court ruling",
-      "link": "https://www.wcax.com/2026/07/16/transgender-girls-who-challenged-trump-sports-order-drop-lawsuit-after-supreme-court-ruling/",
-      "ts": "2026-07-16T22:08:18+00:00",
-      "summary": "Two transgender girls who were the first to challenge President Donald Trump’s executive order have withdrawn their lawsuit in New Hampshire."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "73191381",
+      "title": "Trump says Qatari-gifted Air Force One will be 'maxed out'",
+      "link": "https://www.mynbc5.com/article/air-force-one-qatari-gifted-will-be-maxed-out/73191381",
+      "ts": "2026-07-20T15:24:00+00:00",
+      "summary": "President Donald Trump said the Qatari-donated jet that has served as Air Force One will be sent for upgrades, appearing to acknowledge that the plane is not as thoroughly outfitted as older aircraft."
+     },
+     {
+      "id": "73191905",
+      "title": "Pilot rescued by residents after small plane crash in Orleans County",
+      "link": "https://www.mynbc5.com/article/morgan-vermont-plane-crash-rescue/73191905",
+      "ts": "2026-07-20T15:24:00+00:00",
+      "summary": "A Vermont pilot is safe after he crashed his small plane in a lake in Orleans County and was rescued by neighbors, Vermont State Police said."
+     },
+     {
+      "id": "73191398",
+      "title": "Jury selection begins for Canadian man accused of killing his 9-year-old daughter in New York",
+      "link": "https://www.mynbc5.com/article/luciano-frattolin-murder-trial-jury-draw/73191398",
+      "ts": "2026-07-20T15:18:00+00:00",
+      "summary": "Jury selection is underway for Luciano Frattolin, a Canadian man accused of killing his 9-year-old daughter, Melina, and hiding her body in Ticonderoga, New York."
+     },
+     {
+      "id": "73191511",
+      "title": "Suspect in custody after explosion outside federal building in NYC",
+      "link": "https://www.mynbc5.com/article/new-york-federal-building-explosion/73191511",
+      "ts": "2026-07-20T15:13:00+00:00",
+      "summary": "A suspect is in custody after setting off an explosive device outside a federal building in New York City, according to the FBI."
+     },
+     {
+      "id": "73191507",
+      "title": "‘Certified baddie’: House cat survives 40 days alone in Colorado wilderness",
+      "link": "https://www.mynbc5.com/article/colorado-surival-house-cat-reunited/73191507",
+      "ts": "2026-07-20T15:09:00+00:00",
+      "summary": "\"She's a certified baddie now\" | A 3-year-old house cat survived 40 days alone in the Colorado wilderness before she was reunited with her owner."
+     },
+     {
+      "id": "73190627",
+      "title": "US gas prices hit $4 a gallon again Monday",
+      "link": "https://www.mynbc5.com/article/gas-prices-hit-4-dollars-again/73190627",
+      "ts": "2026-07-20T15:02:00+00:00",
+      "summary": "Gas prices climbed back to $4 a gallon Monday. See how prices vary across the U.S."
+     },
+     {
+      "id": "73191044",
+      "title": "How Spain's $50 million championship prize money compares to previous World Cup tournaments",
+      "link": "https://www.mynbc5.com/article/spain-fifa-world-cup-prize-money/73191044",
+      "ts": "2026-07-20T14:36:00+00:00",
+      "summary": "Over the past two decades, FIFA World Cup championship prize money has more than doubled. This is how much Spain took home as champions of the 2026 FIFA World Cup."
+     },
+     {
+      "id": "73191265",
+      "title": "Winooski Police Department arrests man accused of multiple burglaries",
+      "link": "https://www.mynbc5.com/article/winooski-vermont-burglary-arrests-ricky-rich/73191265",
+      "ts": "2026-07-20T14:33:00+00:00",
+      "summary": "The Winooski Police Department has arrested a man wanted following a series of burglaries at local bars and restaurants."
+     },
+     {
+      "id": "73190927",
+      "title": "Police look for driver who fled from utility pole crash scene in Brattleboro",
+      "link": "https://www.mynbc5.com/article/brattleboro-vermont-crash-utility-pole/73190927",
+      "ts": "2026-07-20T14:03:00+00:00",
+      "summary": "Police are looking for a person who crashed their vehicle into a utility pole in Brattleboro over the weekend before running away."
+     },
+     {
+      "id": "73190866",
+      "title": "Northern New York man arrested on kidnapping, assault charges",
+      "link": "https://www.mynbc5.com/article/oswegatchie-new-york-kidnapping/73190866",
+      "ts": "2026-07-20T13:58:00+00:00",
+      "summary": "A North Country man is behind bars after police said he tried to kidnap a person from their home in Oswegatchie."
+     },
+     {
+      "id": "73190688",
+      "title": "Mount Olympus, home of the ancient Greek gods, vies for World Heritage status",
+      "link": "https://www.mynbc5.com/article/mount-olympus-unesco-world-heritage-site/73190688",
+      "ts": "2026-07-20T13:51:00+00:00",
+      "summary": "Mount Olympus, the mythological home of ancient Greece’s 12 Olympian gods, may soon join UNESCO’s World Heritage List."
+     },
+     {
+      "id": "73189460",
+      "title": "Vermont man facing multiple charges after hourslong standoff in Barton",
+      "link": "https://www.mynbc5.com/article/man-facing-charges-after-standoff-barton-vt/73189460",
+      "ts": "2026-07-20T13:48:00+00:00",
+      "summary": "26-year-old Wyatt Gilman refused to leave the home after being served with a temporary abuse prevention order"
+     },
+     {
+      "id": "73181026",
+      "title": "Two Connecticut men arrested in South Burlington drug trafficking investigation",
+      "link": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
+      "ts": "2026-07-20T13:48:00+00:00",
+      "summary": "Two men from Connecticut were arrested after a drug trafficking investigation in Burlington."
+     },
+     {
       "id": "73190321",
       "title": "This is Our Home: Hinesburg, Vermont",
       "link": "https://www.mynbc5.com/article/this-is-our-home-hinesburg-vermont/73190321",
-      "ts": "2026-07-20T13:09:00+00:00",
+      "ts": "2026-07-20T13:47:00+00:00",
       "summary": "Two women found comfort for themselves through their passion for helping other people"
+     },
+     {
+      "id": "73189703",
+      "title": "‘These kids were her world’: Mother dies saving 4-year-old son who fell into river",
+      "link": "https://www.mynbc5.com/article/deland-mother-hero-after-she-died-saving-her-son/73189703",
+      "ts": "2026-07-20T13:27:00+00:00",
+      "summary": "“These kids were her world.” A mother of six has died saving her 4-year-old son who fell into a Florida river"
+     },
+     {
+      "id": "73180819",
+      "title": "Less wind, continued sunny skies Monday",
+      "link": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-20-26/73180819",
+      "ts": "2026-07-20T13:21:00+00:00",
+      "summary": "Showers and storms possible both Tuesday and Wednesday"
+     },
+     {
+      "id": "73190239",
+      "title": "Pamela Smart, serving life, seeks new trial as New Hampshire judge weighs her latest petition",
+      "link": "https://www.mynbc5.com/article/pamela-smart-hearing-july-20-2026/73190239",
+      "ts": "2026-07-20T13:21:00+00:00",
+      "summary": "Pamela Smart, who is serving life in prison for orchestrating the murder of her husband by her teenage student in 1990, has a hearing on Monday, hoping for a new trial."
      },
      {
       "id": "73189996",
@@ -1318,128 +1433,37 @@
       "summary": "Andy Burnham officially became Britain’s new prime minister Monday, marking the country’s seventh leader in a decade."
      },
      {
-      "id": "73189460",
-      "title": "Vermont man facing multiple charges after hourslong standoff in Barton",
-      "link": "https://www.mynbc5.com/article/man-facing-charges-after-standoff-barton-vt/73189460",
-      "ts": "2026-07-20T11:56:00+00:00",
-      "summary": "26-year-old Wyatt Gilman refused to leave the home after being served with a temporary abuse prevention order"
-     },
-     {
       "id": "73187457",
       "title": "Gas prices hit $4 mark as US death toll ticks up in Iran War",
       "link": "https://www.mynbc5.com/article/gas-prices-hit-4-dollar-mark-us-death-toll-ticks-up-iran-war/73187457",
       "ts": "2026-07-20T11:54:00+00:00",
       "summary": "President Donald Trump mourned the loss of American service members but showed no signs of slowing down his escalating military campaign."
-     },
-     {
-      "id": "73189261",
-      "title": "U.S. military identifies 2 soldiers killed in Iranian attack on Jordan",
-      "link": "https://www.mynbc5.com/article/tyler-james-feehan-isabella-gonzales-soldiers-killed-iran-jordan/73189261",
-      "ts": "2026-07-20T11:02:00+00:00",
-      "summary": "The Trump administration on Monday identified two soldiers killed in action last week as part of the U.S. war with Iran."
-     },
-     {
-      "id": "73189190",
-      "title": "U.S. gas prices hit an average of $4 a gallon again as the US and Iran launch attacks",
-      "link": "https://www.mynbc5.com/article/us-gas-prices-increase-iran-war-monday/73189190",
-      "ts": "2026-07-20T10:46:00+00:00",
-      "summary": "U.S. gas prices jumped to an average of $4 a gallon again Monday as the U.S. and Iran launched more attacks ."
-     },
-     {
-      "id": "73188385",
-      "title": "Social media influencers Andrew and Tristan Tate expected in Miami court",
-      "link": "https://www.mynbc5.com/article/andrew-tristan-tate-miami-court/73188385",
-      "ts": "2026-07-20T10:41:00+00:00",
-      "summary": "Influencer brothers Andrew and Tristan Tate are scheduled to appear before a federal magistrate in Miami on Monday after they were arrested to face rape and sex trafficking charges in the United Kingdom."
-     },
-     {
-      "id": "73186163",
-      "title": "Taylor Farms lettuce cyclospora finding was a false positive, FDA now says",
-      "link": "https://www.mynbc5.com/article/taylor-farms-lettuce-cyclospora-false-positive/73186163",
-      "ts": "2026-07-20T10:05:00+00:00",
-      "summary": "Testing that showed iceberg lettuce from Taylor Fresh Foods was tainted with cyclospora was actually a false positive, federal officials now say."
-     },
-     {
-      "id": "73180819",
-      "title": "Less wind, continued sunny skies Monday",
-      "link": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-20-26/73180819",
-      "ts": "2026-07-20T09:36:00+00:00",
-      "summary": "Showers and storms possible both Tuesday and Wednesday"
-     },
-     {
-      "id": "73184402",
-      "title": "2 weeks after a Mississippi football player’s death, many questions linger",
-      "link": "https://www.mynbc5.com/article/nolan-wells-mississippi-football-player/73184402",
-      "ts": "2026-07-20T09:03:00+00:00",
-      "summary": "As Nolan Wells’ family prepares to lay the 18-year-old to rest on Monday, they will do so without knowing why his young life was cut so tragically short."
-     },
-     {
-      "id": "73183683",
-      "title": "U.S. bombing of Iran expands as Tehran retaliates against the Gulf states",
-      "link": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
-      "ts": "2026-07-20T08:27:00+00:00",
-      "summary": "The United States has conducted a new round of airstrikes targeting Iran after announcing the death of another American service member."
-     },
-     {
-      "id": "73175211",
-      "title": "US launches more airstrikes against Iran after announcing another death of a service member",
-      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
-      "ts": "2026-07-20T08:20:00+00:00",
-      "summary": "The United States has announced another death of a service member as it launches more airstrikes at Iran."
-     },
-     {
-      "id": "73178544",
-      "title": "Russia unleashes one of the biggest ballistic missile attacks of the Ukraine war, Kyiv says",
-      "link": "https://www.mynbc5.com/article/russia-missile-attacks-ukraine-kyiv/73178544",
-      "ts": "2026-07-20T07:58:00+00:00",
-      "summary": "Russia launched one of the largest ballistic missile attacks of the more than four-year-old war against Ukraine overnight into Sunday, according to authorities."
-     },
-     {
-      "id": "73181194",
-      "title": "Marten Van Riel, Paula Lindsay win 2026 IRONMAN Lake Placid triathlon",
-      "link": "https://www.mynbc5.com/article/marten-van-riel-paula-lindsay-win-2026-ironman-lake-placid-triathlon/73181194",
-      "ts": "2026-07-20T05:38:00+00:00",
-      "summary": "Both runners make history in one of triathlon's most iconic races"
-     },
-     {
-      "id": "73180813",
-      "title": "JD Vance becomes first sitting vice president in more than 150 years to welcome a newborn",
-      "link": "https://www.mynbc5.com/article/jd-vance-usha-vance-fourth-child-baby-alec-neel/73180813",
-      "ts": "2026-07-20T03:39:00+00:00",
-      "summary": "JD Vance has become the first sitting vice president in more than 150 years to welcome a newborn. Here's what we know about their baby boy."
-     },
-     {
-      "id": "73181485",
-      "title": "Vermont Green FC Men's Soccer advances to USL2 Eastern Conference Finals",
-      "link": "https://www.mynbc5.com/article/vermont-green-fc-mens-soccer-advances-to-usl2-eastern-conference-finals/73181485",
-      "ts": "2026-07-20T03:37:00+00:00",
-      "summary": "Vermont tallied three second half goals for second straight game leading to 4-0 win against Ocean City"
-     },
-     {
-      "id": "73181026",
-      "title": "Two Connecticut men arrested in South Burlington drug trafficking investigation",
-      "link": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
-      "ts": "2026-07-20T02:43:00+00:00",
-      "summary": "Two men from Connecticut were arrested after a drug trafficking investigation in Burlington."
-     },
-     {
-      "id": "73181149",
-      "title": "Thousands gather in Lake Placid for 2026 IRONMAN triathlon",
-      "link": "https://www.mynbc5.com/article/thousands-gather-in-lake-placid-for-2026-ironman-triathlon/73181149",
-      "ts": "2026-07-20T02:42:00+00:00",
-      "summary": "Many from all over the world show strong support for family and loved ones"
-     },
-     {
-      "id": "73181375",
-      "title": "Fireworks frightened this dog. Deputies helped bring her home.",
-      "link": "https://www.mynbc5.com/article/bodycam-dog-reunion-after-fireworks-scare-california/73181375",
-      "ts": "2026-07-20T02:07:00+00:00",
-      "summary": "A dog named Fig ran off after fireworks and gunfire scared her, but deputies found her and brought her home after she was missing for nearly 10 days. The touching reunion was caught on body cam."
      }
     ]
    },
    "btv-news-releases": {
     "items": [
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3856/639201431310000000",
+      "title": "07/19/2026 Drugs Trafficking | 26BU016324",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3856",
+      "ts": "2026-07-20T16:18:51+00:00",
+      "summary": ""
+     },
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3855/639201426070000000",
+      "title": "07/17/2026 Aggravated Assault with a Weapon - Domestic Assault - Resisting Arrest | 26BU016174",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3855",
+      "ts": "2026-07-20T16:10:07+00:00",
+      "summary": ""
+     },
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3854/639201423280000000",
+      "title": "UPDATE 07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3854",
+      "ts": "2026-07-20T16:05:28+00:00",
+      "summary": ""
+     },
      {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853/639198128730000000",
       "title": "07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
@@ -1479,6 +1503,27 @@
    },
    "bpd-updates": {
     "items": [
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3856/639201431310000000",
+      "title": "07/19/2026 Drugs Trafficking | 26BU016324",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3856",
+      "ts": "2026-07-20T16:18:51+00:00",
+      "summary": ""
+     },
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3855/639201426070000000",
+      "title": "07/17/2026 Aggravated Assault with a Weapon - Domestic Assault - Resisting Arrest | 26BU016174",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3855",
+      "ts": "2026-07-20T16:10:07+00:00",
+      "summary": ""
+     },
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3854/639201423280000000",
+      "title": "UPDATE 07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3854",
+      "ts": "2026-07-20T16:05:28+00:00",
+      "summary": ""
+     },
      {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853/639198128730000000",
       "title": "07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",

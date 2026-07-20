@@ -1,83 +1,6 @@
 {
- "generated": "2026-07-20T13:21:59+00:00",
+ "generated": "2026-07-20T15:26:07+00:00",
  "events": [
-  {
-   "ts": "2026-07-13T14:00:57+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Missing cat in Monkton/Bristol",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvc9lo/missing_cat_in_monktonbristol/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T14:00:57+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Jack White in Essex Junction, a Bastille Day Moth StorySLAM, and a World Cup watch party at the library, plus a shakeup at the top of Vermont's commerce agency, and what the shelter accountability debate means for Burlington, your whole week is in the Monday Brief",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvbz1q/jack_white_in_essex_junction_a_bastille_day_moth/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T14:00:57+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Where is everyone?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvby8q/where_is_everyone/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T14:00:57+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: PSA: Highgate Border Crossing Closed",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvbs28/psa_highgate_border_crossing_closed/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T14:18:00+00:00",
-   "category": "news",
-   "headline": "UVM Medical Center resident physicians approve new contract with pay raise and benefits",
-   "detail": "",
-   "url": "https://www.mynbc5.com/article/uvm-medical-center-resident-physicians-contract/71918268",
-   "source": "mynbc5",
-   "sourceName": "NBC5",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T14:39:00+00:00",
-   "category": "news",
-   "headline": "Burlington Electric Department to propose battery storage expansion at City Council meeting",
-   "detail": "",
-   "url": "https://www.mynbc5.com/article/burlington-vermont-bess-facility/71918330",
-   "source": "mynbc5",
-   "sourceName": "NBC5",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T15:21:56+00:00",
-   "category": "news",
-   "headline": "A surprise air show over Lake Champlain from the Royal Air Force Red Arrows",
-   "detail": "",
-   "url": "https://www.wcax.com/2026/07/13/surprise-air-show-over-lake-champlain-royal-air-force-red-arrows/",
-   "source": "wcax",
-   "sourceName": "WCAX",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-13T17:01:32+00:00",
    "category": "chatter",
@@ -3441,6 +3364,116 @@
    "url": "https://calendar.time.ly/vfaca7kw/event/78415214/20260715000000",
    "source": "events-local",
    "sourceName": "BTown Brief events",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T14:33:00+00:00",
+   "category": "food",
+   "headline": "Winooski Police Department arrests man accused of multiple burglaries",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/winooski-vermont-burglary-arrests-ricky-rich/73191265",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:05:26+00:00",
+   "category": "news",
+   "headline": "New Graphic Novel ‘Charity & Sylvia’ Comes Under Scrutiny",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/arts-culture/new-graphic-novel-charity-sylvia-comes-under-scrutiny/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:09:03+00:00",
+   "category": "news",
+   "headline": "Man arrested for string of Winooski burglaries",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/20/man-arrested-string-winooski-burglaries/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:26:10+00:00",
+   "category": "cityhall",
+   "headline": "Public Safety Committee Meeting scheduled for Thursday, Jul 23",
+   "detail": "",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/10084/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:26:13+00:00",
+   "category": "news",
+   "headline": "07/19/2026 Drugs Trafficking | 26BU016324",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3856",
+   "source": "btv-news-releases",
+   "sourceName": "City of Burlington",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:26:13+00:00",
+   "category": "news",
+   "headline": "07/17/2026 Aggravated Assault with a Weapon - Domestic Assault - Resisting Arrest | 26BU016174",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3855",
+   "source": "btv-news-releases",
+   "sourceName": "City of Burlington",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:26:13+00:00",
+   "category": "news",
+   "headline": "UPDATE 07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3854",
+   "source": "btv-news-releases",
+   "sourceName": "City of Burlington",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:26:13+00:00",
+   "category": "news",
+   "headline": "07/19/2026 Drugs Trafficking | 26BU016324",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3856",
+   "source": "bpd-updates",
+   "sourceName": "Burlington Police",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:26:13+00:00",
+   "category": "news",
+   "headline": "07/17/2026 Aggravated Assault with a Weapon - Domestic Assault - Resisting Arrest | 26BU016174",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3855",
+   "source": "bpd-updates",
+   "sourceName": "Burlington Police",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T15:26:13+00:00",
+   "category": "news",
+   "headline": "UPDATE 07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3854",
+   "source": "bpd-updates",
+   "sourceName": "Burlington Police",
    "priority": 2,
    "kind": "added"
   }
