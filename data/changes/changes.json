@@ -1,72 +1,6 @@
 {
- "generated": "2026-07-20T00:59:40+00:00",
+ "generated": "2026-07-20T04:57:44+00:00",
  "events": [
-  {
-   "ts": "2026-07-13T02:00:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Anyone know what's happening in Burlington rn?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uuya8r/anyone_know_whats_happening_in_burlington_rn/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T02:00:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Drunk driver on Spear St",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uuxf0e/drunk_driver_on_spear_st/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T02:00:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Lost necklace at beach",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uuwnjf/lost_necklace_at_beach/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T02:00:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: group bike ride on 7/18!",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uuuoqo/group_bike_ride_on_718/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T02:00:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Why is it sad and kinda funny",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uuuasz/why_is_it_sad_and_kinda_funny/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T02:00:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Crochet Night with CATS: this Friday @ Queen City Cat Lounge",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uuqd21/crochet_night_with_cats_this_friday_queen_city/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-13T07:46:14+00:00",
    "category": "weather",
@@ -3507,6 +3441,17 @@
    "url": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
    "source": "mynbc5",
    "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T03:18:07+00:00",
+   "category": "news",
+   "headline": "Burlington police arrest two in drug trafficking bust",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/20/burlington-police-arrest-two-drug-trafficking-bust/",
+   "source": "wcax",
+   "sourceName": "WCAX",
    "priority": 1,
    "kind": "added"
   }

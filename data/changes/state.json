@@ -897,18 +897,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "title": "Hundreds of acres conserved across Vermont this summer",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "title": "Musician Mikahely shares traditional Malagasy rhythms",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -942,6 +942,20 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "IXIAANDZQZEZ3GKPCTYJO3NILI",
+      "title": "Highgate man cited after accidental shooting into neighboring apartment",
+      "link": "https://www.wcax.com/2026/07/20/highgate-man-cited-after-accidental-shooting-into-neighboring-apartment/",
+      "ts": "2026-07-20T03:18:26+00:00",
+      "summary": "Reckless endangerment charge follows accidental discharge at Highgate Road duplex"
+     },
+     {
+      "id": "JEUU3PLXJFCFTN7N5MHBJBEBNQ",
+      "title": "Burlington police arrest two in drug trafficking bust",
+      "link": "https://www.wcax.com/2026/07/20/burlington-police-arrest-two-drug-trafficking-bust/",
+      "ts": "2026-07-20T03:18:07+00:00",
+      "summary": "Two Connecticut men face fentanyl, cocaine charges after South Burlington search warrant"
+     },
      {
       "id": "HR645D5KXBBA3IJCR7K6ZZ5A2Y",
       "title": "Chittenden Solid Waste District adds $1 drop-off fee to fund facility repairs",
@@ -1277,25 +1291,60 @@
       "link": "https://www.wcax.com/2026/07/16/ben-jerrys-foundation-says-it-will-shut-down-amid-legal-dispute-with-parent-company/",
       "ts": "2026-07-16T21:59:37+00:00",
       "summary": "The Ben & Jerry’s Foundation says it will shut down at the end of the year after its corporate parent cut off funding and evicted its three staffers Wednesday."
-     },
-     {
-      "id": "JFLR4I5SV5CYTCWPGU5THIRW4E",
-      "title": "Kaiden McCarthy on historic MLB draft selection: ‘All of Vermont is supporting me’",
-      "link": "https://www.wcax.com/2026/07/16/kaiden-mccarthy-historic-mlb-draft-selection-all-vermont-is-supporting-me/",
-      "ts": "2026-07-16T21:53:41+00:00",
-      "summary": "The Braves picked McCarthy 48th overall in round two of the MLB draft."
-     },
-     {
-      "id": "N46BAJPJCZAZ3H37ENG3C5HGW4",
-      "title": "Crews battle wildfire on Adirondack peak",
-      "link": "https://www.wcax.com/2026/07/16/wildfire-raging-adirondacks/",
-      "ts": "2026-07-16T21:39:33+00:00",
-      "summary": "The blaze is covering about a quarter of an acre, some 3,500 feet up in the mountains."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73180813",
+      "title": "JD Vance becomes first sitting vice president in more than 150 years to welcome a newborn",
+      "link": "https://www.mynbc5.com/article/jd-vance-usha-vance-fourth-child-baby-alec-neel/73180813",
+      "ts": "2026-07-20T03:39:00+00:00",
+      "summary": "JD Vance has become the first sitting vice president in more than 150 years to welcome a newborn. Here's what we know about their baby boy."
+     },
+     {
+      "id": "73181485",
+      "title": "Vermont Green FC Men's Soccer advances to USL2 Eastern Conference Finals",
+      "link": "https://www.mynbc5.com/article/vermont-green-fc-mens-soccer-advances-to-usl2-eastern-conference-finals/73181485",
+      "ts": "2026-07-20T03:37:00+00:00",
+      "summary": "Vermont tallied three second half goals for second straight game leading to 4-0 win against Ocean City"
+     },
+     {
+      "id": "73180819",
+      "title": "Less wind, continued sunny skies Monday",
+      "link": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-19-26/73180819",
+      "ts": "2026-07-20T03:24:00+00:00",
+      "summary": "Showers and storms possible both Tuesday and Wednesday"
+     },
+     {
+      "id": "73175211",
+      "title": "US launches more airstrikes against Iran after announcing another death of a service member",
+      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
+      "ts": "2026-07-20T02:49:00+00:00",
+      "summary": "The United States has announced another death of a service member as it launches more airstrikes at Iran."
+     },
+     {
+      "id": "73181026",
+      "title": "Two Connecticut men arrested in South Burlington drug trafficking investigation",
+      "link": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
+      "ts": "2026-07-20T02:43:00+00:00",
+      "summary": "Two men from Connecticut were arrested after a drug trafficking investigation in Burlington."
+     },
+     {
+      "id": "73181149",
+      "title": "Thousands gather in Lake Placid for 2026 IRONMAN triathlon",
+      "link": "https://www.mynbc5.com/article/thousands-gather-in-lake-placid-for-2026-ironman-triathlon/73181149",
+      "ts": "2026-07-20T02:42:00+00:00",
+      "summary": "Many from all over the world show strong support for family and loved ones"
+     },
+     {
+      "id": "73181375",
+      "title": "Fireworks frightened this dog. Deputies helped bring her home.",
+      "link": "https://www.mynbc5.com/article/bodycam-dog-reunion-after-fireworks-scare-california/73181375",
+      "ts": "2026-07-20T02:07:00+00:00",
+      "summary": "A dog named Fig ran off after fireworks and gunfire scared her, but deputies found her and brought her home after she was missing for nearly 10 days. The touching reunion was caught on body cam."
+     },
      {
       "id": "73178977",
       "title": "Keep wildfire smoke out of your home with these simple steps",
@@ -1309,27 +1358,6 @@
       "link": "https://www.mynbc5.com/article/world-cup-final-argentina-spain/73176376",
       "ts": "2026-07-20T00:27:00+00:00",
       "summary": "Spain lifts the World Cup trophy after defeating Argentina. Here's a recap of the final."
-     },
-     {
-      "id": "73175211",
-      "title": "US launches more airstrikes against Iran after announcing another death of a service member",
-      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
-      "ts": "2026-07-20T00:16:00+00:00",
-      "summary": "The United States has announced another death of a service member as it launches more airstrikes at Iran."
-     },
-     {
-      "id": "73180813",
-      "title": "JD Vance becomes first sitting vice president in more than 150 years to welcome a newborn",
-      "link": "https://www.mynbc5.com/article/jd-vance-usha-vance-fourth-child-baby-alec-neel/73180813",
-      "ts": "2026-07-20T00:13:00+00:00",
-      "summary": "JD Vance becomes the first sitting vice president in more than 150 years to welcome a newborn. Here's what we know about their baby boy."
-     },
-     {
-      "id": "73181026",
-      "title": "Two Connecticut men arrested in South Burlington drug trafficking investigation",
-      "link": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
-      "ts": "2026-07-20T00:11:00+00:00",
-      "summary": "Two men from Connecticut were arrested after a drug trafficking investigation in Burlington."
      },
      {
       "id": "73180329",
@@ -1358,13 +1386,6 @@
       "link": "https://www.mynbc5.com/article/man-arrested-assault-threatening-burlington-firefighter/73180018",
       "ts": "2026-07-19T23:24:00+00:00",
       "summary": "Burlington Police took a man into custody on Friday after he allegedly assaulted a woman and threatened a firefighter with a knife."
-     },
-     {
-      "id": "73180819",
-      "title": "Less wind, continued sunny skies Monday",
-      "link": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-19-26/73180819",
-      "ts": "2026-07-19T22:25:20+00:00",
-      "summary": "Showers and storms possible both Tuesday and Wednesday"
      },
      {
       "id": "73180527",
@@ -1414,27 +1435,6 @@
       "link": "https://www.mynbc5.com/article/world-cup-argentina-spain-final-look-ahead/73178633",
       "ts": "2026-07-19T12:49:00+00:00",
       "summary": "History suggests we can expect goals in the World Cup final between Argentina and Spain. Here's how many are scored in the final on average."
-     },
-     {
-      "id": "73178945",
-      "title": "Bright and breezy Sunday, with less humidity and smoke",
-      "link": "https://www.mynbc5.com/article/bright-and-breezy-sunday-with-less-humidity-and-smoke-07-19-26/73178945",
-      "ts": "2026-07-19T12:06:00+00:00",
-      "summary": "Sunshine sticks around Monday, showers and storms return midweek"
-     },
-     {
-      "id": "73177596",
-      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami",
-      "link": "https://www.mynbc5.com/article/andrew-tristian-tate-arrested-in-miami/73177596",
-      "ts": "2026-07-19T10:50:00+00:00",
-      "summary": "Influencer brothers Andrew and Tristan Tate have been arrested by federal authorities Saturday in Miami"
-     },
-     {
-      "id": "73178635",
-      "title": "Man will now be a student at the Florida university where he once received a bionic arm",
-      "link": "https://www.mynbc5.com/article/iron-man-bionic-arm-alex-pring-ucf/73178635",
-      "ts": "2026-07-19T10:44:00+00:00",
-      "summary": "More than a decade after capturing national attention as the young boy who received a 3D-printed bionic arm with help from actor Robert Downey Jr., Alex Pring is celebrating a new chapter."
      }
     ]
    },
