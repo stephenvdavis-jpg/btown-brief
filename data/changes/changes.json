@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20T11:18:57+00:00",
+ "generated": "2026-07-20T13:21:59+00:00",
  "events": [
   {
    "ts": "2026-07-13T14:00:57+00:00",
@@ -3409,6 +3409,39 @@
    "source": "wcax",
    "sourceName": "WCAX",
    "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T12:02:35+00:00",
+   "category": "events",
+   "headline": "New event: The Ultimate Chocolate Tasting",
+   "detail": "today 2 PM · Lake Champlain Chocolates",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78391346/20260720140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T12:02:35+00:00",
+   "category": "events",
+   "headline": "New event: Green Mountain Swing Benefit for Youth Music Scholarships!",
+   "detail": "today 6 PM · ArtsRiot",
+   "url": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-20T18",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T12:02:35+00:00",
+   "category": "events",
+   "headline": "New event: Dream / Mộng : Veronica Pham",
+   "detail": "tomorrow",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78415214/20260715000000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 2,
    "kind": "added"
   }
  ]
