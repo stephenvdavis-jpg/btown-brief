@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-19T17:32:51-04:00",
+ "generated": "2026-07-20T08:02:35-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
-   "count": 28,
-   "seconds": 5.5
+   "count": 27,
+   "seconds": 5.7
   },
   "breweries": {
    "label": "Breweries & Taprooms",
-   "count": 41,
-   "seconds": 3.2
+   "count": 36,
+   "seconds": 3.7
   },
   "brownell": {
    "label": "Brownell Library",
    "count": 62,
-   "seconds": 3.4
+   "seconds": 2.9
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
-   "count": 137,
-   "seconds": 2.9
+   "count": 135,
+   "seconds": 2.7
   },
   "churchst": {
    "label": "Church Street Marketplace",
-   "count": 87,
-   "seconds": 1.7
+   "count": 86,
+   "seconds": 1.8
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -34,27 +34,27 @@
   "eventbrite": {
    "label": "Eventbrite",
    "count": 0,
-   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-19&end_date=2026-09-17&page=1 (HTTP Error 405: Not Allowed)"
+   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-20&end_date=2026-09-18&page=1 (HTTP Error 405: Not Allowed)"
   },
   "facebook": {
    "label": "Facebook (manual drops)",
-   "count": 138,
+   "count": 129,
    "seconds": 0.1
   },
   "farmersmarket": {
    "label": "Burlington Farmers Market",
    "count": 8,
-   "seconds": 0.4
+   "seconds": 0.3
   },
   "fletcherfree": {
    "label": "Fletcher Free Library",
-   "count": 221,
-   "seconds": 68.4
+   "count": 220,
+   "seconds": 70.5
   },
   "flynn": {
    "label": "The Flynn",
-   "count": 15,
-   "seconds": 2.1
+   "count": 16,
+   "seconds": 2.4
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -69,7 +69,7 @@
   "higherground": {
    "label": "Higher Ground",
    "count": 61,
-   "seconds": 91.3
+   "seconds": 101.7
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -78,28 +78,28 @@
   },
   "loveburlington": {
    "label": "Love Burlington",
-   "count": 584,
-   "seconds": 72.0
+   "count": 576,
+   "seconds": 74.9
   },
   "meetup": {
    "label": "Meetup",
    "count": 62,
-   "seconds": 128.8
+   "seconds": 124.3
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 21,
-   "seconds": 14.1
+   "seconds": 15.2
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
-   "count": 0,
-   "error": "events listing markup not found (page layout changed?)"
+   "count": 70,
+   "seconds": 8.4
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
-   "count": 43,
-   "seconds": 26.1
+   "count": 44,
+   "seconds": 26.9
   },
   "sevendays": {
    "label": "Seven Days",
@@ -113,8 +113,8 @@
   },
   "uvm": {
    "label": "UVM & Colleges",
-   "count": 159,
-   "seconds": 12.4
+   "count": 160,
+   "seconds": 9.4
   },
   "uvmbored": {
    "label": "UVM Bored",
@@ -123,8 +123,8 @@
   },
   "vcc": {
    "label": "Vermont Comedy Club",
-   "count": 50,
-   "seconds": 65.7
+   "count": 52,
+   "seconds": 70.1
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
@@ -132,124 +132,11 @@
    "seconds": 0.3
   }
  },
- "gathered": 2624,
- "afterDedup": 1268,
- "duplicatesMerged": 1356,
- "final": 2392,
+ "gathered": 2672,
+ "afterDedup": 1325,
+ "duplicatesMerged": 1347,
+ "final": 2344,
  "mergeLog": [
-  {
-   "kept": {
-    "title": "Lost Mural Project’s Musical Memories Concert – Daniel Kahn",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "loveburlington"
-   ],
-   "date": "2026-08-16"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-17"
-  },
-  {
-   "kept": {
-    "title": "Industry Day",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-17"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-17"
-  },
-  {
-   "kept": {
-    "title": "Super Smash Tuesdays",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-18"
-  },
-  {
-   "kept": {
-    "title": "Farms to Plates: Vermont's Local Food System",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-18"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-18"
-  },
-  {
-   "kept": {
-    "title": "802sDay",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-18"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-18"
-  },
-  {
-   "kept": {
-    "title": "The Mountain Goats",
-    "source": "higherground"
-   },
-   "merged_sources": [
-    "champlainvalley",
-    "helloburlington",
-    "higherground",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-19"
-  },
   {
    "kept": {
     "title": "TRIVIA NIGHT",
@@ -2397,6 +2284,19 @@
   },
   {
    "kept": {
+    "title": "Hazlett",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "higherground",
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-17"
+  },
+  {
+   "kept": {
     "title": "Thirsty Thursday",
     "source": "churchst"
    },
@@ -2405,147 +2305,173 @@
     "loveburlington"
    ],
    "date": "2026-09-17"
+  },
+  {
+   "kept": {
+    "title": "Chemistry Seminar ft. Ayanjeet Ghosh",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-17"
+  },
+  {
+   "kept": {
+    "title": "Accounting & Finance Career Showcase",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-17"
+  },
+  {
+   "kept": {
+    "title": "Pub Hour",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-17"
+  },
+  {
+   "kept": {
+    "title": "Hot Dog & A Can Thursdays",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-17"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-17"
+  },
+  {
+   "kept": {
+    "title": "Old Crow Medicine Show",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "higherground"
+   ],
+   "date": "2026-09-18"
+  },
+  {
+   "kept": {
+    "title": "Live DJ at Ri Ra!",
+    "source": "churchst"
+   },
+   "merged_sources": [
+    "churchst",
+    "loveburlington"
+   ],
+   "date": "2026-09-18"
+  },
+  {
+   "kept": {
+    "title": "Pub Hour",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-18"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-18"
   }
  ],
  "changes": [
   {
-   "id": "515f0d89cce7",
-   "title": "Womxn's Pick-up Soccer - Outdoors at Starr Farm Park",
-   "date": "2026-07-19",
-   "change": "missing",
-   "lastSeen": "2026-07-19T06:58:43-04:00"
-  },
-  {
-   "id": "a375333818cf",
-   "title": "Venetian Karaoke",
-   "date": "2026-07-19",
-   "change": "dropped"
-  },
-  {
-   "id": "31203ef0cd33",
-   "title": "Dream / Mộng : Veronica Pham",
-   "date": "2026-07-19",
-   "change": "missing",
-   "lastSeen": "2026-07-18T17:32:30-04:00"
+   "id": "5945d359dfe7",
+   "title": "\"Weird Al\" Yankovic",
+   "date": "2026-07-24",
+   "change": "time",
+   "was": "2026-07-24T18:00:00-04:00",
+   "now": "2026-07-24T19:30:00-04:00"
   },
   {
    "id": "b9c0187b6ce9-1300",
    "title": "Tech Help with Clif",
    "date": "2026-07-20",
-   "change": "missing",
-   "lastSeen": "2026-07-17T07:08:33-04:00"
+   "change": "dropped"
   },
   {
-   "id": "c8ede9d02bd9",
-   "title": "Burlington Electric Department Office Hours",
+   "id": "8e987930c7c4",
+   "title": "The Odyssey at Essex Cinemas!",
    "date": "2026-07-20",
-   "change": "dropped"
+   "change": "missing",
+   "lastSeen": "2026-07-19T17:32:51-04:00"
   },
   {
-   "id": "fe4bdba09609",
-   "title": "Sing Along with Linda Bassick at FFL",
-   "date": "2026-07-21",
-   "change": "dropped"
-  },
-  {
-   "id": "1204acf77e0d",
-   "title": "ELL Classes: English for Beginners and Intermediate Students",
-   "date": "2026-07-22",
-   "change": "dropped"
-  },
-  {
-   "id": "0513caf76bb8-1900",
-   "title": "TRIVIA NIGHT",
-   "date": "2026-07-22",
-   "change": "dropped"
+   "id": "3e4024e8030b",
+   "title": "Dream / Mộng : Veronica Pham",
+   "date": "2026-07-20",
+   "change": "missing",
+   "lastSeen": "2026-07-19T17:32:51-04:00"
   },
   {
    "id": "07d1024afec4",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-07-24",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "75166e78a793",
-   "title": "Open Studio",
-   "date": "2026-07-26",
-   "change": "dropped"
-  },
-  {
-   "id": "d018d09d4f1f",
-   "title": "Venetian Karaoke",
-   "date": "2026-07-26",
    "change": "dropped"
   },
   {
    "id": "fdef63c3067b-1300",
    "title": "Tech Help with Clif",
    "date": "2026-07-27",
-   "change": "missing",
-   "lastSeen": "2026-07-17T07:08:33-04:00"
+   "change": "dropped"
   },
   {
-   "id": "d1534f66e638",
-   "title": "Burlington Electric Department Office Hours",
+   "id": "76c98e6a1e9e",
+   "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
    "date": "2026-07-27",
-   "change": "dropped"
-  },
-  {
-   "id": "f842e3ec3aff",
-   "title": "ELL Classes: English for Beginners and Intermediate Students",
-   "date": "2026-07-29",
-   "change": "dropped"
-  },
-  {
-   "id": "54dd172f512d-1900",
-   "title": "TRIVIA NIGHT",
-   "date": "2026-07-29",
-   "change": "dropped"
+   "change": "missing",
+   "lastSeen": "2026-07-19T17:32:51-04:00"
   },
   {
    "id": "d569c2d58b53",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-07-31",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "5c1436a17307",
-   "title": "Venetian Karaoke",
-   "date": "2026-08-02",
    "change": "dropped"
   },
   {
-   "id": "f01da97388a1",
-   "title": "Burlington Electric Department Office Hours",
+   "id": "40c0752502a8",
+   "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
    "date": "2026-08-03",
-   "change": "dropped"
-  },
-  {
-   "id": "c19d2ef3853d",
-   "title": "ELL Classes: English for Beginners and Intermediate Students",
-   "date": "2026-08-05",
-   "change": "dropped"
-  },
-  {
-   "id": "f717a0667568-1900",
-   "title": "TRIVIA NIGHT",
-   "date": "2026-08-05",
-   "change": "dropped"
-  },
-  {
-   "id": "f71f68be3fa5",
-   "title": "live laugh lava: a comedy open mic",
-   "date": "2026-08-06",
-   "change": "dropped"
+   "change": "missing",
+   "lastSeen": "2026-07-19T17:32:51-04:00"
   },
   {
    "id": "b213cf5be974",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-08-07",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
+   "change": "dropped"
   },
   {
    "id": "f93f139003d4",
@@ -2555,59 +2481,27 @@
    "lastSeen": "2026-07-18T17:32:30-04:00"
   },
   {
-   "id": "12817856e815",
-   "title": "Venetian Karaoke",
-   "date": "2026-08-09",
-   "change": "dropped"
-  },
-  {
-   "id": "932d27f94b44",
-   "title": "Burlington Electric Department Office Hours",
+   "id": "c809bf7713e0",
+   "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
    "date": "2026-08-10",
-   "change": "dropped"
-  },
-  {
-   "id": "2d20ad60a923",
-   "title": "ELL Classes: English for Beginners and Intermediate Students",
-   "date": "2026-08-12",
-   "change": "dropped"
-  },
-  {
-   "id": "6ee3982f2afe-1900",
-   "title": "TRIVIA NIGHT",
-   "date": "2026-08-12",
-   "change": "dropped"
+   "change": "missing",
+   "lastSeen": "2026-07-19T17:32:51-04:00"
   },
   {
    "id": "8e1c7050dd4c",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-08-14",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "5b11ab9e88c9",
-   "title": "Venetian Karaoke",
-   "date": "2026-08-16",
    "change": "dropped"
   },
   {
    "id": "09d703e11c5a",
    "title": "Tech Help with Clif",
    "date": "2026-08-17",
-   "change": "missing",
-   "lastSeen": "2026-07-17T07:08:33-04:00"
+   "change": "dropped"
   },
   {
    "id": "09d703e11c5a-1300",
    "title": "Tech Help with Clif",
-   "date": "2026-08-17",
-   "change": "missing",
-   "lastSeen": "2026-07-17T07:08:33-04:00"
-  },
-  {
-   "id": "c5607ba4433f",
-   "title": "Burlington Electric Department Office Hours",
    "date": "2026-08-17",
    "change": "dropped"
   },
@@ -2615,162 +2509,36 @@
    "id": "fcbd1ff99cdd",
    "title": "ServSafe® Food Protection Manager Class & Exam",
    "date": "2026-08-19",
-   "change": "missing",
-   "lastSeen": "2026-07-17T07:08:33-04:00"
-  },
-  {
-   "id": "c915df9917f0",
-   "title": "ELL Classes: English for Beginners and Intermediate Students",
-   "date": "2026-08-19",
-   "change": "dropped"
-  },
-  {
-   "id": "cbc595f36c13-1900",
-   "title": "TRIVIA NIGHT",
-   "date": "2026-08-19",
    "change": "dropped"
   },
   {
    "id": "9b6dcf83f3b6",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-08-21",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
+   "change": "dropped"
   },
   {
    "id": "1cf751b8c94f",
    "title": "LCES PRESENTS: Songwriters In The Round - Live Recording!",
    "date": "2026-08-22",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "e93481c5a2ff",
-   "title": "Venetian Karaoke",
-   "date": "2026-08-23",
-   "change": "dropped"
-  },
-  {
-   "id": "f7e5cca1fde6",
-   "title": "Burlington Electric Department Office Hours",
-   "date": "2026-08-24",
-   "change": "dropped"
-  },
-  {
-   "id": "d6b1d6f3b15a",
-   "title": "Sing Along with Linda Bassick at FFL",
-   "date": "2026-08-25",
-   "change": "dropped"
-  },
-  {
-   "id": "f6b9ceb748e2",
-   "title": "Open Studio",
-   "date": "2026-08-26",
-   "change": "dropped"
-  },
-  {
-   "id": "7b89a2bb5148",
-   "title": "ELL Classes: English for Beginners and Intermediate Students",
-   "date": "2026-08-26",
-   "change": "dropped"
-  },
-  {
-   "id": "b3bdd2dfbbc2-1900",
-   "title": "TRIVIA NIGHT",
-   "date": "2026-08-26",
    "change": "dropped"
   },
   {
    "id": "8cde61132d54",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-08-28",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "7517d91c9f99",
-   "title": "Venetian Karaoke",
-   "date": "2026-08-30",
-   "change": "dropped"
-  },
-  {
-   "id": "13b10e153164",
-   "title": "Burlington Electric Department Office Hours",
-   "date": "2026-08-31",
-   "change": "dropped"
-  },
-  {
-   "id": "325ec952fcb6",
-   "title": "ELL Classes: English for Beginners and Intermediate Students",
-   "date": "2026-09-02",
-   "change": "dropped"
-  },
-  {
-   "id": "9799cae39b5e-1900",
-   "title": "TRIVIA NIGHT",
-   "date": "2026-09-02",
-   "change": "dropped"
-  },
-  {
-   "id": "b28e450f2cfb",
-   "title": "2026 UVM Part-Time Jobs Fair",
-   "date": "2026-09-03",
-   "change": "dropped"
-  },
-  {
-   "id": "277554821582",
-   "title": "live laugh lava: a comedy open mic",
-   "date": "2026-09-03",
    "change": "dropped"
   },
   {
    "id": "5947c1304056",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-09-04",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "37405bc69bd5",
-   "title": "Venetian Karaoke",
-   "date": "2026-09-06",
-   "change": "dropped"
-  },
-  {
-   "id": "375bd86e590d",
-   "title": "Burlington Electric Department Office Hours",
-   "date": "2026-09-07",
-   "change": "dropped"
-  },
-  {
-   "id": "daf52a979f2a",
-   "title": "ELL Classes: English for Beginners and Intermediate Students",
-   "date": "2026-09-09",
-   "change": "dropped"
-  },
-  {
-   "id": "b2083969c57a-1900",
-   "title": "TRIVIA NIGHT",
-   "date": "2026-09-09",
    "change": "dropped"
   },
   {
    "id": "34039a1a868e",
    "title": "Slow Runners Meet, Greet, & Run",
    "date": "2026-09-11",
-   "change": "missing",
-   "lastSeen": "2026-07-16T17:44:24-04:00"
-  },
-  {
-   "id": "440f93adddb3",
-   "title": "Venetian Karaoke",
-   "date": "2026-09-13",
-   "change": "dropped"
-  },
-  {
-   "id": "3460e17593df",
-   "title": "Burlington Electric Department Office Hours",
-   "date": "2026-09-14",
    "change": "dropped"
   }
  ]
