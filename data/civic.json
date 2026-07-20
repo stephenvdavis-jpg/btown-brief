@@ -1,20 +1,6 @@
 {
-  "generated": "2026-07-17T22:36:16+00:00",
+  "generated": "2026-07-20T13:12:56+00:00",
   "upcoming": [
-    {
-      "body": "Retirement Board",
-      "body_id": "retirement-board",
-      "title": "Retirement Board Meeting",
-      "start": "2026-07-20T05:30:00-04:00",
-      "time_uncertain": true,
-      "venue": null,
-      "agenda_url": "https://burlingtonvt.portal.civicclerk.com/event/8682/files",
-      "packet_url": null,
-      "minutes_url": null,
-      "video_url": null,
-      "summary_text": null,
-      "summary_status": "pending"
-    },
     {
       "body": "Advisory Committee on Accessibility",
       "body_id": "accessibility-committee",
@@ -339,6 +325,20 @@
     }
   ],
   "past": [
+    {
+      "body": "Retirement Board",
+      "body_id": "retirement-board",
+      "title": "Retirement Board Meeting",
+      "start": "2026-07-20T05:30:00-04:00",
+      "time_uncertain": true,
+      "venue": null,
+      "agenda_url": "https://burlingtonvt.portal.civicclerk.com/event/8682/files",
+      "packet_url": null,
+      "minutes_url": null,
+      "video_url": null,
+      "summary_text": null,
+      "summary_status": "pending"
+    },
     {
       "body": "Conservation Board",
       "body_id": "conservation-board",
@@ -898,62 +898,6 @@
       "video_url": "https://studio.youtube.com/playlist/PLrtIPTrjVTl6kdMUZwM_93iI58hYLx205/videos",
       "summary_text": null,
       "summary_status": "pending"
-    },
-    {
-      "body": "Ward 5 NPA",
-      "body_id": "ward-5-npa",
-      "title": "Ward 5 NPA Meeting",
-      "start": "2026-06-18T14:30:00-04:00",
-      "time_uncertain": false,
-      "venue": "645 Pine Street (DPW Building), or Remotely via Zoom",
-      "agenda_url": "https://burlingtonvt.api.civicclerk.com/stream/BURLINGTONVT/97b7ab89-a1ea-4ef6-a9fd-00fbf7e19ad4.pdf",
-      "packet_url": null,
-      "minutes_url": "https://burlingtonvt.api.civicclerk.com/stream/BURLINGTONVT/99189a1f-3fc6-4384-a990-0886fc28c03a.pdf",
-      "video_url": "https://www.youtube.com/watch?v=mLY10W6p9dQ",
-      "summary_text": null,
-      "summary_status": "pending"
-    },
-    {
-      "body": "Cemetery Commission",
-      "body_id": "cemetery-commission",
-      "title": "Cemetery Commission Meeting",
-      "start": "2026-06-18T12:30:00-04:00",
-      "time_uncertain": false,
-      "venue": "455 North Ave, Burlington, VT, 05401",
-      "agenda_url": "https://burlingtonvt.api.civicclerk.com/stream/BURLINGTONVT/3adaf20a-81bc-49c7-9d77-4911e5f1bfe6.pdf",
-      "packet_url": null,
-      "minutes_url": "https://burlingtonvt.api.civicclerk.com/stream/BURLINGTONVT/89e83152-edc0-4d14-b566-0ba0e8035210.pdf",
-      "video_url": null,
-      "summary_text": null,
-      "summary_status": "pending"
-    },
-    {
-      "body": "Ordinance Committee",
-      "body_id": "ordinance-committee",
-      "title": "City Council - Ordinance Committee Meeting",
-      "start": "2026-06-18T12:30:00-04:00",
-      "time_uncertain": false,
-      "venue": "Bushor Conference Room, City Hall",
-      "agenda_url": "https://burlingtonvt.api.civicclerk.com/stream/BURLINGTONVT/63ea516f-d353-49a8-8afd-a1138fb9f6ad.pdf",
-      "packet_url": "https://burlingtonvt.api.civicclerk.com/stream/BURLINGTONVT/d56d1573-ead9-4fa3-b988-b32f5e7a70be.pdf",
-      "minutes_url": "https://burlingtonvt.api.civicclerk.com/stream/BURLINGTONVT/df07a85f-d97e-4446-818e-662553db9c9f.pdf",
-      "video_url": null,
-      "summary_text": null,
-      "summary_status": "pending"
-    },
-    {
-      "body": "Library Board of Commissioners",
-      "body_id": "library-board-of-commissioners",
-      "title": "Library Commission Policy Planning Meeting",
-      "start": "2026-06-18T04:00:00-04:00",
-      "time_uncertain": true,
-      "venue": "235 College Street, Burlington, VT, 05401",
-      "agenda_url": "https://burlingtonvt.portal.civicclerk.com/event/10038/files",
-      "packet_url": null,
-      "minutes_url": "https://burlingtonvt.api.civicclerk.com/stream/BURLINGTONVT/c2a61fb7-0963-4b1c-b85f-af7c31abeb66.pdf",
-      "video_url": null,
-      "summary_text": null,
-      "summary_status": "pending"
     }
   ],
   "bodies": [
@@ -1032,14 +976,6 @@
     {
       "id": "burlington-walk-bike-council",
       "name": "Burlington Walk-Bike Council",
-      "typical_schedule": "Schedule varies; see posted meetings",
-      "source_url": "https://www.burlingtonvt.gov/412/Public-Boards-Commissions-Committees",
-      "video_url": null,
-      "in_feed": true
-    },
-    {
-      "id": "cemetery-commission",
-      "name": "Cemetery Commission",
       "typical_schedule": "Schedule varies; see posted meetings",
       "source_url": "https://www.burlingtonvt.gov/412/Public-Boards-Commissions-Committees",
       "video_url": null,
@@ -1195,14 +1131,6 @@
       "typical_schedule": "Schedule varies; see posted meetings",
       "source_url": "https://www.burlingtonvt.gov/494/Standing-Committees",
       "video_url": "https://www.cctv.org/watch-tv/series/burlington-city-council",
-      "in_feed": true
-    },
-    {
-      "id": "ward-5-npa",
-      "name": "Ward 5 NPA",
-      "typical_schedule": "Schedule varies; see posted meetings",
-      "source_url": "https://www.burlingtonvt.gov/412/Public-Boards-Commissions-Committees",
-      "video_url": null,
       "in_feed": true
     },
     {
