@@ -1,24 +1,24 @@
 {
- "updated": "2026-07-20T22:40:37+00:00",
+ "updated": "2026-07-20T23:42:03+00:00",
  "sections_updated": {
-  "now": "2026-07-20T22:40:37+00:00",
-  "forecast": "2026-07-20T22:40:37+00:00",
-  "hourly": "2026-07-20T22:40:37+00:00",
-  "alerts": "2026-07-20T22:40:37+00:00",
-  "afd": "2026-07-20T22:40:37+00:00",
-  "lake_forecast": "2026-07-20T22:40:37+00:00",
-  "lake_gage": "2026-07-20T22:40:37+00:00",
-  "air": "2026-07-20T22:40:37+00:00",
-  "sun": "2026-07-20T22:40:37+00:00",
-  "models": "2026-07-20T22:40:37+00:00"
+  "now": "2026-07-20T23:42:03+00:00",
+  "forecast": "2026-07-20T23:42:03+00:00",
+  "hourly": "2026-07-20T23:42:03+00:00",
+  "alerts": "2026-07-20T23:42:03+00:00",
+  "afd": "2026-07-20T23:42:03+00:00",
+  "lake_forecast": "2026-07-20T23:42:03+00:00",
+  "lake_gage": "2026-07-20T23:42:03+00:00",
+  "air": "2026-07-20T23:42:03+00:00",
+  "sun": "2026-07-20T23:42:03+00:00",
+  "models": "2026-07-20T23:42:03+00:00"
  },
  "now": {
-  "observed_at": "2026-07-20T22:20:00+00:00",
+  "observed_at": "2026-07-20T23:20:00+00:00",
   "station": "KBTV",
   "description": "Clear",
-  "temp_f": 81,
-  "feels_like_f": 81,
-  "humidity": 42,
+  "temp_f": 79,
+  "feels_like_f": 78,
+  "humidity": 45,
   "dewpoint_f": 55,
   "wind_mph": 8,
   "wind_gust_mph": null,
@@ -32,9 +32,9 @@
     "is_day": false,
     "temp_f": 66,
     "pop": 1,
-    "wind": "S 5 to 14 mph",
+    "wind": "S 6 to 14 mph",
     "short": "Mostly Cloudy",
-    "detailed": "Mostly cloudy, with a low around 66. South wind 5 to 14 mph."
+    "detailed": "Mostly cloudy, with a low around 66. South wind 6 to 14 mph."
    },
    {
     "name": "Tuesday",
@@ -86,17 +86,6 @@
  "hourly": {
   "updated": "2026-07-20T18:28:54+00:00",
   "hours": [
-   {
-    "t": "2026-07-20T18:00:00-04:00",
-    "temp_f": 83,
-    "feels_f": 82,
-    "pop": 0,
-    "humidity": 40,
-    "wind_mph": 5,
-    "wind_dir": "S",
-    "sky": 34,
-    "short": "Partly Cloudy"
-   },
    {
     "t": "2026-07-20T19:00:00-04:00",
     "temp_f": 81,
@@ -481,6 +470,17 @@
     "wind_dir": "S",
     "sky": 39,
     "short": "Slight Chance Rain Showers"
+   },
+   {
+    "t": "2026-07-22T06:00:00-04:00",
+    "temp_f": 67,
+    "feels_f": 67,
+    "pop": 4,
+    "humidity": 97,
+    "wind_mph": 10,
+    "wind_dir": "S",
+    "sky": 57,
+    "short": "Partly Sunny"
    }
   ]
  },
@@ -763,17 +763,17 @@
  },
  "lake_gage": {
   "water_temp_f": 72,
-  "water_temp_at": "2026-07-20T18:00:00.000-04:00",
-  "level_ft": 95.94,
-  "level_at": "2026-07-20T18:00:00.000-04:00",
+  "water_temp_at": "2026-07-20T19:00:00.000-04:00",
+  "level_ft": 95.95,
+  "level_at": "2026-07-20T19:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 38,
+  "aqi": 37,
   "category": "Good",
   "pollutant": "PM2.5",
-  "observed": "07/20/26 18:00",
+  "observed": "07/20/26 19:00",
   "discussion": "On Tuesday, July 21st, expect a chance for some low-moderate fine particulate matter pollution if a trace of wildfire smoke mixes into the area from the south."
  },
  "sun": {
@@ -812,12 +812,12 @@
      "ICON": 75
     },
     "pop_max": {
-     "GFS": 56,
+     "GFS": 55,
      "Euro": 93,
      "ICON": 83
     },
     "precip_in": {
-     "GFS": 0.03,
+     "GFS": 0.02,
      "Euro": 0.1,
      "ICON": 0.22
     },
@@ -836,7 +836,7 @@
      "ICON": 58
     },
     "precip_in": {
-     "GFS": 0.05,
+     "GFS": 0.01,
      "Euro": 0.19,
      "ICON": 0.57
     },
