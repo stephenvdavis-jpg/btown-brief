@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-10",
+  "updated": "2026-07-20",
   "rent": {
     "note": "Monthly snapshot, not live counts — every listings site's terms prohibit automated access. ZORI updates monthly; HUD FMR annually.",
     "stats": [
       {
         "key": "zori",
-        "value": "$2,095/mo",
-        "label": "Typical asking rent, Burlington metro (+1.6% in a year)",
-        "source": "Zillow Observed Rent Index (ZORI), May 2026"
+        "value": "$2,085/mo",
+        "label": "Typical asking rent, Burlington metro (+0.9% in a year)",
+        "source": "Zillow Observed Rent Index (ZORI), June 2026"
       },
       {
         "value": "$1,651",
@@ -28,7 +28,11 @@
       "listings_url": "https://www.redstonevt.com/apartment-rentals/",
       "contact_url": "https://www.redstonevt.com/contact/",
       "phone": "(802) 658-7400",
-      "tags": ["large-portfolio", "student", "downtown"],
+      "tags": [
+        "large-portfolio",
+        "student",
+        "downtown"
+      ],
       "notes": "Student buildings lease many months before fall move-in; their UVM-affiliated buildings are restricted to UVM students and staff."
     },
     {
@@ -37,7 +41,12 @@
       "listings_url": "https://www.bissonetteproperties.com/availability",
       "contact_url": "mailto:info@bissonetteproperties.com",
       "phone": "(802) 864-4449",
-      "tags": ["large-portfolio", "student", "downtown", "small-local"],
+      "tags": [
+        "large-portfolio",
+        "student",
+        "downtown",
+        "small-local"
+      ],
       "notes": "Real searchable availability page with city/beds/pets filters. Office at 100 North St, weekdays 9–5."
     },
     {
@@ -46,7 +55,10 @@
       "listings_url": "https://sdirelandproperties.com/properties/for-lease/",
       "contact_url": "mailto:info@sdirelandproperties.com",
       "phone": "(802) 861-9655",
-      "tags": ["large-portfolio", "downtown"],
+      "tags": [
+        "large-portfolio",
+        "downtown"
+      ],
       "notes": "All buildings pet-friendly; weekend showings by appointment."
     },
     {
@@ -55,7 +67,10 @@
       "listings_url": "https://offenhartz.co/available-units/",
       "contact_url": "https://offenhartz.co/contact-us/",
       "phone": "(802) 540-0860",
-      "tags": ["small-local", "downtown"],
+      "tags": [
+        "small-local",
+        "downtown"
+      ],
       "notes": "Office at 196 Battery St; their available-units page stays genuinely current."
     },
     {
@@ -64,7 +79,11 @@
       "listings_url": "https://burlingtonapartments.com/available-apartments/",
       "contact_url": "mailto:info@burlingtonapartments.com",
       "phone": "(802) 861-7778",
-      "tags": ["student", "downtown", "large-portfolio"],
+      "tags": [
+        "student",
+        "downtown",
+        "large-portfolio"
+      ],
       "notes": "Texting welcomed; rated a top-10 landlord in UVM student surveys. Student units follow the June–May cycle — tour in fall for next year."
     },
     {
@@ -73,7 +92,10 @@
       "listings_url": "https://obrienbrothersvt.com/apartment-rentals/",
       "contact_url": "https://obrienbrothersvt.com/contact/",
       "phone": "(802) 658-5000",
-      "tags": ["large-portfolio", "affordable"],
+      "tags": [
+        "large-portfolio",
+        "affordable"
+      ],
       "notes": "Portfolio spans affordable to market-rate; 24/7 on-call maintenance."
     },
     {
@@ -82,7 +104,9 @@
       "listings_url": "https://www.larkinrealty.net/availability",
       "contact_url": "mailto:addyson@larkinrealty.net",
       "phone": "(802) 864-7444",
-      "tags": ["large-portfolio"],
+      "tags": [
+        "large-portfolio"
+      ],
       "notes": "Availability page sometimes shows zero — inventory turns over fast, so emailing directly is exactly the right move here."
     },
     {
@@ -91,7 +115,11 @@
       "listings_url": null,
       "contact_url": "mailto:handyrentals@handyvt.com",
       "phone": "(802) 652-5311",
-      "tags": ["student", "downtown", "small-local"],
+      "tags": [
+        "student",
+        "downtown",
+        "small-local"
+      ],
       "notes": "No listings page of their own — they post to Zillow — which makes a direct email even more valuable. Office at 75 S. Winooski Ave."
     },
     {
@@ -100,7 +128,9 @@
       "listings_url": "https://www.gabehandyrentals.com/rentals",
       "contact_url": "mailto:handysrentals@yahoo.com",
       "phone": "(802) 878-8920",
-      "tags": ["small-local"],
+      "tags": [
+        "small-local"
+      ],
       "notes": "Rental agent line: (802) 404-1333. Apply through their own site, not the listing platforms."
     },
     {
@@ -109,7 +139,11 @@
       "listings_url": "https://fullcirclevt.com/support/available-listings/",
       "contact_url": "mailto:info@fullcirclevt.com",
       "phone": "(802) 864-5200",
-      "tags": ["large-portfolio", "senior", "small-local"],
+      "tags": [
+        "large-portfolio",
+        "senior",
+        "small-local"
+      ],
       "notes": "Listings page reflects live availability. If you rented from Coburn & Feeley back in the day, this is where that portfolio went."
     },
     {
@@ -118,7 +152,11 @@
       "listings_url": "https://www.getahome.org/find-an-apartment/",
       "contact_url": "mailto:info@getahome.org",
       "phone": "(802) 862-6244",
-      "tags": ["affordable", "waitlist", "large-portfolio"],
+      "tags": [
+        "affordable",
+        "waitlist",
+        "large-portfolio"
+      ],
       "notes": "Their listings page splits Available vs. Waitlist — waits can run 10+ months but some properties turn fast. Income limits apply. 88 King St."
     },
     {
@@ -127,7 +165,10 @@
       "listings_url": "https://www.burlingtonhousing.org/available-rentals",
       "contact_url": "https://www.burlingtonhousing.org/contact",
       "phone": "(802) 864-0538",
-      "tags": ["affordable", "waitlist"],
+      "tags": [
+        "affordable",
+        "waitlist"
+      ],
       "notes": "Expect a couple of weeks for a response on vouchers or waitlist placement — start early. 65 Main St, Suite 101."
     },
     {
@@ -136,7 +177,11 @@
       "listings_url": null,
       "contact_url": "https://winooskihousing.org/applicants.aspx",
       "phone": "(802) 655-2360",
-      "tags": ["affordable", "senior", "waitlist"],
+      "tags": [
+        "affordable",
+        "senior",
+        "waitlist"
+      ],
       "notes": "No listings page — apply through the Applicants page and join waitlists. Phones staffed Mon–Thu 8:30–4, Friday mornings."
     },
     {
@@ -145,7 +190,11 @@
       "listings_url": "https://www.summitpmg.com/management/rental-properties/",
       "contact_url": "mailto:info@summitpmg.com",
       "phone": "(802) 846-5430",
-      "tags": ["affordable", "large-portfolio", "senior"],
+      "tags": [
+        "affordable",
+        "large-portfolio",
+        "senior"
+      ],
       "notes": "No central availability search — each property page lists its own leasing contact, and income limits apply at many buildings."
     },
     {
@@ -154,7 +203,11 @@
       "listings_url": "https://cathedralsquare.org/housing-application",
       "contact_url": "mailto:info@cathedralsquare.org",
       "phone": "(802) 863-2224",
-      "tags": ["senior", "affordable", "waitlist"],
+      "tags": [
+        "senior",
+        "affordable",
+        "waitlist"
+      ],
       "notes": "Waitlists run long — nearly 1,400 households at last count — so apply well before you need it."
     },
     {
@@ -163,7 +216,10 @@
       "listings_url": "https://keenscrossing.com/",
       "contact_url": "https://www.hallkeen.com/listing/keens-crossing",
       "phone": "(802) 788-4016",
-      "tags": ["large-portfolio", "affordable"],
+      "tags": [
+        "large-portfolio",
+        "affordable"
+      ],
       "notes": "About half the units are income-restricted — ask which pool you're applying into."
     },
     {
@@ -172,7 +228,9 @@
       "listings_url": "https://www.burlingtonproperty.management/burlington-homes-for-rent",
       "contact_url": "mailto:info@fiveseasonsmanagement.com",
       "phone": "(844) 732-7665",
-      "tags": ["small-local"],
+      "tags": [
+        "small-local"
+      ],
       "notes": "The one to email if you want a house or condo rather than a big building. 19 Marble Ave, Burlington."
     },
     {
@@ -181,7 +239,9 @@
       "listings_url": null,
       "contact_url": "mailto:contact@wheelerpropertymanagement.com",
       "phone": "(802) 863-2136",
-      "tags": ["small-local"],
+      "tags": [
+        "small-local"
+      ],
       "notes": "No listings on their own site — everything current goes to Craigslist, so search Burlington Craigslist for “Wheeler” or just email."
     },
     {
@@ -190,7 +250,9 @@
       "listings_url": "https://www.propertymanagementburlingtonvt.com/properties",
       "contact_url": "mailto:swpm@strongwillvt.com",
       "phone": "(802) 251-6500",
-      "tags": ["small-local"],
+      "tags": [
+        "small-local"
+      ],
       "notes": "Online rent payment and maintenance portal. 68 Randall St, South Burlington."
     },
     {
@@ -199,7 +261,9 @@
       "listings_url": "https://nestvt.com/property-cards-module/",
       "contact_url": "mailto:info@NestVT.com",
       "phone": "(802) 391-4474",
-      "tags": ["small-local"],
+      "tags": [
+        "small-local"
+      ],
       "notes": "Recent listings ran roughly $2,500–$3,750/mo. Office hours weekdays 8–5."
     },
     {
@@ -208,7 +272,11 @@
       "listings_url": "https://www.myburlingtonapartment.com/rentals",
       "contact_url": "mailto:jtsmanagementvt@gmail.com",
       "phone": "(802) 552-7368",
-      "tags": ["student", "downtown", "small-local"],
+      "tags": [
+        "student",
+        "downtown",
+        "small-local"
+      ],
       "notes": "The phone spells 802-552-RENT. Lists sublets too — useful if you need something mid-year."
     },
     {
@@ -217,7 +285,11 @@
       "listings_url": "https://www.btvapartments.com/properties/",
       "contact_url": "https://www.btvapartments.com/contact/",
       "phone": "(802) 922-4218",
-      "tags": ["small-local", "downtown", "student"],
+      "tags": [
+        "small-local",
+        "downtown",
+        "student"
+      ],
       "notes": "Leases follow the June 1 cycle; they've offered 10-month leases for late-summer move-ins."
     },
     {
@@ -226,7 +298,10 @@
       "listings_url": "https://burlingtonvermontapartments.com/properties/",
       "contact_url": "mailto:yourpropertymanagervt@gmail.com",
       "phone": null,
-      "tags": ["small-local", "student"],
+      "tags": [
+        "small-local",
+        "student"
+      ],
       "notes": "Email-only — no phone published. Inventory skews to student-cycle group houses."
     },
     {
@@ -235,7 +310,10 @@
       "listings_url": "https://www.nedderealestate.com/listings/",
       "contact_url": "https://www.nedderealestate.com/contact/",
       "phone": "(802) 651-6888",
-      "tags": ["downtown", "small-local"],
+      "tags": [
+        "downtown",
+        "small-local"
+      ],
       "notes": "Their listings page mixes commercial and residential — look for the 77 Residences and The Nest entries."
     }
   ],
