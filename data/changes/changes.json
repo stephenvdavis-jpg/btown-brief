@@ -1,105 +1,6 @@
 {
- "generated": "2026-07-20T18:25:43+00:00",
+ "generated": "2026-07-20T20:46:12+00:00",
  "events": [
-  {
-   "ts": "2026-07-13T19:55:31+00:00",
-   "category": "weather",
-   "headline": "Heat Advisory has ended",
-   "detail": "Heat Advisory issued July 13 at 2:22AM EDT until July 14 at 8:00PM EDT by NWS Burlington VT",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 2,
-   "kind": "status"
-  },
-  {
-   "ts": "2026-07-13T19:55:33+00:00",
-   "category": "cityhall",
-   "headline": "City Council - Ordinance Committee Meeting scheduled for Thursday, Jul 16",
-   "detail": "",
-   "url": "https://burlingtonvt.portal.civicclerk.com/event/10081/overview",
-   "source": "civicclerk",
-   "sourceName": "City meeting portal",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T20:01:44+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Charcuterie Frick, Lacolle?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvmc3i/charcuterie_frick_lacolle/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T20:01:44+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Where is a good spot for a refreshing drink and a book?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvm60o/where_is_a_good_spot_for_a_refreshing_drink_and_a/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T20:01:44+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Bull Terrier",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvlx92/bull_terrier/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T20:01:44+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Job posting options?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvl52a/job_posting_options/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T20:01:44+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Favorite farm stands?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvkvk3/favorite_farm_stands/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T20:01:44+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: What's going on with high school baseball field?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvk29v/whats_going_on_with_high_school_baseball_field/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T20:18:49+00:00",
-   "category": "news",
-   "headline": "UVM Medical Center inks its second contract with resident physicians",
-   "detail": "",
-   "url": "https://www.vermontpublic.org/local-news/2026-07-13/uvm-medical-center-second-contract-resident-physicians",
-   "source": "vermont-public",
-   "sourceName": "Vermont Public",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-13T21:11:52+00:00",
    "category": "news",
@@ -3441,6 +3342,28 @@
    "url": "https://burlingtonvt.portal.civicclerk.com/event/10085/overview",
    "source": "civicclerk",
    "sourceName": "City meeting portal",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T20:34:00+00:00",
+   "category": "news",
+   "headline": "Man accused of threatening Burlington firefighter, attacking woman in court",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/man-arrested-assault-threatening-burlington-firefighter/73180018",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T20:39:51+00:00",
+   "category": "news",
+   "headline": "Vermont’s Catholic Church aims to protect Rice Memorial High by selling the parochial school to supporters",
+   "detail": "",
+   "url": "https://vtdigger.org/2026/07/20/vermonts-catholic-church-aims-to-protect-rice-memorial-high-by-selling-the-parochial-school-to-supporters/",
+   "source": "vtdigger",
+   "sourceName": "VTDigger",
    "priority": 1,
    "kind": "added"
   }

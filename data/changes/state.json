@@ -575,6 +575,13 @@
       "summary": "A historian's claim that Vermont cartoonist Tillie Walden borrowed too much from a 2014 biography raises questions about artistic interpretation and appropriation. The post New Graphic Novel Charity & Sylvia’ Comes Under Scrutiny appeared first on Seven Days . (Image: Courtesy)"
      },
      {
+      "id": "https://www.sevendaysvt.com/?p=212379",
+      "title": "Obituary: Dr. Edwin Joseph Guilfoy Jr., 1947-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-dr-edwin-joseph-guilfoy-jr-1947-2026/",
+      "ts": "2026-07-20T10:00:00+00:00",
+      "summary": "Family, his farm and his faith were Huntington man’s greatest passions The post Obituary: Dr. Edwin Joseph Guilfoy Jr., 1947-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212359",
       "title": "Obituary: Jeffrey Robert Wells, 1956-2026",
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-jeffrey-robert-wells-1956-2026/",
@@ -607,7 +614,7 @@
       "title": "Teen Cyclist Killed in Collision With Minivan in Burlington",
       "link": "https://www.sevendaysvt.com/news/news-news/teen-cyclist-killed-in-collision-with-minivan-in-burlington/",
       "ts": "2026-07-17T22:24:25+00:00",
-      "summary": "Shiloh Skalka was riding an e-bike southbound on Pine Street shortly after 1 p.m. on Thursday and was injured in a crash with a minivan headed in the same direction, police said. The post Teen Cyclist Killed in Collision With Minivan in Burlington appeared first on Seven Days . (Image: Courtesy of Jack Mandeville Evans)"
+      "summary": "Shiloh Skalka was riding an e-bike southbound on Pine Street shortly after 1 p.m. on Thursday and was injured in a crash with a minivan headed in the same direction, police said. The post Teen Cyclist Killed in Collision With Minivan in Burlington appeared first on Seven Days . (Image: Sasha Goldstein)"
      },
      {
       "id": "https://www.sevendaysvt.com/?p=212282",
@@ -629,18 +636,18 @@
       "link": "https://www.sevendaysvt.com/news/newsquiz/news-quiz/",
       "ts": "2026-07-17T11:00:00+00:00",
       "summary": "Answer this question and seven others in our new weekly news quiz about Vermont news. It's quick, fun and informative. The post News Quiz: Which Vermont philanthropic organization said it would shut down at the end of the year? appeared first on Seven Days ."
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212263",
-      "title": "Obituary: Mary Lynne Tromp, 1957-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-mary-lynne-tromp-1957-2026/",
-      "ts": "2026-07-17T10:00:00+00:00",
-      "summary": "“Ohio girl at heart” loved her beloved friends and family, listening to music, and sitting in the sun The post Obituary: Mary Lynne Tromp, 1957-2026 appeared first on Seven Days . (Image: Courtesy)"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651749",
+      "title": "Vermont’s Catholic Church aims to protect Rice Memorial High by selling the parochial school to supporters",
+      "link": "https://vtdigger.org/2026/07/20/vermonts-catholic-church-aims-to-protect-rice-memorial-high-by-selling-the-parochial-school-to-supporters/",
+      "ts": "2026-07-20T20:39:51+00:00",
+      "summary": "The state’s largest religious denomination hopes to shield the South Burlington campus from potential liquidation in U.S. Bankruptcy Court by offering it to a new nonprofit for $4.3 million. Read the story on VTDigger here: Vermont’s Catholic Church aims to protect Rice Memorial High by selling the parochial school to supporters ."
+     },
      {
       "id": "https://vtdigger.org/?p=651543",
       "title": "In Vermont’s Democratic primary for lieutenant governor, leading candidates’ past work takes center stage",
@@ -843,18 +850,25 @@
       "link": "https://vtdigger.org/2026/07/14/opinon-no-one-struggling-to-pay-rent-can-meet-a-12000-deductible/",
       "ts": "2026-07-14T17:08:44+00:00",
       "summary": "The people designing health insurance plans have lost touch with a basic fact: For many Vermonters, healthcare is a luxury they can't afford. Read the story on VTDigger here: No one struggling to pay rent can meet a $12,000 deductible ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651275",
-      "title": "The two Democrats running for Chittenden County sheriff couldn’t be more different",
-      "link": "https://vtdigger.org/2026/07/13/the-two-democrats-running-for-chittenden-county-sheriff-couldnt-be-more-different/",
-      "ts": "2026-07-13T23:39:46+00:00",
-      "summary": "Law enforcement outsider Kevin Bloom is challenging Sheriff Dan Gamelin, who is a career deputy. Bloom thinks they can use the office to reform eviction, while Gamelin counts some of the county’s biggest landlords among his friends. Read the story on VTDigger here: The two Democrats running for Chittenden County sheriff couldn’t be more different ."
      }
     ]
    },
    "vermont-public": {
     "items": [
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-20/citizens-bank-ends-relationship-with-ice-prison-companies-after-months-of-protest",
+      "title": "Citizens Bank ends relationship with ICE prison companies after months of protest",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-20/citizens-bank-ends-relationship-with-ice-prison-companies-after-months-of-protest",
+      "ts": "2026-07-20T20:28:34+00:00",
+      "summary": "The Providence-headquartered financial institution says it ended its relationship with Core Civic and The GEO Group, two companies that invest and operate in prisons used to detain ICE arrestees."
+     },
+     {
+      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-20/the-uncertain-future-of-the-ben-jerrys-foundation",
+      "title": "The uncertain future of the Ben & Jerry's Foundation",
+      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-20/the-uncertain-future-of-the-ben-jerrys-foundation",
+      "ts": "2026-07-20T20:05:17+00:00",
+      "summary": "The foundation, founded in 1985, provides around $600,000 annually to Vermont-based organizations."
+     },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-20/the-gatepost-author-tim-weed-writing-fiction",
       "title": "‘The Gatepost’ author Tim Weed on writing fiction: 'Root the story in something very familiar'",
@@ -924,25 +938,46 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
       "ts": "2026-07-16T21:13:48+00:00",
       "summary": "Vermont is one of four states that “needs intervention” to come into compliance with a federal law that governs special education, and it could face financial sanctions if it doesn't improve academic proficiency among students with disabilities."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-16/springfield-hospital-plans-close-adult-day-program-caregivers-fewer-options",
-      "title": "Springfield Hospital plans to close its adult day program, leaving caregivers fewer respite options",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-16/springfield-hospital-plans-close-adult-day-program-caregivers-fewer-options",
-      "ts": "2026-07-16T20:59:08+00:00",
-      "summary": "Springfield Hospital plans to close its long-running adult day program in September, citing financial reasons. It's one of only 10 adult day programs for people with cognitive and physical disabilities currently operating in the state."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-15/brattleboro-memorial-says-it-needs-help-to-keep-its-birth-center-open-gov-scott-isnt-stepping-in",
-      "title": "Brattleboro Memorial says it needs help to keep its birth center open. Gov. Scott isn't stepping in",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-15/brattleboro-memorial-says-it-needs-help-to-keep-its-birth-center-open-gov-scott-isnt-stepping-in",
-      "ts": "2026-07-15T22:29:33+00:00",
-      "summary": "“One institution, one organization is not going to be able to solve this problem,” BMH board chair Chloe Leary said Tuesday. “It is a question about whether Vermont — all of Vermont — is willing to find a sustainable way to pay for maternity care.”"
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "7F5BPBKI5JAFLPCXOJSFQ5YWCQ",
+      "title": "Former Sanders campaign staffer charged in Lebanon traffic incident",
+      "link": "https://www.wcax.com/2026/07/20/former-sanders-campaign-staffer-charged-lebanon-traffic-incident/",
+      "ts": "2026-07-20T20:14:56+00:00",
+      "summary": "A former campaign staffer for Senator Bernie Sanders faces a slew of charges after a dramatic traffic incident in New Hampshire over the weekend."
+     },
+     {
+      "id": "ZEQ2IMXFXNHS5NFMTERMKXHJ2Y",
+      "title": "Tractor-trailer crash closes Route 22A in Benson for hours",
+      "link": "https://www.wcax.com/2026/07/20/tractor-trailer-crash-closes-route-22a-benson-hours/",
+      "ts": "2026-07-20T20:13:18+00:00",
+      "summary": "A Costco truck crashed on Route 22A in Benson Friday morning, closing the road in both directions for nearly three hours."
+     },
+     {
+      "id": "UQQWNSKOPRGVLMPZCUR6BFL67Y",
+      "title": "Plattsburgh’s Michigan Fest returns August 1 with more vendors, new events",
+      "link": "https://www.wcax.com/2026/07/20/plattsburghs-michigan-fest-returns-august-1-with-more-vendors-new-events/",
+      "ts": "2026-07-20T20:04:36+00:00",
+      "summary": "Plattsburgh’s Second Annual Michigan Fest is preparing to return next month."
+     },
+     {
+      "id": "JEUU3PLXJFCFTN7N5MHBJBEBNQ",
+      "title": "2 men arrested in Burlington drug trafficking investigation",
+      "link": "https://www.wcax.com/2026/07/20/2-men-arrested-burlington-drug-trafficking-investigation/",
+      "ts": "2026-07-20T19:16:14+00:00",
+      "summary": "Police say two men pleaded not guilty to drug charges Monday after a monthlong investigation into a drug trafficking operation in downtown Burlington."
+     },
+     {
+      "id": "P7JCH5KMTJBLTLPN4PJTSDM37Y",
+      "title": "Jury selection begins for man accused of killing daughter in Northern NY",
+      "link": "https://www.wcax.com/2026/07/20/jury-selection-begins-man-accused-killing-daughter-northern-ny/",
+      "ts": "2026-07-20T18:49:12+00:00",
+      "summary": "Jury selection began Monday for a man charged with killing his 9-year-old daughter while on vacation in the Adirondacks."
+     },
      {
       "id": "HR645D5KXBBA3IJCR7K6ZZ5A2Y",
       "title": "Chittenden Solid Waste District adds $1 drop-off fee to fund facility repairs",
@@ -1005,13 +1040,6 @@
       "link": "https://www.wcax.com/2026/07/20/highgate-man-cited-after-accidental-shooting-into-neighboring-apartment/",
       "ts": "2026-07-20T03:18:26+00:00",
       "summary": "Police cited a Highgate man Sunday after he said he accidentally fired a handgun into an occupied neighboring apartment."
-     },
-     {
-      "id": "JEUU3PLXJFCFTN7N5MHBJBEBNQ",
-      "title": "Burlington police arrest 2 in drug trafficking bust",
-      "link": "https://www.wcax.com/2026/07/20/burlington-police-arrest-two-drug-trafficking-bust/",
-      "ts": "2026-07-20T03:18:07+00:00",
-      "summary": "Police say they arrested two men and seized illegal narcotics Sunday morning following a monthlong investigation into a drug trafficking organization operating in downtown Burlington."
      },
      {
       "id": "3PIR2ZRXBRGTTKOKGW6KPJH5HQ",
@@ -1264,45 +1292,115 @@
       "link": "https://www.wcax.com/2026/07/17/drowning-victim-discovered-lake-champlain/",
       "ts": "2026-07-17T14:20:53+00:00",
       "summary": "An 86-year-old man is dead after drowning in Lake Champlain"
-     },
-     {
-      "id": "544HNKHZKJAGTHUBBCDMGQZ4HI",
-      "title": "Beer here! Starting Friday night in Burlington",
-      "link": "https://www.wcax.com/2026/07/17/beer-here-starting-friday-night-burlington/",
-      "ts": "2026-07-17T12:48:09+00:00",
-      "summary": "The Vermont Brewers Festival returns Friday night for its 33rd year"
-     },
-     {
-      "id": "HX5TG66ZSJEPHA3FANHTT5ZCCQ",
-      "title": "Vermont man accused of assault with hammer, threatening baby during fight",
-      "link": "https://www.wcax.com/2026/07/17/vermont-man-accused-assault-with-hammer-threatening-baby-during-fight/",
-      "ts": "2026-07-17T11:42:24+00:00",
-      "summary": "A fight at the St. Johnsbury welcome center Thursday night resulted in two arrests including one accused of threatening a baby with a hammer and hitting someone in the head"
-     },
-     {
-      "id": "2ADRO3V4OBB55GKSC26MTEPXZA",
-      "title": "Flood safety signs posted at NH recreation sites",
-      "link": "https://www.wcax.com/2026/07/17/flood-safety-signs-posted-nh-recreation-sites/",
-      "ts": "2026-07-17T11:00:58+00:00",
-      "summary": "There are new signs at outdoor recreational areas throughout New Hampshire promoting flood safety"
-     },
-     {
-      "id": "5E4F3M76B5C55CS4O4IJO4APCQ",
-      "title": "Tanker truck catches fire on Interstate 89",
-      "link": "https://www.wcax.com/2026/07/17/tanker-truck-catches-fire-interstate-89/",
-      "ts": "2026-07-17T10:39:50+00:00",
-      "summary": "A small tanker truck fire closed off a portion of Interstate 89 South in Colchester Friday morning"
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
-      "id": "73193197",
-      "title": "State Department issues warning for Americans traveling, living abroad as Iran conflict escalates",
-      "link": "https://www.mynbc5.com/article/state-department-worldwide-warning-americans-iran/73193197",
-      "ts": "2026-07-20T18:16:00+00:00",
-      "summary": "The U.S. State Department has issued a worldwide security alert for Americans abroad, warning that Iran-backed or pro-Iran groups could target U.S. citizens."
+      "id": "73180018",
+      "title": "Man accused of threatening Burlington firefighter, attacking woman in court",
+      "link": "https://www.mynbc5.com/article/man-arrested-assault-threatening-burlington-firefighter/73180018",
+      "ts": "2026-07-20T20:34:00+00:00",
+      "summary": "Burlington Police took a man into custody on Friday after he allegedly assaulted a woman and threatened a firefighter with a knife."
+     },
+     {
+      "id": "73186163",
+      "title": "Taylor Farms lettuce still the center of cyclosporiasis investigation, despite false positive test",
+      "link": "https://www.mynbc5.com/article/taylor-farms-lettuce-cyclospora-false-positive/73186163",
+      "ts": "2026-07-20T20:28:00+00:00",
+      "summary": "Testing that showed iceberg lettuce from Taylor Fresh Foods was tainted with cyclospora was a false positive, federal officials say."
+     },
+     {
+      "id": "73191398",
+      "title": "Jury selection begins for Canadian man accused of killing his 9-year-old daughter in New York",
+      "link": "https://www.mynbc5.com/article/luciano-frattolin-murder-trial-jury-draw/73191398",
+      "ts": "2026-07-20T20:28:00+00:00",
+      "summary": "Jury selection is underway for Luciano Frattolin, a Canadian man accused of killing his 9-year-old daughter, Melina, and hiding her body in Ticonderoga, New York."
+     },
+     {
+      "id": "73183683",
+      "title": "US bombing of Iran expands as Tehran retaliates against the Gulf states",
+      "link": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
+      "ts": "2026-07-20T20:24:00+00:00",
+      "summary": "The United States has conducted a new round of airstrikes targeting Iran after announcing the death of another American service member."
+     },
+     {
+      "id": "73193880",
+      "title": "Middlebury man accused of stabbing father during family dispute appears in court",
+      "link": "https://www.mynbc5.com/article/joshua-puma-middlebury-stabbing-arrest/73193880",
+      "ts": "2026-07-20T20:07:00+00:00",
+      "summary": "Joshua Puma was in court on Monday after he was accused of stabbing and shooting his gun during a family dispute last week."
+     },
+     {
+      "id": "73181026",
+      "title": "Two Connecticut men arrested in South Burlington drug trafficking investigation",
+      "link": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
+      "ts": "2026-07-20T20:07:00+00:00",
+      "summary": "Two men from Connecticut were arrested after a drug trafficking investigation in Burlington."
+     },
+     {
+      "id": "73191265",
+      "title": "Winooski Police Department arrests man accused of multiple burglaries",
+      "link": "https://www.mynbc5.com/article/winooski-vermont-burglary-arrests-ricky-rich/73191265",
+      "ts": "2026-07-20T20:05:00+00:00",
+      "summary": "The Winooski Police Department has arrested a man wanted following a series of burglaries at local bars and restaurants."
+     },
+     {
+      "id": "73194258",
+      "title": "Attempt to save a struggling swimmer leaves 5 dead in a river in Ohio",
+      "link": "https://www.mynbc5.com/article/scioto-river-drowning-attempt-kills-five-in-ohio/73194258",
+      "ts": "2026-07-20T20:03:00+00:00",
+      "summary": "Authorities say five people have died on a river in Ohio after several of them went into the water to assist another person who was struggling to swim."
+     },
+     {
+      "id": "73194407",
+      "title": "Tractor-trailer crash temporarily closes roadway in Rutland County",
+      "link": "https://www.mynbc5.com/article/benson-vermont-truck-crash/73194407",
+      "ts": "2026-07-20T20:01:00+00:00",
+      "summary": "A tractor-trailer crash closed Vermont Route 22A in Benson for several hours on Friday after the vehicle blocked both lanes of the roadway."
+     },
+     {
+      "id": "73184402",
+      "title": "2 weeks after a Mississippi football player’s death, many questions linger",
+      "link": "https://www.mynbc5.com/article/nolan-wells-mississippi-football-player/73184402",
+      "ts": "2026-07-20T19:58:00+00:00",
+      "summary": "As Nolan Wells’ family prepares to lay the 18-year-old to rest on Monday, they will do so without knowing why his young life was cut so tragically short."
+     },
+     {
+      "id": "73191511",
+      "title": "Army veteran in custody, accused of starting fire outside NYC federal building, FBI says",
+      "link": "https://www.mynbc5.com/article/new-york-federal-building-explosion/73191511",
+      "ts": "2026-07-20T19:50:00+00:00",
+      "summary": "A former U.S. Army soldier set off fireworks and started a fire Monday morning outside a New York building housing an immigration court and other government offices, according to federal authorities."
+     },
+     {
+      "id": "73193208",
+      "title": "Does vinegar kill cyclospora? Answering your questions about produce safety",
+      "link": "https://www.mynbc5.com/article/what-kills-cyclospora-produce-safety/73193208",
+      "ts": "2026-07-20T19:47:00+00:00",
+      "summary": "Does vinegar kill cyclospora? Are frozen fruits safer? Here are answers to your questions as the search for the cyclosporiasis outbreak's source continues."
+     },
+     {
+      "id": "73194107",
+      "title": "Sen. Darline Graham running for full Senate term after being appointed to Lindsey Graham's seat",
+      "link": "https://www.mynbc5.com/article/sen-darline-graham-running-full-senate-term/73194107",
+      "ts": "2026-07-20T19:23:00+00:00",
+      "summary": "Sen. Darline Graham running for full Senate term after being appointed to Lindsey Graham's seat"
+     },
+     {
+      "id": "73193229",
+      "title": "Senators demand ICE answers and body cameras after 2 fatal shootings in Maine and Houston",
+      "link": "https://www.mynbc5.com/article/senators-ice-answers-body-cameras-2-shootings-maine-houston/73193229",
+      "ts": "2026-07-20T18:43:00+00:00",
+      "summary": "Dozens of Democratic U.S. senators and Maine's Independent senator are demanding more details from Immigration and Customs Enforcement about vetting practices for new agents."
+     },
+     {
+      "id": "73193845",
+      "title": "Woman uninjured after car fell into massive sinkhole in Baltimore, officials say",
+      "link": "https://www.mynbc5.com/article/car-falls-into-sinkhole-baltimore/73193845",
+      "ts": "2026-07-20T18:40:00+00:00",
+      "summary": "A car fell into a massive sinkhole in Baltimore, and the woman driving the car was not injured, according to police."
      },
      {
       "id": "73193756",
@@ -1310,6 +1408,13 @@
       "link": "https://www.mynbc5.com/article/taylor-park-st-albans-knife-fight/73193756",
       "ts": "2026-07-20T18:16:00+00:00",
       "summary": "A New York man has been charged with aggravated assault and reckless endangerment after two people were injured in a knife fight at Taylor Park."
+     },
+     {
+      "id": "73193197",
+      "title": "State Department issues warning for Americans traveling, living abroad as Iran conflict escalates",
+      "link": "https://www.mynbc5.com/article/state-department-worldwide-warning-americans-iran/73193197",
+      "ts": "2026-07-20T18:16:00+00:00",
+      "summary": "The U.S. State Department has issued a worldwide security alert for Americans abroad, warning that Iran-backed or pro-Iran groups could target U.S. citizens."
      },
      {
       "id": "73193769",
@@ -1331,111 +1436,6 @@
       "link": "https://www.mynbc5.com/article/beautiful-monday-afternoon-with-sunshine-and-low-humidity-07-20-26/73193552",
       "ts": "2026-07-20T17:52:00+00:00",
       "summary": "Scattered showers and storms return Tuesday into Wednesday, drier late week"
-     },
-     {
-      "id": "73189261",
-      "title": "U.S. military identifies 2 soldiers killed in Iranian attack on Jordan",
-      "link": "https://www.mynbc5.com/article/tyler-james-feehan-isabella-gonzales-soldiers-killed-iran-jordan/73189261",
-      "ts": "2026-07-20T17:52:00+00:00",
-      "summary": "The Trump administration on Monday identified two soldiers killed in action last week as part of the U.S. war with Iran."
-     },
-     {
-      "id": "73188385",
-      "title": "Tate brothers make first court appearance since arrest on rape, sex trafficking charges",
-      "link": "https://www.mynbc5.com/article/andrew-tristan-tate-miami-court/73188385",
-      "ts": "2026-07-20T17:42:00+00:00",
-      "summary": "Influencer brothers Andrew and Tristan Tate appeared before a federal magistrate in Miami on Monday for the first time since they were arrested to face rape and sex trafficking charges."
-     },
-     {
-      "id": "73193294",
-      "title": "Ex-Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in prison",
-      "link": "https://www.mynbc5.com/article/el-mayo-mexican-drug-lord-sentenced-to-life/73193294",
-      "ts": "2026-07-20T17:39:00+00:00",
-      "summary": "Former Mexican drug kingpin Ismael “El Mayo” Zambada was sentenced in a U.S. court to life in prison. At his sentencing on Monday, he called for an end to the brand of brutal violence he used for decades to grow the Sinaloa cartel into the world’s largest drug trafficking organization."
-     },
-     {
-      "id": "73193283",
-      "title": "Judge says Paramount and Warner must halt merger for at least two weeks, granting states' request",
-      "link": "https://www.mynbc5.com/article/judge-paramount-warner-halt-merger-two-weeks/73193283",
-      "ts": "2026-07-20T17:34:00+00:00",
-      "summary": "Judge says Paramount and Warner must halt merger for at least two weeks, granting states' request"
-     },
-     {
-      "id": "73184402",
-      "title": "2 weeks after a Mississippi football player’s death, many questions linger",
-      "link": "https://www.mynbc5.com/article/nolan-wells-mississippi-football-player/73184402",
-      "ts": "2026-07-20T17:29:00+00:00",
-      "summary": "As Nolan Wells’ family prepares to lay the 18-year-old to rest on Monday, they will do so without knowing why his young life was cut so tragically short."
-     },
-     {
-      "id": "73192883",
-      "title": "Traffic slowed on Interstate 89 after car flips into median in Bolton",
-      "link": "https://www.mynbc5.com/article/interstate-89-bolton-vermont-car-flipped/73192883",
-      "ts": "2026-07-20T16:53:00+00:00",
-      "summary": "Traffic was slowed on Interstate 89 in Bolton on Monday after a car flipped into the median."
-     },
-     {
-      "id": "73192512",
-      "title": "Video shows police officer pulling driver out of burning vehicle",
-      "link": "https://www.mynbc5.com/article/texas-burning-car-rescue-video/73192512",
-      "ts": "2026-07-20T16:42:00+00:00",
-      "summary": "A Texas police officer was shown on body and dashcam videos springing into action to help a driver out of a burning car. See the dramatic footage."
-     },
-     {
-      "id": "73171442",
-      "title": "The race for Chittenden County state's attorney heats up",
-      "link": "https://www.mynbc5.com/article/race-chittenden-county-states-attorney-heats-up/73171442",
-      "ts": "2026-07-20T16:38:00+00:00",
-      "summary": "As the two Democratic candidates with lengthy work histories face off for the August primaries"
-     },
-     {
-      "id": "73192413",
-      "title": "Suspects wanted in break-in at Eagles running back Saquon Barkley’s home",
-      "link": "https://www.mynbc5.com/article/saquon-barkley-home-break-in/73192413",
-      "ts": "2026-07-20T16:25:00+00:00",
-      "summary": "Police are searching for suspects in connection with a weekend break-in at the home of Philadelphia Eagles running back Saquon Barkley."
-     },
-     {
-      "id": "73181026",
-      "title": "Two Connecticut men arrested in South Burlington drug trafficking investigation",
-      "link": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
-      "ts": "2026-07-20T16:14:00+00:00",
-      "summary": "Two men from Connecticut were arrested after a drug trafficking investigation in Burlington."
-     },
-     {
-      "id": "73191265",
-      "title": "Winooski Police Department arrests man accused of multiple burglaries",
-      "link": "https://www.mynbc5.com/article/winooski-vermont-burglary-arrests-ricky-rich/73191265",
-      "ts": "2026-07-20T16:12:00+00:00",
-      "summary": "The Winooski Police Department has arrested a man wanted following a series of burglaries at local bars and restaurants."
-     },
-     {
-      "id": "73191852",
-      "title": "Troy Jackson appears closest to securing Maine nomination to replace Platner",
-      "link": "https://www.mynbc5.com/article/troy-jackson-maine-democrat-nomination-platner/73191852",
-      "ts": "2026-07-20T16:11:00+00:00",
-      "summary": "Former Maine lawmaker Troy Jackson has moved into a strong position to replace Graham Platner as the Democratic candidate for U.S. Senate in Maine."
-     },
-     {
-      "id": "73191905",
-      "title": "Pilot rescued by residents after small plane crash in Orleans County",
-      "link": "https://www.mynbc5.com/article/morgan-vermont-plane-crash-rescue/73191905",
-      "ts": "2026-07-20T16:10:00+00:00",
-      "summary": "A Vermont pilot is safe after he crashed his small plane in a lake in Orleans County and was rescued by neighbors, Vermont State Police said."
-     },
-     {
-      "id": "73192127",
-      "title": "What to know about the Tate brothers, social media influencers facing rape and trafficking charges",
-      "link": "https://www.mynbc5.com/article/tate-brothers-arrested-sex-trafficking-charges/73192127",
-      "ts": "2026-07-20T16:07:00+00:00",
-      "summary": "Influencer brothers Andrew and Tristan Tate were arrested in Miami on rape and sex trafficking charges. Here's what to know about the Tate brothers."
-     },
-     {
-      "id": "73192095",
-      "title": "Vermont man arrested after argument turns violent in Montpelier",
-      "link": "https://www.mynbc5.com/article/montpelier-assault-charges-bergeron/73192095",
-      "ts": "2026-07-20T15:44:00+00:00",
-      "summary": "A southern Vermont man was arrested in Montpelier this weekend after police said he attacked two people following an argument that turned violent."
      }
     ]
    },
