@@ -1,6 +1,100 @@
 {
- "updated": "2026-07-17T11:48:14+00:00",
+ "updated": "2026-07-20T12:29:22+00:00",
  "jobs": [
+  {
+   "id": "uvm-87355",
+   "title": "Dispatcher",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-17",
+   "url": "https://www.uvmjobs.com/postings/87355",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87352",
+   "title": "First Scholars Program Coordinator",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-17",
+   "url": "https://www.uvmjobs.com/postings/87352",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87349",
+   "title": "Registered Nurse",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-17",
+   "url": "https://www.uvmjobs.com/postings/87349",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87347",
+   "title": "Clinic Assistant",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-17",
+   "url": "https://www.uvmjobs.com/postings/87347",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87342",
+   "title": "Cancer Training Program Coordinator",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-17",
+   "url": "https://www.uvmjobs.com/postings/87342",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "uvm-87341",
+   "title": "Cancer Outreach/Education Coordinator",
+   "employer": "University of Vermont",
+   "pay": null,
+   "posted": "2026-07-17",
+   "url": "https://www.uvmjobs.com/postings/87341",
+   "source": "UVM",
+   "tags": []
+  },
+  {
+   "id": "seven-days-519b1a146524",
+   "title": "Intake Specialist/Paralegal",
+   "employer": "Legal Services Vermont",
+   "pay": null,
+   "posted": "2026-07-17",
+   "url": "https://jobs.sevendaysvt.com/job/legal-government/legal-services-vermont-burlington-full-time-intake-specialist-paralegal/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "seven-days-4ad594fecf86",
+   "title": "Head Start Preschool Teacher – Integrated Arts Academy (IAA)",
+   "employer": "Champlain Valley Office of Economic Opportunity",
+   "pay": null,
+   "posted": "2026-07-17",
+   "url": "https://jobs.sevendaysvt.com/job/education/champlain-valley-office-of-economic-opportunity-burlington-education-full-time-head-start-preschool-teacher-integrated-arts-academy-iaa/",
+   "source": "Seven Days",
+   "tags": []
+  },
+  {
+   "id": "city-of-burlington-5414339",
+   "title": "Arena Maintenance Worker",
+   "employer": "City of Burlington — Parks, Recreation & Waterfront",
+   "pay": "$58,406.40 - $65,062.40 Annually",
+   "posted": "2026-07-17",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5414339/arena-maintenance-worker",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "no-degree",
+    "pay25"
+   ]
+  },
   {
    "id": "uvm-87335",
    "title": "CAS Admin Coordinator, School of World Languages & Cultures",
@@ -167,16 +261,6 @@
    ]
   },
   {
-   "id": "seven-days-48f39afc8b04",
-   "title": "Accountant / Bookkeeper",
-   "employer": "The 4x4 Center",
-   "pay": null,
-   "posted": "2026-07-15",
-   "url": "https://jobs.sevendaysvt.com/job/accounting-finance/the-4x4-center-south-burlington-full-time-part-time-accountant-bookkeeper/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
    "id": "city-of-burlington-5411053",
    "title": "Customer Service Associate",
    "employer": "City of Burlington — Clerk/Treasurer",
@@ -267,16 +351,6 @@
    "tags": []
   },
   {
-   "id": "seven-days-c1986c653f00",
-   "title": "Cellar/Brewer Operator and a Senior Brewer",
-   "employer": "Zero Gravity",
-   "pay": null,
-   "posted": "2026-07-14",
-   "url": "https://jobs.sevendaysvt.com/job/restaurant-food-service/zero-gravity-cellar-brewer-operator-and-a-senior-brewer/",
-   "source": "Seven Days",
-   "tags": []
-  },
-  {
    "id": "city-of-burlington-5410055",
    "title": "Water Distribution Field Technician",
    "employer": "City of Burlington — Public Works",
@@ -288,26 +362,6 @@
     "city",
     "pay25"
    ]
-  },
-  {
-   "id": "uvm-87259",
-   "title": "Cancer Training Program Coordinator",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://www.uvmjobs.com/postings/87259",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87251",
-   "title": "Cancer Outreach/Education Coordinator",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-13",
-   "url": "https://www.uvmjobs.com/postings/87251",
-   "source": "UVM",
-   "tags": []
   },
   {
    "id": "state-of-vermont-1408282900",
@@ -401,6 +455,20 @@
    ]
   },
   {
+   "id": "city-of-burlington-5404277",
+   "title": "Temporary General Services Assistant",
+   "employer": "City of Burlington — Burlington Electric",
+   "pay": "$25.00 Hourly",
+   "posted": "2026-07-13",
+   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5404277/temporary-general-services-assistant",
+   "source": "City of Burlington",
+   "tags": [
+    "city",
+    "pay25",
+    "seasonal"
+   ]
+  },
+  {
    "id": "state-of-vermont-1399251800",
    "title": "Staff Attorney / Administrative Law Judge",
    "employer": "State of Vermont — Labor",
@@ -410,83 +478,6 @@
    "source": "State of Vermont",
    "tags": [
     "city"
-   ]
-  },
-  {
-   "id": "uvm-87244",
-   "title": "Exam Proctoring Support Specialist",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-10",
-   "url": "https://www.uvmjobs.com/postings/87244",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87239",
-   "title": "Facilities Repairperson",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-10",
-   "url": "https://www.uvmjobs.com/postings/87239",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87236",
-   "title": "Director of Total Rewards & Operational Excellence",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-10",
-   "url": "https://www.uvmjobs.com/postings/87236",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87230",
-   "title": "Grant Proposal Developer",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-10",
-   "url": "https://www.uvmjobs.com/postings/87230",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "uvm-87226",
-   "title": "Course Coordinator",
-   "employer": "University of Vermont",
-   "pay": null,
-   "posted": "2026-07-10",
-   "url": "https://www.uvmjobs.com/postings/87226",
-   "source": "UVM",
-   "tags": []
-  },
-  {
-   "id": "city-of-burlington-5404383",
-   "title": "Emergency Communications Specialist",
-   "employer": "City of Burlington — Police",
-   "pay": "$67,589.60 - $75,355.90 Annually",
-   "posted": "2026-07-10",
-   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5404383/emergency-communications-specialist",
-   "source": "City of Burlington",
-   "tags": [
-    "city",
-    "pay25"
-   ]
-  },
-  {
-   "id": "city-of-burlington-5404277",
-   "title": "Temporary General Services Assistant",
-   "employer": "City of Burlington — Burlington Electric",
-   "pay": "$25.00 Hourly",
-   "posted": "2026-07-10",
-   "url": "https://www.governmentjobs.com/careers/burlingtonvt/jobs/5404277/temporary-general-services-assistant",
-   "source": "City of Burlington",
-   "tags": [
-    "city",
-    "pay25",
-    "seasonal"
    ]
   },
   {
