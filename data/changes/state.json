@@ -641,6 +641,13 @@
    "vtdigger": {
     "items": [
      {
+      "id": "https://vtdigger.org/?p=651543",
+      "title": "In Vermont’s Democratic primary for lieutenant governor, leading candidates’ past work takes center stage",
+      "link": "https://vtdigger.org/2026/07/20/in-vermonts-democratic-primary-for-lieutenant-governor-leading-candidates-past-work-takes-center-stage/",
+      "ts": "2026-07-20T10:56:00+00:00",
+      "summary": "Molly Gray, who held the job from 2021-2023, says she’d be ready to hit the ground running. Ryan McLaren thinks otherwise: “We can do better than politicians from the past.” Read the story on VTDigger here: In Vermont’s Democratic primary for lieutenant governor, leading candidates’ past work takes center stage ."
+     },
+     {
       "id": "https://vtdigger.org/?p=651554",
       "title": "‘If we don’t write it down, it disappears’: Independent historian gathers Vermont veterans’ stories before they are lost to history",
       "link": "https://vtdigger.org/2026/07/19/if-we-dont-write-it-down-it-disappears-independent-historian-gathers-vermont-veterans-stories-before-they-are-lost-to-history/",
@@ -842,13 +849,6 @@
       "link": "https://vtdigger.org/2026/07/13/the-two-democrats-running-for-chittenden-county-sheriff-couldnt-be-more-different/",
       "ts": "2026-07-13T23:39:46+00:00",
       "summary": "Law enforcement outsider Kevin Bloom is challenging Sheriff Dan Gamelin, who is a career deputy. Bloom thinks they can use the office to reform eviction, while Gamelin counts some of the county’s biggest landlords among his friends. Read the story on VTDigger here: The two Democrats running for Chittenden County sheriff couldn’t be more different ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651273",
-      "title": "Teen killer of Dartmouth professors in 2001 resentenced, eligible for parole in 20 years",
-      "link": "https://vtdigger.org/2026/07/13/teen-killer-of-dartmouth-professors-in-2001-resentenced-eligible-for-parole-in-20-years/",
-      "ts": "2026-07-13T22:28:29+00:00",
-      "summary": "Robert Tulloch had previously received a sentence of life without parole. Read the story on VTDigger here: Teen killer of Dartmouth professors in 2001 resentenced, eligible for parole in 20 years ."
      }
     ]
    },
@@ -856,7 +856,7 @@
     "items": [
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-19/vermont-green-women-finish-inaugural-season-as-national-runners-up",
-      "title": "Vermont Green women finish inaugural season as national runners up",
+      "title": "Vermont Green women finish inaugural season as national runners-up",
       "link": "https://www.vermontpublic.org/local-news/2026-07-19/vermont-green-women-finish-inaugural-season-as-national-runners-up",
       "ts": "2026-07-19T14:16:28+00:00",
       "summary": "Vermont Green FC's women's team fell to Salmon Bay FC 5-4 on penalty kicks following a 1-1 tie through overtime in the USL W League National Final on Saturday. Waterbury Center's Lousia Thomsen scored the Green's lone goal in the game's 93rd minute to force overtime."
@@ -897,18 +897,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -942,6 +942,20 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "AXOJ4ONFDJFCLOADDOJT47XJXA",
+      "title": "Driver nowhere to be found after Brattleboro car crash",
+      "link": "https://www.wcax.com/2026/07/20/driver-nowhere-be-found-after-brattleboro-car-crash/",
+      "ts": "2026-07-20T11:16:01+00:00",
+      "summary": "Police are searching for a driver who crashed into a utility pole and disappeared"
+     },
+     {
+      "id": "OD4P7PFCTNAHTB2UFAKTGUHV6U",
+      "title": "Vermont State Police investigating Vernon mail thefts",
+      "link": "https://www.wcax.com/2026/07/20/vermont-state-police-investigating-vernon-mail-thefts/",
+      "ts": "2026-07-20T10:33:35+00:00",
+      "summary": "Troopers say mail and packages were stolen from multiple residents over several weeks"
+     },
      {
       "id": "IXIAANDZQZEZ3GKPCTYJO3NILI",
       "title": "Highgate man cited after accidental shooting into neighboring apartment",
@@ -979,7 +993,7 @@
      },
      {
       "id": "A4LC3MKGXNDZPP653NCN7QHOAQ",
-      "title": "Man arrested for allegedly threatening firefighter with knife after they intervened in violent assault",
+      "title": "Homeless man arrested after allegedly threatening Burlington firefighter with knife",
       "link": "https://www.wcax.com/2026/07/19/man-arrested-allegedly-threatening-firefighter-with-knife-after-they-intervened-violent-assault/",
       "ts": "2026-07-19T15:53:58+00:00",
       "summary": "Police say a man violently assaulted a woman in front of young children, then turned on the firefighter who intervened."
@@ -1063,8 +1077,8 @@
      },
      {
       "id": "DSTXTWRTVNBPFCMDRFJSTZYW24",
-      "title": "Burlington teen dies after being struck by car on e-bike",
-      "link": "https://www.wcax.com/2026/07/17/burlington-teen-dies-after-e-bike-crash/",
+      "title": "Teen on e-bike dies after being struck by car in Burlington",
+      "link": "https://www.wcax.com/2026/07/17/teen-e-bike-dies-after-being-struck-by-car-burlington/",
       "ts": "2026-07-17T23:47:10+00:00",
       "summary": "A 16-year-old girl has died after she was struck by a car while riding an e-bike in Burlington on Thursday."
      },
@@ -1277,25 +1291,67 @@
       "link": "https://www.wcax.com/2026/07/16/transgender-girls-who-challenged-trump-sports-order-drop-lawsuit-after-supreme-court-ruling/",
       "ts": "2026-07-16T22:08:18+00:00",
       "summary": "Two transgender girls who were the first to challenge President Donald Trump’s executive order have withdrawn their lawsuit in New Hampshire."
-     },
-     {
-      "id": "3RHGRVMPSJH4PH2OXUYHTHIONQ",
-      "title": "Wildfire smoke from Canada triggers air quality alerts across our region",
-      "link": "https://www.wcax.com/2026/07/16/wildfire-smoke-canada-triggers-air-quality-alerts-across-our-region/",
-      "ts": "2026-07-16T22:08:18+00:00",
-      "summary": "Wildfire smoke from Canada blanketed the region Thursday, triggering air quality alerts for Vermont, New York, and much of the Northeast."
-     },
-     {
-      "id": "QU5J7N5JMBAPTP5FBLIEC54WWA",
-      "title": "Ben & Jerry’s Foundation says it will shut down amid legal dispute with parent company",
-      "link": "https://www.wcax.com/2026/07/16/ben-jerrys-foundation-says-it-will-shut-down-amid-legal-dispute-with-parent-company/",
-      "ts": "2026-07-16T21:59:37+00:00",
-      "summary": "The Ben & Jerry’s Foundation says it will shut down at the end of the year after its corporate parent cut off funding and evicted its three staffers Wednesday."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73189261",
+      "title": "U.S. military identifies 2 soldiers killed in Iranian attack on Jordan",
+      "link": "https://www.mynbc5.com/article/tyler-james-feehan-isabella-gonzales-soldiers-killed-iran-jordan/73189261",
+      "ts": "2026-07-20T11:02:00+00:00",
+      "summary": "The Trump administration on Monday identified two soldiers killed in action last week as part of the U.S. war with Iran."
+     },
+     {
+      "id": "73189190",
+      "title": "U.S. gas prices hit an average of $4 a gallon again as the US and Iran launch attacks",
+      "link": "https://www.mynbc5.com/article/us-gas-prices-increase-iran-war-monday/73189190",
+      "ts": "2026-07-20T10:46:00+00:00",
+      "summary": "U.S. gas prices jumped to an average of $4 a gallon again Monday as the U.S. and Iran launched more attacks ."
+     },
+     {
+      "id": "73188385",
+      "title": "Social media influencers Andrew and Tristan Tate expected in Miami court",
+      "link": "https://www.mynbc5.com/article/andrew-tristan-tate-miami-court/73188385",
+      "ts": "2026-07-20T10:41:00+00:00",
+      "summary": "Influencer brothers Andrew and Tristan Tate are scheduled to appear before a federal magistrate in Miami on Monday after they were arrested to face rape and sex trafficking charges in the United Kingdom."
+     },
+     {
+      "id": "73186163",
+      "title": "Taylor Farms lettuce cyclospora finding was a false positive, FDA now says",
+      "link": "https://www.mynbc5.com/article/taylor-farms-lettuce-cyclospora-false-positive/73186163",
+      "ts": "2026-07-20T10:05:00+00:00",
+      "summary": "Testing that showed iceberg lettuce from Taylor Fresh Foods was tainted with cyclospora was actually a false positive, federal officials now say."
+     },
+     {
+      "id": "73180819",
+      "title": "Less wind, continued sunny skies Monday",
+      "link": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-20-26/73180819",
+      "ts": "2026-07-20T09:36:00+00:00",
+      "summary": "Showers and storms possible both Tuesday and Wednesday"
+     },
+     {
+      "id": "73184402",
+      "title": "2 weeks after a Mississippi football player’s death, many questions linger",
+      "link": "https://www.mynbc5.com/article/nolan-wells-mississippi-football-player/73184402",
+      "ts": "2026-07-20T09:03:00+00:00",
+      "summary": "As Nolan Wells’ family prepares to lay the 18-year-old to rest on Monday, they will do so without knowing why his young life was cut so tragically short."
+     },
+     {
+      "id": "73183683",
+      "title": "U.S. bombing of Iran expands as Tehran retaliates against the Gulf states",
+      "link": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
+      "ts": "2026-07-20T08:27:00+00:00",
+      "summary": "The United States has conducted a new round of airstrikes targeting Iran after announcing the death of another American service member."
+     },
+     {
+      "id": "73175211",
+      "title": "US launches more airstrikes against Iran after announcing another death of a service member",
+      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
+      "ts": "2026-07-20T08:20:00+00:00",
+      "summary": "The United States has announced another death of a service member as it launches more airstrikes at Iran."
+     },
      {
       "id": "73178544",
       "title": "Russia unleashes one of the biggest ballistic missile attacks of the Ukraine war, Kyiv says",
@@ -1323,20 +1379,6 @@
       "link": "https://www.mynbc5.com/article/vermont-green-fc-mens-soccer-advances-to-usl2-eastern-conference-finals/73181485",
       "ts": "2026-07-20T03:37:00+00:00",
       "summary": "Vermont tallied three second half goals for second straight game leading to 4-0 win against Ocean City"
-     },
-     {
-      "id": "73180819",
-      "title": "Less wind, continued sunny skies Monday",
-      "link": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-19-26/73180819",
-      "ts": "2026-07-20T03:24:00+00:00",
-      "summary": "Showers and storms possible both Tuesday and Wednesday"
-     },
-     {
-      "id": "73175211",
-      "title": "US launches more airstrikes against Iran after announcing another death of a service member",
-      "link": "https://www.mynbc5.com/article/us-iran-strikes-strait-hormuz-kuwait-desalination/73175211",
-      "ts": "2026-07-20T02:49:00+00:00",
-      "summary": "The United States has announced another death of a service member as it launches more airstrikes at Iran."
      },
      {
       "id": "73181026",
@@ -1393,48 +1435,6 @@
       "link": "https://www.mynbc5.com/article/stolen-mail-abandoned-vernon-vermont-state-police/73180110",
       "ts": "2026-07-19T23:28:00+00:00",
       "summary": "Vermont State Police are asking for the public's help after mail stolen from multiple homes was found in a trash bag."
-     },
-     {
-      "id": "73180018",
-      "title": "Burlington firefighter threatened, man arrested",
-      "link": "https://www.mynbc5.com/article/man-arrested-assault-threatening-burlington-firefighter/73180018",
-      "ts": "2026-07-19T23:24:00+00:00",
-      "summary": "Burlington Police took a man into custody on Friday after he allegedly assaulted a woman and threatened a firefighter with a knife."
-     },
-     {
-      "id": "73180527",
-      "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
-      "link": "https://www.mynbc5.com/article/us-military-death-toll-iran-conflict-rises-17/73180527",
-      "ts": "2026-07-19T21:57:00+00:00",
-      "summary": "The U.S. military reports that another service member has been killed in the conflict with Iran, bringing the total to 17"
-     },
-     {
-      "id": "73180304",
-      "title": "Madonna, the Muppets Justin Bieber and others take World Cup stage for star-studded halftime show",
-      "link": "https://www.mynbc5.com/article/world-cup-halftime-2026/73180304",
-      "ts": "2026-07-19T21:22:00+00:00",
-      "summary": "Madonna opened the World Cup halftime show with her 2000 dance-pop hit \"Music,\" joined by star Brazilian soccer players of yesteryear, Ronaldo and Ronaldinho"
-     },
-     {
-      "id": "73179645",
-      "title": "Panasonic toaster ovens sold on Amazon, Costco recalled nationwide",
-      "link": "https://www.mynbc5.com/article/panasonic-electric-toaster-oven-recall-amazon-costco/73179645",
-      "ts": "2026-07-19T17:04:00+00:00",
-      "summary": "If you bought a Panasonic electric toaster oven online for about $170, check the model number — 11,480 are being recalled for a shock or fire risk."
-     },
-     {
-      "id": "73179115",
-      "title": "AIPAC has spent a record amount on Michigan's Senate primary",
-      "link": "https://www.mynbc5.com/article/aipac-michigan-senate-primary-stevens-el-sayed/73179115",
-      "ts": "2026-07-19T15:24:00+00:00",
-      "summary": "AIPAC and its affiliated groups have spent close to $30 million backing Rep. Haley Stevens in the Michigan Senate Democratic primary, their largest investment ever in a single race."
-     },
-     {
-      "id": "73179172",
-      "title": "Paddleboarders thought they were rescuing a drowning dog. They saved a raccoon",
-      "link": "https://www.mynbc5.com/article/paddleboarders-rescue-raccoon/73179172",
-      "ts": "2026-07-19T14:08:00+00:00",
-      "summary": "Paddleboarders thought they were rescuing a drowning dog. They saved a raccoon instead."
      }
     ]
    },
