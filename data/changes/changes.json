@@ -1,61 +1,6 @@
 {
- "generated": "2026-07-20T15:26:07+00:00",
+ "generated": "2026-07-20T18:25:43+00:00",
  "events": [
-  {
-   "ts": "2026-07-13T17:01:32+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Artwork for a good cause 💚",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvghwg/artwork_for_a_good_cause/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T17:01:32+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Finale! Urban Reserve project wrap-up party 7/14, w/ free ice cream",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvghe5/finale_urban_reserve_project_wrapup_party_714_w/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T17:01:32+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Are you hiring?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvfrht/are_you_hiring/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T17:01:32+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Dogs at Leddy",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvfmtj/dogs_at_leddy/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-13T17:01:32+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: THIS FRIDAY AT ODD FELLOWS! A night of punk, grunge and emo 💜💜",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uvcye1/this_friday_at_odd_fellows_a_night_of_punk_grunge/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-13T19:55:31+00:00",
    "category": "weather",
@@ -3475,6 +3420,28 @@
    "source": "bpd-updates",
    "sourceName": "Burlington Police",
    "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T16:38:00+00:00",
+   "category": "news",
+   "headline": "The race for Chittenden County state's attorney heats up",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/race-chittenden-county-states-attorney-heats-up/73171442",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-20T18:25:47+00:00",
+   "category": "cityhall",
+   "headline": "Housing Board of Review scheduled for Monday, Aug 3",
+   "detail": "",
+   "url": "https://burlingtonvt.portal.civicclerk.com/event/10085/overview",
+   "source": "civicclerk",
+   "sourceName": "City meeting portal",
+   "priority": 1,
    "kind": "added"
   }
  ]
