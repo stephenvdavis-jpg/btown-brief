@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-20T13:29:58+00:00",
+ "updated": "2026-07-20T15:32:54+00:00",
  "source": "City of Burlington beach tracker (burlingtonvt.gov/1219)",
  "note": "E. coli sampled Mon + Thu, posted by 11 AM Tue/Fri; cyanobacteria checked daily in season. Closed = advisory or E. coli over 235.",
  "beaches": [
@@ -8,14 +8,14 @@
    "status": "green",
    "reason": "Open — tested clean",
    "ecoli": null,
-   "sampled": "07/19/2026 3:20 PM"
+   "sampled": "07/20/2026 11:21 AM"
   },
   {
    "name": "Leddy Park",
    "status": "green",
    "reason": "Open — tested clean",
    "ecoli": null,
-   "sampled": "07/19/2026 3:33 PM"
+   "sampled": "07/20/2026 11:01 AM"
   },
   {
    "name": "Blanchard Beach",
@@ -29,7 +29,7 @@
    "status": "green",
    "reason": "Open — tested clean",
    "ecoli": null,
-   "sampled": "07/19/2026 3:14 PM"
+   "sampled": "07/20/2026 11:22 AM"
   },
   {
    "name": "Oakledge Cove",
