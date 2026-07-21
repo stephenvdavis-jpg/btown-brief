@@ -1,9 +1,217 @@
 {
-  "updated": "2026-07-21T12:10:29+00:00",
+  "updated": "2026-07-21T16:04:43+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
-  "llm": null,
+  "llm": "claude-sonnet-5",
   "news": [
+    {
+      "title": "RSVP & The Volunteer Center awarded $127,500 to support older adult volunteer services",
+      "url": "https://vermontbiz.com/news/2026/july/21/rsvp-volunteer-center-awarded-127500-support-older-adult-volunteer-services",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-21T15:57:28+00:00",
+      "summary": "RSVP & The Volunteer Center awarded $127,500 to support older adult volunteer services tim Tue, 07/21/2026 - 11:34 Over 400 AmeriCorps volunteers provided more than 63,000 hours of community service…"
+    },
+    {
+      "title": "VDH: COVID, virus activity in Vermont very low",
+      "url": "https://vermontbiz.com/news/2026/july/21/vdh-covid-virus-activity-vermont-very-low",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-21T15:57:28+00:00",
+      "summary": "VDH: COVID, virus activity in Vermont very low tim Tue, 07/21/2026 - 11:17 Report Timeframe : July 9-July 15, 2026. Current Vermont Department of Health recommendations on preventing COVID-19 by…"
+    },
+    {
+      "title": "21-year old Bright Beginnings employee to appear in court for child abuse",
+      "url": "https://www.mynbc5.com/article/21-year-old-daycare-worker-court-child-abuse/73218397",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T15:47:46+00:00",
+      "summary": "A 21-year old daycare worker from Northern New York is scheduled to appear in court, to face child abuse charges. Dillion Bronson is facing charges of assault, child endangerment, and failure to…"
+    },
+    {
+      "title": "Energy bill high? Here’s how you can lower it",
+      "url": "https://www.mynbc5.com/article/how-to-save-money-on-energy-bill/71839763",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T15:47:46+00:00",
+      "summary": "What really contributes to a high energy bill and practical tips to help you save."
+    },
+    {
+      "title": "VIDEO: Ohio deputies wrangle snake from resident's bedroom",
+      "url": "https://www.mynbc5.com/article/butler-county-snake-bedroom-video-home/73218415",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T15:47:46+00:00",
+      "summary": "Deputies in Ohio were called to a home to wrangle a snake | \"Our deputies don't just catch bad guys — we catch anything that slithers, crawls, moos, baas or bucks.\""
+    },
+    {
+      "title": "Laptops, smartphones and even cars are getting more expensive. Here's why",
+      "url": "https://www.mynbc5.com/article/prices-electronics-rise-see-change-microchip-memory-ram/71866359",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T15:47:46+00:00",
+      "summary": "Prices generally decrease as technology is made more accessible for mass consumption. Now, our electronics are getting more expensive, and the forecast shows it's only going to get worse."
+    },
+    {
+      "title": "Power of an American passport slid dramatically over past 20 years",
+      "url": "https://www.mynbc5.com/article/american-passport-rankings-power-2026/73203101",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T15:47:46+00:00",
+      "summary": "In 2006, a United States passport was the ultimate ticket to the world. Twenty years later, 36 nations' passports have surpassed it."
+    },
+    {
+      "title": "Wreckage of Pan Am plane found 74 years after it crashed off Puerto Rico",
+      "url": "https://www.mynbc5.com/article/pan-am-clipper-endeavor-wreckage-found-puerto-rico/73207379",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T15:47:46+00:00",
+      "summary": "74 years after a Pan Am flight crashed into the water off Puerto Rico, costing 52 passengers their lives, an aviation search team found the wreckage."
+    },
+    {
+      "title": "VT Headlines: Authorities seek information about Waterbury debit, credit card thefts",
+      "url": "https://vermontdailychronicle.com/vt-headlines-authorities-seek-information-about-waterbury-debit-credit-card-thefts/?utm_source=rss&utm_medium=rss&utm_campaign=vt-headlines-authorities-seek-information-about-waterbury-debit-credit-card-thefts",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-21T15:15:09+00:00",
+      "summary": "My Champlain Valley Vermont Rail System honors America’s anniversary with painted locomotive NBC 5 Youth-centered space prepares to open in Montpelier My Champlain Valley Authorities seek…"
+    },
+    {
+      "title": "Judge eases release conditions for MA teen accused of drug-related shooting",
+      "url": "https://vermontdailychronicle.com/judge-eases-release-conditions-for-ma-teen-accused-of-drug-related-shooting/?utm_source=rss&utm_medium=rss&utm_campaign=judge-eases-release-conditions-for-ma-teen-accused-of-drug-related-shooting",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-21T15:15:09+00:00",
+      "summary": "By VDC staff A Caledonia Superior Court judge has eased some of the release conditions for Mohamed Said, the Massachusetts teenager charged in the fatal shooting of a woman during an alleged drug…"
+    },
+    {
+      "title": "OhMD: The doctor will text you now",
+      "url": "https://vermontbiz.com/news/2026/july/21/ohmd-doctor-will-text-you-now",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-21T14:56:03+00:00",
+      "summary": "OhMD: The doctor will text you now tim Tue, 07/21/2026 - 10:22 Related Company OhMD L to R: Olivia Roche, Nate Bechtel, Greg Tavolacci, Ethan Bechtel, Sean Santry, Sam Roach-Gerber, Tara Kurup. OhMD…"
+    },
+    {
+      "title": "VITL partners with Outcome Healthcare to strengthen Vermont’s health data network",
+      "url": "https://vermontbiz.com/news/2026/july/21/vitl-partners-outcome-healthcare-strengthen-vermonts-health-data-network",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-21T14:56:03+00:00",
+      "summary": "VITL partners with Outcome Healthcare to strengthen Vermont’s health data network tim Tue, 07/21/2026 - 09:55 Related Company Vermont Information Technology Leaders, Inc VITL A new platform will…"
+    },
+    {
+      "title": "One of FBI’s most wanted fugitives arrested in Alburgh break-in attempt",
+      "url": "https://www.wcax.com/2026/07/21/one-fbis-most-wanted-fugitives-arrested-alburgh-break-in-attempt/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T14:47:36+00:00",
+      "summary": "The FBI arrested Indian national Nitish Kaushal, 26, near the Canadian border on July 16"
+    },
+    {
+      "title": "Judge to hear evidence against singer D4vd in killing, dismemberment of teen",
+      "url": "https://www.mynbc5.com/article/d4vd-hearing-trial-teen-girl-killing/73202535",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T14:47:11+00:00",
+      "summary": "A judge is set to decide if there's enough evidence to send singer D4vd to trial for the killing of 14-year-old Celeste Rivas Hernandez."
+    },
+    {
+      "title": "12th Annual Brewfest brings community together to support local patients",
+      "url": "https://vermontdailychronicle.com/12th-annual-brewfest-brings-community-together-to-support-local-patients/?utm_source=rss&utm_medium=rss&utm_campaign=12th-annual-brewfest-brings-community-together-to-support-local-patients",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-21T14:16:27+00:00",
+      "summary": "By Sam Douglass NEWPORT – On July 25, Northeast Kingdom Hematology and Oncology (NEKHO) will hold its 12th Annual Brewfest in Newport. Each year, the private practice dedicates dozens of hours to…"
+    },
+    {
+      "title": "Despathy: Questions to ask political candidates",
+      "url": "https://vermontdailychronicle.com/despathy-questions-to-ask-political-candidates/?utm_source=rss&utm_medium=rss&utm_campaign=despathy-questions-to-ask-political-candidates",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-21T14:16:27+00:00",
+      "summary": "Especially candidates who voted to override Governor’s veto by Alison Despathy Here are a handful of policy Questions to consider asking candidates, especially Democrat candidates because their…"
+    },
+    {
+      "title": "Central Vermont Community Radio announces station move",
+      "url": "https://vermontbiz.com/news/2026/july/21/central-vermont-community-radio-announces-station-move",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-21T13:55:26+00:00",
+      "summary": "Central Vermont Community Radio announces station move tim Tue, 07/21/2026 - 09:32 Related Company WGDR-91.1 FM Prescott Tower climber carrying the new WGDR antenna to the install point on the new…"
+    },
+    {
+      "title": "Pentagon identifies third U.S. soldier killed in weekend attacks by Iran",
+      "url": "https://www.mynbc5.com/article/michael-emmanuel-swinton-killed-iraq-iran/73202335",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T13:47:05+00:00",
+      "summary": "A U.S. service member killed Saturday during a “controlled detonation” of an Iranian drone has been identified."
+    },
+    {
+      "title": "Vermont makes $25M investment in housing, jobs and affordability",
+      "url": "https://www.wcax.com/2026/07/21/vermont-makes-25-million-investment-housing-jobs-affordability/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T13:46:44+00:00",
+      "summary": "Vermont state leaders have announced a $25 million investment in the state treasurer’s Invest in Vermont program."
+    },
+    {
+      "title": "Third Planet Hank video lampoons crypto king contribution in Balint’s 2022 campaign",
+      "url": "https://vermontdailychronicle.com/third-planet-hank-video-lampoons-crypto-king-contribution-in-balints-2022-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=third-planet-hank-video-lampoons-crypto-king-contribution-in-balints-2022-campaign",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-21T13:17:05+00:00",
+      "summary": "Facebook video By Guy Page A new AI satire video by Hank “Planet Hank” Poitras lampoons Rep. Becca Balint for a 2022 $1.1 million campaign contribution from an associate of one-time crypto king…"
+    },
+    {
+      "title": "Appeals court rejects Biden's bid to block release of recordings of ghostwriter interviews",
+      "url": "https://www.mynbc5.com/article/biden-memoir-recordings-transcripts-appeals-court/73201921",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T12:46:35+00:00",
+      "summary": "A federal appeals court has rejected a request by Joe Biden to block the release of audio recordings and transcripts of his interviews with a memoir ghostwriter before he was elected president."
+    },
+    {
+      "title": "Video: Pilot injured after small plane crashes into Texas home",
+      "url": "https://www.mynbc5.com/article/video-pilot-injured-after-small-plane-crashes-into-texas-home/73201383",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T12:46:35+00:00",
+      "summary": "A plane crashed into a Texas home, sending the pilot to the hospital."
+    },
+    {
+      "title": "Man stabs and wounds tourists near the Acropolis in Athens, Greece",
+      "url": "https://www.mynbc5.com/article/athens-acropolis-tourist-stabbing-two-injured/73201664",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T12:46:35+00:00",
+      "summary": "A man stabbed and wounded two Greek American tourists near the ancient Acropolis in Athens, Greece’s top tourist attraction, police said."
+    },
+    {
+      "title": "Traffic alert: Peru culvert project closes Lyons Road for 2 months",
+      "url": "https://www.wcax.com/2026/07/21/traffic-alert-peru-culvert-project-closes-lyons-road-two-months/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T12:46:35+00:00",
+      "summary": "A traffic alert in Peru, New York. The town highway department said Lyons Road will be closed between Rock Road and South Junction Road through Sept. 21."
+    },
+    {
+      "title": "Family store’s 80th birthday is music to its ears",
+      "url": "https://www.wcax.com/2026/07/21/family-stores-80th-birthday-is-music-its-ears/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T12:46:35+00:00",
+      "summary": "A Vermont business has been providing musical instruments to students for 80 years"
+    },
+    {
+      "title": "Finding Empathy, Mount Philo Hikes, and the Anarchy of Ice Cream (Rebroadcast: Molly Gray)",
+      "url": "https://www.youtube.com/watch?v=eoGFyCZ5E-A",
+      "outlet": "youtube.com",
+      "domain": "youtube.com",
+      "published": "2026-07-21T12:35:15+00:00",
+      "summary": "Andy and Joanna kick off giggly as ever, fresh off Andy hosting Lt. Gov. candidate Molly Gray for an islands tour — bagels, senior housing, a 1820s meeting house, and a proud town clerk's vault…"
+    },
     {
       "title": "Top military officials testifying on Capitol Hill to ask Congress for more funding as Iran War escalates",
       "url": "https://www.mynbc5.com/article/top-military-officials-asking-for-more-money-iran-war-escalates/73200235",
@@ -26,7 +234,7 @@
       "outlet": "WCAX",
       "domain": "wcax.com",
       "published": "2026-07-21T11:45:32+00:00",
-      "summary": "As war escalates between the U.S. and Iran, gas prices in Vermont have once again risen above $4 a gallon for much of the state"
+      "summary": "As war escalates between the U.S. and Iran, gas prices in Vermont have once again risen above $4 a gallon for much of the state."
     },
     {
       "title": "Police search for credit card thieves",
@@ -218,7 +426,7 @@
       "outlet": "WCAX",
       "domain": "wcax.com",
       "published": "2026-07-21T00:38:41+00:00",
-      "summary": "Beta showcased the collaboration Monday at the Farnborough International Airshow in England."
+      "summary": "Beta showcased the collaboration at the Farnborough International Airshow in England."
     },
     {
       "title": "Constable man charged with grand larceny, allegedly depositing checks twice",
@@ -995,214 +1203,6 @@
       "domain": "mynbc5.com",
       "published": "2026-07-20T14:51:06+00:00",
       "summary": "Mount Olympus, the mythological home of ancient Greece’s 12 Olympian gods, may soon join UNESCO’s World Heritage List."
-    },
-    {
-      "title": "Brenda Narucki joins Hanson + Doremus as Client Service Manager",
-      "url": "https://vermontbiz.com/people/july/brenda-narucki-joins-hanson-doremus-client-service-manager",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-20T14:43:13+00:00",
-      "summary": "Brenda Narucki joins Hanson + Doremus as Client Service Manager tim Mon, 07/20/2026 - 10:28 Hanson + Doremus Investment Management is pleased to welcome Brenda Narucki as Client Service Manager. In…"
-    },
-    {
-      "title": "Welch reintroduces bills to protect small-scale farms and support farmworkers",
-      "url": "https://vermontbiz.com/news/2026/july/20/welch-reintroduces-bills-protect-small-scale-farms-and-support-farmworkers",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-20T14:43:13+00:00",
-      "summary": "Welch reintroduces bills to protect small-scale farms and support farmworkers tim Mon, 07/20/2026 - 10:12 Vermont Business Magazine U.S. Senator Peter Welch (D-Vermont), Member of the Senate…"
-    },
-    {
-      "title": "In the Garden: Growing your own fennel",
-      "url": "https://www.wcax.com/2026/07/19/garden-growing-your-own-fennel/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T14:34:59+00:00",
-      "summary": "It's about that time of the summer when your vegetable garden likely looks full and lush. Here's one veggie you may not have thought about adding to your garden yet!"
-    },
-    {
-      "title": "Homeless man with long arrest history held for assault on woman with kids present",
-      "url": "https://vermontdailychronicle.com/homeless-man-with-long-arrest-history-held-for-assault-on-woman-with-kids-present/?utm_source=rss&utm_medium=rss&utm_campaign=homeless-man-with-long-arrest-history-held-for-assault-on-woman-with-kids-present",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T14:33:49+00:00",
-      "summary": "Wayne Butchino By Guy Page A homeless man with a lengthy history of arrests is being held without bail after Burlington police say he assaulted a woman, threatened a firefighter with a hunting…"
-    },
-    {
-      "title": "Town Meeting initiative puts students at the center of school funding",
-      "url": "https://vermontdailychronicle.com/town-meeting-initiative-puts-students-at-the-center-of-school-funding/?utm_source=rss&utm_medium=rss&utm_campaign=town-meeting-initiative-puts-students-at-the-center-of-school-funding",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T14:33:49+00:00",
-      "summary": "By VDC staff Across Vermont, many communities are grappling with rising education costs, declining enrollment, and growing concern about long-term affordability and outcomes. While legislators…"
-    },
-    {
-      "title": "Paper mill closure bad news for Vermont forest products industry",
-      "url": "https://vermontdailychronicle.com/paper-mill-closure-bad-news-for-vermont-forest-products-industry/?utm_source=rss&utm_medium=rss&utm_campaign=paper-mill-closure-bad-news-for-vermont-forest-products-industry",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T14:33:49+00:00",
-      "summary": "By Guy Page Veteran Vermont forester and author William Sargent is warning that the closure of the Finch Wood Yard in Glens Falls could have far-reaching consequences for the Northeast’s forest…"
-    },
-    {
-      "title": "Suzanne Seymore",
-      "url": "https://www.wvmtradio.com/episode/suzanne-seymore/",
-      "outlet": "WVMT",
-      "domain": "wvmtradio.com",
-      "published": "2026-07-20T14:22:28+00:00",
-      "summary": "Suzanne Seymore, Independant Candidate for U.S. House, joins Kurt & Anthony to discuss her campaign."
-    },
-    {
-      "title": "Monday, July 20th",
-      "url": "https://www.btownbrief.com/p/monday-july-20th",
-      "outlet": "btownbrief.com",
-      "domain": "btownbrief.com",
-      "published": "2026-07-20T14:06:10+00:00",
-      "summary": "Follow us on Instagram by clicking the image above. @BtownBrief Table of Contents Weather & Monday Update: The Btown Brief IRL - Burlington Social & Activiti … Support the Brief to Keep it Running!…"
-    },
-    {
-      "title": "This is Our Home: Hinesburg, Vermont",
-      "url": "https://www.mynbc5.com/article/this-is-our-home-hinesburg-vermont/73190321",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T13:51:11+00:00",
-      "summary": "Two women found comfort for themselves through their passion for helping other people"
-    },
-    {
-      "title": "‘These kids were her world’: Mother dies saving 4-year-old son who fell into river",
-      "url": "https://www.mynbc5.com/article/deland-mother-hero-after-she-died-saving-her-son/73189703",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T13:51:11+00:00",
-      "summary": "“These kids were her world.” A mother of six has died saving her 4-year-old son who fell into a Florida river"
-    },
-    {
-      "title": "Pamela Smart, serving life, seeks new trial as New Hampshire judge weighs her latest petition",
-      "url": "https://www.mynbc5.com/article/pamela-smart-hearing-july-20-2026/73190239",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T13:51:11+00:00",
-      "summary": "Pamela Smart, who is serving life in prison for orchestrating the murder of her husband by her teenage student in 1990, has a hearing on Monday, hoping for a new trial."
-    },
-    {
-      "title": "Vermont Green men cruise into national quarterfinal",
-      "url": "https://www.wcax.com/2026/07/20/vermont-green-men-cruise-into-national-quarterfinal/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T13:33:54+00:00",
-      "summary": "VGFC downs Ocean City 4-0 on Sunday night"
-    },
-    {
-      "title": "Trial begins for Massachusetts mom who says postpartum issues led her to kill 3 children",
-      "url": "https://www.mynbc5.com/article/lindsay-clancy-trial-july-20-2026/73189996",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T12:51:09+00:00",
-      "summary": "Jury selection is expected to begin in the trial of Lindsay Clancy, the Massachusetts mother accused of strangling her three children in 2023."
-    },
-    {
-      "title": "Andy Burnham becomes the UK's seventh prime minister in a decade",
-      "url": "https://www.mynbc5.com/article/andy-burnham-britain-prime-minister/73185276",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T12:51:09+00:00",
-      "summary": "Andy Burnham officially became Britain’s new prime minister Monday, marking the country’s seventh leader in a decade."
-    },
-    {
-      "title": "Gas prices hit $4 mark as US death toll ticks up in Iran War",
-      "url": "https://www.mynbc5.com/article/gas-prices-hit-4-dollar-mark-us-death-toll-ticks-up-iran-war/73187457",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T12:51:09+00:00",
-      "summary": "President Donald Trump mourned the loss of American service members but showed no signs of slowing down his escalating military campaign."
-    },
-    {
-      "title": "Gas prices keep climbing",
-      "url": "https://vermontbiz.com/news/2026/july/20/gas-prices-keep-climbing",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-20T12:41:44+00:00",
-      "summary": "Gas prices keep climbing tim Mon, 07/20/2026 - 08:11 Vermont Business Magazine Average gasoline prices in Vermont are $4.12 per gallon, up 14.7 cents per gallon from last week's $3.97/g. The lowest…"
-    },
-    {
-      "title": "As Hawaii burns oil, Vermont gets GWSA",
-      "url": "https://vermontdailychronicle.com/as-hawaii-burns-oil-vermont-gets-gwsa/?utm_source=rss&utm_medium=rss&utm_campaign=as-hawaii-burns-oil-vermont-gets-gwsa",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T12:36:12+00:00",
-      "summary": "by Dave Soulia, for FYIVT.com Vermont has a problem. Residential electricity cost an average of 24.56 cents per kilowatt-hour in April, about 30 percent above the national average of 18.83 cents…"
-    },
-    {
-      "title": "Swenson: VT healthcare system can’t handle population growth",
-      "url": "https://vermontdailychronicle.com/swenson-vt-healthcare-system-cant-handle-population-growth/?utm_source=rss&utm_medium=rss&utm_campaign=swenson-vt-healthcare-system-cant-handle-population-growth",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T12:36:12+00:00",
-      "summary": "by Matt Swenson Vermont makes a serious mistake when it treats more housing and a larger population as automatic progress. Every subdivision cut into a field, forest edge, hillside or former farm…"
-    },
-    {
-      "title": "Two busted for drugs in South Burlington by Burlington PD",
-      "url": "https://vermontdailychronicle.com/two-busted-for-drugs-in-south-burlington-by-burlington-pd/?utm_source=rss&utm_medium=rss&utm_campaign=two-busted-for-drugs-in-south-burlington-by-burlington-pd",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T12:36:12+00:00",
-      "summary": "By Mike Donoghue Vermont News First Two Bloomfield, Conn. men are facing state drug charges following a raid by Burlington Police at a South Burlington residence on Sunday morning, officials said…"
-    },
-    {
-      "title": "Vermont man facing multiple charges after hourslong standoff in Barton",
-      "url": "https://www.mynbc5.com/article/man-facing-charges-after-standoff-barton-vt/73189460",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T11:52:16+00:00",
-      "summary": "26-year-old Wyatt Gilman refused to leave the home after being served with a temporary abuse prevention order"
-    },
-    {
-      "title": "U.S. military identifies 2 soldiers killed in Iranian attack on Jordan",
-      "url": "https://www.mynbc5.com/article/tyler-james-feehan-isabella-gonzales-soldiers-killed-iran-jordan/73189261",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T11:52:16+00:00",
-      "summary": "The Trump administration on Monday identified two soldiers killed in action last week as part of the U.S. war with Iran."
-    },
-    {
-      "title": "Kathie Lee Gifford memoir forgives hubby Frank, who trained with New York Giants in Colchester",
-      "url": "https://vermontdailychronicle.com/kathie-lee-gifford-memoir-forgives-hubby-frank-who-trained-with-new-york-giants-in-colchester/?utm_source=rss&utm_medium=rss&utm_campaign=kathie-lee-gifford-memoir-forgives-hubby-frank-who-trained-with-new-york-giants-in-colchester",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T11:36:18+00:00",
-      "summary": "By Ted Cohen The New York Giants and their legends made Colchester the team’s preseason home away from home in the 1950s. Hard to believe this summer marks the 70th anniversary of the Giants first…"
-    },
-    {
-      "title": "Roper: Vermont: The best place to live people are fleeing",
-      "url": "https://vermontdailychronicle.com/roper-vermont-the-best-place-to-live-people-are-fleeing/?utm_source=rss&utm_medium=rss&utm_campaign=roper-vermont-the-best-place-to-live-people-are-fleeing",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T11:36:18+00:00",
-      "summary": "Does CNBC’s “Best States” ranking make any sense? by Rob Roper Yogi Berra famously said of a once favorite Yankees hangout, “Nobody goes there anymore. It’s too crowded.” I feel like there’s a way…"
-    },
-    {
-      "title": "Prop 3 will empower plans for a general strike",
-      "url": "https://vermontdailychronicle.com/prop-3-will-empower-plans-for-a-general-strike/?utm_source=rss&utm_medium=rss&utm_campaign=prop-3-will-empower-plans-for-a-general-strike",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-20T11:36:18+00:00",
-      "summary": "Prop 3 “Right to Collective Bargaining” and the Plan for a General Strike By Renee McGuinness Prop 3 , a proposed amendment that would enshrine the right to collective bargaining into the Vermont…"
-    },
-    {
-      "title": "Driver nowhere to be found after Brattleboro car crash",
-      "url": "https://www.wcax.com/2026/07/20/driver-nowhere-be-found-after-brattleboro-car-crash/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T11:31:41+00:00",
-      "summary": "Police in Brattleboro are searching for a driver who crashed into a utility pole and disappeared."
-    },
-    {
-      "title": "Vermont State Police investigating Vernon mail thefts",
-      "url": "https://www.wcax.com/2026/07/20/vermont-state-police-investigating-vernon-mail-thefts/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T11:31:41+00:00",
-      "summary": "Troopers say mail and packages were stolen from multiple residents over several weeks"
     }
   ],
   "topics": [],
