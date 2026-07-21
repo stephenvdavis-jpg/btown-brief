@@ -3,7 +3,7 @@
   "alerts": [],
   "forecast_flag": {
    "day": "2026-07-21",
-   "text": "This Afternoon: A slight chance of showers and thunderstorms before 5pm, then a chance of showers and thunderstorms"
+   "text": "Tonight: Showers and thunderstorms before 2am, then a slight chance of showers and thunderstorms between 2am and 5am"
   }
  },
  "beach-status": {
@@ -913,6 +913,13 @@
    "wcax": {
     "items": [
      {
+      "id": "WDYLTQC6IFBMVPPQ3QGAEEWRQE",
+      "title": "Vermont and New York join states suing EPA over rule weakening refrigerant phaseout",
+      "link": "https://www.wcax.com/2026/07/21/vermont-new-york-join-18-state-coalition-suing-epa-over-rule-weakening-refrigerant-phaseout/",
+      "ts": "2026-07-21T22:33:42+00:00",
+      "summary": "The states are suing the EPA over a rule change they say would weaken regulations designed to phase out the use of hydrofluorocarbons."
+     },
+     {
       "id": "J6Z3ZD7XIZDDBK5WJWZBVJIRRM",
       "title": "Campaign Countdown: Democrats running for Vt. governor couldn’t be more different",
       "link": "https://www.wcax.com/2026/07/21/campaign-countdown-democrats-running-vt-governor-couldnt-be-more-different/",
@@ -1254,18 +1261,81 @@
       "link": "https://www.wcax.com/2026/07/20/vermont-state-police-investigating-vernon-mail-thefts/",
       "ts": "2026-07-20T10:33:35+00:00",
       "summary": "Troopers say mail and packages were stolen from multiple residents over several weeks"
-     },
-     {
-      "id": "S2KCSWABCBAB3BYVFD54VRE2MU",
-      "title": "Vermont Green men cruise into national quarterfinal",
-      "link": "https://www.wcax.com/2026/07/20/vermont-green-men-cruise-into-national-quarterfinal/",
-      "ts": "2026-07-20T03:41:21+00:00",
-      "summary": "VGFC downs Ocean City 4-0 on Sunday night"
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73222617",
+      "title": "Two Republicans seeking nomination for Vermont’s U.S. House seat",
+      "link": "https://www.mynbc5.com/article/two-republicans-seeking-nomination-for-vts-us-house-seat/73222617",
+      "ts": "2026-07-21T23:24:00+00:00",
+      "summary": "Gerald Malloy, Mark Coester seeking nomination to oppose Becca Balint for U.S. House"
+     },
+     {
+      "id": "73221606",
+      "title": "Vermont state treasurer, housing leaders announce program expansion for affordable housing",
+      "link": "https://www.mynbc5.com/article/housing-program-expands-vermont-treasurer/73221606",
+      "ts": "2026-07-21T23:17:00+00:00",
+      "summary": "Vermont State Treasurer Mike Pieciak announced the \"10% in VT\" program is now known as \"Invest in Vermont\" to reflect a lending capacity change to support affordable housing across the state."
+     },
+     {
+      "id": "73221181",
+      "title": "Senate panel advances Jay Clayton's nomination to lead US intelligence agencies",
+      "link": "https://www.mynbc5.com/article/senate-panel-advances-jay-clayton-nomination-dni/73221181",
+      "ts": "2026-07-21T23:00:00+00:00",
+      "summary": "The Senate Intelligence Committee has advanced the nomination of Jay Clayton, President Donald Trump's pick to head the nation's intelligence agencies."
+     },
+     {
+      "id": "73222320",
+      "title": "Fruit puree pouches sold at Kroger, Meijer and Target recalled",
+      "link": "https://www.mynbc5.com/article/pumpkin-tree-peter-rabbit-organics-fruit-pouch-recall/73222320",
+      "ts": "2026-07-21T22:56:00+00:00",
+      "summary": "Fruit puree pouches sold at Kroger, Meijer and Target are being recalled after soft plastic was found inside some products."
+     },
+     {
+      "id": "73222301",
+      "title": "Watch: Tiny dog rescued from San Francisco Bay after massive air-and-sea search",
+      "link": "https://www.mynbc5.com/article/dog-rescued-san-francisco-bay/73222301",
+      "ts": "2026-07-21T22:53:00+00:00",
+      "summary": "A tiny dog that was missing for weeks was rescued from San Francisco Bay after first responders spotted it swimming alone and being attacked by seagulls. See the video."
+     },
+     {
+      "id": "73222102",
+      "title": "Vermont manufacturers react to President Trump announcing new tariffs on Canadian goods",
+      "link": "https://www.mynbc5.com/article/vermont-manufacturers-react-to-president-trump-announcing-new-tariffs-on-canadian-goods/73222102",
+      "ts": "2026-07-21T22:43:00+00:00",
+      "summary": "Staff from a Rutland-based baking supplies company say they depend on business and materials from Canada and are worried about the effects from new tariffs on Canadian products"
+     },
+     {
+      "id": "73222670",
+      "title": "Few spotty showers Wednesday, as the humidity drops",
+      "link": "https://www.mynbc5.com/article/few-spotty-showers-wednesday-as-the-humidity-drops-07-21-26/73222670",
+      "ts": "2026-07-21T22:36:00+00:00",
+      "summary": "Beautiful stretch Thursday through Sunday — sunshine, highs mostly in the 80s"
+     },
+     {
+      "id": "73222031",
+      "title": "Safety concerns force Burlington Concert Band to cancel Battery Park performance",
+      "link": "https://www.mynbc5.com/article/burlington-concert-band-battery-park-safety/73222031",
+      "ts": "2026-07-21T22:25:00+00:00",
+      "summary": "The Burlington Concert Band canceled its Sunday performance over safety concerns. Now, city officials are exploring possible solutions before the next show."
+     },
+     {
+      "id": "73221832",
+      "title": "Secretary Hegseth testifies on Capitol Hill as Iran conflict costs rise to $37.5 billion",
+      "link": "https://www.mynbc5.com/article/hegseth-testifies-capitol-hill-iran-war-costs/73221832",
+      "ts": "2026-07-21T22:25:00+00:00",
+      "summary": "Defense Secretary Pete Hegseth testified before the Senate, revealing the Iran conflict has cost $37.5 billion so far, as the White House requests $87.6 billion in emergency funding to sustain military operations."
+     },
+     {
+      "id": "73221263",
+      "title": "House GOP races to pass stopgap funding, budget reconciliation before weeks-long recess",
+      "link": "https://www.mynbc5.com/article/house-gop-stopgap-funding-budget-reconciliation-recess/73221263",
+      "ts": "2026-07-21T22:25:00+00:00",
+      "summary": "House lawmakers have until Thursday night to get several critical bills across the finish line before they leave for a five-week recess."
+     },
      {
       "id": "73220968",
       "title": "Seven Winooski High School students graduate Steps to Success program",
@@ -1279,13 +1349,6 @@
       "link": "https://www.mynbc5.com/article/memorial-teen-killed-burlington-e-bike-crash/73221985",
       "ts": "2026-07-21T21:51:00+00:00",
       "summary": "A memorial is growing in Burlington's South End for 16-year-old Shiloh Skalka, who died after being hit by a car while riding an e-bike."
-     },
-     {
-      "id": "73221606",
-      "title": "Vermont state treasurer, housing leaders announce program expansion for affordable housing",
-      "link": "https://www.mynbc5.com/article/housing-program-expands-vermont-treasurer/73221606",
-      "ts": "2026-07-21T21:49:00+00:00",
-      "summary": "Vermont State Treasurer Mike Pieciak announced the “10% in VT” program is now known as “Invest in Vermont” to reflect a lending capacity change to support affordable housing across the state."
      },
      {
       "id": "73220185",
@@ -1323,13 +1386,6 @@
       "summary": "A second former Bright Beginnings employee has pleaded not guilty to multiple child abuse-related charges during a court appearance on Tuesday."
      },
      {
-      "id": "73221263",
-      "title": "House GOP races to pass stopgap funding, budget reconciliation before weeks-long recess",
-      "link": "https://www.mynbc5.com/article/house-gop-stopgap-funding-budget-reconciliation-recess/73221263",
-      "ts": "2026-07-21T21:16:00+00:00",
-      "summary": "House lawmakers have until Thursday night to get several critical bills across the finish line before they leave for a five-week recess."
-     },
-     {
       "id": "71839763",
       "title": "Energy bill high? Here’s how you can lower it",
       "link": "https://www.mynbc5.com/article/how-to-save-money-on-energy-bill/71839763",
@@ -1349,62 +1405,6 @@
       "link": "https://www.mynbc5.com/article/ukraines-zelenskyy-fires-military-chief/73221245",
       "ts": "2026-07-21T20:54:00+00:00",
       "summary": "President Volodymyr Zelenskyy fired the commander-in-chief of Ukraine’s armed forces following protests and named a replacement Tuesday."
-     },
-     {
-      "id": "73194997",
-      "title": "After nearly 250 years, final Revolutionary War cannon fragment recovered from Lake Champlain",
-      "link": "https://www.mynbc5.com/article/after-nearly-250-years-final-revolutionary-war-cannon-fragment-recovered-from-lake-champlain/73194997",
-      "ts": "2026-07-21T20:50:00+00:00",
-      "summary": "Researchers say the discovery marks the end of a decades-long search for the final major missing piece of a cannon that exploded during the Battle of Valcour Island in 1776."
-     },
-     {
-      "id": "73221343",
-      "title": "Lake Seymour small plane crash ruled an accident; Pilot must pay for salvage",
-      "link": "https://www.mynbc5.com/article/lake-seymour-small-plane-salvage/73221343",
-      "ts": "2026-07-21T20:47:00+00:00",
-      "summary": "A 66-year-old pilot who was rescued by local boaters after his plane crashed in Lake Seymour will have to pay to recover the vehicle from the bottom of the lake."
-     },
-     {
-      "id": "73218047",
-      "title": "More than 270 acres of land restored to Abenaki tribe in Cabot, Peacham",
-      "link": "https://www.mynbc5.com/article/land-restored-abenaki-tribe-cabot-peacham/73218047",
-      "ts": "2026-07-21T20:45:00+00:00",
-      "summary": "The New England Annual Conference of The United Methodist Church formally deeded a 270.5 -acre plot of land that was the former Covenant Hills Christian Camp back to the Nulhegan Band of the Coosuk Abenaki Nation this week"
-     },
-     {
-      "id": "73221346",
-      "title": "Video captures airborne orcas tossing dolphins out of the water",
-      "link": "https://www.mynbc5.com/article/monterey-bay-orcas-capture-dolphins-midair/73221346",
-      "ts": "2026-07-21T20:26:00+00:00",
-      "summary": "A rare Monterey Bay encounter was caught on camera as orcas hunted dolphins, with one whale leaping an estimated 15 feet out of the water."
-     },
-     {
-      "id": "73221182",
-      "title": "Hegseth estimates Iran War has cost $37.5B so far",
-      "link": "https://www.mynbc5.com/article/hegseth-iran-war-cost-congress/73221182",
-      "ts": "2026-07-21T20:17:00+00:00",
-      "summary": "Defense Secretary Pete Hegseth is facing questions and protests at a Senate hearing over the U.S. war against Iran"
-     },
-     {
-      "id": "73220493",
-      "title": "Lawyers for Massachusetts teen charged in Vermont woman's murder ask for curfew change",
-      "link": "https://www.mynbc5.com/article/said-springfield-massachusetts-murder-case-curfew/73220493",
-      "ts": "2026-07-21T20:13:00+00:00",
-      "summary": "The lawyers for a Massachusetts teen accused of killing a Vermont woman in 2024 are now asking a judge for more leniency in their client's conditions of release, according to court paperwork obtained by NBC5."
-     },
-     {
-      "id": "73221239",
-      "title": "Police look for person accused of vandalizing Maxie's Deli in Rutland",
-      "link": "https://www.mynbc5.com/article/maxies-deli-rutland-vermont-vandalism/73221239",
-      "ts": "2026-07-21T20:08:00+00:00",
-      "summary": "Police are looking for a person accused of vandalizing a local deli in Rutland after the person was seen appearing to smash a window at the business."
-     },
-     {
-      "id": "73220812",
-      "title": "11-year-old boy spends 100 hours reading to pets at his local animal shelter",
-      "link": "https://www.mynbc5.com/article/boy-reads-to-shelter-pets-100-volunteer-hours/73220812",
-      "ts": "2026-07-21T20:05:00+00:00",
-      "summary": "An 11-year-old boy was recognized for spending 100 hours reading to pets at an animal shelter. Nehemiah particularly loves reading to dogs in the \"hopes that reading helps them feel more calm and find homes faster.\""
      }
     ]
    },
