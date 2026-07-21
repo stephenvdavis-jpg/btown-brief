@@ -3,7 +3,7 @@
   "alerts": [],
   "forecast_flag": {
    "day": "2026-07-21",
-   "text": "This Afternoon: A chance of rain showers before 1pm, then a slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms"
+   "text": "This Afternoon: A slight chance of showers and thunderstorms before 5pm, then a chance of showers and thunderstorms"
   }
  },
  "beach-status": {
@@ -572,6 +572,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=212455",
+      "title": "Self-Serve Cottage Bakeries Bring Treats to Vermont Roadsides",
+      "link": "https://www.sevendaysvt.com/food-drink/fooddrinkfeatures/self-serve-cottage-bakeries-bring-treats-to-vermont-roadsides/",
+      "ts": "2026-07-21T16:54:27+00:00",
+      "summary": "Farmstands are not just for zucchini and eggs. Here are five home-based bakers crafting sourdough bread, cinnamon rolls and cookies worth stopping for. The post Self-Serve Cottage Bakeries Bring Treats to Vermont Roadsides appeared first on Seven Days . (Image: Melissa pasanen)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212452",
       "title": "Campo Opens in Waterbury with American-Meets-Latin Menu",
       "link": "https://www.sevendaysvt.com/food-drink/foodnews/campo-opens-in-waterbury-with-american-meets-latin-menu/",
@@ -586,6 +593,13 @@
       "summary": "Rachel Lee’s doughnut business quickly outgrew her home kitchen. She is building a dedicated space in Kayla Silver’s Essex Experience market and café. The post Glazed Donuts in Essex Will Share Space With Leo & Co. appeared first on Seven Days . (Image: Courtesy)"
      },
      {
+      "id": "https://www.sevendaysvt.com/?p=212472",
+      "title": "Obituary: Matthew Andre Tanner, 1974-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-matthew-andre-tanner-1974-2026/",
+      "ts": "2026-07-21T10:00:00+00:00",
+      "summary": "“Irreplaceable shining light” was an activist who worked in film and TV production and loved people without judgment The post Obituary: Matthew Andre Tanner, 1974-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212456",
       "title": "Obituary: Marcia Mary Morrell, 1948-2026",
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-marcia-mary-morrell-1948-2026/",
@@ -598,6 +612,13 @@
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-georgia-dolan-jeffers-1933-2026/",
       "ts": "2026-07-21T10:00:00+00:00",
       "summary": "Shelburne woman loved people, always looked for the good, and was compassionate and generous with everyone she knew The post Obituary: Georgia Dolan Jeffers, 1933-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212440",
+      "title": "Obituary: Marvin Philip Fishman, 1937-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-marvin-philip-fishman-1937-2026/",
+      "ts": "2026-07-21T10:00:00+00:00",
+      "summary": "Filmmaker, artist, activist and lifelong Yankees fan was endlessly curious about how others lived and viewed the world The post Obituary: Marvin Philip Fishman, 1937-2026 appeared first on Seven Days . (Image: Courtesy)"
      },
      {
       "id": "https://www.sevendaysvt.com/?p=212433",
@@ -619,32 +640,25 @@
       "link": "https://www.sevendaysvt.com/arts-culture/magnificent7/magnificent-7-must-see-must-do-events-in-and-around-vermont-july-22-29/",
       "ts": "2026-07-20T21:11:34+00:00",
       "summary": "Explore our editor’s picks for must-do events in Vermont this week, including “Weird Al” Yankovic at the Champlain Valley Exposition in Essex Junction. The post Magnificent 7: Must-See, Must-Do Events in and Around Vermont, July 22-29 appeared first on Seven Days . (Image: Courtesy of Robyn Von Swank)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212331",
-      "title": "New Graphic Novel ‘Charity & Sylvia’ Comes Under Scrutiny",
-      "link": "https://www.sevendaysvt.com/arts-culture/new-graphic-novel-charity-sylvia-comes-under-scrutiny/",
-      "ts": "2026-07-20T15:05:26+00:00",
-      "summary": "A historian's claim that Vermont cartoonist Tillie Walden borrowed too much from a 2014 biography raises questions about artistic interpretation and appropriation. The post New Graphic Novel Charity & Sylvia’ Comes Under Scrutiny appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212379",
-      "title": "Obituary: Dr. Edwin Joseph Guilfoy Jr., 1947-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-dr-edwin-joseph-guilfoy-jr-1947-2026/",
-      "ts": "2026-07-20T10:00:00+00:00",
-      "summary": "Family, his farm and his faith were Huntington man’s greatest passions The post Obituary: Dr. Edwin Joseph Guilfoy Jr., 1947-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212359",
-      "title": "Obituary: Jeffrey Robert Wells, 1956-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-jeffrey-robert-wells-1956-2026/",
-      "ts": "2026-07-20T10:00:00+00:00",
-      "summary": "Grocery industry professional and straight shooter was a true people person at heart The post Obituary: Jeffrey Robert Wells, 1956-2026 appeared first on Seven Days . (Image: Courtesy)"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651812",
+      "title": "Immigration policy must balance dignity with the rule of law",
+      "link": "https://vtdigger.org/2026/07/21/opinion-immigration-policy-must-balance-dignity-with-the-rule-of-law/",
+      "ts": "2026-07-21T17:41:50+00:00",
+      "summary": "Compassion for migrants must be balanced against a nation's responsibility to enforce its laws, secure its borders and protect its citizens. Read the story on VTDigger here: Immigration policy must balance dignity with the rule of law ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651805",
+      "title": "Federal appeals court overturns Vermont judge’s ruling that released Mohsen Mahdawi",
+      "link": "https://vtdigger.org/2026/07/21/federal-appeals-court-overturns-vermont-judges-ruling-that-released-mohsen-mahdawi/",
+      "ts": "2026-07-21T16:52:17+00:00",
+      "summary": "The Columbia University student and pro-Palestinian activist’s case should have been adjudicated in the federal immigration court system first, the U.S. Court of Appeals for the 2nd Circuit said Tuesday. Read the story on VTDigger here: Federal appeals court overturns Vermont judge’s ruling that released Mohsen Mahdawi ."
+     },
      {
       "id": "https://vtdigger.org/?p=651688",
       "title": "Why I came to VTDigger",
@@ -840,31 +854,24 @@
       "link": "https://vtdigger.org/2026/07/15/opinion-cutting-glp-1-coverage-may-cost-uvm-health-more-than-it-saves/",
       "ts": "2026-07-15T19:06:53+00:00",
       "summary": "UVM Health expects to save $19 million a year by cutting GLP-1 coverage for employees. But does that figure account for the medical costs patients avoid once the treatment works? Read the story on VTDigger here: Cutting GLP-1 coverage may cost UVM Health more than it saves ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651335",
-      "title": "From conversation to community action: at one year mark, Gone Guys documentary inspires new investments across Vermont and beyond",
-      "link": "https://vtdigger.org/2026/07/15/from-conversation-to-community-action-at-one-year-mark-gone-guys-documentary-inspires-new-investments-across-vermont-and-beyond/",
-      "ts": "2026-07-15T12:52:58+00:00",
-      "summary": "Over the past year, conversations sparked by the documentary film Gone Guys have brought communities together across Vermont and beyond to explore the challenges facing boys and young men. Those conversations are now leading to new partnerships, initiatives, and local action to better support boys and young men. Read the story on VTDigger here: From conversation to community action: at one year ma"
-     },
-     {
-      "id": "https://vtdigger.org/?p=651318",
-      "title": "Vermont’s Kaiden McCarthy picked in second round of MLB draft by Atlanta Braves",
-      "link": "https://vtdigger.org/2026/07/14/vermonts-kaiden-mccarthy-picked-in-second-round-of-mlb-draft-by-atlanta-braves/",
-      "ts": "2026-07-14T22:11:55+00:00",
-      "summary": "The hard-throwing right-handed pitcher from Chester was the highest draft choice ever for a Vermont baseball player. Read the story on VTDigger here: Vermont’s Kaiden McCarthy picked in second round of MLB draft by Atlanta Braves ."
      }
     ]
    },
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-21/washington-central-school-district-vote-new-process-closing-small-schools",
+      "title": "Washington Central school district will vote on new process for closing small schools",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-21/washington-central-school-district-vote-new-process-closing-small-schools",
+      "ts": "2026-07-21T17:33:37+00:00",
+      "summary": "Less than six months after Calais and Worcester voted to keep their schools open, a new vote has been warned to take away the decision-making process from the towns, and allow the whole district to decide the fate of the small schools."
+     },
+     {
       "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
-      "title": "LIVE: Vermont Public's 2026 Democratic primary debate for lieutenant governor",
+      "title": "Vermont Public's 2026 Democratic primary debate for lieutenant governor",
       "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
       "ts": "2026-07-21T09:00:00+00:00",
-      "summary": "Mikaela Lefrak will moderate a debate between Esther Charlestin, Molly Gray and Ryan McLaren. Tune in live at noon on Vermont Public Radio or YouTube."
+      "summary": "Mikaela Lefrak moderates a debate between Esther Charlestin, Molly Gray and Ryan McLaren."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
@@ -935,18 +942,18 @@
       "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-17/vermonts-prisons-not-as-staffed-as-we-want-to-be-says-corrections-commissioner",
       "ts": "2026-07-17T12:24:04+00:00",
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "LGEIUNDBYJCBXEMK5XXF23BR7Y",
+      "title": "Appeals court reverses decision that freed pro-Palestinian Columbia activist Mohsen Mahdawi",
+      "link": "https://www.wcax.com/2026/07/21/appeals-court-reverses-decision-that-freed-pro-palestinian-columbia-activist-mohsen-mahdawi/",
+      "ts": "2026-07-21T17:36:04+00:00",
+      "summary": "A federal appeals panel has reversed a lower court decision"
+     },
      {
       "id": "DGTXT2KIRNAKDJ4P3N3JZAXCBI",
       "title": "More hot water for a Vermont cannabis cultivator",
@@ -1289,18 +1296,74 @@
       "link": "https://www.wcax.com/2026/07/18/reward-announced-information-poached-bear/",
       "ts": "2026-07-18T11:50:19+00:00",
       "summary": "A $1,000 reward has been announced for any information that leads to a conviction in a bear poaching case."
-     },
-     {
-      "id": "DTUJPD4MMRCW7H54W7S4MZVVMQ",
-      "title": "Wallingford Day returns this weekend with music, food and fireworks",
-      "link": "https://www.wcax.com/2026/07/18/wallingford-day-returns-this-weekend-with-music-food-fireworks/",
-      "ts": "2026-07-18T02:51:13+00:00",
-      "summary": "The town of Wallingford is gearing up for its annual Wallingford Day celebration this Saturday, bringing music, games, activities, food and fireworks to the Rutland County community."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73220266",
+      "title": "ESPN starts layoffs tied to NFL Network acquisition, memo says",
+      "link": "https://www.mynbc5.com/article/espn-layoffs-nfl-network-takeover-disney-cuts/73220266",
+      "ts": "2026-07-21T18:39:00+00:00",
+      "summary": "ESPN is undergoing a significant round of layoffs for the first time in three years after taking over NFL Network in April."
+     },
+     {
+      "id": "73220493",
+      "title": "Lawyers for Massachusetts teen charged in Vermont woman's murder ask for curfew change",
+      "link": "https://www.mynbc5.com/article/said-springfield-massachusetts-murder-case-curfew/73220493",
+      "ts": "2026-07-21T18:31:00+00:00",
+      "summary": "The lawyers for a Massachusetts teen accused of killing a Vermont woman in 2024 are now asking a judge for more leniency in their client's conditions of release, according to court paperwork obtained by NBC5."
+     },
+     {
+      "id": "73220142",
+      "title": "Border czar says ICE agents should get body cameras 'as soon as possible'",
+      "link": "https://www.mynbc5.com/article/border-czar-says-ice-agents-should-get-body-cameras-as-soon-as-possible/73220142",
+      "ts": "2026-07-21T18:23:00+00:00",
+      "summary": "The Trump administration's border czar, Tom Homan, says that U.S. Immigration and Customs Enforcement agents should be equipped with body cameras \"as soon as possible,\" as the agency faces increased scrutiny following deadly shootings in Maine and Texas."
+     },
+     {
+      "id": "73215039",
+      "title": "Titanic passenger's letter gives 'absolutely fascinating' account of life on board before disaster",
+      "link": "https://www.mynbc5.com/article/titanic-passenger-letter/73215039",
+      "ts": "2026-07-21T18:20:00+00:00",
+      "summary": "A letter from a Titanic passenger dated April 10, 1912 — the day ship set sail — is expected to fetch $47,000 at auction."
+     },
+     {
+      "id": "73219417",
+      "title": "5 cups of coffee a day is fine for most adults, heart association says",
+      "link": "https://www.mynbc5.com/article/coffee-consumption-hearst-association-new-study/73219417",
+      "ts": "2026-07-21T18:06:00+00:00",
+      "summary": "Up to five cups of coffee a day could keep the doctor away. That’s according to a new scientific statement released Monday by the American Heart Association, addressing years of conflicting advice about caffeine and the heart."
+     },
+     {
+      "id": "73219822",
+      "title": "More humid, with showers and storms Tuesday afternoon",
+      "link": "https://www.mynbc5.com/article/more-humid-with-showers-and-storms-tuesday-afternoon-07-21-26/73219822",
+      "ts": "2026-07-21T17:50:00+00:00",
+      "summary": "Few strong to severe storms possible, especially in New York; additional showers Wednesday"
+     },
+     {
+      "id": "73202335",
+      "title": "Pentagon identifies third U.S. soldier killed in weekend attacks by Iran",
+      "link": "https://www.mynbc5.com/article/michael-emmanuel-swinton-killed-iraq-iran/73202335",
+      "ts": "2026-07-21T17:24:00+00:00",
+      "summary": "A U.S. service member killed Saturday during a “controlled detonation” of an Iranian drone has been identified."
+     },
+     {
+      "id": "71866359",
+      "title": "Laptops, smartphones and even cars are getting more expensive. Here's why",
+      "link": "https://www.mynbc5.com/article/prices-electronics-rise-see-change-microchip-memory-ram/71866359",
+      "ts": "2026-07-21T17:12:00+00:00",
+      "summary": "Prices generally decrease as technology is made more accessible for mass consumption. Now, our electronics are getting more expensive, and the forecast shows it's only going to get worse."
+     },
+     {
+      "id": "73219311",
+      "title": "Man with Parkinson's challenges himself to walk 100,000 steps in one day",
+      "link": "https://www.mynbc5.com/article/iowa-man-parkinsons-100000-step-challenge/73219311",
+      "ts": "2026-07-21T16:57:00+00:00",
+      "summary": "\"The more I move voluntarily, the less I move involuntarily.\" | A 74-year-old Iowa man with Parkinson's disease set out to walk 100,000 steps in one day to reach a personal milestone and inspire others."
+     },
      {
       "id": "73218862",
       "title": "Video shows moment garbage truck exploded, injuring worker",
@@ -1358,13 +1421,6 @@
       "summary": "Deputies in Ohio were called to a home to wrangle a snake | \"Our deputies don't just catch bad guys — we catch anything that slithers, crawls, moos, baas or bucks.\""
      },
      {
-      "id": "71866359",
-      "title": "Laptops, smartphones and even cars are getting more expensive. Here's why",
-      "link": "https://www.mynbc5.com/article/prices-electronics-rise-see-change-microchip-memory-ram/71866359",
-      "ts": "2026-07-21T15:09:00+00:00",
-      "summary": "Prices generally decrease as technology is made more accessible for mass consumption. Now, our electronics are getting more expensive, and the forecast shows it's only going to get worse."
-     },
-     {
       "id": "73203101",
       "title": "Power of an American passport slid dramatically over past 20 years",
       "link": "https://www.mynbc5.com/article/american-passport-rankings-power-2026/73203101",
@@ -1384,62 +1440,6 @@
       "link": "https://www.mynbc5.com/article/morgan-vermont-plane-crash-rescue/73191905",
       "ts": "2026-07-21T14:55:00+00:00",
       "summary": "A Vermont pilot is safe after he crashed his small plane in a lake in Orleans County and was rescued by neighbors, Vermont State Police said."
-     },
-     {
-      "id": "73195548",
-      "title": "Burlington City Arts clarifies cost of new art installations on Main Street",
-      "link": "https://www.mynbc5.com/article/bca-cost-art-installations-main-street/73195548",
-      "ts": "2026-07-21T14:15:00+00:00",
-      "summary": "Four new art installations on Burlington’s Main Street are getting a lot of attention. Now, some online are asking questions about the project’s costs."
-     },
-     {
-      "id": "73195545",
-      "title": "New hands-on learning program exposes Vermont high school students to medical professions",
-      "link": "https://www.mynbc5.com/article/new-hands-on-learning-program-is-exposing-high-school-students-to-medical-professions-this-summer/73195545",
-      "ts": "2026-07-21T14:09:00+00:00",
-      "summary": "Southern Vermont AHEC's MedQuest program is introducing students to careers in healthcare with workshops led by current med school students and opportunities to shadow working clinicians"
-     },
-     {
-      "id": "73196842",
-      "title": "Clubhouse Commons: A new third space for teens and young adults in Montpelier",
-      "link": "https://www.mynbc5.com/article/youth-space-montpelier-nightlife-summer/73196842",
-      "ts": "2026-07-21T14:07:00+00:00",
-      "summary": "Montpelier is getting a one-of-a-kind space designed for youth, by youth. Clubhouse Commons is hoping to open by mid-August."
-     },
-     {
-      "id": "73202535",
-      "title": "Judge to hear evidence against singer D4vd in killing, dismemberment of teen",
-      "link": "https://www.mynbc5.com/article/d4vd-hearing-trial-teen-girl-killing/73202535",
-      "ts": "2026-07-21T14:00:00+00:00",
-      "summary": "A judge is set to decide if there's enough evidence to send singer D4vd to trial for the killing of 14-year-old Celeste Rivas Hernandez."
-     },
-     {
-      "id": "73202335",
-      "title": "Pentagon identifies third U.S. soldier killed in weekend attacks by Iran",
-      "link": "https://www.mynbc5.com/article/michael-emmanuel-swinton-killed-iraq-iran/73202335",
-      "ts": "2026-07-21T13:35:00+00:00",
-      "summary": "A U.S. service member killed Saturday during a “controlled detonation” of an Iranian drone has been identified."
-     },
-     {
-      "id": "73194997",
-      "title": "After nearly 250 years, final Revolutionary War cannon fragment recovered from Lake Champlain",
-      "link": "https://www.mynbc5.com/article/after-nearly-250-years-final-revolutionary-war-cannon-fragment-recovered-from-lake-champlain/73194997",
-      "ts": "2026-07-21T13:13:00+00:00",
-      "summary": "Researchers say the discovery marks the end of a decades-long search for the final major missing piece of a cannon that exploded during the Battle of Valcour Island in 1776."
-     },
-     {
-      "id": "73200235",
-      "title": "Top military officials testifying on Capitol Hill to ask Congress for more funding as Iran War escalates",
-      "link": "https://www.mynbc5.com/article/top-military-officials-asking-for-more-money-iran-war-escalates/73200235",
-      "ts": "2026-07-21T13:08:00+00:00",
-      "summary": "Defense Secretary Pete Hegseth and top military officials are asking Congress for $67 billion in war funding as the U.S. intensifies its operations in Iran, with 17 American troops killed so far."
-     },
-     {
-      "id": "73201921",
-      "title": "Appeals court rejects Biden's bid to block release of recordings of ghostwriter interviews",
-      "link": "https://www.mynbc5.com/article/biden-memoir-recordings-transcripts-appeals-court/73201921",
-      "ts": "2026-07-21T12:33:00+00:00",
-      "summary": "A federal appeals court has rejected a request by Joe Biden to block the release of audio recordings and transcripts of his interviews with a memoir ghostwriter before he was elected president."
      }
     ]
    },
