@@ -919,18 +919,18 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "title": "Musician Mikahely shares traditional Malagasy rhythms",
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "ts": "2026-07-17T09:00:00+00:00",
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
@@ -943,6 +943,20 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "7GLJ42EQZBBXNF7FWOWISE2IN4",
+      "title": "Chittenden County sheriff apologizes for brother’s transphobic post targeting primary opponent",
+      "link": "https://www.wcax.com/2026/07/20/chittenden-county-sheriff-apologizes-brothers-transphobic-post-targeting-primary-opponent/",
+      "ts": "2026-07-21T00:15:56+00:00",
+      "summary": "Kevin Bloom, Sheriff Dan Gamelin's primary opponent, says the apology falls short."
+     },
+     {
+      "id": "YHJJFKDB4NHCXDIKE4LCKVHV74",
+      "title": "Beta helps achieve first hybrid electric flight above 30,000 feet",
+      "link": "https://www.wcax.com/2026/07/20/beta-technologies-helps-achieve-first-hybrid-electric-flight-above-30000-feet/",
+      "ts": "2026-07-20T23:43:37+00:00",
+      "summary": "Beta showcased the collaboration Monday at the Farnborough International Airshow in England."
+     },
      {
       "id": "XKJW6PEPTFDWREXZH4WYZNU644",
       "title": "Friends remember 16-year-old killed in Burlington e-bike crash last week",
@@ -1005,13 +1019,6 @@
       "link": "https://www.wcax.com/2026/07/20/gov-scott-appoints-retired-national-guard-commander-special-advisor/",
       "ts": "2026-07-20T21:27:06+00:00",
       "summary": "Retired Vermont National Guard Commander Maj. Gen. Gregory Knight has a new mission advising Vermont’s governor."
-     },
-     {
-      "id": "7GLJ42EQZBBXNF7FWOWISE2IN4",
-      "title": "Chittenden County sheriff apologizes for brother’s transphobic post targeting primary opponent",
-      "link": "https://www.wcax.com/2026/07/20/chittenden-county-sheriff-apologizes-brothers-transphobic-post-targeting-primary-opponent/",
-      "ts": "2026-07-20T21:22:52+00:00",
-      "summary": "Sheriff Dan Gamelin says his brother, Francis, is not part of his re-election team and only handed out a few campaign signs."
      },
      {
       "id": "UQQWNSKOPRGVLMPZCUR6BFL67Y",
@@ -1089,6 +1096,13 @@
       "link": "https://www.wcax.com/2026/07/20/pamela-smart-serving-life-seeks-new-trial-nh-judge-weighs-her-latest-petition/",
       "ts": "2026-07-20T15:47:30+00:00",
       "summary": "Lawyers for Pamela Smart, who's serving life for orchestrating her husband's 1990 murder, are hoping that a New Hampshire judge will allow her latest petition for a new trial."
+     },
+     {
+      "id": "OHV6NOJ73BEVJMNBVQ5BR4YDFM",
+      "title": "Constable man charged with grand larceny, allegedly depositing checks twice",
+      "link": "https://www.wcax.com/2026/07/20/malone-man-charged-with-grand-larceny-allegedly-depositing-checks-twice/",
+      "ts": "2026-07-20T15:19:27+00:00",
+      "summary": "New York State Police arrested a Constable man on July 19, 2026, and charged him with grand larceny and scheme to defraud after investigators say he double-deposited checks drawn from a former employer’s bank account."
      },
      {
       "id": "AXOJ4ONFDJFCLOADDOJT47XJXA",
@@ -1278,38 +1292,73 @@
       "link": "https://www.wcax.com/2026/07/17/2-children-hurt-smuggs-pool-crash-driver-charged-with-dui-police-say/",
       "ts": "2026-07-17T21:09:45+00:00",
       "summary": "New court documents show two children were hurt when a 20-year-old New Jersey woman drove an SUV into a crowded pool Monday."
-     },
-     {
-      "id": "UY7H7XRYLVG67KMAMA3ZS5SVJI",
-      "title": "UVM Health cutting GLP-1 weight-loss drug coverage for employees",
-      "link": "https://www.wcax.com/2026/07/17/uvm-health-cutting-glp-1-weight-loss-drug-coverage-employees/",
-      "ts": "2026-07-17T21:09:32+00:00",
-      "summary": "It comes as UVM Health Network scrambles to cut costs in the face of a $300 million budget deficit over the next three years."
-     },
-     {
-      "id": "NOBSMLPKWBAB3JZRC3JFSFFAIE",
-      "title": "Rochester’s former high school being redeveloped into community hub",
-      "link": "https://www.wcax.com/2026/07/17/rochesters-former-high-school-being-redeveloped-into-community-hub/",
-      "ts": "2026-07-17T21:09:19+00:00",
-      "summary": "Nearly a decade after the last students left Rochester High School, plans are in the works to transform the building into a community space, thanks to a state grant."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
-      "id": "73194074",
-      "title": "Alaska wants to seize a pilot's plane over a 6-pack of beer. The Supreme Court will hear his case",
-      "link": "https://www.mynbc5.com/article/supreme-court-alaska-pilot-plane-seizure-beer/73194074",
-      "ts": "2026-07-20T22:16:00+00:00",
-      "summary": "The Supreme Court has agreed to review an Alaska bush pilot's claims that state authorities have tried to illegally seize his $95,000 airplane after a passenger brought a six-pack of beer on a flight bound for a dry village"
+      "id": "73194381",
+      "title": "FIFA investigates Argentina players confronting Spain's on-field World Cup celebrations",
+      "link": "https://www.mynbc5.com/article/fifa-investigates-argentina-spain-world-cup-fight/73194381",
+      "ts": "2026-07-20T23:51:00+00:00",
+      "summary": "FIFA has opened an investigation after Spain's celebrations on beating Argentina in the World Cup final took an ugly turn when players briefly clashed on the field."
+     },
+     {
+      "id": "73196578",
+      "title": "Luke Skywalker's lightsaber with severed hand prop sets 'Star Wars' auction record at $3.75 million",
+      "link": "https://www.mynbc5.com/article/luke-skywalker-lightsaber-star-wars-auction-record-375-million/73196578",
+      "ts": "2026-07-20T23:50:00+00:00",
+      "summary": "One legendary duel, one record-breaking price: Luke Skywalker's lightsaber with severed hand from \"The Empire Strikes Back\" has become the most expensive film item from the franchise ever sold at auction."
+     },
+     {
+      "id": "73196334",
+      "title": "Jimothy, a Seattle raccoon, is inspiring fan accounts and memes",
+      "link": "https://www.mynbc5.com/article/jimothy-raccoon-viral-video/73196334",
+      "ts": "2026-07-20T23:47:00+00:00",
+      "summary": "An oddly-shaped raccoon has won over hearts on the internet. Here's what we know about him."
+     },
+     {
+      "id": "73194997",
+      "title": "After nearly 250 years, final Revolutionary War cannon fragment recovered from Lake Champlain",
+      "link": "https://www.mynbc5.com/article/after-nearly-250-years-final-revolutionary-war-cannon-fragment-recovered-from-lake-champlain/73194997",
+      "ts": "2026-07-20T23:29:00+00:00",
+      "summary": "Researchers say the discovery marks the end of a decades-long search for the final major missing piece of a cannon that exploded during the Battle of Valcour Island in 1776."
      },
      {
       "id": "73194258",
       "title": "Attempt to save a struggling swimmer leaves 5 dead in a river in Ohio, sheriff says",
       "link": "https://www.mynbc5.com/article/scioto-river-drowning-attempt-kills-five-in-ohio/73194258",
-      "ts": "2026-07-20T21:55:00+00:00",
+      "ts": "2026-07-20T23:03:00+00:00",
       "summary": "Authorities say five people have died on a river in Ohio after several of them went into the water to assist another person who was struggling to swim."
+     },
+     {
+      "id": "73195545",
+      "title": "New hands-on learning program is exposing high school students to medical professions this summer",
+      "link": "https://www.mynbc5.com/article/new-hands-on-learning-program-is-exposing-high-school-students-to-medical-professions-this-summer/73195545",
+      "ts": "2026-07-20T22:44:00+00:00",
+      "summary": "Southern Vermont AHEC's MedQuest program is introducing students to careers in healthcare with workshops led by current med school students and opportunities to shadow working clinicians"
+     },
+     {
+      "id": "73196156",
+      "title": "More humid, with scattered showers and afternoon storms Tuesday",
+      "link": "https://www.mynbc5.com/article/more-humid-with-scattered-showers-and-afternoon-storms-tuesday-07-20-26/73196156",
+      "ts": "2026-07-20T22:35:00+00:00",
+      "summary": "Few strong to severe storms possible, especially in New York; additional showers Wednesday"
+     },
+     {
+      "id": "73195868",
+      "title": "President Trump vows Iran will 'pay many times over' after US service members killed",
+      "link": "https://www.mynbc5.com/article/president-trump-vows-iran-will-pay-many-times-over-after-us-service-members-killed/73195868",
+      "ts": "2026-07-20T22:33:00+00:00",
+      "summary": "President Donald Trump has promised a stronger military response after three U.S. service members were killed in Iran-related incidents over the weekend, as tensions between the U.S. and Iran escalate."
+     },
+     {
+      "id": "73194074",
+      "title": "Alaska wants to seize a pilot's plane over a 6-pack of beer. The Supreme Court will hear his case",
+      "link": "https://www.mynbc5.com/article/supreme-court-alaska-pilot-plane-seizure-beer/73194074",
+      "ts": "2026-07-20T22:16:00+00:00",
+      "summary": "The Supreme Court has agreed to review an Alaska bush pilot's claims that state authorities have tried to illegally seize his $95,000 airplane after a passenger brought a six-pack of beer on a flight bound for a dry village"
      },
      {
       "id": "73195921",
@@ -1326,18 +1375,18 @@
       "summary": "President Donald Trump has imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products."
      },
      {
-      "id": "73194407",
-      "title": "Tractor-trailer crash temporarily closes roadway in Rutland County",
-      "link": "https://www.mynbc5.com/article/benson-vermont-truck-crash/73194407",
-      "ts": "2026-07-20T21:29:00+00:00",
-      "summary": "A tractor-trailer crash closed Vermont Route 22A in Benson for several hours on Friday after the vehicle blocked both lanes of the roadway."
-     },
-     {
       "id": "73193567",
       "title": "Vermont woman arrested after stopping traffic, trying to take officer's gun in Grafton County",
       "link": "https://www.mynbc5.com/article/lebanon-new-hampshire-arrest-healy/73193567",
       "ts": "2026-07-20T21:29:00+00:00",
       "summary": "A Montpelier woman was arrested in New Hampshire on Saturday after police said she resisted arrest and allegedly tried to take an officer's gun."
+     },
+     {
+      "id": "73194407",
+      "title": "Tractor-trailer crash temporarily closes roadway in Rutland County",
+      "link": "https://www.mynbc5.com/article/benson-vermont-truck-crash/73194407",
+      "ts": "2026-07-20T21:29:00+00:00",
+      "summary": "A tractor-trailer crash closed Vermont Route 22A in Benson for several hours on Friday after the vehicle blocked both lanes of the roadway."
      },
      {
       "id": "73195548",
@@ -1354,18 +1403,18 @@
       "summary": "Does vinegar kill cyclospora? Are frozen fruits safer? Here are answers to your questions as the search for the cyclosporiasis outbreak's source continues."
      },
      {
-      "id": "73191905",
-      "title": "Pilot rescued by residents after small plane crash in Orleans County",
-      "link": "https://www.mynbc5.com/article/morgan-vermont-plane-crash-rescue/73191905",
-      "ts": "2026-07-20T21:06:00+00:00",
-      "summary": "A Vermont pilot is safe after he crashed his small plane in a lake in Orleans County and was rescued by neighbors, Vermont State Police said."
-     },
-     {
       "id": "73194483",
       "title": "FDA identifies false-positive result, clarifies source of Cyclospora outbreak",
       "link": "https://www.mynbc5.com/article/fda-false-positive-source-cyclospora-outbreak/73194483",
       "ts": "2026-07-20T21:06:00+00:00",
       "summary": "The Food and Drug Administration (FDA) is walking back its initial confirmation of the nationwide spread of Cyclospora, though the suspected main source of the contamination hasn't changed."
+     },
+     {
+      "id": "73191905",
+      "title": "Pilot rescued by residents after small plane crash in Orleans County",
+      "link": "https://www.mynbc5.com/article/morgan-vermont-plane-crash-rescue/73191905",
+      "ts": "2026-07-20T21:06:00+00:00",
+      "summary": "A Vermont pilot is safe after he crashed his small plane in a lake in Orleans County and was rescued by neighbors, Vermont State Police said."
      },
      {
       "id": "73183683",
@@ -1387,55 +1436,6 @@
       "link": "https://www.mynbc5.com/article/man-arrested-assault-threatening-burlington-firefighter/73180018",
       "ts": "2026-07-20T20:34:00+00:00",
       "summary": "Burlington Police took a man into custody on Friday after he allegedly assaulted a woman and threatened a firefighter with a knife."
-     },
-     {
-      "id": "73186163",
-      "title": "Taylor Farms lettuce still the center of cyclosporiasis investigation, despite false positive test",
-      "link": "https://www.mynbc5.com/article/taylor-farms-lettuce-cyclospora-false-positive/73186163",
-      "ts": "2026-07-20T20:28:00+00:00",
-      "summary": "Testing that showed iceberg lettuce from Taylor Fresh Foods was tainted with cyclospora was a false positive, federal officials say."
-     },
-     {
-      "id": "73191398",
-      "title": "Jury selection begins for Canadian man accused of killing his 9-year-old daughter in New York",
-      "link": "https://www.mynbc5.com/article/luciano-frattolin-murder-trial-jury-draw/73191398",
-      "ts": "2026-07-20T20:28:00+00:00",
-      "summary": "Jury selection is underway for Luciano Frattolin, a Canadian man accused of killing his 9-year-old daughter, Melina, and hiding her body in Ticonderoga, New York."
-     },
-     {
-      "id": "73181026",
-      "title": "Two Connecticut men arrested in South Burlington drug trafficking investigation",
-      "link": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
-      "ts": "2026-07-20T20:07:00+00:00",
-      "summary": "Two men from Connecticut were arrested after a drug trafficking investigation in Burlington."
-     },
-     {
-      "id": "73193880",
-      "title": "Middlebury man accused of stabbing father during family dispute appears in court",
-      "link": "https://www.mynbc5.com/article/joshua-puma-middlebury-stabbing-arrest/73193880",
-      "ts": "2026-07-20T20:07:00+00:00",
-      "summary": "Joshua Puma was in court on Monday after he was accused of stabbing and shooting his gun during a family dispute last week."
-     },
-     {
-      "id": "73191265",
-      "title": "Winooski Police Department arrests man accused of multiple burglaries",
-      "link": "https://www.mynbc5.com/article/winooski-vermont-burglary-arrests-ricky-rich/73191265",
-      "ts": "2026-07-20T20:05:00+00:00",
-      "summary": "The Winooski Police Department has arrested a man wanted following a series of burglaries at local bars and restaurants."
-     },
-     {
-      "id": "73184402",
-      "title": "2 weeks after a Mississippi football player’s death, many questions linger",
-      "link": "https://www.mynbc5.com/article/nolan-wells-mississippi-football-player/73184402",
-      "ts": "2026-07-20T19:58:00+00:00",
-      "summary": "As Nolan Wells’ family prepares to lay the 18-year-old to rest on Monday, they will do so without knowing why his young life was cut so tragically short."
-     },
-     {
-      "id": "73191511",
-      "title": "Army veteran in custody, accused of starting fire outside NYC federal building, FBI says",
-      "link": "https://www.mynbc5.com/article/new-york-federal-building-explosion/73191511",
-      "ts": "2026-07-20T19:50:00+00:00",
-      "summary": "A former U.S. Army soldier set off fireworks and started a fire Monday morning outside a New York building housing an immigration court and other government offices, according to federal authorities."
      }
     ]
    },
