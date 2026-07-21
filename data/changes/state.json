@@ -3,7 +3,7 @@
   "alerts": [],
   "forecast_flag": {
    "day": "2026-07-21",
-   "text": "Today: A chance of rain showers before 1pm, then a slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms"
+   "text": "This Afternoon: A chance of rain showers before 1pm, then a slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms"
   }
  },
  "beach-status": {
@@ -11,37 +11,37 @@
    "Blanchard Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-21T11:58:00+00:00"
+    "resultTime": "2026-07-21T15:53:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-21T11:58:00+00:00"
+    "resultTime": "2026-07-21T15:53:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-20T15:33:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-21T15:46:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-21T11:56:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-21T15:23:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-21T11:56:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-21T15:23:00+00:00"
    },
    "North Beach North": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-21T11:57:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-21T15:33:00+00:00"
    },
    "North Beach South": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-21T11:57:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-21T15:33:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -51,12 +51,12 @@
    "Oakledge Cove": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-21T11:59:00+00:00"
+    "resultTime": "2026-07-21T15:56:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
-    "reason": "Open",
-    "resultTime": "2026-07-21T11:57:00+00:00"
+    "reason": "Choppy",
+    "resultTime": "2026-07-21T15:33:00+00:00"
    }
   }
  },
@@ -560,7 +560,10 @@
     "name": "Housing Board of Review",
     "start": "2026-08-03T18:30:00+00:00",
     "hasAgenda": true,
-    "files": []
+    "files": [
+     "Housing Board of Review Agenda 08/03",
+     "Housing Board of Review Agenda Packet 08/03"
+    ]
    }
   }
  },
@@ -568,6 +571,41 @@
   "feeds": {
    "sevendays-news": {
     "items": [
+     {
+      "id": "https://www.sevendaysvt.com/?p=212452",
+      "title": "Campo Opens in Waterbury with American-Meets-Latin Menu",
+      "link": "https://www.sevendaysvt.com/food-drink/foodnews/campo-opens-in-waterbury-with-american-meets-latin-menu/",
+      "ts": "2026-07-21T16:21:17+00:00",
+      "summary": "Chef-owner Josue Chanduvi blends snack-shack classics and his Peruvian Cuban heritage in the multifaceted food operation he has launched at Zenbarn. The post Campo Opens in Waterbury with American-Meets-Latin Menu appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212447",
+      "title": "Glazed Donuts in Essex Will Share Space With Leo & Co.",
+      "link": "https://www.sevendaysvt.com/food-drink/glazed-donuts-in-essex-will-share-space-with-leo-co/",
+      "ts": "2026-07-21T16:16:09+00:00",
+      "summary": "Rachel Lee’s doughnut business quickly outgrew her home kitchen. She is building a dedicated space in Kayla Silver’s Essex Experience market and café. The post Glazed Donuts in Essex Will Share Space With Leo & Co. appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212456",
+      "title": "Obituary: Marcia Mary Morrell, 1948-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-marcia-mary-morrell-1948-2026/",
+      "ts": "2026-07-21T10:00:00+00:00",
+      "summary": "Teacher inspired generations of students with her patience, kindness and love of learning The post Obituary: Marcia Mary Morrell, 1948-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212443",
+      "title": "Obituary: Georgia Dolan Jeffers, 1933-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-georgia-dolan-jeffers-1933-2026/",
+      "ts": "2026-07-21T10:00:00+00:00",
+      "summary": "Shelburne woman loved people, always looked for the good, and was compassionate and generous with everyone she knew The post Obituary: Georgia Dolan Jeffers, 1933-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
+     {
+      "id": "https://www.sevendaysvt.com/?p=212433",
+      "title": "Obituary: Shane Terry Lander, 1961-2026",
+      "link": "https://www.sevendaysvt.com/life-lines/obituary-shane-terry-lander-1961-2026/",
+      "ts": "2026-07-21T10:00:00+00:00",
+      "summary": "Dedicated husband, father and grandfather “would take the shirt off his back” to support the people he loved The post Obituary: Shane Terry Lander, 1961-2026 appeared first on Seven Days . (Image: Courtesy)"
+     },
      {
       "id": "https://www.sevendaysvt.com/?p=212353",
       "title": "Obituary: Alexander Read Cronin, 1978-2026",
@@ -602,41 +640,6 @@
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-jeffrey-robert-wells-1956-2026/",
       "ts": "2026-07-20T10:00:00+00:00",
       "summary": "Grocery industry professional and straight shooter was a true people person at heart The post Obituary: Jeffrey Robert Wells, 1956-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212334",
-      "title": "Obituary: Barbara Ann (Jensen) Stearns, 1928-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-barbara-ann-jensen-stearns-1928-2026/",
-      "ts": "2026-07-20T10:00:00+00:00",
-      "summary": "Schoolteacher, school counselor and mental health practitioner loved talking with people The post Obituary: Barbara Ann (Jensen) Stearns, 1928-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212332",
-      "title": "Obituary: Steven F. Oakland, 1951-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-steven-f-oakland-1951-2026/",
-      "ts": "2026-07-20T10:00:00+00:00",
-      "summary": "IBM engineer shared his gifts on keyboard and voice throughout his life, and his quiet faithfulness, humility and kindness drew people to him The post Obituary: Steven F. Oakland, 1951-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212323",
-      "title": "Obituary: Donald Joseph LeBlanc, 1955-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituary-donald-joseph-leblanc-1955-2026/",
-      "ts": "2026-07-20T10:00:00+00:00",
-      "summary": "Hard worker and natural tinkerer loved hunting, snowmobiling, being on the water and spending time with his granddaughters The post Obituary: Donald Joseph LeBlanc, 1955-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212317",
-      "title": "Obituary: Peter D. Chiacchieri",
-      "link": "https://www.sevendaysvt.com/life-lines/obituary-peter-d-chiacchieri/",
-      "ts": "2026-07-20T10:00:00+00:00",
-      "summary": "Peter D. Chiacchieri of Burlington, Vt., passed away at home on Monday, June 15, 2026, of natural causes. Services are being arranged for October 2026. The post Obituary: Peter D. Chiacchieri appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212281",
-      "title": "Teen Cyclist Killed in Collision With Minivan in Burlington",
-      "link": "https://www.sevendaysvt.com/news/news-news/teen-cyclist-killed-in-collision-with-minivan-in-burlington/",
-      "ts": "2026-07-17T22:24:25+00:00",
-      "summary": "Shiloh Skalka was riding an e-bike southbound on Pine Street shortly after 1 p.m. on Thursday and was injured in a crash with a minivan headed in the same direction, police said. The post Teen Cyclist Killed in Collision With Minivan in Burlington appeared first on Seven Days . (Image: Sasha Goldstein)"
      }
     ]
    },
@@ -934,16 +937,23 @@
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
-      "title": "Musician Mikahely shares traditional Malagasy rhythms",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
+      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
+      "title": "Hundreds of acres conserved across Vermont this summer",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "This week’s Friday Song is “Veloma Anao Jaly” by the Burlington-based singer-songwriter."
+      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "DGTXT2KIRNAKDJ4P3N3JZAXCBI",
+      "title": "More hot water for a Vermont cannabis cultivator",
+      "link": "https://www.wcax.com/2026/07/21/more-hot-water-vermont-cannabis-cultivator/",
+      "ts": "2026-07-21T16:01:10+00:00",
+      "summary": "A cannabis cultivator in Barre is in more hot water after violating state rules including running an illicit grow site"
+     },
      {
       "id": "DQR77ONYEREPFDXSIN3CN3P46M",
       "title": "One of FBI’s most wanted fugitives arrested in Alburgh break-in attempt",
@@ -977,7 +987,7 @@
       "title": "Region’s gas prices on the rise again",
       "link": "https://www.wcax.com/2026/07/21/regions-gas-prices-rise-again/",
       "ts": "2026-07-21T11:16:48+00:00",
-      "summary": "As war escalates between the U.S. and Iran, gas prices in Vermont have once again risen above $4 a gallon for much of the state"
+      "summary": "As war escalates between the U.S. and Iran, gas prices in Vermont have once again risen above $4 a gallon for much of the state."
      },
      {
       "id": "VPDXQT3RHRFG7MQQA6SSBIO2YM",
@@ -1286,18 +1296,67 @@
       "link": "https://www.wcax.com/2026/07/18/wallingford-day-returns-this-weekend-with-music-food-fireworks/",
       "ts": "2026-07-18T02:51:13+00:00",
       "summary": "The town of Wallingford is gearing up for its annual Wallingford Day celebration this Saturday, bringing music, games, activities, food and fireworks to the Rutland County community."
-     },
-     {
-      "id": "GVSIN7NJH5CRNHDB6J3OJHB2GU",
-      "title": "FBI most wanted fugitive arrested in Vermont",
-      "link": "https://www.wcax.com/2026/07/18/fbi-most-wanted-fugitive-arrested-vermont/",
-      "ts": "2026-07-18T02:42:07+00:00",
-      "summary": "An FBI most wanted fugitive has been arrested in Vermont after a resident spotted him on a security camera attempting to enter a barn."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73218862",
+      "title": "Video shows moment garbage truck exploded, injuring worker",
+      "link": "https://www.mynbc5.com/article/video-garbage-truck-explosion-injures-worker/73218862",
+      "ts": "2026-07-21T16:28:00+00:00",
+      "summary": "A sanitation worker in Milwaukee was hospitalized when oxygen tanks that were disposed of improperly exploded in a garbage truck."
+     },
+     {
+      "id": "73218397",
+      "title": "21-year old Bright Beginnings employee to appear in court for child abuse",
+      "link": "https://www.mynbc5.com/article/21-year-old-daycare-worker-court-child-abuse/73218397",
+      "ts": "2026-07-21T16:27:00+00:00",
+      "summary": "A 21-year old daycare worker from Northern New York is scheduled to appear in court, to face child abuse charges. Dillion Bronson is facing charges of assault, child endangerment, and failure to report."
+     },
+     {
+      "id": "73209929",
+      "title": "‘Godzilla vs. Kong’ child star dead at 18 following Maryland car crash",
+      "link": "https://www.mynbc5.com/article/kaylee-hottle-maryland-car-crash-dead-18/73209929",
+      "ts": "2026-07-21T16:26:00+00:00",
+      "summary": "Kaylee Hottle, a deaf actress best known for her work in two “Godzilla” films, has died. She was 18."
+     },
+     {
+      "id": "73202719",
+      "title": "Pro boxer killed after deputies say suspect reversed vehicle, hitting her on bike",
+      "link": "https://www.mynbc5.com/article/boxer-hannah-rapp-killed-texas/73202719",
+      "ts": "2026-07-21T16:13:00+00:00",
+      "summary": "A rising professional boxer was killed in Texas after a man reportedly reversed his vehicle and struck her on a bicycle. Hannah Rapp was 26 years old."
+     },
+     {
+      "id": "73173005",
+      "title": "Man named on FBI's Most Wanted list arrested in Vermont while trying to break into home",
+      "link": "https://www.mynbc5.com/article/nitish-kaushal-arrested-fbi-vermont/73173005",
+      "ts": "2026-07-21T16:12:00+00:00",
+      "summary": "Nitish Kaushal, accused of murders, kidnappings, and assaults for a criminal group, was arrested by border agents in Vermont, the FBI said."
+     },
+     {
+      "id": "73218047",
+      "title": "More than 270 acres of land restored to Abenaki tribe in Cabot, Peacham",
+      "link": "https://www.mynbc5.com/article/land-restored-abenaki-tribe-cabot-peacham/73218047",
+      "ts": "2026-07-21T16:06:00+00:00",
+      "summary": "The New England Annual Conference of The United Methodist Church formally deeded a 270.5 -acre plot of land that was the former Covenant Hills Christian Camp back to the Nulhegan Band of the Coosuk Abenaki Nation this week"
+     },
+     {
+      "id": "71839763",
+      "title": "Energy bill high? Here’s how you can lower it",
+      "link": "https://www.mynbc5.com/article/how-to-save-money-on-energy-bill/71839763",
+      "ts": "2026-07-21T15:37:00+00:00",
+      "summary": "What really contributes to a high energy bill and practical tips to help you save."
+     },
+     {
+      "id": "73218415",
+      "title": "VIDEO: Ohio deputies wrangle snake from resident's bedroom",
+      "link": "https://www.mynbc5.com/article/butler-county-snake-bedroom-video-home/73218415",
+      "ts": "2026-07-21T15:33:00+00:00",
+      "summary": "Deputies in Ohio were called to a home to wrangle a snake | \"Our deputies don't just catch bad guys — we catch anything that slithers, crawls, moos, baas or bucks.\""
+     },
      {
       "id": "71866359",
       "title": "Laptops, smartphones and even cars are getting more expensive. Here's why",
@@ -1381,62 +1440,6 @@
       "link": "https://www.mynbc5.com/article/biden-memoir-recordings-transcripts-appeals-court/73201921",
       "ts": "2026-07-21T12:33:00+00:00",
       "summary": "A federal appeals court has rejected a request by Joe Biden to block the release of audio recordings and transcripts of his interviews with a memoir ghostwriter before he was elected president."
-     },
-     {
-      "id": "73201383",
-      "title": "Video: Pilot injured after small plane crashes into Texas home",
-      "link": "https://www.mynbc5.com/article/video-pilot-injured-after-small-plane-crashes-into-texas-home/73201383",
-      "ts": "2026-07-21T12:30:00+00:00",
-      "summary": "A plane crashed into a Texas home, sending the pilot to the hospital."
-     },
-     {
-      "id": "73201664",
-      "title": "Man stabs and wounds tourists near the Acropolis in Athens, Greece",
-      "link": "https://www.mynbc5.com/article/athens-acropolis-tourist-stabbing-two-injured/73201664",
-      "ts": "2026-07-21T12:00:00+00:00",
-      "summary": "A man stabbed and wounded two Greek American tourists near the ancient Acropolis in Athens, Greece’s top tourist attraction, police said."
-     },
-     {
-      "id": "73200876",
-      "title": "‘One in 15 million’: Woman gives birth to identical quadruplets",
-      "link": "https://www.mynbc5.com/article/identical-quadruplets-born-in-austria-very-rare/73200876",
-      "ts": "2026-07-21T10:47:00+00:00",
-      "summary": "A woman has given birth to rare identical quadruplets, a feat so uncommon that doctors say the odds of conceiving them naturally are about one in 15 million."
-     },
-     {
-      "id": "73196156",
-      "title": "More humid as showers and storms return Tuesday",
-      "link": "https://www.mynbc5.com/article/more-humid-as-showers-and-storms-return-tuesday-07-21-26/73196156",
-      "ts": "2026-07-21T10:23:00+00:00",
-      "summary": "Few strong to severe storms possible, especially in New York; additional showers Wednesday"
-     },
-     {
-      "id": "73199649",
-      "title": "New documents detail rape charges against the Tate brothers in the UK. Here’s what we know",
-      "link": "https://www.mynbc5.com/article/tate-brothers-rape-charges-uk/73199649",
-      "ts": "2026-07-21T10:16:00+00:00",
-      "summary": "Newly unsealed court documents reveal more details from prosecutors about the latest sex-crime charges Andrew and Tristan Tate are facing, including rape and sex trafficking."
-     },
-     {
-      "id": "73183683",
-      "title": "US strikes Iran for 10th consecutive night as Tehran strikes tanker in the Strait of Hormuz",
-      "link": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
-      "ts": "2026-07-21T09:48:00+00:00",
-      "summary": "The United States military said late Monday it was carrying out its 10th consecutive night of strikes on Iran in a push to reopen the Strait of Hormuz."
-     },
-     {
-      "id": "73200174",
-      "title": "Could the SEC really break away from NCAA?",
-      "link": "https://www.mynbc5.com/article/could-the-sec-really-break-away-from-ncaa/73200174",
-      "ts": "2026-07-21T09:34:00+00:00",
-      "summary": "Could the SEC really break away from NCAA? Commissioner Greg Sankey says conversations are real, but that's not what they want."
-     },
-     {
-      "id": "73199539",
-      "title": "Four deaths reported in New York City Legionnaires’ disease cluster",
-      "link": "https://www.mynbc5.com/article/new-york-city-legionnaires-disease-outbreak/73199539",
-      "ts": "2026-07-21T09:10:00+00:00",
-      "summary": "A fourth person has died in connection with a cluster of Legionnaires’ disease cases in New York City, city officials said."
      }
     ]
    },
