@@ -372,48 +372,6 @@
  "gmt-alerts": {
   "items": [
    {
-    "id": "https://ridegmt.com/?p=24324",
-    "title": "Service Alert :: Winooski",
-    "link": "https://ridegmt.com/service-alert-winooski-4/",
-    "ts": "2026-07-17T00:06:08+00:00",
-    "summary": "Buses on Route 9 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Riverside/Winooski, [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24320",
-    "title": "Service Alert :: North Avenue",
-    "link": "https://ridegmt.com/service-alert-north-avenue-2/",
-    "ts": "2026-07-17T00:04:50+00:00",
-    "summary": "Buses on Route 7 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Northgate, [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24312",
-    "title": "Service Alert :: Shelburne Road",
-    "link": "https://ridegmt.com/service-alert-shelburne-road-2/",
-    "ts": "2026-07-17T00:02:52+00:00",
-    "summary": "Buses on Route 6 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Shelburne, [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24308",
-    "title": "Service Alert :: Pine Street",
-    "link": "https://ridegmt.com/service-alert-pine-street/",
-    "ts": "2026-07-17T00:02:16+00:00",
-    "summary": "Buses on Route 5 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Pine [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24304",
-    "title": "Service Alert :: Essex Junction",
-    "link": "https://ridegmt.com/service-alert-essex-junction/",
-    "ts": "2026-07-17T00:01:42+00:00",
-    "summary": "Buses on Route 2 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Essex [ ]"
-   },
-   {
-    "id": "https://ridegmt.com/?p=24661",
-    "title": "Service Alert :: Williston",
-    "link": "https://ridegmt.com/service-alert-williston-2/",
-    "ts": "2026-07-17T00:00:08+00:00",
-    "summary": "Buses on Route 1 will be on detour due to construction. Detour in effect starting July 16 at 7:00 PM. Detour ends July 16 at approximately 11:59 PM. Toward Walmart, [ ]"
-   },
-   {
     "id": "https://ridegmt.com/?p=24075",
     "title": "Downtown Transit Center Hours Changing",
     "link": "https://ridegmt.com/downtown-transit-center-hours-changing/",
@@ -440,6 +398,13 @@
     "link": "https://ridegmt.com/service-alert-milton-commuter-main-street-revitalization-project/",
     "ts": "2025-11-28T13:59:21+00:00",
     "summary": "Due to the construction, buses cannot access stops on Winooski Falls Way. Outbound riders should use the temporary stop at Spinner Place at Champlain Mill. Inbound riders can request the [ ]"
+   },
+   {
+    "id": "https://ridegmt.com/?p=22255",
+    "title": "Service Alert :: Winooski",
+    "link": "https://ridegmt.com/service-alert-winooski/",
+    "ts": "2025-09-26T01:59:42+00:00",
+    "summary": "Due to the closure of Abenaki Way, buses cannot access stops on Winooski Falls Way and Abenaki Way. Outbound riders should utilize the temporary stop at the VSAC building on [ ]"
    }
   ]
  },
@@ -512,8 +477,8 @@
     "start": "2026-07-23T17:30:00+00:00",
     "hasAgenda": true,
     "files": [
-     "Public Safety Committee Agenda - 26.07.20",
-     "Public Safety Committee Agenda Packet - 26.07.20"
+     "Public Safety Committee Agenda - 26.07.21",
+     "Public Safety Committee Agenda Packet - 26.07.21"
     ]
    },
    "10083": {
@@ -645,6 +610,13 @@
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651836",
+      "title": "Double the limit: Vermont bets bigger cannabis buys will beat the black market",
+      "link": "https://vtdigger.org/2026/07/21/double-the-limit-vermont-bets-bigger-cannabis-buys-will-beat-the-black-market/",
+      "ts": "2026-07-21T19:58:55+00:00",
+      "summary": "Vermonters can now buy twice the amount of cannabis in a single day, after the state doubled the legal purchase limit to 2 ounces. Read the story on VTDigger here: Double the limit: Vermont bets bigger cannabis buys will beat the black market ."
+     },
      {
       "id": "https://vtdigger.org/?p=651812",
       "title": "Immigration policy must balance dignity with the rule of law",
@@ -847,31 +819,31 @@
       "link": "https://vtdigger.org/2026/07/15/vermont-conversation-some-joy-some-tragedy-2-vermont-authors-on-the-struggles-of-rural-living/",
       "ts": "2026-07-15T20:42:01+00:00",
       "summary": "Brett Ann Stanciu and Catherine Tudish bring characters and the fictional Vermont towns they inhabit to life in recent books set in the state. Read the story on VTDigger here: Vermont Conversation: Some joy, some tragedy. 2 Vermont authors on the struggles of rural living ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651348",
-      "title": "Cutting GLP-1 coverage may cost UVM Health more than it saves",
-      "link": "https://vtdigger.org/2026/07/15/opinion-cutting-glp-1-coverage-may-cost-uvm-health-more-than-it-saves/",
-      "ts": "2026-07-15T19:06:53+00:00",
-      "summary": "UVM Health expects to save $19 million a year by cutting GLP-1 coverage for employees. But does that figure account for the medical costs patients avoid once the treatment works? Read the story on VTDigger here: Cutting GLP-1 coverage may cost UVM Health more than it saves ."
      }
     ]
    },
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
+      "title": "Vermont Public's 2026 Democratic primary debate for lieutenant governor",
+      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
+      "ts": "2026-07-21T19:33:00+00:00",
+      "summary": "Esther Charlestin, Molly Gray and Ryan McLaren largely agree on policy, but each would bring a different area of expertise to the role."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-21/appeals-court-reverses-decision-that-freed-pro-palestinian-activist-mohsen-mahdawi",
+      "title": "Appeals court reverses decision that freed pro-Palestinian activist Mohsen Mahdawi",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-21/appeals-court-reverses-decision-that-freed-pro-palestinian-activist-mohsen-mahdawi",
+      "ts": "2026-07-21T18:49:28+00:00",
+      "summary": "The ruling from the 2nd U.S. Circuit Court of Appeals in New York overturns a previous decision by a federal judge in Vermont, which likened the government's efforts to expel him and other activists to McCarthyist repression."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-21/washington-central-school-district-vote-new-process-closing-small-schools",
       "title": "Washington Central school district will vote on new process for closing small schools",
       "link": "https://www.vermontpublic.org/local-news/2026-07-21/washington-central-school-district-vote-new-process-closing-small-schools",
       "ts": "2026-07-21T17:33:37+00:00",
       "summary": "Less than six months after Calais and Worcester voted to keep their schools open, a new vote has been warned to take away the decision-making process from the towns, and allow the whole district to decide the fate of the small schools."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
-      "title": "Vermont Public's 2026 Democratic primary debate for lieutenant governor",
-      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
-      "ts": "2026-07-21T09:00:00+00:00",
-      "summary": "Mikaela Lefrak moderates a debate between Esther Charlestin, Molly Gray and Ryan McLaren."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
@@ -935,18 +907,46 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/score-for-sustainability-behind-eco-conscious-design-vermont-green-fc-soccer-kits",
       "ts": "2026-07-17T17:04:20+00:00",
       "summary": "As the issue of sustainability in soccer takes the pitch, the local soccer team is accepting the challenge of designing soccer kits that prioritize a sustainable, circular economy."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-17/vermonts-prisons-not-as-staffed-as-we-want-to-be-says-corrections-commissioner",
-      "title": "Prisons not 'as staffed as we want to be,' says Vermont corrections commissioner",
-      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-17/vermonts-prisons-not-as-staffed-as-we-want-to-be-says-corrections-commissioner",
-      "ts": "2026-07-17T12:24:04+00:00",
-      "summary": "The average vacancy rate for security staff hovers around 20 percent."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "6Y4GENWQZJES7HKJPN5RGY4BFM",
+      "title": "Police searching for missing Vermont man",
+      "link": "https://www.wcax.com/2026/07/21/police-searching-missing-vermont-man/",
+      "ts": "2026-07-21T20:30:15+00:00",
+      "summary": "Vermont troopers say Clifford Bennett left his Duxbury home on Monday afternoon and has not been seen or heard from since."
+     },
+     {
+      "id": "LZBT3OJ4N5BZNF5LG6KNJRKVWQ",
+      "title": "Welch calls Trump’s new 50% tariff on Canada an ‘extreme escalation’ of trade war",
+      "link": "https://www.wcax.com/2026/07/21/welch-calls-trumps-new-50-tariff-canada-an-extreme-escalation-trade-war/",
+      "ts": "2026-07-21T20:15:21+00:00",
+      "summary": "N.H. Rep. Maggie Goodlander also called out the president for exacerbating the affordability crisis for working families."
+     },
+     {
+      "id": "LOSAA27Y3JA25OWPZZGBFM7HDE",
+      "title": "Downed tree knocks out power for hundreds in Newport",
+      "link": "https://www.wcax.com/2026/07/21/downed-tree-knocks-out-power-hundreds-newport/",
+      "ts": "2026-07-21T20:08:22+00:00",
+      "summary": "A fallen tree knocked down power lines Tuesday afternoon in Newport"
+     },
+     {
+      "id": "P22PT57BMFCL3FE3PB4ZAYBI5E",
+      "title": "Rutland police searching for deli vandalism suspect",
+      "link": "https://www.wcax.com/2026/07/21/rutland-police-searching-deli-vandalism-suspect/",
+      "ts": "2026-07-21T19:38:14+00:00",
+      "summary": "Police are searching for a person of interest in connection with vandalism at a Rutland deli."
+     },
+     {
+      "id": "ZZTRZWP5EVH3DGKSQ726XWTCZM",
+      "title": "Vermont expands low-interest loan program to spur housing development",
+      "link": "https://www.wcax.com/2026/07/21/vermont-makes-25m-investment-housing-jobs-affordability/",
+      "ts": "2026-07-21T19:00:23+00:00",
+      "summary": "Vermont state leaders have announced a $25 million investment in the state treasurer’s Invest in Vermont program."
+     },
      {
       "id": "LGEIUNDBYJCBXEMK5XXF23BR7Y",
       "title": "Appeals court reverses decision that freed pro-Palestinian Columbia activist Mohsen Mahdawi",
@@ -967,13 +967,6 @@
       "link": "https://www.wcax.com/2026/07/21/one-fbis-most-wanted-fugitives-arrested-alburgh-break-in-attempt/",
       "ts": "2026-07-21T14:34:36+00:00",
       "summary": "The FBI arrested Indian national Nitish Kaushal, 26, near the Canadian border on July 16"
-     },
-     {
-      "id": "ZZTRZWP5EVH3DGKSQ726XWTCZM",
-      "title": "Vermont makes $25M investment in housing, jobs and affordability",
-      "link": "https://www.wcax.com/2026/07/21/vermont-makes-25-million-investment-housing-jobs-affordability/",
-      "ts": "2026-07-21T13:11:12+00:00",
-      "summary": "Vermont state leaders have announced a $25 million investment in the state treasurer’s Invest in Vermont program."
      },
      {
       "id": "KTIATIE5HBGFRNTRKPGJX7WXKM",
@@ -1268,52 +1261,115 @@
       "link": "https://www.wcax.com/2026/07/19/64th-annual-lamoille-county-field-days-draws-community-johnson-fair/",
       "ts": "2026-07-19T03:48:23+00:00",
       "summary": "Nonprofit, volunteer-run event features rides, animals, live music and wood cutting competitions"
-     },
-     {
-      "id": "V5X5V6PISBHMVNTSDY5OPTQWAI",
-      "title": "Burlington bars buzzing with watch party energy",
-      "link": "https://www.wcax.com/2026/07/18/burlington-bars-buzzing-with-watch-party-energy/",
-      "ts": "2026-07-18T23:09:30+00:00",
-      "summary": "Bars across Vermont are hosting watch parties as the team makes history in its first full season"
-     },
-     {
-      "id": "AUJB3DI4YRA5VLIYKJIATGFZGM",
-      "title": "Fair Haven celebrates Matthew Lyon Day",
-      "link": "https://www.wcax.com/2026/07/18/fair-haven-celebrates-matthew-lyon-day/",
-      "ts": "2026-07-18T23:07:07+00:00",
-      "summary": "Town honors founder and one of the most controversial figures in U.S. legislative history"
-     },
-     {
-      "id": "D7PLRDGD6FH7RERX3EUUEUL42Q",
-      "title": "HomeShare Vermont sees more cases as housing demand grows",
-      "link": "https://www.wcax.com/2026/07/18/homeshare-vermont-sees-more-cases-housing-demand-grows/",
-      "ts": "2026-07-18T23:06:48+00:00",
-      "summary": "Statewide matching program connects Vermonters with extra rooms to those seeking below-market rent"
-     },
-     {
-      "id": "JCCB5RXVUZCNPFSG73XNXOALPY",
-      "title": "Reward announced for information on poached bear",
-      "link": "https://www.wcax.com/2026/07/18/reward-announced-information-poached-bear/",
-      "ts": "2026-07-18T11:50:19+00:00",
-      "summary": "A $1,000 reward has been announced for any information that leads to a conviction in a bear poaching case."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
-      "id": "73220266",
-      "title": "ESPN starts layoffs tied to NFL Network acquisition, memo says",
-      "link": "https://www.mynbc5.com/article/espn-layoffs-nfl-network-takeover-disney-cuts/73220266",
-      "ts": "2026-07-21T18:39:00+00:00",
-      "summary": "ESPN is undergoing a significant round of layoffs for the first time in three years after taking over NFL Network in April."
+      "id": "73221346",
+      "title": "Video captures airborne orcas tossing dolphins out of the water",
+      "link": "https://www.mynbc5.com/article/monterey-bay-orcas-capture-dolphins-midair/73221346",
+      "ts": "2026-07-21T20:26:00+00:00",
+      "summary": "A rare Monterey Bay encounter was caught on camera as orcas hunted dolphins, with one whale leaping an estimated 15 feet out of the water."
+     },
+     {
+      "id": "73221343",
+      "title": "Lake Seymour small plane crash ruled an accident; Pilot must pay for salvage",
+      "link": "https://www.mynbc5.com/article/lake-seymour-small-plane-salvage/73221343",
+      "ts": "2026-07-21T20:22:00+00:00",
+      "summary": "A 66-year-old pilot who was rescued by local boaters after his plane crashed in Lake Seymour will have to pay to recover the vehicle from the bottom of the lake."
+     },
+     {
+      "id": "73221245",
+      "title": "Ukraine's Zelenskyy fires military chief after protests and names a replacement",
+      "link": "https://www.mynbc5.com/article/ukraines-zelenskyy-fires-military-chief/73221245",
+      "ts": "2026-07-21T20:21:00+00:00",
+      "summary": "President Volodymyr Zelenskyy fired the commander-in-chief of Ukraine’s armed forces following protests and named a replacement Tuesday."
+     },
+     {
+      "id": "73221182",
+      "title": "Hegseth estimates Iran War has cost $37.5B so far",
+      "link": "https://www.mynbc5.com/article/hegseth-iran-war-cost-congress/73221182",
+      "ts": "2026-07-21T20:17:00+00:00",
+      "summary": "Defense Secretary Pete Hegseth is facing questions and protests at a Senate hearing over the U.S. war against Iran"
      },
      {
       "id": "73220493",
       "title": "Lawyers for Massachusetts teen charged in Vermont woman's murder ask for curfew change",
       "link": "https://www.mynbc5.com/article/said-springfield-massachusetts-murder-case-curfew/73220493",
-      "ts": "2026-07-21T18:31:00+00:00",
+      "ts": "2026-07-21T20:13:00+00:00",
       "summary": "The lawyers for a Massachusetts teen accused of killing a Vermont woman in 2024 are now asking a judge for more leniency in their client's conditions of release, according to court paperwork obtained by NBC5."
+     },
+     {
+      "id": "73221239",
+      "title": "Police look for person accused of vandalizing Maxie's Deli in Rutland",
+      "link": "https://www.mynbc5.com/article/maxies-deli-rutland-vermont-vandalism/73221239",
+      "ts": "2026-07-21T20:08:00+00:00",
+      "summary": "Police are looking for a person accused of vandalizing a local deli in Rutland after the person was seen appearing to smash a window at the business."
+     },
+     {
+      "id": "73220812",
+      "title": "11-year-old boy spends 100 hours reading to pets at his local animal shelter",
+      "link": "https://www.mynbc5.com/article/boy-reads-to-shelter-pets-100-volunteer-hours/73220812",
+      "ts": "2026-07-21T20:05:00+00:00",
+      "summary": "An 11-year-old boy was recognized for spending 100 hours reading to pets at an animal shelter. Nehemiah particularly loves reading to dogs in the \"hopes that reading helps them feel more calm and find homes faster.\""
+     },
+     {
+      "id": "73221122",
+      "title": "6,600 noncitizens mistakenly registered to vote in New Jersey, governor says",
+      "link": "https://www.mynbc5.com/article/new-jersey-dmv-error-noncitizens-voter-registration/73221122",
+      "ts": "2026-07-21T19:59:00+00:00",
+      "summary": "About 6,600 noncitizens were mistakenly registered to vote after an error in the New Jersey motor vehicle system, Gov. Mikie Sherrill said."
+     },
+     {
+      "id": "71220007",
+      "title": "Dream apartment or a scam? Here's how to spot fake rental listings to avoid getting duped",
+      "link": "https://www.mynbc5.com/article/how-to-spot-rental-scams-during-apartment-hunting/71220007",
+      "ts": "2026-07-21T19:54:00+00:00",
+      "summary": "Scammers copy real listings and switch out the agent's contact information with their own."
+     },
+     {
+      "id": "73196835",
+      "title": "Topps to release a trading card of the photo of a young Messi holding infant Lamine Yamal",
+      "link": "https://www.mynbc5.com/article/topps-card-of-photo-messi-lamine-yamal/73196835",
+      "ts": "2026-07-21T19:53:00+00:00",
+      "summary": "Topps is creating a trading card of what became a famous photo during the World Cup of Argentina's Lionel Messi holding Spain's Lamine Yamal."
+     },
+     {
+      "id": "73220083",
+      "title": "The odds of winning the Mega Millions jackpot are slim but here's what numbers are drawn the most",
+      "link": "https://www.mynbc5.com/article/mega-millions-common-numbers/73220083",
+      "ts": "2026-07-21T19:49:00+00:00",
+      "summary": "The odds of winning the Mega Millions jackpot are 1 in 290,472,336. Here are the numbers drawn most often for the white and gold balls."
+     },
+     {
+      "id": "73217998",
+      "title": "18 US troops killed, 447 wounded in Iran War. How that compares to past conflicts",
+      "link": "https://www.mynbc5.com/article/us-military-deaths-injuries-hostile-action/73217998",
+      "ts": "2026-07-21T19:43:00+00:00",
+      "summary": "In the past week, two service members were killed in an attack on an air base in Jordan, and a third soldier was killed during a controlled detonation of an Iranian drone."
+     },
+     {
+      "id": "73220239",
+      "title": "Tropical Storm Bertha is expected to bring heavy rain, flooding along the Gulf Coast",
+      "link": "https://www.mynbc5.com/article/tropical-storm-bertha-gulf-coast/73220239",
+      "ts": "2026-07-21T19:35:00+00:00",
+      "summary": "Tropical Storm Bertha is expected to weaken in the Gulf of Mexico as it chugs closer to the U.S. But forecasters say it still could bring coastal flooding and heavy rain from the Florida Panhandle to Louisiana."
+     },
+     {
+      "id": "73218191",
+      "title": "Big Bear bald eagle Jackie rescued by wildlife officials after fight with other eagles",
+      "link": "https://www.mynbc5.com/article/big-bear-bald-eagle-jackie-fight/73218191",
+      "ts": "2026-07-21T19:08:00+00:00",
+      "summary": "A member of the beloved Big Bear bald eagle family was rescued by wildlife officials after she was involved in a fight with other eagles."
+     },
+     {
+      "id": "73220266",
+      "title": "ESPN starts layoffs tied to NFL Network acquisition, memo says",
+      "link": "https://www.mynbc5.com/article/espn-layoffs-nfl-network-takeover-disney-cuts/73220266",
+      "ts": "2026-07-21T18:39:00+00:00",
+      "summary": "ESPN is undergoing a significant round of layoffs for the first time in three years after taking over NFL Network in April."
      },
      {
       "id": "73220142",
@@ -1349,97 +1405,6 @@
       "link": "https://www.mynbc5.com/article/michael-emmanuel-swinton-killed-iraq-iran/73202335",
       "ts": "2026-07-21T17:24:00+00:00",
       "summary": "A U.S. service member killed Saturday during a “controlled detonation” of an Iranian drone has been identified."
-     },
-     {
-      "id": "71866359",
-      "title": "Laptops, smartphones and even cars are getting more expensive. Here's why",
-      "link": "https://www.mynbc5.com/article/prices-electronics-rise-see-change-microchip-memory-ram/71866359",
-      "ts": "2026-07-21T17:12:00+00:00",
-      "summary": "Prices generally decrease as technology is made more accessible for mass consumption. Now, our electronics are getting more expensive, and the forecast shows it's only going to get worse."
-     },
-     {
-      "id": "73219311",
-      "title": "Man with Parkinson's challenges himself to walk 100,000 steps in one day",
-      "link": "https://www.mynbc5.com/article/iowa-man-parkinsons-100000-step-challenge/73219311",
-      "ts": "2026-07-21T16:57:00+00:00",
-      "summary": "\"The more I move voluntarily, the less I move involuntarily.\" | A 74-year-old Iowa man with Parkinson's disease set out to walk 100,000 steps in one day to reach a personal milestone and inspire others."
-     },
-     {
-      "id": "73218862",
-      "title": "Video shows moment garbage truck exploded, injuring worker",
-      "link": "https://www.mynbc5.com/article/video-garbage-truck-explosion-injures-worker/73218862",
-      "ts": "2026-07-21T16:28:00+00:00",
-      "summary": "A sanitation worker in Milwaukee was hospitalized when oxygen tanks that were disposed of improperly exploded in a garbage truck."
-     },
-     {
-      "id": "73218397",
-      "title": "21-year old Bright Beginnings employee to appear in court for child abuse",
-      "link": "https://www.mynbc5.com/article/21-year-old-daycare-worker-court-child-abuse/73218397",
-      "ts": "2026-07-21T16:27:00+00:00",
-      "summary": "A 21-year old daycare worker from Northern New York is scheduled to appear in court, to face child abuse charges. Dillion Bronson is facing charges of assault, child endangerment, and failure to report."
-     },
-     {
-      "id": "73209929",
-      "title": "‘Godzilla vs. Kong’ child star dead at 18 following Maryland car crash",
-      "link": "https://www.mynbc5.com/article/kaylee-hottle-maryland-car-crash-dead-18/73209929",
-      "ts": "2026-07-21T16:26:00+00:00",
-      "summary": "Kaylee Hottle, a deaf actress best known for her work in two “Godzilla” films, has died. She was 18."
-     },
-     {
-      "id": "73202719",
-      "title": "Pro boxer killed after deputies say suspect reversed vehicle, hitting her on bike",
-      "link": "https://www.mynbc5.com/article/boxer-hannah-rapp-killed-texas/73202719",
-      "ts": "2026-07-21T16:13:00+00:00",
-      "summary": "A rising professional boxer was killed in Texas after a man reportedly reversed his vehicle and struck her on a bicycle. Hannah Rapp was 26 years old."
-     },
-     {
-      "id": "73173005",
-      "title": "Man named on FBI's Most Wanted list arrested in Vermont while trying to break into home",
-      "link": "https://www.mynbc5.com/article/nitish-kaushal-arrested-fbi-vermont/73173005",
-      "ts": "2026-07-21T16:12:00+00:00",
-      "summary": "Nitish Kaushal, accused of murders, kidnappings, and assaults for a criminal group, was arrested by border agents in Vermont, the FBI said."
-     },
-     {
-      "id": "73218047",
-      "title": "More than 270 acres of land restored to Abenaki tribe in Cabot, Peacham",
-      "link": "https://www.mynbc5.com/article/land-restored-abenaki-tribe-cabot-peacham/73218047",
-      "ts": "2026-07-21T16:06:00+00:00",
-      "summary": "The New England Annual Conference of The United Methodist Church formally deeded a 270.5 -acre plot of land that was the former Covenant Hills Christian Camp back to the Nulhegan Band of the Coosuk Abenaki Nation this week"
-     },
-     {
-      "id": "71839763",
-      "title": "Energy bill high? Here’s how you can lower it",
-      "link": "https://www.mynbc5.com/article/how-to-save-money-on-energy-bill/71839763",
-      "ts": "2026-07-21T15:37:00+00:00",
-      "summary": "What really contributes to a high energy bill and practical tips to help you save."
-     },
-     {
-      "id": "73218415",
-      "title": "VIDEO: Ohio deputies wrangle snake from resident's bedroom",
-      "link": "https://www.mynbc5.com/article/butler-county-snake-bedroom-video-home/73218415",
-      "ts": "2026-07-21T15:33:00+00:00",
-      "summary": "Deputies in Ohio were called to a home to wrangle a snake | \"Our deputies don't just catch bad guys — we catch anything that slithers, crawls, moos, baas or bucks.\""
-     },
-     {
-      "id": "73203101",
-      "title": "Power of an American passport slid dramatically over past 20 years",
-      "link": "https://www.mynbc5.com/article/american-passport-rankings-power-2026/73203101",
-      "ts": "2026-07-21T15:03:00+00:00",
-      "summary": "In 2006, a United States passport was the ultimate ticket to the world. Twenty years later, 36 nations' passports have surpassed it."
-     },
-     {
-      "id": "73207379",
-      "title": "Wreckage of Pan Am plane found 74 years after it crashed off Puerto Rico",
-      "link": "https://www.mynbc5.com/article/pan-am-clipper-endeavor-wreckage-found-puerto-rico/73207379",
-      "ts": "2026-07-21T14:55:00+00:00",
-      "summary": "74 years after a Pan Am flight crashed into the water off Puerto Rico, costing 52 passengers their lives, an aviation search team found the wreckage."
-     },
-     {
-      "id": "73191905",
-      "title": "Pilot rescued by residents after small plane crash in Orleans County",
-      "link": "https://www.mynbc5.com/article/morgan-vermont-plane-crash-rescue/73191905",
-      "ts": "2026-07-21T14:55:00+00:00",
-      "summary": "A Vermont pilot is safe after he crashed his small plane in a lake in Orleans County and was rescued by neighbors, Vermont State Police said."
      }
     ]
    },
