@@ -856,6 +856,13 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
+      "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over autos, alcohol and cheese",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
+      "ts": "2026-07-21T01:03:36+00:00",
+      "summary": "The new 50% tariffs would exclude energy products, potash, fish and critical minerals, but they would include goods that had previously been protected from import taxes by the United States-Mexico-Canada Agreement."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-20/citizens-bank-ends-relationship-with-ice-prison-companies-after-months-of-protest",
       "title": "Citizens Bank ends relationship with ICE prison companies after months of protest",
       "link": "https://www.vermontpublic.org/local-news/2026-07-20/citizens-bank-ends-relationship-with-ice-prison-companies-after-months-of-protest",
@@ -931,18 +938,25 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
       "ts": "2026-07-17T09:00:00+00:00",
       "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
-      "title": "Vermont not making the grade on educating students with disabilities, feds say",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-16/vermont-not-making-the-grade-on-educating-students-with-disabilities-feds-say",
-      "ts": "2026-07-16T21:13:48+00:00",
-      "summary": "Vermont is one of four states that “needs intervention” to come into compliance with a federal law that governs special education, and it could face financial sanctions if it doesn't improve academic proficiency among students with disabilities."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "4Y6BGI5I35H65AJUJTXXF2SHMQ",
+      "title": "United Methodist Church returns 270 acres to Nulhegan Band of Coosuk Abenaki Nation",
+      "link": "https://www.wcax.com/2026/07/21/united-methodist-church-returns-270-acres-nulhegan-band-coosuk-abenaki-nation/",
+      "ts": "2026-07-21T03:36:43+00:00",
+      "summary": "The United Methodist Church has returned 270 acres of land to the Nulhegan Band of Coosuk Abenaki Nation."
+     },
+     {
+      "id": "D5DTFNPJVVH6JFZLW3FYCMUMC4",
+      "title": "Shelburne brothers make Vermont history at national Invention Convention",
+      "link": "https://www.wcax.com/2026/07/21/shelburne-brothers-make-vermont-history-national-invention-convention/",
+      "ts": "2026-07-21T03:02:57+00:00",
+      "summary": "Two brothers from Shelburne are making Vermont history in the world of young inventors."
+     },
      {
       "id": "7GLJ42EQZBBXNF7FWOWISE2IN4",
       "title": "Chittenden County sheriff apologizes for brother’s transphobic post targeting primary opponent",
@@ -1278,25 +1292,60 @@
       "link": "https://www.wcax.com/2026/07/17/pets-with-potential-meet-kahuna-emma-cleo-rikki-devon-rockette/",
       "ts": "2026-07-17T21:10:16+00:00",
       "summary": "This week’s Pets with Potential come from The Humane Society of Chittenden County in South Burlington."
-     },
-     {
-      "id": "ECTICYMQWZEW5LCHF6CHH65QEE",
-      "title": "New Vermont State University president agrees with campus merger",
-      "link": "https://www.wcax.com/2026/07/17/new-vermont-state-university-president-agrees-with-campus-merger/",
-      "ts": "2026-07-17T21:09:59+00:00",
-      "summary": "Sherry Kollmann is preparing for her first school year as president of Vermont State University"
-     },
-     {
-      "id": "XWF2WPPPFBDUFMWNVCKG7LZDNY",
-      "title": "2 children hurt in Smuggs’ pool crash; driver charged with DUI, police say",
-      "link": "https://www.wcax.com/2026/07/17/2-children-hurt-smuggs-pool-crash-driver-charged-with-dui-police-say/",
-      "ts": "2026-07-17T21:09:45+00:00",
-      "summary": "New court documents show two children were hurt when a 20-year-old New Jersey woman drove an SUV into a crowded pool Monday."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73197994",
+      "title": "Powerball ticket sales begin in the United Kingdom",
+      "link": "https://www.mynbc5.com/article/powerball-ticket-sales-united-kingdom/73197994",
+      "ts": "2026-07-21T04:28:00+00:00",
+      "summary": "Powerball ticket sales in the United Kingdom will begin Tuesday, allowing players there to compete for the same massive jackpots as U.S. players"
+     },
+     {
+      "id": "73196842",
+      "title": "Clubhouse Commons: A new third space for teens and young adults in Montpelier",
+      "link": "https://www.mynbc5.com/article/youth-space-montpelier-nightlife-summer/73196842",
+      "ts": "2026-07-21T02:52:00+00:00",
+      "summary": "Montpelier is getting a one-of-a-kind space designed for youth, by youth. Clubhouse Commons is hoping to open by mid-August."
+     },
+     {
+      "id": "73183683",
+      "title": "Another tanker attacked in the Strait of Hormuz as US attacks Iran for a 10th consecutive night",
+      "link": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
+      "ts": "2026-07-21T02:26:00+00:00",
+      "summary": "The United States military said late Monday it was carrying out its 10th consecutive night of strikes on Iran in a push to reopen the Strait of Hormuz."
+     },
+     {
+      "id": "72778544",
+      "title": "Family disputes FBI drug claim after fatal ICE shooting of Lorenzo Salgado Araujo",
+      "link": "https://www.mynbc5.com/article/houston-ice-shooting-salt-not-drugs-lorenzo-salgado-araujo/72778544",
+      "ts": "2026-07-21T02:21:00+00:00",
+      "summary": "After a deadly Houston ICE shooting, the family says the substance in the van was likely salt — not the drugs the FBI suspected."
+     },
+     {
+      "id": "73194380",
+      "title": "Officials sought phone records of NYT journalists and their relatives in an effort to unmask sources",
+      "link": "https://www.mynbc5.com/article/phone-records-nyt-journalists-relatives-sources/73194380",
+      "ts": "2026-07-21T01:37:00+00:00",
+      "summary": "Officials sought phone records of NYT journalists and their relatives in an effort to unmask sources"
+     },
+     {
+      "id": "73197011",
+      "title": "Forensic genealogy solves 246-year-old mystery of Revolutionary War soldier",
+      "link": "https://www.mynbc5.com/article/revolutionary-war-soldier-identified-246-years-maryland-gettysburg-ties/73197011",
+      "ts": "2026-07-21T01:06:00+00:00",
+      "summary": "The remains of Private John Pumphrey, a teenage soldier who fought in the Revolutionary War, have been identified after 246 years. Here's what we know about him."
+     },
+     {
+      "id": "73196601",
+      "title": "Trump administration opens investigation into Harvard's financial aid for international students",
+      "link": "https://www.mynbc5.com/article/trump-investigation-harvard-financial-aid-international-students/73196601",
+      "ts": "2026-07-21T01:06:00+00:00",
+      "summary": "The Justice Department is investigating whether Harvard University is allowing Chinese donors to create scholarships that exclude American students."
+     },
      {
       "id": "73194381",
       "title": "FIFA investigates Argentina players confronting Spain's on-field World Cup celebrations",
@@ -1387,55 +1436,6 @@
       "link": "https://www.mynbc5.com/article/benson-vermont-truck-crash/73194407",
       "ts": "2026-07-20T21:29:00+00:00",
       "summary": "A tractor-trailer crash closed Vermont Route 22A in Benson for several hours on Friday after the vehicle blocked both lanes of the roadway."
-     },
-     {
-      "id": "73195548",
-      "title": "Burlington City Arts clarifies cost of new art installations on Main Street",
-      "link": "https://www.mynbc5.com/article/bca-cost-art-installations-main-street/73195548",
-      "ts": "2026-07-20T21:16:00+00:00",
-      "summary": "Four new art installations on Burlington’s Main Street are getting a lot of attention. Now, some online are asking questions about the project’s costs."
-     },
-     {
-      "id": "73193208",
-      "title": "Does vinegar kill cyclospora? Answering your questions about produce safety",
-      "link": "https://www.mynbc5.com/article/what-kills-cyclospora-produce-safety/73193208",
-      "ts": "2026-07-20T21:14:00+00:00",
-      "summary": "Does vinegar kill cyclospora? Are frozen fruits safer? Here are answers to your questions as the search for the cyclosporiasis outbreak's source continues."
-     },
-     {
-      "id": "73194483",
-      "title": "FDA identifies false-positive result, clarifies source of Cyclospora outbreak",
-      "link": "https://www.mynbc5.com/article/fda-false-positive-source-cyclospora-outbreak/73194483",
-      "ts": "2026-07-20T21:06:00+00:00",
-      "summary": "The Food and Drug Administration (FDA) is walking back its initial confirmation of the nationwide spread of Cyclospora, though the suspected main source of the contamination hasn't changed."
-     },
-     {
-      "id": "73191905",
-      "title": "Pilot rescued by residents after small plane crash in Orleans County",
-      "link": "https://www.mynbc5.com/article/morgan-vermont-plane-crash-rescue/73191905",
-      "ts": "2026-07-20T21:06:00+00:00",
-      "summary": "A Vermont pilot is safe after he crashed his small plane in a lake in Orleans County and was rescued by neighbors, Vermont State Police said."
-     },
-     {
-      "id": "73183683",
-      "title": "US military says it's carrying out its 10th consecutive night of strikes on Iran",
-      "link": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
-      "ts": "2026-07-20T20:56:00+00:00",
-      "summary": "The United States military said late Monday it was carrying out its 10th consecutive night of strikes on Iran in a push to reopen the Strait of Hormuz."
-     },
-     {
-      "id": "73193014",
-      "title": "Stowe Fire Department welcomes Austrian firefighter to exchange ideas for better community safety",
-      "link": "https://www.mynbc5.com/article/stowe-fire-austrian-firefighter/73193014",
-      "ts": "2026-07-20T20:47:00+00:00",
-      "summary": "Four years after Gov. Phil Scott's initiative with the Ambassador to Austria, the Stowe Fire Department welcomed an Austrian firefighter on Monday to see how both departments can better serve their communities."
-     },
-     {
-      "id": "73180018",
-      "title": "Man accused of threatening Burlington firefighter, attacking woman in court",
-      "link": "https://www.mynbc5.com/article/man-arrested-assault-threatening-burlington-firefighter/73180018",
-      "ts": "2026-07-20T20:34:00+00:00",
-      "summary": "Burlington Police took a man into custody on Friday after he allegedly assaulted a woman and threatened a firefighter with a knife."
      }
     ]
    },
