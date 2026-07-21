@@ -3,7 +3,7 @@
   "alerts": [],
   "forecast_flag": {
    "day": "2026-07-21",
-   "text": "Tuesday: A chance of rain showers between 11am and 1pm, then a slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms"
+   "text": "Today: A chance of rain showers between 11am and 1pm, then a slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms"
   }
  },
  "beach-status": {
@@ -642,6 +642,13 @@
    "vtdigger": {
     "items": [
      {
+      "id": "https://vtdigger.org/?p=651688",
+      "title": "Why I came to VTDigger",
+      "link": "https://vtdigger.org/2026/07/21/why-i-came-to-vtdigger/",
+      "ts": "2026-07-21T10:00:00+00:00",
+      "summary": "I have spent my career in Vermont news. Here's why I believe this newsroom matters more than ever. Read the story on VTDigger here: Why I came to VTDigger ."
+     },
+     {
       "id": "https://vtdigger.org/?p=651766",
       "title": "A New York paper mill is closing part of its operation. Vermont loggers are sounding the alarm.",
       "link": "https://vtdigger.org/2026/07/20/a-new-york-paper-mill-is-closing-part-of-its-operation-vermont-loggers-are-sounding-the-alarm/",
@@ -843,18 +850,18 @@
       "link": "https://vtdigger.org/2026/07/14/vermonts-kaiden-mccarthy-picked-in-second-round-of-mlb-draft-by-atlanta-braves/",
       "ts": "2026-07-14T22:11:55+00:00",
       "summary": "The hard-throwing right-handed pitcher from Chester was the highest draft choice ever for a Vermont baseball player. Read the story on VTDigger here: Vermont’s Kaiden McCarthy picked in second round of MLB draft by Atlanta Braves ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651312",
-      "title": "Washington County bus service looks to turn a corner with switch from beleaguered Green Mountain Transit",
-      "link": "https://vtdigger.org/2026/07/14/washington-county-bus-service-looks-to-turn-a-corner-with-switch-from-beleaguered-green-mountain-transit/",
-      "ts": "2026-07-14T21:17:22+00:00",
-      "summary": "The new operator, Tri-Valley Transit, specializes in serving rural areas. Existing schedules, drivers and staff are expected to remain the same. Read the story on VTDigger here: Washington County bus service looks to turn a corner with switch from beleaguered Green Mountain Transit ."
      }
     ]
    },
    "vermont-public": {
     "items": [
+     {
+      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
+      "title": "LIVE: Vermont Public's 2026 Democratic primary debate for lieutenant governor",
+      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
+      "ts": "2026-07-21T09:00:00+00:00",
+      "summary": "Mikaela Lefrak will moderate a debate between Esther Charlestin, Molly Gray and Ryan McLaren. Tune in live at noon on Vermont Public Radio or YouTube."
+     },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
       "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over autos, alcohol and cheese",
@@ -924,13 +931,6 @@
       "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-17/vermonts-prisons-not-as-staffed-as-we-want-to-be-says-corrections-commissioner",
       "ts": "2026-07-17T12:24:04+00:00",
       "summary": "The average vacancy rate for security staff hovers around 20 percent."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "title": "Hundreds of acres conserved across Vermont this summer",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/hundreds-acres-conserved-across-vermont-this-summer",
-      "ts": "2026-07-17T09:00:00+00:00",
-      "summary": "State officials and conservation organizations say the parcels will help bolster flood resilience in village centers and protect critical wildlife corridors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-17/musician-mikahely-shares-traditional-malagasy-rhythms",
@@ -1298,6 +1298,48 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73196156",
+      "title": "More humid as showers and storms return Tuesday",
+      "link": "https://www.mynbc5.com/article/more-humid-as-showers-and-storms-return-tuesday-07-21-26/73196156",
+      "ts": "2026-07-21T10:23:00+00:00",
+      "summary": "Few strong to severe storms possible, especially in New York; additional showers Wednesday"
+     },
+     {
+      "id": "73199649",
+      "title": "New documents detail rape charges against the Tate brothers in the UK. Here’s what we know",
+      "link": "https://www.mynbc5.com/article/tate-brothers-rape-charges-uk/73199649",
+      "ts": "2026-07-21T10:16:00+00:00",
+      "summary": "Newly unsealed court documents reveal more details from prosecutors about the latest sex-crime charges Andrew and Tristan Tate are facing, including rape and sex trafficking."
+     },
+     {
+      "id": "73183683",
+      "title": "US strikes Iran for 10th consecutive night as Tehran strikes tanker in the Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
+      "ts": "2026-07-21T09:48:00+00:00",
+      "summary": "The United States military said late Monday it was carrying out its 10th consecutive night of strikes on Iran in a push to reopen the Strait of Hormuz."
+     },
+     {
+      "id": "73200174",
+      "title": "Could the SEC really break away from NCAA?",
+      "link": "https://www.mynbc5.com/article/could-the-sec-really-break-away-from-ncaa/73200174",
+      "ts": "2026-07-21T09:34:00+00:00",
+      "summary": "Could the SEC really break away from NCAA? Commissioner Greg Sankey says conversations are real, but that's not what they want."
+     },
+     {
+      "id": "73199539",
+      "title": "Four deaths reported in New York City Legionnaires’ disease cluster",
+      "link": "https://www.mynbc5.com/article/new-york-city-legionnaires-disease-outbreak/73199539",
+      "ts": "2026-07-21T09:10:00+00:00",
+      "summary": "A fourth person has died in connection with a cluster of Legionnaires’ disease cases in New York City, city officials said."
+     },
+     {
+      "id": "73199659",
+      "title": "Not just Taco Bell: Parasite outbreak tied to lettuce dents restaurant traffic",
+      "link": "https://www.mynbc5.com/article/cyclospora-taco-bell-restaurant-traffic/73199659",
+      "ts": "2026-07-21T08:45:00+00:00",
+      "summary": "Americans are making fewer visits to food chains with lettuce-heavy menus as concerns mount over the cyclospora outbreak."
+     },
+     {
       "id": "73198299",
       "title": "Lebanon's president will meet with Trump to push for Israeli troop withdrawal",
       "link": "https://www.mynbc5.com/article/lebanons-president-trump-israeli-troop-withdrawal/73198299",
@@ -1324,13 +1366,6 @@
       "link": "https://www.mynbc5.com/article/youth-space-montpelier-nightlife-summer/73196842",
       "ts": "2026-07-21T02:52:00+00:00",
       "summary": "Montpelier is getting a one-of-a-kind space designed for youth, by youth. Clubhouse Commons is hoping to open by mid-August."
-     },
-     {
-      "id": "73183683",
-      "title": "Another tanker attacked in the Strait of Hormuz as US attacks Iran for a 10th consecutive night",
-      "link": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
-      "ts": "2026-07-21T02:26:00+00:00",
-      "summary": "The United States military said late Monday it was carrying out its 10th consecutive night of strikes on Iran in a push to reopen the Strait of Hormuz."
      },
      {
       "id": "72778544",
@@ -1401,41 +1436,6 @@
       "link": "https://www.mynbc5.com/article/new-hands-on-learning-program-is-exposing-high-school-students-to-medical-professions-this-summer/73195545",
       "ts": "2026-07-20T22:44:00+00:00",
       "summary": "Southern Vermont AHEC's MedQuest program is introducing students to careers in healthcare with workshops led by current med school students and opportunities to shadow working clinicians"
-     },
-     {
-      "id": "73196156",
-      "title": "More humid, with scattered showers and afternoon storms Tuesday",
-      "link": "https://www.mynbc5.com/article/more-humid-with-scattered-showers-and-afternoon-storms-tuesday-07-20-26/73196156",
-      "ts": "2026-07-20T22:35:00+00:00",
-      "summary": "Few strong to severe storms possible, especially in New York; additional showers Wednesday"
-     },
-     {
-      "id": "73195868",
-      "title": "President Trump vows Iran will 'pay many times over' after US service members killed",
-      "link": "https://www.mynbc5.com/article/president-trump-vows-iran-will-pay-many-times-over-after-us-service-members-killed/73195868",
-      "ts": "2026-07-20T22:33:00+00:00",
-      "summary": "President Donald Trump has promised a stronger military response after three U.S. service members were killed in Iran-related incidents over the weekend, as tensions between the U.S. and Iran escalate."
-     },
-     {
-      "id": "73194074",
-      "title": "Alaska wants to seize a pilot's plane over a 6-pack of beer. The Supreme Court will hear his case",
-      "link": "https://www.mynbc5.com/article/supreme-court-alaska-pilot-plane-seizure-beer/73194074",
-      "ts": "2026-07-20T22:16:00+00:00",
-      "summary": "The Supreme Court has agreed to review an Alaska bush pilot's claims that state authorities have tried to illegally seize his $95,000 airplane after a passenger brought a six-pack of beer on a flight bound for a dry village"
-     },
-     {
-      "id": "73195921",
-      "title": "Nearly 8-foot alligator walks up to Florida family's front porch | Video",
-      "link": "https://www.mynbc5.com/article/florida-family-finds-8-foot-alligator-front-porch/73195921",
-      "ts": "2026-07-20T21:53:00+00:00",
-      "summary": "\"Tail was bouncing against the door\" | A Florida family got an unwelcome visitor — a nearly 8-foot alligator on their front porch."
-     },
-     {
-      "id": "73195702",
-      "title": "Trump imposes 50% tariffs on Canadian goods",
-      "link": "https://www.mynbc5.com/article/trump-50-percent-tariffs-canadian-goods/73195702",
-      "ts": "2026-07-20T21:33:00+00:00",
-      "summary": "President Donald Trump has imposed 50% tariffs on most Canadian goods, declaring that Canada has unfairly discriminated against American autos, alcohol and dairy products."
      }
     ]
    },
