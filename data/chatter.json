@@ -1,9 +1,273 @@
 {
-  "updated": "2026-07-20T23:34:30+00:00",
+  "updated": "2026-07-21T12:10:29+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "news": [
+    {
+      "title": "Top military officials testifying on Capitol Hill to ask Congress for more funding as Iran War escalates",
+      "url": "https://www.mynbc5.com/article/top-military-officials-asking-for-more-money-iran-war-escalates/73200235",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T11:47:11+00:00",
+      "summary": "Defense Secretary Pete Hegseth and top military officials are asking Congress for $67 billion in war funding as the U.S. intensifies its operations in Iran, with 17 American troops killed so far."
+    },
+    {
+      "title": "‘One in 15 million’: Woman gives birth to identical quadruplets",
+      "url": "https://www.mynbc5.com/article/identical-quadruplets-born-in-austria-very-rare/73200876",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T11:47:11+00:00",
+      "summary": "A woman has given birth to rare identical quadruplets, a feat so uncommon that doctors say the odds of conceiving them naturally are about one in 15 million."
+    },
+    {
+      "title": "Region’s gas prices on the rise again",
+      "url": "https://www.wcax.com/2026/07/21/regions-gas-prices-rise-again/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T11:45:32+00:00",
+      "summary": "As war escalates between the U.S. and Iran, gas prices in Vermont have once again risen above $4 a gallon for much of the state"
+    },
+    {
+      "title": "Police search for credit card thieves",
+      "url": "https://www.wcax.com/2026/07/21/police-search-credit-card-thieves/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T11:45:32+00:00",
+      "summary": "Vermont State Police are searching for who is responsible for the theft of debit and credit cards from cars in the Waterbury area"
+    },
+    {
+      "title": "New documents detail rape charges against the Tate brothers in the UK. Here’s what we know",
+      "url": "https://www.mynbc5.com/article/tate-brothers-rape-charges-uk/73199649",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T10:47:11+00:00",
+      "summary": "Newly unsealed court documents reveal more details from prosecutors about the latest sex-crime charges Andrew and Tristan Tate are facing, including rape and sex trafficking."
+    },
+    {
+      "title": "Why I came to VTDigger",
+      "url": "https://vtdigger.org/2026/07/21/why-i-came-to-vtdigger/",
+      "outlet": "VTDigger",
+      "domain": "vtdigger.org",
+      "published": "2026-07-21T10:06:27+00:00",
+      "summary": "VTDigger reporters Shaun Robinson and Ethan Weinstein work in the cafeteria at the Statehouse in Montpelier on Friday, January 16, 2026. Photo by Glenn Russell/VTDigger Dear Reader, When I accepted…"
+    },
+    {
+      "title": "Could the SEC really break away from NCAA?",
+      "url": "https://www.mynbc5.com/article/could-the-sec-really-break-away-from-ncaa/73200174",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T09:48:01+00:00",
+      "summary": "Could the SEC really break away from NCAA? Commissioner Greg Sankey says conversations are real, but that's not what they want."
+    },
+    {
+      "title": "Four deaths reported in New York City Legionnaires’ disease cluster",
+      "url": "https://www.mynbc5.com/article/new-york-city-legionnaires-disease-outbreak/73199539",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T09:48:01+00:00",
+      "summary": "A fourth person has died in connection with a cluster of Legionnaires’ disease cases in New York City, city officials said."
+    },
+    {
+      "title": "Not just Taco Bell: Parasite outbreak tied to lettuce dents restaurant traffic",
+      "url": "https://www.mynbc5.com/article/cyclospora-taco-bell-restaurant-traffic/73199659",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T09:48:01+00:00",
+      "summary": "Americans are making fewer visits to food chains with lettuce-heavy menus as concerns mount over the cyclospora outbreak."
+    },
+    {
+      "title": "LIVE: Vermont Public's 2026 Democratic primary debate for lieutenant governor",
+      "url": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
+      "outlet": "Vermont Public",
+      "domain": "vermontpublic.org",
+      "published": "2026-07-21T09:22:04+00:00",
+      "summary": "Mikaela Lefrak will moderate a debate between Esther Charlestin, Molly Gray and Ryan McLaren. Tune in live at noon on Vermont Public Radio or YouTube."
+    },
+    {
+      "title": "A historic season for the Women in Green",
+      "url": "https://www.vermontpublic.org/podcast/the-frequency-daily-vermont-news/2026-07-21/a-historic-season-for-the-women-in-green",
+      "outlet": "Vermont Public",
+      "domain": "vermontpublic.org",
+      "published": "2026-07-21T09:05:59+00:00",
+      "summary": "A group of neighbors rescued a pilot after his plane crashed in a lake, we wrap up a big year in women’s soccer and Vermont’s making it easier for small breweries to distribute their beer."
+    },
+    {
+      "title": "Lebanon's president will meet with Trump to push for Israeli troop withdrawal",
+      "url": "https://www.mynbc5.com/article/lebanons-president-trump-israeli-troop-withdrawal/73198299",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T06:48:59+00:00",
+      "summary": "The goal is to bring long-term calm to Lebanon after a war between Israel and the militant Hezbollah group."
+    },
+    {
+      "title": "Hurricane Fausto forms in the eastern Pacific",
+      "url": "https://www.mynbc5.com/article/hurricane-fausto-eastern-pacific/73198209",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T05:49:03+00:00",
+      "summary": "Tropical Storm Bertha drifts toward land as Hurricane Fausto forms in the eastern Pacific"
+    },
+    {
+      "title": "Powerball ticket sales begin in the United Kingdom",
+      "url": "https://www.mynbc5.com/article/powerball-ticket-sales-united-kingdom/73197994",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T04:48:27+00:00",
+      "summary": "Powerball ticket sales in the United Kingdom will begin Tuesday, allowing players there to compete for the same massive jackpots as U.S. players"
+    },
+    {
+      "title": "United Methodist Church returns 270 acres to Nulhegan Band of Coosuk Abenaki Nation",
+      "url": "https://www.wcax.com/2026/07/21/united-methodist-church-returns-270-acres-nulhegan-band-coosuk-abenaki-nation/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T04:41:25+00:00",
+      "summary": "The United Methodist Church has returned 270 acres of land to the Nulhegan Band of Coosuk Abenaki Nation."
+    },
+    {
+      "title": "Clubhouse Commons: A new third space for teens and young adults in Montpelier",
+      "url": "https://www.mynbc5.com/article/youth-space-montpelier-nightlife-summer/73196842",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T03:48:02+00:00",
+      "summary": "Montpelier is getting a one-of-a-kind space designed for youth, by youth. Clubhouse Commons is hoping to open by mid-August."
+    },
+    {
+      "title": "Shelburne brothers make Vermont history at national Invention Convention",
+      "url": "https://www.wcax.com/2026/07/21/shelburne-brothers-make-vermont-history-national-invention-convention/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T03:40:18+00:00",
+      "summary": "Two brothers from Shelburne are making Vermont history in the world of young inventors."
+    },
+    {
+      "title": "Family disputes FBI drug claim after fatal ICE shooting of Lorenzo Salgado Araujo",
+      "url": "https://www.mynbc5.com/article/houston-ice-shooting-salt-not-drugs-lorenzo-salgado-araujo/72778544",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T02:48:21+00:00",
+      "summary": "After a deadly Houston ICE shooting, the family says the substance in the van was likely salt — not the drugs the FBI suspected."
+    },
+    {
+      "title": "Former top Sanders campaign aide arrested for trying to take cop’s gun during traffic stop",
+      "url": "https://vermontdailychronicle.com/former-top-sanders-campaign-tries-to-take-cops-gun-during-traffic-stop/?utm_source=rss&utm_medium=rss&utm_campaign=former-top-sanders-campaign-tries-to-take-cops-gun-during-traffic-stop",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-21T02:24:55+00:00",
+      "summary": "Sheila Healey, Lebanon PD photo By Guy Page A Montpelier woman identified as a longtime Democratic political operative in Vermont and Bernie Sanders senior campaign aide has been charged after New…"
+    },
+    {
+      "title": "Officials sought phone records of NYT journalists and their relatives in an effort to unmask sources",
+      "url": "https://www.mynbc5.com/article/phone-records-nyt-journalists-relatives-sources/73194380",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T01:48:46+00:00",
+      "summary": "Officials sought phone records of NYT journalists and their relatives in an effort to unmask sources"
+    },
+    {
+      "title": "Forensic genealogy solves 246-year-old mystery of Revolutionary War soldier",
+      "url": "https://www.mynbc5.com/article/revolutionary-war-soldier-identified-246-years-maryland-gettysburg-ties/73197011",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T01:48:46+00:00",
+      "summary": "The remains of Private John Pumphrey, a teenage soldier who fought in the Revolutionary War, have been identified after 246 years. Here's what we know about him."
+    },
+    {
+      "title": "Trump administration opens investigation into Harvard's financial aid for international students",
+      "url": "https://www.mynbc5.com/article/trump-investigation-harvard-financial-aid-international-students/73196601",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T01:48:46+00:00",
+      "summary": "The Justice Department is investigating whether Harvard University is allowing Chinese donors to create scholarships that exclude American students."
+    },
+    {
+      "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over autos, alcohol and cheese",
+      "url": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
+      "outlet": "Vermont Public",
+      "domain": "vermontpublic.org",
+      "published": "2026-07-21T01:16:19+00:00",
+      "summary": "The new 50% tariffs would exclude energy products, potash, fish and critical minerals, but they would include goods that had previously been protected from import taxes by the United…"
+    },
+    {
+      "title": "FIFA investigates Argentina players confronting Spain's on-field World Cup celebrations",
+      "url": "https://www.mynbc5.com/article/fifa-investigates-argentina-spain-world-cup-fight/73194381",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T00:48:56+00:00",
+      "summary": "FIFA has opened an investigation after Spain's celebrations on beating Argentina in the World Cup final took an ugly turn when players briefly clashed on the field."
+    },
+    {
+      "title": "Luke Skywalker's lightsaber with severed hand prop sets 'Star Wars' auction record at $3.75 million",
+      "url": "https://www.mynbc5.com/article/luke-skywalker-lightsaber-star-wars-auction-record-375-million/73196578",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T00:48:56+00:00",
+      "summary": "One legendary duel, one record-breaking price: Luke Skywalker's lightsaber with severed hand from \"The Empire Strikes Back\" has become the most expensive film item from the franchise ever sold at…"
+    },
+    {
+      "title": "Jimothy, a Seattle raccoon, is inspiring fan accounts and memes",
+      "url": "https://www.mynbc5.com/article/jimothy-raccoon-viral-video/73196334",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-21T00:48:56+00:00",
+      "summary": "An oddly-shaped raccoon has won over hearts on the internet. Here's what we know about him."
+    },
+    {
+      "title": "Beta helps achieve first hybrid electric flight above 30,000 feet",
+      "url": "https://www.wcax.com/2026/07/20/beta-technologies-helps-achieve-first-hybrid-electric-flight-above-30000-feet/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T00:38:41+00:00",
+      "summary": "Beta showcased the collaboration Monday at the Farnborough International Airshow in England."
+    },
+    {
+      "title": "Constable man charged with grand larceny, allegedly depositing checks twice",
+      "url": "https://www.wcax.com/2026/07/20/malone-man-charged-with-grand-larceny-allegedly-depositing-checks-twice/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-21T00:38:41+00:00",
+      "summary": "New York State Police arrested a Constable man on July 19, 2026, and charged him with grand larceny and scheme to defraud after investigators say he double-deposited checks drawn from a former…"
+    },
+    {
+      "title": "Vermont clinicians urge Scott to support maternity care",
+      "url": "https://vermontbiz.com/news/2026/july/21/vermont-clinicians-urge-scott-support-maternity-care",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-20T23:48:48+00:00",
+      "summary": "Vermont clinicians urge Scott to support maternity care tim Tue, 07/21/2026 - 07:25 Vermont Business Magazine Health care organizations representing over 3,000 physicians, midwives, nurse…"
+    },
+    {
+      "title": "Vermont Attorney General secures protections for federal funding in multistate lawsuit ruling",
+      "url": "https://vermontbiz.com/news/2026/july/21/vermont-attorney-general-secures-protections-federal-funding-multistate-lawsuit",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-20T23:48:48+00:00",
+      "summary": "Vermont Attorney General secures protections for federal funding in multistate lawsuit ruling tim Tue, 07/21/2026 - 04:21 Vermont Business Magazine A federal judge ruled last Friday in the favor of…"
+    },
+    {
+      "title": "AGO announces sentences in two child sexual abuse material cases",
+      "url": "https://vermontbiz.com/news/2026/july/21/ago-announces-sentences-two-child-sexual-abuse-material-cases",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-20T23:48:48+00:00",
+      "summary": "AGO announces sentences in two child sexual abuse material cases tim Tue, 07/21/2026 - 03:17 Vermont Business Magazine The Attorney General's Office announced today that two defendants were…"
+    },
+    {
+      "title": "Welch joins King, 37 Senators in in demanding civilian protections after killings in Maine and Texas",
+      "url": "https://vermontbiz.com/news/2026/july/20/welch-joins-king-37-senators-demanding-civilian-protections-after-killings-maine",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-20T23:48:48+00:00",
+      "summary": "Welch joins King, 37 Senators in in demanding civilian protections after killings in Maine and Texas tim Mon, 07/20/2026 - 19:28 Following tragic killings in Maine and Texas last week, Senators call…"
+    },
+    {
+      "title": "After nearly 250 years, final Revolutionary War cannon fragment recovered from Lake Champlain",
+      "url": "https://www.mynbc5.com/article/after-nearly-250-years-final-revolutionary-war-cannon-fragment-recovered-from-lake-champlain/73194997",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-20T23:48:29+00:00",
+      "summary": "Researchers say the discovery marks the end of a decades-long search for the final major missing piece of a cannon that exploded during the Battle of Valcour Island in 1776."
+    },
     {
       "title": "New hands-on learning program is exposing high school students to medical professions this summer",
       "url": "https://www.mynbc5.com/article/new-hands-on-learning-program-is-exposing-high-school-students-to-medical-professions-this-summer/73195545",
@@ -162,7 +426,7 @@
       "outlet": "WCAX",
       "domain": "wcax.com",
       "published": "2026-07-20T21:37:32+00:00",
-      "summary": "Sheriff Dan Gamelin says his brother, Francis, is not part of his re-election team and only handed out a few campaign signs."
+      "summary": "Kevin Bloom, Sheriff Dan Gamelin's primary opponent, says the apology falls short."
     },
     {
       "title": "Revolutionary War cannon fragment pulled from Lake Champlain",
@@ -939,303 +1203,10 @@
       "domain": "wcax.com",
       "published": "2026-07-20T11:31:41+00:00",
       "summary": "Troopers say mail and packages were stolen from multiple residents over several weeks"
-    },
-    {
-      "title": "In Vermont’s Democratic primary for lieutenant governor, leading candidates’ past work takes center stage",
-      "url": "https://vtdigger.org/2026/07/20/in-vermonts-democratic-primary-for-lieutenant-governor-leading-candidates-past-work-takes-center-stage/",
-      "outlet": "VTDigger",
-      "domain": "vtdigger.org",
-      "published": "2026-07-20T11:01:50+00:00",
-      "summary": "Molly Gray, left, Ryan McLaren and Esther Charlestin, democratic candidates for lt. governor, participating in a housing forum in South Burlington on Wednesday, July 15, 2026. Photos by Glenn…"
-    },
-    {
-      "title": "U.S. gas prices hit an average of $4 a gallon again as the US and Iran launch attacks",
-      "url": "https://www.mynbc5.com/article/us-gas-prices-increase-iran-war-monday/73189190",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T10:51:22+00:00",
-      "summary": "U.S. gas prices jumped to an average of $4 a gallon again Monday as the U.S. and Iran launched more attacks ."
-    },
-    {
-      "title": "Tate brothers make first court appearance since arrest on rape, sex trafficking charges",
-      "url": "https://www.mynbc5.com/article/andrew-tristan-tate-miami-court/73188385",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T10:51:22+00:00",
-      "summary": "Influencer brothers Andrew and Tristan Tate appeared before a federal magistrate in Miami on Monday for the first time since they were arrested to face rape and sex trafficking charges."
-    },
-    {
-      "title": "Taylor Farms lettuce cyclospora finding was a false positive, FDA now says",
-      "url": "https://www.mynbc5.com/article/taylor-farms-lettuce-cyclospora-false-positive/73186163",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T10:51:22+00:00",
-      "summary": "Testing that showed iceberg lettuce from Taylor Fresh Foods was tainted with cyclospora was actually a false positive, federal officials now say."
-    },
-    {
-      "title": "2 weeks after a Mississippi football player’s death, many questions linger",
-      "url": "https://www.mynbc5.com/article/nolan-wells-mississippi-football-player/73184402",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T09:51:28+00:00",
-      "summary": "As Nolan Wells’ family prepares to lay the 18-year-old to rest on Monday, they will do so without knowing why his young life was cut so tragically short."
-    },
-    {
-      "title": "How the South Burlington ICE raid unfolded",
-      "url": "https://www.vermontpublic.org/podcast/the-frequency-daily-vermont-news/2026-07-20/how-the-south-burlington-ice-raid-unfolded",
-      "outlet": "Vermont Public",
-      "domain": "vermontpublic.org",
-      "published": "2026-07-20T09:46:40+00:00",
-      "summary": "The state could lose federal education funding for students with disabilities; an adult day program in Windsor County shutters; severe staffing shortages at Vermont’s prisons"
-    },
-    {
-      "title": "U.S. bombing of Iran expands as Tehran retaliates against the Gulf states",
-      "url": "https://www.mynbc5.com/article/iran-war-mondayunited-states-bahrain/73183683",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T08:49:56+00:00",
-      "summary": "The United States has conducted a new round of airstrikes targeting Iran after announcing the death of another American service member."
-    },
-    {
-      "title": "Marten Van Riel, Paula Lindsay win 2026 IRONMAN Lake Placid triathlon",
-      "url": "https://www.mynbc5.com/article/marten-van-riel-paula-lindsay-win-2026-ironman-lake-placid-triathlon/73181194",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T05:51:16+00:00",
-      "summary": "Both runners make history in one of triathlon's most iconic races"
-    },
-    {
-      "title": "Vermont Green FC Men's Soccer advances to USL2 Eastern Conference Finals",
-      "url": "https://www.mynbc5.com/article/vermont-green-fc-mens-soccer-advances-to-usl2-eastern-conference-finals/73181485",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T03:50:42+00:00",
-      "summary": "Vermont tallied three first half goals for second straight game leading to 4-0 win against Ocean City"
-    },
-    {
-      "title": "Highgate man cited after accidental shooting into neighboring apartment",
-      "url": "https://www.wcax.com/2026/07/20/highgate-man-cited-after-accidental-shooting-into-neighboring-apartment/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T03:26:33+00:00",
-      "summary": "Police cited a Highgate man Sunday after he said he accidentally fired a handgun into an occupied neighboring apartment."
-    },
-    {
-      "title": "Burlington police arrest 2 in drug trafficking bust",
-      "url": "https://www.wcax.com/2026/07/20/burlington-police-arrest-two-drug-trafficking-bust/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T03:26:33+00:00",
-      "summary": "Police say they arrested two men and seized illegal narcotics Sunday morning following a monthlong investigation into a drug trafficking organization operating in downtown Burlington."
-    },
-    {
-      "title": "2 men arrested in Burlington drug trafficking investigation",
-      "url": "https://www.wcax.com/2026/07/20/2-men-arrested-burlington-drug-trafficking-investigation/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T03:26:33+00:00",
-      "summary": "Police say two men pleaded not guilty to drug charges Monday after a monthlong investigation into a drug trafficking operation in downtown Burlington."
-    },
-    {
-      "title": "Thousands gather in Lake Placid for 2026 IRONMAN triathlon",
-      "url": "https://www.mynbc5.com/article/thousands-gather-in-lake-placid-for-2026-ironman-triathlon/73181149",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T02:49:41+00:00",
-      "summary": "Many from all over the world show strong support for family and loved ones"
-    },
-    {
-      "title": "Fireworks frightened this dog. Deputies helped bring her home.",
-      "url": "https://www.mynbc5.com/article/bodycam-dog-reunion-after-fireworks-scare-california/73181375",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T01:49:59+00:00",
-      "summary": "A dog named Fig ran off after fireworks and gunfire scared her, but deputies found her and brought her home after she was missing for nearly 10 days. The touching reunion was caught on body cam."
-    },
-    {
-      "title": "Keep wildfire smoke out of your home with these simple steps",
-      "url": "https://www.mynbc5.com/article/how-to-keep-home-air-clean-during-wildfires/73178977",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T01:19:13+00:00",
-      "summary": "Wildfire smoke can bring hazardous air inside your home — but experts say a few simple steps can help clean it up."
-    },
-    {
-      "title": "Rail View Dairy is the 2026 Vermont Dairy Farm of the Year",
-      "url": "https://vermontbiz.com/news/2026/july/20/rail-view-dairy-2026-vermont-dairy-farm-year",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-20T00:32:52+00:00",
-      "summary": "Rail View Dairy is the 2026 Vermont Dairy Farm of the Year tim Mon, 07/20/2026 - 08:23 The Livingston family's dairy operation in New Haven stands out for its innovative transformation of existing…"
-    },
-    {
-      "title": "New Tool to Bolster Livestock and Pultry Disease Prevention",
-      "url": "https://vermontbiz.com/news/2026/july/20/new-tool-bolster-livestock-and-pultry-disease-prevention",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-20T00:32:52+00:00",
-      "summary": "New Tool to Bolster Livestock and Pultry Disease Prevention tim Mon, 07/20/2026 - 07:37 New Tool to Bolster Livestock and Poultry Disease Prevention Every day, livestock and poultry producers put…"
-    },
-    {
-      "title": "GMP: Tour Kingdom Community Wind on July 22",
-      "url": "https://vermontbiz.com/news/2026/july/20/gmp-tour-kingdom-community-wind-july-22",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-20T00:32:52+00:00",
-      "summary": "GMP: Tour Kingdom Community Wind on July 22 tim Mon, 07/20/2026 - 05:56 Related Company Green Mountain Power Corp · Learn about wind power up close · Registration open for tour on July 22nd at 10:00…"
-    },
-    {
-      "title": "PLC deeply concerned by announcement that Finch Paper, LLC will not purchase wood",
-      "url": "https://vermontbiz.com/news/2026/july/20/plc-deeply-concerned-announcement-finch-paper-llc-will-not-purchase-wood",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-20T00:32:52+00:00",
-      "summary": "PLC deeply concerned by announcement that Finch Paper, LLC will not purchase wood tim Mon, 07/20/2026 - 03:48 Professional Logging Contractors of Maine. Glen Falls, NY – The Professional Logging…"
-    },
-    {
-      "title": "New Tool to Bolster Livestock and Poultry Disease Prevention",
-      "url": "https://vermontbiz.com/news/2026/july/20/new-tool-bolster-livestock-and-poultry-disease-prevention",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-20T00:32:52+00:00",
-      "summary": "New Tool to Bolster Livestock and Poultry Disease Prevention tim Mon, 07/20/2026 - 07:37 New Tool to Bolster Livestock and Poultry Disease Prevention Every day, livestock and poultry producers put…"
-    },
-    {
-      "title": "Chittenden Solid Waste District adds $1 drop-off fee to fund facility repairs",
-      "url": "https://www.wcax.com/2026/07/20/chittenden-solid-waste-district-adds-1-drop-off-fee-fund-facility-repairs/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T00:25:31+00:00",
-      "summary": "The Chittenden Solid Waste District has introduced a $1 entry fee at its six drop-off centers, with proceeds going toward facility repairs."
-    },
-    {
-      "title": "Memorial grows for teen killed in Burlington e-bike crash",
-      "url": "https://www.wcax.com/2026/07/19/memorial-grows-teen-killed-burlington-e-bike-crash/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T00:25:31+00:00",
-      "summary": "Community leaves flowers, notes at crash site for 16-year-old Shiloh Skalka"
-    },
-    {
-      "title": "Cornhole Club fundraises to send Vermont pro to California tournament",
-      "url": "https://www.wcax.com/2026/07/19/cornhole-club-fundraises-send-vermont-pro-california-tournament/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-20T00:25:31+00:00",
-      "summary": "The Champlain Valley Cornhole Club is raising money to send a St. Albans man to a major cornhole tournament in California after he climbed to the No. 2 ranking in the world."
-    },
-    {
-      "title": "Two Connecticut men arrested in South Burlington drug trafficking investigation",
-      "url": "https://www.mynbc5.com/article/two-connecticut-men-arrested-in-south-burlington-drug-trafficking-investigation/73181026",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T00:18:50+00:00",
-      "summary": "Two men from Connecticut were arrested after a drug trafficking investigation in Burlington."
-    },
-    {
-      "title": "Families celebrate final day of Lamoille County Field Days",
-      "url": "https://www.mynbc5.com/article/lamoille-field-days-wrap/73180329",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T00:18:50+00:00",
-      "summary": "Families celebrate another year of rides, local food and tradition at the Lamoille County Field Days."
-    },
-    {
-      "title": "Highgate man accidentally fires handgun into neighbor's apartment",
-      "url": "https://www.mynbc5.com/article/highgate-man-accidentally-fires-handgun-into-neighbors-apartment/73181014",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-20T00:18:50+00:00",
-      "summary": "A Vermont man was cited after police say he accidentally fired a gun and the bullet went into a neighboring apartment."
-    },
-    {
-      "title": "JD Vance becomes first sitting vice president in more than 150 years to welcome a newborn",
-      "url": "https://www.mynbc5.com/article/jd-vance-usha-vance-fourth-child-baby-alec-neel/73180813",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-19T22:49:27+00:00",
-      "summary": "JD Vance has become the first sitting vice president in more than 150 years to welcome a newborn. Here's what we know about their baby boy."
-    },
-    {
-      "title": "Less wind, continued sunny skies Monday",
-      "url": "https://www.mynbc5.com/article/less-wind-continued-sunny-skies-monday-7-19-26/73180819",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-19T22:49:27+00:00",
-      "summary": "Showers and storms possible both Tuesday and Wednesday"
-    },
-    {
-      "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
-      "url": "https://www.mynbc5.com/article/us-military-death-toll-iran-conflict-rises-17/73180527",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-19T22:19:30+00:00",
-      "summary": "The U.S. military reports that another service member has been killed in the conflict with Iran, bringing the total to 17"
-    },
-    {
-      "title": "Madonna, the Muppets Justin Bieber and others take World Cup stage for star-studded halftime show",
-      "url": "https://www.mynbc5.com/article/world-cup-halftime-2026/73180304",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-19T20:49:55+00:00",
-      "summary": "Madonna opened the World Cup halftime show with her 2000 dance-pop hit \"Music,\" joined by star Brazilian soccer players of yesteryear, Ronaldo and Ronaldinho"
-    },
-    {
-      "title": "Stolen mail from Vermont town found in trash bag, VSP asking for public's help",
-      "url": "https://www.mynbc5.com/article/stolen-mail-abandoned-vernon-vermont-state-police/73180110",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-19T19:50:35+00:00",
-      "summary": "Vermont State Police are asking for the public's help after mail stolen from multiple homes was found in a trash bag."
-    },
-    {
-      "title": "Burlington firefighter threatened, man arrested",
-      "url": "https://www.mynbc5.com/article/man-arrested-assault-threatening-burlington-firefighter/73180018",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-19T19:50:35+00:00",
-      "summary": "Burlington Police took a man into custody on Friday after he allegedly assaulted a woman and threatened a firefighter with a knife."
-    },
-    {
-      "title": "Panasonic toaster ovens sold on Amazon, Costco recalled nationwide",
-      "url": "https://www.mynbc5.com/article/panasonic-electric-toaster-oven-recall-amazon-costco/73179645",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-19T17:18:27+00:00",
-      "summary": "If you bought a Panasonic electric toaster oven online for about $170, check the model number — 11,480 are being recalled for a shock or fire risk."
     }
   ],
-  "topics": [
-    {
-      "id": "both-doing-gratuity",
-      "label": "Question for former staff about Mirabelle's from Main Street Era",
-      "direction": "steady",
-      "posts": 1,
-      "comments": null,
-      "last_activity": "2026-07-18T05:04:20+00:00",
-      "sources": [
-        {
-          "title": "Question for former staff about Mirabelle's from Main Street Era",
-          "url": "https://www.reddit.com/r/burlington/comments/1uzjb3a/question_for_former_staff_about_mirabelles_from/",
-          "sub": "r/burlington",
-          "when": "2026-07-18T05:04:20+00:00",
-          "comments": null
-        }
-      ]
-    }
-  ],
+  "topics": [],
   "highlights": [
-    {
-      "slot": "useful_question",
-      "slot_label": "Most useful neighbor question",
-      "title": "Tractor repair places in Northwestern VT?",
-      "url": "https://www.reddit.com/r/vermont/comments/1uzed7y/tractor_repair_places_in_northwestern_vt/",
-      "sub": "r/vermont",
-      "when": "2026-07-18T01:04:41+00:00",
-      "blurb": "I am wondering if there are any good places to get my tractor worked on somewhere in the Northwestern VT area. This past winter it…",
-      "comments": null,
-      "unverified": false
-    },
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
@@ -1272,10 +1243,10 @@
   ],
   "rough": [],
   "stats": {
-    "posts_scanned": 24,
+    "posts_scanned": 12,
     "per_source": {
-      "r/burlington": 7,
-      "r/vermont": 17
+      "r/burlington": 0,
+      "r/vermont": 12
     }
   }
 }
