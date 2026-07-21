@@ -1,61 +1,6 @@
 {
- "generated": "2026-07-21T10:35:53+00:00",
+ "generated": "2026-07-21T12:48:58+00:00",
  "events": [
-  {
-   "ts": "2026-07-14T11:01:08+00:00",
-   "category": "weather",
-   "headline": "Tonight: A slight chance of rain showers between 7pm and 8pm, then a chance of showers and thunderstorms between 8pm and 11pm, then patchy smoke and showers and thunderstorms between 11pm and 2am, then showers and thunderstorms likely",
-   "detail": "",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 2,
-   "kind": "changed"
-  },
-  {
-   "ts": "2026-07-14T11:11:12+00:00",
-   "category": "events",
-   "headline": "New event: Paddle at Delta Park",
-   "detail": "tomorrow 7 PM · Windemere Way F&W Access",
-   "url": "https://www.meetup.com/burlington-social-activites-group/events/315676203/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-14T11:11:12+00:00",
-   "category": "events",
-   "headline": "New event: Trivia at Four Quarters",
-   "detail": "Thursday 6 PM · Four Quarters Brewing",
-   "url": "https://www.meetup.com/burlington-social-activites-group/events/315677942/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-14T11:11:12+00:00",
-   "category": "events",
-   "headline": "New event: Btown Brief IRL – The Odyssey Premiere",
-   "detail": "Saturday 7 PM · Essex Cinemas",
-   "url": "https://www.meetup.com/burlington-social-activites-group/events/315677877/",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-14T11:56:46+00:00",
-   "category": "news",
-   "headline": "UVM finds new drug to fight lung cancer could be a game changer",
-   "detail": "",
-   "url": "https://www.wcax.com/2026/07/14/uvm-finds-new-drug-fight-lung-cancer-could-be-game-changer/",
-   "source": "wcax",
-   "sourceName": "WCAX",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-14T13:58:22+00:00",
    "category": "roads",
@@ -3300,6 +3245,94 @@
    "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-21T11:27:02+00:00",
+   "category": "events",
+   "headline": "New event: Trolley tours",
+   "detail": "today 9 AM · Perkins Pier",
+   "url": "https://www.helloburlingtonvt.com/event/trolley-tours/4244/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-21T11:27:02+00:00",
+   "category": "events",
+   "headline": "New event: Dinosaur Safari Exhibit",
+   "detail": "today 10 AM · ECHO, Leahy Center for Lake Champlain",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-21T11:27:02+00:00",
+   "category": "events",
+   "headline": "New event: Glass Factory and Storefront Open !!",
+   "detail": "today 10 AM · AO Glass",
+   "url": "https://www.helloburlingtonvt.com/event/glass-factory-and-storefront-open-!!/5584/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-21T11:27:02+00:00",
+   "category": "events",
+   "headline": "New event: Cruise aboard the Spirit of Ethan Allen III",
+   "detail": "today 12 PM · Spirit of Ethan Allen",
+   "url": "https://www.helloburlingtonvt.com/event/cruise-aboard-the-spirit-of-ethan-allen-iii/6292/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-21T11:27:02+00:00",
+   "category": "events",
+   "headline": "New event: The Ultimate Chocolate Tasting",
+   "detail": "today 2 PM · Lake Champlain Chocolates",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78391346/20260721140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-21T11:27:02+00:00",
+   "category": "events",
+   "headline": "New event: Half Priced Oysters at La Reprise",
+   "detail": "today 4 PM · La Reprise",
+   "url": "https://www.helloburlingtonvt.com/event/half-priced-oysters-at-la-reprise/7709/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-21T11:27:02+00:00",
+   "category": "events",
+   "headline": "New event: Skiff Oyster Hour",
+   "detail": "today 4 PM · Hilton Burlington Lake Champlain",
+   "url": "https://www.helloburlingtonvt.com/event/skiff-oyster-hour/5005/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-21T11:27:02+00:00",
+   "category": "events",
+   "headline": "New event: Green Mountain Swing Benefit for Youth Music Scholarships!",
+   "detail": "today 6 PM · ArtsRiot",
+   "url": "https://www.mychamplainvalley.com/calendar/#/details/green-mountain-swing-benefit-for-youth-music-scholarships-/19387790/2026-07-21T18",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }
