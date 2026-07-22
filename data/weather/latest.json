@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-21T23:42:28+00:00",
+ "updated": "2026-07-22T01:10:05+00:00",
  "sections_updated": {
-  "now": "2026-07-21T23:42:28+00:00",
-  "forecast": "2026-07-21T23:42:28+00:00",
-  "hourly": "2026-07-21T23:42:28+00:00",
-  "alerts": "2026-07-21T23:42:28+00:00",
-  "afd": "2026-07-21T23:42:28+00:00",
-  "lake_forecast": "2026-07-21T23:42:28+00:00",
-  "lake_gage": "2026-07-21T23:42:28+00:00",
-  "air": "2026-07-21T23:42:28+00:00",
-  "sun": "2026-07-21T23:42:28+00:00",
-  "models": "2026-07-21T23:42:28+00:00"
+  "now": "2026-07-22T01:10:05+00:00",
+  "forecast": "2026-07-22T01:10:05+00:00",
+  "hourly": "2026-07-22T01:10:05+00:00",
+  "alerts": "2026-07-22T01:10:05+00:00",
+  "afd": "2026-07-22T01:10:05+00:00",
+  "lake_forecast": "2026-07-22T01:10:05+00:00",
+  "lake_gage": "2026-07-22T01:10:05+00:00",
+  "air": "2026-07-22T01:10:05+00:00",
+  "sun": "2026-07-22T01:10:05+00:00",
+  "models": "2026-07-22T01:10:05+00:00"
  },
  "now": {
-  "observed_at": "2026-07-21T23:25:00+00:00",
+  "observed_at": "2026-07-22T00:50:00+00:00",
   "station": "KBTV",
   "description": "Mostly Cloudy",
   "temp_f": 75,
-  "feels_like_f": 76,
-  "humidity": 69,
-  "dewpoint_f": 64,
-  "wind_mph": 13,
+  "feels_like_f": 75,
+  "humidity": 65,
+  "dewpoint_f": 63,
+  "wind_mph": 11,
   "wind_gust_mph": null,
   "wind_dir": "SSE"
  },
@@ -31,10 +31,10 @@
     "name": "Tonight",
     "is_day": false,
     "temp_f": 67,
-    "pop": 90,
-    "wind": "S 12 to 15 mph",
+    "pop": 89,
+    "wind": "S 14 mph",
     "short": "Showers And Thunderstorms",
-    "detailed": "Showers and thunderstorms before 2am, then a slight chance of showers and thunderstorms between 2am and 5am. Mostly cloudy, with a low around 67. South wind 12 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+    "detailed": "Showers and thunderstorms before 2am, then a slight chance of showers and thunderstorms between 2am and 5am. Mostly cloudy, with a low around 67. South wind around 14 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
    },
    {
     "name": "Wednesday",
@@ -86,28 +86,6 @@
  "hourly": {
   "updated": "2026-07-21T18:39:59+00:00",
   "hours": [
-   {
-    "t": "2026-07-21T19:00:00-04:00",
-    "temp_f": 77,
-    "feels_f": 77,
-    "pop": 75,
-    "humidity": 74,
-    "wind_mph": 15,
-    "wind_dir": "SE",
-    "sky": 92,
-    "short": "Showers And Thunderstorms"
-   },
-   {
-    "t": "2026-07-21T20:00:00-04:00",
-    "temp_f": 75,
-    "feels_f": 75,
-    "pop": 90,
-    "humidity": 76,
-    "wind_mph": 14,
-    "wind_dir": "S",
-    "sky": 98,
-    "short": "Showers And Thunderstorms"
-   },
    {
     "t": "2026-07-21T21:00:00-04:00",
     "temp_f": 74,
@@ -481,6 +459,28 @@
     "wind_dir": "W",
     "sky": 53,
     "short": "Partly Sunny"
+   },
+   {
+    "t": "2026-07-23T07:00:00-04:00",
+    "temp_f": 58,
+    "feels_f": 58,
+    "pop": 0,
+    "humidity": 77,
+    "wind_mph": 6,
+    "wind_dir": "W",
+    "sky": 32,
+    "short": "Mostly Sunny"
+   },
+   {
+    "t": "2026-07-23T08:00:00-04:00",
+    "temp_f": 60,
+    "feels_f": 60,
+    "pop": 1,
+    "humidity": 72,
+    "wind_mph": 7,
+    "wind_dir": "W",
+    "sky": 13,
+    "short": "Sunny"
    }
   ]
  },
@@ -488,14 +488,14 @@
   "active": []
  },
  "afd": {
-  "issued": "2026-07-21T18:25:00+00:00",
+  "issued": "2026-07-21T23:53:00+00:00",
   "key_messages": [
    "Showers with some embedded thunderstorms this afternoon and evening, diminishing overnight.",
    "Some lingering showers Wednesday as a front moves through, then becoming drier through Friday.",
    "Quiet weather and increasing temperatures are expected this weekend before another storm system brings showers and thunderstorm chances to the region early next week."
   ],
   "what_changed": "As of 249 AM EDT Tuesday... Thunderstorm chances for Wednesday have been lowered as an earlier timing of the frontal passage allows for less destabilization.",
-  "raw": "\n000\nFXUS61 KBTV 211825\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n225 PM EDT Tue Jul 21 2026\n\n.WHAT HAS CHANGED...\nAs of 249 AM EDT Tuesday...\n\nThunderstorm chances for Wednesday have been lowered as an \nearlier timing of the frontal passage allows for less \ndestabilization. \n\n&&\n\n.KEY MESSAGES...\nAs of 209 PM EDT Tuesday...\n\n1.  Showers with some embedded thunderstorms this afternoon and \nevening, diminishing overnight. \n\n2. Some lingering showers Wednesday as a front moves through, \nthen becoming drier through Friday.  \n\n3. Quiet weather and increasing temperatures are expected this \nweekend before another storm system brings showers and thunderstorm \nchances to the region early next week.\n\n&&\n\n.DISCUSSION...\nAs of 209 PM EDT Tuesday...\n\nKEY MESSAGE 1: Scattered showers and thunderstorms will move into the \narea this afternoon from the west, driven by shortwave energy \nrotating around the base of an upper level trough.  A longwave \ntrough axis will gradually shift eastward today through eastern \nOntario, placing our forecast area in deep southwesterly flow ahead \nof the trough. This setup will briefly drive a higher dewpoint \nairmass northward into our area this afternoon and evening, when \nPWats are forecast to rise to 1.5+ inches in valley locations. \nSatellite imagery and observations show ample cloud cover over our \narea, which is limiting heating.  Have continued to cap temperatures \nslightly lower than suggested by the NBM, with highs this afternoon \nexpected to remain in the mid 70s to low 80s. These temperatures, \nalong with dewpoints rising to the 60s, will allow for some marginal \ndestabilization to develop.  The latest model guidance suggests \nMLCAPE values will rise to 250-750 J/kg later this afternoon. With \nno strong boundary moving through and a lack of low-level \nconvergence, this afternoon's showers and thunderstorms will be \ngenerally be tied to more disorganized individual shortwaves moving \nthrough the broader flow. This leads to the best shower and \nthunderstorm chances this afternoon into this evening, when the \nindividual shortwaves currently visible on water vapour satellite \nimagery over and north of NY will move into our area. 0-6 km bulk \nshear values between 20 and 40 knots could support the development \nof some more organized multicell clusters...though overall lack of \nstrong instability will remain the limiting factor.  Some storms \ntoday may produce gusty winds, small hail, and locally heavy \nrainfall. Given the strong background flow with gusts 20 to 30 mph \ncommon in the Champlain Valley right now, it won't be difficult to \nget some gusts to at least 40 mph or higher within showers or \nthunderstorms.  Coverage of showers and thunderstorms will diminish \nafter midnight tonight with the loss of instability and deeper \nmoisture.  \n\nStorm total QPF amounts for this afternoon through tonight will \ngenerally range from 0.25 inch near the International Border to \n0.75+ inch over the Adirondacks.  Noting some swaths of 1.0+ inch \nQPF progged in some of the higher res guidance in areas where \nheavier showers or thunderstorms track through. This does look \nlike a reasonable scenario for some isolated locations based on\navailable moisture profiles. While 1.0+ inch rainfall totals \nwill be the exception rather than the norm, the most favorable \nlocations for heavier rainfall tracks will be over the southern \nSt. Lawrence Valley, the Adirondacks, and potentially into \nportions of southwestern VT. Some ponding in poor drainage areas\nis possible, but overall flood risk is low. \n\nKEY MESSAGE 2: A cold front will move through on Wednesday from\nwest to east, with latest guidance favoring a slightly faster \nprogression of the boundary. Scattered showers and thunderstorms\ncan be expected morning through early afternoon as the front \nmoves through, though cloud cover and the earlier timing of the \nfrontal passage will limit destabilization. Though the overall \nsevere threat is low, can't rule out an isolated stronger \nthunderstorm capable of briefly heavy rainfall and gusty winds.\nThe trend towards a lower severe threat tomorrow due to the \nearlier timing of the frontal passage is reflected in the latest\nConvective Outlook update from the Storm Prediction Center. \nThis outlook has much of Vermont outlined in the General Thunder\nrisk, and shifts the Marginal severe risk further east and out \nof our forecast area. \n\nHigh temperatures for Wednesday will be dependent on frontal timing, \nwith the earlier onset of cold air advection in our western counties \nkeeping highs in the 60s over the Saint Lawrence Valley and \nAdirondacks. Further east, The Champlain Valley along with \neastern Vermont will see highs in the 70s. \n\nLate Wednesday through Friday will be dry with high pressure in \ncontrol.  Humidity levels will be comfortable with highs in the 70s \nThursday and mid 70s to mid 80s Friday.\n\nKEY MESSAGE 3: High pressure will begin to drift east this weekend with \nmore southerly to southwesterly flow, helping to advect warmer air \ninto the region. Temperatures will warm into the low to mid 80s in \ngeneral, with perhaps a few spot upper 80s in the Champlain Valley. \nGiven an unfavorable moisture advection pattern, dewpoints should \nremain on the drier side for the weekend, remaining in the 50s. Warm \nair advection will keep overnight temperatures on the mild side in \nthe low to mid 60s. Subsidence under the high should keep any \nprecipitation at bay through most of the weekend with mainly clear \nskies. Our next system is expected to swing through the area late \nSunday into early next week. A cyclonic gyre over northern Quebec \nwill bring troughiness to the East Coast, with a few shortwaves \nriding along the southern periphery of the gyre through the Great \nLakes into our region. There is still quite the spread in the timing \nand phasing of any of these shortwaves, but trends have denoted best \nchances for precipitation to be Monday and Tuesday afternoons, which \nis in line with the current WPC forecast. As these waves pass \nthrough they will take with them small chunks of heat and moisture, \ngradually knocking our temperatures and humidity levels down into \nmid next week.\n\n&&\n\n.AVIATION /18Z TUESDAY THROUGH SUNDAY/...\nThrough 18Z Wednesday...Changeable and variable conditions are\nexpected at all terminals through the next 18 hours as a frontal\nsystem continues to move through the area. Widespread sct to bkn\n2500-4000ft agl ceilings are across majority of the region, and will\ncontinue to bounce before more prevailing MVFR cigs are expected to\ndevelop between 02-04Z for most terminals. Winds will be the main\nnear term terminal impact with gusty southerly channeled flow at\nBTV/PBG with gusts around 30- 35 kts likely. Elsewhere southerly\ngusts between 25-30kts can be expected through the next 6-10 hours\nbefore an inversion sets up tonight. In terms of precipitation,\ncurrent radar shows little to no shower activity, however, showers\nwith embedded thunderstorms will begin to move into MSS within the\nnext hour or two, and spread eastward into SLK/PBG and the Vermont\nterminals after 00Z. Trends have denoted a few target areas of IFR\nthunderstorms at MSS around 21Z and 02Z, and between 00-04Z for all\nother terminals (highest confidence of a terminal thunderstorm\npassage exists at MSS). Current trends show a 30-50% chance of\nthunder for terminals outside of MSS, with PROB30 groups denoting\nterminal best timings, and a TEMPO for BTV with some higher\nconfidence of IFR showers with VCTS at BTV. Beyond 06Z, with an\ninversion expected to setup, ceilings will trend towards IFR at\nSLK/MPV/EFK between 07-09Z, and continue until 11-12Z. Intermittent\nBR and possible BCFG will exists between the aforementioned times as\nwell with trapped low level moisture. A boundary will then slide\nacross the area switching winds from the south to the west/southwest\ntomorrow morning with breezy conditions developing into the early\nafternoon.\n\nOutlook...\n\nWednesday Night: VFR. NO SIG WX.\nThursday: VFR. NO SIG WX.\nThursday Night: VFR. NO SIG WX.\nFriday: VFR. NO SIG WX.\nFriday Night: VFR. NO SIG WX.\nSaturday: VFR. NO SIG WX.\nSaturday Night: VFR. NO SIG WX.\nSunday: VFR. Slight chance SHRA, Slight chance TSRA.\n\n&&\n\n.MARINE...\nAs of 209 PM EDT Tuesday...\n\nA Lake Wind Advisory remains in effect with sustained \nsouth/southeast winds 20 to 35 knots and waves in the 2-4 foot \nrange. Winds will peak late this afternoon/early this evening, then \ndiminish to 15 to 25 knots overnight with waves 1 to 3 feet. \nWednesday, winds will decrease to under 20 knots and the Lake \nWind Advisory will likely be able to be dropped early in the \nday. \n\nIn addition to the strong background winds, showers with some \nembedded thunderstorms are expected late this afternoon into this \nevening.  Within these showers and thunderstorms, gusty winds may \nbriefly change directions and intensify.  Some cloud to ground \nlightning is also possible. \n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Duell\nDISCUSSION...Duell/Danzig\nAVIATION...Danzig\nMARINE...NWS BTV\n"
+  "raw": "\n000\nFXUS61 KBTV 212353\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n753 PM EDT Tue Jul 21 2026\n\n.WHAT HAS CHANGED...\nAs of 249 AM EDT Tuesday...\n\nThunderstorm chances for Wednesday have been lowered as an \nearlier timing of the frontal passage allows for less \ndestabilization.\n\n&&\n\n.KEY MESSAGES...\nAs of 209 PM EDT Tuesday...\n\n1.  Showers with some embedded thunderstorms this afternoon and \nevening, diminishing overnight. \n\n2. Some lingering showers Wednesday as a front moves through, \nthen becoming drier through Friday.  \n\n3. Quiet weather and increasing temperatures are expected this \nweekend before another storm system brings showers and thunderstorm \nchances to the region early next week.\n\n&&\n\n.DISCUSSION...\nAs of 209 PM EDT Tuesday...\n\nKEY MESSAGE 1: Scattered showers and thunderstorms will move into the \narea this afternoon from the west, driven by shortwave energy \nrotating around the base of an upper level trough.  A longwave \ntrough axis will gradually shift eastward today through eastern \nOntario, placing our forecast area in deep southwesterly flow ahead \nof the trough. This setup will briefly drive a higher dewpoint \nairmass northward into our area this afternoon and evening, when \nPWats are forecast to rise to 1.5+ inches in valley locations. \nSatellite imagery and observations show ample cloud cover over our \narea, which is limiting heating.  Have continued to cap temperatures \nslightly lower than suggested by the NBM, with highs this afternoon \nexpected to remain in the mid 70s to low 80s. These temperatures, \nalong with dewpoints rising to the 60s, will allow for some marginal \ndestabilization to develop.  The latest model guidance suggests \nMLCAPE values will rise to 250-750 J/kg later this afternoon. With \nno strong boundary moving through and a lack of low-level \nconvergence, this afternoon's showers and thunderstorms will be \ngenerally be tied to more disorganized individual shortwaves moving \nthrough the broader flow. This leads to the best shower and \nthunderstorm chances this afternoon into this evening, when the \nindividual shortwaves currently visible on water vapor \nsatellite imagery over and north of NY will move into our area. \n0-6 km bulk shear values between 20 and 40 knots could support \nthe development of some more organized multicell \nclusters...though overall lack of strong instability will remain\nthe limiting factor. Some storms today may produce gusty winds,\nsmall hail, and locally heavy rainfall. Given the strong \nbackground flow with gusts 20 to 30 mph common in the Champlain \nValley right now, it won't be difficult to get some gusts to at \nleast 40 mph or higher within showers or thunderstorms. Coverage\nof showers and thunderstorms will diminish after midnight \ntonight with the loss of instability and deeper moisture. \n\nStorm total QPF amounts for this afternoon through tonight will \ngenerally range from 0.25 inch near the International Border to \n0.75+ inch over the Adirondacks.  Noting some swaths of 1.0+ inch \nQPF progged in some of the higher res guidance in areas where \nheavier showers or thunderstorms track through. This does look \nlike a reasonable scenario for some isolated locations based on\navailable moisture profiles. While 1.0+ inch rainfall totals \nwill be the exception rather than the norm, the most favorable \nlocations for heavier rainfall tracks will be over the southern \nSt. Lawrence Valley, the Adirondacks, and potentially into \nportions of southwestern VT. Some ponding in poor drainage areas\nis possible, but overall flood risk is low. \n\nKEY MESSAGE 2: A cold front will move through on Wednesday from\nwest to east, with latest guidance favoring a slightly faster \nprogression of the boundary. Scattered showers and thunderstorms\ncan be expected morning through early afternoon as the front \nmoves through, though cloud cover and the earlier timing of the \nfrontal passage will limit destabilization. Though the overall \nsevere threat is low, can't rule out an isolated stronger \nthunderstorm capable of briefly heavy rainfall and gusty winds.\nThe trend towards a lower severe threat tomorrow due to the \nearlier timing of the frontal passage is reflected in the latest\nConvective Outlook update from the Storm Prediction Center. \nThis outlook has much of Vermont outlined in the General Thunder\nrisk, and shifts the Marginal severe risk further east and out \nof our forecast area. \n\nHigh temperatures for Wednesday will be dependent on frontal timing, \nwith the earlier onset of cold air advection in our western counties \nkeeping highs in the 60s over the Saint Lawrence Valley and \nAdirondacks. Further east, The Champlain Valley along with \neastern Vermont will see highs in the 70s. \n\nLate Wednesday through Friday will be dry with high pressure in \ncontrol.  Humidity levels will be comfortable with highs in the 70s \nThursday and mid 70s to mid 80s Friday.\n\nKEY MESSAGE 3: High pressure will begin to drift east this weekend with \nmore southerly to southwesterly flow, helping to advect warmer air \ninto the region. Temperatures will warm into the low to mid 80s in \ngeneral, with perhaps a few spot upper 80s in the Champlain Valley. \nGiven an unfavorable moisture advection pattern, dewpoints should \nremain on the drier side for the weekend, remaining in the 50s. Warm \nair advection will keep overnight temperatures on the mild side in \nthe low to mid 60s. Subsidence under the high should keep any \nprecipitation at bay through most of the weekend with mainly clear \nskies. Our next system is expected to swing through the area late \nSunday into early next week. A cyclonic gyre over northern Quebec \nwill bring troughiness to the East Coast, with a few shortwaves \nriding along the southern periphery of the gyre through the Great \nLakes into our region. There is still quite the spread in the timing \nand phasing of any of these shortwaves, but trends have denoted best \nchances for precipitation to be Monday and Tuesday afternoons, which \nis in line with the current WPC forecast. As these waves pass \nthrough they will take with them small chunks of heat and moisture, \ngradually knocking our temperatures and humidity levels down into \nmid next week.\n\n&&\n\n.AVIATION /00Z WEDNESDAY THROUGH SUNDAY/...\nThrough 00Z Thursday...Changeable and variable conditions will\ncontinue through the next 12 hours for most sites as a series of\nboundaries moves through the entire area. Current radar shows\ntwo areas of thunderstorms around both MSS and PBG. Have a\nPROB30 with VCTS for both terminals for an hour at PBG, and\nuntil 03Z at MSS with training thunderstorms along the US 11\ncorridor (Best chance of a terminal impacting thunderstorm is at\nMSS). The MSS boundary will continue to drift east across SLK \nand into PBG/BTV between 04-07Z. Thunderstorm chances will \ndecrease in time, but a few strikes in the vicinity of the \nterminals cannot be ruled out; thunderstorm chances will be \nabout 20-40%. As the showers and thunderstorms move through\nbetween 04-07Z, LLWS associated with a 40knot jet at 2000ft agl\nwill be present at RUT/MPV/EFK. The difficult part of this \nforecast will be how low ceilings get. With a combination of \nongoing rain, and a developing inversion tonight, ceilings will\nlikely bounce between IFR and low MVFR beyond 04-06Z, \nparticularly at SLK/MPV/EFK. BTV/PBG should have enough flow \nunder the inversion to keep cigs above IFR. With added moisture,\nsome low lying fog will be possible due to more sheltering at \nSLK/MPV with IFR vsbys possible, mainly after 07Z. GLAMP\nprobabilities show 40-60% chance of IFR ceilings between 06-11Z\nat SLK/MPV. Towards sunrise, conditions should gradually \nimprove towards VFR. A few light showers will be possible at \nMSS/MPV/EFK, but terminal impacts are not expected. A boundary \nwill cross the region tomorrow morning turning winds to the west\nsouthwest.\n\nOutlook...\n\nWednesday Night: VFR. NO SIG WX.\nThursday: VFR. NO SIG WX.\nThursday Night: VFR. NO SIG WX.\nFriday: VFR. NO SIG WX.\nFriday Night: VFR. NO SIG WX.\nSaturday: VFR. NO SIG WX.\nSaturday Night: VFR. NO SIG WX.\nSunday: VFR. Chance SHRA, Slight chance TSRA.\n\n&&\n\n.MARINE...\nAs of 209 PM EDT Tuesday...\n\nA Lake Wind Advisory remains in effect with sustained \nsouth/southeast winds 20 to 35 knots and waves in the 2-4 foot \nrange. Winds will peak late this afternoon/early this evening, then \ndiminish to 15 to 25 knots overnight with waves 1 to 3 feet. \nWednesday, winds will decrease to under 20 knots and the Lake \nWind Advisory will likely be able to be dropped early in the \nday. \n\nIn addition to the strong background winds, showers with some \nembedded thunderstorms are expected late this afternoon into this \nevening.  Within these showers and thunderstorms, gusty winds may \nbriefly change directions and intensify.  Some cloud to ground \nlightning is also possible.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Duell\nDISCUSSION...Duell/Danzig\nAVIATION...Danzig\nMARINE...NWS BTV\n"
  },
  "lake_forecast": {
   "issued": "2026-07-21T18:41:00+00:00",
@@ -791,18 +791,18 @@
  },
  "lake_gage": {
   "water_temp_f": 71,
-  "water_temp_at": "2026-07-21T19:00:00.000-04:00",
-  "level_ft": 95.85,
-  "level_at": "2026-07-21T19:00:00.000-04:00",
+  "water_temp_at": "2026-07-21T21:00:00.000-04:00",
+  "level_ft": 95.79,
+  "level_at": "2026-07-21T21:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 56,
+  "aqi": 57,
   "category": "Moderate",
   "pollutant": "PM2.5",
-  "observed": "07/21/26 19:00",
-  "discussion": "On Tuesday, July 21st, expect a chance for some low-moderate fine particulate matter pollution if a trace of wildfire smoke mixes into the area from the south."
+  "observed": "07/21/26 20:00",
+  "discussion": "On Wednesday, July 22nd, expect a chance for some low-moderate fine particulate matter pollution in Vermont as residual wildfire smoke continues to circulate in the northeast US and Canada."
  },
  "sun": {
   "sunrise": "2026-07-21T05:28-04:00",
@@ -817,45 +817,45 @@
     "date": "2026-07-21",
     "high_f": {
      "GFS": 79,
-     "Euro": 76,
+     "Euro": 75,
      "ICON": 79
     },
     "pop_max": {
-     "GFS": 34,
+     "GFS": 30,
      "Euro": 90,
      "ICON": 73
     },
     "precip_in": {
      "GFS": 0.0,
-     "Euro": 0.26,
+     "Euro": 0.37,
      "ICON": 0.17
     },
-    "high_spread_f": 3
+    "high_spread_f": 4
    },
    {
     "date": "2026-07-22",
     "high_f": {
-     "GFS": 78,
-     "Euro": 78,
+     "GFS": 80,
+     "Euro": 77,
      "ICON": 73
     },
     "pop_max": {
-     "GFS": 48,
+     "GFS": 49,
      "Euro": 90,
      "ICON": 70
     },
     "precip_in": {
-     "GFS": 0.76,
-     "Euro": 0.28,
+     "GFS": 0.0,
+     "Euro": 0.34,
      "ICON": 0.41
     },
-    "high_spread_f": 5
+    "high_spread_f": 7
    },
    {
     "date": "2026-07-23",
     "high_f": {
      "GFS": 76,
-     "Euro": 77,
+     "Euro": 76,
      "ICON": 78
     },
     "pop_max": {
