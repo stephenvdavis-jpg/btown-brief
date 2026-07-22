@@ -3,7 +3,7 @@
   "alerts": [],
   "forecast_flag": {
    "day": "2026-07-21",
-   "text": "Tonight: Showers and thunderstorms before 2am, then a slight chance of showers and thunderstorms between 2am and 5am"
+   "text": "Tonight: A chance of showers and thunderstorms before 7pm, then showers and thunderstorms between 7pm and 2am, then a slight chance of showers and thunderstorms between 2am and 5am"
   }
  },
  "beach-status": {
@@ -913,6 +913,34 @@
    "wcax": {
     "items": [
      {
+      "id": "YQGPMVN4WNDVNPPW3VGBUQ5JHU",
+      "title": "Rutland native takes third place at Berklee College songwriting competition",
+      "link": "https://www.wcax.com/2026/07/22/rutland-native-brigham-cooper-takes-third-place-berklee-college-songwriting-competition/",
+      "ts": "2026-07-22T03:01:25+00:00",
+      "summary": "A Rutland native is being recognized as a winner at a prestigious songwriting competition."
+     },
+     {
+      "id": "C4FS5OXB3BDF3HAP7CJO7QXJ4I",
+      "title": "Appeals court rules Vermont judge lacked authority to free Mohsen Mahdawi",
+      "link": "https://www.wcax.com/2026/07/21/appeals-court-rules-vermont-judge-lacked-authority-free-mohsen-mahdawi/",
+      "ts": "2026-07-22T00:23:35+00:00",
+      "summary": "The Upper Valley man was among those targeted by the Trump administration for his involvement in pro-Palestinian activism."
+     },
+     {
+      "id": "SKPRI4QNMBECZIILXAY4PNGWDY",
+      "title": "Fire breaks out after apparent explosion at Morrisonville Septic in New York",
+      "link": "https://www.wcax.com/2026/07/21/fire-breaks-out-after-apparent-explosion-morrisonville-septic-new-york/",
+      "ts": "2026-07-22T00:14:03+00:00",
+      "summary": "A fire broke out after an apparent explosion at Morrisonville Septic Tuesday evening."
+     },
+     {
+      "id": "BQCVETXX4NAOXD4AH7KVY4UIXY",
+      "title": "Pomeroy Park reopens in Burlington’s Old North End with universally accessible playground",
+      "link": "https://www.wcax.com/2026/07/21/pomeroy-park-reopens-burlingtons-old-north-end-with-universally-accessible-playground/",
+      "ts": "2026-07-22T00:00:16+00:00",
+      "summary": "A playground in Burlington’s Old North End has a new look."
+     },
+     {
       "id": "WDYLTQC6IFBMVPPQ3QGAEEWRQE",
       "title": "Vermont and New York join states suing EPA over rule weakening refrigerant phaseout",
       "link": "https://www.wcax.com/2026/07/21/vermont-new-york-join-18-state-coalition-suing-epa-over-rule-weakening-refrigerant-phaseout/",
@@ -946,13 +974,6 @@
       "link": "https://www.wcax.com/2026/07/21/south-burlington-plans-vermonts-first-pfas-free-synthetic-turf-field/",
       "ts": "2026-07-21T21:34:08+00:00",
       "summary": "Vermont's first PFAS-free synthetic sports field could open next summer in South Burlington."
-     },
-     {
-      "id": "C4FS5OXB3BDF3HAP7CJO7QXJ4I",
-      "title": "Appeals court rules Vermont judge lacked authority to free Mohsen Mahdawi",
-      "link": "https://www.wcax.com/2026/07/21/appeals-court-rules-vermont-judge-lacked-authority-free-mohsen-mahdawi/",
-      "ts": "2026-07-21T21:29:18+00:00",
-      "summary": "The Upper Valley man was among those targeted by the Trump administration for his involvement in pro-Palestinian activism."
      },
      {
       "id": "BUPHGOE5YJH7ZLZLQK4MCYG55Y",
@@ -1240,37 +1261,65 @@
       "link": "https://www.wcax.com/2026/07/20/pamela-smart-serving-life-seeks-new-trial-nh-judge-weighs-her-latest-petition/",
       "ts": "2026-07-20T15:47:30+00:00",
       "summary": "Lawyers for Pamela Smart, who's serving life for orchestrating her husband's 1990 murder, are hoping that a New Hampshire judge will allow her latest petition for a new trial."
-     },
-     {
-      "id": "OHV6NOJ73BEVJMNBVQ5BR4YDFM",
-      "title": "Constable man charged with grand larceny, allegedly depositing checks twice",
-      "link": "https://www.wcax.com/2026/07/20/malone-man-charged-with-grand-larceny-allegedly-depositing-checks-twice/",
-      "ts": "2026-07-20T15:19:27+00:00",
-      "summary": "New York State Police arrested a Constable man on July 19, 2026, and charged him with grand larceny and scheme to defraud after investigators say he double-deposited checks drawn from a former employer’s bank account."
-     },
-     {
-      "id": "AXOJ4ONFDJFCLOADDOJT47XJXA",
-      "title": "Driver nowhere to be found after Brattleboro car crash",
-      "link": "https://www.wcax.com/2026/07/20/driver-nowhere-be-found-after-brattleboro-car-crash/",
-      "ts": "2026-07-20T11:16:01+00:00",
-      "summary": "Police in Brattleboro are searching for a driver who crashed into a utility pole and disappeared."
-     },
-     {
-      "id": "OD4P7PFCTNAHTB2UFAKTGUHV6U",
-      "title": "Police investigating Vernon mail thefts",
-      "link": "https://www.wcax.com/2026/07/20/vermont-state-police-investigating-vernon-mail-thefts/",
-      "ts": "2026-07-20T10:33:35+00:00",
-      "summary": "Troopers say mail and packages were stolen from multiple residents over several weeks"
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "73221103",
+      "title": "Mega Millions results: The numbers for the July 21 drawing are in. Did you win?",
+      "link": "https://www.mynbc5.com/article/mega-millions-winning-numbers-july-21-drawing/73221103",
+      "ts": "2026-07-22T03:45:00+00:00",
+      "summary": "A $707 million Mega Millions jackpot was on the line Tuesday night — and the winning numbers are now in."
+     },
+     {
+      "id": "73223735",
+      "title": "Burlington restaurants, breweries brace for impact of President Trump's newest wave of tariffs",
+      "link": "https://www.mynbc5.com/article/burlington-restaurants-breweries-trump-tariffs/73223735",
+      "ts": "2026-07-22T03:12:00+00:00",
+      "summary": "Burlington small business owners have growing concerns with President Trump's new tariff announcement. They say it could cost them more money and deter Canadian tourists."
+     },
+     {
+      "id": "73223127",
+      "title": "A structure fire at the Morrisonville Septic building is currently under investigation",
+      "link": "https://www.mynbc5.com/article/a-structure-fire-at-the-morrisonville-septic-building-is-currently-under-investigation/73223127",
+      "ts": "2026-07-22T02:39:00+00:00",
+      "summary": "A structure fire at Morrisonville Septic building is currently under investigation"
+     },
+     {
+      "id": "73223859",
+      "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, sources say",
+      "link": "https://www.mynbc5.com/article/trump-nuclear-agreement-saudi-arabia/73223859",
+      "ts": "2026-07-22T02:13:00+00:00",
+      "summary": "President Trump has approved an agreement with Saudi Arabia that could potentially provide the kingdom with uranium enrichment capability for its civilian nuclear program, according to sources."
+     },
+     {
+      "id": "73201911",
+      "title": "66-foot-tall nutcracker, Verne the Patriot, draws crowds to Luverne, Minnesota",
+      "link": "https://www.mynbc5.com/article/worlds-tallest-nutcracker-minnesota-tourist-attraction/73201911",
+      "ts": "2026-07-22T01:52:00+00:00",
+      "summary": "Luverne says it now has the world’s tallest nutcracker, a nearly 66-foot Verne the Patriot with a working jaw. The town is seeking a Guinness World Record while drawing tourists."
+     },
+     {
+      "id": "73223258",
+      "title": "US military identifies 3rd service member believed to have been killed in Iranian attack",
+      "link": "https://www.mynbc5.com/article/us-military-identifies-3rd-service-member-killed-iran/73223258",
+      "ts": "2026-07-22T00:04:00+00:00",
+      "summary": "The confirmation brings the death toll to 18 U.S. service members killed since the war began."
+     },
+     {
+      "id": "73202535",
+      "title": "Judge to hear evidence against singer D4vd in killing, dismemberment of teen",
+      "link": "https://www.mynbc5.com/article/d4vd-hearing-trial-teen-girl-killing/73202535",
+      "ts": "2026-07-21T23:47:00+00:00",
+      "summary": "A judge is set to decide if there's enough evidence to send singer D4vd to trial for the killing of 14-year-old Celeste Rivas Hernandez."
+     },
+     {
       "id": "73222617",
       "title": "Two Republicans seeking nomination for Vermont’s U.S. House seat",
       "link": "https://www.mynbc5.com/article/two-republicans-seeking-nomination-for-vts-us-house-seat/73222617",
-      "ts": "2026-07-21T23:24:00+00:00",
+      "ts": "2026-07-21T23:26:00+00:00",
       "summary": "Gerald Malloy, Mark Coester seeking nomination to oppose Becca Balint for U.S. House"
      },
      {
@@ -1349,62 +1398,6 @@
       "link": "https://www.mynbc5.com/article/memorial-teen-killed-burlington-e-bike-crash/73221985",
       "ts": "2026-07-21T21:51:00+00:00",
       "summary": "A memorial is growing in Burlington's South End for 16-year-old Shiloh Skalka, who died after being hit by a car while riding an e-bike."
-     },
-     {
-      "id": "73220185",
-      "title": "Road construction project in Peru expected to take two months",
-      "link": "https://www.mynbc5.com/article/road-construction-project-in-peru-expected-to-take-two-months/73220185",
-      "ts": "2026-07-21T21:47:00+00:00",
-      "summary": "A part of Lyons Road will be closed due to a large culvert replacement"
-     },
-     {
-      "id": "73219708",
-      "title": "University of Vermont Health and The American Red Cross sound the alarm over blood shortage",
-      "link": "https://www.mynbc5.com/article/red-cross-blood-shortage-vermont/73219708",
-      "ts": "2026-07-21T21:41:00+00:00",
-      "summary": "The American Red Cross and the University of Vermont Health are asking for more people to donate blood, as inventories of some of the most-needed blood types are approaching crisis levels."
-     },
-     {
-      "id": "73222331",
-      "title": "Woman taken into ICE custody after attending Noah Kahan concert in Boston released",
-      "link": "https://www.mynbc5.com/article/logan-airport-ice-detained-woman-noah-kahan-concert-release/73222331",
-      "ts": "2026-07-21T21:40:28+00:00",
-      "summary": "A woman visiting Boston from Miami who was taken into ICE custody last week at Logan Airport after attending the Noah Kahan concert at Fenway Park has been released."
-     },
-     {
-      "id": "73221833",
-      "title": "Israel building a miles-long earthen barrier inside Gaza, entrenching its division",
-      "link": "https://www.mynbc5.com/article/israel-earthen-barrier-gaza-divider/73221833",
-      "ts": "2026-07-21T21:34:00+00:00",
-      "summary": "The Israeli military is quietly but quickly building a giant earthen barrier separating over 50% of the Gaza Strip it controls from the rest of the territory."
-     },
-     {
-      "id": "73221812",
-      "title": "Another Bright Beginnings employee pleads not guilty to multiple child abuse-related charges",
-      "link": "https://www.mynbc5.com/article/dillon-bronson-bright-beginnings-abuse-allegations/73221812",
-      "ts": "2026-07-21T21:24:00+00:00",
-      "summary": "A second former Bright Beginnings employee has pleaded not guilty to multiple child abuse-related charges during a court appearance on Tuesday."
-     },
-     {
-      "id": "71839763",
-      "title": "Energy bill high? Here’s how you can lower it",
-      "link": "https://www.mynbc5.com/article/how-to-save-money-on-energy-bill/71839763",
-      "ts": "2026-07-21T21:12:00+00:00",
-      "summary": "What really contributes to a high energy bill and practical tips to help you save."
-     },
-     {
-      "id": "73221804",
-      "title": "Appeals court reverses decision that freed pro-Palestinian Columbia activist Mohsen Mahdawi",
-      "link": "https://www.mynbc5.com/article/appeals-court-reverses-decision-mohsen-mahdawi/73221804",
-      "ts": "2026-07-21T21:10:00+00:00",
-      "summary": "A federal appeals panel has reversed a lower court decision ordering the release of pro-Palestinian activist Mohsen Mahdawi, opening the door to the re-arrest of the student protest organizer."
-     },
-     {
-      "id": "73221245",
-      "title": "Ukraine's Zelenskyy fires military chief after protests and names a replacement",
-      "link": "https://www.mynbc5.com/article/ukraines-zelenskyy-fires-military-chief/73221245",
-      "ts": "2026-07-21T20:54:00+00:00",
-      "summary": "President Volodymyr Zelenskyy fired the commander-in-chief of Ukraine’s armed forces following protests and named a replacement Tuesday."
      }
     ]
    },

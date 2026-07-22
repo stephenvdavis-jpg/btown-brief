@@ -1,50 +1,6 @@
 {
- "generated": "2026-07-21T23:27:48+00:00",
+ "generated": "2026-07-22T03:53:16+00:00",
  "events": [
-  {
-   "ts": "2026-07-15T00:25:00+00:00",
-   "category": "weather",
-   "headline": "Severe Thunderstorm Watch issued",
-   "detail": "Severe Thunderstorm Watch issued July 14 at 8:24PM EDT until July 15 at 4:00AM EDT by NWS Burlington VT",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 3,
-   "kind": "status"
-  },
-  {
-   "ts": "2026-07-15T02:00:58+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Upcoming rentals",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uwpsyq/upcoming_rentals/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-15T02:00:58+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Where to watch the World Cup?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uwpjrs/where_to_watch_the_world_cup/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-15T03:42:03+00:00",
-   "category": "weather",
-   "headline": "Tonight: Patchy smoke and showers and thunderstorms",
-   "detail": "",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 2,
-   "kind": "changed"
-  },
   {
    "ts": "2026-07-15T05:01:27+00:00",
    "category": "chatter",
@@ -3074,6 +3030,39 @@
    "ts": "2026-07-21T23:27:49+00:00",
    "category": "weather",
    "headline": "Tonight: Showers and thunderstorms before 2am, then a slight chance of showers and thunderstorms between 2am and 5am",
+   "detail": "",
+   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
+   "source": "nws-weather",
+   "sourceName": "NWS Burlington",
+   "priority": 2,
+   "kind": "changed"
+  },
+  {
+   "ts": "2026-07-22T00:00:16+00:00",
+   "category": "news",
+   "headline": "Pomeroy Park reopens in Burlington’s Old North End with universally accessible playground",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/21/pomeroy-park-reopens-burlingtons-old-north-end-with-universally-accessible-playground/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-22T03:12:00+00:00",
+   "category": "food",
+   "headline": "Burlington restaurants, breweries brace for impact of President Trump's newest wave of tariffs",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/burlington-restaurants-breweries-trump-tariffs/73223735",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-22T03:53:17+00:00",
+   "category": "weather",
+   "headline": "Tonight: A chance of showers and thunderstorms before 7pm, then showers and thunderstorms between 7pm and 2am, then a slight chance of showers and thunderstorms between 2am and 5am",
    "detail": "",
    "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
    "source": "nws-weather",
