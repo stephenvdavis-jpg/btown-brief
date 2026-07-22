@@ -3,7 +3,7 @@
   "alerts": [],
   "forecast_flag": {
    "day": "2026-07-22",
-   "text": "Today: A chance of showers and thunderstorms before noon, then a slight chance of showers and thunderstorms between noon and 2pm"
+   "text": "Today: A chance of showers and thunderstorms before 11am, then a chance of showers and thunderstorms between 11am and noon, then a slight chance of showers and thunderstorms between noon and 2pm"
   }
  },
  "beach-status": {
@@ -51,7 +51,7 @@
    "Oakledge Cove": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T15:09:00+00:00"
+    "resultTime": "2026-07-22T18:37:00+00:00"
    },
    "Texaco Beach": {
     "status": "open",
@@ -541,7 +541,7 @@
       "title": "Vermont Towns Try Different Ways to Regulate Short-Term Rentals",
       "link": "https://www.sevendaysvt.com/news/housingcrisis/vermont-towns-try-different-ways-to-regulate-short-term-rentals/",
       "ts": "2026-07-22T14:00:00+00:00",
-      "summary": "Amid Vermont’s housing crunch, more communities are debating how much housing should be reserved for tourists rather than year-round residents. The post Vermont Towns Try Different Ways to Regulate Short-Term Rentals appeared first on Seven Days ."
+      "summary": "Amid Vermont’s housing crunch, more communities are debating how much housing should be reserved for tourists rather than year-round residents. The post Vermont Towns Try Different Ways to Regulate Short-Term Rentals appeared first on Seven Days . (Image: Rob Donnelly)"
      },
      {
       "id": "https://www.sevendaysvt.com/?p=212657",
@@ -610,6 +610,13 @@
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651891",
+      "title": "Brattleboro weighs a municipal tax hike to aid the local hospital’s endangered birthing center",
+      "link": "https://vtdigger.org/2026/07/22/brattleboro-weighs-a-municipal-tax-hike-to-aid-the-local-hospitals-endangered-birthing-center/",
+      "ts": "2026-07-22T17:01:31+00:00",
+      "summary": "The selectboard may hold a special Town Meeting to ask residents to help subsidize a facility that’s losing money due to cost and staffing challenges and declining births. Read the story on VTDigger here: Brattleboro weighs a municipal tax hike to aid the local hospital’s endangered birthing center ."
+     },
      {
       "id": "https://vtdigger.org/?p=651885",
       "title": "How VTDigger prepares for the stories that make a difference",
@@ -812,13 +819,6 @@
       "link": "https://vtdigger.org/2026/07/16/shuttered-vermont-colleges-reincarnated-and-repurposed/",
       "ts": "2026-07-16T20:29:42+00:00",
       "summary": "\"The success will be measured on whether we have preserved opportunity, jobs, community vitality, because the last thing we want is a closed campus to sit idle,” said the Vermont Agency of Commerce and Community Development secretary. Read the story on VTDigger here: Shuttered Vermont colleges: reincarnated and repurposed. ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651410",
-      "title": "Vermont faces an emergency blood shortage from summer donation lull",
-      "link": "https://vtdigger.org/2026/07/16/vermont-faces-an-emergency-blood-shortage-from-summer-donation-lull/",
-      "ts": "2026-07-16T20:16:24+00:00",
-      "summary": "About half of the state's blood donation appointments in the next two weeks are unfilled. Read the story on VTDigger here: Vermont faces an emergency blood shortage from summer donation lull ."
      }
     ]
    },
@@ -1267,18 +1267,67 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73227989",
+      "title": "‘I love him a lot’: 8-year-old girl provides life-saving bone marrow transplant to her brother",
+      "link": "https://www.mynbc5.com/article/brooks-sister-bone-marrow-transplant-sickle-cell/73227989",
+      "ts": "2026-07-22T18:32:00+00:00",
+      "summary": "An 8-year-old Alabama girl gave her brother something no toy or hug ever could: a second chance at life."
+     },
+     {
+      "id": "73231249",
+      "title": "June 1 trial date set for Venezuela's Nicolás Maduro in his US drug trafficking case",
+      "link": "https://www.mynbc5.com/article/maduro-venezuela-court-trial-drug-case/73231249",
+      "ts": "2026-07-22T18:16:00+00:00",
+      "summary": "Nicolás Maduro has returned to a New York courthouse where lawyers plan to ask a judge to set a June trial date for his drug trafficking case."
+     },
+     {
+      "id": "73228926",
+      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-retaliation-bridge-power/73228926",
+      "ts": "2026-07-22T18:12:00+00:00",
+      "summary": "President Trump has warned Iran that the U.S. will destroy one bridge or power plant, including in Iran's capital, each time Iran shoots at a ship in the Strait of Hormuz."
+     },
+     {
+      "id": "73229272",
+      "title": "These Powerball numbers have been drawn the most since 2015",
+      "link": "https://www.mynbc5.com/article/powerball-most-drawn-numbers/73229272",
+      "ts": "2026-07-22T17:59:00+00:00",
+      "summary": "​The largest Powerball jackpot of the year draws Wednesday night. See which numbers have been picked the most since 2015."
+     },
+     {
+      "id": "73226463",
+      "title": "Trump pays respects to 4 US service members killed in the Middle East",
+      "link": "https://www.mynbc5.com/article/dignified-transfer-4-soldiers-iran-war-donald-trump/73226463",
+      "ts": "2026-07-22T17:13:00+00:00",
+      "summary": "President Donald Trump on Wednesday attended the dignified transfer of four U.S. service members killed in the Middle East."
+     },
+     {
+      "id": "73231706",
+      "title": "Burlington police arrest two following investigation into July 5 gunfire",
+      "link": "https://www.mynbc5.com/article/burlington-july-5-gunfire-arrests/73231706",
+      "ts": "2026-07-22T17:02:00+00:00",
+      "summary": "Two more people have been arrested as the Burlington Police Department released new information about two gunfire incidents downtown on July 5 that are now known to be connected."
+     },
+     {
+      "id": "73231500",
+      "title": "Model recruiter who introduced young women to Jeffrey Epstein found dead in France",
+      "link": "https://www.mynbc5.com/article/model-recruiter-daniel-siad-dead-paris/73231500",
+      "ts": "2026-07-22T16:57:00+00:00",
+      "summary": "A professional model recruiter who for over a decade arranged for the late sex offender Jeffrey Epstein to meet multiple models, was found dead in his home."
+     },
+     {
+      "id": "73231535",
+      "title": "Isolated showers, humidity drops Wednesday afternoon",
+      "link": "https://www.mynbc5.com/article/isolated-showers-humidity-drops-wednesday-afternoon-07-22-26/73231535",
+      "ts": "2026-07-22T16:52:00+00:00",
+      "summary": "Beautiful stretch Thursday through Sunday — sunshine, highs mostly in the 80s"
+     },
+     {
       "id": "73230355",
       "title": "Popular allergy medication recalled over potentially ‘life-threatening’ cross-contamination",
       "link": "https://www.mynbc5.com/article/allergy-medication-recalled-cetirizine-hydrochloride/73230355",
       "ts": "2026-07-22T16:26:00+00:00",
       "summary": "A popular allergy medication has been recalled over contamination concerns, potentially leading to life-threatening side effects."
-     },
-     {
-      "id": "73231249",
-      "title": "Venezuela's Nicolás Maduro is back in court for a pretrial hearing in his US drug trafficking case",
-      "link": "https://www.mynbc5.com/article/maduro-venezuela-court-trial-drug-case/73231249",
-      "ts": "2026-07-22T16:24:00+00:00",
-      "summary": "Nicolás Maduro has returned to a New York courthouse where lawyers plan to ask a judge to set a June trial date for his drug trafficking case."
      },
      {
       "id": "73229040",
@@ -1356,60 +1405,18 @@
       "link": "https://www.mynbc5.com/article/tropical-storm-bertha-gulf-coast/73220239",
       "ts": "2026-07-22T14:18:00+00:00",
       "summary": "Tropical Storm Bertha is expected to weaken in the Gulf of Mexico as it chugs closer to the U.S. But forecasters say it still could bring coastal flooding and heavy rain from the Florida Panhandle to Louisiana."
-     },
-     {
-      "id": "73223735",
-      "title": "Burlington restaurants, breweries brace for impact of President Trump's newest wave of tariffs",
-      "link": "https://www.mynbc5.com/article/burlington-restaurants-breweries-trump-tariffs/73223735",
-      "ts": "2026-07-22T13:54:00+00:00",
-      "summary": "Burlington small business owners have growing concerns with President Trump's new tariff announcement. They say it could cost them more money and deter Canadian tourists."
-     },
-     {
-      "id": "73226896",
-      "title": "A teen, a fiancé and a ‘fearless’ father of 2 are among the service members killed or missing in the Iran war",
-      "link": "https://www.mynbc5.com/article/soldiers-killed-iran-war-identified/73226896",
-      "ts": "2026-07-22T13:47:00+00:00",
-      "summary": "A teen, a fiancé and a \"fearless\" father of two are among the service members killed or missing in the Iran war. Here's what we know about the victims."
-     },
-     {
-      "id": "73229289",
-      "title": "Adolf Hitler’s birthplace in Austria reopens as a police station to deter Nazi pilgrimages",
-      "link": "https://www.mynbc5.com/article/hitler-birthplace-austria-police-station/73229289",
-      "ts": "2026-07-22T13:46:00+00:00",
-      "summary": "Adolf Hitler's birthplace in Austria was officially inaugurated as a police station on Wednesday in an effort to destroy the building's appeal as a site of pilgrimage for people who glorify the Nazi dictator."
-     },
-     {
-      "id": "73228926",
-      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in Strait of Hormuz",
-      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-retaliation-bridge-power/73228926",
-      "ts": "2026-07-22T13:40:00+00:00",
-      "summary": "President Trump has warned Iran that the U.S. will destroy one bridge or power plant, including in Iran's capital, each time Iran shoots at a ship in the Strait of Hormuz."
-     },
-     {
-      "id": "73223127",
-      "title": "A structure fire at the Morrisonville Septic building is currently under investigation",
-      "link": "https://www.mynbc5.com/article/a-structure-fire-at-the-morrisonville-septic-building-is-currently-under-investigation/73223127",
-      "ts": "2026-07-22T13:11:00+00:00",
-      "summary": "A structure fire at Morrisonville Septic building is currently under investigation"
-     },
-     {
-      "id": "73228030",
-      "title": "'You don't have a long-term plan to actually win this war': Lawmakers press Hegseth as Iran War continues",
-      "link": "https://www.mynbc5.com/article/you-dont-have-a-plan-to-win-this-war-lawmakers-press-hegseth-on-iran/73228030",
-      "ts": "2026-07-22T13:10:00+00:00",
-      "summary": "Defense Secretary Pete Hegseth defended the White House's $67 billion funding request for the war in Iran during a heated Senate hearing, where lawmakers questioned the strategy and spending."
-     },
-     {
-      "id": "73228684",
-      "title": "Bystander severely wounded outside White House says Secret Service failed him",
-      "link": "https://www.mynbc5.com/article/bystander-white-house-shooting-secret-service-lawsuit/73228684",
-      "ts": "2026-07-22T13:00:00+00:00",
-      "summary": "An active-duty soldier who was hit by a stray bullet during a shooting outside the White House plans to sue the Secret Service over his life-threatening injuries."
      }
     ]
    },
    "btv-news-releases": {
     "items": [
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3857/639203252330000000",
+      "title": "UPDATE 07/05/2026 Aggravated Assault - Gunfire Incident | 26BU014857 and 26BU014859",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3857",
+      "ts": "2026-07-22T18:53:53+00:00",
+      "summary": ""
+     },
      {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3856/639201431310000000",
       "title": "07/19/2026 Drugs Trafficking | 26BU016324",
@@ -1470,6 +1477,13 @@
    },
    "bpd-updates": {
     "items": [
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3857/639203252330000000",
+      "title": "UPDATE 07/05/2026 Aggravated Assault - Gunfire Incident | 26BU014857 and 26BU014859",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3857",
+      "ts": "2026-07-22T18:53:53+00:00",
+      "summary": ""
+     },
      {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3856/639201431310000000",
       "title": "07/19/2026 Drugs Trafficking | 26BU016324",

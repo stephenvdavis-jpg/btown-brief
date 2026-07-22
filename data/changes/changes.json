@@ -1,83 +1,6 @@
 {
- "generated": "2026-07-22T16:53:52+00:00",
+ "generated": "2026-07-22T18:37:43+00:00",
  "events": [
-  {
-   "ts": "2026-07-15T17:02:19+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: News about Matty Tanner",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uxbeo7/news_about_matty_tanner/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-15T17:02:19+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Language exchange spanish-english",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uxb82f/language_exchange_spanishenglish/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-15T17:02:19+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Indoor activities",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uxaaww/indoor_activities/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-15T17:02:19+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Is there expected to still be wildfire smoke in the area this Friday and Saturday?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1ux9ust/is_there_expected_to_still_be_wildfire_smoke_in/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-15T17:02:19+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Car Break In S Union",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1ux8v4l/car_break_in_s_union/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-15T17:02:19+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Why doesn’t Burlington have a strong playground culture like other cities?",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1ux8k2m/why_doesnt_burlington_have_a_strong_playground/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-15T17:42:32+00:00",
-   "category": "cityhall",
-   "headline": "City Council With Mayor Presiding Meeting agenda posted",
-   "detail": "meets Monday, Jul 13",
-   "url": "https://burlingtonvt.portal.civicclerk.com/event/10075/overview",
-   "source": "civicclerk",
-   "sourceName": "City meeting portal",
-   "priority": 3,
-   "kind": "changed"
-  },
   {
    "ts": "2026-07-15T19:06:53+00:00",
    "category": "news",
@@ -2959,6 +2882,39 @@
    "sourceName": "NWS Burlington",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-22T17:02:00+00:00",
+   "category": "news",
+   "headline": "Burlington police arrest two following investigation into July 5 gunfire",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/burlington-july-5-gunfire-arrests/73231706",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-22T18:37:51+00:00",
+   "category": "news",
+   "headline": "UPDATE 07/05/2026 Aggravated Assault - Gunfire Incident | 26BU014857 and 26BU014859",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3857",
+   "source": "btv-news-releases",
+   "sourceName": "City of Burlington",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-22T18:37:51+00:00",
+   "category": "news",
+   "headline": "UPDATE 07/05/2026 Aggravated Assault - Gunfire Incident | 26BU014857 and 26BU014859",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3857",
+   "source": "bpd-updates",
+   "sourceName": "Burlington Police",
+   "priority": 2,
+   "kind": "added"
   }
  ]
 }
