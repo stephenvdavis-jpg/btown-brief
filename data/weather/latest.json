@@ -1,52 +1,43 @@
 {
- "updated": "2026-07-22T07:59:11+00:00",
+ "updated": "2026-07-22T10:52:39+00:00",
  "sections_updated": {
-  "now": "2026-07-22T07:59:11+00:00",
-  "forecast": "2026-07-22T07:59:11+00:00",
-  "hourly": "2026-07-22T07:59:11+00:00",
-  "alerts": "2026-07-22T07:59:11+00:00",
-  "afd": "2026-07-22T07:59:11+00:00",
-  "lake_forecast": "2026-07-22T07:59:11+00:00",
-  "lake_gage": "2026-07-22T07:59:11+00:00",
-  "air": "2026-07-22T07:59:11+00:00",
-  "sun": "2026-07-22T07:59:11+00:00",
-  "models": "2026-07-22T07:59:11+00:00"
+  "now": "2026-07-22T10:52:39+00:00",
+  "forecast": "2026-07-22T10:52:39+00:00",
+  "hourly": "2026-07-22T10:52:39+00:00",
+  "alerts": "2026-07-22T10:52:39+00:00",
+  "afd": "2026-07-22T10:52:39+00:00",
+  "lake_forecast": "2026-07-22T10:52:39+00:00",
+  "lake_gage": "2026-07-22T10:52:39+00:00",
+  "air": "2026-07-22T10:52:39+00:00",
+  "sun": "2026-07-22T10:52:39+00:00",
+  "models": "2026-07-22T10:52:39+00:00"
  },
  "now": {
-  "observed_at": "2026-07-22T07:35:00+00:00",
+  "observed_at": "2026-07-22T10:35:00+00:00",
   "station": "KBTV",
-  "description": "Mostly Clear",
+  "description": "Partly Cloudy",
   "temp_f": 72,
   "feels_like_f": 72,
   "humidity": 83,
   "dewpoint_f": 66,
-  "wind_mph": 7,
+  "wind_mph": 10,
   "wind_gust_mph": null,
-  "wind_dir": "S"
+  "wind_dir": "SSW"
  },
  "forecast": {
-  "updated": "2026-07-22T06:13:10+00:00",
+  "updated": "2026-07-22T09:28:10+00:00",
   "periods": [
    {
-    "name": "Overnight",
-    "is_day": false,
-    "temp_f": 70,
-    "pop": 30,
-    "wind": "S 13 mph",
-    "short": "Scattered Showers And Thunderstorms",
-    "detailed": "Scattered showers and thunderstorms before 4am. Mostly cloudy, with a low around 70. South wind around 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-   },
-   {
-    "name": "Wednesday",
+    "name": "Today",
     "is_day": true,
     "temp_f": 75,
-    "pop": 43,
+    "pop": 32,
     "wind": "SW 9 to 14 mph",
-    "short": "Isolated Showers And Thunderstorms then Scattered Showers And Thunderstorms",
-    "detailed": "Isolated showers and thunderstorms before 7am, then scattered showers and thunderstorms between 7am and 8am, then scattered showers and thunderstorms between 8am and 10am, then scattered showers and thunderstorms between 10am and 2pm. Mostly sunny, with a high near 75. Southwest wind 9 to 14 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+    "short": "Chance Showers And Thunderstorms",
+    "detailed": "A chance of showers and thunderstorms between 7am and 11am, then a chance of showers and thunderstorms between 11am and noon, then a slight chance of showers and thunderstorms between noon and 2pm. Partly sunny, with a high near 75. Southwest wind 9 to 14 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
    },
    {
-    "name": "Wednesday Night",
+    "name": "Tonight",
     "is_day": false,
     "temp_f": 56,
     "pop": 4,
@@ -80,138 +71,114 @@
     "wind": "S 6 mph",
     "short": "Sunny",
     "detailed": "Sunny, with a high near 84. South wind around 6 mph."
+   },
+   {
+    "name": "Friday Night",
+    "is_day": false,
+    "temp_f": 61,
+    "pop": 0,
+    "wind": "S 5 mph",
+    "short": "Mostly Clear",
+    "detailed": "Mostly clear, with a low around 61. South wind around 5 mph."
    }
   ]
  },
  "hourly": {
-  "updated": "2026-07-22T06:13:10+00:00",
+  "updated": "2026-07-22T09:28:10+00:00",
   "hours": [
-   {
-    "t": "2026-07-22T03:00:00-04:00",
-    "temp_f": 71,
-    "feels_f": 71,
-    "pop": 30,
-    "humidity": 84,
-    "wind_mph": 13,
-    "wind_dir": "S",
-    "sky": 62,
-    "short": "Scattered Showers And Thunderstorms"
-   },
-   {
-    "t": "2026-07-22T04:00:00-04:00",
-    "temp_f": 71,
-    "feels_f": 71,
-    "pop": 6,
-    "humidity": 84,
-    "wind_mph": 12,
-    "wind_dir": "S",
-    "sky": 60,
-    "short": "Mostly Cloudy"
-   },
-   {
-    "t": "2026-07-22T05:00:00-04:00",
-    "temp_f": 70,
-    "feels_f": 70,
-    "pop": 5,
-    "humidity": 87,
-    "wind_mph": 12,
-    "wind_dir": "S",
-    "sky": 58,
-    "short": "Mostly Cloudy"
-   },
    {
     "t": "2026-07-22T06:00:00-04:00",
     "temp_f": 70,
     "feels_f": 70,
-    "pop": 20,
+    "pop": 15,
     "humidity": 87,
     "wind_mph": 9,
     "wind_dir": "S",
     "sky": 56,
-    "short": "Isolated Showers And Thunderstorms"
+    "short": "Partly Sunny"
    },
    {
     "t": "2026-07-22T07:00:00-04:00",
     "temp_f": 71,
     "feels_f": 71,
-    "pop": 30,
+    "pop": 22,
     "humidity": 84,
     "wind_mph": 10,
     "wind_dir": "S",
-    "sky": 43,
-    "short": "Scattered Showers And Thunderstorms"
+    "sky": 53,
+    "short": "Slight Chance Showers And Thunderstorms"
    },
    {
     "t": "2026-07-22T08:00:00-04:00",
     "temp_f": 71,
     "feels_f": 71,
-    "pop": 40,
+    "pop": 30,
     "humidity": 90,
     "wind_mph": 10,
     "wind_dir": "S",
-    "sky": 51,
-    "short": "Scattered Showers And Thunderstorms"
+    "sky": 60,
+    "short": "Chance Showers And Thunderstorms"
    },
    {
     "t": "2026-07-22T09:00:00-04:00",
     "temp_f": 72,
     "feels_f": 72,
-    "pop": 42,
+    "pop": 31,
     "humidity": 81,
     "wind_mph": 10,
     "wind_dir": "S",
-    "sky": 50,
-    "short": "Scattered Showers And Thunderstorms"
+    "sky": 61,
+    "short": "Chance Showers And Thunderstorms"
    },
    {
     "t": "2026-07-22T10:00:00-04:00",
     "temp_f": 74,
     "feels_f": 74,
-    "pop": 43,
+    "pop": 32,
     "humidity": 74,
     "wind_mph": 12,
     "wind_dir": "SW",
-    "sky": 52,
-    "short": "Scattered Showers And Thunderstorms"
+    "sky": 62,
+    "short": "Chance Showers And Thunderstorms"
    },
    {
     "t": "2026-07-22T11:00:00-04:00",
     "temp_f": 75,
     "feels_f": 75,
-    "pop": 39,
+    "pop": 32,
     "humidity": 69,
     "wind_mph": 12,
     "wind_dir": "SW",
-    "sky": 53,
-    "short": "Scattered Showers And Thunderstorms"
+    "sky": 59,
+    "short": "Chance Showers And Thunderstorms"
    },
    {
     "t": "2026-07-22T12:00:00-04:00",
     "temp_f": 75,
     "feels_f": 75,
-    "pop": 33,
+    "pop": 25,
     "humidity": 64,
     "wind_mph": 12,
     "wind_dir": "W",
     "sky": 70,
-    "short": "Scattered Showers And Thunderstorms"
+    "short": "Slight Chance Showers And Thunderstorms"
    },
    {
     "t": "2026-07-22T13:00:00-04:00",
     "temp_f": 75,
     "feels_f": 75,
-    "pop": 25,
+    "pop": 18,
     "humidity": 60,
     "wind_mph": 13,
     "wind_dir": "W",
     "sky": 55,
-    "short": "Isolated Rain Showers"
+    "short": "Slight Chance Rain Showers"
    },
    {
     "t": "2026-07-22T14:00:00-04:00",
     "temp_f": 75,
     "feels_f": 75,
-    "pop": 9,
+    "pop": 7,
     "humidity": 55,
     "wind_mph": 13,
     "wind_dir": "W",
@@ -222,7 +189,7 @@
     "t": "2026-07-22T15:00:00-04:00",
     "temp_f": 75,
     "feels_f": 75,
-    "pop": 2,
+    "pop": 1,
     "humidity": 54,
     "wind_mph": 14,
     "wind_dir": "W",
@@ -481,6 +448,39 @@
     "wind_dir": "W",
     "sky": 15,
     "short": "Sunny"
+   },
+   {
+    "t": "2026-07-23T15:00:00-04:00",
+    "temp_f": 77,
+    "feels_f": 77,
+    "pop": 0,
+    "humidity": 39,
+    "wind_mph": 8,
+    "wind_dir": "W",
+    "sky": 14,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-23T16:00:00-04:00",
+    "temp_f": 78,
+    "feels_f": 78,
+    "pop": 0,
+    "humidity": 38,
+    "wind_mph": 8,
+    "wind_dir": "NW",
+    "sky": 12,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-23T17:00:00-04:00",
+    "temp_f": 79,
+    "feels_f": 79,
+    "pop": 0,
+    "humidity": 35,
+    "wind_mph": 8,
+    "wind_dir": "NW",
+    "sky": 11,
+    "short": "Sunny"
    }
   ]
  },
@@ -488,13 +488,13 @@
   "active": []
  },
  "afd": {
-  "issued": "2026-07-22T06:25:00+00:00",
+  "issued": "2026-07-22T09:32:00+00:00",
   "key_messages": [
    "Lingering showers are expected today with isolated thunderstorms possible as a cold front moves through, then the weather pattern becomes drier for the latter half of the week.",
    "Quiet weather and increasing temperatures are expected this upcoming weekend before another system bring showers and thunderstorms to the region early next week."
   ],
-  "what_changed": "As of 225 AM EDT Wednesday... Have slightly increased wind gusts today with this forecast given efficient mixing of gusts 20-30 knots likely throughout the day today. Have also added patchy valley fog to the favorable locations tonight (Wednesday night) due to high pressure arriving to the region and creating favorable radiational cooling conditions over the next few days. Because of this, have also decreased lows both Thursday and Friday nights.",
-  "raw": "\n000\nFXUS61 KBTV 220625\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n225 AM EDT Wed Jul 22 2026\n\n.WHAT HAS CHANGED...\nAs of 225 AM EDT Wednesday...\n\nHave slightly increased wind gusts today with this forecast given \nefficient mixing of gusts 20-30 knots likely throughout the day \ntoday. Have also added patchy valley fog to the favorable locations \ntonight (Wednesday night) due to high pressure arriving to the \nregion and creating favorable radiational cooling conditions over \nthe next few days. Because of this, have also decreased lows both \nThursday and Friday nights.\n\n&&\n\n.KEY MESSAGES...\nAs of 225 AM EDT Wednesday...\n\n1. Lingering showers are expected today with isolated \nthunderstorms possible as a cold front moves through, then the \nweather pattern becomes drier for the latter half of the week. \n\n2. Quiet weather and increasing temperatures are expected this \nupcoming weekend before another system bring showers and \nthunderstorms to the region early next week. \n\n&&\n\n.DISCUSSION...\nAs of 225 AM EDT Wednesday...\n\nKEY MESSAGE 1: A warm front is crossing northern New York and Vermont \nearly this morning, bringing a few additional showers to the area. \nSo far about 0.50-1.00 inches of rainfall has fallen in a swath from \nthe St. Lawrence River to the northern Adirondacks and northern Lake \nChamplain. A cold front is expected to cross the region this \nmorning, bringing additional showers and thunderstorms. Probability \nof precipitation in a given location is around 50-80% in the western \nAdirondacks, St. Lawrence Valley, and far northern Vermont. \nProbability of precipitation is lowest in the souther Champlain and \nConnecticut River valleys, around 5-30%. Additional anticipated \nrainfall amounts range around 0.10-0.30 inches through the end of \ntoday, though higher precip amounts and gusty winds could occur in \nany thunderstorms. Outside of storms, southwesterly winds are also \nanticipated throughout the day today with gusts as high as 20-30 \nknots likely. The cold front should keep temperatures from reaching \ntoo high today, particularly in northern New York, where highs will \nbe in the 60s west of the Champlain Valley. In the Champlain Valley \nand remainder of Vermont, temperatures are forecast in the mid and \nupper 70s, warmest in the Connecticut River Valley where the cold \nfront will visit last. Depending on the speed of the cold front, \ntemperatures could end up being a degree or two warmer or colder.\nWednesday night through Friday night will be dry with high pressure \nin control. Humidity levels will be comfortable with highs in the \n70s to lower 80s Thursday and upper 70s to mid 80s Friday. Lows will \nfall into the 40s and 50s each night, with radiational fog potential \nin the typical valley locations.\n\nKEY MESSAGE 2: High pressure starts to shift to the east by the second \nhalf of the weekend, leading to increasing S/SW flow. The result \nwill be warming temperatures, with highs to be mainly in the \nmid/upper 80s both Saturday and Sunday. Humidity doesn't look too \nbad  as dewpoints are expected to remain the upper 50s to mid 60s. \nOur next chance of precipitation arrives late Sunday into Monday and \nlikely persists into mid week as upper troughiness sets up across \neastern Canada and the northeastern CONUS. Shortwaves rotating \naround the upper trough will bring periods of showers and \nthunderstorms. These sorts of features are typically difficult to \nnail down in timing and strength this far out, and indeed, model \nsolutions differ quite a bit from Sunday night onward. Have stayed \nwith the NBM/WPC forecast for now given the uncertainty, which \nresults in chances of showers/thunderstorms each day. Temperatures \nlook to remain seasonable through the period.\n\n&&\n\n.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...\nThrough 06Z Thursday...Variable conditions expected through at least\nthe first 6-12 hours of the TAF period. Scattered shower activity\nwill continue through 09z, then exit to the east. MVFR\nceilings/vsbys possible in any precipitation, though ceilings may\ndrop to IFR at KMPV/KSLK. Abundant moisture will keep ceilings\nMVFR/IFR after the rain exits, with IFR conditions most likely at\nKSLK/KMPV. Any fog development is expected to be brief due to\ncontinued S/SW winds around 5-10 kt overnight. Ceilings start to\nimprove after 15z, but additional scattered showers and\nthunderstorms will keep the threat of reduced visibility and\nceilings through 00z Thu. Coverage/timing is not enough to include\nany mention of showers/thunderstorms in the TAFs at this point. S/SW\nwinds will trend more toward W/SW and become gusty after 14z, with\ngusts of 16-22 kt expected.\n\nOutlook...\n\nThursday: VFR. NO SIG WX.\nThursday Night: VFR. NO SIG WX.\nFriday: VFR. NO SIG WX.\nFriday Night: VFR. NO SIG WX.\nSaturday: VFR. NO SIG WX.\nSaturday Night: VFR. NO SIG WX.\nSunday: VFR. Chance SHRA, Slight chance TSRA.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Storm\nDISCUSSION...Hastings/Storm\nAVIATION...Hastings\n"
+  "what_changed": "As of 527 AM EDT Wednesday... Have sent out an early morning update to adjust probability of precipitation and weather over the next few hours based on high resolution models that are performing well in comparison with the radar imagery and automated reports across the region. Today, we're thinking about 15-25% chance of precip in the St. Lawrence Valley, 50-80% chance of precip on the northern and western slopes of the Adirondacks and northern Greens, 5-30% chance of precip in the southern Champlain and Connecticut River valleys, and 30-50% elsewhere. Will be a mix of showers and embedded thunderstorms, drying out by the end of the day.",
+  "raw": "\n000\nFXUS61 KBTV 220932\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n532 AM EDT Wed Jul 22 2026\n\n.WHAT HAS CHANGED...\nAs of 527 AM EDT Wednesday...\n\nHave sent out an early morning update to adjust probability of\nprecipitation and weather over the next few hours based on high\nresolution models that are performing well in comparison with\nthe radar imagery and automated reports across the region.\nToday, we're thinking about 15-25% chance of precip in the St. \nLawrence Valley, 50-80% chance of precip on the northern and \nwestern slopes of the Adirondacks and northern Greens, 5-30% \nchance of precip in the southern Champlain and Connecticut River\nvalleys, and 30-50% elsewhere. Will be a mix of showers and\nembedded thunderstorms, drying out by the end of the day. \n\n&&\n\n.KEY MESSAGES...\nAs of 225 AM EDT Wednesday...\n\n1. Lingering showers are expected today with isolated \nthunderstorms possible as a cold front moves through, then the \nweather pattern becomes drier for the latter half of the week. \n\n2. Quiet weather and increasing temperatures are expected this \nupcoming weekend before another system bring showers and \nthunderstorms to the region early next week.\n\n&&\n\n.DISCUSSION...\nAs of 225 AM EDT Wednesday...\n\nKEY MESSAGE 1: A warm front is crossing northern New York and Vermont \nearly this morning, bringing a few additional showers to the area. \nSo far about 0.50-1.00 inches of rainfall has fallen in a swath from \nthe St. Lawrence River to the northern Adirondacks and northern Lake \nChamplain. A cold front is expected to cross the region this \nmorning, bringing additional showers and thunderstorms. Probability \nof precipitation in a given location is around 50-80% in the western \nAdirondacks, St. Lawrence Valley, and far northern Vermont. \nProbability of precipitation is lowest in the souther Champlain and \nConnecticut River valleys, around 5-30%. Additional anticipated \nrainfall amounts range around 0.10-0.30 inches through the end of \ntoday, though higher precip amounts and gusty winds could occur in \nany thunderstorms. Outside of storms, southwesterly winds are also \nanticipated throughout the day today with gusts as high as 20-30 \nknots likely. The cold front should keep temperatures from reaching \ntoo high today, particularly in northern New York, where highs will \nbe in the 60s west of the Champlain Valley. In the Champlain Valley \nand remainder of Vermont, temperatures are forecast in the mid and \nupper 70s, warmest in the Connecticut River Valley where the cold \nfront will visit last. Depending on the speed of the cold front, \ntemperatures could end up being a degree or two warmer or colder.\nWednesday night through Friday night will be dry with high pressure \nin control. Humidity levels will be comfortable with highs in the \n70s to lower 80s Thursday and upper 70s to mid 80s Friday. Lows will \nfall into the 40s and 50s each night, with radiational fog potential \nin the typical valley locations.\n\nKEY MESSAGE 2: High pressure starts to shift to the east by the second \nhalf of the weekend, leading to increasing S/SW flow. The result \nwill be warming temperatures, with highs to be mainly in the \nmid/upper 80s both Saturday and Sunday. Humidity doesn't look too \nbad  as dewpoints are expected to remain the upper 50s to mid 60s. \nOur next chance of precipitation arrives late Sunday into Monday and \nlikely persists into mid week as upper troughiness sets up across \neastern Canada and the northeastern CONUS. Shortwaves rotating \naround the upper trough will bring periods of showers and \nthunderstorms. These sorts of features are typically difficult to \nnail down in timing and strength this far out, and indeed, model \nsolutions differ quite a bit from Sunday night onward. Have stayed \nwith the NBM/WPC forecast for now given the uncertainty, which \nresults in chances of showers/thunderstorms each day. Temperatures \nlook to remain seasonable through the period.\n\n&&\n\n.AVIATION /06Z WEDNESDAY THROUGH SUNDAY/...\nThrough 06Z Thursday...Variable conditions expected through at least\nthe first 6-12 hours of the TAF period. Scattered shower activity\nwill continue through 09z, then exit to the east. MVFR\nceilings/vsbys possible in any precipitation, though ceilings may\ndrop to IFR at KMPV/KSLK. Abundant moisture will keep ceilings\nMVFR/IFR after the rain exits, with IFR conditions most likely at\nKSLK/KMPV. Any fog development is expected to be brief due to\ncontinued S/SW winds around 5-10 kt overnight. Ceilings start to\nimprove after 15z, but additional scattered showers and\nthunderstorms will keep the threat of reduced visibility and\nceilings through 00z Thu. Coverage/timing is not enough to include\nany mention of showers/thunderstorms in the TAFs at this point. S/SW\nwinds will trend more toward W/SW and become gusty after 14z, with\ngusts of 16-22 kt expected.\n\nOutlook...\n\nThursday: VFR. NO SIG WX.\nThursday Night: VFR. NO SIG WX.\nFriday: VFR. NO SIG WX.\nFriday Night: VFR. NO SIG WX.\nSaturday: VFR. NO SIG WX.\nSaturday Night: VFR. NO SIG WX.\nSunday: VFR. Chance SHRA, Slight chance TSRA.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Storm\nDISCUSSION...Hastings/Storm\nAVIATION...Hastings\n"
  },
  "lake_forecast": {
   "issued": "2026-07-22T06:21:00+00:00",
@@ -739,17 +739,17 @@
  },
  "lake_gage": {
   "water_temp_f": 71,
-  "water_temp_at": "2026-07-22T03:00:00.000-04:00",
+  "water_temp_at": "2026-07-22T06:00:00.000-04:00",
   "level_ft": 95.8,
-  "level_at": "2026-07-22T03:00:00.000-04:00",
+  "level_at": "2026-07-22T06:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 36,
+  "aqi": 32,
   "category": "Good",
   "pollutant": "OZONE",
-  "observed": "07/22/26 3:00",
+  "observed": "07/22/26 6:00",
   "discussion": "On Wednesday, July 22nd, expect a chance for some low-moderate fine particulate matter pollution in Vermont as residual wildfire smoke continues to circulate in the northeast US and Canada."
  },
  "sun": {
@@ -764,7 +764,7 @@
    {
     "date": "2026-07-22",
     "high_f": {
-     "GFS": 80,
+     "GFS": 79,
      "Euro": 78,
      "ICON": 74
     },
@@ -774,11 +774,11 @@
      "ICON": 40
     },
     "precip_in": {
-     "GFS": 0.09,
+     "GFS": 0.0,
      "Euro": 0.3,
-     "ICON": 0.24
+     "ICON": 0.16
     },
-    "high_spread_f": 6
+    "high_spread_f": 5
    },
    {
     "date": "2026-07-23",
