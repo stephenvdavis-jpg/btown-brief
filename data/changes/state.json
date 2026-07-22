@@ -540,6 +540,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=212796",
+      "title": "Study: Lesions on Lake Memphramagog Fish Are a Transmissible Form of Cancer",
+      "link": "https://www.sevendaysvt.com/news/study-lesions-on-lake-memphramagog-fish-are-a-transmissible-form-of-cancer/",
+      "ts": "2026-07-22T20:50:09+00:00",
+      "summary": "A study that UVM researchers published in the journal \"Nature\" concludes that black spots are caused by a form of cancer that the fish can catch from each other. The post Study: Lesions on Lake Memphramagog Fish Are a Transmissible Form of Cancer appeared first on Seven Days . (Image: Courtesy of Peter Emerson)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212633",
       "title": "Vermont Towns Try Different Ways to Regulate Short-Term Rentals",
       "link": "https://www.sevendaysvt.com/news/housingcrisis/vermont-towns-try-different-ways-to-regulate-short-term-rentals/",
@@ -601,18 +608,46 @@
       "link": "https://www.sevendaysvt.com/arts-culture/books-arts-culture/book-review-vernal-thaw-by-frances-cannon/",
       "ts": "2026-07-22T13:40:00+00:00",
       "summary": "The Vermont and Scotland-based author and illustrator explores a tumultuous romance in a novel that blends fiction and autobiography. The post Book Review: ‘Vernal Thaw’ by Frances Cannon appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212493",
-      "title": "Craftsbury Chamber Players Celebrate 60th Season",
-      "link": "https://www.sevendaysvt.com/arts-culture/performingarts/craftsbury-chamber-players-celebrate-60th-season/",
-      "ts": "2026-07-22T13:40:00+00:00",
-      "summary": "Along with concerts in Hardwick and Colchester, an exhibit at Craftsbury’s Babcock House Museum honors the festival’s — and the town’s — musical legacy. The post Craftsbury Chamber Players Celebrate 60th Season appeared first on Seven Days . (Image: Courtesy)"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=651942",
+      "title": "Is it safe to eat lettuce? Upper Valley experts answer key questions on cyclosporiasis outbreak",
+      "link": "https://vtdigger.org/2026/07/22/is-it-safe-to-eat-lettuce-upper-valley-experts-answer-key-questions-on-cyclosporiasis-outbreak/",
+      "ts": "2026-07-22T22:26:14+00:00",
+      "summary": "So far Vermont has had no cases linked to the national outbreak, a Health Department spokesperson said Monday. Read the story on VTDigger here: Is it safe to eat lettuce? Upper Valley experts answer key questions on cyclosporiasis outbreak ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651938",
+      "title": "Enough with the excuses. Help Vermont’s loggers.",
+      "link": "https://vtdigger.org/2026/07/22/opinion-enough-with-the-excuses-help-vermonts-loggers/",
+      "ts": "2026-07-22T22:14:43+00:00",
+      "summary": "Finch Paper's closure is the latest in a string of mill shutdowns, and Vermont's conservation policy is threatening the industry's survival. Read the story on VTDigger here: Enough with the excuses. Help Vermont’s loggers. ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651933",
+      "title": "The new Route 7 project is a waste of money",
+      "link": "https://vtdigger.org/2026/07/22/opinion-the-new-route-7-project-is-a-waste-of-money/",
+      "ts": "2026-07-22T21:57:43+00:00",
+      "summary": "The Pittsford-Brandon Route 7 project isn't needed, and the funds would be better spent elsewhere. Read the story on VTDigger here: The new Route 7 project is a waste of money ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651926",
+      "title": "Vermont Conversation: ‘I’m sorry that this isn’t what we promised.’ Immigration attorney Jill Martin Diaz on fear and hope in Vermont’s immigrant community",
+      "link": "https://vtdigger.org/2026/07/22/vermont-conversation-im-sorry-that-this-isnt-what-we-promised-immigration-attorney-jill-martin-diaz-on-fear-and-hope-in-vermonts-immigrant-community/",
+      "ts": "2026-07-22T21:01:53+00:00",
+      "summary": "Martin Diaz, who is the executive director of the Vermont Asylum Assistance Project, warns that “rights and protections are being stripped away every day in mundane-seeming memos and orders from courts.” Read the story on VTDigger here: Vermont Conversation: ‘I’m sorry that this isn’t what we promised.’ Immigration attorney Jill Martin Diaz on fear and hope in Vermont’s immigrant community ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=651924",
+      "title": "‘A step forward’: Deep in the new federal housing law, changes to disaster recovery funding are brewing",
+      "link": "https://vtdigger.org/2026/07/22/a-step-forward-deep-in-the-new-federal-housing-law-changes-to-disaster-recovery-funding-are-brewing/",
+      "ts": "2026-07-22T20:51:44+00:00",
+      "summary": "Although the new law about the Department of Housing and Urban Development’s long-term disaster recovery program leaves key questions open, experts say it moves in the right direction. Read the story on VTDigger here: ‘A step forward’: Deep in the new federal housing law, changes to disaster recovery funding are brewing ."
+     },
      {
       "id": "https://vtdigger.org/?p=651891",
       "title": "Brattleboro weighs a municipal tax hike to aid the local hospital’s endangered birthing center",
@@ -787,46 +822,18 @@
       "link": "https://vtdigger.org/2026/07/17/former-copley-staffers-create-green-mountain-birthing-center/",
       "ts": "2026-07-17T20:41:52+00:00",
       "summary": "The center will offer prenatal and postpartum care to people but “won’t be catching babies” quite yet, according to an update from leadership. Read the story on VTDigger here: Former Copley staffers create Green Mountain Birthing Center ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651493",
-      "title": "Vermont chose belonging. Let’s keep it that way.",
-      "link": "https://vtdigger.org/2026/07/17/opinion-vermont-chose-belonging-lets-keep-it-that-way/",
-      "ts": "2026-07-17T19:11:36+00:00",
-      "summary": "A Supreme Court ruling on transgender athletes doesn't require Vermont to abandon its inclusive policies — and it shouldn't. Read the story on VTDigger here: Vermont chose belonging. Let’s keep it that way. ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651423",
-      "title": "The cumulative weight of standing there",
-      "link": "https://vtdigger.org/2026/07/17/the-cumulative-weight-of-standing-there/",
-      "ts": "2026-07-17T11:45:00+00:00",
-      "summary": "What more than 100 hours of video reveal about police work during a March ICE raid in South Burlington Read the story on VTDigger here: The cumulative weight of standing there ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651435",
-      "title": "He’s the high bailiff of Orange County, Vermont. Now, he’s in Iran — and saluting its ‘holy war’ with the US",
-      "link": "https://vtdigger.org/2026/07/16/hes-the-high-bailiff-of-orange-county-vermont-now-hes-in-iran-and-saluting-its-holy-war-with-the-us/",
-      "ts": "2026-07-16T22:57:37+00:00",
-      "summary": "Christopher Helali invoked his largely ceremonial office in social media posts during the state funeral for Ayatollah Ali Khamenei, including a selfie showing a large red banner reading, “Kill Trump.” Read the story on VTDigger here: He’s the high bailiff of Orange County, Vermont. Now, he’s in Iran — and saluting its ‘holy war’ with the US ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651415",
-      "title": "Central Vermont Medical Center names new president",
-      "link": "https://vtdigger.org/2026/07/16/central-vermont-medical-center-names-new-president/",
-      "ts": "2026-07-16T21:11:01+00:00",
-      "summary": "Marc Kosak most recently served as chief operating officer for Greenwich Hospital in Connecticut. The announcement comes amid mass layoffs across the hospital’s parent network. Read the story on VTDigger here: Central Vermont Medical Center names new president ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651413",
-      "title": "Shuttered Vermont colleges: reincarnated and repurposed.",
-      "link": "https://vtdigger.org/2026/07/16/shuttered-vermont-colleges-reincarnated-and-repurposed/",
-      "ts": "2026-07-16T20:29:42+00:00",
-      "summary": "\"The success will be measured on whether we have preserved opportunity, jobs, community vitality, because the last thing we want is a closed campus to sit idle,” said the Vermont Agency of Commerce and Community Development secretary. Read the story on VTDigger here: Shuttered Vermont colleges: reincarnated and repurposed. ."
      }
     ]
    },
    "vermont-public": {
     "items": [
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-22/brattleboro-contemplates-raising-tax-money-keep-birth-center-open",
+      "title": "Brattleboro contemplates raising tax money in bid to keep birth center open",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-22/brattleboro-contemplates-raising-tax-money-keep-birth-center-open",
+      "ts": "2026-07-22T20:21:50+00:00",
+      "summary": "The Brattleboro Select Board is making plans for a special town meeting to vote on a one-time property tax that would raise money for the town’s struggling hospital."
+     },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-22/man-will-admit-to-paying-migrant-justice-organizer-to-smuggle-woman-into-us",
       "title": "Man will admit to paying Migrant Justice organizer to smuggle woman into US",
@@ -903,18 +910,67 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-19/vermont-green-women-finish-inaugural-season-as-national-runners-up",
       "ts": "2026-07-19T14:16:28+00:00",
       "summary": "Vermont Green FC's women's team fell to Salmon Bay FC 5-4 on penalty kicks following a 1-1 tie through overtime in the USL W League National Final on Saturday. Waterbury Center's Louisa Thomsen scored the Green's lone goal in the game's 93rd minute to force overtime."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-19/sow-cool-season-crops-in-hot-july-for-a-continuous-vegetable-harvest-this-fall",
-      "title": "Sow cool-season crops in hot July for a continuous vegetable harvest this fall",
-      "link": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-19/sow-cool-season-crops-in-hot-july-for-a-continuous-vegetable-harvest-this-fall",
-      "ts": "2026-07-19T12:00:00+00:00",
-      "summary": "Starting cool-season plants in peak summer will ensure a harvest bounty come fall."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "RK4YTZOHFNFCPENNXKVNXNZ52Y",
+      "title": "Pandemic guests become owners of Ripton getaway",
+      "link": "https://www.wcax.com/2026/07/22/pandemic-guests-become-owners-ripton-getaway/",
+      "ts": "2026-07-22T21:35:41+00:00",
+      "summary": "A pandemic stay in the hills of Ripton turned into a business for one Addison County couple."
+     },
+     {
+      "id": "YS5MJJXUUJBRXI3AQGMALE63IM",
+      "title": "802 News: The magical life of Peter Gould",
+      "link": "https://www.wcax.com/2026/07/22/802-news-magical-life-peter-gould/",
+      "ts": "2026-07-22T21:21:50+00:00",
+      "summary": "Mark Johnson spoke with author, activist, teacher, and theater director Peter Gould, who, at “80 years young,” says he’s lived a magical life."
+     },
+     {
+      "id": "2LYEQEZQ3RF3LEB6MBCVNQN2FU",
+      "title": "Iranian-born surgeon detained at Vermont border appears in federal court",
+      "link": "https://www.wcax.com/2026/07/22/iranian-born-surgeon-detained-vermont-border-appears-federal-court/",
+      "ts": "2026-07-22T21:21:38+00:00",
+      "summary": "Authorities say Dr. Shohreh Ghasemi illegally crossed the border into Derby after being denied entry at a crossing in Toronto."
+     },
+     {
+      "id": "GWP7EVHZKBCBVOCOTGEQNBOYME",
+      "title": "Fort Ticonderoga corn maze honors America’s 250th",
+      "link": "https://www.wcax.com/2026/07/22/fort-ticonderoga-corn-maze-honors-americas-250th/",
+      "ts": "2026-07-22T21:19:48+00:00",
+      "summary": "This year’s corn maze at Fort Ticonderoga marks the nation’s 250th birthday with a design drawn from the Revolutionary War era."
+     },
+     {
+      "id": "75RQWO6LTNFTXJZCU3DD2AMBIM",
+      "title": "Adirondack tourism study lays out road map for expanding lodging options",
+      "link": "https://www.wcax.com/2026/07/22/adirondack-tourism-study-lays-out-road-map-expanding-lodging-options/",
+      "ts": "2026-07-22T21:16:36+00:00",
+      "summary": "A new study is laying out a road map for expanding lodging options across the Adirondacks."
+     },
+     {
+      "id": "5FCNKL4CLNHPPAJDVZQESFAATA",
+      "title": "Barre homeless shelter looks to relocate to Berlin after back-to-back flooding",
+      "link": "https://www.wcax.com/2026/07/22/barre-homeless-shelter-looks-relocate-berlin-after-back-to-back-flooding/",
+      "ts": "2026-07-22T21:14:12+00:00",
+      "summary": "The Good Samaritan Haven is in the early stages of relocating to a home in Berlin."
+     },
+     {
+      "id": "F46YDAOXNREYZLIINPJSVEP25M",
+      "title": "Plattsburgh City Beach closes to swimmers after E. coli detected",
+      "link": "https://www.wcax.com/2026/07/22/plattsburgh-city-beach-closes-swimmers-after-e-coli-detected/",
+      "ts": "2026-07-22T21:10:20+00:00",
+      "summary": "The Plattsburgh City Beach is closed to swimmers after a water sample taken Monday showed high levels of E. coli bacteria."
+     },
+     {
+      "id": "QWE5SQFJKNHYDE526LLL6477PI",
+      "title": "Kids take center stage at 82nd annual North Haverhill Fair",
+      "link": "https://www.wcax.com/2026/07/22/kids-take-center-stage-82nd-annual-north-haverhill-fair/",
+      "ts": "2026-07-22T20:51:14+00:00",
+      "summary": "The annual summer fair is now in its 82nd year. While much of it is about tradition, our Adam Sullivan found it's the kids who keep it going strong."
+     },
      {
       "id": "JFRNIYADWZASXD3PH67FMYPQZU",
       "title": "Burlington police link 2 July 4th gunfire incidents; 2 adults held without bail",
@@ -1208,206 +1264,150 @@
       "link": "https://www.wcax.com/2026/07/20/travel-nurse-speaks-out-after-using-military-training-disarm-knife-wielding-attacker/",
       "ts": "2026-07-20T21:53:25+00:00",
       "summary": "Leceadricke Young was leaving work on Friday when he sprang into action."
-     },
-     {
-      "id": "XUC776UTWJEV5DXNYSJTO6PECA",
-      "title": "Suspect arrested in string of Winooski burglaries",
-      "link": "https://www.wcax.com/2026/07/20/suspect-arrested-string-winooski-burglaries/",
-      "ts": "2026-07-20T21:49:51+00:00",
-      "summary": "Police have arrested a man for allegedly breaking into several bars and restaurants in Winooski over the last month."
-     },
-     {
-      "id": "YNGNGKQQDVDATFRGWML46M6PF4",
-      "title": "Made in Vermont: Colchester man turned pandemic hobby into a thriving English muffin business",
-      "link": "https://www.wcax.com/2026/07/20/made-vermont-colchester-man-turned-pandemic-hobby-into-thriving-english-muffin-business/",
-      "ts": "2026-07-20T21:49:16+00:00",
-      "summary": "Birch Hill can crank out upwards of 1,200 English muffins in a day."
-     },
-     {
-      "id": "X2UCQDSIFVBYBPPS3UN5E3LDAU",
-      "title": "What’s the delay for Rutland’s new downtown hotel?",
-      "link": "https://www.wcax.com/2026/07/20/whats-delay-rutlands-new-downtown-hotel/",
-      "ts": "2026-07-20T21:43:15+00:00",
-      "summary": "The building of a new downtown hotel in Rutland seems to have come to a standstill for the past month"
-     },
-     {
-      "id": "GWNM2C2N65HH3PWAE4NFGLEP7M",
-      "title": "Academic boot camp for veterans aims to ease military-to-college transition",
-      "link": "https://www.wcax.com/2026/07/20/academic-boot-camp-veterans-aims-ease-military-to-college-transition/",
-      "ts": "2026-07-20T21:35:41+00:00",
-      "summary": "It may be summer, but school is in session at Dartmouth College for student veterans. The program aims to ease the transition from military to college."
-     },
-     {
-      "id": "OVB47RK54RHT5F3GGRKN2EBGQM",
-      "title": "Winooski School District plans new special ed space to teach real-world skills",
-      "link": "https://www.wcax.com/2026/07/20/winooski-school-district-plans-new-special-ed-space-teach-real-world-skills/",
-      "ts": "2026-07-20T21:35:24+00:00",
-      "summary": "A planned special education space in Winooski is designed to open opportunities for students."
-     },
-     {
-      "id": "SJ6EZV36HBHDXL5KFCDO3YUZWQ",
-      "title": "Stowe hosts Austrian firefighter through international exchange program",
-      "link": "https://www.wcax.com/2026/07/20/stowe-hosts-austrian-firefighter-through-international-exchange-program/",
-      "ts": "2026-07-20T21:30:02+00:00",
-      "summary": "The Stowe Fire Department is trading ideas and comparing notes with European firefighting professionals as part of an international partnership."
-     },
-     {
-      "id": "IPP65CXN2FH5DCKQLPTHQMH6PA",
-      "title": "Gov. Scott appoints retired National Guard commander as special advisor",
-      "link": "https://www.wcax.com/2026/07/20/gov-scott-appoints-retired-national-guard-commander-special-advisor/",
-      "ts": "2026-07-20T21:27:06+00:00",
-      "summary": "Retired Vermont National Guard Commander Maj. Gen. Gregory Knight has a new mission advising Vermont’s governor."
-     },
-     {
-      "id": "UQQWNSKOPRGVLMPZCUR6BFL67Y",
-      "title": "Plattsburgh’s Michigan Fest returns August 1 with more vendors, new events",
-      "link": "https://www.wcax.com/2026/07/20/plattsburghs-michigan-fest-returns-august-1-with-more-vendors-new-events/",
-      "ts": "2026-07-20T21:13:05+00:00",
-      "summary": "Plattsburgh’s Second Annual Michigan Fest is preparing to return next month."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
-      "id": "73232603",
-      "title": "This family was orphaned and divided by war in Gaza. Their big sister brought them back together",
-      "link": "https://www.mynbc5.com/article/orphaned-by-war-in-gaza-palestinian-siblings-reunite-with-their-sister-in-israel/73232603",
-      "ts": "2026-07-22T20:31:00+00:00",
-      "summary": "A Palestinian family that was divided between Israel and Gaza was reunited this month after the eldest sister waged a two-year effort to bring her orphaned siblings to join her in Israel."
+      "id": "73235246",
+      "title": "Morrisonville Septic still operating despite fire that destroyed main building",
+      "link": "https://www.mynbc5.com/article/morrisonville-septic-fire-update/73235246",
+      "ts": "2026-07-22T22:18:00+00:00",
+      "summary": "Morrisonville Septic in Cadyville is looking to move forward after a devastating fire destroyed its main building Tuesday night, the owner told NBC5 on Wednesday."
+     },
+     {
+      "id": "73236157",
+      "title": "Vermont officials aim to boost voter turnout ahead of August primary",
+      "link": "https://www.mynbc5.com/article/vermont-primary-voter-turnout/73236157",
+      "ts": "2026-07-22T22:15:00+00:00",
+      "summary": "With Vermont's primary election just weeks away, officials are encouraging voter participation."
+     },
+     {
+      "id": "73235870",
+      "title": "Bill would refinance federal student loans to 0% interest",
+      "link": "https://www.mynbc5.com/article/no-interest-federal-student-loans-new-bill/73235870",
+      "ts": "2026-07-22T22:14:00+00:00",
+      "summary": "A proposed bill would wipe out interest on federal student loans, but it wouldn't impact private loans."
+     },
+     {
+      "id": "73236286",
+      "title": "Congo's Ebola outbreak has now killed more than 1,000 people",
+      "link": "https://www.mynbc5.com/article/congo-ebola-death-toll-1000/73236286",
+      "ts": "2026-07-22T22:03:00+00:00",
+      "summary": "More than 1,000 people have died in the Ebola outbreak in Congo, according to Africa's top health body."
+     },
+     {
+      "id": "73235878",
+      "title": "Rescue crews free man from gas station sign in Illinois",
+      "link": "https://www.mynbc5.com/article/gas-station-sign-rescue-worker-stuck/73235878",
+      "ts": "2026-07-22T22:01:00+00:00",
+      "summary": "A lift malfunction left a maintenance worker stranded inside an Illinois gas station sign 130 feet in the air until he was rescued."
+     },
+     {
+      "id": "73236003",
+      "title": "Vermont expands community-based mental health care with four new centers",
+      "link": "https://www.mynbc5.com/article/statewide-model-expanding-care-access/73236003",
+      "ts": "2026-07-22T21:54:00+00:00",
+      "summary": "Four more Vermont mental health agencies have been certified as Community-Based Integrated Health Centers, expanding a model designed to make care more accessible and better coordinated across the state."
+     },
+     {
+      "id": "73235389",
+      "title": "Beautiful Thursday, with lots of sunshine and low humidity",
+      "link": "https://www.mynbc5.com/article/beautiful-thursday-with-lots-of-sunshine-and-low-humidity-07-22-26/73235389",
+      "ts": "2026-07-22T21:52:00+00:00",
+      "summary": "Sunny stretch and warming up through this weekend, showers and storms return next week"
+     },
+     {
+      "id": "73234972",
+      "title": "President Trump attends dignified transfer of fallen troops",
+      "link": "https://www.mynbc5.com/article/trump-dignified-transfer-fallen-troops/73234972",
+      "ts": "2026-07-22T21:51:00+00:00",
+      "summary": "The U.S. death toll stands at 18 since the start of the Iran War."
+     },
+     {
+      "id": "73235111",
+      "title": "Vermont businesses raise money for cancer research through Bakes for Breast Cancer fundraiser",
+      "link": "https://www.mynbc5.com/article/vermont-businesses-raise-money-for-cancer-research-through-bakes-for-breast-cancer-fundraiser/73235111",
+      "ts": "2026-07-22T21:47:00+00:00",
+      "summary": "A handful of restaurants across Vermont are selling desserts to raise money for cancer research through the annual Bakes for Breast Cancer fundraiser"
+     },
+     {
+      "id": "73235543",
+      "title": "Mother of four children dead in Mechanicville has ‘not been ruled out’ as complicit, chief says",
+      "link": "https://www.mynbc5.com/article/mechanicville-new-york-death-investigations-update/73235543",
+      "ts": "2026-07-22T21:43:00+00:00",
+      "summary": "A month after six people were found dead in a Mechanicville apartment, the deceased mother of four has not been ruled out as complicit, police said on Wednesday."
+     },
+     {
+      "id": "73234770",
+      "title": "Senator Gillibrand celebrates passage of act to aid senior services",
+      "link": "https://www.mynbc5.com/article/senator-gillibrand-act-aid-senior-programs/73234770",
+      "ts": "2026-07-22T21:10:00+00:00",
+      "summary": "On Wednesday Sen. Kirsten Gillibrand (D-NY) celebrated the Older Americans Act Reauthorization Act that unanimously passed in the Senate to continue funding for eldercare programs."
      },
      {
       "id": "73235357",
       "title": "Plattsburgh City Beach closed due to swimming following E. coli testing",
       "link": "https://www.mynbc5.com/article/plattsburgh-city-beach-closed-e-coli-testing/73235357",
-      "ts": "2026-07-22T20:24:00+00:00",
+      "ts": "2026-07-22T21:04:00+00:00",
       "summary": "The City of Plattsburgh posted about the closure on its social media pages, saying the beach is closed to swimming as of July 22."
      },
      {
-      "id": "73233446",
-      "title": "Man survives heart attack after doctors gave him just a 5% chance of survival",
-      "link": "https://www.mynbc5.com/article/pennsylvania-heart-attack-hike-survival-story/73233446",
-      "ts": "2026-07-22T20:20:00+00:00",
-      "summary": "\"I want to live a long time, and I intend to.\" | Given just a 5% chance of survival, a Pennsylvania hiker beat the odds after a sudden heart attack – and built unexpected bonds with the care team that helped save him."
+      "id": "73230464",
+      "title": "One in 30 million catch: Hampton woman catches yellow lobster off NH coast",
+      "link": "https://www.mynbc5.com/article/rye-yellow-lobster-catch/73230464",
+      "ts": "2026-07-22T21:04:00+00:00",
+      "summary": "A rare yellow lobster was caught by a lobsterwoman from Hampton last week. There is about a one in 30 million chance of catching a lobster with this type of genetic mutation."
      },
      {
-      "id": "73233490",
-      "title": "Vermont tests AI technology to stop wrong-way drivers",
-      "link": "https://www.mynbc5.com/article/vermont-tests-ai-technology-to-stop-wrong-way-drivers/73233490",
-      "ts": "2026-07-22T20:20:00+00:00",
-      "summary": "The TAPCO wrong-way detection system is being piloted on the northbound and southbound interstate ramps at Exit 17 in Milton."
+      "id": "73228723",
+      "title": "Pilot says he barely had time to react before plane crashed in Cheshire County",
+      "link": "https://www.mynbc5.com/article/pilot-plane-crash-jaffrey-new-hampshire/73228723",
+      "ts": "2026-07-22T21:03:00+00:00",
+      "summary": "A pilot who was injured when his small plane crashed in Jaffrey earlier this summer said he feels lucky to be alive."
      },
      {
-      "id": "73229704",
-      "title": "Preliminary independent autopsy results for Nolan Wells' death released",
-      "link": "https://www.mynbc5.com/article/nolan-wells-preliminary-independent-autopsy-results/73229704",
-      "ts": "2026-07-22T20:19:00+00:00",
-      "summary": "The independent autopsy results in Nolan Wells' death have been released. The 18-year-old was found dead off the Mississippi coast earlier this month."
-     },
-     {
-      "id": "73235094",
-      "title": "Red Sox tie franchise record with 15th straight win",
-      "link": "https://www.mynbc5.com/article/red-sox-tie-franchise-record-with-15th-straight-win/73235094",
-      "ts": "2026-07-22T20:16:00+00:00",
-      "summary": "The Boston Red Sox have tied their franchise record of 15 consecutive wins, a feat last achieved in 1946, and will play tonight for a chance to break it."
-     },
-     {
-      "id": "73229675",
-      "title": "1 in 30 million catch: Rare yellow lobster caught off New Hampshire coast",
-      "link": "https://www.mynbc5.com/article/new-hampshire-coast-rare-yellow-lobster/73229675",
-      "ts": "2026-07-22T20:07:00+00:00",
-      "summary": "A rare yellow lobster was caught by a lobsterwoman from Hampton, New Hampshire, last week."
-     },
-     {
-      "id": "73234073",
-      "title": "Rabies increase in Franklin County: Resources to access",
-      "link": "https://www.mynbc5.com/article/rabies-increase-franklin-county-resources-to-access/73234073",
-      "ts": "2026-07-22T20:06:00+00:00",
-      "summary": "Amid rising rabies cases in Franklin County and the surrounding region, know your local rabies resources and what to do in a rabid animal situation."
+      "id": "73232653",
+      "title": "Trump says US is targeting 'Pickaxe Mountain' in Iran. But what is it?",
+      "link": "https://www.mynbc5.com/article/pickaxe-mountain-iran/73232653",
+      "ts": "2026-07-22T21:00:00+00:00",
+      "summary": "President Trump says the U.S. will start targeting \"Pickaxe Mountain\" in continued strikes in Iran soon. We explain what that really is and why officials are concerned about it."
      },
      {
       "id": "73234169",
       "title": "Federal bill that would transform student loan repayment pushed for by Senator Peter Welch",
       "link": "https://www.mynbc5.com/article/senator-welch-student-loan-interest-elimination-act/73234169",
-      "ts": "2026-07-22T20:03:00+00:00",
-      "summary": "The Student Loan Interest Elimination Act would"
+      "ts": "2026-07-22T20:59:00+00:00",
+      "summary": "A bill that would change how federal student loan borrowers make payments is making its way through Congress now, and Vermont Sen. Peter Welch is calling on fellow lawmakers to make sure it passes."
      },
      {
-      "id": "73231340",
-      "title": "Terrorism trial opens in stabbing of author Salman Rushdie",
-      "link": "https://www.mynbc5.com/article/terrorism-trial-attacker-of-author-salman-rushdie/73231340",
-      "ts": "2026-07-22T19:49:00+00:00",
-      "summary": "The man who was convicted of trying to kill Salman Rushdie during an onstage lecture is on trial again Wednesday, this time in a federal case."
+      "id": "73235680",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know",
+      "link": "https://www.mynbc5.com/article/openai-hacking-agent-rogue/73235680",
+      "ts": "2026-07-22T20:53:00+00:00",
+      "summary": "ChatGPT maker OpenAI says it is still investigating the \"unprecedented cyber incident\" that led its AI systems to hack into another AI company."
      },
      {
-      "id": "73234186",
-      "title": "Claim deadline nears for Amazon Prime settlement refunds",
-      "link": "https://www.mynbc5.com/article/amazon-ftc-settlement-claim-deadline/73234186",
-      "ts": "2026-07-22T19:46:00+00:00",
-      "summary": "The deadline to file a claim for Amazon's massive settlement with the Federal Trade Commission is right around the corner. Here's why Prime membership alone doesn't automatically make you eligible."
+      "id": "73233490",
+      "title": "Vermont tests AI technology to stop wrong-way drivers",
+      "link": "https://www.mynbc5.com/article/vermont-tests-ai-technology-to-stop-wrong-way-drivers/73233490",
+      "ts": "2026-07-22T20:43:00+00:00",
+      "summary": "The TAPCO wrong-way detection system is being piloted on the northbound and southbound interstate ramps at Exit 17 in Milton."
      },
      {
-      "id": "73220239",
-      "title": "Tropical Storm Bertha makes landfall on southern Louisiana with threatening winds",
-      "link": "https://www.mynbc5.com/article/tropical-storm-bertha-gulf-coast/73220239",
-      "ts": "2026-07-22T19:36:00+00:00",
-      "summary": "Tropical Storm Bertha is expected to weaken in the Gulf of Mexico as it chugs closer to the U.S. But forecasters say it still could bring coastal flooding and heavy rain from the Florida Panhandle to Louisiana."
+      "id": "73234474",
+      "title": "Miami Heat mistakenly posts link for LeBron James introductory press conference",
+      "link": "https://www.mynbc5.com/article/miami-heat-lebron-james-press-conference-mistake/73234474",
+      "ts": "2026-07-22T20:41:00+00:00",
+      "summary": "The Miami Heat mistakenly posted a YouTube link for an introductory press conference for LeBron James even though he had not yet made his free-agency decision."
      },
      {
-      "id": "73233066",
-      "title": "Videos show historic flooding in West Virginia, National Guard deployed",
-      "link": "https://www.mynbc5.com/article/west-virginia-flash-floods-rescues-emergency/73233066",
-      "ts": "2026-07-22T19:21:00+00:00",
-      "summary": "Torrential rains caused flash floods in West Virginia that inundated homes and businesses, washed out bridges and led to numerous water rescues, authorities said."
-     },
-     {
-      "id": "73228926",
-      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in Strait of Hormuz",
-      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-retaliation-bridge-power/73228926",
-      "ts": "2026-07-22T19:02:00+00:00",
-      "summary": "President Trump has warned Iran that the U.S. will destroy one bridge or power plant, including in Iran's capital, each time Iran shoots at a ship in the Strait of Hormuz."
-     },
-     {
-      "id": "73232950",
-      "title": "Jury selection continues for Canadian man accused of killing daughter in New York",
-      "link": "https://www.mynbc5.com/article/jury-selection-luciano-frattolin-day-2/73232950",
-      "ts": "2026-07-22T18:59:00+00:00",
-      "summary": "Eleven jurors have been seated in the upcoming trial of Luciano Frattolin, who is accused of killing his daughter while on vacation last year."
-     },
-     {
-      "id": "73232893",
-      "title": "93-year-old man dies in Northern New York UTV crash, police say",
-      "link": "https://www.mynbc5.com/article/93-year-old-man-dies-in-northern-new-york-utv-crash-police-say/73232893",
-      "ts": "2026-07-22T18:57:00+00:00",
-      "summary": "A 93-year-old North Country man has died following a Utility Task Vehicle crash in Morristown on Tuesday evening."
-     },
-     {
-      "id": "73232763",
-      "title": "FBI: Father, son held 2 federal biologists hostage for more than 15 hours",
-      "link": "https://www.mynbc5.com/article/father-son-federal-biologists-hostage-mount-shasta/73232763",
-      "ts": "2026-07-22T18:47:00+00:00",
-      "summary": "A father and son who appeared before a federal judge are accused of kidnapping two U.S. Forest Service employees and holding them hostage for more than 15 hours in a trailer near Mount Shasta. The employees were eventually released unharmed, according to officials."
-     },
-     {
-      "id": "73232735",
-      "title": "Royal family releases new portrait of Prince George as he celebrates his 13th birthday",
-      "link": "https://www.mynbc5.com/article/prince-george-13th-birthday-portrait/73232735",
-      "ts": "2026-07-22T18:42:00+00:00",
-      "summary": "Prince George just turned 13, and the royals released a new portrait to celebrate the milestone birthday!"
-     },
-     {
-      "id": "73227989",
-      "title": "‘I love him a lot’: 8-year-old girl provides life-saving bone marrow transplant to her brother",
-      "link": "https://www.mynbc5.com/article/brooks-sister-bone-marrow-transplant-sickle-cell/73227989",
-      "ts": "2026-07-22T18:37:00+00:00",
-      "summary": "An 8-year-old Alabama girl gave her brother something no toy or hug ever could: a second chance at life."
-     },
-     {
-      "id": "73231249",
-      "title": "June 1 trial date set for Venezuela's Nicolás Maduro in his US drug trafficking case",
-      "link": "https://www.mynbc5.com/article/maduro-venezuela-court-trial-drug-case/73231249",
-      "ts": "2026-07-22T18:16:00+00:00",
-      "summary": "Nicolás Maduro has returned to a New York courthouse where lawyers plan to ask a judge to set a June trial date for his drug trafficking case."
+      "id": "73232603",
+      "title": "This family was orphaned and divided by war in Gaza. Their big sister brought them back together",
+      "link": "https://www.mynbc5.com/article/orphaned-by-war-in-gaza-palestinian-siblings-reunite-with-their-sister-in-israel/73232603",
+      "ts": "2026-07-22T20:31:00+00:00",
+      "summary": "A Palestinian family that was divided between Israel and Gaza was reunited this month after the eldest sister waged a two-year effort to bring her orphaned siblings to join her in Israel."
      }
     ]
    },
@@ -2566,6 +2566,14 @@
     "venue": "South Burlington Public Library"
    },
    {
+    "id": "e7b0fe5e6f94",
+    "title": "Princess Storytime & Book Giveaway",
+    "link": "https://calendar.time.ly/nt0nyapn/event/78419240/20260723103000",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-07-23T10:30:00-04:00",
+    "venue": "Winooski Memorial Library"
+   },
+   {
     "id": "ae9e8f183044",
     "title": "Storytime",
     "link": "https://calendar.time.ly/nt0nyapn/event/69322057/20260723103000",
@@ -3110,14 +3118,6 @@
     "venue": "Fort Ethan Allen"
    },
    {
-    "id": "d4bc26168276",
-    "title": "Tie Dye Party",
-    "link": "https://brownelllibrary.org/event/tie-dye-party/",
-    "ts": "2026-07-11T17:24:06-04:00",
-    "start": "2026-07-24T08:00:00-04:00",
-    "venue": "Brownell Library"
-   },
-   {
     "id": "9c8ebb59902a",
     "title": "Weekly Meditation",
     "link": "https://community.sevendaysvt.com/event/weekly-meditation-44684837",
@@ -3318,6 +3318,14 @@
     "venue": "South Burlington Public Library"
    },
    {
+    "id": "d4bc26168276",
+    "title": "Tie Dye Party",
+    "link": "https://brownelllibrary.org/event/tie-dye-party/",
+    "ts": "2026-07-11T17:24:06-04:00",
+    "start": "2026-07-24T15:00:00-04:00",
+    "venue": "Brownell Library"
+   },
+   {
     "id": "d0c063a049a1",
     "title": "Richmond Farmers Market",
     "link": "https://community.sevendaysvt.com/event/richmond-farmers-market-45123394",
@@ -3460,6 +3468,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-24T18:00:00-04:00",
     "venue": "Higher Ground"
+   },
+   {
+    "id": "2d92d7830718",
+    "title": "Vermont Green FC vs. Asheville City SC on the Big Screen",
+    "link": "https://www.switchbackvt.com/beer-garden-events/vermont-green-fc-eastern-conference-final",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-07-24T18:30:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "660115d9952c",
@@ -4184,7 +4200,7 @@
    {
     "id": "85bd08e703b4",
     "title": "Fried Chicken Sundays",
-    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2-576yp",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-26T12:00:00-04:00",
     "venue": "Switchback Brewing Company"
@@ -4348,6 +4364,22 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-26T15:00:00-04:00",
     "venue": "Main Street Landing Performing Arts Center"
+   },
+   {
+    "id": "98ceb1d3ab72",
+    "title": "Chittenden Democrats Grill and Chill",
+    "link": "https://www.helloburlingtonvt.com/event/chittenden-democrats-grill-and-chill/7747/",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-07-26T16:00:00-04:00",
+    "venue": "Oakledge Park"
+   },
+   {
+    "id": "16d636efe3cb",
+    "title": "Womxn's Pick-up Soccer - Outdoors at Starr Farm Park",
+    "link": "https://www.meetup.com/womens-soccer-vermont/events/315787640/",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-07-26T17:00:00-04:00",
+    "venue": "Starr Farm Park"
    },
    {
     "id": "e45f94e3ecf0",
@@ -4698,14 +4730,6 @@
     "title": "Community of Poets Sharing Circle with Darlene Witte July 27 2026 7 PM",
     "link": "https://www.meetup.com/community-of-poets-sharing-circle-with-darlene-witte-phd/events/315591985/",
     "ts": "2026-07-20T08:02:35-04:00",
-    "start": "2026-07-27T19:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "76c98e6a1e9e",
-    "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
-    "link": "https://www.meetup.com/community-of-poets-sharing-circle-with-darlene-witte-phd/events/315591985/",
-    "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-27T19:00:00-04:00",
     "venue": ""
    },
@@ -6166,6 +6190,14 @@
     "venue": "Four Quarters Brewing"
    },
    {
+    "id": "3cc5d97f5584",
+    "title": "Mood Swings w/ DJ Fattie B",
+    "link": "https://www.helloburlingtonvt.com/event/mood-swings-w-dj-fattie-b/7749/",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-07-30T18:00:00-04:00",
+    "venue": "Citizen Cider"
+   },
+   {
     "id": "60b22abd4d89",
     "title": "Methods & Means: Maker Economics",
     "link": "https://www.facebook.com/events/4502236916714377/",
@@ -6244,6 +6276,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-07-30T18:00:00-04:00",
     "venue": "Maple Tree Place"
+   },
+   {
+    "id": "56f44decade8",
+    "title": "Adam Ezra Group",
+    "link": "https://www.helloburlingtonvt.com/event/adam-ezra-group/7748/",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-07-30T18:30:00-04:00",
+    "venue": "Cochran Ski Area"
    },
    {
     "id": "dfb7daf65d27",
@@ -7238,12 +7278,28 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
+    "id": "8cb79217763d",
+    "title": "Fried Chicken Sundays",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-02T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "cbcaf26c87c8",
     "title": "Friends Book Sale",
     "link": "https://fletcherfree.libcal.com/event/16806330",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-02T12:00:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "7bb1cd47e0f6",
+    "title": "Cluckin’ & Pluckin’: Jerborn",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sunday-8",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-02T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "05ae97043916",
@@ -7374,6 +7430,14 @@
     "venue": "Hood Plant"
    },
    {
+    "id": "36082b2c7254",
+    "title": "Spin Doctors",
+    "link": "https://highergroundmusic.com/events/spin-doctors/",
+    "ts": "2026-07-10T17:56:00-04:00",
+    "start": "2026-08-02T18:00:00-04:00",
+    "venue": "Spruce Peak Arts"
+   },
+   {
     "id": "4870c164e4e5",
     "title": "New Leaf Sangha Mindfulness Practice",
     "link": "https://community.sevendaysvt.com/event/new-leaf-sangha-mindfulness-practice-41783747",
@@ -7396,14 +7460,6 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-02T19:00:00-04:00",
     "venue": "Waterfront Park"
-   },
-   {
-    "id": "36082b2c7254",
-    "title": "Spin Doctors",
-    "link": "https://highergroundmusic.com/events/spin-doctors/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-02T19:00:00-04:00",
-    "venue": "Spruce Peak Arts"
    },
    {
     "id": "dab41bfb92f9",
@@ -7666,14 +7722,6 @@
     "title": "Community of Poets Sharing Circle with Darlene Witte August 3 2026 7 PM",
     "link": "https://www.meetup.com/community-of-poets-sharing-circle-with-darlene-witte-phd/events/315687207/",
     "ts": "2026-07-20T08:02:35-04:00",
-    "start": "2026-08-03T19:00:00-04:00",
-    "venue": ""
-   },
-   {
-    "id": "40c0752502a8",
-    "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
-    "link": "https://www.meetup.com/community-of-poets-sharing-circle-with-darlene-witte-phd/events/315687207/",
-    "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-03T19:00:00-04:00",
     "venue": ""
    },
@@ -8206,6 +8254,14 @@
     "venue": ""
    },
    {
+    "id": "9fc34ab850f2",
+    "title": "$12 Buns & Brew Night",
+    "link": "https://www.switchbackvt.com/beer-garden-events/buns-and-brew9",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-05T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "99e705a85d03",
     "title": "DREAM lunch",
     "link": "https://fletcherfree.libcal.com/event/17028917",
@@ -8716,6 +8772,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-06T12:00:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "794c5ec6bceb",
+    "title": "Half Priced Wings",
+    "link": "https://www.switchbackvt.com/beer-garden-events/half-priced-wings1",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-06T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "be8677ee5bde",
@@ -9382,6 +9446,14 @@
     "venue": "Phoenix Books"
    },
    {
+    "id": "f22cfcca1d22",
+    "title": "Live Music: Mowgli Giannitti",
+    "link": "https://www.switchbackvt.com/beer-garden-events/music-at-the-beer-garden-mowgli-giannitti",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-07T17:30:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "c64804e0164f",
     "title": "Folk Nation: Crafting American Identities",
     "link": "https://shelburnemuseum.org/event/folk-nation-crafting-american-identities/",
@@ -10014,6 +10086,14 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
+    "id": "33c79bb00de6",
+    "title": "Fried Chicken Sundays",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2-7m2b4",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-09T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "b6d0ffdba1e1",
     "title": "LGBTQIA+ Mixer",
     "link": "https://www.meetup.com/friendlytabletopgamers/events/315762453/",
@@ -10374,14 +10454,6 @@
     "venue": ""
    },
    {
-    "id": "c809bf7713e0",
-    "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
-    "link": "https://www.meetup.com/community-of-poets-sharing-circle-with-darlene-witte-phd/events/sjlmwtyjclbnb/",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-08-10T19:00:00-04:00",
-    "venue": ""
-   },
-   {
     "id": "3fb1670ecbde",
     "title": "Monday Night Live",
     "link": "https://community.sevendaysvt.com/event/monday-night-live-44684727",
@@ -10432,7 +10504,7 @@
    {
     "id": "6e15840ca34e",
     "title": "Burlington Bitcoin Meetup - @ Zero Gravity",
-    "link": "https://www.meetup.com/burlington-bitcoin-meetup/events/ggfpvtyjclbpb/",
+    "link": "https://www.meetup.com/burlington-bitcoin-meetup/events/315788302/",
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-11T09:00:00-04:00",
     "venue": "Zero Gravity Craft Brewery"
@@ -10918,6 +10990,14 @@
     "venue": "New North End Branch"
    },
    {
+    "id": "5ae59941a8d7",
+    "title": "$12 Buns & Brew Night",
+    "link": "https://www.switchbackvt.com/beer-garden-events/buns-and-brew10",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-12T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "65314b9cda17",
     "title": "Wednesday Walks",
     "link": "https://events.uvm.edu/event/wednesday-walks",
@@ -11356,6 +11436,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-13T12:00:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "877c8c10d3d5",
+    "title": "Half Priced Wings",
+    "link": "https://www.switchbackvt.com/beer-garden-events/half-priced-wings1-brpbg",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-13T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "d92a868f5618",
@@ -11846,6 +11934,14 @@
     "venue": "Vermont Comedy Club"
    },
    {
+    "id": "279a2a62f3cd",
+    "title": "Falsettos",
+    "link": "https://www.helloburlingtonvt.com/event/falsettos/7742/",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-14T19:00:00-04:00",
+    "venue": "Main Street Landing Performing Arts Center"
+   },
+   {
     "id": "12eb6f63b7a8",
     "title": "Friday Night at Specs",
     "link": "https://community.sevendaysvt.com/event/friday-night-at-specs-44521706",
@@ -12118,6 +12214,14 @@
     "venue": "Stowe Cider"
    },
    {
+    "id": "1bdb4b4a0293",
+    "title": "Green Mountain Wrestling at Switchback",
+    "link": "https://www.switchbackvt.com/beer-garden-events/switchback-slam",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-15T18:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "1cea6405fbf7",
     "title": "Ripe",
     "link": "https://www.mychamplainvalley.com/calendar/#/details/ripe/19456673/2026-08-15T18",
@@ -12268,6 +12372,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-16T11:30:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
+   },
+   {
+    "id": "27a4f6f8539a",
+    "title": "Fried Chicken Sundays",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2-7m2b4-h2my6",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-16T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "f2ff7b925cce",
@@ -12814,6 +12926,14 @@
     "venue": "Saint Michael's College"
    },
    {
+    "id": "b86116421422",
+    "title": "Noah Guthrie w/ Jeff Wilson",
+    "link": "https://www.helloburlingtonvt.com/event/noah-guthrie-w-jeff-wilson/7277/",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-18T19:30:00-04:00",
+    "venue": "Radio Bean"
+   },
+   {
     "id": "a3d0c19075db",
     "title": "Noah Guthrie",
     "link": "https://www.helloburlingtonvt.com/event/noah-guthrie/7277/",
@@ -12900,6 +13020,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-19T11:00:00-04:00",
     "venue": "New North End Branch"
+   },
+   {
+    "id": "a4b8d302a87b",
+    "title": "$12 Buns & Brew Night",
+    "link": "https://www.switchbackvt.com/beer-garden-events/buns-and-brew11",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-19T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "98bd93e1b813",
@@ -13318,6 +13446,14 @@
     "venue": "Fletcher Free Library"
    },
    {
+    "id": "033bf87f4ab9",
+    "title": "Half Priced Wings",
+    "link": "https://www.switchbackvt.com/beer-garden-events/half-priced-wings-5",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-20T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "a246af20b6d0",
     "title": "Hot Dog & A Can Thursdays",
     "link": "https://calendar.time.ly/vfaca7kw/event/78327768/20260820120000",
@@ -13428,6 +13564,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-20T17:00:00-04:00",
     "venue": "Old Lantern Events Barn"
+   },
+   {
+    "id": "1988d0314237",
+    "title": "Live Music: Blake Matteson",
+    "link": "https://www.switchbackvt.com/beer-garden-events/music-at-the-beer-garden-blake-matteson",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-20T17:30:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "4f52e53c3c63",
@@ -14182,6 +14326,22 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
+    "id": "b188fd5489dd",
+    "title": "Fried Chicken Sundays",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2-7m2b4-h2my6-7gb8p",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-23T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
+    "id": "658b9e694141",
+    "title": "Switchback Sessions",
+    "link": "https://www.switchbackvt.com/beer-garden-events/switchback-sessions",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-23T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "ea1ff599961b",
     "title": "Sunday Funday",
     "link": "https://community.sevendaysvt.com/event/sunday-funday-38405867",
@@ -14878,6 +15038,14 @@
     "venue": "New North End Branch"
    },
    {
+    "id": "58ed6937fd03",
+    "title": "$12 Buns & Brew Night",
+    "link": "https://www.switchbackvt.com/beer-garden-events/buns-and-brew12",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-26T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "f94301a9694b",
     "title": "Tree ID and Natural History Tour of East Woods",
     "link": "https://www.eventbrite.com/e/tree-id-and-natural-history-tour-of-east-woods-tickets-1990571443773",
@@ -15244,6 +15412,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-27T12:00:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "d3885be07a55",
+    "title": "Half Priced Wings",
+    "link": "https://www.switchbackvt.com/beer-garden-events/half-priced-wings-5-59tem",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-27T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "180a74317457",
@@ -15654,6 +15830,14 @@
     "venue": "Speaking Volumes"
    },
    {
+    "id": "92ecdd3e1c39",
+    "title": "Live Music: Moonbird",
+    "link": "https://www.switchbackvt.com/beer-garden-events/music-at-the-beer-garden-moonbird",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-28T17:30:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "dfdf2bb9e76a",
     "title": "French Social Hour",
     "link": "https://community.sevendaysvt.com/event/french-social-hour-42160760",
@@ -15966,6 +16150,14 @@
     "venue": "Higher Ground"
    },
    {
+    "id": "1e76a694ddca",
+    "title": "Hustle Souls",
+    "link": "https://www.helloburlingtonvt.com/event/hustle-souls/7739/",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-29T20:30:00-04:00",
+    "venue": "Radio Bean"
+   },
+   {
     "id": "1abee6d81335-2100",
     "title": "Nataly Aukar",
     "link": "https://www-vermontcomedyclub-com.seatengine.com/shows/372447",
@@ -16060,6 +16252,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-08-30T11:30:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
+   },
+   {
+    "id": "2aecafbd0ed5",
+    "title": "Fried Chicken Sundays",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2-7m2b4-h2my6-7gb8p-4t4gf",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-08-30T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "3ac1abe71bfc",
@@ -16710,6 +16910,14 @@
     "venue": "Brownell Library"
    },
    {
+    "id": "bc3ee95abf6b",
+    "title": "$12 Buns & Brew Night",
+    "link": "https://www.switchbackvt.com/beer-garden-events/buns-and-brew15",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-02T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "a0ffdd07340c-1300",
     "title": "Tech Help with Clif",
     "link": "https://brownelllibrary.org/event/tech-help-with-clif-7/2026-09-02/",
@@ -17068,6 +17276,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-03T12:00:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "331cc7ac5bf4",
+    "title": "Half Priced Wings",
+    "link": "https://www.switchbackvt.com/beer-garden-events/half-priced-wings-5-59tem-95kjl",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-03T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "b722bae430e8",
@@ -17686,6 +17902,14 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
+    "id": "c7359bc1d8d3",
+    "title": "Park Fest",
+    "link": "https://www.helloburlingtonvt.com/event/park-fest/7745/",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-05T13:00:00-04:00",
+    "venue": "South Burlington Parks & Rec"
+   },
+   {
     "id": "ea3895dc6e50",
     "title": "Tours",
     "link": "https://www.helloburlingtonvt.com/event/tours/7464/",
@@ -17844,6 +18068,14 @@
     "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-06T11:30:00-04:00",
     "venue": "ECHO, Leahy Center for Lake Champlain"
+   },
+   {
+    "id": "3571487777ab",
+    "title": "Fried Chicken Sundays",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2-7m2b4-h2my6-7gb8p-4t4gf-atxtn",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-06T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "b89e9db3493e",
@@ -18054,14 +18286,6 @@
     "venue": "ECHO, Leahy Center for Lake Champlain"
    },
    {
-    "id": "8f6cf5630a42",
-    "title": "Industry Day",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78304357/20260907000000",
-    "ts": "2026-07-10T17:56:00-04:00",
-    "start": "2026-09-07T11:30:00-04:00",
-    "venue": "Vermont Pub and Brewery"
-   },
-   {
     "id": "3e5f31d747cb",
     "title": "'Dinosaurs of Antarctica 3D'",
     "link": "https://community.sevendaysvt.com/event/dinosaurs-of-antarctica-3d-44804713",
@@ -18174,18 +18398,26 @@
     "venue": "Higher Ground"
    },
    {
-    "id": "63caf8e3d2a3",
-    "title": "Dream / Mộng : Veronica Pham",
-    "link": "https://calendar.time.ly/vfaca7kw/event/78415214/20260715000000",
-    "ts": "2026-07-22T07:27:55-04:00",
+    "id": "8f6cf5630a42",
+    "title": "Industry Day",
+    "link": "https://calendar.time.ly/vfaca7kw/event/78304357/20260907000000",
+    "ts": "2026-07-10T17:56:00-04:00",
     "start": "2026-09-07",
-    "venue": ""
+    "venue": "Vermont Pub and Brewery"
    },
    {
     "id": "9488fb48a64f",
     "title": "Dinosaur Safari Exhibit",
     "link": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
     "ts": "2026-07-21T17:44:33-04:00",
+    "start": "2026-09-07",
+    "venue": ""
+   },
+   {
+    "id": "63caf8e3d2a3",
+    "title": "Dream / Mộng : Veronica Pham",
+    "link": "https://calendar.time.ly/vfaca7kw/event/78415214/20260715000000",
+    "ts": "2026-07-22T07:27:55-04:00",
     "start": "2026-09-07",
     "venue": ""
    },
@@ -18534,6 +18766,14 @@
     "venue": "UVM Davis Center"
    },
    {
+    "id": "e4ec14996e01",
+    "title": "$12 Buns & Brew Night",
+    "link": "https://www.switchbackvt.com/beer-garden-events/buns-and-brew13",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-09T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "22bdd6b02b37",
     "title": "Wednesday Public Skate",
     "link": "https://www.burlingtonvt.gov/calendar.aspx?EID=4755",
@@ -18742,6 +18982,14 @@
     "venue": "Venetian Soda Lounge"
    },
    {
+    "id": "134e24933398",
+    "title": "VCA Presents: $5 Improv Night!",
+    "link": "https://www-vermontcomedyclub-com.seatengine.com/shows/381304",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-09T19:00:00-04:00",
+    "venue": "Vermont Comedy Club"
+   },
+   {
     "id": "7d3a7fb14952",
     "title": "I ❤️ Female Orgasm",
     "link": "https://events.uvm.edu/event/i-heart-female-orgasm",
@@ -18860,6 +19108,14 @@
     "ts": "2026-07-12T06:59:21-04:00",
     "start": "2026-09-10T12:00:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "bb4e6aba29a2",
+    "title": "Half Priced Wings",
+    "link": "https://www.switchbackvt.com/beer-garden-events/half-priced-wings-5-59tem-95kjl-3e9ff",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-10T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "233973c35413",
@@ -19070,6 +19326,14 @@
     "venue": ""
    },
    {
+    "id": "2834621ce3e2",
+    "title": "Family Paint Night: September 2026",
+    "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQxNTMxNjU=",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-11T17:30:00-04:00",
+    "venue": "South Burlington Senior Center"
+   },
+   {
     "id": "419e3197a881",
     "title": "Rhythm and Reels Series: The Night Shift Concert + Goat",
     "link": "https://secure.rec1.com/VT/south-burlington-vt-recreation-parks/catalog?filter=c2VhcmNoPTQxNTMxNTY=",
@@ -19252,6 +19516,14 @@
     "ts": "2026-07-15T07:13:29-04:00",
     "start": "2026-09-13T10:00:00-04:00",
     "venue": "Winooski Farmers Market"
+   },
+   {
+    "id": "5eba4dc77b64",
+    "title": "Fried Chicken Sundays",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2-7m2b4-h2my6-7gb8p-4t4gf-atxtn-t69xa",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-13T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "25c25fe03cc5",
@@ -19606,6 +19878,14 @@
     "venue": "Brownell Library"
    },
    {
+    "id": "1b67f1b60f95",
+    "title": "$12 Buns & Brew Night",
+    "link": "https://www.switchbackvt.com/beer-garden-events/buns-and-brew14",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-16T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
+   },
+   {
     "id": "6789aff03f5a",
     "title": "Wednesday Public Skate",
     "link": "https://www.burlingtonvt.gov/calendar.aspx?EID=4756",
@@ -19758,6 +20038,14 @@
     "venue": "Venetian Soda Lounge"
    },
    {
+    "id": "bfcb40c9b182",
+    "title": "VCA Presents: $5 Improv Night!",
+    "link": "https://www-vermontcomedyclub-com.seatengine.com/shows/381305",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-16T19:00:00-04:00",
+    "venue": "Vermont Comedy Club"
+   },
+   {
     "id": "608285b2185a",
     "title": "Venetian Trivia Night!",
     "link": "https://www.helloburlingtonvt.com/event/venetian-trivia-night!/5598/",
@@ -19820,6 +20108,14 @@
     "ts": "2026-07-19T06:58:43-04:00",
     "start": "2026-09-17T12:00:00-04:00",
     "venue": "Fletcher Free Library"
+   },
+   {
+    "id": "07aa56019fae",
+    "title": "Half Priced Wings",
+    "link": "https://www.switchbackvt.com/beer-garden-events/half-priced-wings-5-59tem-95kjl-3e9ff-symj2",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-17T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "b08e8938038c",
@@ -20172,6 +20468,14 @@
     "ts": "2026-07-22T07:27:55-04:00",
     "start": "2026-09-20T11:00:00-04:00",
     "venue": "Vermont Comedy Club"
+   },
+   {
+    "id": "6805787b0170",
+    "title": "Fried Chicken Sundays",
+    "link": "https://www.switchbackvt.com/beer-garden-events/fried-chicken-sundays-2-7m2b4-h2my6-7gb8p-4t4gf-atxtn-t69xa-f9f45",
+    "ts": "2026-07-22T17:42:48-04:00",
+    "start": "2026-09-20T12:00:00-04:00",
+    "venue": "Switchback Brewing Company"
    },
    {
     "id": "b5f841931bc8",
