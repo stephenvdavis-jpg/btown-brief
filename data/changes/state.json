@@ -11,37 +11,37 @@
    "Blanchard Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T13:32:00+00:00"
+    "resultTime": "2026-07-22T18:40:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T13:31:00+00:00"
+    "resultTime": "2026-07-22T18:39:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T13:39:00+00:00"
+    "resultTime": "2026-07-22T18:46:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T14:27:00+00:00"
+    "resultTime": "2026-07-22T19:16:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T14:27:00+00:00"
+    "resultTime": "2026-07-22T19:16:00+00:00"
    },
    "North Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T14:03:00+00:00"
+    "resultTime": "2026-07-22T19:07:00+00:00"
    },
    "North Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T14:02:00+00:00"
+    "resultTime": "2026-07-22T19:07:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -56,7 +56,7 @@
    "Texaco Beach": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-22T13:56:00+00:00"
+    "resultTime": "2026-07-22T19:02:00+00:00"
    }
   }
  },
@@ -502,7 +502,10 @@
     "name": "Transportation, Energy, and Utilities Committee",
     "start": "2026-07-28T17:30:00+00:00",
     "hasAgenda": true,
-    "files": []
+    "files": [
+     "Agenda",
+     "Agenda Packet"
+    ]
    },
    "9960": {
     "name": "Regular Planning Commission Meeting",
@@ -825,6 +828,20 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-22/man-will-admit-to-paying-migrant-justice-organizer-to-smuggle-woman-into-us",
+      "title": "Man will admit to paying Migrant Justice organizer to smuggle woman into US",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-22/man-will-admit-to-paying-migrant-justice-organizer-to-smuggle-woman-into-us",
+      "ts": "2026-07-22T19:25:36+00:00",
+      "summary": "As part of a proposed plea deal, an undocumented man says he hired José Ignacio “Nacho” De La Cruz De La Rosa to transport his girlfriend across the Canadian border."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-22/scientists-confirm-rare-cancer-bullhead-lake-memphremagog",
+      "title": "Scientists confirm rare 'parasite-like' cancer in bullhead from Lake Memphremagog",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-22/scientists-confirm-rare-cancer-bullhead-lake-memphremagog",
+      "ts": "2026-07-22T18:51:21+00:00",
+      "summary": "For many years now, anglers have been catching brown bullhead in Lake Memphremagog that are riddled with lesions and tumors. Now, scientists say they've confirmed it's a rare kind of contagious cancer."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-22/democratic-candidates-governor-voters-primary",
       "title": "Democratic candidates for governor try to rouse voters in sleepy summer primary",
       "link": "https://www.vermontpublic.org/local-news/2026-07-22/democratic-candidates-governor-voters-primary",
@@ -893,38 +910,66 @@
       "link": "https://www.vermontpublic.org/show/all-things-gardening/2026-07-19/sow-cool-season-crops-in-hot-july-for-a-continuous-vegetable-harvest-this-fall",
       "ts": "2026-07-19T12:00:00+00:00",
       "summary": "Starting cool-season plants in peak summer will ensure a harvest bounty come fall."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-this-week/2026-07-17/in-review-botched-ice-raid-states-attorneys-race-corrections-staff-shortage",
-      "title": "In review: Botched ICE raid, high-stakes state's attorney race, corrections staff shortage",
-      "link": "https://www.vermontpublic.org/show/vermont-this-week/2026-07-17/in-review-botched-ice-raid-states-attorneys-race-corrections-staff-shortage",
-      "ts": "2026-07-17T21:53:29+00:00",
-      "summary": "Vermont's top journalists join moderator Mitch Wertlieb to delve into the most important news stories of the week."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/vermonts-smallest-breweries-sell-beer-directly-stores-restaurants",
-      "title": "Vermont’s smallest breweries can now sell their beer directly to stores and restaurants",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/vermonts-smallest-breweries-sell-beer-directly-stores-restaurants",
-      "ts": "2026-07-17T19:59:55+00:00",
-      "summary": "Proponents of the new law say it will put more money into the small businesses that produce craft beer around the state"
      }
     ]
    },
    "wcax": {
     "items": [
      {
+      "id": "JFRNIYADWZASXD3PH67FMYPQZU",
+      "title": "Burlington police link 2 July 4th gunfire incidents; 2 adults held without bail",
+      "link": "https://www.wcax.com/2026/07/22/burlington-police-link-2-july-4th-gunfire-incidents-2-adults-held-without-bail/",
+      "ts": "2026-07-22T20:18:43+00:00",
+      "summary": "Two Burlington gunfire incidents earlier this month were connected, according to police."
+     },
+     {
+      "id": "K2OVSS4GFVGK5JTZEBQBJEMEVA",
+      "title": "Burlington to hold public meeting on New North End housing plan Wednesday",
+      "link": "https://www.wcax.com/2026/07/22/burlington-hold-public-meeting-new-north-end-housing-plan-wednesday/",
+      "ts": "2026-07-22T20:04:30+00:00",
+      "summary": "Burlington officials will hold a public meeting Wednesday evening on a plan that could bring hundreds of new housing units to the New North End."
+     },
+     {
+      "id": "E7PIWOBGEFFSPERVM7PGVXNNPE",
+      "title": "Gov. Scott calls Canadian tariffs ‘a bad idea’ that will cost Vermonters",
+      "link": "https://www.wcax.com/2026/07/22/gov-scott-calls-canadian-tariffs-bad-idea-that-will-cost-vermonters/",
+      "ts": "2026-07-22T19:37:02+00:00",
+      "summary": "Vermont Gov. Phil Scott weighed in on Wednesday about the Trump administration’s new tariffs with Canada, the state’s biggest trading partner."
+     },
+     {
+      "id": "XUEENJ4V4JC2PEVJRL3MJY4YTI",
+      "title": "Dartmouth’s Geisel School of Medicine stands by admissions process amid federal DEI lawsuit",
+      "link": "https://www.wcax.com/2026/07/22/dartmouths-geisel-school-medicine-stands-by-admissions-process-amid-federal-dei-lawsuit/",
+      "ts": "2026-07-22T19:17:38+00:00",
+      "summary": "Dartmouth College’s medical school is responding to a lawsuit from the U.S. Department of Education over alleged racial discrimination in admissions"
+     },
+     {
+      "id": "SKPRI4QNMBECZIILXAY4PNGWDY",
+      "title": "Fire at Cadyville business under investigation; not believed suspicious",
+      "link": "https://www.wcax.com/2026/07/22/fire-cadyville-business-under-investigation-not-believed-suspicious/",
+      "ts": "2026-07-22T19:09:15+00:00",
+      "summary": "Investigators are trying to figure out what sparked a fire and apparent explosion at a Clinton County, New York, business Tuesday evening."
+     },
+     {
+      "id": "N7LSATGMZVC2BAYUKL44MOLZ2U",
+      "title": "Man, 93, dies after UTV overturns",
+      "link": "https://www.wcax.com/2026/07/22/man-93-dies-after-utv-overturns/",
+      "ts": "2026-07-22T19:03:18+00:00",
+      "summary": "A 93-year-old Ogdensburg, New York, man died Tuesday evening after the utility terrain vehicle he was driving overturned."
+     },
+     {
+      "id": "6Y4GENWQZJES7HKJPN5RGY4BFM",
+      "title": "Missing Vermont man may have been spotted in Waterbury, police say",
+      "link": "https://www.wcax.com/2026/07/22/missing-vermont-man-may-have-been-spotted-waterbury-police-say/",
+      "ts": "2026-07-22T18:46:00+00:00",
+      "summary": "Police searching for a missing Duxbury man say he may have been spotted at a business in Waterbury on Wednesday."
+     },
+     {
       "id": "TKYM6XKYTNBYDAGOWKXE5ZIIP4",
       "title": "Bolton Valley Resort restructures leadership for major development",
       "link": "https://www.wcax.com/2026/07/22/bolton-valley-resort-restructures-leadership-major-development/",
       "ts": "2026-07-22T16:13:01+00:00",
       "summary": "There is new leadership at the helm of Bolton Valley Resort as it takes on a major development initiative"
-     },
-     {
-      "id": "6Y4GENWQZJES7HKJPN5RGY4BFM",
-      "title": "Police searching for missing Vermont man",
-      "link": "https://www.wcax.com/2026/07/21/police-searching-missing-vermont-man/",
-      "ts": "2026-07-22T15:53:57+00:00",
-      "summary": "Vermont troopers say Clifford Bennett left his Duxbury home on Monday afternoon and has not been seen or heard from since."
      },
      {
       "id": "4S7PJ5ZD6BATZLNVFAG4MEKUPE",
@@ -967,13 +1012,6 @@
       "link": "https://www.wcax.com/2026/07/21/appeals-court-rules-vermont-judge-lacked-authority-free-mohsen-mahdawi/",
       "ts": "2026-07-22T00:23:35+00:00",
       "summary": "The Upper Valley man was among those targeted by the Trump administration for his involvement in pro-Palestinian activism."
-     },
-     {
-      "id": "SKPRI4QNMBECZIILXAY4PNGWDY",
-      "title": "Fire breaks out after apparent explosion at Morrisonville Septic in New York",
-      "link": "https://www.wcax.com/2026/07/21/fire-breaks-out-after-apparent-explosion-morrisonville-septic-new-york/",
-      "ts": "2026-07-22T00:14:03+00:00",
-      "summary": "A fire broke out after an apparent explosion at Morrisonville Septic Tuesday evening."
      },
      {
       "id": "BQCVETXX4NAOXD4AH7KVY4UIXY",
@@ -1051,13 +1089,6 @@
       "link": "https://www.wcax.com/2026/07/21/rutland-man-pleads-not-guilty-federal-robbery-charge-after-convenience-store-incident/",
       "ts": "2026-07-21T20:57:26+00:00",
       "summary": "Court records show Todd Bussino threatened an employee with a box cutter."
-     },
-     {
-      "id": "XUEENJ4V4JC2PEVJRL3MJY4YTI",
-      "title": "Trump administration launches DEI investigation into Dartmouth’s Geisel School of Medicine",
-      "link": "https://www.wcax.com/2026/07/21/trump-administration-launches-dei-investigation-into-dartmouths-geisel-school-medicine/",
-      "ts": "2026-07-21T20:54:11+00:00",
-      "summary": "Geisel School"
      },
      {
       "id": "LZBT3OJ4N5BZNF5LG6KNJRKVWQ",
@@ -1233,44 +1264,142 @@
       "link": "https://www.wcax.com/2026/07/20/plattsburghs-michigan-fest-returns-august-1-with-more-vendors-new-events/",
       "ts": "2026-07-20T21:13:05+00:00",
       "summary": "Plattsburgh’s Second Annual Michigan Fest is preparing to return next month."
-     },
-     {
-      "id": "KXKTI7QFCZEODIDSYE6ETQEPIE",
-      "title": "Revolutionary War cannon fragment pulled from Lake Champlain",
-      "link": "https://www.wcax.com/2026/07/20/revolutionary-war-cannon-fragment-pulled-lake-champlain/",
-      "ts": "2026-07-20T21:04:23+00:00",
-      "summary": "A piece of artillery with a Revolutionary War origin was pulled from the bottom of Lake Champlain on Monday, nearly 250 years after one of America’s earliest naval engagements."
-     },
-     {
-      "id": "IW27ZTDDRVB45C2XBEZJIICSPQ",
-      "title": "Boaters rush to rescue pilot after plane crashes into Vermont lake",
-      "link": "https://www.wcax.com/2026/07/20/boaters-rush-rescue-pilot-after-plane-crashes-into-vermont-lake/",
-      "ts": "2026-07-20T21:03:47+00:00",
-      "summary": "A single-engine plane crashed into Seymour Lake in Morgan on Monday morning. The pilot escaped unharmed after boaters rushed to his aid."
-     },
-     {
-      "id": "TW4O6VAN6ZEXRATOEPO7ZL7IUM",
-      "title": "Middlebury man pleads not guilty to stabbing family member",
-      "link": "https://www.wcax.com/2026/07/20/middlebury-man-pleads-not-guilty-stabbing-family-member/",
-      "ts": "2026-07-20T20:56:09+00:00",
-      "summary": "A Middlebury man accused of stabbing a family member and prompting a standoff last week pleaded not guilty in court Monday"
-     },
-     {
-      "id": "7F5BPBKI5JAFLPCXOJSFQ5YWCQ",
-      "title": "Former Sanders campaign staffer charged in Lebanon traffic incident",
-      "link": "https://www.wcax.com/2026/07/20/former-sanders-campaign-staffer-charged-lebanon-traffic-incident/",
-      "ts": "2026-07-20T20:14:56+00:00",
-      "summary": "A former campaign staffer for Senator Bernie Sanders faces a slew of charges after a dramatic traffic incident in New Hampshire over the weekend."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "73232603",
+      "title": "This family was orphaned and divided by war in Gaza. Their big sister brought them back together",
+      "link": "https://www.mynbc5.com/article/orphaned-by-war-in-gaza-palestinian-siblings-reunite-with-their-sister-in-israel/73232603",
+      "ts": "2026-07-22T20:31:00+00:00",
+      "summary": "A Palestinian family that was divided between Israel and Gaza was reunited this month after the eldest sister waged a two-year effort to bring her orphaned siblings to join her in Israel."
+     },
+     {
+      "id": "73235357",
+      "title": "Plattsburgh City Beach closed due to swimming following E. coli testing",
+      "link": "https://www.mynbc5.com/article/plattsburgh-city-beach-closed-e-coli-testing/73235357",
+      "ts": "2026-07-22T20:24:00+00:00",
+      "summary": "The City of Plattsburgh posted about the closure on its social media pages, saying the beach is closed to swimming as of July 22."
+     },
+     {
+      "id": "73233446",
+      "title": "Man survives heart attack after doctors gave him just a 5% chance of survival",
+      "link": "https://www.mynbc5.com/article/pennsylvania-heart-attack-hike-survival-story/73233446",
+      "ts": "2026-07-22T20:20:00+00:00",
+      "summary": "\"I want to live a long time, and I intend to.\" | Given just a 5% chance of survival, a Pennsylvania hiker beat the odds after a sudden heart attack – and built unexpected bonds with the care team that helped save him."
+     },
+     {
+      "id": "73233490",
+      "title": "Vermont tests AI technology to stop wrong-way drivers",
+      "link": "https://www.mynbc5.com/article/vermont-tests-ai-technology-to-stop-wrong-way-drivers/73233490",
+      "ts": "2026-07-22T20:20:00+00:00",
+      "summary": "The TAPCO wrong-way detection system is being piloted on the northbound and southbound interstate ramps at Exit 17 in Milton."
+     },
+     {
+      "id": "73229704",
+      "title": "Preliminary independent autopsy results for Nolan Wells' death released",
+      "link": "https://www.mynbc5.com/article/nolan-wells-preliminary-independent-autopsy-results/73229704",
+      "ts": "2026-07-22T20:19:00+00:00",
+      "summary": "The independent autopsy results in Nolan Wells' death have been released. The 18-year-old was found dead off the Mississippi coast earlier this month."
+     },
+     {
+      "id": "73235094",
+      "title": "Red Sox tie franchise record with 15th straight win",
+      "link": "https://www.mynbc5.com/article/red-sox-tie-franchise-record-with-15th-straight-win/73235094",
+      "ts": "2026-07-22T20:16:00+00:00",
+      "summary": "The Boston Red Sox have tied their franchise record of 15 consecutive wins, a feat last achieved in 1946, and will play tonight for a chance to break it."
+     },
+     {
+      "id": "73229675",
+      "title": "1 in 30 million catch: Rare yellow lobster caught off New Hampshire coast",
+      "link": "https://www.mynbc5.com/article/new-hampshire-coast-rare-yellow-lobster/73229675",
+      "ts": "2026-07-22T20:07:00+00:00",
+      "summary": "A rare yellow lobster was caught by a lobsterwoman from Hampton, New Hampshire, last week."
+     },
+     {
+      "id": "73234073",
+      "title": "Rabies increase in Franklin County: Resources to access",
+      "link": "https://www.mynbc5.com/article/rabies-increase-franklin-county-resources-to-access/73234073",
+      "ts": "2026-07-22T20:06:00+00:00",
+      "summary": "Amid rising rabies cases in Franklin County and the surrounding region, know your local rabies resources and what to do in a rabid animal situation."
+     },
+     {
+      "id": "73234169",
+      "title": "Federal bill that would transform student loan repayment pushed for by Senator Peter Welch",
+      "link": "https://www.mynbc5.com/article/senator-welch-student-loan-interest-elimination-act/73234169",
+      "ts": "2026-07-22T20:03:00+00:00",
+      "summary": "The Student Loan Interest Elimination Act would"
+     },
+     {
+      "id": "73231340",
+      "title": "Terrorism trial opens in stabbing of author Salman Rushdie",
+      "link": "https://www.mynbc5.com/article/terrorism-trial-attacker-of-author-salman-rushdie/73231340",
+      "ts": "2026-07-22T19:49:00+00:00",
+      "summary": "The man who was convicted of trying to kill Salman Rushdie during an onstage lecture is on trial again Wednesday, this time in a federal case."
+     },
+     {
+      "id": "73234186",
+      "title": "Claim deadline nears for Amazon Prime settlement refunds",
+      "link": "https://www.mynbc5.com/article/amazon-ftc-settlement-claim-deadline/73234186",
+      "ts": "2026-07-22T19:46:00+00:00",
+      "summary": "The deadline to file a claim for Amazon's massive settlement with the Federal Trade Commission is right around the corner. Here's why Prime membership alone doesn't automatically make you eligible."
+     },
+     {
+      "id": "73220239",
+      "title": "Tropical Storm Bertha makes landfall on southern Louisiana with threatening winds",
+      "link": "https://www.mynbc5.com/article/tropical-storm-bertha-gulf-coast/73220239",
+      "ts": "2026-07-22T19:36:00+00:00",
+      "summary": "Tropical Storm Bertha is expected to weaken in the Gulf of Mexico as it chugs closer to the U.S. But forecasters say it still could bring coastal flooding and heavy rain from the Florida Panhandle to Louisiana."
+     },
+     {
+      "id": "73233066",
+      "title": "Videos show historic flooding in West Virginia, National Guard deployed",
+      "link": "https://www.mynbc5.com/article/west-virginia-flash-floods-rescues-emergency/73233066",
+      "ts": "2026-07-22T19:21:00+00:00",
+      "summary": "Torrential rains caused flash floods in West Virginia that inundated homes and businesses, washed out bridges and led to numerous water rescues, authorities said."
+     },
+     {
+      "id": "73228926",
+      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-retaliation-bridge-power/73228926",
+      "ts": "2026-07-22T19:02:00+00:00",
+      "summary": "President Trump has warned Iran that the U.S. will destroy one bridge or power plant, including in Iran's capital, each time Iran shoots at a ship in the Strait of Hormuz."
+     },
+     {
+      "id": "73232950",
+      "title": "Jury selection continues for Canadian man accused of killing daughter in New York",
+      "link": "https://www.mynbc5.com/article/jury-selection-luciano-frattolin-day-2/73232950",
+      "ts": "2026-07-22T18:59:00+00:00",
+      "summary": "Eleven jurors have been seated in the upcoming trial of Luciano Frattolin, who is accused of killing his daughter while on vacation last year."
+     },
+     {
+      "id": "73232893",
+      "title": "93-year-old man dies in Northern New York UTV crash, police say",
+      "link": "https://www.mynbc5.com/article/93-year-old-man-dies-in-northern-new-york-utv-crash-police-say/73232893",
+      "ts": "2026-07-22T18:57:00+00:00",
+      "summary": "A 93-year-old North Country man has died following a Utility Task Vehicle crash in Morristown on Tuesday evening."
+     },
+     {
+      "id": "73232763",
+      "title": "FBI: Father, son held 2 federal biologists hostage for more than 15 hours",
+      "link": "https://www.mynbc5.com/article/father-son-federal-biologists-hostage-mount-shasta/73232763",
+      "ts": "2026-07-22T18:47:00+00:00",
+      "summary": "A father and son who appeared before a federal judge are accused of kidnapping two U.S. Forest Service employees and holding them hostage for more than 15 hours in a trailer near Mount Shasta. The employees were eventually released unharmed, according to officials."
+     },
+     {
+      "id": "73232735",
+      "title": "Royal family releases new portrait of Prince George as he celebrates his 13th birthday",
+      "link": "https://www.mynbc5.com/article/prince-george-13th-birthday-portrait/73232735",
+      "ts": "2026-07-22T18:42:00+00:00",
+      "summary": "Prince George just turned 13, and the royals released a new portrait to celebrate the milestone birthday!"
+     },
+     {
       "id": "73227989",
       "title": "‘I love him a lot’: 8-year-old girl provides life-saving bone marrow transplant to her brother",
       "link": "https://www.mynbc5.com/article/brooks-sister-bone-marrow-transplant-sickle-cell/73227989",
-      "ts": "2026-07-22T18:32:00+00:00",
+      "ts": "2026-07-22T18:37:00+00:00",
       "summary": "An 8-year-old Alabama girl gave her brother something no toy or hug ever could: a second chance at life."
      },
      {
@@ -1279,132 +1408,6 @@
       "link": "https://www.mynbc5.com/article/maduro-venezuela-court-trial-drug-case/73231249",
       "ts": "2026-07-22T18:16:00+00:00",
       "summary": "Nicolás Maduro has returned to a New York courthouse where lawyers plan to ask a judge to set a June trial date for his drug trafficking case."
-     },
-     {
-      "id": "73228926",
-      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in Strait of Hormuz",
-      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-retaliation-bridge-power/73228926",
-      "ts": "2026-07-22T18:12:00+00:00",
-      "summary": "President Trump has warned Iran that the U.S. will destroy one bridge or power plant, including in Iran's capital, each time Iran shoots at a ship in the Strait of Hormuz."
-     },
-     {
-      "id": "73229272",
-      "title": "These Powerball numbers have been drawn the most since 2015",
-      "link": "https://www.mynbc5.com/article/powerball-most-drawn-numbers/73229272",
-      "ts": "2026-07-22T17:59:00+00:00",
-      "summary": "​The largest Powerball jackpot of the year draws Wednesday night. See which numbers have been picked the most since 2015."
-     },
-     {
-      "id": "73226463",
-      "title": "Trump pays respects to 4 US service members killed in the Middle East",
-      "link": "https://www.mynbc5.com/article/dignified-transfer-4-soldiers-iran-war-donald-trump/73226463",
-      "ts": "2026-07-22T17:13:00+00:00",
-      "summary": "President Donald Trump on Wednesday attended the dignified transfer of four U.S. service members killed in the Middle East."
-     },
-     {
-      "id": "73231706",
-      "title": "Burlington police arrest two following investigation into July 5 gunfire",
-      "link": "https://www.mynbc5.com/article/burlington-july-5-gunfire-arrests/73231706",
-      "ts": "2026-07-22T17:02:00+00:00",
-      "summary": "Two more people have been arrested as the Burlington Police Department released new information about two gunfire incidents downtown on July 5 that are now known to be connected."
-     },
-     {
-      "id": "73231500",
-      "title": "Model recruiter who introduced young women to Jeffrey Epstein found dead in France",
-      "link": "https://www.mynbc5.com/article/model-recruiter-daniel-siad-dead-paris/73231500",
-      "ts": "2026-07-22T16:57:00+00:00",
-      "summary": "A professional model recruiter who for over a decade arranged for the late sex offender Jeffrey Epstein to meet multiple models, was found dead in his home."
-     },
-     {
-      "id": "73231535",
-      "title": "Isolated showers, humidity drops Wednesday afternoon",
-      "link": "https://www.mynbc5.com/article/isolated-showers-humidity-drops-wednesday-afternoon-07-22-26/73231535",
-      "ts": "2026-07-22T16:52:00+00:00",
-      "summary": "Beautiful stretch Thursday through Sunday — sunshine, highs mostly in the 80s"
-     },
-     {
-      "id": "73230355",
-      "title": "Popular allergy medication recalled over potentially ‘life-threatening’ cross-contamination",
-      "link": "https://www.mynbc5.com/article/allergy-medication-recalled-cetirizine-hydrochloride/73230355",
-      "ts": "2026-07-22T16:26:00+00:00",
-      "summary": "A popular allergy medication has been recalled over contamination concerns, potentially leading to life-threatening side effects."
-     },
-     {
-      "id": "73229040",
-      "title": "Years in the making: Montpelier city officials move forward with plans for new housing project",
-      "link": "https://www.mynbc5.com/article/montpelier-plans-country-club-road-project/73229040",
-      "ts": "2026-07-22T16:22:00+00:00",
-      "summary": "After years of stalled progress, the city of Montpelier is getting ready to move ahead with a development project on Country Club Road. City officials and residents say they want to use the land to create more housing and recreation space for the area."
-     },
-     {
-      "id": "73229704",
-      "title": "Preliminary independent autopsy results for Nolan Wells' death are released",
-      "link": "https://www.mynbc5.com/article/nolan-wells-preliminary-independent-autopsy-results/73229704",
-      "ts": "2026-07-22T16:10:00+00:00",
-      "summary": "The independent autopsy results in Nolan Wells' death have been released. The 18-year-old was found dead earlier this month along the shoreline of Horn Island off the Mississippi coast."
-     },
-     {
-      "id": "71857144",
-      "title": "Researchers study Lake Champlain cyanobacteria conditions after beach closures",
-      "link": "https://www.mynbc5.com/article/boat-ride-awareness-cyanobacteria/71857144",
-      "ts": "2026-07-22T15:42:00+00:00",
-      "summary": "A scenic boat ride across Lake Champlain allowed researchers to focus on what’s happening beneath the water’s surface, as several organizations collected water samples to help identify cyanobacteria."
-     },
-     {
-      "id": "73230567",
-      "title": "Police look for person accused of illegally dumping 40 tires in Willoughby State Forest",
-      "link": "https://www.mynbc5.com/article/sutton-vermont-tires-illegal-dumping-willoughby-state-forest/73230567",
-      "ts": "2026-07-22T15:40:00+00:00",
-      "summary": "Vermont State Police are looking for the driver of a vehicle seen illegally dumping 40 tires in the Willoughby State Forest this week."
-     },
-     {
-      "id": "73230239",
-      "title": "Louvre reopens after brazen heist, but no jewels are on display",
-      "link": "https://www.mynbc5.com/article/louvre-reopens-after-heist-no-jewels-are-on-display/73230239",
-      "ts": "2026-07-22T15:39:00+00:00",
-      "summary": "The Louvre's Apollo gallery reopened to the public for the first time since $102 million worth of crown jewels were stolen in a dramatic daytime heist."
-     },
-     {
-      "id": "73217998",
-      "title": "18 US troops killed, 447 wounded in Iran War. How that compares to past conflicts",
-      "link": "https://www.mynbc5.com/article/us-military-deaths-injuries-hostile-action/73217998",
-      "ts": "2026-07-22T15:25:00+00:00",
-      "summary": "Two service members were killed, and a third is believed to be dead, after a recent attack on an air base in Jordan."
-     },
-     {
-      "id": "73230464",
-      "title": "One in 30 million catch: Hampton woman catches yellow lobster off NH coast",
-      "link": "https://www.mynbc5.com/article/rye-yellow-lobster-catch/73230464",
-      "ts": "2026-07-22T15:25:00+00:00",
-      "summary": "A rare yellow lobster was caught by a lobsterwoman from Hampton last week. There is about a one in 30 million chance of catching a lobster with this type of genetic mutation."
-     },
-     {
-      "id": "73228317",
-      "title": "Collisions in space are a growing concern. A plan to address it is reigniting a turf war",
-      "link": "https://www.mynbc5.com/article/space-collisions-fcc-satellites/73228317",
-      "ts": "2026-07-22T15:16:00+00:00",
-      "summary": "There are more than 18,000 active and inactive satellites in orbit. Now, there's a turf war on what agency should get to call the shots on them."
-     },
-     {
-      "id": "73194997",
-      "title": "After nearly 250 years, final Revolutionary War cannon fragment recovered from Lake Champlain",
-      "link": "https://www.mynbc5.com/article/after-nearly-250-years-final-revolutionary-war-cannon-fragment-recovered-from-lake-champlain/73194997",
-      "ts": "2026-07-22T14:41:00+00:00",
-      "summary": "Researchers say the discovery marks the end of a decades-long search for the final major missing piece of a cannon that exploded during the Battle of Valcour Island in 1776."
-     },
-     {
-      "id": "73229472",
-      "title": "VIDEO: Tornado tears through farm in Kentucky, sending debris into the air",
-      "link": "https://www.mynbc5.com/article/video-tornado-kentucky-farm/73229472",
-      "ts": "2026-07-22T14:29:00+00:00",
-      "summary": "CAUGHT ON CAMERA | Video shows the destructive force of a tornado that tore through a farm in Kentucky Tuesday."
-     },
-     {
-      "id": "73220239",
-      "title": "Beaches closed and sandbags filled as Tropical Storm Bertha approaches the Gulf Coast",
-      "link": "https://www.mynbc5.com/article/tropical-storm-bertha-gulf-coast/73220239",
-      "ts": "2026-07-22T14:18:00+00:00",
-      "summary": "Tropical Storm Bertha is expected to weaken in the Gulf of Mexico as it chugs closer to the U.S. But forecasters say it still could bring coastal flooding and heavy rain from the Florida Panhandle to Louisiana."
      }
     ]
    },
