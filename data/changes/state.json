@@ -3,7 +3,7 @@
   "alerts": [],
   "forecast_flag": {
    "day": "2026-07-22",
-   "text": "Today: A chance of showers and thunderstorms between 7am and 11am, then a chance of showers and thunderstorms between 11am and noon, then a slight chance of showers and thunderstorms between noon and 2pm"
+   "text": "Today: A chance of showers and thunderstorms before 11am, then a chance of showers and thunderstorms between 11am and noon, then a slight chance of showers and thunderstorms between noon and 2pm"
   }
  },
  "beach-status": {
@@ -11,37 +11,37 @@
    "Blanchard Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-21T15:53:00+00:00"
+    "resultTime": "2026-07-22T13:32:00+00:00"
    },
    "Blanchard Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-21T15:53:00+00:00"
+    "resultTime": "2026-07-22T13:31:00+00:00"
    },
    "Blodgett Water Access Point": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-21T15:46:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-22T13:39:00+00:00"
    },
    "Leddy Beach North": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-21T15:23:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-22T14:27:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-21T15:23:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-22T14:27:00+00:00"
    },
    "North Beach North": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-21T15:33:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-22T14:03:00+00:00"
    },
    "North Beach South": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-21T15:33:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-22T14:02:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -55,8 +55,8 @@
    },
    "Texaco Beach": {
     "status": "open",
-    "reason": "Choppy",
-    "resultTime": "2026-07-21T15:33:00+00:00"
+    "reason": "Open",
+    "resultTime": "2026-07-22T13:56:00+00:00"
    }
   }
  },
@@ -481,6 +481,15 @@
      "Public Safety Committee Agenda Packet - 26.07.21"
     ]
    },
+   "10086": {
+    "name": "Public Safety Committee Special Meeting",
+    "start": "2026-07-27T18:00:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Public Safety Committee Special Meeting Agenda - 26.07.22",
+     "Public Safety Committee Special Meeting Agenda Packet - 26.07.22"
+    ]
+   },
    "10083": {
     "name": "Design Advisory Board",
     "start": "2026-07-28T15:00:00+00:00",
@@ -520,15 +529,6 @@
     "start": "2026-08-03T18:00:00+00:00",
     "hasAgenda": false,
     "files": []
-   },
-   "10085": {
-    "name": "Housing Board of Review",
-    "start": "2026-08-03T18:30:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Housing Board of Review Agenda 08/03",
-     "Housing Board of Review Agenda Packet 08/03"
-    ]
    }
   }
  },
@@ -537,74 +537,74 @@
    "sevendays-news": {
     "items": [
      {
-      "id": "https://www.sevendaysvt.com/?p=212609",
-      "title": "From the Deputy Publisher: Summer School",
-      "link": "https://www.sevendaysvt.com/news/fromthepublisher/from-the-deputy-publisher-summer-school/",
-      "ts": "2026-07-22T04:37:00+00:00",
-      "summary": "This summer, Seven Days has a crew of capable interns supporting our staff — and bringing fresh energy and perspectives to our newsroom. The post From the Deputy Publisher: Summer School appeared first on Seven Days . (Image: Paula Routly)"
+      "id": "https://www.sevendaysvt.com/?p=212633",
+      "title": "Vermont Towns Try Different Ways to Regulate Short-Term Rentals",
+      "link": "https://www.sevendaysvt.com/news/housingcrisis/vermont-towns-try-different-ways-to-regulate-short-term-rentals/",
+      "ts": "2026-07-22T14:00:00+00:00",
+      "summary": "Amid Vermont’s housing crunch, more communities are debating how much housing should be reserved for tourists rather than year-round residents. The post Vermont Towns Try Different Ways to Regulate Short-Term Rentals appeared first on Seven Days ."
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212455",
-      "title": "Self-Serve Cottage Bakeries Bring Treats to Vermont Roadsides",
-      "link": "https://www.sevendaysvt.com/food-drink/fooddrinkfeatures/self-serve-cottage-bakeries-bring-treats-to-vermont-roadsides/",
-      "ts": "2026-07-21T16:54:27+00:00",
-      "summary": "Farmstands are not just for zucchini and eggs. Here are five home-based bakers crafting sourdough bread, cinnamon rolls and cookies worth stopping for. The post Self-Serve Cottage Bakeries Bring Treats to Vermont Roadsides appeared first on Seven Days . (Image: Melissa Pasanen)"
+      "id": "https://www.sevendaysvt.com/?p=212657",
+      "title": "Bolton Valley Begins Construction on New Housing at Resort",
+      "link": "https://www.sevendaysvt.com/news/constructiondevelopment/bolton-valley-begins-construction-on-new-housing-at-resort/",
+      "ts": "2026-07-22T13:59:00+00:00",
+      "summary": "The new slope-side neighborhood will feature 16 one- to two-bedroom condos and 16 three- to four-bedroom townhouses. Construction is underway. The post Bolton Valley Begins Construction on New Housing at Resort appeared first on Seven Days . (Image: Courtesy of Artesa Concepts)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212452",
-      "title": "Campo Opens in Waterbury with American-Meets-Latin Menu",
-      "link": "https://www.sevendaysvt.com/food-drink/foodnews/campo-opens-in-waterbury-with-american-meets-latin-menu/",
-      "ts": "2026-07-21T16:21:17+00:00",
-      "summary": "Chef-owner Josue Chanduvi blends snack-shack classics and his Peruvian Cuban heritage in the multifaceted food operation he has launched at Zenbarn. The post Campo Opens in Waterbury with American-Meets-Latin Menu appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212615",
+      "title": "Progressive Activist Challenges Incumbent Lawman for Chittenden County Sheriff",
+      "link": "https://www.sevendaysvt.com/election-2026/progressive-activist-challenges-incumbent-lawman-for-chittenden-county-sheriff/",
+      "ts": "2026-07-22T13:58:00+00:00",
+      "summary": "Kevin Bloom, 32, has no experience in law enforcement but wants to change how the sheriff’s office operates. Incumbent Dan Gamelin believes voters trust him to stay the course. The post Progressive Activist Challenges Incumbent Lawman for Chittenden County Sheriff appeared first on Seven Days . (Image: Daria Bishop)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212447",
-      "title": "Glazed Donuts in Essex Will Share Space With Leo & Co.",
-      "link": "https://www.sevendaysvt.com/food-drink/glazed-donuts-in-essex-will-share-space-with-leo-co/",
-      "ts": "2026-07-21T16:16:09+00:00",
-      "summary": "Rachel Lee’s doughnut business quickly outgrew her home kitchen. She is building a dedicated space in Kayla Silver’s Essex Experience market and café. The post Glazed Donuts in Essex Will Share Space With Leo & Co. appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212621",
+      "title": "Concerns Mount Over Young Riders Operating E-Bikes and E-Motos",
+      "link": "https://www.sevendaysvt.com/news/news-news/concerns-mount-over-young-riders-operating-e-bikes-and-e-motos/",
+      "ts": "2026-07-22T13:55:00+00:00",
+      "summary": "An uptick in alarming behavior has prompted towns to spread awareness about the risks of e-bike and e-motos and, in some cases, crack down on unsafe riders. The post Concerns Mount Over Young Riders Operating E-Bikes and E-Motos appeared first on Seven Days . (Image: Sasha Goldstein)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212472",
-      "title": "Obituary: Matthew Andre Tanner, 1974-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-matthew-andre-tanner-1974-2026/",
-      "ts": "2026-07-21T10:00:00+00:00",
-      "summary": "“Irreplaceable shining light” was an activist who worked in film and TV production and loved people without judgment The post Obituary: Matthew Andre Tanner, 1974-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212666",
+      "title": "Local Shipwreck Hunters Capture Stunning Images of Their Finds",
+      "link": "https://www.sevendaysvt.com/arts-culture/history-arts-culture/local-shipwreck-hunters-capture-stunning-images-of-their-finds/",
+      "ts": "2026-07-22T13:50:00+00:00",
+      "summary": "Gary and Ellen Lefebvre have turned their underwater surveys into vivid and beautiful images that bring the history of Lake Champlain to the surface. The post Local Shipwreck Hunters Capture Stunning Images of Their Finds appeared first on Seven Days . (Image: Owen Leavey)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212456",
-      "title": "Obituary: Marcia Mary Morrell, 1948-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-marcia-mary-morrell-1948-2026/",
-      "ts": "2026-07-21T10:00:00+00:00",
-      "summary": "Teacher inspired generations of students with her patience, kindness and love of learning The post Obituary: Marcia Mary Morrell, 1948-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212649",
+      "title": "New Vermont Facility Turns Human Bodies Into Soil",
+      "link": "https://www.sevendaysvt.com/news/802much/new-vermont-facility-turns-human-bodies-into-soil/",
+      "ts": "2026-07-22T13:48:00+00:00",
+      "summary": "The Whitingham center offers an eco-friendly way to decompose the body of a loved one into a cubic yard of soil that you can use. The post New Vermont Facility Turns Human Bodies Into Soil appeared first on Seven Days . (Image: Courtesy)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212443",
-      "title": "Obituary: Georgia Dolan Jeffers, 1933-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-georgia-dolan-jeffers-1933-2026/",
-      "ts": "2026-07-21T10:00:00+00:00",
-      "summary": "Shelburne woman loved people, always looked for the good, and was compassionate and generous with everyone she knew The post Obituary: Georgia Dolan Jeffers, 1933-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212626",
+      "title": "Letters to the Editor (7/22/26)",
+      "link": "https://www.sevendaysvt.com/news/letters/letters-to-the-editor-july-22-2026/",
+      "ts": "2026-07-22T13:46:00+00:00",
+      "summary": "Readers react to recent articles The post Letters to the Editor (7/22/26) appeared first on Seven Days ."
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212440",
-      "title": "Obituary: Marvin Philip Fishman, 1937-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-marvin-philip-fishman-1937-2026/",
-      "ts": "2026-07-21T10:00:00+00:00",
-      "summary": "Filmmaker, artist, activist and lifelong Yankees fan was endlessly curious about how others lived and viewed the world The post Obituary: Marvin Philip Fishman, 1937-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212527",
+      "title": "Artist-Architect Tom Cullins Shows ‘Abstractions’ in Middlebury",
+      "link": "https://www.sevendaysvt.com/arts-culture/artreview/artist-architect-tom-cullins-shows-abstractions-in-middlebury/",
+      "ts": "2026-07-22T13:40:00+00:00",
+      "summary": "The Jackson Gallery at Town Hall Theater presents a retrospective of paintings and photographs by the acclaimed Burlington architect. The post Artist-Architect Tom Cullins Shows ‘Abstractions’ in Middlebury appeared first on Seven Days . (Image: Amy Lilly)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212433",
-      "title": "Obituary: Shane Terry Lander, 1961-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituary-shane-terry-lander-1961-2026/",
-      "ts": "2026-07-21T10:00:00+00:00",
-      "summary": "Dedicated husband, father and grandfather “would take the shirt off his back” to support the people he loved The post Obituary: Shane Terry Lander, 1961-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212501",
+      "title": "Book Review: ‘Vernal Thaw’ by Frances Cannon",
+      "link": "https://www.sevendaysvt.com/arts-culture/books-arts-culture/book-review-vernal-thaw-by-frances-cannon/",
+      "ts": "2026-07-22T13:40:00+00:00",
+      "summary": "The Vermont and Scotland-based author and illustrator explores a tumultuous romance in a novel that blends fiction and autobiography. The post Book Review: ‘Vernal Thaw’ by Frances Cannon appeared first on Seven Days . (Image: Courtesy)"
      },
      {
-      "id": "https://www.sevendaysvt.com/?p=212353",
-      "title": "Obituary: Alexander Read Cronin, 1978-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-alexander-read-cronin-1978-2026/",
-      "ts": "2026-07-21T10:00:00+00:00",
-      "summary": "\"Adirondack Red\" had a quick wit, a generous spirit, and a lifelong love of woods, water and things with wheels The post Obituary: Alexander Read Cronin, 1978-2026 appeared first on Seven Days . (Image: Courtesy)"
+      "id": "https://www.sevendaysvt.com/?p=212493",
+      "title": "Craftsbury Chamber Players Celebrate 60th Season",
+      "link": "https://www.sevendaysvt.com/arts-culture/performingarts/craftsbury-chamber-players-celebrate-60th-season/",
+      "ts": "2026-07-22T13:40:00+00:00",
+      "summary": "Along with concerts in Hardwick and Colchester, an exhibit at Craftsbury’s Babcock House Museum honors the festival’s — and the town’s — musical legacy. The post Craftsbury Chamber Players Celebrate 60th Season appeared first on Seven Days . (Image: Courtesy)"
      }
     ]
    },
@@ -949,7 +949,7 @@
      },
      {
       "id": "BQCVETXX4NAOXD4AH7KVY4UIXY",
-      "title": "Pomeroy Park reopens in Burlington’s Old North End with universally accessible playground",
+      "title": "Burlington’s Pomeroy Park reopens with universally accessible playground",
       "link": "https://www.wcax.com/2026/07/21/pomeroy-park-reopens-burlingtons-old-north-end-with-universally-accessible-playground/",
       "ts": "2026-07-22T00:00:16+00:00",
       "summary": "A playground in Burlington’s Old North End has a new look."
@@ -966,7 +966,7 @@
       "title": "Newport native competes on global stage",
       "link": "https://www.wcax.com/2026/07/21/newport-native-competes-global-stage/",
       "ts": "2026-07-21T22:23:46+00:00",
-      "summary": "Kurt Hunt represents country at senior world cup"
+      "summary": "Kurt Hunt represents country at Senior World Cup"
      },
      {
       "id": "J6Z3ZD7XIZDDBK5WJWZBVJIRRM",
@@ -1267,6 +1267,97 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73220239",
+      "title": "Beaches closed and sandbags filled as Tropical Storm Bertha approaches the Gulf Coast",
+      "link": "https://www.mynbc5.com/article/tropical-storm-bertha-gulf-coast/73220239",
+      "ts": "2026-07-22T14:18:00+00:00",
+      "summary": "Tropical Storm Bertha is expected to weaken in the Gulf of Mexico as it chugs closer to the U.S. But forecasters say it still could bring coastal flooding and heavy rain from the Florida Panhandle to Louisiana."
+     },
+     {
+      "id": "73223735",
+      "title": "Burlington restaurants, breweries brace for impact of President Trump's newest wave of tariffs",
+      "link": "https://www.mynbc5.com/article/burlington-restaurants-breweries-trump-tariffs/73223735",
+      "ts": "2026-07-22T13:54:00+00:00",
+      "summary": "Burlington small business owners have growing concerns with President Trump's new tariff announcement. They say it could cost them more money and deter Canadian tourists."
+     },
+     {
+      "id": "73226896",
+      "title": "A teen, a fiancé and a ‘fearless’ father of 2 are among the service members killed or missing in the Iran war",
+      "link": "https://www.mynbc5.com/article/soldiers-killed-iran-war-identified/73226896",
+      "ts": "2026-07-22T13:47:00+00:00",
+      "summary": "A teen, a fiancé and a \"fearless\" father of two are among the service members killed or missing in the Iran war. Here's what we know about the victims."
+     },
+     {
+      "id": "73229289",
+      "title": "Adolf Hitler’s birthplace in Austria reopens as a police station to deter Nazi pilgrimages",
+      "link": "https://www.mynbc5.com/article/hitler-birthplace-austria-police-station/73229289",
+      "ts": "2026-07-22T13:46:00+00:00",
+      "summary": "Adolf Hitler's birthplace in Austria was officially inaugurated as a police station on Wednesday in an effort to destroy the building's appeal as a site of pilgrimage for people who glorify the Nazi dictator."
+     },
+     {
+      "id": "73228926",
+      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in Strait of Hormuz",
+      "link": "https://www.mynbc5.com/article/iran-strait-of-hormuz-retaliation-bridge-power/73228926",
+      "ts": "2026-07-22T13:40:00+00:00",
+      "summary": "President Trump has warned Iran that the U.S. will destroy one bridge or power plant, including in Iran's capital, each time Iran shoots at a ship in the Strait of Hormuz."
+     },
+     {
+      "id": "73223127",
+      "title": "A structure fire at the Morrisonville Septic building is currently under investigation",
+      "link": "https://www.mynbc5.com/article/a-structure-fire-at-the-morrisonville-septic-building-is-currently-under-investigation/73223127",
+      "ts": "2026-07-22T13:11:00+00:00",
+      "summary": "A structure fire at Morrisonville Septic building is currently under investigation"
+     },
+     {
+      "id": "73228030",
+      "title": "'You don't have a long-term plan to actually win this war': Lawmakers press Hegseth as Iran War continues",
+      "link": "https://www.mynbc5.com/article/you-dont-have-a-plan-to-win-this-war-lawmakers-press-hegseth-on-iran/73228030",
+      "ts": "2026-07-22T13:10:00+00:00",
+      "summary": "Defense Secretary Pete Hegseth defended the White House's $67 billion funding request for the war in Iran during a heated Senate hearing, where lawmakers questioned the strategy and spending."
+     },
+     {
+      "id": "73228684",
+      "title": "Bystander severely wounded outside White House says Secret Service failed him",
+      "link": "https://www.mynbc5.com/article/bystander-white-house-shooting-secret-service-lawsuit/73228684",
+      "ts": "2026-07-22T13:00:00+00:00",
+      "summary": "An active-duty soldier who was hit by a stray bullet during a shooting outside the White House plans to sue the Secret Service over his life-threatening injuries."
+     },
+     {
+      "id": "73228723",
+      "title": "Pilot says he barely had time to react before plane crashed in Cheshire County",
+      "link": "https://www.mynbc5.com/article/pilot-plane-crash-jaffrey-new-hampshire/73228723",
+      "ts": "2026-07-22T12:57:00+00:00",
+      "summary": "A pilot who was injured when his small plane crashed in Jaffrey earlier this summer said he feels lucky to be alive."
+     },
+     {
+      "id": "73218191",
+      "title": "Big Bear bald eagle Jackie rescued by wildlife officials after fight with other eagles",
+      "link": "https://www.mynbc5.com/article/big-bear-bald-eagle-jackie-fight/73218191",
+      "ts": "2026-07-22T12:55:00+00:00",
+      "summary": "A member of the beloved Big Bear bald eagle family was rescued by wildlife officials after she was involved in a fight with other eagles."
+     },
+     {
+      "id": "73228462",
+      "title": "Canada cancels joint bridge-opening event with US after Trump announces tariffs",
+      "link": "https://www.mynbc5.com/article/trump-tariffs-gordie-howe-bridge-ceremony/73228462",
+      "ts": "2026-07-22T12:54:00+00:00",
+      "summary": "A planned joint U.S.-Canada ceremony to celebrate the opening of the Gordie Howe International Bridge has been canceled after Trump announced new tariffs on Canadian goods."
+     },
+     {
+      "id": "73227368",
+      "title": "Trump says 'we're not finished at all' as US strikes intensify in Iran",
+      "link": "https://www.mynbc5.com/article/trump-says-not-finished-us-strikes-intensify-iran-war/73227368",
+      "ts": "2026-07-22T12:29:00+00:00",
+      "summary": "President Donald Trump is scheduled to attend the dignified transfer of remains for U.S. service members killed in the Iran War, as the conflict enters its 11th day as strikes ramp up."
+     },
+     {
+      "id": "73228270",
+      "title": "Sharon Osbourne says doctors told Ozzy he was too sick for final concert. He ignored them",
+      "link": "https://www.mynbc5.com/article/sharon-osbourne-ozzy-osbourne-death-doctors-concert/73228270",
+      "ts": "2026-07-22T12:18:00+00:00",
+      "summary": "Two weeks before his final concert, Ozzy Osbourne’s doctors told him he was dying and urged him not to go ahead with the date, his widow, Sharon Osbourne, has revealed."
+     },
+     {
       "id": "73227579",
       "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company",
       "link": "https://www.mynbc5.com/article/openai-hack-cyber-incident-hugging-face/73227579",
@@ -1314,90 +1405,6 @@
       "link": "https://www.mynbc5.com/article/mega-millions-winning-numbers-july-21-drawing/73221103",
       "ts": "2026-07-22T03:45:00+00:00",
       "summary": "A $707 million Mega Millions jackpot was on the line Tuesday night — and the winning numbers are now in."
-     },
-     {
-      "id": "73223735",
-      "title": "Burlington restaurants, breweries brace for impact of President Trump's newest wave of tariffs",
-      "link": "https://www.mynbc5.com/article/burlington-restaurants-breweries-trump-tariffs/73223735",
-      "ts": "2026-07-22T03:12:00+00:00",
-      "summary": "Burlington small business owners have growing concerns with President Trump's new tariff announcement. They say it could cost them more money and deter Canadian tourists."
-     },
-     {
-      "id": "73223127",
-      "title": "A structure fire at the Morrisonville Septic building is currently under investigation",
-      "link": "https://www.mynbc5.com/article/a-structure-fire-at-the-morrisonville-septic-building-is-currently-under-investigation/73223127",
-      "ts": "2026-07-22T02:39:00+00:00",
-      "summary": "A structure fire at Morrisonville Septic building is currently under investigation"
-     },
-     {
-      "id": "73223859",
-      "title": "Trump approves nuclear agreement that may allow Saudi Arabia to enrich uranium, sources say",
-      "link": "https://www.mynbc5.com/article/trump-nuclear-agreement-saudi-arabia/73223859",
-      "ts": "2026-07-22T02:13:00+00:00",
-      "summary": "President Trump has approved an agreement with Saudi Arabia that could potentially provide the kingdom with uranium enrichment capability for its civilian nuclear program, according to sources."
-     },
-     {
-      "id": "73201911",
-      "title": "66-foot-tall nutcracker, Verne the Patriot, draws crowds to Luverne, Minnesota",
-      "link": "https://www.mynbc5.com/article/worlds-tallest-nutcracker-minnesota-tourist-attraction/73201911",
-      "ts": "2026-07-22T01:52:00+00:00",
-      "summary": "Luverne says it now has the world’s tallest nutcracker, a nearly 66-foot Verne the Patriot with a working jaw. The town is seeking a Guinness World Record while drawing tourists."
-     },
-     {
-      "id": "73223258",
-      "title": "US military identifies 3rd service member believed to have been killed in Iranian attack",
-      "link": "https://www.mynbc5.com/article/us-military-identifies-3rd-service-member-killed-iran/73223258",
-      "ts": "2026-07-22T00:04:00+00:00",
-      "summary": "The confirmation brings the death toll to 18 U.S. service members killed since the war began."
-     },
-     {
-      "id": "73202535",
-      "title": "Judge to hear evidence against singer D4vd in killing, dismemberment of teen",
-      "link": "https://www.mynbc5.com/article/d4vd-hearing-trial-teen-girl-killing/73202535",
-      "ts": "2026-07-21T23:47:00+00:00",
-      "summary": "A judge is set to decide if there's enough evidence to send singer D4vd to trial for the killing of 14-year-old Celeste Rivas Hernandez."
-     },
-     {
-      "id": "73222617",
-      "title": "Two Republicans seeking nomination for Vermont’s U.S. House seat",
-      "link": "https://www.mynbc5.com/article/two-republicans-seeking-nomination-for-vts-us-house-seat/73222617",
-      "ts": "2026-07-21T23:26:00+00:00",
-      "summary": "Gerald Malloy, Mark Coester seeking nomination to oppose Becca Balint for U.S. House"
-     },
-     {
-      "id": "73221606",
-      "title": "Vermont state treasurer, housing leaders announce program expansion for affordable housing",
-      "link": "https://www.mynbc5.com/article/housing-program-expands-vermont-treasurer/73221606",
-      "ts": "2026-07-21T23:17:00+00:00",
-      "summary": "Vermont State Treasurer Mike Pieciak announced the \"10% in VT\" program is now known as \"Invest in Vermont\" to reflect a lending capacity change to support affordable housing across the state."
-     },
-     {
-      "id": "73221181",
-      "title": "Senate panel advances Jay Clayton's nomination to lead US intelligence agencies",
-      "link": "https://www.mynbc5.com/article/senate-panel-advances-jay-clayton-nomination-dni/73221181",
-      "ts": "2026-07-21T23:00:00+00:00",
-      "summary": "The Senate Intelligence Committee has advanced the nomination of Jay Clayton, President Donald Trump's pick to head the nation's intelligence agencies."
-     },
-     {
-      "id": "73222320",
-      "title": "Fruit puree pouches sold at Kroger, Meijer and Target recalled",
-      "link": "https://www.mynbc5.com/article/pumpkin-tree-peter-rabbit-organics-fruit-pouch-recall/73222320",
-      "ts": "2026-07-21T22:56:00+00:00",
-      "summary": "Fruit puree pouches sold at Kroger, Meijer and Target are being recalled after soft plastic was found inside some products."
-     },
-     {
-      "id": "73222301",
-      "title": "Watch: Tiny dog rescued from San Francisco Bay after massive air-and-sea search",
-      "link": "https://www.mynbc5.com/article/dog-rescued-san-francisco-bay/73222301",
-      "ts": "2026-07-21T22:53:00+00:00",
-      "summary": "A tiny dog that was missing for weeks was rescued from San Francisco Bay after first responders spotted it swimming alone and being attacked by seagulls. See the video."
-     },
-     {
-      "id": "73222102",
-      "title": "Vermont manufacturers react to President Trump announcing new tariffs on Canadian goods",
-      "link": "https://www.mynbc5.com/article/vermont-manufacturers-react-to-president-trump-announcing-new-tariffs-on-canadian-goods/73222102",
-      "ts": "2026-07-21T22:43:00+00:00",
-      "summary": "Staff from a Rutland-based baking supplies company say they depend on business and materials from Canada and are worried about the effects from new tariffs on Canadian products"
      }
     ]
    },
