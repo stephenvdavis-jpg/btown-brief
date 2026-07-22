@@ -3,7 +3,7 @@
   "alerts": [],
   "forecast_flag": {
    "day": "2026-07-22",
-   "text": "Overnight: Scattered showers and thunderstorms before 4am"
+   "text": "Wednesday: A chance of showers and thunderstorms between 7am and 11am, then a chance of showers and thunderstorms between 11am and noon, then a slight chance of showers and thunderstorms between noon and 2pm"
   }
  },
  "beach-status": {
@@ -825,6 +825,13 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-22/democratic-candidates-governor-voters-primary",
+      "title": "Democratic candidates for governor try to rouse voters in sleepy summer primary",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-22/democratic-candidates-governor-voters-primary",
+      "ts": "2026-07-22T09:00:00+00:00",
+      "summary": "The two Democrats vying for the chance to unseat Republican Gov. Phil Scott in November share a significant political liability: Most voters have no idea who they are."
+     },
+     {
       "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
       "title": "Vermont Public's 2026 Democratic primary debate for lieutenant governor",
       "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-21/vermont-2026-democratic-primary-debate-lieutenant-governor",
@@ -900,13 +907,6 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-17/vermonts-smallest-breweries-sell-beer-directly-stores-restaurants",
       "ts": "2026-07-17T19:59:55+00:00",
       "summary": "Proponents of the new law say it will put more money into the small businesses that produce craft beer around the state"
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-17/score-for-sustainability-behind-eco-conscious-design-vermont-green-fc-soccer-kits",
-      "title": "A score for sustainability: Behind the eco-conscious design of the Vermont Green’s soccer kits",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-17/score-for-sustainability-behind-eco-conscious-design-vermont-green-fc-soccer-kits",
-      "ts": "2026-07-17T17:04:20+00:00",
-      "summary": "As the issue of sustainability in soccer takes the pitch, the local soccer team is accepting the challenge of designing soccer kits that prioritize a sustainable, circular economy."
      }
     ]
    },
@@ -1267,6 +1267,27 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73222670",
+      "title": "Few spotty showers Wednesday, humidity drops midday",
+      "link": "https://www.mynbc5.com/article/few-spotty-showers-wednesday-humidity-drops-midday-07-22-26/73222670",
+      "ts": "2026-07-22T09:37:00+00:00",
+      "summary": "Beautiful stretch Thursday through Sunday — sunshine, highs mostly in the 80s"
+     },
+     {
+      "id": "73226091",
+      "title": "Hollywood star Rebel Wilson wins defamation case brought by young actress",
+      "link": "https://www.mynbc5.com/article/rebel-wilson-defamation-lawsuit/73226091",
+      "ts": "2026-07-22T09:06:00+00:00",
+      "summary": "Hollywood star Rebel Wilson has successfully defended claims she defamed a young actress who played the lead role in her directorial debut."
+     },
+     {
+      "id": "73226028",
+      "title": "What is Pickaxe Mountain, Iran’s secretive facility Trump says the US will attack ‘pretty soon’?",
+      "link": "https://www.mynbc5.com/article/pickaxe-mountain-iran-what-is-it/73226028",
+      "ts": "2026-07-22T08:51:00+00:00",
+      "summary": "What is Pickaxe Mountain? President Donald Trump has repeatedly issued threats to bomb an under-construction Iranian nuclear site buried deep under a mountain."
+     },
+     {
       "id": "73221103",
       "title": "Mega Millions results: The numbers for the July 21 drawing are in. Did you win?",
       "link": "https://www.mynbc5.com/article/mega-millions-winning-numbers-july-21-drawing/73221103",
@@ -1358,11 +1379,11 @@
       "summary": "Staff from a Rutland-based baking supplies company say they depend on business and materials from Canada and are worried about the effects from new tariffs on Canadian products"
      },
      {
-      "id": "73222670",
-      "title": "Few spotty showers Wednesday, as the humidity drops",
-      "link": "https://www.mynbc5.com/article/few-spotty-showers-wednesday-as-the-humidity-drops-07-21-26/73222670",
-      "ts": "2026-07-21T22:36:00+00:00",
-      "summary": "Beautiful stretch Thursday through Sunday — sunshine, highs mostly in the 80s"
+      "id": "73222031",
+      "title": "Safety concerns force Burlington Concert Band to cancel Battery Park performance",
+      "link": "https://www.mynbc5.com/article/burlington-concert-band-battery-park-safety/73222031",
+      "ts": "2026-07-21T22:25:00+00:00",
+      "summary": "The Burlington Concert Band canceled its Sunday performance over safety concerns. Now, city officials are exploring possible solutions before the next show."
      },
      {
       "id": "73221832",
@@ -1372,32 +1393,11 @@
       "summary": "Defense Secretary Pete Hegseth testified before the Senate, revealing the Iran conflict has cost $37.5 billion so far, as the White House requests $87.6 billion in emergency funding to sustain military operations."
      },
      {
-      "id": "73222031",
-      "title": "Safety concerns force Burlington Concert Band to cancel Battery Park performance",
-      "link": "https://www.mynbc5.com/article/burlington-concert-band-battery-park-safety/73222031",
-      "ts": "2026-07-21T22:25:00+00:00",
-      "summary": "The Burlington Concert Band canceled its Sunday performance over safety concerns. Now, city officials are exploring possible solutions before the next show."
-     },
-     {
       "id": "73221263",
       "title": "House GOP races to pass stopgap funding, budget reconciliation before weeks-long recess",
       "link": "https://www.mynbc5.com/article/house-gop-stopgap-funding-budget-reconciliation-recess/73221263",
       "ts": "2026-07-21T22:25:00+00:00",
       "summary": "House lawmakers have until Thursday night to get several critical bills across the finish line before they leave for a five-week recess."
-     },
-     {
-      "id": "73220968",
-      "title": "Seven Winooski High School students graduate Steps to Success program",
-      "link": "https://www.mynbc5.com/article/steps-to-success-graduation/73220968",
-      "ts": "2026-07-21T21:59:00+00:00",
-      "summary": "Seven Winooski High School graduates celebrated completing the Steps to Success program Tuesday, an initiative designed to help students build financial knowledge, develop professional skills and prepare for their futures."
-     },
-     {
-      "id": "73221985",
-      "title": "Memorial grows for teen killed in Burlington e-bike crash",
-      "link": "https://www.mynbc5.com/article/memorial-teen-killed-burlington-e-bike-crash/73221985",
-      "ts": "2026-07-21T21:51:00+00:00",
-      "summary": "A memorial is growing in Burlington's South End for 16-year-old Shiloh Skalka, who died after being hit by a car while riding an e-bike."
      }
     ]
    },
