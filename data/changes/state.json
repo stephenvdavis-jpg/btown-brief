@@ -2,8 +2,8 @@
  "nws-weather": {
   "alerts": [],
   "forecast_flag": {
-   "day": "2026-07-21",
-   "text": "Tonight: A chance of showers and thunderstorms before 7pm, then showers and thunderstorms between 7pm and 2am, then a slight chance of showers and thunderstorms between 2am and 5am"
+   "day": "2026-07-22",
+   "text": "Overnight: Scattered showers and thunderstorms before 4am"
   }
  },
  "beach-status": {
@@ -537,6 +537,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=212609",
+      "title": "From the Deputy Publisher: Summer School",
+      "link": "https://www.sevendaysvt.com/news/fromthepublisher/from-the-deputy-publisher-summer-school/",
+      "ts": "2026-07-22T04:37:00+00:00",
+      "summary": "This summer, Seven Days has a crew of capable interns supporting our staff — and bringing fresh energy and perspectives to our newsroom. The post From the Deputy Publisher: Summer School appeared first on Seven Days . (Image: Paula Routly)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212455",
       "title": "Self-Serve Cottage Bakeries Bring Treats to Vermont Roadsides",
       "link": "https://www.sevendaysvt.com/food-drink/fooddrinkfeatures/self-serve-cottage-bakeries-bring-treats-to-vermont-roadsides/",
@@ -598,13 +605,6 @@
       "link": "https://www.sevendaysvt.com/life-lines/obituaries/obituary-alexander-read-cronin-1978-2026/",
       "ts": "2026-07-21T10:00:00+00:00",
       "summary": "\"Adirondack Red\" had a quick wit, a generous spirit, and a lifelong love of woods, water and things with wheels The post Obituary: Alexander Read Cronin, 1978-2026 appeared first on Seven Days . (Image: Courtesy)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=211764",
-      "title": "In Memoriam: Robert Fuller, 1946-2026",
-      "link": "https://www.sevendaysvt.com/life-lines/inmemoriam/in-memoriam-robert-fuller-1946-2026/",
-      "ts": "2026-07-21T10:00:00+00:00",
-      "summary": "Friends, neighbors, former colleagues and coworkers celebrate chef, restaurateur, adventurer and vintage-motorcycle enthusiast The post In Memoriam: Robert Fuller, 1946-2026 appeared first on Seven Days . (Image: Courtesy)"
      }
     ]
    },
@@ -1365,18 +1365,18 @@
       "summary": "Beautiful stretch Thursday through Sunday — sunshine, highs mostly in the 80s"
      },
      {
-      "id": "73222031",
-      "title": "Safety concerns force Burlington Concert Band to cancel Battery Park performance",
-      "link": "https://www.mynbc5.com/article/burlington-concert-band-battery-park-safety/73222031",
-      "ts": "2026-07-21T22:25:00+00:00",
-      "summary": "The Burlington Concert Band canceled its Sunday performance over safety concerns. Now, city officials are exploring possible solutions before the next show."
-     },
-     {
       "id": "73221832",
       "title": "Secretary Hegseth testifies on Capitol Hill as Iran conflict costs rise to $37.5 billion",
       "link": "https://www.mynbc5.com/article/hegseth-testifies-capitol-hill-iran-war-costs/73221832",
       "ts": "2026-07-21T22:25:00+00:00",
       "summary": "Defense Secretary Pete Hegseth testified before the Senate, revealing the Iran conflict has cost $37.5 billion so far, as the White House requests $87.6 billion in emergency funding to sustain military operations."
+     },
+     {
+      "id": "73222031",
+      "title": "Safety concerns force Burlington Concert Band to cancel Battery Park performance",
+      "link": "https://www.mynbc5.com/article/burlington-concert-band-battery-park-safety/73222031",
+      "ts": "2026-07-21T22:25:00+00:00",
+      "summary": "The Burlington Concert Band canceled its Sunday performance over safety concerns. Now, city officials are exploring possible solutions before the next show."
      },
      {
       "id": "73221263",
