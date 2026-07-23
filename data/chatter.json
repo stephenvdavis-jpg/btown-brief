@@ -1,9 +1,217 @@
 {
-  "updated": "2026-07-23T12:11:42+00:00",
+  "updated": "2026-07-23T16:11:03+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "news": [
+    {
+      "title": "VT Headlines: Stolen Jeep found dumped and set on fire near Rutland",
+      "url": "https://vermontdailychronicle.com/vt-headlines-stolen-jeep-found-dumped-and-set-on-fire-near-rutland/?utm_source=rss&utm_medium=rss&utm_campaign=vt-headlines-stolen-jeep-found-dumped-and-set-on-fire-near-rutland",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-23T15:40:28+00:00",
+      "summary": "WCAX Stolen Jeep found dumped and set on fire near Rutland NBC 5 Vermont officials aim to boost voter turnout ahead of August primary WCAX Iranian-born surgeon detained at Vermont border appears in…"
+    },
+    {
+      "title": "Klar: Becca Balint responds hysterically to hysterical AI video",
+      "url": "https://vermontdailychronicle.com/klar-becca-balint-responds-hysterically-to-hysterical-ai-video/?utm_source=rss&utm_medium=rss&utm_campaign=klar-becca-balint-responds-hysterically-to-hysterical-ai-video",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-23T15:40:28+00:00",
+      "summary": "Political video reveals Dem. free-speech hypocrisy by John Klar A recent video made with Artificial Intelligence (AI) satirizing Vermont Congresswoman Becca Balint has sparked indignant hostility…"
+    },
+    {
+      "title": "Moyer: New law will drive VT electricity rates even higher",
+      "url": "https://vermontdailychronicle.com/moyer-new-law-will-drive-vt-electricity-rates-even-higher/?utm_source=rss&utm_medium=rss&utm_campaign=moyer-new-law-will-drive-vt-electricity-rates-even-higher",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-23T15:40:28+00:00",
+      "summary": "Does this truly serve the public good? To the Legislature: Vermont’s Renewable Energy Standard (RES) was enacted in 2015 and significantly accelerated in 2024 (H.289) to require most utilities to…"
+    },
+    {
+      "title": "Global oil prices jump above $100, first time since late May",
+      "url": "https://www.mynbc5.com/article/global-oil-price-hits-100-again-red-sea/73246100",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T15:39:23+00:00",
+      "summary": "Brent crude reaches $100.72 a barrel for first time since late May as disruption in the Middle East continues."
+    },
+    {
+      "title": "House Republican says Smith may have lied about Trump probe, refers him for possible prosecution",
+      "url": "https://www.mynbc5.com/article/jordan-refers-jack-smith-doj-testimony-dispute/73246856",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T15:39:23+00:00",
+      "summary": "A key Republican lawmaker says he believes that special counsel Jack Smith may have lied to Congress while testifying about his investigation of President Trump."
+    },
+    {
+      "title": "How arsonists used cats to spread Italy’s wildfires",
+      "url": "https://www.mynbc5.com/article/italy-wildfire-arson-cats-calabria/73246577",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T15:39:23+00:00",
+      "summary": "As wildfires blazed in southern Italy this week, authorities probing for arson found a grisly clue: cats \"with flammable-soaked rags tied to their tails.\""
+    },
+    {
+      "title": "House again passes resolution seeking to halt Iran military action as some Republicans defect",
+      "url": "https://www.mynbc5.com/article/house-resolution-iran-war/73246508",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T15:39:23+00:00",
+      "summary": "The House on Thursday narrowly passed a largely symbolic resolution to halt U.S. military action in Iran after a handful of Republicans voted with Democrats."
+    },
+    {
+      "title": "'Means the universe': Thousands pack Oklahoma tattoo fundraiser to help 3-year-old with cancer",
+      "url": "https://www.mynbc5.com/article/oklahoma-city-tattoo-studio-fundraiser-girl-with-cancer/73246333",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T15:39:23+00:00",
+      "summary": "\"What money can buy is a little relief\": More than 5,000 people signed up for an Oklahoma tattoo fundraiser that raised $32,000 for a 3-year-old battling Stage 4 neuroblastoma."
+    },
+    {
+      "title": "Iran conflict pushes gas prices even higher",
+      "url": "https://vermontbiz.com/news/2026/july/23/iran-conflict-pushes-gas-prices-even-higher",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T15:25:05+00:00",
+      "summary": "Iran conflict pushes gas prices even higher tim Thu, 07/23/2026 - 10:43 by Timothy McQuiston, Vermont Business Magazine Average gasoline prices in Vermont are $4.19 per gallon, up 15 cents per…"
+    },
+    {
+      "title": "Rich Stovall promoted to SVP, Senior IT Officer at CNB",
+      "url": "https://vermontbiz.com/people/july/rich-stovall-promoted-svp-senior-it-officer-cnb",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T15:25:05+00:00",
+      "summary": "Rich Stovall promoted to SVP, Senior IT Officer at CNB tim Thu, 07/23/2026 - 10:29 Vermont Business Magazine Community National Bank (CNB) President and CEO Christopher Caldwell has promoted Richard…"
+    },
+    {
+      "title": "Grant moves Vermont closer to 50% conservation goal",
+      "url": "https://vermontdailychronicle.com/grant-moves-vermont-closer-to-50-conservation-goal/?utm_source=rss&utm_medium=rss&utm_campaign=grant-moves-vermont-closer-to-50-conservation-goal",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-23T14:40:05+00:00",
+      "summary": "By Guy Page Conservation projects protecting more than 2,100 acres across six Vermont towns have received nearly $400,000 in grants through the Nature Conservancy’s Vermont Biodiversity Protection…"
+    },
+    {
+      "title": "Morrison: Proposal 3 risks the future of right-to-work in Vermont",
+      "url": "https://vermontdailychronicle.com/proposal-3-risks-the-future-of-right-to-work-in-vermont/?utm_source=rss&utm_medium=rss&utm_campaign=proposal-3-risks-the-future-of-right-to-work-in-vermont",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-23T14:40:05+00:00",
+      "summary": "by Clara Morrison This November, Vermonters will vote on Proposal 3 or “Prop 3,” a constitutional amendment that has largely been advertised as a way to enshrine the constitutional right to organize…"
+    },
+    {
+      "title": "FDA reviews peptide injections favored by wellness influencers",
+      "url": "https://www.mynbc5.com/article/fda-peptides-review/73246037",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T14:39:07+00:00",
+      "summary": "Federal health advisers are meeting to review a group of controversial chemicals called peptides, which have become a growing wellness trend."
+    },
+    {
+      "title": "Pet Connection: July 23, 2026",
+      "url": "https://www.mynbc5.com/article/pet-connection-july-23-2026/73246165",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T14:39:07+00:00",
+      "summary": "This week's Pet Connection has two bonded cats and an adorable dog who need new homes."
+    },
+    {
+      "title": "VIP introduces VIP Intelligence, the beverage industry's purpose-built AI",
+      "url": "https://vermontbiz.com/news/2026/july/25/vip-introduces-vip-intelligence-beverage-industrys-purpose-built-ai",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T14:25:24+00:00",
+      "summary": "VIP introduces VIP Intelligence, the beverage industry's purpose-built AI tim Sat, 07/25/2026 - 10:03 Related Company Vermont Information Processing, Inc Industry's trusted technology partner…"
+    },
+    {
+      "title": "Unionized staff at Community Health Centers fight against outsourcing",
+      "url": "https://vermontbiz.com/news/2026/july/23/unionized-staff-community-health-centers-fight-against-outsourcing",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T14:25:24+00:00",
+      "summary": "Unionized staff at Community Health Centers fight against outsourcing tim Thu, 07/23/2026 - 10:14 Related Company Community Health Centers of Burlington Vermont Business Magazine On Wednesday, July…"
+    },
+    {
+      "title": "Vermont climate advocates head to D.C.",
+      "url": "https://vermontbiz.com/news/2026/july/23/vermont-climate-advocates-head-dc",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T14:25:24+00:00",
+      "summary": "Vermont climate advocates head to D.C. tim Thu, 07/23/2026 - 09:33 Urge Lower Energy Bills and Faster Energy Solutions in Two Senate Bills Vermont Business Magazine As North America struggles with…"
+    },
+    {
+      "title": "Ali Dieng",
+      "url": "https://www.wvmtradio.com/episode/ali-dieng/",
+      "outlet": "WVMT",
+      "domain": "wvmtradio.com",
+      "published": "2026-07-23T14:19:54+00:00",
+      "summary": "Ali Dieng, Democrat Candidate for Vermont House Seat - Chittenden 18, joins Kurt & Anthony to discuss his campaign."
+    },
+    {
+      "title": "US on track to have historically low number of homicides in 2026, report says",
+      "url": "https://www.mynbc5.com/article/homicide-rate-2026-crime-report/73244364",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T13:38:16+00:00",
+      "summary": "A new report shows an 18% decrease in the homicide rate across 30 American cities from 2025 compared to the same period in 2026."
+    },
+    {
+      "title": "New bipartisan bill to assist seniors passes senate",
+      "url": "https://www.wcax.com/2026/07/23/new-bipartisan-bill-assist-seniors-passes-senate/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T13:14:01+00:00",
+      "summary": "New York Sen. Kirsten Gillibrand celebrated the unanimous passing of her bipartisan bill that could soon get more help for seniors to stay in their own homes"
+    },
+    {
+      "title": "Cutting-edge technology lab opens in South Burlington",
+      "url": "https://www.wcax.com/2026/07/23/cutting-edge-technology-lab-opens-south-burlington/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T13:14:01+00:00",
+      "summary": "Vermont’s tech sector is getting a major boost with the official opening of a $3.4 million microelectronics lab in South Burlington."
+    },
+    {
+      "title": "A cancer that spreads between fish was just confirmed in Lake Memphremagog. So can you eat what you catch?",
+      "url": "https://vermontdailychronicle.com/a-cancer-that-spreads-between-fish-was-just-confirmed-in-lake-memphremagog-so-can-you-eat-what-you-catch/?utm_source=rss&utm_medium=rss&utm_campaign=a-cancer-that-spreads-between-fish-was-just-confirmed-in-lake-memphremagog-so-can-you-eat-what-you-catch",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-23T12:41:19+00:00",
+      "summary": "The researchers say the disease poses no known risk to people. Vermont has never issued an advisory specific to this lake or this fish — and the only public guidance is a biologist’s personal…"
+    },
+    {
+      "title": "Is it safe to eat lettuce? What to know about the latest recall",
+      "url": "https://www.mynbc5.com/article/cyclospora-lettuce-recall-what-to-know/73244142",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T12:38:58+00:00",
+      "summary": "Contaminated produce has infected thousands with an intestinal illness. Here's what to know about the latest recall."
+    },
+    {
+      "title": "House Republicans vote to advance $95 billion spending bill. What happens next?",
+      "url": "https://www.mynbc5.com/article/house-republicans-kick-start-95-billion-spending-bill/73242376",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T12:38:58+00:00",
+      "summary": "House Republicans began advancing a $95 billion reconciliation package Wednesday, funding the Iran War, farmers, and voting reforms while seeking to bypass a Senate filibuster."
+    },
+    {
+      "title": "Trial begins for man accused of killing his daughter on vacation",
+      "url": "https://www.wcax.com/2026/07/23/trial-begins-man-accused-killing-his-daughter-vacation/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T12:13:30+00:00",
+      "summary": "Opening statements are taking place Thursday in the trial of a man charged with killing his 9-year-old daughter while on vacation in the Adirondacks."
+    },
+    {
+      "title": "Stolen Jeep found dumped and set on fire near Rutland",
+      "url": "https://www.wcax.com/2026/07/23/stolen-jeep-found-dumped-set-fire-near-rutland/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T12:13:30+00:00",
+      "summary": "Vermont State Police found a stolen Jeep in Rutland County that had been dumped and set on fire."
+    },
     {
       "title": "Stuck in Vermont: Touring Todd Hanley’s Daylily Garden in Richmond",
       "url": "https://www.sevendaysvt.com/arts-culture/stuckinvermont/stuck-in-vermont-touring-todd-hanleys-daylily-garden-in-richmond/",
@@ -266,7 +474,7 @@
       "outlet": "WCAX",
       "domain": "wcax.com",
       "published": "2026-07-23T01:06:02+00:00",
-      "summary": "Dancing with the Burlington Stars is coming up September 12th at the Flynn, and we’re catching up with past winners to learn more about the event."
+      "summary": "Dancing with the Burlington Stars is coming up on Sept. 12 at the Flynn, and we’re catching up with past winners to learn more about the event."
     },
     {
       "title": "What to know about testosterone replacement as Pete Hegseth pursues a ‘High-T Department of War’",
@@ -995,221 +1203,13 @@
       "domain": "vermontdailychronicle.com",
       "published": "2026-07-22T15:58:09+00:00",
       "summary": "My Champlain Valley VSP: missing man last seen in Duxbury VT Digger Judge denies bid by suspect’s lawyers in border patrol agent killing to change records screening process NBC 5 Vermont…"
-    },
-    {
-      "title": "Predator Poachers online sting group nabs suspected sex offender in Brattleboro",
-      "url": "https://vermontdailychronicle.com/predator-poachers-online-sting-group-nabs-suspected-sex-offender-in-brattleboro/?utm_source=rss&utm_medium=rss&utm_campaign=predator-poachers-online-sting-group-nabs-suspected-sex-offender-in-brattleboro",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T15:58:09+00:00",
-      "summary": "Hunter Barrett, 21, arrested for child luring after sting by Predator Poachers leader Alex Rosen (right, in Brattleboro Saturday) By Guy Page A Houston-based civilian group that unmasks child…"
-    },
-    {
-      "title": "Barre Heritage Festival & Homecoming Days returns today through Saturday, celebrating Barre and Vermont pride",
-      "url": "https://vermontdailychronicle.com/barre-heritage-festival-homecoming-days-returns-today-through-saturday-celebrating-barre-and-vermont-pride/?utm_source=rss&utm_medium=rss&utm_campaign=barre-heritage-festival-homecoming-days-returns-today-through-saturday-celebrating-barre-and-vermont-pride",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T15:58:09+00:00",
-      "summary": "The Barre Heritage Festival & Homecoming Days kicks off today and runs through Saturday, July 25, bringing four days of family-friendly fun, live music, delicious food, and community celebration to…"
-    },
-    {
-      "title": "Police look for person accused of illegally dumping 40 tires in Willoughby State Forest",
-      "url": "https://www.mynbc5.com/article/sutton-vermont-tires-illegal-dumping-willoughby-state-forest/73230567",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T15:41:39+00:00",
-      "summary": "Vermont State Police are looking for the driver of a vehicle seen illegally dumping 40 tires in the Willoughby State Forest this week."
-    },
-    {
-      "title": "One in 30 million catch: Hampton woman catches yellow lobster off NH coast",
-      "url": "https://www.mynbc5.com/article/rye-yellow-lobster-catch/73230464",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T15:41:39+00:00",
-      "summary": "A rare yellow lobster was caught by a lobsterwoman from Hampton last week. There is about a one in 30 million chance of catching a lobster with this type of genetic mutation."
-    },
-    {
-      "title": "Preliminary independent autopsy results for Nolan Wells' death released",
-      "url": "https://www.mynbc5.com/article/nolan-wells-preliminary-independent-autopsy-results/73229704",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T15:41:39+00:00",
-      "summary": "The independent autopsy results in Nolan Wells' death have been released. The 18-year-old was found dead off the Mississippi coast earlier this month."
-    },
-    {
-      "title": "Collisions in space are a growing concern. A plan to address it is reigniting a turf war",
-      "url": "https://www.mynbc5.com/article/space-collisions-fcc-satellites/73228317",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T15:41:39+00:00",
-      "summary": "There are more than 18,000 active and inactive satellites in orbit. Now, there's a turf war on what agency should get to call the shots on them."
-    },
-    {
-      "title": "Emma Mulvaney- Stanak",
-      "url": "https://www.wvmtradio.com/episode/emma-mulvaney-stanak-12/",
-      "outlet": "WVMT",
-      "domain": "wvmtradio.com",
-      "published": "2026-07-22T15:38:26+00:00",
-      "summary": "Emma Mulvaney-Stanak, Burlington Mayor, joins Kurt & Anthony to talk all things Burlington."
-    },
-    {
-      "title": "How VTDigger prepares for the stories that make a difference",
-      "url": "https://vtdigger.org/2026/07/22/how-vtdigger-prepares-for-the-stories-that-make-a-difference/",
-      "outlet": "VTDigger",
-      "domain": "vtdigger.org",
-      "published": "2026-07-22T15:21:53+00:00",
-      "summary": "VTDigger reporter Charlotte Oliver questions U.S. Senator Peter Welch, D-Vermont, during a press conference at the Statehouse in Montpelier on Friday, February 6, 2026. Photo by Glenn…"
-    },
-    {
-      "title": "Vermont is not educating students with disabilities up to federal standards",
-      "url": "https://vtdigger.org/2026/07/22/vermont-is-not-educating-students-with-disabilities-up-to-federal-standards/",
-      "outlet": "VTDigger",
-      "domain": "vtdigger.org",
-      "published": "2026-07-22T15:21:53+00:00",
-      "summary": "Education Secretary Linda McMahon arrives for a House Committee on Education and Workforce hearing, Wednesday, June 4, 2025, on Capitol Hill in Washington. Photo by Jacquelyn Martin/Associated Press…"
-    },
-    {
-      "title": "PAI: More Vermont women than men juggle several jobs",
-      "url": "https://vermontbiz.com/news/2026/july/22/pai-more-vermont-women-men-juggle-several-jobs",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T15:08:00+00:00",
-      "summary": "PAI: More Vermont women than men juggle several jobs tim Wed, 07/22/2026 - 10:19 Public Assets Institute For each of the past 30 years, more Vermont women than men have held multiple jobs at once…"
-    },
-    {
-      "title": "Vermont AG files lawsuit to fight greenhouse gas emissions",
-      "url": "https://vermontbiz.com/news/2026/july/22/vermont-ag-files-lawsuit-fight-greenhouse-gas-emissions",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T15:08:00+00:00",
-      "summary": "Vermont AG files lawsuit to fight greenhouse gas emissions tim Wed, 07/22/2026 - 10:03 Lawsuit is 56th Against Trump Administration Vermont Business Magazine Attorney General Charity Clark today…"
-    },
-    {
-      "title": "Appeals court reverses Mahdawi decision- says judge overstepped authority in deportation case",
-      "url": "https://vermontdailychronicle.com/appeals-court-rebukes-judge-crawford-for-overstepping-authority-in-mahdawi-deportation-case/?utm_source=rss&utm_medium=rss&utm_campaign=appeals-court-rebukes-judge-crawford-for-overstepping-authority-in-mahdawi-deportation-case",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T14:57:59+00:00",
-      "summary": "Decision not a deportation order By Ted Cohen and Guy Page A federal circuit court of appeals has overruled a Vermont judge who allegedly unlawfully released an immigrant detainee. The ruling is not…"
-    },
-    {
-      "title": "Balint introduces bill to protect Vermont’s small businesses from Amazon and other retailers",
-      "url": "https://vermontdailychronicle.com/balint-introduces-bill-to-protect-vermonts-small-businesses-from-amazon-and-other-retailers/?utm_source=rss&utm_medium=rss&utm_campaign=balint-introduces-bill-to-protect-vermonts-small-businesses-from-amazon-and-other-retailers",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T14:57:59+00:00",
-      "summary": "By Sam Douglass “It’s time we return power to the people,” wrote Congresswoman Balint on Facebook. On July 21, Vermont’s sole member of the U.S House of Representatives, Becca Balint (D-VT)…"
-    },
-    {
-      "title": "Vermont F&W hearings on Bear Rule changes",
-      "url": "https://vermontdailychronicle.com/vermont-fw-hearings-on-bear-rule-changes/?utm_source=rss&utm_medium=rss&utm_campaign=vermont-fw-hearings-on-bear-rule-changes",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T14:57:59+00:00",
-      "summary": "MONTPELIER, Vt – The Vermont Fish and Wildlife Board will hold two public hearings on proposed changes to Vermont’s bear hunting regulation. The changes proposed by the Fish and Wildlife Board would…"
-    },
-    {
-      "title": "Thayer: Memo to VT’s DSA – capitalism works, socialism doesn’t",
-      "url": "https://vermontdailychronicle.com/thayer-memo-to-vts-dsa-capitalism-works-socialism-doesnt/?utm_source=rss&utm_medium=rss&utm_campaign=thayer-memo-to-vts-dsa-capitalism-works-socialism-doesnt",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T14:57:59+00:00",
-      "summary": "by Gregory Thayer, MBA Open questions for Vermont’s Democatic Socialist of America members. Where’s Bernie… Where has Socialism/Communism ever worked? Do you realize that the very smartphone in your…"
-    },
-    {
-      "title": "FEMA approves NEK flood repair reimbursements",
-      "url": "https://vermontdailychronicle.com/fema-approves-nek-flood-repair-reimbursements/?utm_source=rss&utm_medium=rss&utm_campaign=fema-approves-nek-flood-repair-reimbursements",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T14:57:59+00:00",
-      "summary": "On July 17, FEMA announced the approval of nearly $7 million in post-disaster funding for projects in New England, the Journal-Opinion reports. The funding approved included $3.6 million to the…"
-    },
-    {
-      "title": "Legislative crackdown on Health Care Sharing Ministries could raise costs for ratepayers, taxpayers",
-      "url": "https://vermontdailychronicle.com/legislative-crackdown-on-health-care-sharing-ministries-could-raise-costs-for-ratepayers-taxpayers/?utm_source=rss&utm_medium=rss&utm_campaign=legislative-crackdown-on-health-care-sharing-ministries-could-raise-costs-for-ratepayers-taxpayers",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T14:57:59+00:00",
-      "summary": "By Guy Page As Vermont’s health care insurance rates climbed higher than neighboring states, the Vermont Legislature this year tried to crack down on what some Vermonters of faith consider a more…"
-    },
-    {
-      "title": "VIDEO: Tornado tears through farm in Kentucky, sending debris into the air",
-      "url": "https://www.mynbc5.com/article/video-tornado-kentucky-farm/73229472",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T14:42:20+00:00",
-      "summary": "CAUGHT ON CAMERA | Video shows the destructive force of a tornado that tore through a farm in Kentucky Tuesday."
-    },
-    {
-      "title": "A teen, a fiancé and a ‘fearless’ father of 2 are among the service members killed or missing in the Iran war",
-      "url": "https://www.mynbc5.com/article/soldiers-killed-iran-war-identified/73226896",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T14:42:20+00:00",
-      "summary": "A teen, a fiancé and a \"fearless\" father of two are among the service members killed or missing in the Iran war. Here's what we know about the victims."
-    },
-    {
-      "title": "Adolf Hitler’s birthplace in Austria reopens as a police station to deter Nazi pilgrimages",
-      "url": "https://www.mynbc5.com/article/hitler-birthplace-austria-police-station/73229289",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T14:42:20+00:00",
-      "summary": "Adolf Hitler's birthplace in Austria was officially inaugurated as a police station on Wednesday in an effort to destroy the building's appeal as a site of pilgrimage for people who glorify the Nazi…"
-    },
-    {
-      "title": "Trump says US will destroy a bridge or power plant for each Iranian attack in Strait of Hormuz",
-      "url": "https://www.mynbc5.com/article/iran-strait-of-hormuz-retaliation-bridge-power/73228926",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T14:42:20+00:00",
-      "summary": "President Trump has warned Iran that the U.S. will destroy one bridge or power plant, including in Iran's capital, each time Iran shoots at a ship in the Strait of Hormuz."
-    },
-    {
-      "title": "Vermont Towns Try Different Ways to Regulate Short-Term Rentals",
-      "url": "https://www.sevendaysvt.com/news/housingcrisis/vermont-towns-try-different-ways-to-regulate-short-term-rentals/",
-      "outlet": "Seven Days",
-      "domain": "sevendaysvt.com",
-      "published": "2026-07-22T14:26:09+00:00",
-      "summary": "Vermont Housing Commissioner Alex Farrell looked out over a conference room packed with people who had come to defend — and grow — the state’s short-term rental industry. It was a Thursday in March…"
-    },
-    {
-      "title": "Bolton Valley Begins Construction on New Housing at Resort",
-      "url": "https://www.sevendaysvt.com/news/constructiondevelopment/bolton-valley-begins-construction-on-new-housing-at-resort/",
-      "outlet": "Seven Days",
-      "domain": "sevendaysvt.com",
-      "published": "2026-07-22T14:26:09+00:00",
-      "summary": "Construction of a new residential neighborhood is under way at Bolton Valley Resort. Nordic Peaks, the first building project at the resort in 30 years, will feature 32 condos and townhomes…"
-    },
-    {
-      "title": "Progressive Activist Challenges Incumbent Lawman for Chittenden County Sheriff",
-      "url": "https://www.sevendaysvt.com/election-2026/progressive-activist-challenges-incumbent-lawman-for-chittenden-county-sheriff/",
-      "outlet": "Seven Days",
-      "domain": "sevendaysvt.com",
-      "published": "2026-07-22T14:26:09+00:00",
-      "summary": "Kevin Bloom Credit: Daria Bishop The provocative lawn signs began popping up this spring: “STOP EVICTING CHILDREN.” They carried the message of a new candidate for Chittenden County sheriff, who, if…"
-    },
-    {
-      "title": "Concerns Mount Over Young Riders Operating E-Bikes and E-Motos",
-      "url": "https://www.sevendaysvt.com/news/news-news/concerns-mount-over-young-riders-operating-e-bikes-and-e-motos/",
-      "outlet": "Seven Days",
-      "domain": "sevendaysvt.com",
-      "published": "2026-07-22T14:26:09+00:00",
-      "summary": "From his post at the intersection of North Street and Elmwood Avenue this spring, Burlington School District crossing guard Richard Hillyard noticed a worrying trend: children as young as 9 or 10…"
-    },
-    {
-      "title": "Research finds unpaid caregiving taking a toll on retirement confidence, financial security",
-      "url": "https://vermontbiz.com/news/2026/july/28/research-finds-unpaid-caregiving-taking-toll-retirement-confidence-financial",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T14:08:29+00:00",
-      "summary": "Research finds unpaid caregiving taking a toll on retirement confidence, financial security tim Tue, 07/28/2026 - 07:24 2026 EBRI/Greenwald Retirement Confidence Survey analysis finds caregivers are…"
     }
   ],
   "topics": [
     {
       "id": "five-loganair-sale",
       "label": "A Nice Sale for Beta Technologies",
-      "direction": "rising",
+      "direction": "steady",
       "posts": 1,
       "comments": null,
       "last_activity": "2026-07-22T19:26:31+00:00",
@@ -1226,7 +1226,7 @@
     {
       "id": "snaps-shoulders-without",
       "label": "Adaptive Clothing Donation",
-      "direction": "rising",
+      "direction": "steady",
       "posts": 1,
       "comments": null,
       "last_activity": "2026-07-22T19:26:31+00:00",
@@ -1243,7 +1243,7 @@
     {
       "id": "checkups-cleanings-context",
       "label": "Dentist recommendations for northern Vermont?",
-      "direction": "rising",
+      "direction": "steady",
       "posts": 1,
       "comments": null,
       "last_activity": "2026-07-22T19:26:31+00:00",
@@ -1260,7 +1260,7 @@
     {
       "id": "cannabis-limit-after",
       "label": "Double the limit: Vermont bets bigger cannabis buys will beat…",
-      "direction": "rising",
+      "direction": "steady",
       "posts": 1,
       "comments": null,
       "last_activity": "2026-07-22T19:26:31+00:00",
@@ -1277,7 +1277,7 @@
     {
       "id": "county-goldfinch-windsor",
       "label": "Goldfinch",
-      "direction": "rising",
+      "direction": "steady",
       "posts": 1,
       "comments": null,
       "last_activity": "2026-07-22T19:26:31+00:00",
@@ -1294,7 +1294,7 @@
     {
       "id": "hair-highlights-willing",
       "label": "Hair stylists that specialize in highlights?",
-      "direction": "rising",
+      "direction": "steady",
       "posts": 1,
       "comments": null,
       "last_activity": "2026-07-22T19:26:31+00:00",
@@ -1311,7 +1311,7 @@
     {
       "id": "windy-albans-also",
       "label": "Is it just me or have there been a lot more windy days than…",
-      "direction": "rising",
+      "direction": "steady",
       "posts": 1,
       "comments": null,
       "last_activity": "2026-07-22T19:26:31+00:00",
@@ -1328,7 +1328,7 @@
     {
       "id": "only-said-tax",
       "label": "Lt Gov: Only Esther Will tax millionaires",
-      "direction": "rising",
+      "direction": "steady",
       "posts": 1,
       "comments": null,
       "last_activity": "2026-07-22T19:26:31+00:00",
