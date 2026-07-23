@@ -1,50 +1,6 @@
 {
- "generated": "2026-07-23T10:37:04+00:00",
+ "generated": "2026-07-23T12:53:38+00:00",
  "events": [
-  {
-   "ts": "2026-07-16T11:20:49+00:00",
-   "category": "events",
-   "headline": "New event: Library Outreach Specialist Office Hours",
-   "detail": "today 10 AM · Fletcher Free Library",
-   "url": "https://fletcherfree.libcal.com/event/16213808",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T11:20:49+00:00",
-   "category": "events",
-   "headline": "New event: The Ultimate Chocolate Tasting",
-   "detail": "today 2 PM · Lake Champlain Chocolates",
-   "url": "https://calendar.time.ly/vfaca7kw/event/78391346/20260716140000",
-   "source": "events-local",
-   "sourceName": "BTown Brief events",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T11:57:01+00:00",
-   "category": "weather",
-   "headline": "Today: Areas of smoke before 1pm, then patchy smoke and a slight chance of rain showers between 1pm and 2pm, then patchy smoke and showers and thunderstorms likely",
-   "detail": "",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 2,
-   "kind": "changed"
-  },
-  {
-   "ts": "2026-07-16T12:29:00+00:00",
-   "category": "weather",
-   "headline": "Air Quality Alert issued",
-   "detail": "Air Quality Alert issued July 16 at 8:29AM EDT by NWS Burlington VT",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 3,
-   "kind": "status"
-  },
   {
    "ts": "2026-07-16T14:02:42+00:00",
    "category": "chatter",
@@ -2596,6 +2552,127 @@
    "sourceName": "NBC5",
    "priority": 1,
    "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:28:55+00:00",
+   "category": "events",
+   "headline": "New event: Trolley tours",
+   "detail": "today 9 AM · Perkins Pier",
+   "url": "https://www.helloburlingtonvt.com/event/trolley-tours/4244/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:28:55+00:00",
+   "category": "events",
+   "headline": "New event: Library Outreach Specialist Office Hours",
+   "detail": "today 10 AM · Fletcher Free Library",
+   "url": "https://fletcherfree.libcal.com/event/16213809",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:28:55+00:00",
+   "category": "events",
+   "headline": "New event: Dinosaur Safari Exhibit",
+   "detail": "today 10 AM · ECHO, Leahy Center for Lake Champlain",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78234701/20260117100000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:28:55+00:00",
+   "category": "events",
+   "headline": "New event: Glass Factory and Storefront Open !!",
+   "detail": "today 10 AM · AO Glass",
+   "url": "https://www.helloburlingtonvt.com/event/glass-factory-and-storefront-open-!!/5584/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:28:55+00:00",
+   "category": "events",
+   "headline": "New event: Cruise aboard the Spirit of Ethan Allen III",
+   "detail": "today 12 PM · Spirit of Ethan Allen",
+   "url": "https://www.helloburlingtonvt.com/event/cruise-aboard-the-spirit-of-ethan-allen-iii/6292/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:28:55+00:00",
+   "category": "events",
+   "headline": "New event: The Ultimate Chocolate Tasting",
+   "detail": "today 2 PM · Lake Champlain Chocolates",
+   "url": "https://calendar.time.ly/vfaca7kw/event/78391346/20260723140000",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:28:55+00:00",
+   "category": "events",
+   "headline": "New event: Half Priced Oysters at La Reprise",
+   "detail": "today 4 PM · La Reprise",
+   "url": "https://www.helloburlingtonvt.com/event/half-priced-oysters-at-la-reprise/7709/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:28:55+00:00",
+   "category": "events",
+   "headline": "New event: Skiff Oyster Hour",
+   "detail": "today 4 PM · Hilton Burlington Lake Champlain",
+   "url": "https://www.helloburlingtonvt.com/event/skiff-oyster-hour/5005/",
+   "source": "events-local",
+   "sourceName": "BTown Brief events",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T11:30:00+00:00",
+   "category": "news",
+   "headline": "Stuck in Vermont: Touring Todd Hanley’s Daylily Garden in Richmond",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/arts-culture/stuckinvermont/stuck-in-vermont-touring-todd-hanleys-daylily-garden-in-richmond/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T12:23:39+00:00",
+   "category": "news",
+   "headline": "Cutting-edge technology lab opens in South Burlington",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/23/cutting-edge-technology-lab-opens-south-burlington/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T12:50:36+00:00",
+   "category": "roads",
+   "headline": "Bennington Court — Bennington Court Water Main Replacement construction update",
+   "detail": "",
+   "url": "https://burlingtonvt.gov/681/Water-Main-Rehabilitation-Projects",
+   "source": "roads",
+   "sourceName": "City construction map",
+   "priority": 2,
+   "kind": "changed"
   }
  ]
 }
