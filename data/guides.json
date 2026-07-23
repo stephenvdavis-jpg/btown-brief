@@ -170,7 +170,7 @@
       },
       {
         "title": "Get to the top of Mount Mansfield — any way you like",
-        "body": "The state's highest point offers three routes: the Long Trail on foot, Stowe's gondola, or the auto toll road to the ridge. Ice-age alpine tundra survives along the top, and the Route 108 drive through Smugglers Notch to get there is a destination itself. Underhill State Park is the quiet local approach.",
+        "body": "The state's highest point offers three routes: the Long Trail on foot, Stowe's gondola, or the auto toll road to the ridge. Ice-age alpine tundra survives along the top. Underhill State Park is the quiet local approach.",
         "things": [
           "mount-mansfield",
           "underhill-state-park"
@@ -234,11 +234,11 @@
         ]
       },
       {
-        "title": "Do the South End Art Hop weekend",
-        "body": "Every September the arts district throws open hundreds of studios for Burlington's biggest art celebration — music, food trucks, and work you can actually afford. The neighborhood's whole identity, distilled into one weekend.",
+        "title": "Walk through the Frame — the skeleton of the Moran Plant",
+        "body": "The old coal power plant at the waterfront's north end was stripped to its steel bones and reopened as a public landmark in 2021. Wander under the girders, catch whatever installation or pop-up has moved in, and appreciate a city that turned its ugliest building into its strangest monument.",
         "things": [
-          "south-end-art-hop",
-          "south-end-arts-district"
+          "moran-frame",
+          "waterfront-park"
         ]
       },
       {
@@ -280,32 +280,31 @@
         ]
       },
       {
-        "title": "Plan a June visit around Discover Jazz",
-        "body": "For one week the whole city becomes a venue — headliners at the Flynn, free stages outdoors, and music leaking out of every bar downtown. Burlington's signature festival.",
+        "title": "Order gravy fries where Phish got their start",
+        "body": "Nectar's has run music nearly nightly under the revolving neon sign since 1975, and the house band that grew up on its stage became Burlington's biggest export. Cheap covers, late sets, and the gravy fries are non-negotiable.",
         "things": [
-          "discover-jazz-festival",
-          "flynn-center"
+          "nectars"
         ]
       },
       {
-        "title": "Catch the Festival of Fools take over Church Street",
-        "body": "Three days in early August of international-caliber street performers — acrobats, circus acts, comedy — with no tickets and no fences. The crowd and the show share the same bricks.",
+        "title": "Take the high ground at Battery Park",
+        "body": "A hundred feet above the waterfront sits the bluff where American guns traded fire with the British fleet in 1813. Now it's the town's best storm-watching perch, and its long-running free summer concert series means the only artillery left is amplifiers.",
         "things": [
-          "festival-of-fools"
+          "battery-park"
         ]
       },
       {
-        "title": "Spend Grand Point North weekend on the waterfront",
-        "body": "Grace Potter's own festival brings two nights of serious acts to Waterfront Park every September, with the lake as the backdrop. The most scenic stage in New England.",
+        "title": "Pick apples above the lake at Shelburne Orchards",
+        "body": "The Vermont fall rite done with a view — fill your own bag with the Adirondacks stacked behind the rows, then hit the ciderhouse barn for fresh-pressed cider and a bottle of the farm's own Dead Bird apple brandy.",
         "things": [
-          "grand-point-north"
+          "shelburne-orchards"
         ]
       },
       {
-        "title": "Do Waking Windows in Winooski",
-        "body": "Every May the whole of downtown Winooski becomes a festival — stages in bars, on corners, in the mill — built around discovery rather than headliners. The best value in Vermont music.",
+        "title": "Drop down to Salmon Hole below the Winooski falls",
+        "body": "Five minutes from downtown Winooski, trails from both banks land you on bare rock ledges around the most storied fishing hole in Vermont. Anglers work the pool for salmon, steelhead, and bass; everyone else scrambles the ledges and watches the river work.",
         "things": [
-          "waking-windows"
+          "salmon-hole"
         ]
       },
       {
@@ -721,24 +720,24 @@
         ]
       },
       {
-        "title": "Witness the lit-up cement truck parade",
-        "body": "Every St. Patrick's Day, SD Ireland covers its concrete mixer fleet in thousands of lights and parades it through town. It is absurd. It is beloved. It exists nowhere else on Earth.",
+        "title": "Take the boardwalk to the river's mouth at Delta Park",
+        "body": "A short boardwalk through flooded silver-maple forest ends at the sandy point where the Winooski meets the lake — the county's best birding, and a straight connection onto the bike path. Rare river-delta wetlands, dry feet.",
         "things": [
-          "sd-ireland-truck-parade"
+          "delta-park"
         ]
       },
       {
-        "title": "Run — or relay — the Vermont City Marathon",
-        "body": "Memorial Day weekend's citywide event lets normal humans split the 26.2 as a relay while whole neighborhoods turn out with hoses and cowbells. Finish line: the waterfront, obviously.",
+        "title": "Drive the Notch while it's open",
+        "body": "Route 108 hairpins through a thousand-foot cleft between Mansfield and Spruce Peak, tight enough that trucks are banned and winter closes it entirely. Park at the height of land and scramble the house-sized boulders that hid smugglers in 1807 and bootleggers a century later.",
         "things": [
-          "vermont-city-marathon"
+          "smugglers-notch-drive"
         ]
       },
       {
-        "title": "Do a full night at the Champlain Valley Fair",
-        "body": "Late August in Essex Junction: midway rides, big-name grandstand concerts, maple everything, and the demolition derby — pure, chaotic Vermont summer's-end tradition since 1922.",
+        "title": "Learn to ski where Olympians did at Cochran's",
+        "body": "The Cochran family's nonprofit community hill in Richmond has taught Chittenden County to turn since 1961, and it shows: a 1972 Olympic gold and a 2022 silver both started here. One small hill, tiny prices, zero attitude.",
         "things": [
-          "champlain-valley-fair"
+          "cochrans-ski-area"
         ]
       },
       {
