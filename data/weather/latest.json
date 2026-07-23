@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-23T10:06:27+00:00",
+ "updated": "2026-07-23T11:30:02+00:00",
  "sections_updated": {
-  "now": "2026-07-23T10:06:27+00:00",
-  "forecast": "2026-07-23T10:06:27+00:00",
-  "hourly": "2026-07-23T10:06:27+00:00",
-  "alerts": "2026-07-23T10:06:27+00:00",
-  "afd": "2026-07-23T10:06:27+00:00",
-  "lake_forecast": "2026-07-23T10:06:27+00:00",
-  "lake_gage": "2026-07-23T10:06:27+00:00",
-  "air": "2026-07-23T10:06:27+00:00",
-  "sun": "2026-07-23T10:06:27+00:00",
-  "models": "2026-07-23T10:06:27+00:00"
+  "now": "2026-07-23T11:30:02+00:00",
+  "forecast": "2026-07-23T11:30:02+00:00",
+  "hourly": "2026-07-23T11:30:02+00:00",
+  "alerts": "2026-07-23T11:30:02+00:00",
+  "afd": "2026-07-23T11:30:02+00:00",
+  "lake_forecast": "2026-07-23T11:30:02+00:00",
+  "lake_gage": "2026-07-23T11:30:02+00:00",
+  "air": "2026-07-23T11:30:02+00:00",
+  "sun": "2026-07-23T11:30:02+00:00",
+  "models": "2026-07-23T11:30:02+00:00"
  },
  "now": {
-  "observed_at": "2026-07-23T09:50:00+00:00",
+  "observed_at": "2026-07-23T11:05:00+00:00",
   "station": "KBTV",
   "description": "Mostly Clear",
-  "temp_f": 54,
-  "feels_like_f": 54,
-  "humidity": 82,
+  "temp_f": 57,
+  "feels_like_f": 57,
+  "humidity": 72,
   "dewpoint_f": 48,
-  "wind_mph": 6,
+  "wind_mph": 3,
   "wind_gust_mph": null,
-  "wind_dir": "E"
+  "wind_dir": "S"
  },
  "forecast": {
   "updated": "2026-07-23T06:19:05+00:00",
@@ -31,7 +31,7 @@
     "name": "Today",
     "is_day": true,
     "temp_f": 80,
-    "pop": 1,
+    "pop": 0,
     "wind": "SW 8 mph",
     "short": "Sunny",
     "detailed": "Sunny, with a high near 80. Southwest wind around 8 mph."
@@ -86,17 +86,6 @@
  "hourly": {
   "updated": "2026-07-23T06:19:05+00:00",
   "hours": [
-   {
-    "t": "2026-07-23T06:00:00-04:00",
-    "temp_f": 55,
-    "feels_f": 55,
-    "pop": 1,
-    "humidity": 86,
-    "wind_mph": 6,
-    "wind_dir": "S",
-    "sky": 14,
-    "short": "Sunny"
-   },
    {
     "t": "2026-07-23T07:00:00-04:00",
     "temp_f": 59,
@@ -481,6 +470,17 @@
     "wind_dir": "S",
     "sky": 8,
     "short": "Sunny"
+   },
+   {
+    "t": "2026-07-24T18:00:00-04:00",
+    "temp_f": 80,
+    "feels_f": 80,
+    "pop": 0,
+    "humidity": 41,
+    "wind_mph": 5,
+    "wind_dir": "S",
+    "sky": 12,
+    "short": "Mostly Clear"
    }
   ]
  },
@@ -488,13 +488,13 @@
   "active": []
  },
  "afd": {
-  "issued": "2026-07-23T06:23:00+00:00",
+  "issued": "2026-07-23T10:51:00+00:00",
   "key_messages": [
    "Dry and seasonably warm weather will continue through the end of the week as high pressure settles over the region.",
    "Showers and thunderstorms are likely to return to the region next week as a series of shortwaves cross the Northeast, ushering in seasonably cooler conditions by midweek."
   ],
   "what_changed": "As of 223 AM EDT Thursday... No significant changes were made with this forecast.",
-  "raw": "\n000\nFXUS61 KBTV 230623\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n223 AM EDT Thu Jul 23 2026\n\n.WHAT HAS CHANGED...\nAs of 223 AM EDT Thursday...\n\nNo significant changes were made with this forecast.\n\n&&\n\n.KEY MESSAGES...\nAs of 223 AM EDT Thursday...\n\n1. Dry and seasonably warm weather will continue through the \nend of the week as high pressure settles over the region. \n\n2. Showers and thunderstorms are likely to return to the region \nnext week as a series of shortwaves cross the Northeast, ushering in \nseasonably cooler conditions by midweek.\n\n&&\n\n.DISCUSSION...\nAs of 223 AM EDT Thursday...\n\nKEY MESSAGE 1: An upper trough is pivoting across Quebec and northern \nNew England/NY early this morning. Meanwhile, surface high pressure \nis building eastward across the Great Lakes. The upper trough is \nmainly producing just some scattered cloud cover, though some light \nrain has been noted over southern portions of St Lawrence County. \nThe incoming airmass associated with the high is quite dry, so \nanticipate this will wane over the next few hours as ridging moves \noverhead. This fair weather will settle over our area for the \nremainder of the week. Each day will feature plentiful sunshine, \nwith highs gradually increasing as we head into the weekend. We'll \nstart out with highs in the 70s to around 80F today, and topping out \nin the 80s to near 90F by Saturday and Sunday. Thankfully, humidity \nwill remain at comfortable levels as dewpoints are expected to be in \nthe 40s and 50s, perhaps nudging into the low 60s by Sunday. The dry \nair and mostly clear skies will result in optimal radiational \ncooling tonight and Thursday night, and lows will be in the mid 40s \nto mid 50s both nights. Winds could be a little on the breezy side \nthis afternoon, but these should lessen by tonight as the pressure \ngradient slackens. A cold front starts to approach from \nOntario/Great Lakes later Sunday, and some guidance indicates that a \nfew showers/thunderstorms may make it into northern NY before \nsunset. However, general expectations are the bulk of any \nprecipitation will hold off until after dark.\n\nKEY MESSAGE 2: Upper level closed low pressure will rotate across the \nHudson Bay into Quebec for much of next week, sending a series of \nshortwaves through northern New York and Vermont. The first is set \nto move through Sunday night, though high pressure and drier air \nlocked in across Nova Scotia looks to hinder its eastward \nprogression through the forecast area and limit measurable \nprecipitation. Chances of a shower or thunderstorm Sunday night are \naround 0 to 25%, highest across northern New York. Southerly to \nsouthwesterly flow will keep low temperatures seasonable to warm in \nthe mid 50s to mid 60s Sunday night, then allow temps to climb into \nthe upper 70s to mid 80s on Monday despite scattered showers and \nthunderstorms (20 to 60% chance precip, highest in northern New \nYork) as moisture finally lifts into the region. Lingering showers \nand clouds Monday night will keep temperatures seasonably warm in \nthe mid 50s to mid 60s again before a weak surface low crosses the \nGreat Lakes and another low pressure strengthens in the mid-Atlantic \non Tuesday, bringing a more widespread round of showers and \nthunderstorms to the region. Tuesday afternoon looks like the most \nlikely period for some showers and thunderstorms with 60-80% chance \nof measurable precipitation as some deterministic models are \ndepicting the shortwave as a closed low aloft, but this may change \nas we get closer. As waves pass through next week, they will take \nwith them small chunks of heat and moisture, gradually knocking our \ntemperatures and humidity levels down into midweek. By next \nWednesday, highs will be widespread 70s, and lows should fall into \nthe 50s and lower 60s, all slightly below seasonal normals.\n\n&&\n\n.AVIATION /06Z THURSDAY THROUGH MONDAY/...\nThrough 06Z Friday...VFR conditions will likely prevail at all TAF\nsites over the next 24 hours with the exception of SLK and MPV.\nGiven the recent rainfall, there is the potential for some MVFR or\nlower conditions to occur at SLK and MPV around 08Z-14Z Thursday due\nto fog development. There remains some question, however, on the\ntiming and persistence of any fog, especially as winds persist at\nMPV and clouds are headed for SLK to cut off radiational cooling. At\nthe moment, using model data and climatological history, highest\nchance of IFR/LIFR will be from 08Z through 11Z Thursday at SLK, but\nthis could chance based on cloud positioning and winds as we move\nthrough the early morning hours. Otherwise, high pressure building\nthrough the end of the week will bring dry weather. Current\nnorthwesterly winds are expected to turn more southwesterly early\nthis morning, with many sites becoming light or even calm. A\nnorthwesterly low level jet aloft could produce a few hours of LLWS\nat northern sites like SLK and EFK as it passes from west to east\nearly this morning. Then around 14Z-17Z Thursday, surface winds will\nincrease again out of the west-northwest 5-15 knots, with\nsouthwesterly flow persisting in the St. Lawrence Valley and\nresulting in gusts at MSS 10-20 knots due to channeled flow 17Z\nThursday onwards.\n\nOutlook...\n\nFriday: VFR.\nFriday Night: VFR.\nSaturday: VFR.\nSaturday Night: VFR.\nSunday: VFR.\nSunday Night: VFR.\nMonday: Mainly VFR, with local MVFR possible.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Hastings\nDISCUSSION...Storm/Hastings\nAVIATION...Storm\n"
+  "raw": "\n000\nFXUS61 KBTV 231051\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n651 AM EDT Thu Jul 23 2026\n\n.WHAT HAS CHANGED...\nAs of 223 AM EDT Thursday...\n\nNo significant changes were made with this forecast.\n\n&&\n\n.KEY MESSAGES...\nAs of 223 AM EDT Thursday...\n\n1. Dry and seasonably warm weather will continue through the \nend of the week as high pressure settles over the region. \n\n2. Showers and thunderstorms are likely to return to the region \nnext week as a series of shortwaves cross the Northeast, ushering in \nseasonably cooler conditions by midweek.\n\n&&\n\n.DISCUSSION...\nAs of 223 AM EDT Thursday...\n\nKEY MESSAGE 1: An upper trough is pivoting across Quebec and northern \nNew England/NY early this morning. Meanwhile, surface high pressure \nis building eastward across the Great Lakes. The upper trough is \nmainly producing just some scattered cloud cover, though some light \nrain has been noted over southern portions of St Lawrence County. \nThe incoming airmass associated with the high is quite dry, so \nanticipate this will wane over the next few hours as ridging moves \noverhead. This fair weather will settle over our area for the \nremainder of the week. Each day will feature plentiful sunshine, \nwith highs gradually increasing as we head into the weekend. We'll \nstart out with highs in the 70s to around 80F today, and topping out \nin the 80s to near 90F by Saturday and Sunday. Thankfully, humidity \nwill remain at comfortable levels as dewpoints are expected to be in \nthe 40s and 50s, perhaps nudging into the low 60s by Sunday. The dry \nair and mostly clear skies will result in optimal radiational \ncooling tonight and Thursday night, and lows will be in the mid 40s \nto mid 50s both nights. Winds could be a little on the breezy side \nthis afternoon, but these should lessen by tonight as the pressure \ngradient slackens. A cold front starts to approach from \nOntario/Great Lakes later Sunday, and some guidance indicates that a \nfew showers/thunderstorms may make it into northern NY before \nsunset. However, general expectations are the bulk of any \nprecipitation will hold off until after dark.\n\nKEY MESSAGE 2: Upper level closed low pressure will rotate across the \nHudson Bay into Quebec for much of next week, sending a series of \nshortwaves through northern New York and Vermont. The first is set \nto move through Sunday night, though high pressure and drier air \nlocked in across Nova Scotia looks to hinder its eastward \nprogression through the forecast area and limit measurable \nprecipitation. Chances of a shower or thunderstorm Sunday night are \naround 0 to 25%, highest across northern New York. Southerly to \nsouthwesterly flow will keep low temperatures seasonable to warm in \nthe mid 50s to mid 60s Sunday night, then allow temps to climb into \nthe upper 70s to mid 80s on Monday despite scattered showers and \nthunderstorms (20 to 60% chance precip, highest in northern New \nYork) as moisture finally lifts into the region. Lingering showers \nand clouds Monday night will keep temperatures seasonably warm in \nthe mid 50s to mid 60s again before a weak surface low crosses the \nGreat Lakes and another low pressure strengthens in the mid-Atlantic \non Tuesday, bringing a more widespread round of showers and \nthunderstorms to the region. Tuesday afternoon looks like the most \nlikely period for some showers and thunderstorms with 60-80% chance \nof measurable precipitation as some deterministic models are \ndepicting the shortwave as a closed low aloft, but this may change \nas we get closer. As waves pass through next week, they will take \nwith them small chunks of heat and moisture, gradually knocking our \ntemperatures and humidity levels down into midweek. By next \nWednesday, highs will be widespread 70s, and lows should fall into \nthe 50s and lower 60s, all slightly below seasonal normals.\n\n&&\n\n.AVIATION /12Z THURSDAY THROUGH MONDAY/...\nThrough 12Z Friday...Dry weather will continue through the end \nof the week as high pressure settles over the region. VFR\nconditions are expected to remain in place over the next 24\nhours. SLK recently had a period of IFR mist and fog, but has\nsince seen conditions improve back to IFR as of 11Z this\nmorning (Thursday). Light and variable to southerly winds this\nmorning are expected to increase out of the west around 14Z-15Z\nThursday to 5-15 knots with gusts 15-20 knots likely beginning \n14Z-18Z. Thursday night and early Friday morning, there is the\npotential for fog formation in the favored valley locations,\nwith MPV being the most likely spot to see changes in flight\nconditions. With the time frame for this being 09Z-12Z Friday\nand at the tail end of the 24 hour TAF window, there remains a\nfair amount of uncertainty, and the forecast will need to be\nrefined in later issuances. For now, confidence is not high\nenough to include any vis restrictions in the TAFs. \n\n\nOutlook...\n\nFriday: VFR.\nFriday Night: VFR.\nSaturday: VFR.\nSaturday Night: VFR.\nSunday: VFR.\nSunday Night: VFR.\nMonday: Mainly VFR, with local MVFR possible.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Hastings\nDISCUSSION...Storm/Hastings\nAVIATION...Storm\n"
  },
  "lake_forecast": {
   "issued": "2026-07-23T06:21:00+00:00",
@@ -739,9 +739,9 @@
  },
  "lake_gage": {
   "water_temp_f": 71,
-  "water_temp_at": "2026-07-23T05:00:00.000-04:00",
+  "water_temp_at": "2026-07-23T07:00:00.000-04:00",
   "level_ft": 95.75,
-  "level_at": "2026-07-23T05:00:00.000-04:00",
+  "level_at": "2026-07-23T07:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
@@ -749,7 +749,7 @@
   "aqi": 27,
   "category": "Good",
   "pollutant": "OZONE",
-  "observed": "07/23/26 5:00",
+  "observed": "07/23/26 7:00",
   "discussion": "Expect generally good air quality across Vermont for Thursday, July 23rd."
  },
  "sun": {
@@ -770,7 +770,7 @@
     },
     "pop_max": {
      "GFS": 2,
-     "Euro": 20,
+     "Euro": 10,
      "ICON": 0
     },
     "precip_in": {
