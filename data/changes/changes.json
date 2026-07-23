@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T07:53:30+00:00",
+ "generated": "2026-07-23T10:37:04+00:00",
  "events": [
   {
    "ts": "2026-07-16T11:20:49+00:00",
@@ -2572,6 +2572,28 @@
    "url": "https://www.wcax.com/2026/07/23/community-members-give-feedback-burlingtons-new-north-end-plan/",
    "source": "wcax",
    "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T10:14:58+00:00",
+   "category": "news",
+   "headline": "Nine people, a cat displaced after Burlington house fire",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/23/nine-people-cat-displaced-after-burlington-house-fire/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T10:24:00+00:00",
+   "category": "news",
+   "headline": "Apartment fire displaces nine people in Chittenden County",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/nine-displaced-burlington-fire/73242444",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
    "priority": 1,
    "kind": "added"
   }

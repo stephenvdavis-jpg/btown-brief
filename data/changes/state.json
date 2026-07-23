@@ -823,6 +823,27 @@
    "vermont-public": {
     "items": [
      {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
+      "title": "Middlebury College researcher banned from animal lab following rat accident",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
+      "ts": "2026-07-23T09:00:00+00:00",
+      "summary": "The incident isn’t the first time compliance issues have cropped up during rat-based research at the college."
+     },
+     {
+      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-23/vermont-2026-democratic-primary-debate-governor",
+      "title": "LIVE: Vermont Public's 2026 Democratic primary debate for governor",
+      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-23/vermont-2026-democratic-primary-debate-governor",
+      "ts": "2026-07-23T09:00:00+00:00",
+      "summary": "Vermont Edition's Mikaela Lefrak moderates a debate between the two candidates vying for the Democratic nomination for Vermont's next governor, Amanda Janoo and Aly Richards."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
+      "title": "Vermont political candidates are flouting campaign finance laws, report finds",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
+      "ts": "2026-07-23T09:00:00+00:00",
+      "summary": "Vermont law requires candidates for state, county and municipal offices to disclose the sources of their campaign contributions, but a new report finds that 20% of candidates running this year haven't filed reports."
+     },
+     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-22/brattleboro-contemplates-raising-tax-money-keep-birth-center-open",
       "title": "Brattleboro contemplates raising tax money in bid to keep birth center open",
       "link": "https://www.vermontpublic.org/local-news/2026-07-22/brattleboro-contemplates-raising-tax-money-keep-birth-center-open",
@@ -884,32 +905,18 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-20/citizens-bank-ends-relationship-with-ice-prison-companies-after-months-of-protest",
       "ts": "2026-07-20T20:28:34+00:00",
       "summary": "The Providence-headquartered financial institution says it ended its relationship with Core Civic and The GEO Group, two companies that invest and operate in prisons used to detain ICE arrestees."
-     },
-     {
-      "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-20/the-uncertain-future-of-the-ben-jerrys-foundation",
-      "title": "The uncertain future of the Ben & Jerry's Foundation",
-      "link": "https://www.vermontpublic.org/show/vermont-edition/2026-07-20/the-uncertain-future-of-the-ben-jerrys-foundation",
-      "ts": "2026-07-20T20:05:17+00:00",
-      "summary": "The foundation, founded in 1985, provides around $600,000 annually to Vermont-based organizations."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-20/the-gatepost-author-tim-weed-writing-fiction",
-      "title": "‘The Gatepost’ author Tim Weed on writing fiction: 'Root the story in something very familiar'",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-20/the-gatepost-author-tim-weed-writing-fiction",
-      "ts": "2026-07-20T10:00:00+00:00",
-      "summary": "Vermont author Tim Weed grounds a fantastical story with smuggled Mesoamerican treasure and a mysterious missing father in the familiar hills of his home state in his new novel, \"The Gatepost.\""
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-19/vermont-green-women-finish-inaugural-season-as-national-runners-up",
-      "title": "Vermont Green women finish inaugural season as national runners-up",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-19/vermont-green-women-finish-inaugural-season-as-national-runners-up",
-      "ts": "2026-07-19T14:16:28+00:00",
-      "summary": "Vermont Green FC's women's team fell to Salmon Bay FC 5-4 on penalty kicks following a 1-1 tie through overtime in the USL W League National Final on Saturday. Waterbury Center's Louisa Thomsen scored the Green's lone goal in the game's 93rd minute to force overtime."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "ZYO3YQXFNREAZOAVZGUDHKZLQY",
+      "title": "Nine people, a cat displaced after Burlington house fire",
+      "link": "https://www.wcax.com/2026/07/23/nine-people-cat-displaced-after-burlington-house-fire/",
+      "ts": "2026-07-23T10:14:58+00:00",
+      "summary": "Nine people and a cat were displaced after flames engulfed a Burlington home early Thursday morning"
+     },
      {
       "id": "YOCX2NUBMJC6HBJTWGH3XB7CWM",
       "title": "Burlington’s Plan BTV New North End draws concerns over possible park development",
@@ -1252,18 +1259,74 @@
       "link": "https://www.wcax.com/2026/07/21/united-methodist-church-returns-270-acres-nulhegan-band-coosuk-abenaki-nation/",
       "ts": "2026-07-21T03:36:43+00:00",
       "summary": "The United Methodist Church has returned 270 acres of land to the Nulhegan Band of Coosuk Abenaki Nation."
-     },
-     {
-      "id": "D5DTFNPJVVH6JFZLW3FYCMUMC4",
-      "title": "Shelburne brothers make Vermont history at national Invention Convention",
-      "link": "https://www.wcax.com/2026/07/21/shelburne-brothers-make-vermont-history-national-invention-convention/",
-      "ts": "2026-07-21T03:02:57+00:00",
-      "summary": "Two brothers from Shelburne are making Vermont history in the world of young inventors."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73242602",
+      "title": "House Speaker Johnson wants to ban members of Congress from dating staffers",
+      "link": "https://www.mynbc5.com/article/mike-johnson-congress-ban-relationships-house-staffers/73242602",
+      "ts": "2026-07-23T10:25:00+00:00",
+      "summary": "Speaker Mike Johnson doesn’t think members of Congress should be romantically involved with House staffers — even if the staffers don’t work for them."
+     },
+     {
+      "id": "73242444",
+      "title": "Apartment fire displaces nine people in Chittenden County",
+      "link": "https://www.mynbc5.com/article/nine-displaced-burlington-fire/73242444",
+      "ts": "2026-07-23T10:24:00+00:00",
+      "summary": "At least nine people have been displaced after an apartment fire in Burlington. The fire department arrived to find heavy smoke and flames spreading to the second floor."
+     },
+     {
+      "id": "73242249",
+      "title": "Secret Service agent on Vance’s detail put on leave, suspected of leaking information",
+      "link": "https://www.mynbc5.com/article/secret-service-jd-vance-leak-probe/73242249",
+      "ts": "2026-07-23T09:59:00+00:00",
+      "summary": "A Secret Service agent on Vice President JD Vance’s security detail is under internal review after being suspected of leaking information."
+     },
+     {
+      "id": "73240416",
+      "title": "Driver hits utility pole, lands on top of parked car in Addison County",
+      "link": "https://www.mynbc5.com/article/ferrisburgh-crash-cars-stacked/73240416",
+      "ts": "2026-07-23T09:05:00+00:00",
+      "summary": "One person is suffering minor injuries after a collision with a utility pole. The Ferrisburgh Fire Department says the vehicle landed on top of another parked car."
+     },
+     {
+      "id": "73240469",
+      "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison",
+      "link": "https://www.mynbc5.com/article/madison-wisconsin-police-deadly-shooting/73240469",
+      "ts": "2026-07-23T09:02:00+00:00",
+      "summary": "A Wisconsin police officer shot and killed a man who had injured him with a knife while resisting arrest in Madison, officials said."
+     },
+     {
+      "id": "73240680",
+      "title": "Driver hits utility pole, lands on top of parked car in Addison County",
+      "link": "https://www.mynbc5.com/article/ferrisburgh-crash-sends-car-on-top-of-vehicle/73240680",
+      "ts": "2026-07-23T09:01:00+00:00",
+      "summary": "The Ferrisburgh Volunteer Fire Department responded to Long Point Road after a vehicle hit a utility pole and came to a rest on top of a second vehicle."
+     },
+     {
+      "id": "73235389",
+      "title": "Beautiful Thursday, with lots of sunshine and low humidity",
+      "link": "https://www.mynbc5.com/article/beautiful-thursday-with-lots-of-sunshine-and-low-humidity-07-23-26/73235389",
+      "ts": "2026-07-23T08:42:00+00:00",
+      "summary": "Sunny stretch and warming up through this weekend, showers and storms return next week"
+     },
+     {
+      "id": "73232950",
+      "title": "Jury seated for trial of Canadian man accused of killing daughter in New York",
+      "link": "https://www.mynbc5.com/article/jury-selection-luciano-frattolin-day-2/73232950",
+      "ts": "2026-07-23T08:25:00+00:00",
+      "summary": "The full jury has been seated in the upcoming trial of Luciano Frattolin, who is accused of killing his daughter while on vacation last year."
+     },
+     {
+      "id": "73234169",
+      "title": "Vermont senator advocates for bill that would transform student loan repayment",
+      "link": "https://www.mynbc5.com/article/senator-welch-student-loan-interest-elimination-act/73234169",
+      "ts": "2026-07-23T08:23:00+00:00",
+      "summary": "A bill that would change how federal student loan borrowers make payments is making its way through Congress now, and Vermont Sen. Peter Welch is calling on fellow lawmakers to make sure it passes."
+     },
      {
       "id": "73237363",
       "title": "Community Health Centers announced 3rd round of layoffs last week, leaving many feeling blindsided",
@@ -1340,69 +1403,6 @@
       "link": "https://www.mynbc5.com/article/republicans-voter-id-proof-of-citizenship-reconciliation/73234413",
       "ts": "2026-07-22T22:58:00+00:00",
       "summary": "It's one of several strategies House Republicans are pursuing to push through one of President Donald Trump's top priorities, but there are still open questions about enforcement."
-     },
-     {
-      "id": "73235094",
-      "title": "Red Sox tie franchise record with 15th straight win",
-      "link": "https://www.mynbc5.com/article/red-sox-tie-franchise-record-with-15th-straight-win/73235094",
-      "ts": "2026-07-22T22:54:00+00:00",
-      "summary": "The Boston Red Sox have tied their franchise record of 15 consecutive wins, a feat last achieved in 1946, and will play tonight for a chance to break it."
-     },
-     {
-      "id": "73236219",
-      "title": "Foster kitten with custom-made wheelchair to help him walk",
-      "link": "https://www.mynbc5.com/article/video-foster-kitten-hot-wheels-wheelchair/73236219",
-      "ts": "2026-07-22T22:54:00+00:00",
-      "summary": "A foster kitten in named Gelato is winning hearts after a vet tech built him a custom wheelchair using rulers, zip ties, and Hot Wheels."
-     },
-     {
-      "id": "73236093",
-      "title": "President Trump threatens Iran with strikes on bridges, power plants for every ship attack",
-      "link": "https://www.mynbc5.com/article/trump-threatens-iran-strikes-bridges-power-plants/73236093",
-      "ts": "2026-07-22T22:53:00+00:00",
-      "summary": "President Trump announced a retaliatory policy against Iran before attending a dignified transfer ceremony for four U.S. service members killed in recent attacks."
-     },
-     {
-      "id": "73236648",
-      "title": "Popular soup sold nationwide recalled over can defect",
-      "link": "https://www.mynbc5.com/article/amys-kitchen-lentil-soup-recall/73236648",
-      "ts": "2026-07-22T22:50:00+00:00",
-      "summary": "Amy's Kitchen is recalling more than 184,000 cans of lentil soup over a defect that could raise spoilage risk."
-     },
-     {
-      "id": "73236015",
-      "title": "House Republicans adopt $95 billion package for the Iran War and Trump's priorities",
-      "link": "https://www.mynbc5.com/article/house-republicans-95-billion-package-iran-war/73236015",
-      "ts": "2026-07-22T22:35:00+00:00",
-      "summary": "The House adopted a Republican-only $95 billion budget proposal, a long-shot effort to fund the Iran War and other White House priorities."
-     },
-     {
-      "id": "73236248",
-      "title": "Former Courtyard by Marriott in Burlington becomes The Harborvale following renovation",
-      "link": "https://www.mynbc5.com/article/burlingtons-courtyard-marriott-harborvale/73236248",
-      "ts": "2026-07-22T22:30:00+00:00",
-      "summary": "A longtime Burlington hotel has a new name and a refreshed look following a $19 million renovation."
-     },
-     {
-      "id": "73235246",
-      "title": "Morrisonville Septic still operating despite fire that destroyed main building",
-      "link": "https://www.mynbc5.com/article/morrisonville-septic-fire-update/73235246",
-      "ts": "2026-07-22T22:18:00+00:00",
-      "summary": "Morrisonville Septic in Cadyville is looking to move forward after a devastating fire destroyed its main building Tuesday night, the owner told NBC5 on Wednesday."
-     },
-     {
-      "id": "73236157",
-      "title": "Vermont officials aim to boost voter turnout ahead of August primary",
-      "link": "https://www.mynbc5.com/article/vermont-primary-voter-turnout/73236157",
-      "ts": "2026-07-22T22:15:00+00:00",
-      "summary": "With Vermont's primary election just weeks away, officials are encouraging voter participation."
-     },
-     {
-      "id": "73236286",
-      "title": "Congo's Ebola outbreak has now killed more than 1,000 people",
-      "link": "https://www.mynbc5.com/article/congo-ebola-death-toll-1000/73236286",
-      "ts": "2026-07-22T22:03:00+00:00",
-      "summary": "More than 1,000 people have died in the Ebola outbreak in Congo, according to Africa's top health body."
      }
     ]
    },
