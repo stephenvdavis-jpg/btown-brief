@@ -911,6 +911,13 @@
    "wcax": {
     "items": [
      {
+      "id": "YOCX2NUBMJC6HBJTWGH3XB7CWM",
+      "title": "Burlington’s Plan BTV New North End draws concerns over possible park development",
+      "link": "https://www.wcax.com/2026/07/23/community-members-give-feedback-burlingtons-new-north-end-plan/",
+      "ts": "2026-07-23T04:01:57+00:00",
+      "summary": "A long-term vision plan for Burlington’s northernmost neighborhood is drawing concerns from residents over possible development in the area’s parks."
+     },
+     {
       "id": "EMRI2JZ4GBFUBPQC6Z2BCDR3TY",
       "title": "2025 Dancing with the Burlington Stars winners reflect on experience",
       "link": "https://www.wcax.com/2026/07/23/2025-dancing-with-burlington-stars-winners-reflect-experience/",
@@ -996,7 +1003,7 @@
      },
      {
       "id": "K2OVSS4GFVGK5JTZEBQBJEMEVA",
-      "title": "Burlington to hold public meeting on New North End housing plan Wednesday",
+      "title": "Burlington’s Plan BTV New North End draws concerns over possible park development",
       "link": "https://www.wcax.com/2026/07/22/burlington-hold-public-meeting-new-north-end-housing-plan-wednesday/",
       "ts": "2026-07-22T20:04:30+00:00",
       "summary": "Burlington officials will hold a public meeting Wednesday evening on a plan that could bring hundreds of new housing units to the New North End."
@@ -1031,7 +1038,7 @@
      },
      {
       "id": "6Y4GENWQZJES7HKJPN5RGY4BFM",
-      "title": "Missing Vermont man may have been spotted in Waterbury, police say",
+      "title": "Missing Duxbury man found safe",
       "link": "https://www.wcax.com/2026/07/22/missing-vermont-man-may-have-been-spotted-waterbury-police-say/",
       "ts": "2026-07-22T18:46:00+00:00",
       "summary": "Police searching for a missing Duxbury man say he may have been spotted at a business in Waterbury on Wednesday."
@@ -1252,18 +1259,46 @@
       "link": "https://www.wcax.com/2026/07/21/shelburne-brothers-make-vermont-history-national-invention-convention/",
       "ts": "2026-07-21T03:02:57+00:00",
       "summary": "Two brothers from Shelburne are making Vermont history in the world of young inventors."
-     },
-     {
-      "id": "7GLJ42EQZBBXNF7FWOWISE2IN4",
-      "title": "Chittenden County sheriff apologizes for brother’s transphobic post targeting primary opponent",
-      "link": "https://www.wcax.com/2026/07/20/chittenden-county-sheriff-apologizes-brothers-transphobic-post-targeting-primary-opponent/",
-      "ts": "2026-07-21T00:15:56+00:00",
-      "summary": "Kevin Bloom, Sheriff Dan Gamelin's primary opponent, says the apology falls short."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73237363",
+      "title": "Community Health Centers announced 3rd round of layoffs last week, leaving many feeling blindsided",
+      "link": "https://www.mynbc5.com/article/employees-laid-off-community-health-centers-transparency-communication/73237363",
+      "ts": "2026-07-23T03:17:00+00:00",
+      "summary": "Dozens of union and community members spoke out against Community Health Centers' board, following another round of layoffs this year."
+     },
+     {
+      "id": "73234845",
+      "title": "Grab your tickets: Here are the winning Powerball numbers for July 22",
+      "link": "https://www.mynbc5.com/article/powerball-numbers-july-22-2026/73234845",
+      "ts": "2026-07-23T03:06:00+00:00",
+      "summary": "Check your tickets: The numbers are in for the largest Powerball jackpot so far in 2026."
+     },
+     {
+      "id": "73237519",
+      "title": "2 married couples from Honduras among 5 who drowned in a river in Ohio, authorities confirm",
+      "link": "https://www.mynbc5.com/article/four-honduran-citizens-identified-ohio-river-drowning/73237519",
+      "ts": "2026-07-23T01:47:00+00:00",
+      "summary": "Five people died in the Scioto River in Ohio after attempting to rescue someone who was struggling to swim on Sunday."
+     },
+     {
+      "id": "73236643",
+      "title": "R. James Woolsey, CIA director during the Clinton administration, dies at 84",
+      "link": "https://www.mynbc5.com/article/r-james-woolsey-cia-dies/73236643",
+      "ts": "2026-07-23T00:54:00+00:00",
+      "summary": "R. James Woolsey, CIA director during the Clinton administration, dies at 84"
+     },
+     {
+      "id": "73220239",
+      "title": "Tropical Storm Bertha makes landfall on southern Louisiana with threatening winds",
+      "link": "https://www.mynbc5.com/article/tropical-storm-bertha-gulf-coast/73220239",
+      "ts": "2026-07-23T00:52:00+00:00",
+      "summary": "Tropical Storm Bertha is expected to weaken in the Gulf of Mexico as it chugs closer to the U.S. But forecasters say it still could bring coastal flooding and heavy rain from the Florida Panhandle to Louisiana."
+     },
      {
       "id": "73237219",
       "title": "What to know about testosterone replacement as Pete Hegseth pursues a ‘High-T Department of War’",
@@ -1368,41 +1403,6 @@
       "link": "https://www.mynbc5.com/article/congo-ebola-death-toll-1000/73236286",
       "ts": "2026-07-22T22:03:00+00:00",
       "summary": "More than 1,000 people have died in the Ebola outbreak in Congo, according to Africa's top health body."
-     },
-     {
-      "id": "73235878",
-      "title": "Rescue crews free man from gas station sign in Illinois",
-      "link": "https://www.mynbc5.com/article/gas-station-sign-rescue-worker-stuck/73235878",
-      "ts": "2026-07-22T22:01:00+00:00",
-      "summary": "A lift malfunction left a maintenance worker stranded inside an Illinois gas station sign 130 feet in the air until he was rescued."
-     },
-     {
-      "id": "73236003",
-      "title": "Vermont expands community-based mental health care with four new centers",
-      "link": "https://www.mynbc5.com/article/statewide-model-expanding-care-access/73236003",
-      "ts": "2026-07-22T21:54:00+00:00",
-      "summary": "Four more Vermont mental health agencies have been certified as Community-Based Integrated Health Centers, expanding a model designed to make care more accessible and better coordinated across the state."
-     },
-     {
-      "id": "73235389",
-      "title": "Beautiful Thursday, with lots of sunshine and low humidity",
-      "link": "https://www.mynbc5.com/article/beautiful-thursday-with-lots-of-sunshine-and-low-humidity-07-22-26/73235389",
-      "ts": "2026-07-22T21:52:00+00:00",
-      "summary": "Sunny stretch and warming up through this weekend, showers and storms return next week"
-     },
-     {
-      "id": "73234972",
-      "title": "President Trump attends dignified transfer of fallen troops",
-      "link": "https://www.mynbc5.com/article/trump-dignified-transfer-fallen-troops/73234972",
-      "ts": "2026-07-22T21:51:00+00:00",
-      "summary": "The U.S. death toll stands at 18 since the start of the Iran War."
-     },
-     {
-      "id": "73235111",
-      "title": "Vermont businesses raise money for cancer research through Bakes for Breast Cancer fundraiser",
-      "link": "https://www.mynbc5.com/article/vermont-businesses-raise-money-for-cancer-research-through-bakes-for-breast-cancer-fundraiser/73235111",
-      "ts": "2026-07-22T21:47:00+00:00",
-      "summary": "A handful of restaurants across Vermont are selling desserts to raise money for cancer research through the annual Bakes for Breast Cancer fundraiser"
      }
     ]
    },
