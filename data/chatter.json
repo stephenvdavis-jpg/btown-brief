@@ -1,9 +1,289 @@
 {
-  "updated": "2026-07-23T16:11:03+00:00",
+  "updated": "2026-07-23T19:57:41+00:00",
   "window_hours": 72,
   "mode": "inoreader-only",
   "llm": null,
   "news": [
+    {
+      "title": "\"Zombie\" second mortgages are back and could put your home at risk",
+      "url": "https://www.mynbc5.com/article/zombie-second-mortgages-homeowners-foreclosure/73232213",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "Dormant second mortgages from the early 2000s are reappearing, catching homeowners off guard and threatening foreclosure."
+    },
+    {
+      "title": "Fact-checking Markwayne Mullin’s claim that foreign adversaries can access voting machines",
+      "url": "https://www.mynbc5.com/article/fact-check-markwayne-mullin-foreign-access-voting-machines/73249174",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "Fact-checking Homeland Security Secretary Markwayne Mullin’s claim that foreign adversaries can access voting machines"
+    },
+    {
+      "title": "What are peptides? The center of the FDA's latest debate",
+      "url": "https://www.mynbc5.com/article/what-are-peptides-fda/73248822",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "On Thursday, the FDA kicked off a two-day meeting to assess the safety and efficacy of lab-made peptides, which some supporters claim can build muscle, treat injuries and look younger. Many health…"
+    },
+    {
+      "title": "Swimming closure at Plattsburgh beach not stopping fun in the sun",
+      "url": "https://www.mynbc5.com/article/beachgoers-enjoy-sun-sand-water-closed-plattsburgh-city-beach/73248987",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "Beachgoers are still finding ways to enjoy the sun and temperatures in Plattsburgh without getting into the water."
+    },
+    {
+      "title": "WATCH: Driver dressed as Spider-Man helps person in wheelchair across highway",
+      "url": "https://www.mynbc5.com/article/arkansas-spider-man-wheelchair-crossing-video/73248004",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "An Arkansas police department shared a hero-worthy moment in which a driver, dressed as Spider-Man, helped a person in a wheelchair quickly get across a highway."
+    },
+    {
+      "title": "Grammy-nominated R&B singer announces leukemia diagnosis: ‘Really puts things in perspective’",
+      "url": "https://www.mynbc5.com/article/nivea-singer-grammy-nominated-leukemia-cancer-diagnosis/73248307",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "Grammy-nominated R&B singer Nivea revealed she's battling leukemia, saying it “really puts things in perspective.”"
+    },
+    {
+      "title": "Burnham-Memorial Library in Colchester reopens following possible HAZMAT incident",
+      "url": "https://www.mynbc5.com/article/burnham-memorial-library-colchester-closed/73248660",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "The Burnham Memorial Library was temporarily closed on Thursday after what staff called a \"small incident\". A HAZMAT truck was seen in the parking lot."
+    },
+    {
+      "title": "77-year-old postal worker arrested for hoarding cats she collected along her route",
+      "url": "https://www.mynbc5.com/article/florida-animal-hoarding-cats-postal-worker/73248251",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "A 77-year-old Florida woman was arrested after authorities found more than 70 caged cats and an undetermined number of dogs in her home, in what the sheriff described as the worst case of animal…"
+    },
+    {
+      "title": "House passes bill to restrict lawmaker stock trading, but larger fight to fully ban it looms",
+      "url": "https://www.mynbc5.com/article/house-bill-restrict-lawmaker-stock-trading/73236874",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T19:37:03+00:00",
+      "summary": "The House narrowly passed a bill to add new restrictions on lawmakers trading stocks after a partisan dispute resulted in a narrower proposal that stops short of an outright ban."
+    },
+    {
+      "title": "Community Bancorp reports increase in second quarter 2026 earnings",
+      "url": "https://vermontbiz.com/news/2026/july/23/community-bancorp-reports-increase-second-quarter-2026-earnings",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T19:26:35+00:00",
+      "summary": "Community Bancorp reports increase in second quarter 2026 earnings tim Thu, 07/23/2026 - 15:12 Related Company Community National Bank - Derby Vermont Business Magazine Community Bancorp…"
+    },
+    {
+      "title": "Governor Scott signs executive order to 'Buy Local' in support of local media",
+      "url": "https://vermontbiz.com/news/2026/july/23/governor-scott-signs-executive-order-buy-local-support-local-media",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T19:26:35+00:00",
+      "summary": "Governor Scott signs executive order to 'Buy Local' in support of local media tim Thu, 07/23/2026 - 14:57 Executive Order Prioritizes Vermont Media for State Advertising Spending Vermont Business…"
+    },
+    {
+      "title": "VTDigger expands statewide news partnership with four southern Vermont newspapers",
+      "url": "https://vtdigger.org/2026/07/23/vtdigger-expands-statewide-news-partnership-with-four-southern-vermont-newspapers/",
+      "outlet": "VTDigger",
+      "domain": "vtdigger.org",
+      "published": "2026-07-23T19:19:20+00:00",
+      "summary": "The Bennington Battle Monument. Photo via Adobe Stock VTDigger CEO Brendan Kinney announced Thursday that the online statewide news organization has recently partnered with four newspapers covering…"
+    },
+    {
+      "title": "Driver hits utility pole, parked car in Ferrisburgh",
+      "url": "https://www.wcax.com/2026/07/23/driver-hits-utility-pole-parked-car-ferrisburgh/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T19:17:10+00:00",
+      "summary": "Emergency crews responded to a single-car crash in Ferriburgh Wednesday afternoon."
+    },
+    {
+      "title": "Police identify man who drowned in Lake Champlain",
+      "url": "https://www.wcax.com/2026/07/23/police-identify-man-who-drowned-lake-champlain/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T19:17:10+00:00",
+      "summary": "Investigators say the 86-year-old man's body was found on the western shore of North Hero on July 14."
+    },
+    {
+      "title": "Vermont schools should invest in student journalism",
+      "url": "https://vtdigger.org/2026/07/23/opinion-vermont-schools-should-invest-in-student-journalism/",
+      "outlet": "VTDigger",
+      "domain": "vtdigger.org",
+      "published": "2026-07-23T18:58:28+00:00",
+      "summary": "This commentary is by Katerine Lacourciere, a rising senior at Essex High School , where she is a staff writer for the Hive . Journalism is essential to inform communities, hold those in power…"
+    },
+    {
+      "title": "Vermont-born Broadway musical ‘Hadestown’ returns home — as a movie",
+      "url": "https://vtdigger.org/2026/07/23/vermont-born-broadway-musical-hadestown-returns-home-as-a-movie/",
+      "outlet": "VTDigger",
+      "domain": "vtdigger.org",
+      "published": "2026-07-23T18:39:45+00:00",
+      "summary": "The cast of “Hadestown” performs at the 73rd annual Tony Awards at Radio City Music Hall on Sunday, June 9, 2019, in New York. (Photo by Charles Sykes/Invision/AP) Vermont singer-songwriter Anaïs…"
+    },
+    {
+      "title": "Patrick Kane rejoins the Chicago Blackhawks, where he won 3 Stanley Cups in the 2010s",
+      "url": "https://www.mynbc5.com/article/patrick-kane-rejoins-chicago-blackhawks/73246720",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T18:37:39+00:00",
+      "summary": "Patrick Kane has rejoined the Chicago Blackhawks, agreeing to a $16 million, two-year contract with his first NHL team"
+    },
+    {
+      "title": "Citywide boil water notice in effect in Montpelier after water main break",
+      "url": "https://www.mynbc5.com/article/montpelier-boil-water-notice-july-23/73248314",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T18:37:39+00:00",
+      "summary": "Residents in Montpelier are being told to boil their water after a widespread water main break on Thursday, with some local exceptions."
+    },
+    {
+      "title": "Boil-water order for Montpelier due to water main break",
+      "url": "https://www.wcax.com/2026/07/23/boil-water-notice-montpelier-due-water-main-break/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T18:17:15+00:00",
+      "summary": "A water main break on Elm Street Thursday has resulted in a boil-water notice for most of Montpelier"
+    },
+    {
+      "title": "Howard Center to Expand Services With New Federal Designation",
+      "url": "https://www.sevendaysvt.com/news/howard-center-to-expand-services-with-new-federal-designation/",
+      "outlet": "Seven Days",
+      "domain": "sevendaysvt.com",
+      "published": "2026-07-23T18:03:58+00:00",
+      "summary": "With a new federal designation that will allow access to more funding, Howard Center is preparing to expand its services for people struggling with mental health problems and substance-abuse…"
+    },
+    {
+      "title": "'Parks are part of our habitat': Burlington promotes new conservation initiative",
+      "url": "https://www.mynbc5.com/article/burlington-parks-promotes-conservation/73246995",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T17:38:29+00:00",
+      "summary": "If you’ve been to Oakledge Park recently, you might’ve noticed a few changes. Not only have they finished the new playground and updated the main facility, but there’s also a well-marked way for the…"
+    },
+    {
+      "title": "Former Jay Peak Resort employee accused of embezzling $70,000 from secure vault room",
+      "url": "https://www.mynbc5.com/article/jay-peak-resort-embezzling-gaylor/73247557",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T17:38:29+00:00",
+      "summary": "A former employee at Jay Peak Resort has been accused of stealing more than $70,000 over a period of months while she was employed as a vault supervisor."
+    },
+    {
+      "title": "Minnesota man gets 2 life sentences for killing Democratic lawmaker and her husband",
+      "url": "https://www.mynbc5.com/article/minnesota-lawmaker-melissa-hortman-killer-sentenced/73248013",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T17:38:29+00:00",
+      "summary": "The Minnesota man who pleaded guilty to killing a top Democratic lawmaker and her husband was sentenced to spend the rest of his life in prison on Thursday."
+    },
+    {
+      "title": "Killing trees to save the forest: The deadly experiment to rescue the American elm",
+      "url": "https://vtdigger.org/2026/07/23/killing-trees-to-save-the-forest-the-deadly-experiment-to-rescue-the-american-elm/",
+      "outlet": "VTDigger",
+      "domain": "vtdigger.org",
+      "published": "2026-07-23T17:29:33+00:00",
+      "summary": "A research specialist with the University of Vermont records information about young elm trees that have been inoculated with Dutch elm disease on May 19, 2026. Jessica Rinaldi / The Boston Globe…"
+    },
+    {
+      "title": "Martine Larocque Gulick",
+      "url": "https://www.wvmtradio.com/episode/martine-larocque-gulick-3/",
+      "outlet": "WVMT",
+      "domain": "wvmtradio.com",
+      "published": "2026-07-23T17:17:32+00:00",
+      "summary": "Martine Larocque Gulick, Vermont State Senator - Chittenden-Central District, joins Kurt & Anthony to discuss her re election."
+    },
+    {
+      "title": "BREAKING: State police bust Franklin County man for threats to troopers",
+      "url": "https://vermontdailychronicle.com/breaking-state-police-bust-franklin-county-man-for-threats-to-troopers/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-state-police-bust-franklin-county-man-for-threats-to-troopers",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-23T16:40:34+00:00",
+      "summary": "By Michael Donoghue Vermont News First ST. ALBANS – An Enosburg man is facing charges of obstruction of justice, criminal threatening and disorderly conduct by electronic device after he reportedly…"
+    },
+    {
+      "title": "Resort supervisor charged with stealing $70K from vault",
+      "url": "https://vermontdailychronicle.com/resort-supervisor-charged-with-stealing-70k-from-vault/?utm_source=rss&utm_medium=rss&utm_campaign=resort-supervisor-charged-with-stealing-70k-from-vault",
+      "outlet": "Vermont Daily Chronicle",
+      "domain": "vermontdailychronicle.com",
+      "published": "2026-07-23T16:40:34+00:00",
+      "summary": "A former vault supervisor at Jay Peak Resort has been charged with embezzlement after Vermont State Police say she stole more than $70,000 from the resort over several months. Police allege Lisa…"
+    },
+    {
+      "title": "Daylight saving time bill faces challenges in the Senate",
+      "url": "https://www.mynbc5.com/article/daylight-saving-time-senate-resistance/73247340",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T16:38:39+00:00",
+      "summary": "The push for year-round daylight saving time faces strong headwinds in the Senate, with one key Republican warning the bill won’t \"see the light of day.\""
+    },
+    {
+      "title": "Historically low water level in two crucial US reservoirs threatens water and power for millions",
+      "url": "https://www.mynbc5.com/article/historically-low-water-level-colorado-river-lake-powell-lake-mead/73247127",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T16:38:39+00:00",
+      "summary": "The combined water level in two of the U.S.'s biggest reservoirs, Lake Powell and Lake Mead, has fallen to a historic low. Here's what to know."
+    },
+    {
+      "title": "New cyclospora outbreak under FDA investigation as US cases rise",
+      "url": "https://www.mynbc5.com/article/fda-new-cyclospora-outbreak-cases-us-rise/73229383",
+      "outlet": "NBC5",
+      "domain": "mynbc5.com",
+      "published": "2026-07-23T16:38:39+00:00",
+      "summary": "The FDA is investigating a new cyclospora outbreak with 72 cases as U.S. reports climb."
+    },
+    {
+      "title": "Shoreham resident charged for possession of child sexual abuse materials",
+      "url": "https://vermontbiz.com/news/2026/july/24/shoreham-resident-charged-possession-child-sexual-abuse-materials",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T16:25:41+00:00",
+      "summary": "Shoreham resident charged for possession of child sexual abuse materials tim Fri, 07/24/2026 - 03:32 Vermont Business Magazine The Attorney General’s Office today announced that Todd Graves, 26, of…"
+    },
+    {
+      "title": "Ian Weider joins VtSBDC as Business Advisor",
+      "url": "https://vermontbiz.com/people/july/ian-weider-joins-vtsbdc-business-advisor",
+      "outlet": "Vermont Biz",
+      "domain": "vermontbiz.com",
+      "published": "2026-07-23T16:25:41+00:00",
+      "summary": "Ian Weider joins VtSBDC as Business Advisor tim Thu, 07/23/2026 - 11:28 Linda Rossi, State Director of the Vermont Small Business Development Center (VtSBDC), has hired Ian Weider, as a business…"
+    },
+    {
+      "title": "Sen. Welch proposes bill to wipe out student loan interest",
+      "url": "https://www.wcax.com/2026/07/23/sen-welch-proposes-bill-wipe-out-student-loan-interest/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T16:16:21+00:00",
+      "summary": "Vermont Sen. Peter Welch and Connecticut Rep. Joe Courtney are sponsoring a bill that will wipe out interest on federal student loans"
+    },
+    {
+      "title": "Former Jay Peak employee accused of embezzlement",
+      "url": "https://www.wcax.com/2026/07/23/former-jay-peak-employee-accused-embezzlement/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T16:16:21+00:00",
+      "summary": "A former supervisor at Jay Peak Resort has been arrested and accused of stealing more than $70,000 from a secure vault room"
+    },
+    {
+      "title": "Video: Gillibrand, Hegseth clash over Iran war",
+      "url": "https://www.wcax.com/2026/07/22/video-gillibrand-hegseth-clash-over-iran-war/",
+      "outlet": "WCAX",
+      "domain": "wcax.com",
+      "published": "2026-07-23T16:16:21+00:00",
+      "summary": "Sen. Kirsten Gillibrand (D-NY) and Defense Secretary Pete Hegseth sparred Tuesday over the U.S. war with Iran during a combative Senate Appropriations Committee hearing."
+    },
     {
       "title": "VT Headlines: Stolen Jeep found dumped and set on fire near Rutland",
       "url": "https://vermontdailychronicle.com/vt-headlines-stolen-jeep-found-dumped-and-set-on-fire-near-rutland/?utm_source=rss&utm_medium=rss&utm_campaign=vt-headlines-stolen-jeep-found-dumped-and-set-on-fire-near-rutland",
@@ -293,6 +573,14 @@
       "summary": "A Secret Service agent on Vice President JD Vance’s security detail is under internal review after being suspected of leaking information."
     },
     {
+      "title": "Middlebury College researcher banned from animal lab following rat accident",
+      "url": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
+      "outlet": "Vermont Public",
+      "domain": "vermontpublic.org",
+      "published": "2026-07-23T09:53:12+00:00",
+      "summary": "The incident isn’t the first time compliance issues have cropped up during rat-based research at the college."
+    },
+    {
       "title": "Democratic candidates for lieutenant governor talk healthcare",
       "url": "https://www.vermontpublic.org/podcast/the-frequency-daily-vermont-news/2026-07-23/democratic-candidates-for-lieutenant-governor-talk-healthcare",
       "outlet": "Vermont Public",
@@ -413,20 +701,12 @@
       "summary": "Vermont law requires candidates for state, county and municipal offices to disclose the sources of their campaign contributions, but a new report finds that 20% of candidates running this year…"
     },
     {
-      "title": "Middlebury College researcher banned from animal lab following rat accident",
-      "url": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
-      "outlet": "Vermont Public",
-      "domain": "vermontpublic.org",
-      "published": "2026-07-23T09:09:20+00:00",
-      "summary": "The incident isn’t the first time compliance issues have cropped up during rat-based research at the college."
-    },
-    {
-      "title": "LIVE: Vermont Public's 2026 Democratic primary debate for governor",
+      "title": "Vermont Public's 2026 Democratic primary debate for governor",
       "url": "https://www.vermontpublic.org/show/vermont-edition/2026-07-23/vermont-2026-democratic-primary-debate-governor",
       "outlet": "Vermont Public",
       "domain": "vermontpublic.org",
       "published": "2026-07-23T09:09:20+00:00",
-      "summary": "Vermont Edition's Mikaela Lefrak moderates a debate between the two candidates vying for the Democratic nomination for Vermont's next governor, Amanda Janoo and Aly Richards. Watch live at noon."
+      "summary": "Vermont Edition's Mikaela Lefrak moderates a debate between the two candidates vying for the Democratic nomination for Vermont's next governor, Amanda Janoo and Aly Richards."
     },
     {
       "title": "Burlington’s Plan BTV New North End draws concerns over possible park development",
@@ -923,421 +1203,141 @@
       "domain": "mynbc5.com",
       "published": "2026-07-22T20:41:03+00:00",
       "summary": "A bill that would change how federal student loan borrowers make payments is making its way through Congress now, and Vermont Sen. Peter Welch is calling on fellow lawmakers to make sure it passes."
-    },
-    {
-      "title": "Terrorism trial opens in stabbing of author Salman Rushdie",
-      "url": "https://www.mynbc5.com/article/terrorism-trial-attacker-of-author-salman-rushdie/73231340",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T20:41:03+00:00",
-      "summary": "The man who was convicted of trying to kill Salman Rushdie during an onstage lecture is on trial again Wednesday, this time in a federal case."
-    },
-    {
-      "title": "Claim deadline nears for Amazon Prime settlement refunds",
-      "url": "https://www.mynbc5.com/article/amazon-ftc-settlement-claim-deadline/73234186",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T20:41:03+00:00",
-      "summary": "The deadline to file a claim for Amazon's massive settlement with the Federal Trade Commission is right around the corner. Here's why Prime membership alone doesn't automatically make you eligible."
-    },
-    {
-      "title": "VNAs of Vermont names Eric Covey executive director",
-      "url": "https://vermontbiz.com/people/july/vnas-vermont-names-eric-covey-executive-director",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T20:12:39+00:00",
-      "summary": "VNAs of Vermont names Eric Covey executive director tim Fri, 07/24/2026 - 15:21 Eric Covey has been appointed Executive Director of VNAs of Vermont, the association for Vermont’s eight local…"
-    },
-    {
-      "title": "United Way of Northwest Vermont awards $630,000 for substance misuse prevention",
-      "url": "https://vermontbiz.com/news/2026/july/22/united-way-northwest-vermont-awards-630000-substance-misuse-prevention",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T20:12:39+00:00",
-      "summary": "United Way of Northwest Vermont awards $630,000 for substance misuse prevention tim Wed, 07/22/2026 - 16:07 Related Company United Way of Northwest Vermont Inc Subgrants to 16 Community…"
-    },
-    {
-      "title": "BETA Technologies Unveils MV250, Loganair adds BETA ALIA CTOL",
-      "url": "https://vermontbiz.com/news/2026/july/22/beta-technologies-unveils-mv250-loganair-adds-beta-alia-ctol",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T20:12:39+00:00",
-      "summary": "BETA Technologies Unveils MV250, Loganair adds BETA ALIA CTOL tim Wed, 07/22/2026 - 15:57 Related Company Beta Technologies The MV250 delivers greater range and higher speed than similarly sized…"
-    },
-    {
-      "title": "Governor Scott weighs in on Canadian tariff",
-      "url": "https://vermontbiz.com/news/2026/july/22/governor-scott-weighs-canadian-tariff",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T20:12:39+00:00",
-      "summary": "Governor Scott weighs in on Canadian tariff tim Wed, 07/22/2026 - 15:50 Vermont Business Magazine Governor Phil Scott today issued the following statement: “My feelings on punitive tariffs imposed…"
-    },
-    {
-      "title": "Gov. Scott calls Canadian tariffs ‘a bad idea’ that will cost Vermonters",
-      "url": "https://www.wcax.com/2026/07/22/gov-scott-calls-canadian-tariffs-bad-idea-that-will-cost-vermonters/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-22T20:03:44+00:00",
-      "summary": "Vermont Gov. Phil Scott weighed in on Wednesday about the Trump administration’s new tariffs with Canada, the state’s biggest trading partner."
-    },
-    {
-      "title": "Man charged with sex assault over 6-year-period",
-      "url": "https://vermontdailychronicle.com/man-charged-with-sex-assault-over-6-year-period/?utm_source=rss&utm_medium=rss&utm_campaign=man-charged-with-sex-assault-over-6-year-period",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T19:54:26+00:00",
-      "summary": "A 50-year-old Lyndonville man is being held without bail after Vermont State Police arrested him Wednesday on allegations that he sexually assaulted a victim repeatedly over a six-year period. Kyle…"
-    },
-    {
-      "title": "Man will admit to paying Migrant Justice organizer to smuggle woman into US",
-      "url": "https://www.vermontpublic.org/local-news/2026-07-22/man-will-admit-to-paying-migrant-justice-organizer-to-smuggle-woman-into-us",
-      "outlet": "Vermont Public",
-      "domain": "vermontpublic.org",
-      "published": "2026-07-22T19:44:19+00:00",
-      "summary": "As part of a proposed plea deal, an undocumented man says he hired José Ignacio “Nacho” De La Cruz De La Rosa to transport his girlfriend across the Canadian border."
-    },
-    {
-      "title": "Videos show historic flooding in West Virginia, National Guard deployed",
-      "url": "https://www.mynbc5.com/article/west-virginia-flash-floods-rescues-emergency/73233066",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T19:42:04+00:00",
-      "summary": "Torrential rains caused flash floods in West Virginia that inundated homes and businesses, washed out bridges and led to numerous water rescues, authorities said."
-    },
-    {
-      "title": "Jury selection continues for Canadian man accused of killing daughter in New York",
-      "url": "https://www.mynbc5.com/article/jury-selection-luciano-frattolin-day-2/73232950",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T19:42:04+00:00",
-      "summary": "Eleven jurors have been seated in the upcoming trial of Luciano Frattolin, who is accused of killing his daughter while on vacation last year."
-    },
-    {
-      "title": "93-year-old man dies in Northern New York UTV crash, police say",
-      "url": "https://www.mynbc5.com/article/93-year-old-man-dies-in-northern-new-york-utv-crash-police-say/73232893",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T19:42:04+00:00",
-      "summary": "A 93-year-old North Country man has died following a Utility Task Vehicle crash in Morristown on Tuesday evening."
-    },
-    {
-      "title": "FBI: Father, son held 2 federal biologists hostage for more than 15 hours",
-      "url": "https://www.mynbc5.com/article/father-son-federal-biologists-hostage-mount-shasta/73232763",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T19:42:04+00:00",
-      "summary": "A father and son who appeared before a federal judge are accused of kidnapping two U.S. Forest Service employees and holding them hostage for more than 15 hours in a trailer near Mount Shasta. The…"
-    },
-    {
-      "title": "Royal family releases new portrait of Prince George as he celebrates his 13th birthday",
-      "url": "https://www.mynbc5.com/article/prince-george-13th-birthday-portrait/73232735",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T19:42:04+00:00",
-      "summary": "Prince George just turned 13, and the royals released a new portrait to celebrate the milestone birthday!"
-    },
-    {
-      "title": "Scientists confirm rare 'parasite-like' cancer in bullhead from Lake Memphremagog",
-      "url": "https://www.vermontpublic.org/local-news/2026-07-22/scientists-confirm-rare-cancer-bullhead-lake-memphremagog",
-      "outlet": "Vermont Public",
-      "domain": "vermontpublic.org",
-      "published": "2026-07-22T19:18:11+00:00",
-      "summary": "For many years now, anglers have been catching brown bullhead in Lake Memphremagog that are riddled with lesions and tumors. Now, scientists say they've confirmed it's a rare kind of contagious…"
-    },
-    {
-      "title": "Man, 93, dies after UTV overturns",
-      "url": "https://www.wcax.com/2026/07/22/man-93-dies-after-utv-overturns/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-22T19:03:32+00:00",
-      "summary": "A 93-year-old Ogdensburg, New York, man died Tuesday evening after the utility terrain vehicle he was driving overturned."
-    },
-    {
-      "title": "‘I love him a lot’: 8-year-old girl provides life-saving bone marrow transplant to her brother",
-      "url": "https://www.mynbc5.com/article/brooks-sister-bone-marrow-transplant-sickle-cell/73227989",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T18:41:50+00:00",
-      "summary": "An 8-year-old Alabama girl gave her brother something no toy or hug ever could: a second chance at life."
-    },
-    {
-      "title": "These Powerball numbers have been drawn the most since 2015",
-      "url": "https://www.mynbc5.com/article/powerball-most-drawn-numbers/73229272",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T18:41:50+00:00",
-      "summary": "​The largest Powerball jackpot of the year draws Wednesday night. See which numbers have been picked the most since 2015."
-    },
-    {
-      "title": "Kesha Ram Hinsdale",
-      "url": "https://www.wvmtradio.com/episode/kesha-ram-hinsdale-7/",
-      "outlet": "WVMT",
-      "domain": "wvmtradio.com",
-      "published": "2026-07-22T18:37:18+00:00",
-      "summary": "Kesha Ram Hinsdale, Vermont State Senator-Chittenden Southeast District, joins Kurt & Anthony to discuss her re-election campaign."
-    },
-    {
-      "title": "Learning a new language as an adult",
-      "url": "https://www.vermontpublic.org/show/vermont-edition/2026-07-22/learning-a-new-language-as-an-adult",
-      "outlet": "Vermont Public",
-      "domain": "vermontpublic.org",
-      "published": "2026-07-22T18:19:37+00:00",
-      "summary": "Three local linguaphiles help us crack the code on achieving fluency in multiple languages."
-    },
-    {
-      "title": "Burlington police arrest two following investigation into July 5 gunfire",
-      "url": "https://www.mynbc5.com/article/burlington-july-5-gunfire-arrests/73231706",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T17:41:22+00:00",
-      "summary": "Two more people have been arrested as the Burlington Police Department released new information about two gunfire incidents downtown on July 5 that are now known to be connected."
-    },
-    {
-      "title": "Model recruiter who introduced young women to Jeffrey Epstein found dead in France",
-      "url": "https://www.mynbc5.com/article/model-recruiter-daniel-siad-dead-paris/73231500",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T17:41:22+00:00",
-      "summary": "A professional model recruiter who for over a decade arranged for the late sex offender Jeffrey Epstein to meet multiple models, was found dead in his home."
-    },
-    {
-      "title": "Isolated showers, humidity drops Wednesday afternoon",
-      "url": "https://www.mynbc5.com/article/isolated-showers-humidity-drops-wednesday-afternoon-07-22-26/73231535",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T17:41:22+00:00",
-      "summary": "Beautiful stretch Thursday through Sunday — sunshine, highs mostly in the 80s"
-    },
-    {
-      "title": "Brattleboro weighs a municipal tax hike to aid the local hospital’s endangered birthing center",
-      "url": "https://vtdigger.org/2026/07/22/brattleboro-weighs-a-municipal-tax-hike-to-aid-the-local-hospitals-endangered-birthing-center/",
-      "outlet": "VTDigger",
-      "domain": "vtdigger.org",
-      "published": "2026-07-22T17:01:43+00:00",
-      "summary": "A crowd of about 100 people rally July 14 in support of the birthing center at Brattleboro Memorial Hospital. Photo by Kevin O’Connor/VTDigger BRATTLEBORO — As medical groups call for higher state…"
-    },
-    {
-      "title": "Bolton Valley Resort restructures leadership for major development",
-      "url": "https://www.wcax.com/2026/07/22/bolton-valley-resort-restructures-leadership-major-development/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-22T17:00:58+00:00",
-      "summary": "There is new leadership at the helm of Bolton Valley Resort as it takes on a major development initiative"
-    },
-    {
-      "title": "Popular allergy medication recalled over potentially ‘life-threatening’ cross-contamination",
-      "url": "https://www.mynbc5.com/article/allergy-medication-recalled-cetirizine-hydrochloride/73230355",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T16:41:30+00:00",
-      "summary": "A popular allergy medication has been recalled over contamination concerns, potentially leading to life-threatening side effects."
-    },
-    {
-      "title": "Venezuela's Nicolás Maduro is back in court for a pretrial hearing in his US drug trafficking case",
-      "url": "https://www.mynbc5.com/article/maduro-venezuela-court-trial-drug-case/73231249",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T16:41:30+00:00",
-      "summary": "Nicolás Maduro has returned to a New York courthouse where lawyers plan to ask a judge to set a June trial date for his drug trafficking case."
-    },
-    {
-      "title": "Years in the making: Montpelier city officials move forward with plans for new housing project",
-      "url": "https://www.mynbc5.com/article/montpelier-plans-country-club-road-project/73229040",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T16:41:30+00:00",
-      "summary": "After years of stalled progress, the city of Montpelier is getting ready to move ahead with a development project on Country Club Road. City officials and residents say they want to use the land to…"
-    },
-    {
-      "title": "Louvre reopens after brazen heist, but no jewels are on display",
-      "url": "https://www.mynbc5.com/article/louvre-reopens-after-heist-no-jewels-are-on-display/73230239",
-      "outlet": "NBC5",
-      "domain": "mynbc5.com",
-      "published": "2026-07-22T16:41:30+00:00",
-      "summary": "The Louvre's Apollo gallery reopened to the public for the first time since $102 million worth of crown jewels were stolen in a dramatic daytime heist."
-    },
-    {
-      "title": "Community Health launches Geriatric Program",
-      "url": "https://vermontbiz.com/news/2026/july/28/community-health-launches-geriatric-program",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T16:09:04+00:00",
-      "summary": "Community Health launches Geriatric Program tim Tue, 07/28/2026 - 04:59 Related Company Community Health Centers of the Rutland Region Vermont Business Magazine Community Health is introducing a new…"
-    },
-    {
-      "title": "Vermont F&W hearings on bear rule changes",
-      "url": "https://vermontbiz.com/news/2026/july/23/vermont-fw-hearings-bear-rule-changes",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T16:09:04+00:00",
-      "summary": "Vermont F&W hearings on bear rule changes tim Thu, 07/23/2026 - 04:41 VTF&W Photo by Jacob Zorn Vermont Business Magazine The Vermont Fish and Wildlife Board will hold two public hearings on…"
-    },
-    {
-      "title": "Howard Center to join CCBHC Demonstration Program",
-      "url": "https://vermontbiz.com/news/2026/july/22/howard-center-join-ccbhc-demonstration-program",
-      "outlet": "Vermont Biz",
-      "domain": "vermontbiz.com",
-      "published": "2026-07-22T16:09:04+00:00",
-      "summary": "Howard Center to join CCBHC Demonstration Program tim Wed, 07/22/2026 - 11:37 Related Company Howard Center Expands Access to Mental Health and Substance Use Care in Chittenden County Vermont…"
-    },
-    {
-      "title": "Police search for missing, endangered man last seen in South Deerfield",
-      "url": "https://www.wcax.com/2026/07/22/police-search-missing-endangered-man-last-seen-south-deerfield/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-22T15:59:28+00:00",
-      "summary": "Police in two states are looking for your help in locating a man whom they believe is missing and endangered."
-    },
-    {
-      "title": "Boat clocked going 157 mph in St. Lawrence River during Poker Run; team ticketed",
-      "url": "https://www.wcax.com/2026/07/21/boat-clocked-going-157-mph-st-lawrence-river-during-poker-run-boater-arrested/",
-      "outlet": "WCAX",
-      "domain": "wcax.com",
-      "published": "2026-07-22T15:59:28+00:00",
-      "summary": "A boat participating in the 1000 Islands Charity Poker Run was clocked traveling 157 mph near the Thousand Islands Bridge over the weekend, an area of the St. Lawrence River with a 30 mph speed limit."
-    },
-    {
-      "title": "VT Headlines: Police seek info after reported illegal dumping at state forest",
-      "url": "https://vermontdailychronicle.com/vt-headlines-police-seek-info-after-reported-illegal-dumping-at-state-forest/?utm_source=rss&utm_medium=rss&utm_campaign=vt-headlines-police-seek-info-after-reported-illegal-dumping-at-state-forest",
-      "outlet": "Vermont Daily Chronicle",
-      "domain": "vermontdailychronicle.com",
-      "published": "2026-07-22T15:58:09+00:00",
-      "summary": "My Champlain Valley VSP: missing man last seen in Duxbury VT Digger Judge denies bid by suspect’s lawyers in border patrol agent killing to change records screening process NBC 5 Vermont…"
     }
   ],
   "topics": [
     {
-      "id": "five-loganair-sale",
-      "label": "A Nice Sale for Beta Technologies",
-      "direction": "steady",
+      "id": "brattleboro-birthing-center",
+      "label": "Brattleboro weighs a municipal tax hike to aid the local…",
+      "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-22T19:26:31+00:00",
+      "last_activity": "2026-07-23T16:25:29+00:00",
       "sources": [
         {
-          "title": "A Nice Sale for Beta Technologies",
-          "url": "https://www.reddit.com/r/vermont/comments/1v2m52r/a_nice_sale_for_beta_technologies/",
+          "title": "Brattleboro weighs a municipal tax hike to aid the local hospital’s endangered birthing center",
+          "url": "https://www.reddit.com/r/vermont/comments/1v3s4i1/brattleboro_weighs_a_municipal_tax_hike_to_aid/",
           "sub": "r/vermont",
-          "when": "2026-07-22T19:26:31+00:00",
+          "when": "2026-07-23T16:25:29+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "snaps-shoulders-without",
-      "label": "Adaptive Clothing Donation",
-      "direction": "steady",
+      "id": "community-amanda-janoo",
+      "label": "Community Conversation with Amanda Janoo",
+      "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-22T19:26:31+00:00",
+      "last_activity": "2026-07-23T16:25:29+00:00",
       "sources": [
         {
-          "title": "Adaptive Clothing Donation",
-          "url": "https://www.reddit.com/r/vermont/comments/1v3jxrz/adaptive_clothing_donation/",
+          "title": "Community Conversation with Amanda Janoo",
+          "url": "https://www.reddit.com/r/vermont/comments/1v3tyg1/community_conversation_with_amanda_janoo/",
           "sub": "r/vermont",
-          "when": "2026-07-22T19:26:31+00:00",
+          "when": "2026-07-23T16:25:29+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "checkups-cleanings-context",
-      "label": "Dentist recommendations for northern Vermont?",
-      "direction": "steady",
+      "id": "lake-local-memphremagog",
+      "label": "In Lake Memphremagog, being studied in part by UVM. Anyone…",
+      "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-22T19:26:31+00:00",
+      "last_activity": "2026-07-23T16:25:29+00:00",
       "sources": [
         {
-          "title": "Dentist recommendations for northern Vermont?",
-          "url": "https://www.reddit.com/r/vermont/comments/1v3q9jl/dentist_recommendations_for_northern_vermont/",
+          "title": "In Lake Memphremagog, being studied in part by UVM. Anyone heard about this from state sources?",
+          "url": "https://www.reddit.com/r/vermont/comments/1v3vs21/in_lake_memphremagog_being_studied_in_part_by_uvm/",
           "sub": "r/vermont",
-          "when": "2026-07-22T19:26:31+00:00",
+          "when": "2026-07-23T16:25:29+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "cannabis-limit-after",
-      "label": "Double the limit: Vermont bets bigger cannabis buys will beat…",
-      "direction": "steady",
+      "id": "charlotte-ferrisburgh-gmp",
+      "label": "Power outage",
+      "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-22T19:26:31+00:00",
+      "last_activity": "2026-07-23T16:25:29+00:00",
       "sources": [
         {
-          "title": "Double the limit: Vermont bets bigger cannabis buys will beat the black market - Vermonters can now buy twice the amount of cannabis in a single day, after the state doubled the legal purchase limit to 2 ounces.",
-          "url": "https://www.reddit.com/r/vermont/comments/1v3dwiy/double_the_limit_vermont_bets_bigger_cannabis/",
+          "title": "Power outage",
+          "url": "https://www.reddit.com/r/vermont/comments/1v3s6fu/power_outage/",
           "sub": "r/vermont",
-          "when": "2026-07-22T19:26:31+00:00",
+          "when": "2026-07-23T16:25:29+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "county-goldfinch-windsor",
-      "label": "Goldfinch",
-      "direction": "steady",
+      "id": "after-one-rats",
+      "label": "Rats are apparently smarter than I am",
+      "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-22T19:26:31+00:00",
+      "last_activity": "2026-07-23T16:25:29+00:00",
       "sources": [
         {
-          "title": "Goldfinch",
-          "url": "https://www.reddit.com/r/vermont/comments/1v3offo/goldfinch/",
+          "title": "Rats are apparently smarter than I am",
+          "url": "https://www.reddit.com/r/vermont/comments/1v4gflg/rats_are_apparently_smarter_than_i_am/",
           "sub": "r/vermont",
-          "when": "2026-07-22T19:26:31+00:00",
+          "when": "2026-07-23T16:25:29+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "hair-highlights-willing",
-      "label": "Hair stylists that specialize in highlights?",
-      "direction": "steady",
+      "id": "here-which-absurdly",
+      "label": "So is all of VT beyond hope, or is it just the NEK?",
+      "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-22T19:26:31+00:00",
+      "last_activity": "2026-07-23T16:25:29+00:00",
       "sources": [
         {
-          "title": "Hair stylists that specialize in highlights?",
-          "url": "https://www.reddit.com/r/vermont/comments/1v3na2f/hair_stylists_that_specialize_in_highlights/",
+          "title": "So is all of VT beyond hope, or is it just the NEK?",
+          "url": "https://www.reddit.com/r/vermont/comments/1v4clpg/so_is_all_of_vt_beyond_hope_or_is_it_just_the_nek/",
           "sub": "r/vermont",
-          "when": "2026-07-22T19:26:31+00:00",
+          "when": "2026-07-23T16:25:29+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "windy-albans-also",
-      "label": "Is it just me or have there been a lot more windy days than…",
-      "direction": "steady",
+      "id": "areas-plant-smell",
+      "label": "Trying to identify a plant",
+      "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-22T19:26:31+00:00",
+      "last_activity": "2026-07-23T16:25:29+00:00",
       "sources": [
         {
-          "title": "Is it just me or have there been a lot more windy days than usual?",
-          "url": "https://www.reddit.com/r/vermont/comments/1v3licn/is_it_just_me_or_have_there_been_a_lot_more_windy/",
+          "title": "Trying to identify a plant",
+          "url": "https://www.reddit.com/r/vermont/comments/1v4cnyb/trying_to_identify_a_plant/",
           "sub": "r/vermont",
-          "when": "2026-07-22T19:26:31+00:00",
+          "when": "2026-07-23T16:25:29+00:00",
           "comments": null
         }
       ]
     },
     {
-      "id": "only-said-tax",
-      "label": "Lt Gov: Only Esther Will tax millionaires",
-      "direction": "steady",
+      "id": "comments-different-link",
+      "label": "Vermont Towns Try Different Ways to Regulate Short-Term Rentals",
+      "direction": "rising",
       "posts": 1,
       "comments": null,
-      "last_activity": "2026-07-22T19:26:31+00:00",
+      "last_activity": "2026-07-23T16:25:29+00:00",
       "sources": [
         {
-          "title": "Lt Gov: Only Esther Will tax millionaires",
-          "url": "https://www.reddit.com/r/vermont/comments/1v2o602/lt_gov_only_esther_will_tax_millionaires/",
+          "title": "Vermont Towns Try Different Ways to Regulate Short-Term Rentals",
+          "url": "https://www.reddit.com/r/vermont/comments/1v4dwxn/vermont_towns_try_different_ways_to_regulate/",
           "sub": "r/vermont",
-          "when": "2026-07-22T19:26:31+00:00",
+          "when": "2026-07-23T16:25:29+00:00",
           "comments": null
         }
       ]
@@ -1358,11 +1358,11 @@
     {
       "slot": "most_debated",
       "slot_label": "Most debated",
-      "title": "Vermont Adds $25 Million for Housing as Treasurer Expands Invest in Vermont Program",
-      "url": "https://www.reddit.com/r/vermont/comments/1v3250p/vermont_adds_25_million_for_housing_as_treasurer/",
+      "title": "Community Conversation with Amanda Janoo",
+      "url": "https://www.reddit.com/r/vermont/comments/1v3tyg1/community_conversation_with_amanda_janoo/",
       "sub": "r/vermont",
-      "when": "2026-07-22T19:26:31+00:00",
-      "blurb": "Vermont Treasurer Mike Pieciak announced $25 million in new lending capacity for housing on Tuesday, unveiling an expanded state…",
+      "when": "2026-07-23T16:25:29+00:00",
+      "blurb": "Amanda Janoo is coming to Foam Brewers in Burlington on Monday, July 27 from 5:30 to 7 pm for a community conversation. This will be an…",
       "comments": null,
       "unverified": false
     },
@@ -1376,6 +1376,28 @@
       "blurb": "Hi all, like the title says I am in search of a sewing/quilting group in Southern VT- it'd be nice to get out of the house and meet fellow…",
       "comments": null,
       "unverified": false
+    },
+    {
+      "slot": "recommendation",
+      "slot_label": "Something people keep recommending",
+      "title": "So is all of VT beyond hope, or is it just the NEK?",
+      "url": "https://www.reddit.com/r/vermont/comments/1v4clpg/so_is_all_of_vt_beyond_hope_or_is_it_just_the_nek/",
+      "sub": "r/vermont",
+      "when": "2026-07-23T16:25:29+00:00",
+      "blurb": "I moved here from central NH to St J a decade ago, and I’d never thought I’d be stumping for NH but here we are. I am surprised and…",
+      "comments": null,
+      "unverified": false
+    },
+    {
+      "slot": "rumor",
+      "slot_label": "Emerging rumor — unverified",
+      "title": "Trying to identify a plant",
+      "url": "https://www.reddit.com/r/vermont/comments/1v4cnyb/trying_to_identify_a_plant/",
+      "sub": "r/vermont",
+      "when": "2026-07-23T16:25:29+00:00",
+      "blurb": "Probably a long shot and sorry for the vagueness. I regularly take walks through Barre Town Forest and Cow Pasture Trails since I live…",
+      "comments": null,
+      "unverified": true
     }
   ],
   "rough": [
@@ -1395,10 +1417,10 @@
     }
   ],
   "stats": {
-    "posts_scanned": 23,
+    "posts_scanned": 32,
     "per_source": {
       "r/burlington": 0,
-      "r/vermont": 23
+      "r/vermont": 32
     }
   }
 }
