@@ -537,6 +537,13 @@
    "sevendays-news": {
     "items": [
      {
+      "id": "https://www.sevendaysvt.com/?p=212960",
+      "title": "Scott Says Vermont Will Prioritize Local Media When Purchasing Advertisements",
+      "link": "https://www.sevendaysvt.com/news/scott-says-vermont-will-prioritize-local-media-when-purchasing-advertisements/",
+      "ts": "2026-07-23T20:49:38+00:00",
+      "summary": "The governor instructed state departments to give preference to local print, digital, radio and television stations whenever that is feasible. The post Scott Says Vermont Will Prioritize Local Media When Purchasing Advertisements appeared first on Seven Days . (Image: File: Kevin McCallum © Seven Days)"
+     },
+     {
       "id": "https://www.sevendaysvt.com/?p=212920",
       "title": "Howard Center to Expand Services With New Federal Designation",
       "link": "https://www.sevendaysvt.com/news/howard-center-to-expand-services-with-new-federal-designation/",
@@ -598,18 +605,25 @@
       "link": "https://www.sevendaysvt.com/election-2026/progressive-activist-challenges-incumbent-lawman-for-chittenden-county-sheriff/",
       "ts": "2026-07-22T13:58:00+00:00",
       "summary": "Kevin Bloom, 32, has no experience in law enforcement but wants to change how the sheriff’s office operates. Incumbent Dan Gamelin believes voters trust him to stay the course. The post Progressive Activist Challenges Incumbent Lawman for Chittenden County Sheriff appeared first on Seven Days . (Image: Daria Bishop)"
-     },
-     {
-      "id": "https://www.sevendaysvt.com/?p=212621",
-      "title": "Concerns Mount Over Young Riders Operating E-Bikes and E-Motos",
-      "link": "https://www.sevendaysvt.com/news/news-news/concerns-mount-over-young-riders-operating-e-bikes-and-e-motos/",
-      "ts": "2026-07-22T13:55:00+00:00",
-      "summary": "An uptick in alarming behavior has prompted towns to spread awareness about the risks of e-bike and e-motos and, in some cases, crack down on unsafe riders. The post Concerns Mount Over Young Riders Operating E-Bikes and E-Motos appeared first on Seven Days . (Image: Sasha Goldstein)"
      }
     ]
    },
    "vtdigger": {
     "items": [
+     {
+      "id": "https://vtdigger.org/?p=652024",
+      "title": "Don’t blame incomers for Vermont’s housing woes",
+      "link": "https://vtdigger.org/2026/07/23/opinion-dont-blame-incomers-for-vermonts-housing-woes/",
+      "ts": "2026-07-23T21:28:49+00:00",
+      "summary": "Sellers, not the people who bought their homes, set those “obscene” Covid-era housing prices. Read the story on VTDigger here: Don’t blame incomers for Vermont’s housing woes ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=652006",
+      "title": "Statehouse know-how or outsider’s perspective? The 2 Democrats who want to be Vermont’s next governor",
+      "link": "https://vtdigger.org/2026/07/23/statehouse-know-how-or-outsiders-perspective-the-2-democrats-who-want-to-be-vermonts-next-governor/",
+      "ts": "2026-07-23T19:53:18+00:00",
+      "summary": "Aly Richards says she’s the only one with the experience to hit the ground running. But Amanda Janoo says only she is the one truly thinking big. Read the story on VTDigger here: Statehouse know-how or outsider’s perspective? The 2 Democrats who want to be Vermont’s next governor ."
+     },
      {
       "id": "https://vtdigger.org/?p=651975",
       "title": "VTDigger expands statewide news partnership with four southern Vermont newspapers",
@@ -805,25 +819,18 @@
       "link": "https://vtdigger.org/2026/07/19/african-high-school-students-explore-vermont-through-a-leadership-program-and-cultural-exchange/",
       "ts": "2026-07-19T11:14:00+00:00",
       "summary": "Project Harmony International’s Youth Ambassadors Africa Program hosts 65 students and 10 mentors from Africa in Vermont from July 10 to July 28. Read the story on VTDigger here: African high school students explore Vermont through a leadership program and cultural exchange ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651544",
-      "title": "President Trump’s priorities could put a hefty portion of federal grants in Vermont on the chopping block under proposed rule",
-      "link": "https://vtdigger.org/2026/07/19/president-trumps-priorities-could-put-a-hefty-portion-of-federal-grants-in-vermont-on-the-chopping-block-under-proposed-rule/",
-      "ts": "2026-07-19T10:45:00+00:00",
-      "summary": "“Federal grants were politicized under the last administration to promote a far-left DEI agenda with projects like drag shows in Ecuador and transgender experiments on mice,” a government spokesperson wrote in an email to VTDigger. “That ends now.” Read the story on VTDigger here: President Trump’s priorities could put a hefty portion of federal grants in Vermont on the chopping block under propos"
-     },
-     {
-      "id": "https://vtdigger.org/?p=651534",
-      "title": "Asbestos complicates Royalton mill demolition",
-      "link": "https://vtdigger.org/2026/07/18/asbestos-complicates-royalton-mill-demolition/",
-      "ts": "2026-07-18T12:31:00+00:00",
-      "summary": "The delay has dismayed residents, who’d been told the mill would be gone by spring. Last fall, the Royalton Selectboard gave property owner Eric Jacobs 120 days to remove the structure. Read the story on VTDigger here: Asbestos complicates Royalton mill demolition ."
      }
     ]
    },
    "vermont-public": {
     "items": [
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-23/mega-masters-hearings-pack-immigration-court-dockets-experts-say-its-a-strategy-to-deport-people-faster",
+      "title": "'Mega masters' hearings pack immigration court dockets. Experts say it's a strategy to deport people faster",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-23/mega-masters-hearings-pack-immigration-court-dockets-experts-say-its-a-strategy-to-deport-people-faster",
+      "ts": "2026-07-23T19:53:39+00:00",
+      "summary": "Immigration cases for people in Vermont who are not detained are usually held at Chelmsford immigration court in Massachusetts, where judges are holding mass proceedings called mega masters hearings. Advocates argue the government's ultimate goal with these hearings is to increase deportations."
+     },
      {
       "id": "https://www.vermontpublic.org/show/vermont-edition/2026-07-23/vermont-2026-democratic-primary-debate-governor",
       "title": "Vermont Public's 2026 Democratic primary debate for governor",
@@ -900,18 +907,74 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
       "ts": "2026-07-21T01:03:36+00:00",
       "summary": "The new 50% tariffs would exclude energy products, potash, fish and critical minerals, but they would include goods that had previously been protected from import taxes by the United States-Mexico-Canada Agreement."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-20/citizens-bank-ends-relationship-with-ice-prison-companies-after-months-of-protest",
-      "title": "Citizens Bank ends relationship with ICE prison companies after months of protest",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-20/citizens-bank-ends-relationship-with-ice-prison-companies-after-months-of-protest",
-      "ts": "2026-07-20T20:28:34+00:00",
-      "summary": "The Providence-headquartered financial institution says it ended its relationship with Core Civic and The GEO Group, two companies that invest and operate in prisons used to detain ICE arrestees."
      }
     ]
    },
    "wcax": {
     "items": [
+     {
+      "id": "L3OF4R5I5FHZZM5RQPOK6KG2HM",
+      "title": "Crews remove plane from Vermont lake after crash",
+      "link": "https://www.wcax.com/2026/07/23/crews-remove-plane-vermont-lake-after-crash/",
+      "ts": "2026-07-23T21:29:17+00:00",
+      "summary": "A dive team floated a small plane to the surface of Seymour Lake and pulled it from the water Thursday afternoon, days after it crashed."
+     },
+     {
+      "id": "57CGZYLDDFDZ3CAUJJZG2DRRSI",
+      "title": "Scott signs executive order directing state advertising dollars to local media",
+      "link": "https://www.wcax.com/2026/07/23/scott-signs-executive-order-directing-state-advertising-dollars-local-media/",
+      "ts": "2026-07-23T21:16:23+00:00",
+      "summary": "The order directs state agencies and marketing vendors to give priority to local media outlets."
+     },
+     {
+      "id": "V5AZXFTA65AXJIBQRMEHRKWE3Y",
+      "title": "Balint calls out GOP ‘hypocrisy’ on national debt after House passes $95B budget proposal",
+      "link": "https://www.wcax.com/2026/07/23/balint-calls-out-gop-hypocrisy-national-debt-after-house-passes-95b-budget-proposal/",
+      "ts": "2026-07-23T21:13:40+00:00",
+      "summary": "Vermont Congresswoman Becca Balint is condemning what she describes as hypocrisy from Republicans about adding to the national debt."
+     },
+     {
+      "id": "VCP5EJK4LBF3HN33YEGEWHZYFI",
+      "title": "Gov. Scott voices concern over Vermont Air National Guard’s extended Middle East deployment",
+      "link": "https://www.wcax.com/2026/07/23/gov-scott-voices-concern-over-vermont-air-national-guards-extended-middle-east-deployment/",
+      "ts": "2026-07-23T21:05:32+00:00",
+      "summary": "The governor said he is pushing for their return home."
+     },
+     {
+      "id": "M6OINR2JQVC45JBZIE5FNE2UUM",
+      "title": "Trial begins for Montreal man accused of killing 9-year-old daughter in northern New York",
+      "link": "https://www.wcax.com/2026/07/23/trial-begins-montreal-man-accused-killing-9-year-old-daughter-northern-new-york/",
+      "ts": "2026-07-23T20:47:43+00:00",
+      "summary": "The trial in Essex County Court in Elizabethtown could take up to three weeks."
+     },
+     {
+      "id": "S5ZWWNCHVJC4NGCYD4EWLDCNBE",
+      "title": "9 sickened by cyclospora from contaminated lettuce at NH hospital",
+      "link": "https://www.wcax.com/2026/07/23/9-sickened-by-cyclospora-contaminated-lettuce-nh-hospital/",
+      "ts": "2026-07-23T20:39:23+00:00",
+      "summary": "Nine people were sickened by contaminated lettuce at a New Hampshire hospital cafeteria amid a nationwide cyclospora outbreak."
+     },
+     {
+      "id": "4S7PJ5ZD6BATZLNVFAG4MEKUPE",
+      "title": "Police continue search for missing, endangered man last seen in South Deerfield",
+      "link": "https://www.wcax.com/2026/07/22/police-search-missing-endangered-man-last-seen-south-deerfield/",
+      "ts": "2026-07-23T20:37:26+00:00",
+      "summary": "Police in two states are looking for your help in locating a man whom they believe is missing and endangered."
+     },
+     {
+      "id": "ZYO3YQXFNREAZOAVZGUDHKZLQY",
+      "title": "Burlington apartment fire displaces 9 residents",
+      "link": "https://www.wcax.com/2026/07/23/burlington-apartment-fire-displaces-9-residents/",
+      "ts": "2026-07-23T19:59:08+00:00",
+      "summary": "An early morning fire at a Burlington apartment building on Thursday displaced nine people and one cat."
+     },
+     {
+      "id": "XECX54IEXRC27KMB5AUO42LOHE",
+      "title": "Sen. Welch proposes bill to wipe out student loan interest",
+      "link": "https://www.wcax.com/2026/07/23/sen-welch-proposes-bill-wipe-out-student-loan-interest/",
+      "ts": "2026-07-23T19:53:56+00:00",
+      "summary": "Vermont Sen. Peter Welch and Connecticut Rep. Joe Courtney are sponsoring a bill that will wipe out interest on federal student loans"
+     },
      {
       "id": "BKJGYQVZGZCCLOMKAIFCA2N7A4",
       "title": "Northern New York sheriff’s office warns of phone scam",
@@ -941,25 +1004,11 @@
       "summary": "Investigators say the 86-year-old man's body was found on the western shore of North Hero on July 14."
      },
      {
-      "id": "ZYO3YQXFNREAZOAVZGUDHKZLQY",
-      "title": "9 people displaced after Burlington house fire",
-      "link": "https://www.wcax.com/2026/07/23/9-people-displaced-after-burlington-house-fire/",
-      "ts": "2026-07-23T17:53:12+00:00",
-      "summary": "Nine people and a cat were displaced after flames engulfed a Burlington home early Thursday morning"
-     },
-     {
       "id": "PBSGAXI7K5B7DOJUZ42YZTVZRU",
       "title": "Boil-water order for Montpelier due to water main break",
       "link": "https://www.wcax.com/2026/07/23/boil-water-notice-montpelier-due-water-main-break/",
       "ts": "2026-07-23T17:37:41+00:00",
       "summary": "A water main break on Elm Street Thursday has resulted in a boil-water notice for most of Montpelier"
-     },
-     {
-      "id": "XECX54IEXRC27KMB5AUO42LOHE",
-      "title": "Sen. Welch proposes bill to wipe out student loan interest",
-      "link": "https://www.wcax.com/2026/07/23/sen-welch-proposes-bill-wipe-out-student-loan-interest/",
-      "ts": "2026-07-23T16:01:32+00:00",
-      "summary": "Vermont Sen. Peter Welch and Connecticut Rep. Joe Courtney are sponsoring a bill that will wipe out interest on federal student loans"
      },
      {
       "id": "ORZIN5FARFGOROMT6UCVNEJ7HA",
@@ -981,13 +1030,6 @@
       "link": "https://www.wcax.com/2026/07/23/cutting-edge-technology-lab-opens-south-burlington/",
       "ts": "2026-07-23T12:23:39+00:00",
       "summary": "Vermont’s tech sector is getting a major boost with the official opening of a $3.4 million microelectronics lab in South Burlington."
-     },
-     {
-      "id": "M6OINR2JQVC45JBZIE5FNE2UUM",
-      "title": "Trial begins for man accused of killing his daughter on vacation",
-      "link": "https://www.wcax.com/2026/07/23/trial-begins-man-accused-killing-his-daughter-vacation/",
-      "ts": "2026-07-23T11:54:33+00:00",
-      "summary": "Opening statements are taking place Thursday in the trial of a man charged with killing his 9-year-old daughter while on vacation in the Adirondacks."
      },
      {
       "id": "K4TDIOGN6NEATGD3DCTFSRVV6M",
@@ -1137,13 +1179,6 @@
       "summary": "There is new leadership at the helm of Bolton Valley Resort as it takes on a major development initiative"
      },
      {
-      "id": "4S7PJ5ZD6BATZLNVFAG4MEKUPE",
-      "title": "Police search for missing, endangered man last seen in South Deerfield",
-      "link": "https://www.wcax.com/2026/07/22/police-search-missing-endangered-man-last-seen-south-deerfield/",
-      "ts": "2026-07-22T13:11:21+00:00",
-      "summary": "Police in two states are looking for your help in locating a man whom they believe is missing and endangered."
-     },
-     {
       "id": "676SM6RMSND6TB5HT5FTZZWE2A",
       "title": "Vermonter makes history receiving scholarship from Amazon",
       "link": "https://www.wcax.com/2026/07/22/vermonter-makes-history-receiving-scholarship-amazon/",
@@ -1226,185 +1261,150 @@
       "link": "https://www.wcax.com/2026/07/21/south-burlington-plans-vermonts-first-pfas-free-synthetic-turf-field/",
       "ts": "2026-07-21T21:34:08+00:00",
       "summary": "Vermont's first PFAS-free synthetic sports field could open next summer in South Burlington."
-     },
-     {
-      "id": "BUPHGOE5YJH7ZLZLQK4MCYG55Y",
-      "title": "Goodlander to vote ‘no’ on defense bill over Iran war",
-      "link": "https://www.wcax.com/2026/07/21/goodlander-vote-no-defense-bill-over-iran-war/",
-      "ts": "2026-07-21T21:23:07+00:00",
-      "summary": "New Hampshire Congresswoman Maggie Goodlander objects to the National Defense Authorization Act over the president's handling of the war with Iran."
-     },
-     {
-      "id": "RR5HQSP2MRAVJELX23MNB5JTSQ",
-      "title": "Plattsburgh childcare worker pleads not guilty to child abuse charges",
-      "link": "https://www.wcax.com/2026/07/21/plattsburgh-childcare-worker-pleads-not-guilty-child-abuse-charges/",
-      "ts": "2026-07-21T21:14:30+00:00",
-      "summary": "A former employee at a Plattsburgh childcare center accused of abusing up to 10 children pleaded not guilty Tuesday."
-     },
-     {
-      "id": "BLIUXZEGEFDEXI7GB5PGYHZF2M",
-      "title": "Mapping workshop helps trail managers build better hikes",
-      "link": "https://www.wcax.com/2026/07/21/mapping-workshop-helps-trail-managers-build-better-hikes/",
-      "ts": "2026-07-21T21:13:49+00:00",
-      "summary": "Trail managers gathered in the Upper Valley on Tuesday to learn how GPS mapping can help build safer, more sustainable hiking trails."
-     },
-     {
-      "id": "6WUZEYSU4BH5RGKDIPHH5Q4FKQ",
-      "title": "Rutland man pleads not guilty to federal robbery charge",
-      "link": "https://www.wcax.com/2026/07/21/rutland-man-pleads-not-guilty-federal-robbery-charge-after-convenience-store-incident/",
-      "ts": "2026-07-21T20:57:26+00:00",
-      "summary": "Court records show Todd Bussino threatened an employee with a box cutter."
-     },
-     {
-      "id": "LZBT3OJ4N5BZNF5LG6KNJRKVWQ",
-      "title": "Welch calls Trump’s new 50% tariff on Canada an ‘extreme escalation’ of trade war",
-      "link": "https://www.wcax.com/2026/07/21/welch-calls-trumps-new-50-tariff-canada-an-extreme-escalation-trade-war/",
-      "ts": "2026-07-21T20:15:21+00:00",
-      "summary": "N.H. Rep. Maggie Goodlander also called out the president for exacerbating the affordability crisis for working families."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
-      "id": "73249174",
-      "title": "Fact-checking Markwayne Mullin’s claim that foreign adversaries can access voting machines",
-      "link": "https://www.mynbc5.com/article/fact-check-markwayne-mullin-foreign-access-voting-machines/73249174",
-      "ts": "2026-07-23T19:30:00+00:00",
-      "summary": "Fact-checking Homeland Security Secretary Markwayne Mullin’s claim that foreign adversaries can access voting machines"
+      "id": "73250221",
+      "title": "Latest poll shows Vermont Gov. Phil Scott's approval ratings continue to decline",
+      "link": "https://www.mynbc5.com/article/phil-scott-approval-rating-poll-2026/73250221",
+      "ts": "2026-07-23T21:28:00+00:00",
+      "summary": "New data from the University of New Hampshire's Green Mountain State Poll shows that Vermont Gov. Phil Scott's approval rating has declined again as the primaries near."
      },
      {
-      "id": "73232213",
-      "title": "\"Zombie\" second mortgages are back and could put your home at risk",
-      "link": "https://www.mynbc5.com/article/zombie-second-mortgages-homeowners-foreclosure/73232213",
-      "ts": "2026-07-23T19:30:00+00:00",
-      "summary": "Dormant second mortgages from the early 2000s are reappearing, catching homeowners off guard and threatening foreclosure."
+      "id": "73248930",
+      "title": "Full Buck Moon takes over the night sky this week | What to know",
+      "link": "https://www.mynbc5.com/article/full-buck-moon-takes-over-the-night-sky-this-week-what-to-know-astronomy-stargazing/73248930",
+      "ts": "2026-07-23T21:23:00+00:00",
+      "summary": "Now that we are squarely in summer, it’s time for the Buck Moon of late July, which is so named because this time of summer is when deer rapidly regrow their antlers."
      },
      {
-      "id": "73248822",
-      "title": "What are peptides? The center of the FDA's latest debate",
-      "link": "https://www.mynbc5.com/article/what-are-peptides-fda/73248822",
-      "ts": "2026-07-23T19:22:00+00:00",
-      "summary": "On Thursday, the FDA kicked off a two-day meeting to assess the safety and efficacy of lab-made peptides, which some supporters claim can build muscle, treat injuries and look younger. Many health experts are skeptical."
+      "id": "73249374",
+      "title": "Hospital in Cheshire County confirms 9 cases of cyclosporiasis from contaminated lettuce",
+      "link": "https://www.mynbc5.com/article/cyclosporiasis-cheshire-medical-center-keene/73249374",
+      "ts": "2026-07-23T21:13:00+00:00",
+      "summary": "Nine cases of cyclosporiasis have been confirmed from people who ate contaminated lettuce from the Cheshire Medical Center cafeteria in Keene, New Hampshire."
+     },
+     {
+      "id": "73250042",
+      "title": "Canadian-American woman pleads guilty in deadly human smuggling case",
+      "link": "https://www.mynbc5.com/article/canadian-american-woman-pleads-guilty-in-deadly-human-smuggling-case/73250042",
+      "ts": "2026-07-23T21:12:00+00:00",
+      "summary": "A sixth and final person has pleaded guilty to their role in human smuggling job turned deadly that led to the deaths of a five people."
+     },
+     {
+      "id": "73240469",
+      "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison",
+      "link": "https://www.mynbc5.com/article/madison-wisconsin-police-deadly-shooting/73240469",
+      "ts": "2026-07-23T21:06:00+00:00",
+      "summary": "A Wisconsin police officer fired three shots at point-blank range at a man who he and other officers were trying to take into custody in the middle of a street Wednesday."
+     },
+     {
+      "id": "73249032",
+      "title": "New Crumbl location to open in Plattsburgh",
+      "link": "https://www.mynbc5.com/article/crumbl-location-in-plattsburgh/73249032",
+      "ts": "2026-07-23T21:06:00+00:00",
+      "summary": "A new Crumbl cookie location will celebrate its grand opening Friday in Plattsburgh's Commerce Square after hosting a ribbon cutting ceremony and soft opening on Thursday."
      },
      {
       "id": "73248987",
       "title": "Swimming closure at Plattsburgh beach not stopping fun in the sun",
       "link": "https://www.mynbc5.com/article/beachgoers-enjoy-sun-sand-water-closed-plattsburgh-city-beach/73248987",
-      "ts": "2026-07-23T19:21:00+00:00",
+      "ts": "2026-07-23T20:55:00+00:00",
       "summary": "Beachgoers are still finding ways to enjoy the sun and temperatures in Plattsburgh without getting into the water."
-     },
-     {
-      "id": "73248004",
-      "title": "WATCH: Driver dressed as Spider-Man helps person in wheelchair across highway",
-      "link": "https://www.mynbc5.com/article/arkansas-spider-man-wheelchair-crossing-video/73248004",
-      "ts": "2026-07-23T19:20:00+00:00",
-      "summary": "An Arkansas police department shared a hero-worthy moment in which a driver, dressed as Spider-Man, helped a person in a wheelchair quickly get across a highway."
-     },
-     {
-      "id": "73248307",
-      "title": "Grammy-nominated R&B singer announces leukemia diagnosis: ‘Really puts things in perspective’",
-      "link": "https://www.mynbc5.com/article/nivea-singer-grammy-nominated-leukemia-cancer-diagnosis/73248307",
-      "ts": "2026-07-23T19:14:00+00:00",
-      "summary": "Grammy-nominated R&B singer Nivea revealed she's battling leukemia, saying it “really puts things in perspective.”"
-     },
-     {
-      "id": "73248660",
-      "title": "Burnham-Memorial Library in Colchester reopens following possible HAZMAT incident",
-      "link": "https://www.mynbc5.com/article/burnham-memorial-library-colchester-closed/73248660",
-      "ts": "2026-07-23T18:54:00+00:00",
-      "summary": "The Burnham Memorial Library was temporarily closed on Thursday after what staff called a \"small incident\". A HAZMAT truck was seen in the parking lot."
-     },
-     {
-      "id": "73248251",
-      "title": "77-year-old postal worker arrested for hoarding cats she collected along her route",
-      "link": "https://www.mynbc5.com/article/florida-animal-hoarding-cats-postal-worker/73248251",
-      "ts": "2026-07-23T18:51:00+00:00",
-      "summary": "A 77-year-old Florida woman was arrested after authorities found more than 70 caged cats and an undetermined number of dogs in her home, in what the sheriff described as the worst case of animal hoarding he has seen in the county."
-     },
-     {
-      "id": "73246037",
-      "title": "FDA panel narrowly backs unapproved peptide drug touted by Joe Rogan and other influencers",
-      "link": "https://www.mynbc5.com/article/fda-peptides-review/73246037",
-      "ts": "2026-07-23T18:47:00+00:00",
-      "summary": "Federal health advisers are meeting to review a group of controversial chemicals called peptides, which have become a growing wellness trend."
-     },
-     {
-      "id": "71935074",
-      "title": "Body of man recovered following drowning in North Hero, victim ID'ed",
-      "link": "https://www.mynbc5.com/article/fatal-drowning-north-hero/71935074",
-      "ts": "2026-07-23T18:46:00+00:00",
-      "summary": "The body of a missing swimmer has been recovered in North Hero, according to police."
-     },
-     {
-      "id": "73236874",
-      "title": "House passes bill to restrict lawmaker stock trading, but larger fight to fully ban it looms",
-      "link": "https://www.mynbc5.com/article/house-bill-restrict-lawmaker-stock-trading/73236874",
-      "ts": "2026-07-23T18:43:00+00:00",
-      "summary": "The House narrowly passed a bill to add new restrictions on lawmakers trading stocks after a partisan dispute resulted in a narrower proposal that stops short of an outright ban."
-     },
-     {
-      "id": "73220493",
-      "title": "Judge grants curfew change for Massachusetts teen charged in Vermont woman's murder",
-      "link": "https://www.mynbc5.com/article/said-springfield-massachusetts-murder-case-curfew/73220493",
-      "ts": "2026-07-23T18:25:00+00:00",
-      "summary": "The lawyers for a Massachusetts teen accused of killing a Vermont woman in 2024 are now asking a judge for more leniency in their client's conditions of release, according to court paperwork obtained by NBC5."
-     },
-     {
-      "id": "73246720",
-      "title": "Patrick Kane rejoins the Chicago Blackhawks, where he won 3 Stanley Cups in the 2010s",
-      "link": "https://www.mynbc5.com/article/patrick-kane-rejoins-chicago-blackhawks/73246720",
-      "ts": "2026-07-23T18:01:00+00:00",
-      "summary": "Patrick Kane has rejoined the Chicago Blackhawks, agreeing to a $16 million, two-year contract with his first NHL team"
      },
      {
       "id": "73248314",
       "title": "Citywide boil water notice in effect in Montpelier after water main break",
       "link": "https://www.mynbc5.com/article/montpelier-boil-water-notice-july-23/73248314",
-      "ts": "2026-07-23T17:51:00+00:00",
+      "ts": "2026-07-23T20:50:00+00:00",
       "summary": "Residents in Montpelier are being told to boil their water after a widespread water main break on Thursday, with some local exceptions."
      },
      {
-      "id": "73246995",
-      "title": "'Parks are part of our habitat': Burlington promotes new conservation initiative",
-      "link": "https://www.mynbc5.com/article/burlington-parks-promotes-conservation/73246995",
-      "ts": "2026-07-23T17:32:00+00:00",
-      "summary": "If you’ve been to Oakledge Park recently, you might’ve noticed a few changes. Not only have they finished the new playground and updated the main facility, but there’s also a well-marked way for the community to get involved with conservation at the park."
+      "id": "73249771",
+      "title": "Vermont tech hub unveils nation’s first public-access semiconductor test facility",
+      "link": "https://www.mynbc5.com/article/vermont-tech-hub-opens/73249771",
+      "ts": "2026-07-23T20:45:00+00:00",
+      "summary": "A new facility aimed at helping companies bring advanced semiconductor technologies from the research stage to commercial products opened Thursday in South Burlington."
      },
      {
-      "id": "73247557",
-      "title": "Former Jay Peak Resort employee accused of embezzling $70,000 from secure vault room",
-      "link": "https://www.mynbc5.com/article/jay-peak-resort-embezzling-gaylor/73247557",
-      "ts": "2026-07-23T17:31:00+00:00",
-      "summary": "A former employee at Jay Peak Resort has been accused of stealing more than $70,000 over a period of months while she was employed as a vault supervisor."
+      "id": "73248722",
+      "title": "Newly renovated Pomeroy Park opens in Burlington with ADA-friendly features",
+      "link": "https://www.mynbc5.com/article/pomeroy-park-reopens/73248722",
+      "ts": "2026-07-23T20:42:00+00:00",
+      "summary": "Pomeroy Park in Burlington reopened on Tuesday, giving families a new space where kids can play, explore and be more independent."
      },
      {
-      "id": "73176388",
-      "title": "Cut the number of choices you make each day. Your brain will thank you",
-      "link": "https://www.mynbc5.com/article/cut-the-number-of-choices-you-make-each-day-your-brain-will-thank-you-health-relaxation/73176388",
-      "ts": "2026-07-23T17:15:00+00:00",
-      "summary": "The more choices you have, the better, right? Actually, behavioral scientists say too many options can make people anxious, indecisive and less happy with what they pick."
+      "id": "73238243",
+      "title": "Watch an orca ram a sunfish so hard that the fish explodes",
+      "link": "https://www.mynbc5.com/article/video-orcas-explode-sunfish-new-hunting-behavior/73238243",
+      "ts": "2026-07-23T20:41:00+00:00",
+      "summary": "A video shows an orca slamming into a giant sunfish so hard it explodes. Scientists are weighing in on the behavior."
      },
      {
-      "id": "73248013",
-      "title": "Minnesota man gets 2 life sentences for killing Democratic lawmaker and her husband",
-      "link": "https://www.mynbc5.com/article/minnesota-lawmaker-melissa-hortman-killer-sentenced/73248013",
-      "ts": "2026-07-23T17:09:00+00:00",
-      "summary": "The Minnesota man who pleaded guilty to killing a top Democratic lawmaker and her husband was sentenced to spend the rest of his life in prison on Thursday."
+      "id": "73249178",
+      "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
+      "link": "https://www.mynbc5.com/article/nyt-reporters-subpoena-dropped/73249178",
+      "ts": "2026-07-23T20:39:00+00:00",
+      "summary": "The government has withdrawn subpoenas seeking New York Times reporters’ testimony on sources for stories about the president’s Qatari-gifted Air Force One jet."
      },
      {
-      "id": "73242444",
-      "title": "Apartment fire displaces nine people in Chittenden County",
-      "link": "https://www.mynbc5.com/article/nine-displaced-burlington-fire/73242444",
-      "ts": "2026-07-23T16:58:00+00:00",
-      "summary": "At least nine people have been displaced after an apartment fire in Burlington. The fire department arrived to find heavy smoke and flames spreading to the second floor."
+      "id": "73249635",
+      "title": "Divers restore Italy’s iconic ‘Christ of the Abyss’ monument",
+      "link": "https://www.mynbc5.com/article/divers-restore-italys-iconic-christ-of-the-abyss-monument/73249635",
+      "ts": "2026-07-23T20:37:00+00:00",
+      "summary": "Divers clean the \"Christ of the Abyss\" statue off the coast of Italy, restoring an iconic monument that represents the sacrifices made during WWII."
      },
      {
-      "id": "73246508",
-      "title": "House again passes resolution seeking to halt Iran military action as some Republicans defect",
-      "link": "https://www.mynbc5.com/article/house-resolution-iran-war/73246508",
-      "ts": "2026-07-23T16:31:00+00:00",
-      "summary": "The House on Thursday narrowly passed a largely symbolic resolution to halt U.S. military action in Iran after a handful of Republicans voted with Democrats."
+      "id": "73249045",
+      "title": "'A brave, brave bunch': 31 kids, 5 adults rush to evacuate bus before explosive fire",
+      "link": "https://www.mynbc5.com/article/church-strangers-help-charter-bus-fire/73249045",
+      "ts": "2026-07-23T20:35:00+00:00",
+      "summary": "Thirty-one children and five adults were riding a Georgia-bound charter bus when they had to rush to evacuate before the vehicle caught fire."
+     },
+     {
+      "id": "73249300",
+      "title": "Teen's $3 thrift store find sells for nearly $90,000 at auction",
+      "link": "https://www.mynbc5.com/article/thrift-store-find-wilt-chamberlain-jacket/73249300",
+      "ts": "2026-07-23T20:24:00+00:00",
+      "summary": "\"I got very, very lucky.\" | A 19-year-old bought a warmup jacket for $3 at a thrift store, later determined to have been worn by Wilt Chamberlain during the 1972 NBA Finals. Here's how much it went for at auction."
+     },
+     {
+      "id": "73249574",
+      "title": "Police help rescue bear cub with head stuck in a jug in Grafton County",
+      "link": "https://www.mynbc5.com/article/bristol-new-hampshire-bear-cub-jug/73249574",
+      "ts": "2026-07-23T20:19:00+00:00",
+      "summary": "Police officers in Bristol, New Hampshire tackled an unusual assignment on Thursday when they helped remove a plastic jug from a black bear cub's head."
+     },
+     {
+      "id": "73248660",
+      "title": "Burnham-Memorial Library in Colchester reopens following possible HAZMAT incident",
+      "link": "https://www.mynbc5.com/article/burnham-memorial-library-colchester-closed/73248660",
+      "ts": "2026-07-23T20:09:00+00:00",
+      "summary": "The Burnham Memorial Library was temporarily closed on Thursday after what staff called a \"small incident\". A HAZMAT truck was seen in the parking lot."
+     },
+     {
+      "id": "73248822",
+      "title": "What are peptides? The center of the FDA's latest debate",
+      "link": "https://www.mynbc5.com/article/what-are-peptides-fda/73248822",
+      "ts": "2026-07-23T20:09:00+00:00",
+      "summary": "On Thursday, the FDA kicked off a two-day meeting to assess the safety and efficacy of lab-made peptides, which some supporters claim can build muscle, treat injuries and look younger. Many health experts are skeptical."
+     },
+     {
+      "id": "73249411",
+      "title": "NYS DEC closes Long Pond campsites due to bear",
+      "link": "https://www.mynbc5.com/article/dec-closes-long-pond-campsite-bear/73249411",
+      "ts": "2026-07-23T20:05:00+00:00",
+      "summary": "A bear has been tearing up campsites around Long Pond in Franklin County, NY. Find out which campsites are now closed."
+     },
+     {
+      "id": "73248878",
+      "title": "Trump expands a voluntary pledge to protect consumers from high utility bills from AI data centers",
+      "link": "https://www.mynbc5.com/article/trump-ai-data-center-pledge-high-utility-bills/73248878",
+      "ts": "2026-07-23T19:49:00+00:00",
+      "summary": "President Trump had governors and electricity companies join a voluntary pledge to shield U.S. consumers from higher utility bills from data centers."
      }
     ]
    },

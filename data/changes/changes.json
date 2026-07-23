@@ -1,116 +1,6 @@
 {
- "generated": "2026-07-23T19:52:37+00:00",
+ "generated": "2026-07-23T21:31:46+00:00",
  "events": [
-  {
-   "ts": "2026-07-16T19:57:00+00:00",
-   "category": "news",
-   "headline": "Middlebury man arrested after stabbing, shooting during family dispute",
-   "detail": "",
-   "url": "https://www.mynbc5.com/article/us-7-closed-in-middlebury-due-to-police-incident/72122721",
-   "source": "mynbc5",
-   "sourceName": "NBC5",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T20:02:13+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: A-Dog Skate Park",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uycksm/adog_skate_park/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T20:02:13+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Open Mic Tonight @ Specs in Winooski",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uybqcp/open_mic_tonight_specs_in_winooski/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T20:02:13+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Car crashed onto sidewalk/bike path on Pine st",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uyanxx/car_crashed_onto_sidewalkbike_path_on_pine_st/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T20:02:13+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Maple Creemee Affogato 🤞",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uy92u9/maple_creemee_affogato/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T20:02:13+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Seth Yacovone Band was bringing it last night at the Winooski Block Party at Rotary Park",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uy8ri6/seth_yacovone_band_was_bringing_it_last_night_at/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T20:15:40+00:00",
-   "category": "weather",
-   "headline": "This Afternoon: A chance of showers and thunderstorms before 5pm",
-   "detail": "",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 2,
-   "kind": "changed"
-  },
-  {
-   "ts": "2026-07-16T20:15:46+00:00",
-   "category": "news",
-   "headline": "07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
-   "detail": "",
-   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853",
-   "source": "btv-news-releases",
-   "sourceName": "City of Burlington",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T20:15:46+00:00",
-   "category": "news",
-   "headline": "07/16/2026 Motor Vehicle Crash with E-Bike | 26BU016028",
-   "detail": "",
-   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3853",
-   "source": "bpd-updates",
-   "sourceName": "Burlington Police",
-   "priority": 2,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-16T20:32:58+00:00",
-   "category": "news",
-   "headline": "Crews clean graffiti off rocks along newly opened Champlain Parkway",
-   "detail": "",
-   "url": "https://www.wcax.com/2026/07/16/crews-clean-graffiti-off-rocks-along-newly-opened-champlain-parkway/",
-   "source": "wcax",
-   "sourceName": "WCAX",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-16T21:44:24+00:00",
    "category": "events",
@@ -2550,6 +2440,39 @@
    "url": "https://www.wcax.com/2026/07/23/police-identify-man-who-drowned-lake-champlain/",
    "source": "wcax",
    "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T20:42:00+00:00",
+   "category": "news",
+   "headline": "Newly renovated Pomeroy Park opens in Burlington with ADA-friendly features",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/pomeroy-park-reopens/73248722",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T20:45:00+00:00",
+   "category": "news",
+   "headline": "Vermont tech hub unveils nation’s first public-access semiconductor test facility",
+   "detail": "",
+   "url": "https://www.mynbc5.com/article/vermont-tech-hub-opens/73249771",
+   "source": "mynbc5",
+   "sourceName": "NBC5",
+   "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-23T20:49:38+00:00",
+   "category": "news",
+   "headline": "Scott Says Vermont Will Prioritize Local Media When Purchasing Advertisements",
+   "detail": "",
+   "url": "https://www.sevendaysvt.com/news/scott-says-vermont-will-prioritize-local-media-when-purchasing-advertisements/",
+   "source": "sevendays-news",
+   "sourceName": "Seven Days",
    "priority": 1,
    "kind": "added"
   }
