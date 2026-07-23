@@ -410,34 +410,6 @@
  },
  "civicclerk": {
   "meetings": {
-   "8682": {
-    "name": "Retirement Board Meeting",
-    "start": "2026-07-20T09:30:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Retirement Board Meeting V2",
-     "Retirement Board Meeting V2",
-     "July 20, 2026 Retirement Board Meeting Minutes LO"
-    ]
-   },
-   "9857": {
-    "name": "Advisory Committee on Accessibility Meeting",
-    "start": "2026-07-20T15:00:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "07.20.26 BACA Agenda",
-     "07.20.26 BACA Agenda Packet"
-    ]
-   },
-   "10065": {
-    "name": "Housing Board of Review",
-    "start": "2026-07-20T18:30:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Housing Board of Review Agenda 07/20",
-     "Housing Board of Review Agenda 07/20"
-    ]
-   },
    "10058": {
     "name": "Development Review Board",
     "start": "2026-07-21T17:00:00+00:00",
@@ -532,6 +504,29 @@
     "start": "2026-08-03T18:00:00+00:00",
     "hasAgenda": false,
     "files": []
+   },
+   "10085": {
+    "name": "Housing Board of Review",
+    "start": "2026-08-03T18:30:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Housing Board of Review Agenda 08/03",
+     "Housing Board of Review Agenda Packet 08/03"
+    ]
+   },
+   "10074": {
+    "name": "Development Review Board",
+    "start": "2026-08-04T17:00:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Agenda V2"
+    ]
+   },
+   "9961": {
+    "name": "Planning Commission Meeting - Collaborative Working Group on Inclusionary Zoning",
+    "start": "2026-08-11T18:30:00+00:00",
+    "hasAgenda": false,
+    "files": []
    }
   }
  },
@@ -541,10 +536,10 @@
     "items": [
      {
       "id": "https://www.sevendaysvt.com/?p=212796",
-      "title": "Study: Lesions on Lake Memphramagog Fish Are a Transmissible Form of Cancer",
+      "title": "Study: Lesions on Lake Memphremagog Fish Are a Transmissible Form of Cancer",
       "link": "https://www.sevendaysvt.com/news/study-lesions-on-lake-memphramagog-fish-are-a-transmissible-form-of-cancer/",
       "ts": "2026-07-22T20:50:09+00:00",
-      "summary": "A study that UVM researchers published in the journal \"Nature\" concludes that black spots are caused by a form of cancer that the fish can catch from each other. The post Study: Lesions on Lake Memphramagog Fish Are a Transmissible Form of Cancer appeared first on Seven Days . (Image: Courtesy of Peter Emerson)"
+      "summary": "A study that UVM researchers published in the journal \"Nature\" concludes that black spots are caused by a form of cancer that the fish can catch from each other. The post Study: Lesions on Lake Memphremagog Fish Are a Transmissible Form of Cancer appeared first on Seven Days . (Image: Courtesy of Peter Emerson)"
      },
      {
       "id": "https://www.sevendaysvt.com/?p=212633",
@@ -916,6 +911,20 @@
    "wcax": {
     "items": [
      {
+      "id": "EMRI2JZ4GBFUBPQC6Z2BCDR3TY",
+      "title": "2025 Dancing with the Burlington Stars winners reflect on experience",
+      "link": "https://www.wcax.com/2026/07/23/2025-dancing-with-burlington-stars-winners-reflect-experience/",
+      "ts": "2026-07-23T00:11:24+00:00",
+      "summary": "Dancing with the Burlington Stars is coming up September 12th at the Flynn, and we’re catching up with past winners to learn more about the event."
+     },
+     {
+      "id": "OU3WEWITABGVLDQKVJTRLZ7LXM",
+      "title": "In recent decades, refreshing overnights in July are becoming increasingly rare in Vermont",
+      "link": "https://www.wcax.com/2026/07/22/recent-decades-refreshing-overnights-july-are-becoming-increasingly-rare-vermont/",
+      "ts": "2026-07-22T22:34:44+00:00",
+      "summary": "July is our hottest, muggiest, and most summerlike month of the year. Despite that, we still see a few cool, refreshing nights every now and then."
+     },
+     {
       "id": "RK4YTZOHFNFCPENNXKVNXNZ52Y",
       "title": "Pandemic guests become owners of Ripton getaway",
       "link": "https://www.wcax.com/2026/07/22/pandemic-guests-become-owners-ripton-getaway/",
@@ -977,6 +986,13 @@
       "link": "https://www.wcax.com/2026/07/22/burlington-police-link-2-july-4th-gunfire-incidents-2-adults-held-without-bail/",
       "ts": "2026-07-22T20:18:43+00:00",
       "summary": "Two Burlington gunfire incidents earlier this month were connected, according to police."
+     },
+     {
+      "id": "IXXNT2AR3NGJLF3DFHNNYIYVEA",
+      "title": "Senate unanimously approves Gillibrand’s bipartisan Older Americans Act reauthorization bill",
+      "link": "https://www.wcax.com/2026/07/22/senate-unanimously-approves-gillibrands-bipartisan-older-americans-act-reauthorization-bill/",
+      "ts": "2026-07-22T20:17:03+00:00",
+      "summary": "The Older Americans Act has served seniors since 1965."
      },
      {
       "id": "K2OVSS4GFVGK5JTZEBQBJEMEVA",
@@ -1243,32 +1259,95 @@
       "link": "https://www.wcax.com/2026/07/20/chittenden-county-sheriff-apologizes-brothers-transphobic-post-targeting-primary-opponent/",
       "ts": "2026-07-21T00:15:56+00:00",
       "summary": "Kevin Bloom, Sheriff Dan Gamelin's primary opponent, says the apology falls short."
-     },
-     {
-      "id": "YHJJFKDB4NHCXDIKE4LCKVHV74",
-      "title": "Beta helps achieve first hybrid electric flight above 30,000 feet",
-      "link": "https://www.wcax.com/2026/07/20/beta-technologies-helps-achieve-first-hybrid-electric-flight-above-30000-feet/",
-      "ts": "2026-07-20T23:43:37+00:00",
-      "summary": "Beta showcased the collaboration at the Farnborough International Airshow in England."
-     },
-     {
-      "id": "XKJW6PEPTFDWREXZH4WYZNU644",
-      "title": "Friends remember 16-year-old killed in Burlington e-bike crash last week",
-      "link": "https://www.wcax.com/2026/07/20/friends-remember-16-year-old-killed-burlington-e-bike-crash-last-week/",
-      "ts": "2026-07-20T21:55:52+00:00",
-      "summary": "The driver, 79-year-old Douglas Knapp, a renowned artist in the area, currently faces no charges."
-     },
-     {
-      "id": "OLHI442VRNCN3IRBXOUDOEHQ6Q",
-      "title": "Travel nurse speaks out after using military training to disarm knife-wielding attacker",
-      "link": "https://www.wcax.com/2026/07/20/travel-nurse-speaks-out-after-using-military-training-disarm-knife-wielding-attacker/",
-      "ts": "2026-07-20T21:53:25+00:00",
-      "summary": "Leceadricke Young was leaving work on Friday when he sprang into action."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73237219",
+      "title": "What to know about testosterone replacement as Pete Hegseth pursues a ‘High-T Department of War’",
+      "link": "https://www.mynbc5.com/article/what-to-know-testosterone-replacement-hegseth-department-of-war/73237219",
+      "ts": "2026-07-23T00:19:00+00:00",
+      "summary": "What to know about testosterone replacement as Pete Hegseth pursues a ‘High-T Department of War’"
+     },
+     {
+      "id": "73221011",
+      "title": "Malcolm-Jamal Warner's widow sues his mother over trust fund dispute",
+      "link": "https://www.mynbc5.com/article/malcolm-jamal-warner-widow-suing-mother/73221011",
+      "ts": "2026-07-23T00:12:00+00:00",
+      "summary": "A lawsuit filed one year after Malcolm-Jamal Warner's death says his widow is owed more than $1.2 million from the actor's trust and other promised payments."
+     },
+     {
+      "id": "73237209",
+      "title": "'Gave his life helping someone': Arkansas police officer died saving fiancée hours after proposing",
+      "link": "https://www.mynbc5.com/article/fred-marsh-saves-fiancee/73237209",
+      "ts": "2026-07-23T00:07:00+00:00",
+      "summary": "Officer Fred Marsh’s fiancée survived after he helped her reach safety in Missouri’s Elk River. Her mother says the 24-year-old will be remembered for his courage, compassion and devotion to others."
+     },
+     {
+      "id": "73235870",
+      "title": "Bill would refinance federal student loans to 0% interest",
+      "link": "https://www.mynbc5.com/article/no-interest-federal-student-loans-new-bill/73235870",
+      "ts": "2026-07-22T23:33:00+00:00",
+      "summary": "A proposed bill would wipe out interest on federal student loans, but it wouldn't touch private loans."
+     },
+     {
+      "id": "73236979",
+      "title": "Video shows injured bald eagle being helped",
+      "link": "https://www.mynbc5.com/article/deputies-rescue-injured-bald-eagle-video/73236979",
+      "ts": "2026-07-22T23:27:00+00:00",
+      "summary": "Video shared by a sheriff's office in Ohio shows first responders helping an injured bald eagle on the side of the road."
+     },
+     {
+      "id": "73234413",
+      "title": "Can Republicans require voter ID, proof of citizenship through reconciliation?",
+      "link": "https://www.mynbc5.com/article/republicans-voter-id-proof-of-citizenship-reconciliation/73234413",
+      "ts": "2026-07-22T22:58:00+00:00",
+      "summary": "It's one of several strategies House Republicans are pursuing to push through one of President Donald Trump's top priorities, but there are still open questions about enforcement."
+     },
+     {
+      "id": "73236219",
+      "title": "Foster kitten with custom-made wheelchair to help him walk",
+      "link": "https://www.mynbc5.com/article/video-foster-kitten-hot-wheels-wheelchair/73236219",
+      "ts": "2026-07-22T22:54:00+00:00",
+      "summary": "A foster kitten in named Gelato is winning hearts after a vet tech built him a custom wheelchair using rulers, zip ties, and Hot Wheels."
+     },
+     {
+      "id": "73235094",
+      "title": "Red Sox tie franchise record with 15th straight win",
+      "link": "https://www.mynbc5.com/article/red-sox-tie-franchise-record-with-15th-straight-win/73235094",
+      "ts": "2026-07-22T22:54:00+00:00",
+      "summary": "The Boston Red Sox have tied their franchise record of 15 consecutive wins, a feat last achieved in 1946, and will play tonight for a chance to break it."
+     },
+     {
+      "id": "73236093",
+      "title": "President Trump threatens Iran with strikes on bridges, power plants for every ship attack",
+      "link": "https://www.mynbc5.com/article/trump-threatens-iran-strikes-bridges-power-plants/73236093",
+      "ts": "2026-07-22T22:53:00+00:00",
+      "summary": "President Trump announced a retaliatory policy against Iran before attending a dignified transfer ceremony for four U.S. service members killed in recent attacks."
+     },
+     {
+      "id": "73236648",
+      "title": "Popular soup sold nationwide recalled over can defect",
+      "link": "https://www.mynbc5.com/article/amys-kitchen-lentil-soup-recall/73236648",
+      "ts": "2026-07-22T22:50:00+00:00",
+      "summary": "Amy's Kitchen is recalling more than 184,000 cans of lentil soup over a defect that could raise spoilage risk."
+     },
+     {
+      "id": "73236015",
+      "title": "House Republicans adopt $95 billion package for the Iran War and Trump's priorities",
+      "link": "https://www.mynbc5.com/article/house-republicans-95-billion-package-iran-war/73236015",
+      "ts": "2026-07-22T22:35:00+00:00",
+      "summary": "The House adopted a Republican-only $95 billion budget proposal, a long-shot effort to fund the Iran War and other White House priorities."
+     },
+     {
+      "id": "73236248",
+      "title": "Former Courtyard by Marriott in Burlington becomes The Harborvale following renovation",
+      "link": "https://www.mynbc5.com/article/burlingtons-courtyard-marriott-harborvale/73236248",
+      "ts": "2026-07-22T22:30:00+00:00",
+      "summary": "A longtime Burlington hotel has a new name and a refreshed look following a $19 million renovation."
+     },
      {
       "id": "73235246",
       "title": "Morrisonville Septic still operating despite fire that destroyed main building",
@@ -1282,13 +1361,6 @@
       "link": "https://www.mynbc5.com/article/vermont-primary-voter-turnout/73236157",
       "ts": "2026-07-22T22:15:00+00:00",
       "summary": "With Vermont's primary election just weeks away, officials are encouraging voter participation."
-     },
-     {
-      "id": "73235870",
-      "title": "Bill would refinance federal student loans to 0% interest",
-      "link": "https://www.mynbc5.com/article/no-interest-federal-student-loans-new-bill/73235870",
-      "ts": "2026-07-22T22:14:00+00:00",
-      "summary": "A proposed bill would wipe out interest on federal student loans, but it wouldn't impact private loans."
      },
      {
       "id": "73236286",
@@ -1331,83 +1403,6 @@
       "link": "https://www.mynbc5.com/article/vermont-businesses-raise-money-for-cancer-research-through-bakes-for-breast-cancer-fundraiser/73235111",
       "ts": "2026-07-22T21:47:00+00:00",
       "summary": "A handful of restaurants across Vermont are selling desserts to raise money for cancer research through the annual Bakes for Breast Cancer fundraiser"
-     },
-     {
-      "id": "73235543",
-      "title": "Mother of four children dead in Mechanicville has ‘not been ruled out’ as complicit, chief says",
-      "link": "https://www.mynbc5.com/article/mechanicville-new-york-death-investigations-update/73235543",
-      "ts": "2026-07-22T21:43:00+00:00",
-      "summary": "A month after six people were found dead in a Mechanicville apartment, the deceased mother of four has not been ruled out as complicit, police said on Wednesday."
-     },
-     {
-      "id": "73234770",
-      "title": "Senator Gillibrand celebrates passage of act to aid senior services",
-      "link": "https://www.mynbc5.com/article/senator-gillibrand-act-aid-senior-programs/73234770",
-      "ts": "2026-07-22T21:10:00+00:00",
-      "summary": "On Wednesday Sen. Kirsten Gillibrand (D-NY) celebrated the Older Americans Act Reauthorization Act that unanimously passed in the Senate to continue funding for eldercare programs."
-     },
-     {
-      "id": "73235357",
-      "title": "Plattsburgh City Beach closed due to swimming following E. coli testing",
-      "link": "https://www.mynbc5.com/article/plattsburgh-city-beach-closed-e-coli-testing/73235357",
-      "ts": "2026-07-22T21:04:00+00:00",
-      "summary": "The City of Plattsburgh posted about the closure on its social media pages, saying the beach is closed to swimming as of July 22."
-     },
-     {
-      "id": "73230464",
-      "title": "One in 30 million catch: Hampton woman catches yellow lobster off NH coast",
-      "link": "https://www.mynbc5.com/article/rye-yellow-lobster-catch/73230464",
-      "ts": "2026-07-22T21:04:00+00:00",
-      "summary": "A rare yellow lobster was caught by a lobsterwoman from Hampton last week. There is about a one in 30 million chance of catching a lobster with this type of genetic mutation."
-     },
-     {
-      "id": "73228723",
-      "title": "Pilot says he barely had time to react before plane crashed in Cheshire County",
-      "link": "https://www.mynbc5.com/article/pilot-plane-crash-jaffrey-new-hampshire/73228723",
-      "ts": "2026-07-22T21:03:00+00:00",
-      "summary": "A pilot who was injured when his small plane crashed in Jaffrey earlier this summer said he feels lucky to be alive."
-     },
-     {
-      "id": "73232653",
-      "title": "Trump says US is targeting 'Pickaxe Mountain' in Iran. But what is it?",
-      "link": "https://www.mynbc5.com/article/pickaxe-mountain-iran/73232653",
-      "ts": "2026-07-22T21:00:00+00:00",
-      "summary": "President Trump says the U.S. will start targeting \"Pickaxe Mountain\" in continued strikes in Iran soon. We explain what that really is and why officials are concerned about it."
-     },
-     {
-      "id": "73234169",
-      "title": "Federal bill that would transform student loan repayment pushed for by Senator Peter Welch",
-      "link": "https://www.mynbc5.com/article/senator-welch-student-loan-interest-elimination-act/73234169",
-      "ts": "2026-07-22T20:59:00+00:00",
-      "summary": "A bill that would change how federal student loan borrowers make payments is making its way through Congress now, and Vermont Sen. Peter Welch is calling on fellow lawmakers to make sure it passes."
-     },
-     {
-      "id": "73235680",
-      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know",
-      "link": "https://www.mynbc5.com/article/openai-hacking-agent-rogue/73235680",
-      "ts": "2026-07-22T20:53:00+00:00",
-      "summary": "ChatGPT maker OpenAI says it is still investigating the \"unprecedented cyber incident\" that led its AI systems to hack into another AI company."
-     },
-     {
-      "id": "73233490",
-      "title": "Vermont tests AI technology to stop wrong-way drivers",
-      "link": "https://www.mynbc5.com/article/vermont-tests-ai-technology-to-stop-wrong-way-drivers/73233490",
-      "ts": "2026-07-22T20:43:00+00:00",
-      "summary": "The TAPCO wrong-way detection system is being piloted on the northbound and southbound interstate ramps at Exit 17 in Milton."
-     },
-     {
-      "id": "73234474",
-      "title": "Miami Heat mistakenly posts link for LeBron James introductory press conference",
-      "link": "https://www.mynbc5.com/article/miami-heat-lebron-james-press-conference-mistake/73234474",
-      "ts": "2026-07-22T20:41:00+00:00",
-      "summary": "The Miami Heat mistakenly posted a YouTube link for an introductory press conference for LeBron James even though he had not yet made his free-agency decision."
-     },
-     {
-      "id": "73232603",
-      "title": "This family was orphaned and divided by war in Gaza. Their big sister brought them back together",
-      "link": "https://www.mynbc5.com/article/orphaned-by-war-in-gaza-palestinian-siblings-reunite-with-their-sister-in-israel/73232603",
-      "ts": "2026-07-22T20:31:00+00:00",
-      "summary": "A Palestinian family that was divided between Israel and Gaza was reunited this month after the eldest sister waged a two-year effort to bring her orphaned siblings to join her in Israel."
      }
     ]
    },
