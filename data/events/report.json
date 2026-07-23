@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-23T07:28:55-04:00",
+ "generated": "2026-07-23T17:40:53-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
    "count": 28,
-   "seconds": 5.5
+   "seconds": 6.4
   },
   "breweries": {
    "label": "Breweries & Taprooms",
-   "count": 63,
-   "seconds": 4.6
+   "count": 66,
+   "seconds": 2.9
   },
   "brownell": {
    "label": "Brownell Library",
    "count": 58,
-   "seconds": 2.7
+   "seconds": 3.4
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
-   "count": 157,
-   "seconds": 3.0
+   "count": 166,
+   "seconds": 3.4
   },
   "churchst": {
    "label": "Church Street Marketplace",
    "count": 85,
-   "seconds": 2.2
+   "seconds": 1.7
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -44,17 +44,17 @@
   "farmersmarket": {
    "label": "Burlington Farmers Market",
    "count": 9,
-   "seconds": 0.2
+   "seconds": 0.1
   },
   "fletcherfree": {
    "label": "Fletcher Free Library",
-   "count": 202,
-   "seconds": 69.6
+   "count": 205,
+   "seconds": 65.8
   },
   "flynn": {
    "label": "The Flynn",
    "count": 18,
-   "seconds": 2.1
+   "seconds": 2.3
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -64,12 +64,12 @@
   "helloburlington": {
    "label": "Hello Burlington",
    "count": 750,
-   "seconds": 37.3
+   "seconds": 35.9
   },
   "higherground": {
    "label": "Higher Ground",
    "count": 65,
-   "seconds": 91.1
+   "seconds": 92.5
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -78,28 +78,28 @@
   },
   "loveburlington": {
    "label": "Love Burlington",
-   "count": 556,
-   "seconds": 73.1
+   "count": 558,
+   "seconds": 76.9
   },
   "meetup": {
    "label": "Meetup",
    "count": 63,
-   "seconds": 118.2
+   "seconds": 123.9
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 20,
-   "seconds": 13.5
+   "seconds": 14.6
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
-   "count": 65,
-   "seconds": 1.5
+   "count": 74,
+   "seconds": 7.0
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
-   "count": 44,
-   "seconds": 28.3
+   "count": 45,
+   "seconds": 27.9
   },
   "sevendays": {
    "label": "Seven Days",
@@ -113,52 +113,30 @@
   },
   "uvm": {
    "label": "UVM & Colleges",
-   "count": 181,
-   "seconds": 10.6
+   "count": 183,
+   "seconds": 8.0
   },
   "uvmbored": {
    "label": "UVM Bored",
-   "count": 139,
+   "count": 141,
    "seconds": 0.1
   },
   "vcc": {
    "label": "Vermont Comedy Club",
    "count": 55,
-   "seconds": 71.5
+   "seconds": 70.1
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
    "count": 29,
-   "seconds": 0.3
+   "seconds": 0.2
   }
  },
- "gathered": 2699,
- "afterDedup": 1315,
- "duplicatesMerged": 1384,
- "final": 2286,
+ "gathered": 2730,
+ "afterDedup": 1338,
+ "duplicatesMerged": 1392,
+ "final": 2305,
  "mergeLog": [
-  {
-   "kept": {
-    "title": "802sDay",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-25"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-25"
-  },
   {
    "kept": {
     "title": "Everything is Everything: Will Kasso Condry",
@@ -1983,6 +1961,17 @@
   },
   {
    "kept": {
+    "title": "Cyrille Aimée",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-11"
+  },
+  {
+   "kept": {
     "title": "Rainbow Kitten Surprise",
     "source": "higherground"
    },
@@ -2372,6 +2361,17 @@
   },
   {
    "kept": {
+    "title": "Handel’s Oratorio: Israel in Egypt",
+    "source": "uvm"
+   },
+   "merged_sources": [
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-20"
+  },
+  {
+   "kept": {
     "title": "Cheekface",
     "source": "higherground"
    },
@@ -2384,14 +2384,6 @@
  ],
  "changes": [
   {
-   "id": "8f6cf5630a42",
-   "title": "Industry Day",
-   "date": "2026-09-07",
-   "change": "time",
-   "was": "2026-09-07",
-   "now": "2026-09-07T11:30:00-04:00"
-  },
-  {
    "id": "ae9e8f183044",
    "title": "Storytime",
    "date": "2026-07-23",
@@ -2399,11 +2391,17 @@
    "lastSeen": "2026-07-21T07:27:02-04:00"
   },
   {
+   "id": "c0d6683d4821",
+   "title": "King Garbage w/ C.Shreve the Professor & 3rd Chamber",
+   "date": "2026-07-23",
+   "change": "missing",
+   "lastSeen": "2026-07-23T07:28:55-04:00"
+  },
+  {
    "id": "6dce860e8d2e",
    "title": "The Caracas X VAAP at the ONE Ramble",
    "date": "2026-07-25",
-   "change": "missing",
-   "lastSeen": "2026-07-20T08:02:35-04:00"
+   "change": "dropped"
   },
   {
    "id": "7c86e21e8510",
@@ -2411,6 +2409,13 @@
    "date": "2026-07-26",
    "change": "missing",
    "lastSeen": "2026-07-21T07:27:02-04:00"
+  },
+  {
+   "id": "01bde8c90f8e",
+   "title": "Twilight Series: The Wolff Sisters with Milton Busker and the Grimm Work",
+   "date": "2026-08-01",
+   "change": "missing",
+   "lastSeen": "2026-07-23T07:28:55-04:00"
   },
   {
    "id": "9e642dbf528c",
