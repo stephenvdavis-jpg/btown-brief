@@ -1,30 +1,30 @@
 {
- "generated": "2026-07-22T17:42:48-04:00",
+ "generated": "2026-07-23T07:28:55-04:00",
  "sources": {
   "bca": {
    "label": "Burlington City Arts",
    "count": 28,
-   "seconds": 7.0
+   "seconds": 5.5
   },
   "breweries": {
    "label": "Breweries & Taprooms",
-   "count": 65,
-   "seconds": 6.8
+   "count": 63,
+   "seconds": 4.6
   },
   "brownell": {
    "label": "Brownell Library",
-   "count": 57,
-   "seconds": 3.2
+   "count": 58,
+   "seconds": 2.7
   },
   "champlainvalley": {
    "label": "Champlain Valley (WFFF calendar)",
-   "count": 160,
-   "seconds": 2.4
+   "count": 157,
+   "seconds": 3.0
   },
   "churchst": {
    "label": "Church Street Marketplace",
-   "count": 86,
-   "seconds": 1.8
+   "count": 85,
+   "seconds": 2.2
   },
   "echo": {
    "label": "ECHO Leahy Center",
@@ -34,27 +34,27 @@
   "eventbrite": {
    "label": "Eventbrite",
    "count": 0,
-   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-22&end_date=2026-09-20&page=1 (HTTP Error 405: Not Allowed)"
+   "error": "fetch failed after 3 tries: https://www.eventbrite.com/d/vt--burlington/all-events/?start_date=2026-07-23&end_date=2026-09-21&page=1 (HTTP Error 405: Not Allowed)"
   },
   "facebook": {
    "label": "Facebook (manual drops)",
-   "count": 119,
+   "count": 112,
    "seconds": 0.1
   },
   "farmersmarket": {
    "label": "Burlington Farmers Market",
    "count": 9,
-   "seconds": 0.4
+   "seconds": 0.2
   },
   "fletcherfree": {
    "label": "Fletcher Free Library",
-   "count": 213,
-   "seconds": 74.6
+   "count": 202,
+   "seconds": 69.6
   },
   "flynn": {
    "label": "The Flynn",
    "count": 18,
-   "seconds": 2.7
+   "seconds": 2.1
   },
   "greenfc": {
    "label": "Vermont Green FC",
@@ -64,12 +64,12 @@
   "helloburlington": {
    "label": "Hello Burlington",
    "count": 750,
-   "seconds": 42.8
+   "seconds": 37.3
   },
   "higherground": {
    "label": "Higher Ground",
    "count": 65,
-   "seconds": 101.4
+   "seconds": 91.1
   },
   "instagram": {
    "label": "Instagram (Scrape Creators)",
@@ -78,28 +78,28 @@
   },
   "loveburlington": {
    "label": "Love Burlington",
-   "count": 567,
-   "seconds": 70.2
+   "count": 556,
+   "seconds": 73.1
   },
   "meetup": {
    "label": "Meetup",
-   "count": 62,
-   "seconds": 133.5
+   "count": 63,
+   "seconds": 118.2
   },
   "parksrec": {
    "label": "Burlington Parks & Rec",
    "count": 20,
-   "seconds": 16.3
+   "seconds": 13.5
   },
   "sblibrary": {
    "label": "South Burlington Public Library",
-   "count": 71,
-   "seconds": 4.2
+   "count": 65,
+   "seconds": 1.5
   },
   "sbrec": {
    "label": "South Burlington Rec & Parks",
-   "count": 46,
-   "seconds": 30.3
+   "count": 44,
+   "seconds": 28.3
   },
   "sevendays": {
    "label": "Seven Days",
@@ -114,163 +114,29 @@
   "uvm": {
    "label": "UVM & Colleges",
    "count": 181,
-   "seconds": 9.2
+   "seconds": 10.6
   },
   "uvmbored": {
    "label": "UVM Bored",
-   "count": 138,
+   "count": 139,
    "seconds": 0.1
   },
   "vcc": {
    "label": "Vermont Comedy Club",
-   "count": 57,
-   "seconds": 74.4
+   "count": 55,
+   "seconds": 71.5
   },
   "winooskilibrary": {
    "label": "Winooski Memorial Library",
-   "count": 30,
-   "seconds": 0.2
+   "count": 29,
+   "seconds": 0.3
   }
  },
- "gathered": 2742,
- "afterDedup": 1350,
- "duplicatesMerged": 1392,
- "final": 2355,
+ "gathered": 2699,
+ "afterDedup": 1315,
+ "duplicatesMerged": 1384,
+ "final": 2286,
  "mergeLog": [
-  {
-   "kept": {
-    "title": "Queer/LGBTQ+ Horror Book Club",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-24"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-24"
-  },
-  {
-   "kept": {
-    "title": "Industry Day",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-24"
-  },
-  {
-   "kept": {
-    "title": "The Ultimate Chocolate Tasting",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-24"
-  },
-  {
-   "kept": {
-    "title": "Everything is Everything: Will Kasso Condry",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-24"
-  },
-  {
-   "kept": {
-    "title": "Dream / Mộng : Veronica Pham",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-24"
-  },
-  {
-   "kept": {
-    "title": "Color & Scale: Leah Barranco",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-24"
-  },
-  {
-   "kept": {
-    "title": "Gregory Alan Isakov with Vermont Symphony Orchestra",
-    "source": "higherground"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "higherground",
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-25"
-  },
-  {
-   "kept": {
-    "title": "Super Smash Tuesdays",
-    "source": "churchst"
-   },
-   "merged_sources": [
-    "churchst",
-    "loveburlington"
-   ],
-   "date": "2026-08-25"
-  },
-  {
-   "kept": {
-    "title": "Farms to Plates: Vermont's Local Food System",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-25"
-  },
-  {
-   "kept": {
-    "title": "Zotero Drop-in Hour",
-    "source": "uvm"
-   },
-   "merged_sources": [
-    "uvm",
-    "uvmbored"
-   ],
-   "date": "2026-08-25"
-  },
-  {
-   "kept": {
-    "title": "Dinosaur Safari Exhibit",
-    "source": "loveburlington"
-   },
-   "merged_sources": [
-    "helloburlington",
-    "loveburlington"
-   ],
-   "date": "2026-08-25"
-  },
   {
    "kept": {
     "title": "802sDay",
@@ -1688,7 +1554,40 @@
   },
   {
    "kept": {
+    "title": "Dinosaur Safari Exhibit",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-06"
+  },
+  {
+   "kept": {
     "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-06"
+  },
+  {
+   "kept": {
+    "title": "Everything is Everything: Will Kasso Condry",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-06"
+  },
+  {
+   "kept": {
+    "title": "Dream / Mộng : Veronica Pham",
     "source": "loveburlington"
    },
    "merged_sources": [
@@ -1736,6 +1635,7 @@
     "source": "higherground"
    },
    "merged_sources": [
+    "helloburlington",
     "higherground",
     "uvm",
     "uvmbored"
@@ -1750,6 +1650,72 @@
    "merged_sources": [
     "uvm",
     "uvmbored"
+   ],
+   "date": "2026-09-07"
+  },
+  {
+   "kept": {
+    "title": "Dinosaur Safari Exhibit",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-07"
+  },
+  {
+   "kept": {
+    "title": "Industry Day",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-07"
+  },
+  {
+   "kept": {
+    "title": "The Ultimate Chocolate Tasting",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-07"
+  },
+  {
+   "kept": {
+    "title": "Everything is Everything: Will Kasso Condry",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-07"
+  },
+  {
+   "kept": {
+    "title": "Dream / Mộng : Veronica Pham",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
+   ],
+   "date": "2026-09-07"
+  },
+  {
+   "kept": {
+    "title": "Color & Scale: Leah Barranco",
+    "source": "loveburlington"
+   },
+   "merged_sources": [
+    "helloburlington",
+    "loveburlington"
    ],
    "date": "2026-09-07"
   },
@@ -2371,6 +2337,30 @@
   },
   {
    "kept": {
+    "title": "Of Monsters and Men",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "higherground",
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-20"
+  },
+  {
+   "kept": {
+    "title": "Jensen McRae",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "higherground",
+    "uvm",
+    "uvmbored"
+   ],
+   "date": "2026-09-20"
+  },
+  {
+   "kept": {
     "title": "Alex Cameron",
     "source": "higherground"
    },
@@ -2379,38 +2369,27 @@
     "higherground"
    ],
    "date": "2026-09-20"
+  },
+  {
+   "kept": {
+    "title": "Cheekface",
+    "source": "higherground"
+   },
+   "merged_sources": [
+    "champlainvalley",
+    "higherground"
+   ],
+   "date": "2026-09-21"
   }
  ],
  "changes": [
   {
-   "id": "d4bc26168276",
-   "title": "Tie Dye Party",
-   "date": "2026-07-24",
+   "id": "8f6cf5630a42",
+   "title": "Industry Day",
+   "date": "2026-09-07",
    "change": "time",
-   "was": "2026-07-24T08:00:00-04:00",
-   "now": "2026-07-24T15:00:00-04:00"
-  },
-  {
-   "id": "36082b2c7254",
-   "title": "Spin Doctors",
-   "date": "2026-08-02",
-   "change": "time",
-   "was": "2026-08-02T19:00:00-04:00",
-   "now": "2026-08-02T18:00:00-04:00"
-  },
-  {
-   "id": "9fa226f8d8f7",
-   "title": "DREAM lunch",
-   "date": "2026-07-22",
-   "change": "missing",
-   "lastSeen": "2026-07-20T08:02:35-04:00"
-  },
-  {
-   "id": "1cf97a6e3bd6",
-   "title": "Dream / Mộng : Veronica Pham",
-   "date": "2026-07-22",
-   "change": "missing",
-   "lastSeen": "2026-07-21T07:27:02-04:00"
+   "was": "2026-09-07",
+   "now": "2026-09-07T11:30:00-04:00"
   },
   {
    "id": "ae9e8f183044",
@@ -2434,29 +2413,11 @@
    "lastSeen": "2026-07-21T07:27:02-04:00"
   },
   {
-   "id": "76c98e6a1e9e",
-   "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
-   "date": "2026-07-27",
-   "change": "dropped"
-  },
-  {
-   "id": "40c0752502a8",
-   "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
-   "date": "2026-08-03",
-   "change": "dropped"
-  },
-  {
    "id": "9e642dbf528c",
    "title": "Grief Group",
    "date": "2026-08-05",
    "change": "missing",
    "lastSeen": "2026-07-21T07:27:02-04:00"
-  },
-  {
-   "id": "c809bf7713e0",
-   "title": "Community of Poets Sharing Circle with Darlene Witte March 9 2026 7 PM",
-   "date": "2026-08-10",
-   "change": "dropped"
   },
   {
    "id": "a3d0c19075db",
@@ -2466,18 +2427,25 @@
    "lastSeen": "2026-07-22T07:27:55-04:00"
   },
   {
-   "id": "5db687119470",
-   "title": "MASKS ON! Sundays at ECHO",
+   "id": "97ebdd64fbe7",
+   "title": "Dinosaur Safari Exhibit",
    "date": "2026-09-06",
    "change": "missing",
-   "lastSeen": "2026-07-22T07:27:55-04:00"
+   "lastSeen": "2026-07-22T17:42:48-04:00"
   },
   {
-   "id": "4b2433c64021",
-   "title": "Karaoke Sundays!",
+   "id": "9430acfecd78",
+   "title": "Dream / Mộng : Veronica Pham",
    "date": "2026-09-06",
    "change": "missing",
-   "lastSeen": "2026-07-22T07:27:55-04:00"
+   "lastSeen": "2026-07-22T17:42:48-04:00"
+  },
+  {
+   "id": "9488fb48a64f",
+   "title": "Dinosaur Safari Exhibit",
+   "date": "2026-09-07",
+   "change": "missing",
+   "lastSeen": "2026-07-22T17:42:48-04:00"
   },
   {
    "id": "63caf8e3d2a3",
