@@ -1,28 +1,6 @@
 {
- "generated": "2026-07-23T17:52:13+00:00",
+ "generated": "2026-07-23T19:52:37+00:00",
  "events": [
-  {
-   "ts": "2026-07-16T18:36:16+00:00",
-   "category": "weather",
-   "headline": "This Afternoon: Areas of smoke and a chance of showers and thunderstorms before 5pm",
-   "detail": "",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 2,
-   "kind": "changed"
-  },
-  {
-   "ts": "2026-07-16T19:45:00+00:00",
-   "category": "news",
-   "headline": "E-bike rider seriously injured in downtown Burlington crash, police say",
-   "detail": "",
-   "url": "https://www.mynbc5.com/article/pine-street-burlington-e-bike-crash/72769533",
-   "source": "mynbc5",
-   "sourceName": "NBC5",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-16T19:57:00+00:00",
    "category": "news",
@@ -2563,6 +2541,17 @@
    "sourceName": "City meeting portal",
    "priority": 2,
    "kind": "changed"
+  },
+  {
+   "ts": "2026-07-23T18:59:51+00:00",
+   "category": "news",
+   "headline": "Police identify man who drowned in Lake Champlain",
+   "detail": "",
+   "url": "https://www.wcax.com/2026/07/23/police-identify-man-who-drowned-lake-champlain/",
+   "source": "wcax",
+   "sourceName": "WCAX",
+   "priority": 1,
+   "kind": "added"
   }
  ]
 }
