@@ -597,6 +597,13 @@
    "vtdigger": {
     "items": [
      {
+      "id": "https://vtdigger.org/?p=652029",
+      "title": "Wanted: Large space for 100-bed emergency shelter in Chittenden County",
+      "link": "https://vtdigger.org/2026/07/24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county/",
+      "ts": "2026-07-24T09:15:00+00:00",
+      "summary": "If a suitable location is found, the year-round shelter would be the largest in the state, and could help stem the high number of people sleeping outdoors. Read the story on VTDigger here: Wanted: Large space for 100-bed emergency shelter in Chittenden County ."
+     },
+     {
       "id": "https://vtdigger.org/?p=652039",
       "title": "Vermont to give local news priority for state advertising dollars",
       "link": "https://vtdigger.org/2026/07/23/vermont-to-give-local-news-priority-for-state-advertising-dollars/",
@@ -798,18 +805,25 @@
       "link": "https://vtdigger.org/2026/07/20/in-vermonts-democratic-primary-for-lieutenant-governor-leading-candidates-past-work-takes-center-stage/",
       "ts": "2026-07-20T10:56:00+00:00",
       "summary": "Molly Gray, who held the job from 2021-2023, says she’d be ready to hit the ground running. Ryan McLaren thinks otherwise: “We can do better than politicians from the past.” Read the story on VTDigger here: In Vermont’s Democratic primary for lieutenant governor, leading candidates’ past work takes center stage ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651554",
-      "title": "‘If we don’t write it down, it disappears’: Independent historian gathers Vermont veterans’ stories before they are lost to history",
-      "link": "https://vtdigger.org/2026/07/19/if-we-dont-write-it-down-it-disappears-independent-historian-gathers-vermont-veterans-stories-before-they-are-lost-to-history/",
-      "ts": "2026-07-19T12:51:00+00:00",
-      "summary": "What he’s trying to save isn’t just military history. It’s a way of understanding the past through another's lived experience. Read the story on VTDigger here: If we don’t write it down, it disappears’: Independent historian gathers Vermont veterans’ stories before they are lost to history ."
      }
     ]
    },
    "vermont-public": {
     "items": [
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-24/cricket-blue-weaves-intricate-storylines-into-compact-and-complex-tunes",
+      "title": "Cricket Blue weaves intricate storylines into compact and complex tunes",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-24/cricket-blue-weaves-intricate-storylines-into-compact-and-complex-tunes",
+      "ts": "2026-07-24T09:00:00+00:00",
+      "summary": "This week's Friday Song is \"Ella 1\" from the Vermont-based chamber folk duo."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county",
+      "title": "Wanted: Large space for 100-bed emergency shelter in Chittenden County",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county",
+      "ts": "2026-07-24T09:00:00+00:00",
+      "summary": "If a suitable location is found, the year-round shelter would be the largest in the state, and could help stem the high number of people sleeping outdoors."
+     },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-23/mega-masters-hearings-pack-immigration-court-dockets-experts-say-its-a-strategy-to-deport-people-faster",
       "title": "'Mega masters' hearings pack immigration court dockets. Experts say it's a strategy to deport people faster",
@@ -825,18 +839,18 @@
       "summary": "Amanda Janoo and Aly Richards are vying for the Democratic nomination to be Vermont's next top elected official."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
-      "title": "Middlebury College researcher banned from animal lab following rat accident",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
-      "ts": "2026-07-23T09:00:00+00:00",
-      "summary": "The incident isn’t the first time compliance issues have cropped up during rat-based research at the college."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
       "title": "Vermont political candidates are flouting campaign finance laws, report finds",
       "link": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
       "ts": "2026-07-23T09:00:00+00:00",
       "summary": "Vermont law requires candidates for state, county and municipal offices to disclose the sources of their campaign contributions, but a new report finds that 20% of candidates running this year haven't filed reports."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
+      "title": "Middlebury College researcher banned from animal lab following rat accident",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
+      "ts": "2026-07-23T09:00:00+00:00",
+      "summary": "The incident isn’t the first time compliance issues have cropped up during rat-based research at the college."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-22/brattleboro-contemplates-raising-tax-money-keep-birth-center-open",
@@ -879,20 +893,6 @@
       "link": "https://www.vermontpublic.org/local-news/2026-07-21/appeals-court-reverses-decision-that-freed-pro-palestinian-activist-mohsen-mahdawi",
       "ts": "2026-07-21T18:49:28+00:00",
       "summary": "The ruling from the 2nd U.S. Circuit Court of Appeals in New York overturns a previous decision by a federal judge in Vermont, which likened the government's efforts to expel him and other activists to McCarthyist repression."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-21/washington-central-school-district-vote-new-process-closing-small-schools",
-      "title": "Washington Central school district will vote on new process for closing small schools",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-21/washington-central-school-district-vote-new-process-closing-small-schools",
-      "ts": "2026-07-21T17:33:37+00:00",
-      "summary": "Less than six months after Calais and Worcester voted to keep their schools open, a new vote has been warned to take away the decision-making process from the towns, and allow the whole district to decide the fate of the small schools."
-     },
-     {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
-      "title": "Trump imposes 50% tariffs on Canadian goods, citing disputes over autos, alcohol and cheese",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-20/trump-imposes-50-tariffs-on-canadian-goods-citing-disputes-over-autos-alcohol-and-cheese",
-      "ts": "2026-07-21T01:03:36+00:00",
-      "summary": "The new 50% tariffs would exclude energy products, potash, fish and critical minerals, but they would include goods that had previously been protected from import taxes by the United States-Mexico-Canada Agreement."
      }
     ]
    },
@@ -1253,11 +1253,18 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73254170",
+      "title": "States sue Trump administration after it put conditions on receiving disaster funding",
+      "link": "https://www.mynbc5.com/article/states-sue-trump-disaster-funding/73254170",
+      "ts": "2026-07-24T09:29:00+00:00",
+      "summary": "More than two dozen states sued the Trump administration for requiring them to comply with election and immigration conditions to receive disaster funding."
+     },
+     {
       "id": "73252679",
-      "title": "US strikes Iran and Bahrain warns of incoming fire",
+      "title": "Explosions heard near US base in northern Iraq after US strikes Iran",
       "link": "https://www.mynbc5.com/article/us-strikes-iran-and-bahrain-warns-of-incoming-fire/73252679",
-      "ts": "2026-07-24T05:40:00+00:00",
-      "summary": "Bahrain activated its sirens early Friday, warning residents to shelter from detected fire hours after the U.S. military said it had wrapped up its 13th night of strikes against Iran."
+      "ts": "2026-07-24T08:49:00+00:00",
+      "summary": "A series of explosions were heard near a military base hosting U.S. forces in northern Iraq, hours after the U.S. military had wrapped up another night of strikes against Iran."
      },
      {
       "id": "73252539",
@@ -1384,13 +1391,6 @@
       "link": "https://www.mynbc5.com/article/bmh-maternity-care-center/73250451",
       "ts": "2026-07-23T22:05:00+00:00",
       "summary": "Vermont state officials provided an update Thursday on talks between them and Brattleboro Memorial Hospital after the hospital announced that it would close its birthing center due to financial strain."
-     },
-     {
-      "id": "73250704",
-      "title": "Beautiful final weekend of July",
-      "link": "https://www.mynbc5.com/article/beautiful-final-weekend-of-july72326/73250704",
-      "ts": "2026-07-23T22:04:54+00:00",
-      "summary": "Spot shower Sunday"
      }
     ]
    },
