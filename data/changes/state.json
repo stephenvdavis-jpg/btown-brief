@@ -26,22 +26,22 @@
    "Leddy Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-23T14:15:00+00:00"
+    "resultTime": "2026-07-24T15:26:00+00:00"
    },
    "Leddy Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-23T14:14:00+00:00"
+    "resultTime": "2026-07-24T15:27:00+00:00"
    },
    "North Beach North": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-23T14:04:00+00:00"
+    "resultTime": "2026-07-24T15:37:00+00:00"
    },
    "North Beach South": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-23T14:02:00+00:00"
+    "resultTime": "2026-07-24T15:36:00+00:00"
    },
    "North Shore Natural Area": {
     "status": "open",
@@ -56,7 +56,7 @@
    "Texaco Beach": {
     "status": "open",
     "reason": "Open",
-    "resultTime": "2026-07-23T13:58:00+00:00"
+    "resultTime": "2026-07-24T15:37:00+00:00"
    }
   }
  },
@@ -376,7 +376,7 @@
     "title": "Service Alert :: Essex Junction",
     "link": "https://ridegmt.com/service-alert-essex-junction-2/",
     "ts": "2026-07-24T14:14:50+00:00",
-    "summary": "The July 24 10:00 AM toward Essex Junction is experiencing significant delays of approximately 10 minutes due to maintenance. We apologize for the inconvenience."
+    "summary": "The July 24 10:00 AM trip on Route 2 toward Essex Junction has been canceled due to maintenance."
    },
    {
     "id": "https://ridegmt.com/?p=24075",
@@ -458,6 +458,15 @@
     "files": [
      "Agenda",
      "Agenda Packet"
+    ]
+   },
+   "10087": {
+    "name": "Police Commission Meeting",
+    "start": "2026-07-28T18:00:00+00:00",
+    "hasAgenda": true,
+    "files": [
+     "Police Commission Meeting 07.28.26",
+     "Police Commission Meeting"
     ]
    },
    "9960": {
@@ -818,18 +827,18 @@
    "vermont-public": {
     "items": [
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-24/cricket-blue-weaves-intricate-storylines-into-compact-and-complex-tunes",
-      "title": "Cricket Blue weaves intricate storylines into compact and complex tunes",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-24/cricket-blue-weaves-intricate-storylines-into-compact-and-complex-tunes",
-      "ts": "2026-07-24T09:00:00+00:00",
-      "summary": "This week's Friday Song is \"Ella 1\" from the Vermont-based chamber folk duo."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county",
       "title": "Wanted: Large space for 100-bed emergency shelter in Chittenden County",
       "link": "https://www.vermontpublic.org/local-news/2026-07-24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county",
       "ts": "2026-07-24T09:00:00+00:00",
       "summary": "If a suitable location is found, the year-round shelter would be the largest in the state, and could help stem the high number of people sleeping outdoors."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-24/cricket-blue-weaves-intricate-storylines-into-compact-and-complex-tunes",
+      "title": "Cricket Blue weaves intricate storylines into compact and complex tunes",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-24/cricket-blue-weaves-intricate-storylines-into-compact-and-complex-tunes",
+      "ts": "2026-07-24T09:00:00+00:00",
+      "summary": "This week's Friday Song is \"Ella 1\" from the Vermont-based chamber folk duo."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-23/mega-masters-hearings-pack-immigration-court-dockets-experts-say-its-a-strategy-to-deport-people-faster",
@@ -910,28 +919,35 @@
       "title": "Tree falls on Claremont school bus",
       "link": "https://www.wcax.com/2026/07/24/tree-falls-claremont-school-bus/",
       "ts": "2026-07-24T12:10:02+00:00",
-      "summary": "A scary ride home for some Claremont, N.H. sixth graders on Wednesday when a falling tree slammed into their school bus"
+      "summary": "A scary ride home for some New Hampshire sixth graders when a falling tree slammed into their school bus."
      },
      {
       "id": "6RM3AIIY6RA3PKNI56XXT3PBLI",
       "title": "Bakery on wheels provides opportunities for students",
       "link": "https://www.wcax.com/2026/07/24/bakery-wheels-provides-opportunities-students/",
       "ts": "2026-07-24T11:41:37+00:00",
-      "summary": "The bakery is called the Mobile Mug, where every recipe creates new opportunities"
+      "summary": "The bakery is called the Mobile Mug, where every recipe creates new opportunities."
      },
      {
       "id": "LPD7FUFGRBB33AH5PAPV3DOXW4",
       "title": "Court hearing for Newport woman accused of killing her ex-boyfriend",
       "link": "https://www.wcax.com/2026/07/24/court-hearing-newport-woman-accused-killing-her-ex-boyfriend/",
       "ts": "2026-07-24T11:01:30+00:00",
-      "summary": "Ariana Rodger faces a judge Friday in Orleans County court for the murder of her ex-boyfriend"
+      "summary": "Ariana Rodger faces a judge Friday in Orleans County court."
      },
      {
       "id": "UIAOIWXJ5JDCZHD2AQXTRH5YHE",
       "title": "Deli vandalism suspect turns himself in",
       "link": "https://www.wcax.com/2026/07/24/deli-vandalism-suspect-turns-himself/",
       "ts": "2026-07-24T10:45:29+00:00",
-      "summary": "A person caught on video vandalizing a deli in Rutland has turned himself in"
+      "summary": "A person caught on video who appeared to be vandalizing a deli in Rutland has turned himself in."
+     },
+     {
+      "id": "4W4N66H73NHXBLDPU7GEPNJ4AA",
+      "title": "Canadian-American woman pleads guilty in deadly human smuggling conspiracy",
+      "link": "https://www.wcax.com/2026/07/24/canadian-american-woman-pleads-guilty-deadly-human-smuggling-conspiracy/",
+      "ts": "2026-07-24T10:23:23+00:00",
+      "summary": "A Canadian-American woman could spend the rest of her life in prison after pleading guilty to her role in a deadly human smuggling conspiracy, the Department of Justice said."
      },
      {
       "id": "S5BHETCDUVAKVCHCEVCCKOQH3I",
@@ -942,10 +958,10 @@
      },
      {
       "id": "VQW4QLHQSNAAHGNQFTQW3GIYOA",
-      "title": "Bicyclist hurt in crash with car",
+      "title": "Bicyclist injured in crash with car",
       "link": "https://www.wcax.com/2026/07/24/bicyclist-hurt-crash-with-car/",
       "ts": "2026-07-24T01:12:09+00:00",
-      "summary": "Vermont State Police say a bicyclist was minorly hurt after being hit by a car."
+      "summary": "Vermont State Police say a bicyclist suffered minor injuries after being hit by a car."
      },
      {
       "id": "PBSGAXI7K5B7DOJUZ42YZTVZRU",
@@ -1247,18 +1263,46 @@
       "link": "https://www.wcax.com/2026/07/22/fire-cadyville-business-under-investigation-not-believed-suspicious/",
       "ts": "2026-07-22T19:09:15+00:00",
       "summary": "Investigators are trying to figure out what sparked a fire and apparent explosion at a Clinton County, New York, business Tuesday evening."
-     },
-     {
-      "id": "N7LSATGMZVC2BAYUKL44MOLZ2U",
-      "title": "Man, 93, dies after UTV overturns",
-      "link": "https://www.wcax.com/2026/07/22/man-93-dies-after-utv-overturns/",
-      "ts": "2026-07-22T19:03:18+00:00",
-      "summary": "A 93-year-old Ogdensburg, New York, man died Tuesday evening after the utility terrain vehicle he was driving overturned."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73257399",
+      "title": "LeBron James signs two-year deal with Philadelphia 76ers",
+      "link": "https://www.mynbc5.com/article/lebron-james-philadelphia-76ers/73257399",
+      "ts": "2026-07-24T15:46:00+00:00",
+      "summary": "LeBron James is heading to Philadelphia."
+     },
+     {
+      "id": "73257245",
+      "title": "There are already more US measles cases this year than in all of 2025",
+      "link": "https://www.mynbc5.com/article/us-measles-cases-top-record/73257245",
+      "ts": "2026-07-24T15:40:00+00:00",
+      "summary": "The number of measles cases in the U.S. has surpassed the record-breaking tally for all of 2025, with 2,318 cases and 5 more months left in the year."
+     },
+     {
+      "id": "73257165",
+      "title": "Charlotte, VT restaurant celebrates 5th anniversary with community dinner",
+      "link": "https://www.mynbc5.com/article/backyard-bistro-charlottee-5-years/73257165",
+      "ts": "2026-07-24T15:39:00+00:00",
+      "summary": "Local restaurant, Backyard Bistro, is celebrating its fifth anniversary. After a rocky start, the owners are hosting a special event, featuring live music and a special menu, to thank the community for their support."
+     },
+     {
+      "id": "73256618",
+      "title": "Journalists urge correspondents' association to stand up to Trump at rescheduled press dinner",
+      "link": "https://www.mynbc5.com/article/trump-white-house-correspondents-association-dinner-july-24-2026/73256618",
+      "ts": "2026-07-24T15:06:00+00:00",
+      "summary": "President Trump is expected to attend the White House correspondents’ dinner Friday – which was rescheduled after the first dinner in April was cut short due to a shooting."
+     },
+     {
+      "id": "73249771",
+      "title": "Vermont tech hub unveils nation’s first public-access semiconductor test facility",
+      "link": "https://www.mynbc5.com/article/vermont-tech-hub-opens/73249771",
+      "ts": "2026-07-24T14:26:00+00:00",
+      "summary": "A new facility aimed at helping companies bring advanced semiconductor technologies from the research stage to commercial products opened Thursday in South Burlington."
+     },
      {
       "id": "73256238",
       "title": "Teenager pleads guilty in 2024 fatal shooting at Apalachee High School in Georgia",
@@ -1363,53 +1407,11 @@
       "link": "https://www.mynbc5.com/article/christopher-anne-affleck-dies/73255120",
       "ts": "2026-07-24T11:35:00+00:00",
       "summary": "Christopher Anne “Chris” Affleck, the mother of Ben and Casey Affleck, has died at 83."
-     },
-     {
-      "id": "73254873",
-      "title": "NYPD investigates possible hate crime after 2 men were stabbed",
-      "link": "https://www.mynbc5.com/article/man-arrested-stabbing-new-york-hate-crime-investigation/73254873",
-      "ts": "2026-07-24T11:02:00+00:00",
-      "summary": "A man was arrested after police said he stabbed two men in separate attacks that the NYPD is investigating as possible hate crimes."
-     },
-     {
-      "id": "73250704",
-      "title": "Beautiful final weekend of July",
-      "link": "https://www.mynbc5.com/article/beautiful-final-weekend-of-july72326/73250704",
-      "ts": "2026-07-24T10:52:00+00:00",
-      "summary": "Spot shower Sunday"
-     },
-     {
-      "id": "73254724",
-      "title": "EU finds TikTok violates its digital rule book by failing to protect privacy of minors",
-      "link": "https://www.mynbc5.com/article/tiktok-eu-children-privacy-rights-investigation/73254724",
-      "ts": "2026-07-24T10:35:00+00:00",
-      "summary": "The EU said it found TikTok had not adequately protected children’s privacy rights on its platform by allowing adults to view the accounts of minors."
-     },
-     {
-      "id": "73254252",
-      "title": "VIDEO: Seaplane crashes off Washington coast, 11 people rescued",
-      "link": "https://www.mynbc5.com/article/seaplane-emergency-landing-sucia-island/73254252",
-      "ts": "2026-07-24T10:08:00+00:00",
-      "summary": "Multiple people have been rescued after a seaplane carrying 11 people made an emergency landing off the coast of Washington."
-     },
-     {
-      "id": "73254170",
-      "title": "States sue Trump administration after it put conditions on receiving disaster funding",
-      "link": "https://www.mynbc5.com/article/states-sue-trump-disaster-funding/73254170",
-      "ts": "2026-07-24T09:29:00+00:00",
-      "summary": "More than two dozen states sued the Trump administration for requiring them to comply with election and immigration conditions to receive disaster funding."
      }
     ]
    },
    "btv-news-releases": {
     "items": [
-     {
-      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3858/639204775910000000",
-      "title": "Closed 7/24 from 8:45 - 10:00am.",
-      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3858",
-      "ts": "2026-07-24T13:13:11+00:00",
-      "summary": "The Clerk Treasurer's Office will be closed on Friday, 7/24 from 8:45 - 10am for staff training"
-     },
      {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3857/639203252330000000",
       "title": "UPDATE 07/05/2026 Aggravated Assault - Gunfire Incident | 26BU014857 and 26BU014859",
