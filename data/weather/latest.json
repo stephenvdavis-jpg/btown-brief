@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-23T23:41:31+00:00",
+ "updated": "2026-07-24T01:11:51+00:00",
  "sections_updated": {
-  "now": "2026-07-23T23:41:31+00:00",
-  "forecast": "2026-07-23T23:41:31+00:00",
-  "hourly": "2026-07-23T23:41:31+00:00",
-  "alerts": "2026-07-23T23:41:31+00:00",
-  "afd": "2026-07-23T23:41:31+00:00",
-  "lake_forecast": "2026-07-23T23:41:31+00:00",
-  "lake_gage": "2026-07-23T23:41:31+00:00",
-  "air": "2026-07-23T23:41:31+00:00",
-  "sun": "2026-07-23T23:41:31+00:00",
-  "models": "2026-07-23T23:41:31+00:00"
+  "now": "2026-07-24T01:11:51+00:00",
+  "forecast": "2026-07-24T01:11:51+00:00",
+  "hourly": "2026-07-24T01:11:51+00:00",
+  "alerts": "2026-07-24T01:11:51+00:00",
+  "afd": "2026-07-24T01:11:51+00:00",
+  "lake_forecast": "2026-07-24T01:11:51+00:00",
+  "lake_gage": "2026-07-24T01:11:51+00:00",
+  "air": "2026-07-24T01:11:51+00:00",
+  "sun": "2026-07-24T01:11:51+00:00",
+  "models": "2026-07-24T01:11:51+00:00"
  },
  "now": {
-  "observed_at": "2026-07-23T23:25:00+00:00",
+  "observed_at": "2026-07-24T00:45:00+00:00",
   "station": "KBTV",
   "description": "Mostly Cloudy",
-  "temp_f": 73,
-  "feels_like_f": 72,
-  "humidity": 44,
-  "dewpoint_f": 50,
-  "wind_mph": 6,
+  "temp_f": 72,
+  "feels_like_f": 71,
+  "humidity": 53,
+  "dewpoint_f": 54,
+  "wind_mph": 0,
   "wind_gust_mph": null,
-  "wind_dir": "WNW"
+  "wind_dir": "N"
  },
  "forecast": {
   "updated": "2026-07-23T18:15:58+00:00",
@@ -32,9 +32,9 @@
     "is_day": false,
     "temp_f": 59,
     "pop": 0,
-    "wind": "S 3 to 7 mph",
+    "wind": "S 6 mph",
     "short": "Mostly Clear",
-    "detailed": "Mostly clear, with a low around 59. South wind 3 to 7 mph."
+    "detailed": "Mostly clear, with a low around 59. South wind around 6 mph."
    },
    {
     "name": "Friday",
@@ -86,28 +86,6 @@
  "hourly": {
   "updated": "2026-07-23T18:15:58+00:00",
   "hours": [
-   {
-    "t": "2026-07-23T19:00:00-04:00",
-    "temp_f": 75,
-    "feels_f": 75,
-    "pop": 0,
-    "humidity": 41,
-    "wind_mph": 7,
-    "wind_dir": "W",
-    "sky": 16,
-    "short": "Mostly Clear"
-   },
-   {
-    "t": "2026-07-23T20:00:00-04:00",
-    "temp_f": 74,
-    "feels_f": 74,
-    "pop": 0,
-    "humidity": 48,
-    "wind_mph": 5,
-    "wind_dir": "W",
-    "sky": 27,
-    "short": "Partly Cloudy"
-   },
    {
     "t": "2026-07-23T21:00:00-04:00",
     "temp_f": 72,
@@ -481,6 +459,28 @@
     "wind_dir": "S",
     "sky": 4,
     "short": "Sunny"
+   },
+   {
+    "t": "2026-07-25T07:00:00-04:00",
+    "temp_f": 62,
+    "feels_f": 62,
+    "pop": 0,
+    "humidity": 75,
+    "wind_mph": 6,
+    "wind_dir": "S",
+    "sky": 12,
+    "short": "Sunny"
+   },
+   {
+    "t": "2026-07-25T08:00:00-04:00",
+    "temp_f": 67,
+    "feels_f": 67,
+    "pop": 0,
+    "humidity": 63,
+    "wind_mph": 7,
+    "wind_dir": "S",
+    "sky": 13,
+    "short": "Sunny"
    }
   ]
  },
@@ -488,13 +488,13 @@
   "active": []
  },
  "afd": {
-  "issued": "2026-07-23T18:17:00+00:00",
+  "issued": "2026-07-24T00:11:00+00:00",
   "key_messages": [
    "Dry and seasonably warm weather will continue through the end of the week as high pressure settles over the region.",
    "Unsettled weather returns next week."
   ],
   "what_changed": "As of 216 PM EDT Thursday... No significant changes to the forecast.",
-  "raw": "\n000\nFXUS61 KBTV 231817\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n217 PM EDT Thu Jul 23 2026\n\n.WHAT HAS CHANGED...\nAs of 216 PM EDT Thursday...\n\nNo significant changes to the forecast.\n\n&&\n\n.KEY MESSAGES...\nAs of 216 PM EDT Thursday...\n\n1. Dry and seasonably warm weather will continue through the \nend of the week as high pressure settles over the region.\n\n2. Unsettled weather returns next week.\n\n&&\n\n.DISCUSSION...\nAs of 216 PM EDT Thursday...\n\nKEY MESSAGE 1: Surface high pressure is beginning to build into the \nregion from the west, where is is currently centered over the Great \nLakes. A few diurnally driven fair weather cumulus clouds have \ndeveloped over the higher terrain and downslope regions of the \nAdirondacks, but otherwise the rest of today will remain clear and \npleasant. Breezy conditions on the periphery of the high will weaken \ntowards this evening with winds trending towards calm Our incoming \nairmass for the weekend will be quite dry with relative humidities \nfalling to near 25-30% with dewpoints into the upper 40s to near 50 \ntomorrow and Saturday. Given how low dewpoints will be with clear \novernight skies, good radiational cooling is expected tonight and \ntomorrow night with temperatures cooling to the upper 40s to upper \n50s (warmer locations near the Champlain Valley due to the warmer \nlake temperatures). A few favored locations in the Adirondacks and \neastern Vermont could even lower to the low to mid 40s tonight and \nFriday night. As the center of the high moves overhead Friday into \nSaturday, winds will remain calm, with light channeled flow in the \nChamplain Valley which could bring some light southerly breezes \naround 5-10 mph. Temperatures will gradually warm tomorrow and \nSaturday with highs increasing towards the upper 80s by Saturday. \nThankfully, humidity will remain low with an unfavorable moisture \nadvection pattern. A pattern change will begin late Sunday with the \napproach of a weak cold front as our pattern turns more troughy \ninto next week. General expectations are that the bulk of any \nprecipitation will hold off until Sunday night, though a few \nisolated terrain driven showers may be possible Sunday afternoon in \nthe Adirondacks.\n\nKEY MESSAGE 2: A weak omega block is slated to develop across the US \nfor much of next week as the Bermuda high across the western \nAtlantic builds northward with a strengthening ridge also expected \nacross the west/central US. This will leave New England underneath \nan upper level trough which will likely bring diurnal rain and/or \nthunderstorm chances with temperatures at or slightly below seasonal \nnormals. Monday and Tuesday right now appear to be the wettest days \nof the upcoming week as a cold front should slowly push through the \nregion as a lack of deep layer flow will struggle to push the front \neastward. This could lead to a period of moderate rainfall but \nrainfall rates themselves will not be too impressive given the \ndeeper moisture will be shunted much further south and east. Behind \nthe cold front on Wednesday, we will see steep mid-level lapse rates \ndue to cooler air sinking south which will support diurnal showers \nand maybe a rumble of thunder. WPC does have us in a marginal ERO \nfor Monday but the lack of deep moisture will likely preclude any \nflooding potential.\n\n&&\n\n.AVIATION /18Z THURSDAY THROUGH TUESDAY/...\nThrough 18Z Friday...VFR conditions are expected through the forecast\nperiod. Some mid- level cumulus has developed today due to plentiful\nsunshine with these clouds expected to dissipate following sunset\nleading to mostly clear skies overnight into Friday morning. Gusty\nsouth/southwest winds are expected to continue through 23Z-00Z with\nlight and variable winds expected overnight. There is a low chance\nwe could see some \"sunrise surprise\" fog at KMPV and KSLK but the\nprobability is below 30%. Winds will be lighter on Friday with winds\nfrom the south at less than 10 knots.\n\nOutlook...\n\nFriday Night: VFR. NO SIG WX.\nSaturday: VFR. NO SIG WX.\nSaturday Night: VFR. NO SIG WX.\nSunday: VFR. Slight chance SHRA, Slight chance TSRA.\nSunday Night: VFR. Slight chance SHRA.\nMonday: Mainly VFR, with local MVFR possible. Chance SHRA, Slight\nchance TSRA.\nMonday Night: VFR. Chance SHRA, Slight chance TSRA.\nTuesday: Mainly MVFR, with areas IFR possible. Likely SHRA,\nChance TSRA.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Danzig\nDISCUSSION...Clay/Danzig\nAVIATION...Clay\n"
+  "raw": "\n000\nFXUS61 KBTV 240011\nAFDBTV\n\nArea Forecast Discussion\nNational Weather Service Burlington VT\n811 PM EDT Thu Jul 23 2026\n\n.WHAT HAS CHANGED...\nAs of 216 PM EDT Thursday...\n\nNo significant changes to the forecast.\n\n&&\n\n.KEY MESSAGES...\nAs of 216 PM EDT Thursday...\n\n1. Dry and seasonably warm weather will continue through the \nend of the week as high pressure settles over the region.\n\n2. Unsettled weather returns next week.\n\n&&\n\n.DISCUSSION...\nAs of 216 PM EDT Thursday...\n\nKEY MESSAGE 1: Surface high pressure is beginning to build into the \nregion from the west, where is is currently centered over the Great \nLakes. A few diurnally driven fair weather cumulus clouds have \ndeveloped over the higher terrain and downslope regions of the \nAdirondacks, but otherwise the rest of today will remain clear and \npleasant. Breezy conditions on the periphery of the high will weaken \ntowards this evening with winds trending towards calm Our incoming \nairmass for the weekend will be quite dry with relative humidities \nfalling to near 25-30% with dewpoints into the upper 40s to near 50 \ntomorrow and Saturday. Given how low dewpoints will be with clear \novernight skies, good radiational cooling is expected tonight and \ntomorrow night with temperatures cooling to the upper 40s to upper \n50s (warmer locations near the Champlain Valley due to the warmer \nlake temperatures). A few favored locations in the Adirondacks and \neastern Vermont could even lower to the low to mid 40s tonight and \nFriday night. As the center of the high moves overhead Friday into \nSaturday, winds will remain calm, with light channeled flow in the \nChamplain Valley which could bring some light southerly breezes \naround 5-10 mph. Temperatures will gradually warm tomorrow and \nSaturday with highs increasing towards the upper 80s by Saturday. \nThankfully, humidity will remain low with an unfavorable moisture \nadvection pattern. A pattern change will begin late Sunday with the \napproach of a weak cold front as our pattern turns more troughy \ninto next week. General expectations are that the bulk of any \nprecipitation will hold off until Sunday night, though a few \nisolated terrain driven showers may be possible Sunday afternoon in \nthe Adirondacks.\n\nKEY MESSAGE 2: A weak omega block is slated to develop across the US \nfor much of next week as the Bermuda high across the western \nAtlantic builds northward with a strengthening ridge also expected \nacross the west/central US. This will leave New England underneath \nan upper level trough which will likely bring diurnal rain and/or \nthunderstorm chances with temperatures at or slightly below seasonal \nnormals. Monday and Tuesday right now appear to be the wettest days \nof the upcoming week as a cold front should slowly push through the \nregion as a lack of deep layer flow will struggle to push the front \neastward. This could lead to a period of moderate rainfall but \nrainfall rates themselves will not be too impressive given the \ndeeper moisture will be shunted much further south and east. Behind \nthe cold front on Wednesday, we will see steep mid-level lapse rates \ndue to cooler air sinking south which will support diurnal showers \nand maybe a rumble of thunder. WPC does have us in a marginal ERO \nfor Monday but the lack of deep moisture will likely preclude any \nflooding potential.\n\n&&\n\n.AVIATION /00Z FRIDAY THROUGH TUESDAY/...\nThrough 00Z Saturday...VFR conditions overnight with just a\nsmall (10-15%) probability of IFR or lower conditions near\nsunrise at MPV/SLK in some shallow ground fog. However, given\ndry air at the surface, still some boundary layer winds, and 2\ndays removed from rainfall, feel potential is low at this time.\nOtherwise, any lingering mid level clouds will dissipate with\nmostly clear skies overnight and light south-southwest winds 2\nto 6 knots. VFR conditions continue on Friday with south to\nsouthwest winds 5 to 10 knots as high pressure prevails. \n\nOutlook...\n\nFriday Night: VFR. NO SIG WX.\nSaturday: VFR. NO SIG WX.\nSaturday Night: VFR. NO SIG WX.\nSunday: VFR. Slight chance SHRA, Slight chance TSRA.\nSunday Night: VFR. Slight chance SHRA.\nMonday: Mainly VFR, with local IFR possible. Chance SHRA, Slight\nchance TSRA.\nMonday Night: VFR. Chance SHRA, Slight chance TSRA.\nTuesday: Mainly VFR, with local IFR possible. Likely SHRA, Chance\nTSRA.\n\n&&\n\n.BTV WATCHES/WARNINGS/ADVISORIES...\nVT...None.\nNY...None.\n\n&&\n\n$$\n\nWHAT HAS CHANGED...Danzig\nDISCUSSION...Danzig/Clay\nAVIATION...Taber\n"
  },
  "lake_forecast": {
   "issued": "2026-07-23T18:15:00+00:00",
@@ -766,9 +766,9 @@
  },
  "lake_gage": {
   "water_temp_f": 72,
-  "water_temp_at": "2026-07-23T19:00:00.000-04:00",
-  "level_ft": 95.72,
-  "level_at": "2026-07-23T19:00:00.000-04:00",
+  "water_temp_at": "2026-07-23T21:00:00.000-04:00",
+  "level_ft": 95.73,
+  "level_at": "2026-07-23T21:00:00.000-04:00",
   "level_status": "normal"
  },
  "air": {
@@ -776,7 +776,7 @@
   "aqi": 34,
   "category": "Good",
   "pollutant": "OZONE",
-  "observed": "07/23/26 19:00",
+  "observed": "07/23/26 20:00",
   "discussion": "Expect generally good air quality across Vermont for Friday, July 24th."
  },
  "sun": {
@@ -792,7 +792,7 @@
     "date": "2026-07-23",
     "high_f": {
      "GFS": 79,
-     "Euro": 77,
+     "Euro": 78,
      "ICON": 78
     },
     "pop_max": {
@@ -805,7 +805,7 @@
      "Euro": 0.01,
      "ICON": 0.0
     },
-    "high_spread_f": 2
+    "high_spread_f": 1
    },
    {
     "date": "2026-07-24",
@@ -830,7 +830,7 @@
     "date": "2026-07-25",
     "high_f": {
      "GFS": 84,
-     "Euro": 86,
+     "Euro": 87,
      "ICON": 85
     },
     "pop_max": {
@@ -843,7 +843,7 @@
      "Euro": 0.0,
      "ICON": 0.0
     },
-    "high_spread_f": 2
+    "high_spread_f": 3
    }
   ]
  }
