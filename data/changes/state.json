@@ -410,32 +410,6 @@
  },
  "civicclerk": {
   "meetings": {
-   "10058": {
-    "name": "Development Review Board",
-    "start": "2026-07-21T17:00:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Agenda V1"
-    ]
-   },
-   "10066": {
-    "name": "Development Review Board Meeting",
-    "start": "2026-07-21T17:00:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Agenda V2",
-     "Packet V2"
-    ]
-   },
-   "10079": {
-    "name": "REIB City Council Committee Meeting",
-    "start": "2026-07-21T17:30:00+00:00",
-    "hasAgenda": true,
-    "files": [
-     "Agenda v1",
-     "Agenda Packet v1"
-    ]
-   },
    "10082": {
     "name": "planBTV New North End Community Meeting",
     "start": "2026-07-22T18:30:00+00:00",
@@ -527,6 +501,18 @@
    "9961": {
     "name": "Planning Commission Meeting - Collaborative Working Group on Inclusionary Zoning",
     "start": "2026-08-11T18:30:00+00:00",
+    "hasAgenda": false,
+    "files": []
+   },
+   "7753": {
+    "name": "Burlington Electric Commission",
+    "start": "2026-08-12T17:00:00+00:00",
+    "hasAgenda": false,
+    "files": []
+   },
+   "10022": {
+    "name": "Burlington Electric Commission",
+    "start": "2026-08-12T17:30:00+00:00",
     "hasAgenda": false,
     "files": []
    }
@@ -839,18 +825,18 @@
       "summary": "Amanda Janoo and Aly Richards are vying for the Democratic nomination to be Vermont's next top elected official."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
-      "title": "Middlebury College researcher banned from animal lab following rat accident",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
-      "ts": "2026-07-23T09:00:00+00:00",
-      "summary": "The incident isn’t the first time compliance issues have cropped up during rat-based research at the college."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
       "title": "Vermont political candidates are flouting campaign finance laws, report finds",
       "link": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
       "ts": "2026-07-23T09:00:00+00:00",
       "summary": "Vermont law requires candidates for state, county and municipal offices to disclose the sources of their campaign contributions, but a new report finds that 20% of candidates running this year haven't filed reports."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
+      "title": "Middlebury College researcher banned from animal lab following rat accident",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
+      "ts": "2026-07-23T09:00:00+00:00",
+      "summary": "The incident isn’t the first time compliance issues have cropped up during rat-based research at the college."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-22/brattleboro-contemplates-raising-tax-money-keep-birth-center-open",
@@ -913,6 +899,27 @@
    "wcax": {
     "items": [
      {
+      "id": "S5BHETCDUVAKVCHCEVCCKOQH3I",
+      "title": "Vermont Gallium Nitride Tech Hub opens in South Burlington",
+      "link": "https://www.wcax.com/2026/07/24/vermont-gallium-nitride-tech-hub-opens-south-burlington/",
+      "ts": "2026-07-24T02:53:26+00:00",
+      "summary": "A new technology lab opening in South Burlington aims to make semiconductor production less costly and more accessible for regional tech companies."
+     },
+     {
+      "id": "VQW4QLHQSNAAHGNQFTQW3GIYOA",
+      "title": "Bicyclist hurt in crash with car",
+      "link": "https://www.wcax.com/2026/07/24/bicyclist-hurt-crash-with-car/",
+      "ts": "2026-07-24T01:12:09+00:00",
+      "summary": "Vermont State Police say a bicyclist was minorly hurt after being hit by a car."
+     },
+     {
+      "id": "PBSGAXI7K5B7DOJUZ42YZTVZRU",
+      "title": "Boil-water order for Montpelier due to water main break",
+      "link": "https://www.wcax.com/2026/07/23/boil-water-notice-montpelier-due-water-main-break/",
+      "ts": "2026-07-23T23:43:53+00:00",
+      "summary": "A water main break on Elm Street Thursday has resulted in a boil-water notice for most of Montpelier"
+     },
+     {
       "id": "ITFDNBQYYFFQJFG67Q3C5DFPDU",
       "title": "At Grandpa’s Snack Shack, Super Senior serves sarcasm on the side",
       "link": "https://www.wcax.com/2026/07/23/grandpas-snack-shack-super-senior-serves-sarcasm-side/",
@@ -938,7 +945,7 @@
       "title": "Campaign Countdown: Democrats for Chittenden County sheriff",
       "link": "https://www.wcax.com/2026/07/23/campaign-countdown-democrats-chittenden-county-sheriff/",
       "ts": "2026-07-23T22:02:53+00:00",
-      "summary": "The sheriff's primary features two candidates with vastly different backgrounds and visions for the job."
+      "summary": "The primary features two candidates with vastly different backgrounds and visions for the job."
      },
      {
       "id": "GCK42CNHW5H3BAFW4AECYSPEB4",
@@ -1058,13 +1065,6 @@
       "link": "https://www.wcax.com/2026/07/23/police-identify-man-who-drowned-lake-champlain/",
       "ts": "2026-07-23T18:59:51+00:00",
       "summary": "Investigators say the 86-year-old man's body was found on the western shore of North Hero on July 14."
-     },
-     {
-      "id": "PBSGAXI7K5B7DOJUZ42YZTVZRU",
-      "title": "Boil-water order for Montpelier due to water main break",
-      "link": "https://www.wcax.com/2026/07/23/boil-water-notice-montpelier-due-water-main-break/",
-      "ts": "2026-07-23T17:37:41+00:00",
-      "summary": "A water main break on Elm Street Thursday has resulted in a boil-water notice for most of Montpelier"
      },
      {
       "id": "ORZIN5FARFGOROMT6UCVNEJ7HA",
@@ -1247,31 +1247,80 @@
       "link": "https://www.wcax.com/2026/07/22/police-search-truck-after-illegal-tire-dumping-state-forest/",
       "ts": "2026-07-22T10:31:39+00:00",
       "summary": "Vermont police are looking for whoever illegally dumped 40 tires in the Willoughby State Forest on Tuesday"
-     },
-     {
-      "id": "YQGPMVN4WNDVNPPW3VGBUQ5JHU",
-      "title": "Rutland native takes third place at Berklee College songwriting competition",
-      "link": "https://www.wcax.com/2026/07/22/rutland-native-brigham-cooper-takes-third-place-berklee-college-songwriting-competition/",
-      "ts": "2026-07-22T03:01:25+00:00",
-      "summary": "A Rutland native is being recognized as a winner at a prestigious songwriting competition."
-     },
-     {
-      "id": "WK6FUXL63BASJN6JSLTNNUTTXI",
-      "title": "Boat clocked going 157 mph in St. Lawrence River during Poker Run; team ticketed",
-      "link": "https://www.wcax.com/2026/07/21/boat-clocked-going-157-mph-st-lawrence-river-during-poker-run-boater-arrested/",
-      "ts": "2026-07-22T00:57:21+00:00",
-      "summary": "A boat participating in the 1000 Islands Charity Poker Run was clocked traveling 157 mph near the Thousand Islands Bridge over the weekend, an area of the St. Lawrence River with a 30 mph speed limit."
      }
     ]
    },
    "mynbc5": {
     "items": [
      {
+      "id": "73251735",
+      "title": "'I'm just glad nobody got hurt': Pilot reflects after Lake Seymour plane recovery",
+      "link": "https://www.mynbc5.com/article/lake-seymour-plane-recovery/73251735",
+      "ts": "2026-07-24T03:19:00+00:00",
+      "summary": "Lake Seymour plane crash pilot reflects after aircraft is recovered."
+     },
+     {
+      "id": "73251478",
+      "title": "How President Trump's new round of tariffs could impact hockey culture in Vermont",
+      "link": "https://www.mynbc5.com/article/canadian-tariffs-hockey-sticks-vermonter-wallets/73251478",
+      "ts": "2026-07-24T03:15:00+00:00",
+      "summary": "President Trump's tariffs could be hitting hockey sticks next. How local Vermont store owners think rising prices is making the sport less accessible."
+     },
+     {
+      "id": "73249366",
+      "title": "HITS Vermont Summer Festival back in East Dorset",
+      "link": "https://www.mynbc5.com/article/hits-vermont-summer-festival-back-in-east-dorset/73249366",
+      "ts": "2026-07-24T03:09:00+00:00",
+      "summary": "Annual horse show features riders and horse of all varieties in six-week long competition"
+     },
+     {
+      "id": "73251997",
+      "title": "Video shows wild rollover crash that blocked a busy Boston tunnel",
+      "link": "https://www.mynbc5.com/article/rollover-crash-blocks-traffic-boston-tunnel/73251997",
+      "ts": "2026-07-24T03:08:00+00:00",
+      "summary": "Video shows a rollover crash that brought traffic to a stop inside a busy Boston tunnel Thursday morning."
+     },
+     {
+      "id": "73251862",
+      "title": "Honoring a hero: Strangers show up for veteran who passed away with no know family",
+      "link": "https://www.mynbc5.com/article/veteran-funeral-strangers-honor-no-family-missouri/73251862",
+      "ts": "2026-07-24T02:10:00+00:00",
+      "summary": "After a Missouri veterans cemetery put out a call for support for the funeral of a veteran with no known family, kind strangers made sure he received an honorable goodbye."
+     },
+     {
+      "id": "73250823",
+      "title": "Trump fetes Dodgers at the White House again, saying the team is 'one of the great brands'",
+      "link": "https://www.mynbc5.com/article/trump-dodgers-white-house/73250823",
+      "ts": "2026-07-24T01:11:00+00:00",
+      "summary": "President Donald Trump has celebrated the Los Angeles Dodgers at the White House, calling the team \"one of the great brands anywhere in the world.\""
+     },
+     {
+      "id": "73251209",
+      "title": "Leopard tranquilized, captured after escaping exhibit due to human error, a South Carolina zoo says",
+      "link": "https://www.mynbc5.com/article/leopard-escaped-zoo-south-carolina/73251209",
+      "ts": "2026-07-24T00:52:00+00:00",
+      "summary": "A South Carolina zoo says a leopard named Irina escaped her enclosure because of human error, but officials say it was tranquilized and captured safely."
+     },
+     {
       "id": "73250216",
       "title": "'Jimothy' the raccoon becomes pop culture star with bobblehead and Google animation",
       "link": "https://www.mynbc5.com/article/raccoon-jimothy-bobblehead/73250216",
-      "ts": "2026-07-23T22:58:00+00:00",
+      "ts": "2026-07-23T23:55:00+00:00",
       "summary": "Jimothy, a uniquely shaped raccoon, has become an internet sensation. Now he's getting a bobblehead."
+     },
+     {
+      "id": "73250850",
+      "title": "Unauthorized login attack may have exposed Chick-fil-A customer data",
+      "link": "https://www.mynbc5.com/article/chick-fil-a-customers-data-breach/73250850",
+      "ts": "2026-07-23T23:47:00+00:00",
+      "summary": "Chick-fil-A One members in several states are being told to change passwords after suspicious login activity may have exposed account data."
+     },
+     {
+      "id": "73248987",
+      "title": "Swimming closure at Plattsburgh beach not stopping fun in the sun",
+      "link": "https://www.mynbc5.com/article/beachgoers-enjoy-sun-sand-water-closed-plattsburgh-city-beach/73248987",
+      "ts": "2026-07-23T23:43:00+00:00",
+      "summary": "Beachgoers are still finding ways to enjoy the sun and temperatures in Plattsburgh without getting into the water."
      },
      {
       "id": "73250902",
@@ -1342,69 +1391,6 @@
       "link": "https://www.mynbc5.com/article/nyt-reporters-subpoena-dropped/73249178",
       "ts": "2026-07-23T21:52:00+00:00",
       "summary": "The government has withdrawn subpoenas seeking New York Times reporters’ testimony on sources for stories about the president’s Qatari-gifted Air Force One jet."
-     },
-     {
-      "id": "73250064",
-      "title": "Plas Johnson, pioneering jazz musician known for ‘Pink Panther,’ dead at 94",
-      "link": "https://www.mynbc5.com/article/plas-johnson-saxaphone-pink-panther-dead-at-94/73250064",
-      "ts": "2026-07-23T21:47:00+00:00",
-      "summary": "A pioneering jazz musician, known for one of the most famous saxophone solos in music history, has died."
-     },
-     {
-      "id": "73249409",
-      "title": "What's up with the new Burger King guarantee? Do other fast-food places have similar policies?",
-      "link": "https://www.mynbc5.com/article/burger-king-guarantee-fast-food-policies/73249409",
-      "ts": "2026-07-23T21:45:00+00:00",
-      "summary": "What is Burger King's \"Whopper Guarantee,\" and do other fast-food chains offer similar policies?"
-     },
-     {
-      "id": "73248930",
-      "title": "Full Buck Moon takes over the night sky this week | What to know",
-      "link": "https://www.mynbc5.com/article/full-buck-moon-takes-over-the-night-sky-this-week-what-to-know-astronomy-stargazing/73248930",
-      "ts": "2026-07-23T21:45:00+00:00",
-      "summary": "Now that we are squarely in summer, it’s time for the Buck Moon of late July, which is so named because this time of summer is when deer rapidly regrow their antlers."
-     },
-     {
-      "id": "73250408",
-      "title": "New Hampshire students OK after bus hit by tree during field trip",
-      "link": "https://www.mynbc5.com/article/claremont-school-district-bus-hit-by-tree/73250408",
-      "ts": "2026-07-23T21:42:00+00:00",
-      "summary": "Students from the Claremont School District are OK after a tree fell on their bus during a field trip on Wednesday."
-     },
-     {
-      "id": "73250221",
-      "title": "Latest poll shows Vermont Gov. Phil Scott's approval ratings continue to decline",
-      "link": "https://www.mynbc5.com/article/phil-scott-approval-rating-poll-2026/73250221",
-      "ts": "2026-07-23T21:41:00+00:00",
-      "summary": "New data from the University of New Hampshire's Green Mountain State Poll shows that Vermont Gov. Phil Scott's approval rating has declined again as the primaries near."
-     },
-     {
-      "id": "73249374",
-      "title": "Hospital in Cheshire County confirms 9 cases of cyclosporiasis from contaminated lettuce",
-      "link": "https://www.mynbc5.com/article/cyclosporiasis-cheshire-medical-center-keene/73249374",
-      "ts": "2026-07-23T21:13:00+00:00",
-      "summary": "Nine cases of cyclosporiasis have been confirmed from people who ate contaminated lettuce from the Cheshire Medical Center cafeteria in Keene, New Hampshire."
-     },
-     {
-      "id": "73250042",
-      "title": "Canadian-American woman pleads guilty in deadly human smuggling case",
-      "link": "https://www.mynbc5.com/article/canadian-american-woman-pleads-guilty-in-deadly-human-smuggling-case/73250042",
-      "ts": "2026-07-23T21:12:00+00:00",
-      "summary": "A sixth and final person has pleaded guilty to their role in human smuggling job turned deadly that led to the deaths of a five people."
-     },
-     {
-      "id": "73240469",
-      "title": "Wisconsin police officer shoots, kills man on city street near state Capitol in Madison",
-      "link": "https://www.mynbc5.com/article/madison-wisconsin-police-deadly-shooting/73240469",
-      "ts": "2026-07-23T21:06:00+00:00",
-      "summary": "A Wisconsin police officer fired three shots at point-blank range at a man who he and other officers were trying to take into custody in the middle of a street Wednesday."
-     },
-     {
-      "id": "73249032",
-      "title": "New Crumbl location to open in Plattsburgh",
-      "link": "https://www.mynbc5.com/article/crumbl-location-in-plattsburgh/73249032",
-      "ts": "2026-07-23T21:06:00+00:00",
-      "summary": "A new Crumbl cookie location will celebrate its grand opening Friday in Plattsburgh's Commerce Square after hosting a ribbon cutting ceremony and soft opening on Thursday."
      }
     ]
    },
