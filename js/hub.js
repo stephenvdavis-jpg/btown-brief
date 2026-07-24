@@ -334,7 +334,7 @@
     /* Things To Do is a fixed figure, not a fetched one — so nothing else would
        ever set it, and it would be the one tile sitting still while the other
        three rolled. Roll it too. */
-    countUp('things-count', 202, function (n) { return n + '+'; });
+    countUp('things-count', 206, function (n) { return n + '+'; });
 
     // The sky is the whole point — paint it first, and keep it honest
     // by repainting every minute so an open tab doesn't drift.

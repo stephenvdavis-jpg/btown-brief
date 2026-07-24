@@ -2235,6 +2235,367 @@
     "last_verified": "2026-06"
   },
   {
+    "id": "nectars",
+    "name": "Nectar's",
+    "group": "Live & Events",
+    "category": "Music Venue",
+    "neighborhood": "Downtown / Church St",
+    "cost_tier": "$",
+    "cost_note": "Many shows free or cheap; gravy fries a few bucks",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Evening",
+      "Late Night"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Groups & Friends",
+      "Date Night",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Iconic",
+      "Lively",
+      "Local Institution"
+    ],
+    "blurb": "The Main Street club under the revolving neon sign has booked bands nearly every night since 1975 — most famously a young Phish, who played their first real gigs here. Come for a band you've never heard of, stay for the gravy fries.",
+    "why_special": "This is the room where Burlington's biggest musical export got its start, and it still runs on the same formula: cheap shows, late hours, and gravy fries at the bar.",
+    "address": "188 Main Street, Burlington, VT",
+    "coords": [
+      44.4763,
+      -73.2124
+    ],
+    "website": "https://liveatnectars.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
+    "id": "battery-park",
+    "name": "Battery Park",
+    "group": "Outdoors",
+    "category": "Park & Green Space",
+    "neighborhood": "Waterfront",
+    "cost_tier": "Free",
+    "cost_note": "Free",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Sunny Day",
+      "Quick Stop",
+      "Solo",
+      "Visitors"
+    ],
+    "vibe": [
+      "Scenic",
+      "Historic",
+      "Underrated"
+    ],
+    "blurb": "The bluff-top park at the north end of Battery Street looks down on the lake from a hundred feet up — the wide-angle version of the waterfront view. An American shore battery here traded fire with British ships in 1813; these days the summer artillery is a long-running free concert series.",
+    "why_special": "Everyone heads down to the water; the elevated view from the bluff is the one locals use for storm-watching, and it comes with an actual battle in its history.",
+    "address": "Battery Street at Pearl Street, Burlington, VT",
+    "coords": [
+      44.4818,
+      -73.2187
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
+    "id": "moran-frame",
+    "name": "The Moran Frame",
+    "group": "Culture",
+    "category": "Gallery & Public Art",
+    "neighborhood": "Waterfront",
+    "cost_tier": "Free",
+    "cost_note": "Free",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Quick Stop",
+      "Solo",
+      "Visitors"
+    ],
+    "vibe": [
+      "Quirky",
+      "Iconic",
+      "Lakeside"
+    ],
+    "blurb": "The steel skeleton of the 1950s Moran coal power plant, stripped to its frame and reopened in 2021 as an open-air landmark at the north end of Waterfront Park. Wander under the girders, catch an installation or pop-up event, and watch the sunset through a building-sized picture frame.",
+    "why_special": "Most cities demolish their industrial ruins; Burlington turned its old coal plant into a monument that frames the lake.",
+    "address": "Lake Street, north end of Waterfront Park, Burlington, VT",
+    "coords": [
+      44.4838,
+      -73.2216
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
+    "id": "salmon-hole",
+    "name": "Salmon Hole",
+    "group": "Outdoors",
+    "category": "Scenic Spot",
+    "neighborhood": "Winooski",
+    "cost_tier": "Free",
+    "cost_note": "Free",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Solo",
+      "Locals' Pick",
+      "Quick Stop"
+    ],
+    "vibe": [
+      "Scenic",
+      "Underrated"
+    ],
+    "blurb": "The broad pool below the Winooski falls, ringed by bare rock ledges — one of the most storied fishing holes in Vermont, with short trails down from both banks. Anglers work it for salmon, steelhead, and bass; everyone else scrambles the ledges and watches the river do its thing.",
+    "why_special": "A five-minute walk from downtown Winooski puts you on open bedrock in a river gorge that thousands of people drive past daily without noticing.",
+    "address": "Riverside Avenue at the Winooski Bridge, Burlington, VT",
+    "coords": [
+      44.4872,
+      -73.1897
+    ],
+    "website": "https://www.wvpd.org/salmon-hole",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
+    "id": "shelburne-orchards",
+    "name": "Shelburne Orchards",
+    "group": "Do & Play",
+    "category": "Activity & Experience",
+    "neighborhood": "Shelburne",
+    "cost_tier": "$",
+    "cost_note": "Pay by the bag during picking season",
+    "season": [
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Family & Kids",
+      "Date Night",
+      "Sunny Day"
+    ],
+    "vibe": [
+      "Scenic",
+      "Local Institution"
+    ],
+    "blurb": "A third-generation orchard on the lake side of Shelburne where you pick your own apples with the Adirondacks stacked behind the rows. The ciderhouse pours fresh-pressed cider, and the farm distills its own Dead Bird apple brandy.",
+    "why_special": "Apple picking is the Vermont fall rite, and this is the version with a lake view — plus a barn that smells like cider all season.",
+    "address": "216 Orchard Road, Shelburne, VT",
+    "coords": [
+      44.3672,
+      -73.2553
+    ],
+    "website": "https://shelburneorchards.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
+    "id": "cochrans-ski-area",
+    "name": "Cochran's Ski Area",
+    "group": "Do & Play",
+    "category": "Sports & Recreation",
+    "neighborhood": "Greater Burlington",
+    "cost_tier": "$",
+    "cost_note": "Lift tickets a fraction of resort prices",
+    "season": [
+      "Winter"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Family & Kids",
+      "Groups & Friends",
+      "Locals' Pick"
+    ],
+    "vibe": [
+      "Local Institution",
+      "Laid-back",
+      "Kid-Friendly"
+    ],
+    "blurb": "A nonprofit community ski hill in Richmond run by the Cochran family since 1961 — surface lifts, tiny prices, and half of Chittenden County's kids learning to turn. Twenty-five minutes from downtown.",
+    "why_special": "Skiing as a community utility: cheap, volunteer-powered, and good enough to raise Olympic medalists — Barbara Ann Cochran's 1972 gold and Ryan Cochran-Siegle's 2022 silver both started on this hill.",
+    "address": "910 Cochran Road, Richmond, VT",
+    "coords": [
+      44.3873,
+      -72.9858
+    ],
+    "website": "https://cochranskiarea.com",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
+    "id": "smugglers-notch-drive",
+    "name": "Smugglers' Notch (Route 108)",
+    "group": "Outdoors",
+    "category": "Scenic Spot",
+    "neighborhood": "Greater Burlington",
+    "cost_tier": "Free",
+    "cost_note": "Free",
+    "season": [
+      "Summer",
+      "Fall"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Visitors",
+      "Sunny Day",
+      "Half Day"
+    ],
+    "vibe": [
+      "Scenic",
+      "Iconic"
+    ],
+    "blurb": "Route 108 squeezes through a thousand-foot cleft between Mount Mansfield and Spruce Peak in hairpins so tight that trucks are banned. Park at the height of land and scramble among house-sized boulders that hid smugglers during the 1807 embargo and bootleggers a century later. Closed to cars in winter.",
+    "why_special": "The most dramatic road in Vermont is 40 minutes from Burlington and free — foliage season through the Notch is a rite of passage.",
+    "address": "VT Route 108 between Jeffersonville and Stowe, VT",
+    "coords": [
+      44.5559,
+      -72.7929
+    ],
+    "website": "https://vtstateparks.com/smugglers.html",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
+    "id": "delta-park",
+    "name": "Delta Park",
+    "group": "Outdoors",
+    "category": "Park & Green Space",
+    "neighborhood": "Colchester",
+    "cost_tier": "Free",
+    "cost_note": "Free",
+    "season": [
+      "Year-Round"
+    ],
+    "time_of_day": [
+      "Morning",
+      "Afternoon"
+    ],
+    "indoor_outdoor": "Outdoor",
+    "good_for": [
+      "Solo",
+      "Family & Kids",
+      "Quick Stop"
+    ],
+    "vibe": [
+      "Scenic",
+      "Underrated"
+    ],
+    "blurb": "A boardwalk winds through silver-maple floodplain forest to the sandy spot where the Winooski River empties into Lake Champlain. One of the county's best birding sites — herons, waterfowl, spring migrants — and it connects straight onto the bike path near the causeway.",
+    "why_special": "River-delta wetlands like this are rare on Champlain, and the boardwalk lets you stand in the middle of one with dry feet.",
+    "address": "Windemere Way, Colchester, VT",
+    "coords": [
+      44.5062,
+      -73.2513
+    ],
+    "website": "https://www.wvpd.org/delta-park",
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
+    "id": "leddy-arena",
+    "name": "Leddy Park Arena (Gordon H. Paquette Ice Arena)",
+    "group": "Do & Play",
+    "category": "Sports & Recreation",
+    "neighborhood": "New North End",
+    "cost_tier": "$",
+    "cost_note": "Public-skate admission a few dollars; rentals available",
+    "season": [
+      "Fall",
+      "Winter",
+      "Spring"
+    ],
+    "time_of_day": [
+      "Afternoon",
+      "Evening"
+    ],
+    "indoor_outdoor": "Indoor",
+    "good_for": [
+      "Family & Kids",
+      "Rainy Day",
+      "Groups & Friends"
+    ],
+    "vibe": [
+      "Kid-Friendly",
+      "Laid-back",
+      "Local Institution"
+    ],
+    "blurb": "Burlington's city-run indoor rink at Leddy Park, with public skating sessions, stick-and-puck hours, and learn-to-skate programs through the cold months. Skate rentals at the counter make it a zero-gear outing.",
+    "why_special": "An indoor rink two minutes' walk from a lake beach — winter and summer Burlington in one park, and public skate costs less than a movie ticket.",
+    "address": "216 Leddy Park Road, Burlington, VT",
+    "coords": [
+      44.5009,
+      -73.245
+    ],
+    "website": null,
+    "image": null,
+    "has_guide": false,
+    "guide_id": null,
+    "source": "btownbrief.com / verified",
+    "last_verified": "2026-07"
+  },
+  {
     "id": "discover-jazz-festival",
     "name": "Burlington Discover Jazz Festival",
     "group": "Live & Events",

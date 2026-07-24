@@ -113,9 +113,9 @@
     // Hide loading, show content
     hide('loading-state');
 
-    // Intro headline count ("202+") + default the sort control to Random
+    // Intro headline count (actual evergreen list size) + default the sort control to Random
     const introCount = document.getElementById('intro-count');
-    if (introCount) introCount.textContent = '202+';
+    if (introCount && state.things.length) introCount.textContent = String(state.things.length);
     const sortSelect = document.getElementById('sort-select');
     if (sortSelect) sortSelect.value = state.sort;
 
