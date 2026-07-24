@@ -1,72 +1,6 @@
 {
- "generated": "2026-07-24T11:58:39+00:00",
+ "generated": "2026-07-24T14:18:11+00:00",
  "events": [
-  {
-   "ts": "2026-07-17T12:30:00+00:00",
-   "category": "weather",
-   "headline": "Air Quality Alert has ended",
-   "detail": "Air Quality Alert issued July 16 at 8:29AM EDT by NWS Burlington VT",
-   "url": "https://forecast.weather.gov/MapClick.php?lat=44.4759&lon=-73.2121",
-   "source": "nws-weather",
-   "sourceName": "NWS Burlington",
-   "priority": 2,
-   "kind": "status"
-  },
-  {
-   "ts": "2026-07-17T12:48:09+00:00",
-   "category": "news",
-   "headline": "Beer here! Starting Friday night in Burlington",
-   "detail": "",
-   "url": "https://www.wcax.com/2026/07/17/beer-here-starting-friday-night-burlington/",
-   "source": "wcax",
-   "sourceName": "WCAX",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-17T14:04:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Boycott Ben & Jerry's!",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uz0bxv/boycott_ben_jerrys/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-17T14:04:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Music mixing",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uyzlsd/music_mixing/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-17T14:04:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Conress passes to make daylight saving time. Calling it \"Sunshine Protection Act\"",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uyz525/conress_passes_to_make_daylight_saving_time/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
-  {
-   "ts": "2026-07-17T14:04:02+00:00",
-   "category": "chatter",
-   "headline": "New on r/burlington: Honda Odyssey Owners",
-   "detail": "",
-   "url": "https://www.reddit.com/r/burlington/comments/1uyobie/honda_odyssey_owners/",
-   "source": "reddit-burlington",
-   "sourceName": "r/burlington",
-   "priority": 1,
-   "kind": "added"
-  },
   {
    "ts": "2026-07-17T14:20:53+00:00",
    "category": "news",
@@ -2320,6 +2254,28 @@
    "source": "events-local",
    "sourceName": "BTown Brief events",
    "priority": 1,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-24T13:13:11+00:00",
+   "category": "news",
+   "headline": "Closed 7/24 from 8:45 - 10:00am.",
+   "detail": "",
+   "url": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3858",
+   "source": "btv-news-releases",
+   "sourceName": "City of Burlington",
+   "priority": 2,
+   "kind": "added"
+  },
+  {
+   "ts": "2026-07-24T14:14:50+00:00",
+   "category": "roads",
+   "headline": "GMT: Service Alert :: Essex Junction",
+   "detail": "",
+   "url": "https://ridegmt.com/service-alert-essex-junction-2/",
+   "source": "gmt-alerts",
+   "sourceName": "Green Mountain Transit",
+   "priority": 2,
    "kind": "added"
   }
  ]

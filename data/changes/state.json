@@ -372,6 +372,13 @@
  "gmt-alerts": {
   "items": [
    {
+    "id": "https://ridegmt.com/?p=24793",
+    "title": "Service Alert :: Essex Junction",
+    "link": "https://ridegmt.com/service-alert-essex-junction-2/",
+    "ts": "2026-07-24T14:14:50+00:00",
+    "summary": "The July 24 10:00 AM toward Essex Junction is experiencing significant delays of approximately 10 minutes due to maintenance. We apologize for the inconvenience."
+   },
+   {
     "id": "https://ridegmt.com/?p=24075",
     "title": "Downtown Transit Center Hours Changing",
     "link": "https://ridegmt.com/downtown-transit-center-hours-changing/",
@@ -597,6 +604,20 @@
    "vtdigger": {
     "items": [
      {
+      "id": "https://vtdigger.org/?p=652065",
+      "title": "Help VTDigger reach 500 supporters before midnight Saturday",
+      "link": "https://vtdigger.org/2026/07/24/help-vtdigger-reach-500-supporters-before-midnight-saturday/",
+      "ts": "2026-07-24T13:35:26+00:00",
+      "summary": "Every gift made before the July Member Drive ends is matched. Join the readers who power independent journalism in Vermont. Read the story on VTDigger here: Help VTDigger reach 500 supporters before midnight Saturday ."
+     },
+     {
+      "id": "https://vtdigger.org/?p=652033",
+      "title": "VTDigger is hiring fall reporting interns",
+      "link": "https://vtdigger.org/2026/07/24/vtdigger-is-hiring-fall-reporting-interns/",
+      "ts": "2026-07-24T12:15:00+00:00",
+      "summary": "Applications for the paid Jim Welch Internship Program are due Aug. 7. Read the story on VTDigger here: VTDigger is hiring fall reporting interns ."
+     },
+     {
       "id": "https://vtdigger.org/?p=652029",
       "title": "Wanted: Large space for 100-bed emergency shelter in Chittenden County",
       "link": "https://vtdigger.org/2026/07/24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county/",
@@ -791,38 +812,24 @@
       "link": "https://vtdigger.org/2026/07/20/opinion-why-do-animal-rights-groups-hate-vermont/",
       "ts": "2026-07-20T21:21:32+00:00",
       "summary": "Animal rights groups, not hunters and anglers, are driving the divide over Vermont wildlife policy. Read the story on VTDigger here: Why do animal rights groups hate Vermont? ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651749",
-      "title": "Vermont’s Catholic Church aims to protect Rice Memorial High by selling the parochial school to supporters",
-      "link": "https://vtdigger.org/2026/07/20/vermonts-catholic-church-aims-to-protect-rice-memorial-high-by-selling-the-parochial-school-to-supporters/",
-      "ts": "2026-07-20T20:39:51+00:00",
-      "summary": "The state’s largest religious denomination hopes to shield the South Burlington campus from potential liquidation in U.S. Bankruptcy Court by offering it to a new nonprofit for $4.3 million. Read the story on VTDigger here: Vermont’s Catholic Church aims to protect Rice Memorial High by selling the parochial school to supporters ."
-     },
-     {
-      "id": "https://vtdigger.org/?p=651543",
-      "title": "In Vermont’s Democratic primary for lieutenant governor, leading candidates’ past work takes center stage",
-      "link": "https://vtdigger.org/2026/07/20/in-vermonts-democratic-primary-for-lieutenant-governor-leading-candidates-past-work-takes-center-stage/",
-      "ts": "2026-07-20T10:56:00+00:00",
-      "summary": "Molly Gray, who held the job from 2021-2023, says she’d be ready to hit the ground running. Ryan McLaren thinks otherwise: “We can do better than politicians from the past.” Read the story on VTDigger here: In Vermont’s Democratic primary for lieutenant governor, leading candidates’ past work takes center stage ."
      }
     ]
    },
    "vermont-public": {
     "items": [
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county",
-      "title": "Wanted: Large space for 100-bed emergency shelter in Chittenden County",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county",
-      "ts": "2026-07-24T09:00:00+00:00",
-      "summary": "If a suitable location is found, the year-round shelter would be the largest in the state, and could help stem the high number of people sleeping outdoors."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-24/cricket-blue-weaves-intricate-storylines-into-compact-and-complex-tunes",
       "title": "Cricket Blue weaves intricate storylines into compact and complex tunes",
       "link": "https://www.vermontpublic.org/local-news/2026-07-24/cricket-blue-weaves-intricate-storylines-into-compact-and-complex-tunes",
       "ts": "2026-07-24T09:00:00+00:00",
       "summary": "This week's Friday Song is \"Ella 1\" from the Vermont-based chamber folk duo."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county",
+      "title": "Wanted: Large space for 100-bed emergency shelter in Chittenden County",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-24/wanted-large-space-for-100-bed-emergency-shelter-in-chittenden-county",
+      "ts": "2026-07-24T09:00:00+00:00",
+      "summary": "If a suitable location is found, the year-round shelter would be the largest in the state, and could help stem the high number of people sleeping outdoors."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-23/mega-masters-hearings-pack-immigration-court-dockets-experts-say-its-a-strategy-to-deport-people-faster",
@@ -898,6 +905,13 @@
    },
    "wcax": {
     "items": [
+     {
+      "id": "SRLGDQDYEVCEFFIOXDN5G35L4I",
+      "title": "Tree falls on Claremont school bus",
+      "link": "https://www.wcax.com/2026/07/24/tree-falls-claremont-school-bus/",
+      "ts": "2026-07-24T12:10:02+00:00",
+      "summary": "A scary ride home for some Claremont, N.H. sixth graders on Wednesday when a falling tree slammed into their school bus"
+     },
      {
       "id": "6RM3AIIY6RA3PKNI56XXT3PBLI",
       "title": "Bakery on wheels provides opportunities for students",
@@ -1240,18 +1254,109 @@
       "link": "https://www.wcax.com/2026/07/22/man-93-dies-after-utv-overturns/",
       "ts": "2026-07-22T19:03:18+00:00",
       "summary": "A 93-year-old Ogdensburg, New York, man died Tuesday evening after the utility terrain vehicle he was driving overturned."
-     },
-     {
-      "id": "LXM6ANHU7BGZRF7LRCXBJEUVHU",
-      "title": "Video: Gillibrand, Hegseth clash over Iran war",
-      "link": "https://www.wcax.com/2026/07/22/video-gillibrand-hegseth-clash-over-iran-war/",
-      "ts": "2026-07-22T18:28:15+00:00",
-      "summary": "Sen. Kirsten Gillibrand (D-NY) and Defense Secretary Pete Hegseth sparred Tuesday over the U.S. war with Iran during a combative Senate Appropriations Committee hearing."
      }
     ]
    },
    "mynbc5": {
     "items": [
+     {
+      "id": "73256238",
+      "title": "Teenager pleads guilty in 2024 fatal shooting at Apalachee High School in Georgia",
+      "link": "https://www.mynbc5.com/article/colt-gray-georgia-high-school-shooting-pleads-guilty/73256238",
+      "ts": "2026-07-24T13:55:00+00:00",
+      "summary": "A teenager has pleaded guilty to all 55 counts in a deadly shooting nearly two years ago at Apalachee High School in Georgia."
+     },
+     {
+      "id": "73256330",
+      "title": "2026 Clinton County Fair wraps up",
+      "link": "https://www.mynbc5.com/article/2026-clinton-county-fair-wraps-up/73256330",
+      "ts": "2026-07-24T13:55:00+00:00",
+      "summary": "2026 Clinton County Fair wraps up"
+     },
+     {
+      "id": "73251735",
+      "title": "'I'm just glad nobody got hurt': Pilot reflects after Lake Seymour plane recovery",
+      "link": "https://www.mynbc5.com/article/lake-seymour-plane-recovery/73251735",
+      "ts": "2026-07-24T13:44:00+00:00",
+      "summary": "Lake Seymour plane crash pilot reflects after aircraft is recovered."
+     },
+     {
+      "id": "73255773",
+      "title": "Trump signals he may intensify military operations in Iran as tensions flare in the region",
+      "link": "https://www.mynbc5.com/article/trump-signals-intensify-military-operations-iran-tensions-flare/73255773",
+      "ts": "2026-07-24T13:42:00+00:00",
+      "summary": "President Donald Trump said Thursday he is considering intensifying military operations in Iran, as U.S. airstrikes entered their 13th consecutive night amid rising tensions in the region."
+     },
+     {
+      "id": "73221239",
+      "title": "Person accused of vandalizing Maxie's Deli in Rutland turns self in to police",
+      "link": "https://www.mynbc5.com/article/maxies-deli-rutland-vermont-vandalism/73221239",
+      "ts": "2026-07-24T13:38:00+00:00",
+      "summary": "On Tuesday, the Rutland City Police Department shared a Ring surveillance video showing a man appear to smash a window at Maxie's Deli on State Street."
+     },
+     {
+      "id": "73255731",
+      "title": "Barre man pleads not guilty to hate crime against a Jewish man in Hinesburg",
+      "link": "https://www.mynbc5.com/article/barre-man-pleads-not-guilty-to-hate-crime-against-a-jewish-man-in-hinesburg/73255731",
+      "ts": "2026-07-24T13:10:00+00:00",
+      "summary": "20-year-old charged with a hate crime ordered by a judge to have no contact with victim"
+     },
+     {
+      "id": "73250623",
+      "title": "Athens, Vermont couple grows homemade food shelf with international support",
+      "link": "https://www.mynbc5.com/article/athens-vermont-couple-grows-homemade-food-shelf-with-international-support/73250623",
+      "ts": "2026-07-24T13:05:00+00:00",
+      "summary": "A couple from Athens Vermont started a free food pantry in their front yard last fall and have continued to provide for their community for the last nine months, using donations sent from people all around the world"
+     },
+     {
+      "id": "73255736",
+      "title": "Teen whose cancer battle drew nationwide support has died",
+      "link": "https://www.mynbc5.com/article/will-roberts-teen-cancer-dies-at-15/73255736",
+      "ts": "2026-07-24T13:01:00+00:00",
+      "summary": "Will Roberts, a 15-year-old whose battle with cancer drew widespread support from thousands of people across the country, died early Thursday, his family announced in a Facebook post."
+     },
+     {
+      "id": "73255642",
+      "title": "Johnny Depp makes appearance as Ebenezer Scrooge at Comic-Con",
+      "link": "https://www.mynbc5.com/article/johnny-depp-ebenezer-scrooge-comic-con/73255642",
+      "ts": "2026-07-24T13:00:00+00:00",
+      "summary": "Johnny Depp has made an appearance outside Comic-Con in character as Ebenezer Scrooge. Wearing an overcoat and top hat, the actor scolded convention attendees as he emerged from a San Diego storefront marked with a \"Scrooge and Marley\" sign."
+     },
+     {
+      "id": "73251478",
+      "title": "How President Trump's new round of tariffs could impact hockey culture in Vermont",
+      "link": "https://www.mynbc5.com/article/canadian-tariffs-hockey-sticks-vermonter-wallets/73251478",
+      "ts": "2026-07-24T12:59:00+00:00",
+      "summary": "President Trump's tariffs could be hitting hockey sticks next. How local Vermont store owners think rising prices is making the sport less accessible."
+     },
+     {
+      "id": "73250902",
+      "title": "Vermont governor signs executive order promoting state advertising to support local media",
+      "link": "https://www.mynbc5.com/article/vt-governor-signs-executive-order-promoting-state-advertising-to-support-local-media/73250902",
+      "ts": "2026-07-24T12:55:00+00:00",
+      "summary": "New executive order promotes state advertising to support local media in Vermont"
+     },
+     {
+      "id": "73255532",
+      "title": "Hurricane Fausto strengthens into Category 2 storm, expected to approach Hawaiian Islands next week",
+      "link": "https://www.mynbc5.com/article/hurricane-fausto-hawaii-pacific-storm/73255532",
+      "ts": "2026-07-24T12:31:00+00:00",
+      "summary": "Hurricane Fausto strengthens into a Category 2 storm in the Pacific Ocean and is expected to approach the Hawaiian Islands next week, forecasters said"
+     },
+     {
+      "id": "73254826",
+      "title": "Trump administration imposes new tariffs accounting for 99% of US imports",
+      "link": "https://www.mynbc5.com/article/trump-administration-imposes-new-tariffs-99-us-imports/73254826",
+      "ts": "2026-07-24T12:23:00+00:00",
+      "summary": "President Donald Trump issued new tariffs on imports from 60 countries, citing inadequate enforcement of bans on goods made with forced labor, while exempting products like oil, gas and fertilizer."
+     },
+     {
+      "id": "73255460",
+      "title": "Singer Chris Brown pleads guilty to affray over an altercation at London nightclub",
+      "link": "https://www.mynbc5.com/article/chris-brown-pleads-guilty-affray-london-court/73255460",
+      "ts": "2026-07-24T12:14:00+00:00",
+      "summary": "Singer Chris Brown pleaded guilty in a London court to affray over an altercation at a London nightclub."
+     },
      {
       "id": "73255120",
       "title": "Christopher Anne Affleck, Ben and Casey Affleck’s mother, dies at 83",
@@ -1293,109 +1398,18 @@
       "link": "https://www.mynbc5.com/article/states-sue-trump-disaster-funding/73254170",
       "ts": "2026-07-24T09:29:00+00:00",
       "summary": "More than two dozen states sued the Trump administration for requiring them to comply with election and immigration conditions to receive disaster funding."
-     },
-     {
-      "id": "73252679",
-      "title": "Explosions heard near US base in northern Iraq after US strikes Iran",
-      "link": "https://www.mynbc5.com/article/us-strikes-iran-and-bahrain-warns-of-incoming-fire/73252679",
-      "ts": "2026-07-24T08:49:00+00:00",
-      "summary": "A series of explosions were heard near a military base hosting U.S. forces in northern Iraq, hours after the U.S. military had wrapped up another night of strikes against Iran."
-     },
-     {
-      "id": "73252539",
-      "title": "'Deep as your pinky toe': Driver recounts moment Jeep fell into sinkhole",
-      "link": "https://www.mynbc5.com/article/jeep-fell-into-sinkhole/73252539",
-      "ts": "2026-07-24T04:37:00+00:00",
-      "summary": "Kenneth Flowe said he was driving a rental Jeep slowly through what appeared to be shallow standing water when the pavement suddenly gave way."
-     },
-     {
-      "id": "73251735",
-      "title": "'I'm just glad nobody got hurt': Pilot reflects after Lake Seymour plane recovery",
-      "link": "https://www.mynbc5.com/article/lake-seymour-plane-recovery/73251735",
-      "ts": "2026-07-24T03:19:00+00:00",
-      "summary": "Lake Seymour plane crash pilot reflects after aircraft is recovered."
-     },
-     {
-      "id": "73251478",
-      "title": "How President Trump's new round of tariffs could impact hockey culture in Vermont",
-      "link": "https://www.mynbc5.com/article/canadian-tariffs-hockey-sticks-vermonter-wallets/73251478",
-      "ts": "2026-07-24T03:15:00+00:00",
-      "summary": "President Trump's tariffs could be hitting hockey sticks next. How local Vermont store owners think rising prices is making the sport less accessible."
-     },
-     {
-      "id": "73249366",
-      "title": "HITS Vermont Summer Festival back in East Dorset",
-      "link": "https://www.mynbc5.com/article/hits-vermont-summer-festival-back-in-east-dorset/73249366",
-      "ts": "2026-07-24T03:09:00+00:00",
-      "summary": "Annual horse show features riders and horse of all varieties in six-week long competition"
-     },
-     {
-      "id": "73251997",
-      "title": "Video shows wild rollover crash that blocked a busy Boston tunnel",
-      "link": "https://www.mynbc5.com/article/rollover-crash-blocks-traffic-boston-tunnel/73251997",
-      "ts": "2026-07-24T03:08:00+00:00",
-      "summary": "Video shows a rollover crash that brought traffic to a stop inside a busy Boston tunnel Thursday morning."
-     },
-     {
-      "id": "73251862",
-      "title": "Honoring a hero: Strangers show up for veteran who passed away with no know family",
-      "link": "https://www.mynbc5.com/article/veteran-funeral-strangers-honor-no-family-missouri/73251862",
-      "ts": "2026-07-24T02:10:00+00:00",
-      "summary": "After a Missouri veterans cemetery put out a call for support for the funeral of a veteran with no known family, kind strangers made sure he received an honorable goodbye."
-     },
-     {
-      "id": "73250823",
-      "title": "Trump fetes Dodgers at the White House again, saying the team is 'one of the great brands'",
-      "link": "https://www.mynbc5.com/article/trump-dodgers-white-house/73250823",
-      "ts": "2026-07-24T01:11:00+00:00",
-      "summary": "President Donald Trump has celebrated the Los Angeles Dodgers at the White House, calling the team \"one of the great brands anywhere in the world.\""
-     },
-     {
-      "id": "73251209",
-      "title": "Leopard tranquilized, captured after escaping exhibit due to human error, a South Carolina zoo says",
-      "link": "https://www.mynbc5.com/article/leopard-escaped-zoo-south-carolina/73251209",
-      "ts": "2026-07-24T00:52:00+00:00",
-      "summary": "A South Carolina zoo says a leopard named Irina escaped her enclosure because of human error, but officials say it was tranquilized and captured safely."
-     },
-     {
-      "id": "73250216",
-      "title": "'Jimothy' the raccoon becomes pop culture star with bobblehead and Google animation",
-      "link": "https://www.mynbc5.com/article/raccoon-jimothy-bobblehead/73250216",
-      "ts": "2026-07-23T23:55:00+00:00",
-      "summary": "Jimothy, a uniquely shaped raccoon, has become an internet sensation. Now he's getting a bobblehead."
-     },
-     {
-      "id": "73250850",
-      "title": "Unauthorized login attack may have exposed Chick-fil-A customer data",
-      "link": "https://www.mynbc5.com/article/chick-fil-a-customers-data-breach/73250850",
-      "ts": "2026-07-23T23:47:00+00:00",
-      "summary": "Chick-fil-A One members in several states are being told to change passwords after suspicious login activity may have exposed account data."
-     },
-     {
-      "id": "73248987",
-      "title": "Swimming closure at Plattsburgh beach not stopping fun in the sun",
-      "link": "https://www.mynbc5.com/article/beachgoers-enjoy-sun-sand-water-closed-plattsburgh-city-beach/73248987",
-      "ts": "2026-07-23T23:43:00+00:00",
-      "summary": "Beachgoers are still finding ways to enjoy the sun and temperatures in Plattsburgh without getting into the water."
-     },
-     {
-      "id": "73250902",
-      "title": "Vermont governor signs executive order promoting state advertising to support local media",
-      "link": "https://www.mynbc5.com/article/vt-governor-signs-executive-order-promoting-state-advertising-to-support-local-media/73250902",
-      "ts": "2026-07-23T22:54:00+00:00",
-      "summary": "New executive order promotes state advertising to support local media in Vermont"
-     },
-     {
-      "id": "73250714",
-      "title": "Vermont governor concerned for logging industry after paper mill drops pulp production",
-      "link": "https://www.mynbc5.com/article/vt-governor-concerned-for-logging-industry-after-paper-mill-drops-pulp-production/73250714",
-      "ts": "2026-07-23T22:45:00+00:00",
-      "summary": "Gov. Phil Scott says pulp production stop at New York mill will cause \"tremendous amount of harm\""
      }
     ]
    },
    "btv-news-releases": {
     "items": [
+     {
+      "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3858/639204775910000000",
+      "title": "Closed 7/24 from 8:45 - 10:00am.",
+      "link": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3858",
+      "ts": "2026-07-24T13:13:11+00:00",
+      "summary": "The Clerk Treasurer's Office will be closed on Friday, 7/24 from 8:45 - 10am for staff training"
+     },
      {
       "id": "https://www.burlingtonvt.gov/CivicAlerts.aspx?aid=3857/639203252330000000",
       "title": "UPDATE 07/05/2026 Aggravated Assault - Gunfire Incident | 26BU014857 and 26BU014859",
