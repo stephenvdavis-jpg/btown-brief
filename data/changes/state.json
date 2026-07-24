@@ -825,18 +825,18 @@
       "summary": "Amanda Janoo and Aly Richards are vying for the Democratic nomination to be Vermont's next top elected official."
      },
      {
-      "id": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
-      "title": "Vermont political candidates are flouting campaign finance laws, report finds",
-      "link": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
-      "ts": "2026-07-23T09:00:00+00:00",
-      "summary": "Vermont law requires candidates for state, county and municipal offices to disclose the sources of their campaign contributions, but a new report finds that 20% of candidates running this year haven't filed reports."
-     },
-     {
       "id": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
       "title": "Middlebury College researcher banned from animal lab following rat accident",
       "link": "https://www.vermontpublic.org/local-news/2026-07-23/middlebury-college-researcher-banned-animal-lab-rat-accident",
       "ts": "2026-07-23T09:00:00+00:00",
       "summary": "The incident isn’t the first time compliance issues have cropped up during rat-based research at the college."
+     },
+     {
+      "id": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
+      "title": "Vermont political candidates are flouting campaign finance laws, report finds",
+      "link": "https://www.vermontpublic.org/local-news/2026-07-23/political-candidates-flouting-campaign-finance-laws-report",
+      "ts": "2026-07-23T09:00:00+00:00",
+      "summary": "Vermont law requires candidates for state, county and municipal offices to disclose the sources of their campaign contributions, but a new report finds that 20% of candidates running this year haven't filed reports."
      },
      {
       "id": "https://www.vermontpublic.org/local-news/2026-07-22/brattleboro-contemplates-raising-tax-money-keep-birth-center-open",
@@ -1253,6 +1253,20 @@
    "mynbc5": {
     "items": [
      {
+      "id": "73252679",
+      "title": "US strikes Iran and Bahrain warns of incoming fire",
+      "link": "https://www.mynbc5.com/article/us-strikes-iran-and-bahrain-warns-of-incoming-fire/73252679",
+      "ts": "2026-07-24T05:40:00+00:00",
+      "summary": "Bahrain activated its sirens early Friday, warning residents to shelter from detected fire hours after the U.S. military said it had wrapped up its 13th night of strikes against Iran."
+     },
+     {
+      "id": "73252539",
+      "title": "'Deep as your pinky toe': Driver recounts moment Jeep fell into sinkhole",
+      "link": "https://www.mynbc5.com/article/jeep-fell-into-sinkhole/73252539",
+      "ts": "2026-07-24T04:37:00+00:00",
+      "summary": "Kenneth Flowe said he was driving a rental Jeep slowly through what appeared to be shallow standing water when the pavement suddenly gave way."
+     },
+     {
       "id": "73251735",
       "title": "'I'm just glad nobody got hurt': Pilot reflects after Lake Seymour plane recovery",
       "link": "https://www.mynbc5.com/article/lake-seymour-plane-recovery/73251735",
@@ -1377,20 +1391,6 @@
       "link": "https://www.mynbc5.com/article/beautiful-final-weekend-of-july72326/73250704",
       "ts": "2026-07-23T22:04:54+00:00",
       "summary": "Spot shower Sunday"
-     },
-     {
-      "id": "73242444",
-      "title": "Apartment fire displaces nine people in Chittenden County",
-      "link": "https://www.mynbc5.com/article/nine-displaced-burlington-fire/73242444",
-      "ts": "2026-07-23T21:56:00+00:00",
-      "summary": "At least nine people have been displaced after an apartment fire in Burlington. The fire department arrived to find heavy smoke and flames spreading to the second floor."
-     },
-     {
-      "id": "73249178",
-      "title": "Government withdraws subpoenas of 3 reporters for The New York Times after admitting legal errors",
-      "link": "https://www.mynbc5.com/article/nyt-reporters-subpoena-dropped/73249178",
-      "ts": "2026-07-23T21:52:00+00:00",
-      "summary": "The government has withdrawn subpoenas seeking New York Times reporters’ testimony on sources for stories about the president’s Qatari-gifted Air Force One jet."
      }
     ]
    },
