@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-24T11:21:58+00:00",
+ "updated": "2026-07-24T13:06:49+00:00",
  "sections_updated": {
-  "now": "2026-07-24T11:21:58+00:00",
-  "forecast": "2026-07-24T11:21:58+00:00",
-  "hourly": "2026-07-24T11:21:58+00:00",
-  "alerts": "2026-07-24T11:21:58+00:00",
-  "afd": "2026-07-24T11:21:58+00:00",
-  "lake_forecast": "2026-07-24T11:21:58+00:00",
+  "now": "2026-07-24T13:06:49+00:00",
+  "forecast": "2026-07-24T13:06:49+00:00",
+  "hourly": "2026-07-24T13:06:49+00:00",
+  "alerts": "2026-07-24T13:06:49+00:00",
+  "afd": "2026-07-24T13:06:49+00:00",
+  "lake_forecast": "2026-07-24T13:06:49+00:00",
   "lake_gage": "2026-07-24T11:21:58+00:00",
-  "air": "2026-07-24T11:21:58+00:00",
-  "sun": "2026-07-24T11:21:58+00:00",
-  "models": "2026-07-24T11:21:58+00:00"
+  "air": "2026-07-24T13:06:49+00:00",
+  "sun": "2026-07-24T13:06:49+00:00",
+  "models": "2026-07-24T13:06:49+00:00"
  },
  "now": {
-  "observed_at": "2026-07-24T11:05:00+00:00",
+  "observed_at": "2026-07-24T12:40:00+00:00",
   "station": "KBTV",
   "description": "Clear",
-  "temp_f": 57,
-  "feels_like_f": 57,
-  "humidity": 82,
-  "dewpoint_f": 52,
-  "wind_mph": 0,
+  "temp_f": 66,
+  "feels_like_f": 66,
+  "humidity": 56,
+  "dewpoint_f": 50,
+  "wind_mph": null,
   "wind_gust_mph": null,
-  "wind_dir": "N"
+  "wind_dir": null
  },
  "forecast": {
   "updated": "2026-07-24T06:10:25+00:00",
@@ -32,9 +32,9 @@
     "is_day": true,
     "temp_f": 83,
     "pop": 1,
-    "wind": "S 3 to 8 mph",
+    "wind": "S 6 mph",
     "short": "Sunny",
-    "detailed": "Sunny, with a high near 83. South wind 3 to 8 mph."
+    "detailed": "Sunny, with a high near 83. South wind around 6 mph."
    },
    {
     "name": "Tonight",
@@ -86,28 +86,6 @@
  "hourly": {
   "updated": "2026-07-24T06:10:25+00:00",
   "hours": [
-   {
-    "t": "2026-07-24T07:00:00-04:00",
-    "temp_f": 59,
-    "feels_f": 59,
-    "pop": 0,
-    "humidity": 78,
-    "wind_mph": 8,
-    "wind_dir": "S",
-    "sky": 3,
-    "short": "Sunny"
-   },
-   {
-    "t": "2026-07-24T08:00:00-04:00",
-    "temp_f": 62,
-    "feels_f": 62,
-    "pop": 0,
-    "humidity": 70,
-    "wind_mph": 7,
-    "wind_dir": "S",
-    "sky": 2,
-    "short": "Sunny"
-   },
    {
     "t": "2026-07-24T09:00:00-04:00",
     "temp_f": 66,
@@ -481,6 +459,28 @@
     "wind_dir": "S",
     "sky": 10,
     "short": "Mostly Clear"
+   },
+   {
+    "t": "2026-07-25T19:00:00-04:00",
+    "temp_f": 85,
+    "feels_f": 84,
+    "pop": 0,
+    "humidity": 40,
+    "wind_mph": 6,
+    "wind_dir": "S",
+    "sky": 9,
+    "short": "Mostly Clear"
+   },
+   {
+    "t": "2026-07-25T20:00:00-04:00",
+    "temp_f": 80,
+    "feels_f": 81,
+    "pop": 0,
+    "humidity": 51,
+    "wind_mph": 6,
+    "wind_dir": "S",
+    "sky": 21,
+    "short": "Mostly Clear"
    }
   ]
  },
@@ -746,10 +746,10 @@
  },
  "air": {
   "source": "AirNow (Burlington monitor)",
-  "aqi": 31,
+  "aqi": 29,
   "category": "Good",
-  "pollutant": "OZONE",
-  "observed": "07/24/26 7:00",
+  "pollutant": "PM2.5",
+  "observed": "07/24/26 8:00",
   "discussion": "Expect generally good air quality across Vermont for Friday, July 24th."
  },
  "sun": {
@@ -757,7 +757,7 @@
   "sunset": "2026-07-24T20:27-04:00",
   "sunrise_tomorrow": "2026-07-25T05:32-04:00",
   "sunset_tomorrow": "2026-07-25T20:26-04:00",
-  "uv_max": 7.2
+  "uv_max": 7.25
  },
  "models": {
   "days": [
@@ -802,7 +802,7 @@
    {
     "date": "2026-07-26",
     "high_f": {
-     "GFS": 85,
+     "GFS": 84,
      "Euro": 86,
      "ICON": 86
     },
@@ -816,7 +816,7 @@
      "Euro": 0.0,
      "ICON": 0.0
     },
-    "high_spread_f": 1
+    "high_spread_f": 2
    }
   ]
  }
